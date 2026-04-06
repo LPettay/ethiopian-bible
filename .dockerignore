@@ -1,0 +1,10 @@
+node_modules
+dist
+.git
+.github
+.vscode
+*.md
+.env*
+.DS_Store
+tests
+coverage

@@ -1,0 +1,3582 @@
+{
+  "book": "Num",
+  "chapter": 1,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወነበቦ ፡ እግዚአብሔር ፡ ለሙሴ ፡ በገዳም ፡ ዘሲና ፡ በውስተ ፡ ደብተራ ፡ ዘመርጡል ፡ አመ ፡ ርእሰ ፡ ሠርቀ ፡ ካልእ\n                  ፡ ወርኅ ፡ በካልእት ፡ ዓመት ፡ ዘወፅኡ ፡ እምድረ ፡ ግብጽ ፡ ወይቤሎ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነበቦ",
+          "t": "wänäbäbo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "በገዳም",
+          "t": "bägädamə",
+          "gl": ""
+        },
+        {
+          "g": "ዘሲና",
+          "t": "zäsina",
+          "gl": ""
+        },
+        {
+          "g": "በውስተ",
+          "t": "bäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ደብተራ",
+          "t": "däbətära",
+          "gl": ""
+        },
+        {
+          "g": "ዘመርጡል",
+          "t": "zämärəṭulə",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ርእሰ",
+          "t": "rəʾəsä",
+          "gl": ""
+        },
+        {
+          "g": "ሠርቀ",
+          "t": "śärəqä",
+          "gl": ""
+        },
+        {
+          "g": "ካልእ",
+          "t": "kaləʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወርኅ",
+          "t": "wärəḫə",
+          "gl": ""
+        },
+        {
+          "g": "በካልእት",
+          "t": "bäkaləʾətə",
+          "gl": ""
+        },
+        {
+          "g": "ዓመት",
+          "t": "ʿamätə",
+          "gl": ""
+        },
+        {
+          "g": "ዘወፅኡ",
+          "t": "zäwäṣ́əʾu",
+          "gl": ""
+        },
+        {
+          "g": "እምድረ",
+          "t": "ʾəmədərä",
+          "gl": ""
+        },
+        {
+          "g": "ግብጽ",
+          "t": "gəbəṣə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord spoke to Moses in the wilderness of Sina, in the tabernacle of witness, on the first day of the second month, in the second year of their departure from the land of Egypt, saying,",
+        "kjv": "And the LORD spake unto Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first day of the second month, in the second year after they were come out of the land of Egypt, saying,"
+      }
+    },
+    {
+      "num": 2,
+      "geez": "አኀዙ ፡ እምጥንቱ ፡ ወኈልቍዎሙ ፡ ለኵሉ ፡ ተዓይኖሙ ፡ ለደቂቀ ፡ እስራኤል ፡ በበነገዶሙ ፡ ወበበቤተ ፡ አበዊሆሙ ፡\n                  ወበበ ፡ አስማቲሆሙ ፡ ለለ ፡ አሐዱ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "አኀዙ",
+          "t": "ʾäḫäzu",
+          "gl": ""
+        },
+        {
+          "g": "እምጥንቱ",
+          "t": "ʾəməṭənətu",
+          "gl": ""
+        },
+        {
+          "g": "ወኈልቍዎሙ",
+          "t": "wäḫwäləqwəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለኵሉ",
+          "t": "läkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ተዓይኖሙ",
+          "t": "täʿayənomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "በበነገዶሙ",
+          "t": "bäbänägädomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበቤተ",
+          "t": "wäbäbäbetä",
+          "gl": ""
+        },
+        {
+          "g": "አበዊሆሙ",
+          "t": "ʾäbäwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበ",
+          "t": "wäbäbä",
+          "gl": ""
+        },
+        {
+          "g": "አስማቲሆሙ",
+          "t": "ʾäsəmatihomu",
+          "gl": ""
+        },
+        {
+          "g": "ለለ",
+          "t": "lälä",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Take the sum of all the congregation of Israel according to their kindreds, according to the houses of their fathers' families, according to their number by their names, according to their heads: every male",
+        "kjv": "Take ye the sum of all the congregation of the children of Israel, after their families, by the house of their fathers, with the number of their names, every male by their polls;"
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ኵሉ ፡ ተባዕት ፡ ዘእምነ ፡ ዕሥራ ፡ ዓም ፡ ወላዕሉ ፡ እምኔሁ ፡ ኵሉ ፡ ዘይወፅእ ፡ ምስለ ፡ ኀይለ ፡ እስራኤል ፡\n                  ወአስተፋቅድዎሙ ፡ ምስለ ፡ ኀይሎሙ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ተባዕት",
+          "t": "täbaʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምነ",
+          "t": "zäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ዕሥራ",
+          "t": "ʿəśəra",
+          "gl": ""
+        },
+        {
+          "g": "ዓም",
+          "t": "ʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ወላዕሉ",
+          "t": "wälaʿəlu",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይወፅእ",
+          "t": "zäyəwäṣ́əʾə",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኀይለ",
+          "t": "ḫäyəlä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወአስተፋቅድዎሙ",
+          "t": "wäʾäsətäfaqədəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኀይሎሙ",
+          "t": "ḫäyəlomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "from twenty years old and upwards, every one that goes forth in the forces of Israel, take account of them with their strength; thou and Aaron take account of them.",
+        "kjv": "From twenty years old and upward, all that are able to go forth to war in Israel: thou and Aaron shall number them by their armies."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "አንተ ፡ ወአሮን ፡ አስተፋቅድዎሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "አንተ",
+          "t": "ʾänətä",
+          "gl": ""
+        },
+        {
+          "g": "ወአሮን",
+          "t": "wäʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "አስተፋቅድዎሙ",
+          "t": "ʾäsətäfaqədəwomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And with you there shall be each one of the rulers according to the tribe of each: they shall be according to the houses of their families.",
+        "kjv": "And with you there shall be a man of every tribe; every one head of the house of his fathers."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወየሀልዉ ፡ ምስሌክሙ ፡ አሐዱ ፡ አሐዱ ፡ እምነ ፡ መላእክተ ፡ ነገዶሙ ፡ እለ ፡ እምውስተ ፡ አብያተ ፡ አበዊሆሙ ፡\n                  የሀልው ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወየሀልዉ",
+          "t": "wäyähäləwu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌክሙ",
+          "t": "məsəlekəmu",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "መላእክተ",
+          "t": "mälaʾəkətä",
+          "gl": ""
+        },
+        {
+          "g": "ነገዶሙ",
+          "t": "nägädomu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አብያተ",
+          "t": "ʾäbəyatä",
+          "gl": ""
+        },
+        {
+          "g": "አበዊሆሙ",
+          "t": "ʾäbäwihomu",
+          "gl": ""
+        },
+        {
+          "g": "የሀልው",
+          "t": "yähäləwə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And these are the names of the men who shall be present with you; of the tribe of Ruben, Elisur the son of Sediur.",
+        "kjv": "And these are the names of the men that shall stand with you: of the tribe of Reuben; Elizur the son of Shedeur."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወዝንቱ ፡ ውእቱ ፡ አስማቲሆሙ ፡ ለውእቶሙ ፡ ዕደው ፡ እለ ፡ መጽኡ ፡ ምስሌሆሙ ፡ ዘእምውስተ ፡ ሮቤል ፡ ኤሊሱር ፡\n                  ወልደ ፡ ሰዲዩር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዝንቱ",
+          "t": "wäzənətu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "አስማቲሆሙ",
+          "t": "ʾäsəmatihomu",
+          "gl": ""
+        },
+        {
+          "g": "ለውእቶሙ",
+          "t": "läwəʾətomu",
+          "gl": ""
+        },
+        {
+          "g": "ዕደው",
+          "t": "ʿədäwə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "መጽኡ",
+          "t": "mäṣəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሆሙ",
+          "t": "məsəlehomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምውስተ",
+          "t": "zäʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሮቤል",
+          "t": "robelə",
+          "gl": ""
+        },
+        {
+          "g": "ኤሊሱር",
+          "t": "ʾelisurə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ሰዲዩር",
+          "t": "sädiyurə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Of Symeon, Salamiel the son of Surisadai.",
+        "kjv": "Of Simeon; Shelumiel the son of Zurishaddai."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወዘእምውስተ ፡ ስምዖን ፡ ሰልሚየል ፡ ወልደ ፡ ሶሪስዴ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዘእምውስተ",
+          "t": "wäzäʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ስምዖን",
+          "t": "səməʿonə",
+          "gl": ""
+        },
+        {
+          "g": "ሰልሚየል",
+          "t": "säləmiyälə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ሶሪስዴ",
+          "t": "sorisəde",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Of Juda, Naasson the son of Aminadab.",
+        "kjv": "Of Judah; Nahshon the son of Amminadab."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወዘእምውስተ ፡ ይሁዳ ፡ ነአሶን ፡ ወልደ ፡ አሚናዳብ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዘእምውስተ",
+          "t": "wäzäʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ይሁዳ",
+          "t": "yəhuda",
+          "gl": ""
+        },
+        {
+          "g": "ነአሶን",
+          "t": "näʾäsonə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "አሚናዳብ",
+          "t": "ʾäminadabə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Of Issachar, Nathanael the son of Sogar.",
+        "kjv": "Of Issachar; Nethaneel the son of Zuar."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወዘእምውስተ ፡ ይስካር ፡ ናተናኤል ፡ ወልደ ፡ ሶገር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዘእምውስተ",
+          "t": "wäzäʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ይስካር",
+          "t": "yəsəkarə",
+          "gl": ""
+        },
+        {
+          "g": "ናተናኤል",
+          "t": "natänaʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ሶገር",
+          "t": "sogärə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Of Zabulon, Eliab the son of Chælon.",
+        "kjv": "Of Zebulun; Eliab the son of Helon."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወዘእምውስተ ፡ ዛቡሎን ፡ ኤልያብ ፡ ወልደ ፡ ኬሎን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዘእምውስተ",
+          "t": "wäzäʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዛቡሎን",
+          "t": "zabulonə",
+          "gl": ""
+        },
+        {
+          "g": "ኤልያብ",
+          "t": "ʾeləyabə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ኬሎን",
+          "t": "kelonə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Of the sons of Joseph, of Ephraim, Elisama the son of Emiud: of Manasses, Gamaliel the son of Phadasur.",
+        "kjv": "Of the children of Joseph: of Ephraim; Elishama the son of Ammihud: of Manasseh; Gamaliel the son of Pedahzur."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወዘእምውስተ ፡ ትውልደ ፡ ዮሴፍ ፡ ዘእምነ ፡ ኤፍሬም ፡ ኤሊሳማ ፡ ወልደ ፡ ሴሚዩድ ፡ ወዘእምውስተ ፡ ማናሴ ፡ ገማልያል\n                  ፡ ወልደ ፡ ፈዳሶር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዘእምውስተ",
+          "t": "wäzäʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ትውልደ",
+          "t": "təwələdä",
+          "gl": ""
+        },
+        {
+          "g": "ዮሴፍ",
+          "t": "yosefə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምነ",
+          "t": "zäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ኤፍሬም",
+          "t": "ʾefəremə",
+          "gl": ""
+        },
+        {
+          "g": "ኤሊሳማ",
+          "t": "ʾelisama",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ሴሚዩድ",
+          "t": "semiyudə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘእምውስተ",
+          "t": "wäzäʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ማናሴ",
+          "t": "manase",
+          "gl": ""
+        },
+        {
+          "g": "ገማልያል",
+          "t": "gämaləyalə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ፈዳሶር",
+          "t": "fädasorə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Of Benjamin, Abidan the son of Gadeoni.",
+        "kjv": "Of Benjamin; Abidan the son of Gideoni."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወዘእምውስተ ፡ ብንያሚ ፡ አቢዳን ፡ ወልደ ፡ ጋዲዮኒ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዘእምውስተ",
+          "t": "wäzäʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ብንያሚ",
+          "t": "bənəyami",
+          "gl": ""
+        },
+        {
+          "g": "አቢዳን",
+          "t": "ʾäbidanə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ጋዲዮኒ",
+          "t": "gadiyoni",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Of Dan, Achiezer the son of Amisadai.",
+        "kjv": "Of Dan; Ahiezer the son of Ammishaddai."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወዘእምውስተ ፡ ዳን ፡ አኪየዜር ፡ ወልደ ፡ ሰሚሳዴ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዘእምውስተ",
+          "t": "wäzäʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዳን",
+          "t": "danə",
+          "gl": ""
+        },
+        {
+          "g": "አኪየዜር",
+          "t": "ʾäkiyäzerə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ሰሚሳዴ",
+          "t": "sämisade",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Of Aser, Phagaiel the son of Echran.",
+        "kjv": "Of Asher; Pagiel the son of Ocran."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወዘእምውስተ ፡ አሴር ፡ ፋጌኤል ፡ ወልደ ፡ ኤክራን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዘእምውስተ",
+          "t": "wäzäʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አሴር",
+          "t": "ʾäserə",
+          "gl": ""
+        },
+        {
+          "g": "ፋጌኤል",
+          "t": "fageʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ኤክራን",
+          "t": "ʾekəranə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Of Gad, Elisaph the son of Raguel.",
+        "kjv": "Of Gad; Eliasaph the son of Deuel."
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ወዘአምውስተ ፡ ጋድ ፡ ኤሊሳፍ ፡ ወልደ ፡ ራጉኤል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዘአምውስተ",
+          "t": "wäzäʾäməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ጋድ",
+          "t": "gadə",
+          "gl": ""
+        },
+        {
+          "g": "ኤሊሳፍ",
+          "t": "ʾelisafə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ራጉኤል",
+          "t": "raguʾelə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Of Nephthali, Achire the son of Ænan.",
+        "kjv": "Of Naphtali; Ahira the son of Enan."
+      }
+    },
+    {
+      "num": 16,
+      "geez": "ወዘእምውስተ ፡ ንፍታሌም ፡ አኪሬ ፡ ወልደ ፡ ኤናን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዘእምውስተ",
+          "t": "wäzäʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ንፍታሌም",
+          "t": "nəfətalemə",
+          "gl": ""
+        },
+        {
+          "g": "አኪሬ",
+          "t": "ʾäkire",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ኤናን",
+          "t": "ʾenanə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "These were famous men of the congregation, heads of the tribes according to their families: these are heads of thousands in Israel.",
+        "kjv": "These were the renowned of the congregation, princes of the tribes of their fathers, heads of thousands in Israel."
+      }
+    },
+    {
+      "num": 17,
+      "geez": "እሉ ፡ ውእቶሙ ፡ ኅሩያነ ፡ ተዓይኒሆሙ ፡ መላእክተ ፡ ነገዶሙ ፡ ዘበበ ፡ አዝማዲሆሙ ፡ መሳፍንቶሙ ፡ ለእስራኤል ፡\n                  እሙንቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እሉ",
+          "t": "ʾəlu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቶሙ",
+          "t": "wəʾətomu",
+          "gl": ""
+        },
+        {
+          "g": "ኅሩያነ",
+          "t": "ḫəruyanä",
+          "gl": ""
+        },
+        {
+          "g": "ተዓይኒሆሙ",
+          "t": "täʿayənihomu",
+          "gl": ""
+        },
+        {
+          "g": "መላእክተ",
+          "t": "mälaʾəkətä",
+          "gl": ""
+        },
+        {
+          "g": "ነገዶሙ",
+          "t": "nägädomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘበበ",
+          "t": "zäbäbä",
+          "gl": ""
+        },
+        {
+          "g": "አዝማዲሆሙ",
+          "t": "ʾäzəmadihomu",
+          "gl": ""
+        },
+        {
+          "g": "መሳፍንቶሙ",
+          "t": "mäsafənətomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእስራኤል",
+          "t": "läʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "እሙንቱ",
+          "t": "ʾəmunətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Moses and Aaron took these men who were called by name.",
+        "kjv": "And Moses and Aaron took these men which are expressed by their names:"
+      }
+    },
+    {
+      "num": 18,
+      "geez": "ወነሥእዎሙ ፡ ሙሴ ፡ ወአሮን ፡ ለእሉ ፡ ዕደው ፡ እለ ፡ ተሰምዩ ፡ በበ ፡ አስማቲሆሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነሥእዎሙ",
+          "t": "wänäśəʾəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ወአሮን",
+          "t": "wäʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ለእሉ",
+          "t": "läʾəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዕደው",
+          "t": "ʿədäwə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ተሰምዩ",
+          "t": "täsäməyu",
+          "gl": ""
+        },
+        {
+          "g": "በበ",
+          "t": "bäbä",
+          "gl": ""
+        },
+        {
+          "g": "አስማቲሆሙ",
+          "t": "ʾäsəmatihomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they assembled all the congregation on the first day of the month in the second year; and they registered them after their lineage, after their families, after the number of their names, from twenty years old and upwards, every male according to their number:",
+        "kjv": "And they assembled all the congregation together on the first day of the second month, and they declared their pedigrees after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, by their polls."
+      }
+    },
+    {
+      "num": 19,
+      "geez": "ወአስተጋብኡ ፡ ኵሎ ፡ ተዓይነ ፡ አመ ፡ ርእሰ ፡ ሠርቀ ፡ ወርኅ ፡ በካልእት ፡ ዓመት ፡ ወኈለቍዎሙ ፡ በበ ፡ አዝማዲሆሙ\n                  ፡ ወበበ ፡ ነገዶሙ ፡ ወበበኍልቈ ፡ አስማቲሆሙ ፡ ዘእም፳ዓም ፡ ወላዕሉ ፡ እምኔሁ ፡ [ለ]ኵሉ ፡ ተባዕቶሙ ፡ በበርእሶሙ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአስተጋብኡ",
+          "t": "wäʾäsətägabəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ተዓይነ",
+          "t": "täʿayənä",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ርእሰ",
+          "t": "rəʾəsä",
+          "gl": ""
+        },
+        {
+          "g": "ሠርቀ",
+          "t": "śärəqä",
+          "gl": ""
+        },
+        {
+          "g": "ወርኅ",
+          "t": "wärəḫə",
+          "gl": ""
+        },
+        {
+          "g": "በካልእት",
+          "t": "bäkaləʾətə",
+          "gl": ""
+        },
+        {
+          "g": "ዓመት",
+          "t": "ʿamätə",
+          "gl": ""
+        },
+        {
+          "g": "ወኈለቍዎሙ",
+          "t": "wäḫwäläqwəwomu",
+          "gl": ""
+        },
+        {
+          "g": "በበ",
+          "t": "bäbä",
+          "gl": ""
+        },
+        {
+          "g": "አዝማዲሆሙ",
+          "t": "ʾäzəmadihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበ",
+          "t": "wäbäbä",
+          "gl": ""
+        },
+        {
+          "g": "ነገዶሙ",
+          "t": "nägädomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበኍልቈ",
+          "t": "wäbäbäḫwələqwä",
+          "gl": ""
+        },
+        {
+          "g": "አስማቲሆሙ",
+          "t": "ʾäsəmatihomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘእም፳ዓም",
+          "t": "zäʾəmə20ʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ወላዕሉ",
+          "t": "wälaʿəlu",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "ለኵሉ",
+          "t": "läkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ተባዕቶሙ",
+          "t": "täbaʿətomu",
+          "gl": ""
+        },
+        {
+          "g": "በበርእሶሙ",
+          "t": "bäbärəʾəsomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "as the Lord commanded Moses, so they were numbered in the wilderness of Sina.",
+        "kjv": "As the LORD commanded Moses, so he numbered them in the wilderness of Sinai."
+      }
+    },
+    {
+      "num": 20,
+      "geez": "በከመ ፡ አዘዞ ፡ እግዚአብሔር ፡ ለሙሴ ፡ ወኈለቍዎሙ ፡ እሙንቱ ፡ በደብረ ፡ ሲና ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "አዘዞ",
+          "t": "ʾäzäzo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ወኈለቍዎሙ",
+          "t": "wäḫwäläqwəwomu",
+          "gl": ""
+        },
+        {
+          "g": "እሙንቱ",
+          "t": "ʾəmunətu",
+          "gl": ""
+        },
+        {
+          "g": "በደብረ",
+          "t": "bädäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ሲና",
+          "t": "sina",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the sons of Ruben the first-born of Israel according to their kindreds, according to their divisions, according to the houses of their families, according to the number of their names, according to their heads, were—all males from twenty years old and upward, every one that went out with the host—",
+        "kjv": "And the children of Reuben, Israel’s eldest son, by their generations, after their families, by the house of their fathers, according to the number of the names, by their polls, every male from twenty years old and upward, all that were able to go forth to war;"
+      }
+    },
+    {
+      "num": 21,
+      "geez": "ወኮነ ፡ ደቂቀ ፡ ሮቤል ፡ በኵሩ ፡ ለእስራኤል ፡ በበአዝማዲሆሙ ፡ ወበበሕዘቢሆሙ ፡ ወበበአብያተ ፡ አበዊሆሙ ፡ ወበበኍልቈ\n                  ፡ አስማቲሆሙ ፡ ወበበ ፡ ርእሶሙ ፡ ለኵሉ ፡ ተባዕቶሙ ፡ ዘእም፳ዓም ፡ ወላዕሉ ፡ እምኔሁ ፡ ኵሉ ፡ ዘይወፅእ ፡ ምስለ ፡\n                  ኀይል ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኮነ",
+          "t": "wäkonä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ሮቤል",
+          "t": "robelə",
+          "gl": ""
+        },
+        {
+          "g": "በኵሩ",
+          "t": "bäkwəru",
+          "gl": ""
+        },
+        {
+          "g": "ለእስራኤል",
+          "t": "läʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "በበአዝማዲሆሙ",
+          "t": "bäbäʾäzəmadihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበሕዘቢሆሙ",
+          "t": "wäbäbäḥəzäbihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበአብያተ",
+          "t": "wäbäbäʾäbəyatä",
+          "gl": ""
+        },
+        {
+          "g": "አበዊሆሙ",
+          "t": "ʾäbäwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበኍልቈ",
+          "t": "wäbäbäḫwələqwä",
+          "gl": ""
+        },
+        {
+          "g": "አስማቲሆሙ",
+          "t": "ʾäsəmatihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበ",
+          "t": "wäbäbä",
+          "gl": ""
+        },
+        {
+          "g": "ርእሶሙ",
+          "t": "rəʾəsomu",
+          "gl": ""
+        },
+        {
+          "g": "ለኵሉ",
+          "t": "läkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ተባዕቶሙ",
+          "t": "täbaʿətomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘእም፳ዓም",
+          "t": "zäʾəmə20ʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ወላዕሉ",
+          "t": "wälaʿəlu",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይወፅእ",
+          "t": "zäyəwäṣ́əʾə",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኀይል",
+          "t": "ḫäyələ",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "the numbering of them of the tribe of Ruben, was forty-six thousand and four hundred.",
+        "kjv": "Those that were numbered of them, even of the tribe of Reuben, were forty and six thousand and five hundred."
+      }
+    },
+    {
+      "num": 22,
+      "geez": "ኍለቊሆሙ ፡ ዘእምነገደ ፡ ሮቤል ፡ ፬፻-፻፷፻፭፻ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኍለቊሆሙ",
+          "t": "ḫwəläqwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምነገደ",
+          "t": "zäʾəmənägädä",
+          "gl": ""
+        },
+        {
+          "g": "ሮቤል",
+          "t": "robelə",
+          "gl": ""
+        },
+        {
+          "g": "፬፻-፻፷፻፭፻",
+          "t": "4100-100601005100",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For the children of Symeon according to their kindreds, according to their divisions, according to the houses of their families, according to the number of their names, according to their polls, all males from twenty years old and upward, every one that goes out with the host,",
+        "kjv": "Of the children of Simeon, by their generations, after their families, by the house of their fathers, those that were numbered of them, according to the number of the names, by their polls, every male from twenty years old and upward, all that were able to go forth to war;"
+      }
+    },
+    {
+      "num": 23,
+      "geez": "ወደቂቁኒ ፡ ለስምዖን ፡ በበአዝማዲሆሙ ፡ ወበበሕዘቢሆሙ ፡ ወበበአብያተ ፡ አበዊሆሙ ፡ ወበበኍልቈ ፡ አስማቲሆሙ ፡\n                  ወበበርእሶሙ ፡ ኵሉ ፡ ተባዕት ፡ ዘእም፳ዓም ፡ ወላዕሉ ፡ እምኔሁ ፡ ኵሉ ፡ ዘይወፅእ ፡ ምስለ ፡ ኀይል ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወደቂቁኒ",
+          "t": "wädäqiquni",
+          "gl": ""
+        },
+        {
+          "g": "ለስምዖን",
+          "t": "läsəməʿonə",
+          "gl": ""
+        },
+        {
+          "g": "በበአዝማዲሆሙ",
+          "t": "bäbäʾäzəmadihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበሕዘቢሆሙ",
+          "t": "wäbäbäḥəzäbihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበአብያተ",
+          "t": "wäbäbäʾäbəyatä",
+          "gl": ""
+        },
+        {
+          "g": "አበዊሆሙ",
+          "t": "ʾäbäwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበኍልቈ",
+          "t": "wäbäbäḫwələqwä",
+          "gl": ""
+        },
+        {
+          "g": "አስማቲሆሙ",
+          "t": "ʾäsəmatihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበርእሶሙ",
+          "t": "wäbäbärəʾəsomu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ተባዕት",
+          "t": "täbaʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእም፳ዓም",
+          "t": "zäʾəmə20ʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ወላዕሉ",
+          "t": "wälaʿəlu",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይወፅእ",
+          "t": "zäyəwäṣ́əʾə",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኀይል",
+          "t": "ḫäyələ",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "the numbering of them of the tribe of Symeon, was fifty-nine thousand and three hundred.",
+        "kjv": "Those that were numbered of them, even of the tribe of Simeon, were fifty and nine thousand and three hundred."
+      }
+    },
+    {
+      "num": 24,
+      "geez": "ኍለቊሆሙ ፡ ዘእምነገደ ፡ ስምዖን ፡ ፭፻-፻፺፻፫፻ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኍለቊሆሙ",
+          "t": "ḫwəläqwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምነገደ",
+          "t": "zäʾəmənägädä",
+          "gl": ""
+        },
+        {
+          "g": "ስምዖን",
+          "t": "səməʿonə",
+          "gl": ""
+        },
+        {
+          "g": "፭፻-፻፺፻፫፻",
+          "t": "5100-100901003100",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For the sons of Juda according to their kindreds, according to their divisions, according to the houses of their families, according to the number of their names, according to their polls, all males from twenty years old and upward, every one that goes forth with the host,",
+        "kjv": "Of the children of Gad, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;"
+      }
+    },
+    {
+      "num": 25,
+      "geez": "ወደቂቁኒ ፡ ለይሁዳ ፡ በበአዝማዲሆሙ ፡ ወበበሕዘቢሆሙ ፡ ወበበአብያተ ፡ አበዊሆሙ ፡ ወበበኍልቈ ፡ አስማቲሆሙ ፡\n                  ወበበርእሶሙ ፡ ኵሉ ፡ ተባዕት ፡ ዘእም፳ዓም ፡ ወላዕሉ ፡ እምኔሁ ፡ ዘይወፅእ ፡ ምስለ ፡ ኀይል ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወደቂቁኒ",
+          "t": "wädäqiquni",
+          "gl": ""
+        },
+        {
+          "g": "ለይሁዳ",
+          "t": "läyəhuda",
+          "gl": ""
+        },
+        {
+          "g": "በበአዝማዲሆሙ",
+          "t": "bäbäʾäzəmadihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበሕዘቢሆሙ",
+          "t": "wäbäbäḥəzäbihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበአብያተ",
+          "t": "wäbäbäʾäbəyatä",
+          "gl": ""
+        },
+        {
+          "g": "አበዊሆሙ",
+          "t": "ʾäbäwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበኍልቈ",
+          "t": "wäbäbäḫwələqwä",
+          "gl": ""
+        },
+        {
+          "g": "አስማቲሆሙ",
+          "t": "ʾäsəmatihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበርእሶሙ",
+          "t": "wäbäbärəʾəsomu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ተባዕት",
+          "t": "täbaʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእም፳ዓም",
+          "t": "zäʾəmə20ʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ወላዕሉ",
+          "t": "wälaʿəlu",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይወፅእ",
+          "t": "zäyəwäṣ́əʾə",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኀይል",
+          "t": "ḫäyələ",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "the numbering of them of the tribe of Juda, was seventy-four thousand and six hundred.",
+        "kjv": "Those that were numbered of them, even of the tribe of Gad, were forty and five thousand six hundred and fifty."
+      }
+    },
+    {
+      "num": 26,
+      "geez": "ኍለቊሆሙ ፡ ዘእምነገደ ፡ ይሁዳ ፡ ፯፻-፻፵፻፯፻ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኍለቊሆሙ",
+          "t": "ḫwəläqwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምነገደ",
+          "t": "zäʾəmənägädä",
+          "gl": ""
+        },
+        {
+          "g": "ይሁዳ",
+          "t": "yəhuda",
+          "gl": ""
+        },
+        {
+          "g": "፯፻-፻፵፻፯፻",
+          "t": "7100-100401007100",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For the sons of Issachar according to their kindreds, according to their divisions, according to the houses of their families, according to the number of their names, according to their polls, all males from twenty years old and upward, every one that goes forth with the host,",
+        "kjv": "Of the children of Judah, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;"
+      }
+    },
+    {
+      "num": 27,
+      "geez": "ወደቂቁኒ ፡ ለይስካር ፡ በበአዝማዲሆሙ ፡ ወበበሕዘቢሆሙ ፡ ወበበአብያተ ፡ አበዊሆሙ ፡ ወበበ ፡ ኍ[ልቈ] ፡ አስማቲሆሙ ፡\n                  [በበ ፡] ርእሶሙ ፡ ኵሉ ፡ ተባዕት ፡ ዘእም፳ዓም ፡ ወላዕሉ ፡ እምኔሁ ፡ ኵሉ ፡ ዘይወፅእ ፡ ምስለ ፡ ኀይል ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወደቂቁኒ",
+          "t": "wädäqiquni",
+          "gl": ""
+        },
+        {
+          "g": "ለይስካር",
+          "t": "läyəsəkarə",
+          "gl": ""
+        },
+        {
+          "g": "በበአዝማዲሆሙ",
+          "t": "bäbäʾäzəmadihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበሕዘቢሆሙ",
+          "t": "wäbäbäḥəzäbihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበአብያተ",
+          "t": "wäbäbäʾäbəyatä",
+          "gl": ""
+        },
+        {
+          "g": "አበዊሆሙ",
+          "t": "ʾäbäwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበ",
+          "t": "wäbäbä",
+          "gl": ""
+        },
+        {
+          "g": "ኍልቈ",
+          "t": "ḫwələqwä",
+          "gl": ""
+        },
+        {
+          "g": "አስማቲሆሙ",
+          "t": "ʾäsəmatihomu",
+          "gl": ""
+        },
+        {
+          "g": "በበ",
+          "t": "bäbä",
+          "gl": ""
+        },
+        {
+          "g": "ርእሶሙ",
+          "t": "rəʾəsomu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ተባዕት",
+          "t": "täbaʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእም፳ዓም",
+          "t": "zäʾəmə20ʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ወላዕሉ",
+          "t": "wälaʿəlu",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይወፅእ",
+          "t": "zäyəwäṣ́əʾə",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኀይል",
+          "t": "ḫäyələ",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "the numbering of them of the tribe of Issachar, was fifty-four thousand and four hundred.",
+        "kjv": "Those that were numbered of them, even of the tribe of Judah, were threescore and fourteen thousand and six hundred."
+      }
+    },
+    {
+      "num": 28,
+      "geez": "ኍለቊሆሙ ፡ ዘእምነገደ ፡ ይስካር ፡ ፭፻-፻፵፻፬፻ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኍለቊሆሙ",
+          "t": "ḫwəläqwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምነገደ",
+          "t": "zäʾəmənägädä",
+          "gl": ""
+        },
+        {
+          "g": "ይስካር",
+          "t": "yəsəkarə",
+          "gl": ""
+        },
+        {
+          "g": "፭፻-፻፵፻፬፻",
+          "t": "5100-100401004100",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For the sons of Zabulon according to their kindreds, according to their divisions, according to the houses of their families, according to the number of their names, according to their polls, all males from twenty years old and upward, every one that goes out with the host,",
+        "kjv": "Of the children of Issachar, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;"
+      }
+    },
+    {
+      "num": 29,
+      "geez": "ወደቂቁኒ ፡ ለዛቡሎን ፡ በበአዝማዲሆሙ ፡ ወበበሕዘቢሆሙ ፡ ወበበአብያተ ፡ አበዊሆሙ ፡ ወበበ ፡ ኍልቈ ፡ አስማቲሆሙ ፡\n                  ወበበርእሶሙ ፡ ኵሉ ፡ ተባዕቶሙ ፡ ዘእም፳ዓም ፡ ወላዕሉ ፡ እምኔሁ ፡ ኵሉ ፡ ዘይወፅእ ፡ ምስለ ፡ ኀይል ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወደቂቁኒ",
+          "t": "wädäqiquni",
+          "gl": ""
+        },
+        {
+          "g": "ለዛቡሎን",
+          "t": "läzabulonə",
+          "gl": ""
+        },
+        {
+          "g": "በበአዝማዲሆሙ",
+          "t": "bäbäʾäzəmadihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበሕዘቢሆሙ",
+          "t": "wäbäbäḥəzäbihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበአብያተ",
+          "t": "wäbäbäʾäbəyatä",
+          "gl": ""
+        },
+        {
+          "g": "አበዊሆሙ",
+          "t": "ʾäbäwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበ",
+          "t": "wäbäbä",
+          "gl": ""
+        },
+        {
+          "g": "ኍልቈ",
+          "t": "ḫwələqwä",
+          "gl": ""
+        },
+        {
+          "g": "አስማቲሆሙ",
+          "t": "ʾäsəmatihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበርእሶሙ",
+          "t": "wäbäbärəʾəsomu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ተባዕቶሙ",
+          "t": "täbaʿətomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘእም፳ዓም",
+          "t": "zäʾəmə20ʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ወላዕሉ",
+          "t": "wälaʿəlu",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይወፅእ",
+          "t": "zäyəwäṣ́əʾə",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኀይል",
+          "t": "ḫäyələ",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "the numbering of them of the tribe of Zabulon, was fifty-seven thousand and four hundred.",
+        "kjv": "Those that were numbered of them, even of the tribe of Issachar, were fifty and four thousand and four hundred."
+      }
+    },
+    {
+      "num": 30,
+      "geez": "ኍለቊሆሙ ፡ ዘእምነገደ ፡ ዛቡሎን ፡ ፭፻-፻፸፻፬፻ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኍለቊሆሙ",
+          "t": "ḫwəläqwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምነገደ",
+          "t": "zäʾəmənägädä",
+          "gl": ""
+        },
+        {
+          "g": "ዛቡሎን",
+          "t": "zabulonə",
+          "gl": ""
+        },
+        {
+          "g": "፭፻-፻፸፻፬፻",
+          "t": "5100-100701004100",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For the sons of Joseph, the sons of Ephraim, according to their kindreds, according to their divisions, according to the houses of their families, according to the number of their names, according to their polls, all males from twenty years old and upward, every one that goes out with the host,",
+        "kjv": "Of the children of Zebulun, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;"
+      }
+    },
+    {
+      "num": 31,
+      "geez": "ወደቂቁኒ ፡ ለዮሴፍ ፡ ደቂቀ ፡ ኤፍሬም ፡ በበአዝማዲሆሙ ፡ ወበበሕዘቢሆሙ ፡ ወበበአብያተ ፡ አበዊሆሙ ፡ ወበበኍልቈ ፡\n                  አስማቲሆሙ ፡ ወበበርእሶሙ ፡ ኵሉ ፡ ተባዕት ፡ ዘእም፳ዓም ፡ ወላዕሉ ፡ እምኔሁ ፡ ኵሉ ፡ ዘይወፅእ ፡ ምስለ ፡ ኀይል ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወደቂቁኒ",
+          "t": "wädäqiquni",
+          "gl": ""
+        },
+        {
+          "g": "ለዮሴፍ",
+          "t": "läyosefə",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ኤፍሬም",
+          "t": "ʾefəremə",
+          "gl": ""
+        },
+        {
+          "g": "በበአዝማዲሆሙ",
+          "t": "bäbäʾäzəmadihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበሕዘቢሆሙ",
+          "t": "wäbäbäḥəzäbihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበአብያተ",
+          "t": "wäbäbäʾäbəyatä",
+          "gl": ""
+        },
+        {
+          "g": "አበዊሆሙ",
+          "t": "ʾäbäwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበኍልቈ",
+          "t": "wäbäbäḫwələqwä",
+          "gl": ""
+        },
+        {
+          "g": "አስማቲሆሙ",
+          "t": "ʾäsəmatihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበርእሶሙ",
+          "t": "wäbäbärəʾəsomu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ተባዕት",
+          "t": "täbaʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእም፳ዓም",
+          "t": "zäʾəmə20ʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ወላዕሉ",
+          "t": "wälaʿəlu",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይወፅእ",
+          "t": "zäyəwäṣ́əʾə",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኀይል",
+          "t": "ḫäyələ",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "the numbering of them of the tribe of Ephraim, was forty thousand and five hundred.",
+        "kjv": "Those that were numbered of them, even of the tribe of Zebulun, were fifty and seven thousand and four hundred."
+      }
+    },
+    {
+      "num": 32,
+      "geez": "ኍለቊሆሙ ፡ ዘእምነገደ ፡ ኤፍሬም ፡ ፬፻-፻፻፭፻ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኍለቊሆሙ",
+          "t": "ḫwəläqwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምነገደ",
+          "t": "zäʾəmənägädä",
+          "gl": ""
+        },
+        {
+          "g": "ኤፍሬም",
+          "t": "ʾefəremə",
+          "gl": ""
+        },
+        {
+          "g": "፬፻-፻፻፭፻",
+          "t": "4100-1001005100",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For the sons of Manasse according to their kindreds, according to their divisions, according to the houses of their families, according to the number of their names, according to their polls, all males from twenty years old and upward, every one that goes out with the host,",
+        "kjv": "Of the children of Joseph, namely, of the children of Ephraim, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;"
+      }
+    },
+    {
+      "num": 33,
+      "geez": "ወደቂቁኒ ፡ ለማናሴ ፡ በበአዝማዲሆሙ ፡ ወበበሕዘቢሆሙ ፡ ወበበአብያተ ፡ አበዊሆሙ ፡ ወበበኍልቈ ፡ አስማቲሆሙ ፡\n                  ወበበርእሶሙ ፡ ኵሉ ፡ ተባዕት ፡ ዘእም፳ዓም ፡ ወላዕሉ ፡ እምኔሁ ፡ [ኵሉ ፡] ዘይወፅእ ፡ ምስለ ፡ ኀይል ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወደቂቁኒ",
+          "t": "wädäqiquni",
+          "gl": ""
+        },
+        {
+          "g": "ለማናሴ",
+          "t": "lämanase",
+          "gl": ""
+        },
+        {
+          "g": "በበአዝማዲሆሙ",
+          "t": "bäbäʾäzəmadihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበሕዘቢሆሙ",
+          "t": "wäbäbäḥəzäbihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበአብያተ",
+          "t": "wäbäbäʾäbəyatä",
+          "gl": ""
+        },
+        {
+          "g": "አበዊሆሙ",
+          "t": "ʾäbäwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበኍልቈ",
+          "t": "wäbäbäḫwələqwä",
+          "gl": ""
+        },
+        {
+          "g": "አስማቲሆሙ",
+          "t": "ʾäsəmatihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበርእሶሙ",
+          "t": "wäbäbärəʾəsomu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ተባዕት",
+          "t": "täbaʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእም፳ዓም",
+          "t": "zäʾəmə20ʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ወላዕሉ",
+          "t": "wälaʿəlu",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይወፅእ",
+          "t": "zäyəwäṣ́əʾə",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኀይል",
+          "t": "ḫäyələ",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "the numbering of them of the tribe of Manasse, was thirty-two thousand and two hundred.",
+        "kjv": "Those that were numbered of them, even of the tribe of Ephraim, were forty thousand and five hundred."
+      }
+    },
+    {
+      "num": 34,
+      "geez": "ኍለቊሆሙ ፡ ዘእምነገደ ፡ ምናሴ ፡ ፫፻-፻፳፻፪፻ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኍለቊሆሙ",
+          "t": "ḫwəläqwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምነገደ",
+          "t": "zäʾəmənägädä",
+          "gl": ""
+        },
+        {
+          "g": "ምናሴ",
+          "t": "mənase",
+          "gl": ""
+        },
+        {
+          "g": "፫፻-፻፳፻፪፻",
+          "t": "3100-100201002100",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For the sons of Benjamin according to their kindreds, according to their divisions, according to the houses of their families, according to the number of their names, according to their polls, every male from twenty years old and upward, every one that goes forth with the host,",
+        "kjv": "Of the children of Manasseh, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;"
+      }
+    },
+    {
+      "num": 35,
+      "geez": "ወደቂቁኒ ፡ ለብንያሚ ፡ በበአዝማዲሆሙ ፡ ወበበሕዘቢሆሙ ፡ ወበበአብያተ ፡ አበዊሆሙ ፡ ወበበኍልቈ ፡ አስማቲሆሙ ፡ ወበበ ፡\n                  ርእሶሙ ፡ ኵሉ ፡ ተባዕት ፡ ዘእም፳ዓም ፡ ወላዕሉ ፡ እምኔሁ ፡ ኵሉ ፡ ዘይወፅእ ፡ ምስለ ፡ ኀይል ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወደቂቁኒ",
+          "t": "wädäqiquni",
+          "gl": ""
+        },
+        {
+          "g": "ለብንያሚ",
+          "t": "läbənəyami",
+          "gl": ""
+        },
+        {
+          "g": "በበአዝማዲሆሙ",
+          "t": "bäbäʾäzəmadihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበሕዘቢሆሙ",
+          "t": "wäbäbäḥəzäbihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበአብያተ",
+          "t": "wäbäbäʾäbəyatä",
+          "gl": ""
+        },
+        {
+          "g": "አበዊሆሙ",
+          "t": "ʾäbäwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበኍልቈ",
+          "t": "wäbäbäḫwələqwä",
+          "gl": ""
+        },
+        {
+          "g": "አስማቲሆሙ",
+          "t": "ʾäsəmatihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበ",
+          "t": "wäbäbä",
+          "gl": ""
+        },
+        {
+          "g": "ርእሶሙ",
+          "t": "rəʾəsomu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ተባዕት",
+          "t": "täbaʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእም፳ዓም",
+          "t": "zäʾəmə20ʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ወላዕሉ",
+          "t": "wälaʿəlu",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይወፅእ",
+          "t": "zäyəwäṣ́əʾə",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኀይል",
+          "t": "ḫäyələ",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "the numbering of them of the tribe of Benjamin, was thirty-five thousand and four hundred.",
+        "kjv": "Those that were numbered of them, even of the tribe of Manasseh, were thirty and two thousand and two hundred."
+      }
+    },
+    {
+      "num": 36,
+      "geez": "ኍለቊሆሙ ፡ ዘእምነገደ ፡ ብንያሚ ፡ ፫፻-፻፶፬፻ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኍለቊሆሙ",
+          "t": "ḫwəläqwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምነገደ",
+          "t": "zäʾəmənägädä",
+          "gl": ""
+        },
+        {
+          "g": "ብንያሚ",
+          "t": "bənəyami",
+          "gl": ""
+        },
+        {
+          "g": "፫፻-፻፶፬፻",
+          "t": "3100-100504100",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For the sons of Gad according to their kindreds, according to their divisions, according to the houses of their families, according to the number of their names, according to their polls, all males from twenty years old and upward, every one that goes forth with the host,",
+        "kjv": "Of the children of Benjamin, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;"
+      }
+    },
+    {
+      "num": 37,
+      "geez": "ወደቂቁኒ ፡ ለጋድ ፡ በበአዝማዲሆሙ ፡ ወበበሕዘቢሆሙ ፡ ወበበአብያተ ፡ አበዊሆሙ ፡ ወበበኍልቈ ፡ አስማቲሆሙ ፡ ወበበ ፡\n                  ርእሶሙ ፡ ኵሉ ፡ ተባዕት ፡ ዘእም፳ዓም ፡ ወላዕሉ ፡ እምኔሁ ፡ ኵሉ ፡ ዘይወፅእ ፡ ምስለ ፡ ኀይል ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወደቂቁኒ",
+          "t": "wädäqiquni",
+          "gl": ""
+        },
+        {
+          "g": "ለጋድ",
+          "t": "lägadə",
+          "gl": ""
+        },
+        {
+          "g": "በበአዝማዲሆሙ",
+          "t": "bäbäʾäzəmadihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበሕዘቢሆሙ",
+          "t": "wäbäbäḥəzäbihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበአብያተ",
+          "t": "wäbäbäʾäbəyatä",
+          "gl": ""
+        },
+        {
+          "g": "አበዊሆሙ",
+          "t": "ʾäbäwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበኍልቈ",
+          "t": "wäbäbäḫwələqwä",
+          "gl": ""
+        },
+        {
+          "g": "አስማቲሆሙ",
+          "t": "ʾäsəmatihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበ",
+          "t": "wäbäbä",
+          "gl": ""
+        },
+        {
+          "g": "ርእሶሙ",
+          "t": "rəʾəsomu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ተባዕት",
+          "t": "täbaʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእም፳ዓም",
+          "t": "zäʾəmə20ʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ወላዕሉ",
+          "t": "wälaʿəlu",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይወፅእ",
+          "t": "zäyəwäṣ́əʾə",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኀይል",
+          "t": "ḫäyələ",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "the numbering of them of the tribe of Gad, was forty and five thousand and six hundred and fifty.",
+        "kjv": "Those that were numbered of them, even of the tribe of Benjamin, were thirty and five thousand and four hundred."
+      }
+    },
+    {
+      "num": 38,
+      "geez": "ኍለቊሆሙ ፡ ዘእምነገደ ፡ ጋድ ፡ ፬፻-፻፶፻፯፻፶ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኍለቊሆሙ",
+          "t": "ḫwəläqwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምነገደ",
+          "t": "zäʾəmənägädä",
+          "gl": ""
+        },
+        {
+          "g": "ጋድ",
+          "t": "gadə",
+          "gl": ""
+        },
+        {
+          "g": "፬፻-፻፶፻፯፻፶",
+          "t": "4100-10050100710050",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For the sons of Dan according to their kindreds, according to their divisions, according to the houses of their families, according to the number of their names, according to their polls, all males from twenty years old and upward, every one that goes forth with the host,",
+        "kjv": "Of the children of Dan, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;"
+      }
+    },
+    {
+      "num": 39,
+      "geez": "ወደቂቁኒ ፡ ለዳን ፡ በበአዝማዲሆሙ ፡ ወበበሕዘቢሆሙ ፡ ወበበአብያተ ፡ አበዊሆሙ ፡ ወበበኍልቈ ፡ አስማቲሆሙ ፡ ወበበርእሶሙ\n                  ፡ ኵሉ ፡ ተባዕት ፡ ዘእም፳ዓም ፡ ወላዕሉ ፡ እምኔሁ ፡ ኵሉ ፡ ዘይወፅእ ፡ ምስለ ፡ ኀይል ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወደቂቁኒ",
+          "t": "wädäqiquni",
+          "gl": ""
+        },
+        {
+          "g": "ለዳን",
+          "t": "lädanə",
+          "gl": ""
+        },
+        {
+          "g": "በበአዝማዲሆሙ",
+          "t": "bäbäʾäzəmadihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበሕዘቢሆሙ",
+          "t": "wäbäbäḥəzäbihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበአብያተ",
+          "t": "wäbäbäʾäbəyatä",
+          "gl": ""
+        },
+        {
+          "g": "አበዊሆሙ",
+          "t": "ʾäbäwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበኍልቈ",
+          "t": "wäbäbäḫwələqwä",
+          "gl": ""
+        },
+        {
+          "g": "አስማቲሆሙ",
+          "t": "ʾäsəmatihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበርእሶሙ",
+          "t": "wäbäbärəʾəsomu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ተባዕት",
+          "t": "täbaʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእም፳ዓም",
+          "t": "zäʾəmə20ʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ወላዕሉ",
+          "t": "wälaʿəlu",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይወፅእ",
+          "t": "zäyəwäṣ́əʾə",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኀይል",
+          "t": "ḫäyələ",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "the numbering of them of the tribe of Dan, was sixty and two thousand and seven hundred.",
+        "kjv": "Those that were numbered of them, even of the tribe of Dan, were threescore and two thousand and seven hundred."
+      }
+    },
+    {
+      "num": 40,
+      "geez": "ኍለቊሆሙ ፡ ዘእምነገደ ፡ ዳን ፡ ፯፻-፻፳፻፯፻ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኍለቊሆሙ",
+          "t": "ḫwəläqwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምነገደ",
+          "t": "zäʾəmənägädä",
+          "gl": ""
+        },
+        {
+          "g": "ዳን",
+          "t": "danə",
+          "gl": ""
+        },
+        {
+          "g": "፯፻-፻፳፻፯፻",
+          "t": "7100-100201007100",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For the sons of Aser according to their kindreds, according to their divisions, according to the houses of their families, according to the number of their names, according to their polls, every male from twenty years old and upward, every one that goes forth with the host,",
+        "kjv": "Of the children of Asher, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;"
+      }
+    },
+    {
+      "num": 41,
+      "geez": "ወደቂቁኒ ፡ ለአሴር ፡ በበአዝማዲሆሙ ፡ ወበበሕዘቢሆሙ ፡ ወበበአብያተ ፡ አበዊሆሙ ፡ ወበበኍልቈ ፡ አስማቲሆሙ ፡\n                  ወበበርእሶሙ ፡ ኵሉ ፡ ተባዕት ፡ ዘእም፳ዓም ፡ ወላዕሉ ፡ እምኔሁ ፡ ዘይወፅእ ፡ ምስለ ፡ ኀይል ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወደቂቁኒ",
+          "t": "wädäqiquni",
+          "gl": ""
+        },
+        {
+          "g": "ለአሴር",
+          "t": "läʾäserə",
+          "gl": ""
+        },
+        {
+          "g": "በበአዝማዲሆሙ",
+          "t": "bäbäʾäzəmadihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበሕዘቢሆሙ",
+          "t": "wäbäbäḥəzäbihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበአብያተ",
+          "t": "wäbäbäʾäbəyatä",
+          "gl": ""
+        },
+        {
+          "g": "አበዊሆሙ",
+          "t": "ʾäbäwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበኍልቈ",
+          "t": "wäbäbäḫwələqwä",
+          "gl": ""
+        },
+        {
+          "g": "አስማቲሆሙ",
+          "t": "ʾäsəmatihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበርእሶሙ",
+          "t": "wäbäbärəʾəsomu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ተባዕት",
+          "t": "täbaʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእም፳ዓም",
+          "t": "zäʾəmə20ʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ወላዕሉ",
+          "t": "wälaʿəlu",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይወፅእ",
+          "t": "zäyəwäṣ́əʾə",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኀይል",
+          "t": "ḫäyələ",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "the numbering of them of the tribe of Aser, was forty and one thousand and five hundred.",
+        "kjv": "Those that were numbered of them, even of the tribe of Asher, were forty and one thousand and five hundred."
+      }
+    },
+    {
+      "num": 42,
+      "geez": "ኍለቊሆሙ ፡ ዘእምነገደ ፡ አሴር ፡ ፬፻-፻፲፻፭፻ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኍለቊሆሙ",
+          "t": "ḫwəläqwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምነገደ",
+          "t": "zäʾəmənägädä",
+          "gl": ""
+        },
+        {
+          "g": "አሴር",
+          "t": "ʾäserə",
+          "gl": ""
+        },
+        {
+          "g": "፬፻-፻፲፻፭፻",
+          "t": "4100-100101005100",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For the sons of Nephthali according to their kindreds, according to their divisions, according to the houses of their families, according to the number of their names, according to their polls, every male from twenty years old and upward, every one who goes forth with the host,",
+        "kjv": "Of the children of Naphtali, throughout their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;"
+      }
+    },
+    {
+      "num": 43,
+      "geez": "ወደቂቁኒ ፡ ለንፍታሌም ፡ በበአዝማዲሆሙ ፡ ወበበሕዘቤሆሙ ፡ ወበበአብያተ ፡ አበዊሆሙ ፡ ወበበኍልቈ ፡ አስማቲሆሙ ፡\n                  ወበበርእሶሙ ፡ ኵሉ ፡ ተባዕት ፡ ዘእም፳ዓም ፡ ወላዕሉ ፡ እምኔሁ ፡ ኵሉ ፡ ዘይወፅእ ፡ ምስለ ፡ ኀይል ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወደቂቁኒ",
+          "t": "wädäqiquni",
+          "gl": ""
+        },
+        {
+          "g": "ለንፍታሌም",
+          "t": "länəfətalemə",
+          "gl": ""
+        },
+        {
+          "g": "በበአዝማዲሆሙ",
+          "t": "bäbäʾäzəmadihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበሕዘቤሆሙ",
+          "t": "wäbäbäḥəzäbehomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበአብያተ",
+          "t": "wäbäbäʾäbəyatä",
+          "gl": ""
+        },
+        {
+          "g": "አበዊሆሙ",
+          "t": "ʾäbäwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበኍልቈ",
+          "t": "wäbäbäḫwələqwä",
+          "gl": ""
+        },
+        {
+          "g": "አስማቲሆሙ",
+          "t": "ʾäsəmatihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበርእሶሙ",
+          "t": "wäbäbärəʾəsomu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ተባዕት",
+          "t": "täbaʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእም፳ዓም",
+          "t": "zäʾəmə20ʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ወላዕሉ",
+          "t": "wälaʿəlu",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይወፅእ",
+          "t": "zäyəwäṣ́əʾə",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኀይል",
+          "t": "ḫäyələ",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "the numbering of them of the tribe of Nephthali, was fifty-three thousand and four hundred.",
+        "kjv": "Those that were numbered of them, even of the tribe of Naphtali, were fifty and three thousand and four hundred."
+      }
+    },
+    {
+      "num": 44,
+      "geez": "ኍለቊሆሙ ፡ ዘእምነገደ ፡ ንፍታሌም ፡ ፭፻-፻፴፻፬፻ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኍለቊሆሙ",
+          "t": "ḫwəläqwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምነገደ",
+          "t": "zäʾəmənägädä",
+          "gl": ""
+        },
+        {
+          "g": "ንፍታሌም",
+          "t": "nəfətalemə",
+          "gl": ""
+        },
+        {
+          "g": "፭፻-፻፴፻፬፻",
+          "t": "5100-100301004100",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "This is the numbering which Moses and Aaron and the rulers of Israel, being twelve men, conducted: there was a man for each tribe, they were according to the tribe of the houses of their family.",
+        "kjv": "These are those that were numbered, which Moses and Aaron numbered, and the princes of Israel, being twelve men: each one was for the house of his fathers."
+      }
+    },
+    {
+      "num": 45,
+      "geez": "ዛቲ ፡ ይእቲ ፡ ፍቅድ ፡ እንተ ፡ አስተፋቀድዎሙ ፡ ሙሴ ፡ ወአሮን ፡ ወመላእክቲሆሙ ፡ ለእስራኤል ፡ ፲ወ፪ዕደው ፡ አሐዱ\n                  ፡ አሐዱ ፡ ብእሲ ፡ እምውስተ ፡ ፩፩ነገድ ፡ አምነገደ ፡ አብያተ ፡ አበዊሆሙ ፡ ውእቶሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዛቲ",
+          "t": "zati",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ፍቅድ",
+          "t": "fəqədə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "አስተፋቀድዎሙ",
+          "t": "ʾäsətäfaqädəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ወአሮን",
+          "t": "wäʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ወመላእክቲሆሙ",
+          "t": "wämälaʾəkətihomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእስራኤል",
+          "t": "läʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "፲ወ፪ዕደው",
+          "t": "10wä2ʿədäwə",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "፩፩ነገድ",
+          "t": "11nägädə",
+          "gl": ""
+        },
+        {
+          "g": "አምነገደ",
+          "t": "ʾämənägädä",
+          "gl": ""
+        },
+        {
+          "g": "አብያተ",
+          "t": "ʾäbəyatä",
+          "gl": ""
+        },
+        {
+          "g": "አበዊሆሙ",
+          "t": "ʾäbäwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቶሙ",
+          "t": "wəʾətomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the whole numbering of the children of Israel with their host from twenty years old and upward, every one that goes out to set himself in battle array in Israel, came to",
+        "kjv": "So were all those that were numbered of the children of Israel, by the house of their fathers, from twenty years old and upward, all that were able to go forth to war in Israel;"
+      }
+    },
+    {
+      "num": 46,
+      "geez": "ወኮነ ፡ ኵሉ ፡ ኍለቊሆሙ ፡ ለደቂቀ ፡ እስራኤል ፡ ምስለ ፡ ኀይሎሙ ፡ ዘእም፳ዓም ፡ ወላዕሉ ፡ አምኔሁ ፡ ኵሉ ፡\n                  ዘይወፅእ ፡ ፀብአ ፡ እምነ ፡ እስራኤል ፡ ፷፻-፻፴፻፭፻፶ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኮነ",
+          "t": "wäkonä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ኍለቊሆሙ",
+          "t": "ḫwəläqwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኀይሎሙ",
+          "t": "ḫäyəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘእም፳ዓም",
+          "t": "zäʾəmə20ʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ወላዕሉ",
+          "t": "wälaʿəlu",
+          "gl": ""
+        },
+        {
+          "g": "አምኔሁ",
+          "t": "ʾämənehu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይወፅእ",
+          "t": "zäyəwäṣ́əʾə",
+          "gl": ""
+        },
+        {
+          "g": "ፀብአ",
+          "t": "ṣ́äbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "፷፻-፻፴፻፭፻፶",
+          "t": "60100-10030100510050",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "six hundred thousand and three thousand and five hundred and fifty.",
+        "kjv": "Even all they that were numbered were six hundred thousand and three thousand and five hundred and fifty."
+      }
+    },
+    {
+      "num": 47,
+      "geez": "ወሌዋውያንሰ ፡ ምስለ ፡ ነገደ ፡ ፍጥረቶሙ ፡ እሙንቱ ፡ ወኢኈለቍዎሙ ፡ ውስተ ፡ ደቂቀ ፡ እስራኤል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሌዋውያንሰ",
+          "t": "wälewawəyanəsä",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ነገደ",
+          "t": "nägädä",
+          "gl": ""
+        },
+        {
+          "g": "ፍጥረቶሙ",
+          "t": "fəṭərätomu",
+          "gl": ""
+        },
+        {
+          "g": "እሙንቱ",
+          "t": "ʾəmunətu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢኈለቍዎሙ",
+          "t": "wäʾiḫwäläqwəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But the Levites of the tribe of their family were not counted among the children of Israel.",
+        "kjv": "But the Levites after the tribe of their fathers were not numbered among them."
+      }
+    },
+    {
+      "num": 48,
+      "geez": "ወነበቦ ፡ እግዚአብሔር ፡ ለሙሴ ፡ ወይቤሎ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነበቦ",
+          "t": "wänäbäbo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord spoke to Moses, saying,",
+        "kjv": "For the LORD had spoken unto Moses, saying,"
+      }
+    },
+    {
+      "num": 49,
+      "geez": "ዑቅ ፡ ኢትኈልቆሙ ፡ ለነገደ ፡ ሌዊ ፡ ወኢትትመጠው ፡ ኍለቊሆሙ ፡ እምነ ፡ ደቂቀ ፡ እስራኤል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዑቅ",
+          "t": "ʿuqə",
+          "gl": ""
+        },
+        {
+          "g": "ኢትኈልቆሙ",
+          "t": "ʾitəḫwäləqomu",
+          "gl": ""
+        },
+        {
+          "g": "ለነገደ",
+          "t": "länägädä",
+          "gl": ""
+        },
+        {
+          "g": "ሌዊ",
+          "t": "lewi",
+          "gl": ""
+        },
+        {
+          "g": "ወኢትትመጠው",
+          "t": "wäʾitətəmäṭäwə",
+          "gl": ""
+        },
+        {
+          "g": "ኍለቊሆሙ",
+          "t": "ḫwəläqwihomu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "See, thou shalt not muster the tribe of Levi, and thou shalt not take their numbers, in the midst of the children of Israel.",
+        "kjv": "Only thou shalt not number the tribe of Levi, neither take the sum of them among the children of Israel:"
+      }
+    },
+    {
+      "num": 50,
+      "geez": "ወሢሞሙ ፡ ለሌዋውያን ፡ ዲበ ፡ ደብተራ ፡ ዘመርጡል ፡ ወዲበ ፡ ኵሉ ፡ ንዋያ ፡ ወዲበ ፡ ኵሉ ፡ ዘቦቱ ፡ ውስቴታ ፡ ከመ\n                  ፡ እሙንቱ ፡ ያንሥእዋ ፡ ለደብተራ ፡ ወለኵሉ ፡ ንዋያ ፡ ወከመ ፡ እሙንቱ ፡ ይግበሩ ፡ ውስቴታ ፡ [ወዐውደ ፡ ደብተራ ፡\n                  ይትዐየኑ ።]",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሢሞሙ",
+          "t": "wäśimomu",
+          "gl": ""
+        },
+        {
+          "g": "ለሌዋውያን",
+          "t": "lälewawəyanə",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "ደብተራ",
+          "t": "däbətära",
+          "gl": ""
+        },
+        {
+          "g": "ዘመርጡል",
+          "t": "zämärəṭulə",
+          "gl": ""
+        },
+        {
+          "g": "ወዲበ",
+          "t": "wädibä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ንዋያ",
+          "t": "nəwaya",
+          "gl": ""
+        },
+        {
+          "g": "ወዲበ",
+          "t": "wädibä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘቦቱ",
+          "t": "zäbotu",
+          "gl": ""
+        },
+        {
+          "g": "ውስቴታ",
+          "t": "wəsəteta",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "እሙንቱ",
+          "t": "ʾəmunətu",
+          "gl": ""
+        },
+        {
+          "g": "ያንሥእዋ",
+          "t": "yanəśəʾəwa",
+          "gl": ""
+        },
+        {
+          "g": "ለደብተራ",
+          "t": "lädäbətära",
+          "gl": ""
+        },
+        {
+          "g": "ወለኵሉ",
+          "t": "wäläkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ንዋያ",
+          "t": "nəwaya",
+          "gl": ""
+        },
+        {
+          "g": "ወከመ",
+          "t": "wäkämä",
+          "gl": ""
+        },
+        {
+          "g": "እሙንቱ",
+          "t": "ʾəmunətu",
+          "gl": ""
+        },
+        {
+          "g": "ይግበሩ",
+          "t": "yəgəbäru",
+          "gl": ""
+        },
+        {
+          "g": "ውስቴታ",
+          "t": "wəsəteta",
+          "gl": ""
+        },
+        {
+          "g": "ወዐውደ",
+          "t": "wäʿäwədä",
+          "gl": ""
+        },
+        {
+          "g": "ደብተራ",
+          "t": "däbətära",
+          "gl": ""
+        },
+        {
+          "g": "ይትዐየኑ",
+          "t": "yətəʿäyänu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And do thou set the Levites over the tabernacle of witness, and over all its furniture, and over all things that are in it; and they shall do service in it, and they shall encamp round about the tabernacle.",
+        "kjv": "But thou shalt appoint the Levites over the tabernacle of testimony, and over all the vessels thereof, and over all things that belong to it: they shall bear the tabernacle, and all the vessels thereof; and they shall minister unto it, and shall encamp round about the tabernacle."
+      }
+    },
+    {
+      "num": 51,
+      "geez": "ወእመኒ ፡ ግዕዝት ፡ ደብተራ ፡ ይ[ተ]ክልዋ ፡ ሌዋውያን ፡ ወእመሰ ፡ ኅድርት ፡ ይእቲ ፡ ደብተራ ፡ እሙንቱ ፡ ያነሥእዋ\n                  ፡ ወዘእምባዕድ ፡ ዘመድ ፡ ዘአኅበረ ፡ ምስሌሆሙ ፡ ሐዊረ ፡ ለይሙት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመኒ",
+          "t": "wäʾəmäni",
+          "gl": ""
+        },
+        {
+          "g": "ግዕዝት",
+          "t": "gəʿəzətə",
+          "gl": ""
+        },
+        {
+          "g": "ደብተራ",
+          "t": "däbətära",
+          "gl": ""
+        },
+        {
+          "g": "ይተክልዋ",
+          "t": "yətäkələwa",
+          "gl": ""
+        },
+        {
+          "g": "ሌዋውያን",
+          "t": "lewawəyanə",
+          "gl": ""
+        },
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "ኅድርት",
+          "t": "ḫədərətə",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ደብተራ",
+          "t": "däbətära",
+          "gl": ""
+        },
+        {
+          "g": "እሙንቱ",
+          "t": "ʾəmunətu",
+          "gl": ""
+        },
+        {
+          "g": "ያነሥእዋ",
+          "t": "yanäśəʾəwa",
+          "gl": ""
+        },
+        {
+          "g": "ወዘእምባዕድ",
+          "t": "wäzäʾəməbaʿədə",
+          "gl": ""
+        },
+        {
+          "g": "ዘመድ",
+          "t": "zämädə",
+          "gl": ""
+        },
+        {
+          "g": "ዘአኅበረ",
+          "t": "zäʾäḫəbärä",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሆሙ",
+          "t": "məsəlehomu",
+          "gl": ""
+        },
+        {
+          "g": "ሐዊረ",
+          "t": "ḥäwirä",
+          "gl": ""
+        },
+        {
+          "g": "ለይሙት",
+          "t": "läyəmutə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And in removing the tabernacle, the Levites shall take it down, and in pitching the tabernacle they shall set it up: and let the stranger that advances to touch it die.",
+        "kjv": "And when the tabernacle setteth forward, the Levites shall take it down: and when the tabernacle is to be pitched, the Levites shall set it up: and the stranger that cometh nigh shall be put to death."
+      }
+    },
+    {
+      "num": 52,
+      "geez": "ወይትዐየኑ ፡ ደቂቀ ፡ እስራኤል ፡ ብእሲ ፡ ብእሲ ፡ ምስለ ፡ ቢጹ ፡ ወብእሲ ፡ ምስለ ፡ ምስፍናሁ ፡ በበኀይሎሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይትዐየኑ",
+          "t": "wäyətəʿäyänu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ቢጹ",
+          "t": "biṣu",
+          "gl": ""
+        },
+        {
+          "g": "ወብእሲ",
+          "t": "wäbəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ምስፍናሁ",
+          "t": "məsəfənahu",
+          "gl": ""
+        },
+        {
+          "g": "በበኀይሎሙ",
+          "t": "bäbäḫäyəlomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the children of Israel shall encamp, every man in his own order, and every man according to his company, with their host.",
+        "kjv": "And the children of Israel shall pitch their tents, every man by his own camp, and every man by his own standard, throughout their hosts."
+      }
+    },
+    {
+      "num": 53,
+      "geez": "ወሌዋውያንሰ ፡ ይትዐየኑ ፡ ፍጽመ ፡ ውስተ ፡ ዐውደ ፡ ደብተራ ፡ ዘመርጡል ፡ ወኢይከውን ፡ ጌጋይ ፡ ላዕለ ፡ ደቂቀ ፡\n                  እስራኤል ፡ ወይዕቀቡ ፡ ሌዋውያን ፡ ሕጋ ፡ ለደብተራ ፡ መርጡል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሌዋውያንሰ",
+          "t": "wälewawəyanəsä",
+          "gl": ""
+        },
+        {
+          "g": "ይትዐየኑ",
+          "t": "yətəʿäyänu",
+          "gl": ""
+        },
+        {
+          "g": "ፍጽመ",
+          "t": "fəṣəmä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዐውደ",
+          "t": "ʿäwədä",
+          "gl": ""
+        },
+        {
+          "g": "ደብተራ",
+          "t": "däbətära",
+          "gl": ""
+        },
+        {
+          "g": "ዘመርጡል",
+          "t": "zämärəṭulə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይከውን",
+          "t": "wäʾiyəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ጌጋይ",
+          "t": "gegayə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወይዕቀቡ",
+          "t": "wäyəʿəqäbu",
+          "gl": ""
+        },
+        {
+          "g": "ሌዋውያን",
+          "t": "lewawəyanə",
+          "gl": ""
+        },
+        {
+          "g": "ሕጋ",
+          "t": "ḥəga",
+          "gl": ""
+        },
+        {
+          "g": "ለደብተራ",
+          "t": "lädäbətära",
+          "gl": ""
+        },
+        {
+          "g": "መርጡል",
+          "t": "märəṭulə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But let the Levites encamp round about the tabernacle of witness fronting it, and so there shall be no sin among the children of Israel; and the Levites themselves shall keep the guard of the tabernacle of witness.",
+        "kjv": "But the Levites shall pitch round about the tabernacle of testimony, that there be no wrath upon the congregation of the children of Israel: and the Levites shall keep the charge of the tabernacle of testimony."
+      }
+    },
+    {
+      "num": 54,
+      "geez": "ወገብሩ ፡ ደቂቀ ፡ እስራኤል ፡ ኵሎ ፡ ዘአዘዞሙ ፡ እግዚአብሔር ፡ ለሙሴ ፡ ወለአሮን ፡ ከማሁ ፡ ገብሩ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወገብሩ",
+          "t": "wägäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ዘአዘዞሙ",
+          "t": "zäʾäzäzomu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ወለአሮን",
+          "t": "wäläʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ከማሁ",
+          "t": "kämahu",
+          "gl": ""
+        },
+        {
+          "g": "ገብሩ",
+          "t": "gäbəru",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the children of Israel did according to all that the Lord commanded Moses and Aaron, so did they.",
+        "kjv": "And the children of Israel did according to all that the LORD commanded Moses, so did they."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

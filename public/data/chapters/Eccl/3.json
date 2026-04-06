@@ -1,0 +1,1630 @@
+{
+  "book": "Eccl",
+  "chapter": 3,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ቦ፡ ለኩሉ፡ ዘመን፡ ወቦ፡ ጊዜ፡ ለኵሉ፡ ምግባር፡ እምታሕተ፡ ፀሐይ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ቦ",
+          "t": "bo",
+          "gl": ""
+        },
+        {
+          "g": "ለኩሉ",
+          "t": "läkulu",
+          "gl": ""
+        },
+        {
+          "g": "ዘመን",
+          "t": "zämänə",
+          "gl": ""
+        },
+        {
+          "g": "ወቦ",
+          "t": "wäbo",
+          "gl": ""
+        },
+        {
+          "g": "ጊዜ",
+          "t": "gize",
+          "gl": ""
+        },
+        {
+          "g": "ለኵሉ",
+          "t": "läkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ምግባር",
+          "t": "məgəbarə",
+          "gl": ""
+        },
+        {
+          "g": "እምታሕተ",
+          "t": "ʾəmətaḥətä",
+          "gl": ""
+        },
+        {
+          "g": "ፀሐይ",
+          "t": "ṣ́äḥäyə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "To all things there is a time, and a season for every matter under heaven.",
+        "kjv": "To every thing there is a season, and a time to every purpose under the heaven:"
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ጊዜ፡ ለጸኒስ፡ ወጊዜ፡ ለወሊድ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ጊዜ",
+          "t": "gize",
+          "gl": ""
+        },
+        {
+          "g": "ለጸኒስ",
+          "t": "läṣänisə",
+          "gl": ""
+        },
+        {
+          "g": "ወጊዜ",
+          "t": "wägize",
+          "gl": ""
+        },
+        {
+          "g": "ለወሊድ",
+          "t": "läwälidə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "A time of birth, and a time to die; a time to plant, and a time to pluck up what has been planted;",
+        "kjv": "A time to be born, and a time to die; a time to plant, and a time to pluck up that which is planted;"
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ጊዜ፡ ለሕይወት፡ ወጊዜ፡ ለመዊት፡ ጊዜ፡ ለተኪል፡ ወጊዜ፡ ለመሊኅ፡ ዘተከሉ፡ ጊዜ፡ ለአቊስሎ፡ ወጊዜ፡ ለፈውሶ፡ ጊዜ፡ ለሐኒፅ፡ ወጊዜ፡ ለነሢት።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ጊዜ",
+          "t": "gize",
+          "gl": ""
+        },
+        {
+          "g": "ለሕይወት",
+          "t": "läḥəyəwätə",
+          "gl": ""
+        },
+        {
+          "g": "ወጊዜ",
+          "t": "wägize",
+          "gl": ""
+        },
+        {
+          "g": "ለመዊት",
+          "t": "lämäwitə",
+          "gl": ""
+        },
+        {
+          "g": "ጊዜ",
+          "t": "gize",
+          "gl": ""
+        },
+        {
+          "g": "ለተኪል",
+          "t": "lätäkilə",
+          "gl": ""
+        },
+        {
+          "g": "ወጊዜ",
+          "t": "wägize",
+          "gl": ""
+        },
+        {
+          "g": "ለመሊኅ",
+          "t": "lämäliḫə",
+          "gl": ""
+        },
+        {
+          "g": "ዘተከሉ",
+          "t": "zätäkälu",
+          "gl": ""
+        },
+        {
+          "g": "ጊዜ",
+          "t": "gize",
+          "gl": ""
+        },
+        {
+          "g": "ለአቊስሎ",
+          "t": "läʾäqwisəlo",
+          "gl": ""
+        },
+        {
+          "g": "ወጊዜ",
+          "t": "wägize",
+          "gl": ""
+        },
+        {
+          "g": "ለፈውሶ",
+          "t": "läfäwəso",
+          "gl": ""
+        },
+        {
+          "g": "ጊዜ",
+          "t": "gize",
+          "gl": ""
+        },
+        {
+          "g": "ለሐኒፅ",
+          "t": "läḥäniṣ́ə",
+          "gl": ""
+        },
+        {
+          "g": "ወጊዜ",
+          "t": "wägize",
+          "gl": ""
+        },
+        {
+          "g": "ለነሢት",
+          "t": "länäśitə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "a time to kill, and a time to heal; a time to pull down, and a time to build up;",
+        "kjv": "A time to kill, and a time to heal; a time to break down, and a time to build up;"
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ጊዜ፡ ለብካይ፡ ወጊዜ፡ ለሰሐቅ፡ ጊዜ፡ ላህዎ፡ ወጊዜ፡ ለዘፊን።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ጊዜ",
+          "t": "gize",
+          "gl": ""
+        },
+        {
+          "g": "ለብካይ",
+          "t": "läbəkayə",
+          "gl": ""
+        },
+        {
+          "g": "ወጊዜ",
+          "t": "wägize",
+          "gl": ""
+        },
+        {
+          "g": "ለሰሐቅ",
+          "t": "läsäḥäqə",
+          "gl": ""
+        },
+        {
+          "g": "ጊዜ",
+          "t": "gize",
+          "gl": ""
+        },
+        {
+          "g": "ላህዎ",
+          "t": "lahəwo",
+          "gl": ""
+        },
+        {
+          "g": "ወጊዜ",
+          "t": "wägize",
+          "gl": ""
+        },
+        {
+          "g": "ለዘፊን",
+          "t": "läzäfinə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "a time to weep, and a time to laugh; a time to lament, and a time to dance;",
+        "kjv": "A time to weep, and a time to laugh; a time to mourn, and a time to dance;"
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ጊዜ፡ ለወርዎ፡ እብን፡ ወጊዜ፡ ለአስተጋብኦ፡ እብን፡ ጊዜ፡ ለተሐቅፎ፡ ወጊዜ፡ ለተራኅቆ፡ እምተሐቅፎ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ጊዜ",
+          "t": "gize",
+          "gl": ""
+        },
+        {
+          "g": "ለወርዎ",
+          "t": "läwärəwo",
+          "gl": ""
+        },
+        {
+          "g": "እብን",
+          "t": "ʾəbənə",
+          "gl": ""
+        },
+        {
+          "g": "ወጊዜ",
+          "t": "wägize",
+          "gl": ""
+        },
+        {
+          "g": "ለአስተጋብኦ",
+          "t": "läʾäsətägabəʾo",
+          "gl": ""
+        },
+        {
+          "g": "እብን",
+          "t": "ʾəbənə",
+          "gl": ""
+        },
+        {
+          "g": "ጊዜ",
+          "t": "gize",
+          "gl": ""
+        },
+        {
+          "g": "ለተሐቅፎ",
+          "t": "lätäḥäqəfo",
+          "gl": ""
+        },
+        {
+          "g": "ወጊዜ",
+          "t": "wägize",
+          "gl": ""
+        },
+        {
+          "g": "ለተራኅቆ",
+          "t": "lätäraḫəqo",
+          "gl": ""
+        },
+        {
+          "g": "እምተሐቅፎ",
+          "t": "ʾəmətäḥäqəfo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "a time to throw stones, and a time to gather stones together; a time to embrace, and a time to abstain from embracing;",
+        "kjv": "A time to cast away stones, and a time to gather stones together; a time to embrace, and a time to refrain from embracing;"
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ጊዜ፡ ለኃሢሥ፡ ወጊዜ፡ ለኀጒል፡ ጊዜ፡ ለአቂብ፡ ወጊዜ፡ ለአውፅኦ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ጊዜ",
+          "t": "gize",
+          "gl": ""
+        },
+        {
+          "g": "ለኃሢሥ",
+          "t": "läḫaśiśə",
+          "gl": ""
+        },
+        {
+          "g": "ወጊዜ",
+          "t": "wägize",
+          "gl": ""
+        },
+        {
+          "g": "ለኀጒል",
+          "t": "läḫägwilə",
+          "gl": ""
+        },
+        {
+          "g": "ጊዜ",
+          "t": "gize",
+          "gl": ""
+        },
+        {
+          "g": "ለአቂብ",
+          "t": "läʾäqibə",
+          "gl": ""
+        },
+        {
+          "g": "ወጊዜ",
+          "t": "wägize",
+          "gl": ""
+        },
+        {
+          "g": "ለአውፅኦ",
+          "t": "läʾäwəṣ́əʾo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "a time to seek, and a time to lose; a time to keep, and a time to cast away;",
+        "kjv": "A time to get, and a time to lose; a time to keep, and a time to cast away;"
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ጊዜ፡ ለሰጢጥ፡ ወጊዜ፡ ለረፊእ፡ ጊዜ፡ ለአርምሞ፡ ወጊዜ፡ ለተናግሮ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ጊዜ",
+          "t": "gize",
+          "gl": ""
+        },
+        {
+          "g": "ለሰጢጥ",
+          "t": "läsäṭiṭə",
+          "gl": ""
+        },
+        {
+          "g": "ወጊዜ",
+          "t": "wägize",
+          "gl": ""
+        },
+        {
+          "g": "ለረፊእ",
+          "t": "läräfiʾə",
+          "gl": ""
+        },
+        {
+          "g": "ጊዜ",
+          "t": "gize",
+          "gl": ""
+        },
+        {
+          "g": "ለአርምሞ",
+          "t": "läʾärəməmo",
+          "gl": ""
+        },
+        {
+          "g": "ወጊዜ",
+          "t": "wägize",
+          "gl": ""
+        },
+        {
+          "g": "ለተናግሮ",
+          "t": "lätänagəro",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "a time to rend, and a time to sew; a time to be silent, and a time to speak;",
+        "kjv": "A time to rend, and a time to sew; a time to keep silence, and a time to speak;"
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ጊዜ፡ ለአፍቅሮ፡ ወጊዜ፡ ለጽልእ፡ ጊዜ፡ ለጸብእ፡ ወጊዜ፡ ለሰላም።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ጊዜ",
+          "t": "gize",
+          "gl": ""
+        },
+        {
+          "g": "ለአፍቅሮ",
+          "t": "läʾäfəqəro",
+          "gl": ""
+        },
+        {
+          "g": "ወጊዜ",
+          "t": "wägize",
+          "gl": ""
+        },
+        {
+          "g": "ለጽልእ",
+          "t": "läṣələʾə",
+          "gl": ""
+        },
+        {
+          "g": "ጊዜ",
+          "t": "gize",
+          "gl": ""
+        },
+        {
+          "g": "ለጸብእ",
+          "t": "läṣäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወጊዜ",
+          "t": "wägize",
+          "gl": ""
+        },
+        {
+          "g": "ለሰላም",
+          "t": "läsälamə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "a time to love, and a time to hate; a time of war, and a time of peace.",
+        "kjv": "A time to love, and a time to hate; a time of war, and a time of peace."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ምንት፡ ፍድፋዴሁ፡ ለዘይገብር፡ በዘውእቱ፡ ይሠርኅ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ምንት",
+          "t": "mənətə",
+          "gl": ""
+        },
+        {
+          "g": "ፍድፋዴሁ",
+          "t": "fədəfadehu",
+          "gl": ""
+        },
+        {
+          "g": "ለዘይገብር",
+          "t": "läzäyəgäbərə",
+          "gl": ""
+        },
+        {
+          "g": "በዘውእቱ",
+          "t": "bäzäwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ይሠርኅ",
+          "t": "yəśärəḫə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "What advantage has he that works in those things wherein he labours?",
+        "kjv": "What profit hath he that worketh in that wherein he laboureth?"
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ርኢኩ፡ ኵሎ፡ ሥራኀ፡ ዘወሀበ፡ እግዚአብሄር፡ ለውሉደ፡ ሰብእ፡ ሥራኀ፡ ከመ፡ ይሥርኁ፡ ቦቱ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ርኢኩ",
+          "t": "rəʾiku",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ሥራኀ",
+          "t": "śəraḫä",
+          "gl": ""
+        },
+        {
+          "g": "ዘወሀበ",
+          "t": "zäwähäbä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሄር",
+          "t": "ʾəgəziʾäbəherə",
+          "gl": ""
+        },
+        {
+          "g": "ለውሉደ",
+          "t": "läwəludä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ሥራኀ",
+          "t": "śəraḫä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይሥርኁ",
+          "t": "yəśərəḫu",
+          "gl": ""
+        },
+        {
+          "g": "ቦቱ",
+          "t": "botu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "I have seen all the trouble, which God has given to the sons of men to be troubled with.",
+        "kjv": "I have seen the travail, which God hath given to the sons of men to be exercised in it."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ኵሉ፡ ሠናይ፡ ዘገብረ፡ በጊዜሁ፡ ወኵሎ፡ ኅቡረ፡ ወሀቦ፡ ለዓለም፡ ውስተ፡ ልቡ፡ ከመ፡ ኢይርከብ፡ ሰብእ፡ ግብረ፡ ዘገብረ፡ እግዚአብሔር፡ እምጥንቱ፡ እስከ፡ ተፍጻሜቱ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይ",
+          "t": "śänayə",
+          "gl": ""
+        },
+        {
+          "g": "ዘገብረ",
+          "t": "zägäbərä",
+          "gl": ""
+        },
+        {
+          "g": "በጊዜሁ",
+          "t": "bägizehu",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ኅቡረ",
+          "t": "ḫəburä",
+          "gl": ""
+        },
+        {
+          "g": "ወሀቦ",
+          "t": "wähäbo",
+          "gl": ""
+        },
+        {
+          "g": "ለዓለም",
+          "t": "läʿalämə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ልቡ",
+          "t": "ləbu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ኢይርከብ",
+          "t": "ʾiyərəkäbə",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ግብረ",
+          "t": "gəbərä",
+          "gl": ""
+        },
+        {
+          "g": "ዘገብረ",
+          "t": "zägäbərä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "እምጥንቱ",
+          "t": "ʾəməṭənətu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ተፍጻሜቱ",
+          "t": "täfəṣametu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "All the things which he has made are beautiful in his time: he has also set the whole world in their heart, that man might not find out the work which God has wrought from the beginning even to the end.",
+        "kjv": "He hath made every thing beautiful in his time: also he hath set the world in their heart, so that no man can find out the work that God maketh from the beginning to the end."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "አእመርኩ፡ ከመ፡ አልቦ፡ ሠናይ፡ እምውስቴቶሙ፡ ዘእንበለ፡ ዘተፈሥሐ፡ ወገብረ፡ ሠናየ፡ በሕይወቱ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "አእመርኩ",
+          "t": "ʾäʾəmärəku",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "አልቦ",
+          "t": "ʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይ",
+          "t": "śänayə",
+          "gl": ""
+        },
+        {
+          "g": "እምውስቴቶሙ",
+          "t": "ʾəməwəsətetomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘእንበለ",
+          "t": "zäʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "ዘተፈሥሐ",
+          "t": "zätäfäśəḥä",
+          "gl": ""
+        },
+        {
+          "g": "ወገብረ",
+          "t": "wägäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ሠናየ",
+          "t": "śänayä",
+          "gl": ""
+        },
+        {
+          "g": "በሕይወቱ",
+          "t": "bäḥəyəwätu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "I know that there is no good in them, except for a man to rejoice, and to do good in his life.",
+        "kjv": "I know that there is no good in them, but for a man to rejoice, and to do good in his life."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወኵሉ፡ ዘበልዐ፡ ወሰትየ፡ ወርእየ፡ ሠናየ፡ እምኵሉ፡ ፃማሁ፡ ዝኒ፡ ሀብተ፡ እግዚአብሔር፡ ውእቱ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘበልዐ",
+          "t": "zäbäləʿä",
+          "gl": ""
+        },
+        {
+          "g": "ወሰትየ",
+          "t": "wäsätəyä",
+          "gl": ""
+        },
+        {
+          "g": "ወርእየ",
+          "t": "wärəʾəyä",
+          "gl": ""
+        },
+        {
+          "g": "ሠናየ",
+          "t": "śänayä",
+          "gl": ""
+        },
+        {
+          "g": "እምኵሉ",
+          "t": "ʾəməkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ፃማሁ",
+          "t": "ṣ́amahu",
+          "gl": ""
+        },
+        {
+          "g": "ዝኒ",
+          "t": "zəni",
+          "gl": ""
+        },
+        {
+          "g": "ሀብተ",
+          "t": "häbətä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Also in the case of every man who shall eat and drink, and see good in all his labour, this is a gift of God.",
+        "kjv": "And also that every man should eat and drink, and enjoy the good of all his labour, it is the gift of God."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "አእመርኩ፡ ከመ፡ ኵሉ፡ ዘገብረ፡ እግዚአብሔር፡ ውእቱ፡ ይሄሉ፡ ለዓለም፡ ወእምውስቴቶሙ፡ ኢይትከሃል፡ ወስኮ፡ ወእምውስቴቶሙ፡ ኢይትከሃል፡ ነቲግ፡ ወእግዚአብሔር፡ ገብረ፡ ከመ፡ ይፍርሁ፡ እምቅድመ፡ ገጹ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "አእመርኩ",
+          "t": "ʾäʾəmärəku",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘገብረ",
+          "t": "zägäbərä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ይሄሉ",
+          "t": "yəhelu",
+          "gl": ""
+        },
+        {
+          "g": "ለዓለም",
+          "t": "läʿalämə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምውስቴቶሙ",
+          "t": "wäʾəməwəsətetomu",
+          "gl": ""
+        },
+        {
+          "g": "ኢይትከሃል",
+          "t": "ʾiyətəkähalə",
+          "gl": ""
+        },
+        {
+          "g": "ወስኮ",
+          "t": "wäsəko",
+          "gl": ""
+        },
+        {
+          "g": "ወእምውስቴቶሙ",
+          "t": "wäʾəməwəsətetomu",
+          "gl": ""
+        },
+        {
+          "g": "ኢይትከሃል",
+          "t": "ʾiyətəkähalə",
+          "gl": ""
+        },
+        {
+          "g": "ነቲግ",
+          "t": "nätigə",
+          "gl": ""
+        },
+        {
+          "g": "ወእግዚአብሔር",
+          "t": "wäʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ገብረ",
+          "t": "gäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይፍርሁ",
+          "t": "yəfərəhu",
+          "gl": ""
+        },
+        {
+          "g": "እምቅድመ",
+          "t": "ʾəməqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ገጹ",
+          "t": "gäṣu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "I know that whatsoever things God has done, they shall be for ever: it is impossible to add to it, and it is impossible to take away from it: and God has done it, that men may fear before him.",
+        "kjv": "I know that, whatsoever God doeth, it shall be for ever: nothing can be put to it, nor any thing taken from it: and God doeth it, that men should fear before him."
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ወዘተገብረ፡ ናሁ፡ ውእቱ፡ ሀሎ፡ ወኵሉ፡ እምዘተገብረ፡ ናሁ፡ ተገብረ፡ ወእግዚአብሔር፡ የኀሥሦ፡ ለዘይሰድዶ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዘተገብረ",
+          "t": "wäzätägäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ናሁ",
+          "t": "nahu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ሀሎ",
+          "t": "hälo",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "እምዘተገብረ",
+          "t": "ʾəməzätägäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ናሁ",
+          "t": "nahu",
+          "gl": ""
+        },
+        {
+          "g": "ተገብረ",
+          "t": "tägäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ወእግዚአብሔር",
+          "t": "wäʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "የኀሥሦ",
+          "t": "yäḫäśəśo",
+          "gl": ""
+        },
+        {
+          "g": "ለዘይሰድዶ",
+          "t": "läzäyəsädədo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "That which has been is now; and whatever things are appointed to be have already been; and God will seek out that which is past.",
+        "kjv": "That which hath been is now; and that which is to be hath already been; and God requireth that which is past."
+      }
+    },
+    {
+      "num": 16,
+      "geez": "ወዓዲ፡ ቦ፡ ዘርኢኩ፡ እምታሕተ፡ ፀሐይ፡ በመካነ፡ ጻድቅ፡ ህየ፡ ረሲዕ፡ ወበመካነ፡ ረሲዕ፡ ህየ፡ ጻድቅ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዓዲ",
+          "t": "wäʿadi",
+          "gl": ""
+        },
+        {
+          "g": "ቦ",
+          "t": "bo",
+          "gl": ""
+        },
+        {
+          "g": "ዘርኢኩ",
+          "t": "zärəʾiku",
+          "gl": ""
+        },
+        {
+          "g": "እምታሕተ",
+          "t": "ʾəmətaḥətä",
+          "gl": ""
+        },
+        {
+          "g": "ፀሐይ",
+          "t": "ṣ́äḥäyə",
+          "gl": ""
+        },
+        {
+          "g": "በመካነ",
+          "t": "bämäkanä",
+          "gl": ""
+        },
+        {
+          "g": "ጻድቅ",
+          "t": "ṣadəqə",
+          "gl": ""
+        },
+        {
+          "g": "ህየ",
+          "t": "həyä",
+          "gl": ""
+        },
+        {
+          "g": "ረሲዕ",
+          "t": "räsiʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወበመካነ",
+          "t": "wäbämäkanä",
+          "gl": ""
+        },
+        {
+          "g": "ረሲዕ",
+          "t": "räsiʿə",
+          "gl": ""
+        },
+        {
+          "g": "ህየ",
+          "t": "həyä",
+          "gl": ""
+        },
+        {
+          "g": "ጻድቅ",
+          "t": "ṣadəqə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And moreover I saw under the sun the place of judgment, there was the ungodly one; and the place of righteousness, there was the godly one.",
+        "kjv": "And moreover I saw under the sun the place of judgment, that wickedness was there; and the place of righteousness, that iniquity was there."
+      }
+    },
+    {
+      "num": 17,
+      "geez": "ወበህየ፡ አነ፡ እቤ፡ በልብየ፡ ኅቡረ፡ ጻድቀ፡ ወረሲዐ፡ ይኴንን፡ እግዚአብሔር፡ እስመ፡ ቦ፡ ጊዜ፡ ለኵሉ፡ ምግባር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበህየ",
+          "t": "wäbähəyä",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "እቤ",
+          "t": "ʾəbe",
+          "gl": ""
+        },
+        {
+          "g": "በልብየ",
+          "t": "bäləbəyä",
+          "gl": ""
+        },
+        {
+          "g": "ኅቡረ",
+          "t": "ḫəburä",
+          "gl": ""
+        },
+        {
+          "g": "ጻድቀ",
+          "t": "ṣadəqä",
+          "gl": ""
+        },
+        {
+          "g": "ወረሲዐ",
+          "t": "wäräsiʿä",
+          "gl": ""
+        },
+        {
+          "g": "ይኴንን",
+          "t": "yəkwenənə",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ቦ",
+          "t": "bo",
+          "gl": ""
+        },
+        {
+          "g": "ጊዜ",
+          "t": "gize",
+          "gl": ""
+        },
+        {
+          "g": "ለኵሉ",
+          "t": "läkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ምግባር",
+          "t": "məgəbarə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And I said in my heart, God will judge the righteous and the ungodly: for there is a time there for every action and for every work.",
+        "kjv": "I said in mine heart, God shall judge the righteous and the wicked: for there is a time there for every purpose and for every work."
+      }
+    },
+    {
+      "num": 18,
+      "geez": "ወበህየ፡ እቤ፡ አነ፡ በልብየ፡ በእንተ፡ ነገረ፡ ውሉደ፡ ሰብእ፡ ከመ፡ ይኴንኖሙ፡ እግዚአብሔር፡ ወከመዝ፡ ርኢኩ፡ ከመ፡ እንስሳ፡ እሙንቱ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበህየ",
+          "t": "wäbähəyä",
+          "gl": ""
+        },
+        {
+          "g": "እቤ",
+          "t": "ʾəbe",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "በልብየ",
+          "t": "bäləbəyä",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ነገረ",
+          "t": "nägärä",
+          "gl": ""
+        },
+        {
+          "g": "ውሉደ",
+          "t": "wəludä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይኴንኖሙ",
+          "t": "yəkwenənomu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወከመዝ",
+          "t": "wäkämäzə",
+          "gl": ""
+        },
+        {
+          "g": "ርኢኩ",
+          "t": "rəʾiku",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "እንስሳ",
+          "t": "ʾənəsəsa",
+          "gl": ""
+        },
+        {
+          "g": "እሙንቱ",
+          "t": "ʾəmunətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "I said in my heart, concerning the speech of the sons of man, God will judge them, and that to shew that they are beasts.",
+        "kjv": "I said in mine heart concerning the estate of the sons of men, that God might manifest them, and that they might see that they themselves are beasts."
+      }
+    },
+    {
+      "num": 19,
+      "geez": "ወሎሙኒ፡ ጽድቅ፡ ለውሉደ፡ ሰብእ፡ ወድድቅ፡ ለእንስሳ፡ አሐዱ፡ ጽድቅ፡ ሎሙ፡ ከመ፡ ሞት፡ ዝ፡ ከማሁ፡ ሞቱ፡ ለዝ፡ ወአሐዱ፡ መንፈስ፡ ለኵሎሙ፡ ምንት፡ ፍድፋዴሁ፡ ለሰብእ፡ እም፡ እንስሳ፡ ወኢምንትኒ፡ እስመ፡ ኵሉ፡ ከንቱ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሎሙኒ",
+          "t": "wälomuni",
+          "gl": ""
+        },
+        {
+          "g": "ጽድቅ",
+          "t": "ṣədəqə",
+          "gl": ""
+        },
+        {
+          "g": "ለውሉደ",
+          "t": "läwəludä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወድድቅ",
+          "t": "wädədəqə",
+          "gl": ""
+        },
+        {
+          "g": "ለእንስሳ",
+          "t": "läʾənəsəsa",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "ጽድቅ",
+          "t": "ṣədəqə",
+          "gl": ""
+        },
+        {
+          "g": "ሎሙ",
+          "t": "lomu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ሞት",
+          "t": "motə",
+          "gl": ""
+        },
+        {
+          "g": "ዝ",
+          "t": "zə",
+          "gl": ""
+        },
+        {
+          "g": "ከማሁ",
+          "t": "kämahu",
+          "gl": ""
+        },
+        {
+          "g": "ሞቱ",
+          "t": "motu",
+          "gl": ""
+        },
+        {
+          "g": "ለዝ",
+          "t": "läzə",
+          "gl": ""
+        },
+        {
+          "g": "ወአሐዱ",
+          "t": "wäʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "መንፈስ",
+          "t": "mänəfäsə",
+          "gl": ""
+        },
+        {
+          "g": "ለኵሎሙ",
+          "t": "läkwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ምንት",
+          "t": "mənətə",
+          "gl": ""
+        },
+        {
+          "g": "ፍድፋዴሁ",
+          "t": "fədəfadehu",
+          "gl": ""
+        },
+        {
+          "g": "ለሰብእ",
+          "t": "läsäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "እም",
+          "t": "ʾəmə",
+          "gl": ""
+        },
+        {
+          "g": "እንስሳ",
+          "t": "ʾənəsəsa",
+          "gl": ""
+        },
+        {
+          "g": "ወኢምንትኒ",
+          "t": "wäʾimənətəni",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ከንቱ",
+          "t": "känətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Also to them is the event of the sons of man, and the event of the brute; one event befalls them: as is the death of the one, so also the death of the other; and there is one breath to all: and what has the man more than the brute? nothing; for all is vanity.",
+        "kjv": "For that which befalleth the sons of men befalleth beasts; even one thing befalleth them: as the one dieth, so dieth the other; yea, they have all one breath; so that a man hath no preeminence above a beast: for all is vanity."
+      }
+    },
+    {
+      "num": 20,
+      "geez": "ኵሉ፡ የሐውር፡ ውስተ፡ አሐዱ፡ መካን፡ ኵሉ፡ ኮነ፡ እመሬት፡ ወኵሉ፡ ይገብእ፡ ውስተ፡ መሬት።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "የሐውር",
+          "t": "yäḥäwərə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "መካን",
+          "t": "mäkanə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ኮነ",
+          "t": "konä",
+          "gl": ""
+        },
+        {
+          "g": "እመሬት",
+          "t": "ʾəmäretə",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ይገብእ",
+          "t": "yəgäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "መሬት",
+          "t": "märetə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "All go to one place; all were formed of the dust, and all will return to dust.",
+        "kjv": "All go unto one place; all are of the dust, and all turn to dust again."
+      }
+    },
+    {
+      "num": 21,
+      "geez": "መኑ፡ የአምር፡ መንፈሰ፡ ውሉደ፡ ሰብእ፡ ከመ፡ የዐርግ፡ ላዕለ፡ ወመንፈሰ፡ እንስሳ፡ ከመ፡ ይወርድ፡ ታሕተ፡ ውስተ፡ ምድር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "መኑ",
+          "t": "mänu",
+          "gl": ""
+        },
+        {
+          "g": "የአምር",
+          "t": "yäʾämərə",
+          "gl": ""
+        },
+        {
+          "g": "መንፈሰ",
+          "t": "mänəfäsä",
+          "gl": ""
+        },
+        {
+          "g": "ውሉደ",
+          "t": "wəludä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "የዐርግ",
+          "t": "yäʿärəgə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ወመንፈሰ",
+          "t": "wämänəfäsä",
+          "gl": ""
+        },
+        {
+          "g": "እንስሳ",
+          "t": "ʾənəsəsa",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይወርድ",
+          "t": "yəwärədə",
+          "gl": ""
+        },
+        {
+          "g": "ታሕተ",
+          "t": "taḥətä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And who has seen the spirit of the sons of man, whether it goes upward? and the spirit of the beast, whether it goes downward to the earth?",
+        "kjv": "Who knoweth the spirit of man that goeth upward, and the spirit of the beast that goeth downward to the earth?"
+      }
+    },
+    {
+      "num": 22,
+      "geez": "ወርኢኩ፡ ከመ፡ አልቦ፡ ሠናይ፡ ዘእንበለ፡ ዘተፈሥሐ፡ ሰብእ፡ በተግባሩ፡ እስመ፡ ውእቱ፡ መክፈልቱ፡ ወመኑ፡ ያመጽኦ፡ ከመ፡ ይርአይ፡ ዘይከውን፡ እምድኅሬሁ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወርኢኩ",
+          "t": "wärəʾiku",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "አልቦ",
+          "t": "ʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይ",
+          "t": "śänayə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእንበለ",
+          "t": "zäʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "ዘተፈሥሐ",
+          "t": "zätäfäśəḥä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "በተግባሩ",
+          "t": "bätägəbaru",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "መክፈልቱ",
+          "t": "mäkəfälətu",
+          "gl": ""
+        },
+        {
+          "g": "ወመኑ",
+          "t": "wämänu",
+          "gl": ""
+        },
+        {
+          "g": "ያመጽኦ",
+          "t": "yamäṣəʾo",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይርአይ",
+          "t": "yərəʾäyə",
+          "gl": ""
+        },
+        {
+          "g": "ዘይከውን",
+          "t": "zäyəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "እምድኅሬሁ",
+          "t": "ʾəmədəḫərehu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And I saw that there was no good, but that wherein a man shall rejoice in his works, for it is his portion, for who shall bring him to see any thing of that which shall be after him?",
+        "kjv": "Wherefore I perceive that there is nothing better, than that a man should rejoice in his own works; for that is his portion: for who shall bring him to see what shall be after him?"
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

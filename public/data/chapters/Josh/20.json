@@ -1,0 +1,949 @@
+{
+  "book": "Josh",
+  "chapter": 20,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወነበቦ ፡ እግዚአብሔር ፡ ለኢየሱስ ፡ ወይቤሎ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነበቦ",
+          "t": "wänäbäbo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለኢየሱስ",
+          "t": "läʾiyäsusə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord spoke to Joshua, saying,",
+        "kjv": "The LORD also spake unto Joshua, saying,"
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ንግሮሙ ፡ ለደቂቀ ፡ እስራኤል ፡ ወበሎሙ ፡ [ሀቡአ ፡ አህጉረአ ፡] ምስካይአ ፡ ዘእቤለክሙ ፡ በላዕለ ፡ ሙሴ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ንግሮሙ",
+          "t": "nəgəromu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወበሎሙ",
+          "t": "wäbälomu",
+          "gl": ""
+        },
+        {
+          "g": "ሀቡአ",
+          "t": "häbuʾä",
+          "gl": ""
+        },
+        {
+          "g": "አህጉረአ",
+          "t": "ʾähəguräʾä",
+          "gl": ""
+        },
+        {
+          "g": "ምስካይአ",
+          "t": "məsəkayəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ዘእቤለክሙ",
+          "t": "zäʾəbeläkəmu",
+          "gl": ""
+        },
+        {
+          "g": "በላዕለ",
+          "t": "bälaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Speak to the children of Israel, saying, Assign the cities of refuge, of which I spoke to you by Moses.",
+        "kjv": "Speak to the children of Israel, saying, Appoint out for you cities of refuge, whereof I spake unto you by the hand of Moses:"
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ምስካይ ፡ ለቀታሊ ፡ ለዘ ፡ ቀተለ ፡ ነፍሰ ፡ በኢያእምሮ ፡ እንዘ ፡ ኢይፈቅድ ፡ ወግበሩ ፡ ለክሙ ፡ አህጉረ ፡ ምስካይ\n                  ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ምስካይ",
+          "t": "məsəkayə",
+          "gl": ""
+        },
+        {
+          "g": "ለቀታሊ",
+          "t": "läqätali",
+          "gl": ""
+        },
+        {
+          "g": "ለዘ",
+          "t": "läzä",
+          "gl": ""
+        },
+        {
+          "g": "ቀተለ",
+          "t": "qätälä",
+          "gl": ""
+        },
+        {
+          "g": "ነፍሰ",
+          "t": "näfəsä",
+          "gl": ""
+        },
+        {
+          "g": "በኢያእምሮ",
+          "t": "bäʾiyaʾəməro",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ኢይፈቅድ",
+          "t": "ʾiyəfäqədə",
+          "gl": ""
+        },
+        {
+          "g": "ወግበሩ",
+          "t": "wägəbäru",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        },
+        {
+          "g": "አህጉረ",
+          "t": "ʾähəgurä",
+          "gl": ""
+        },
+        {
+          "g": "ምስካይ",
+          "t": "məsəkayə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Even a refuge to the slayer who has smitten a man unintentionally; and the cities shall be to you a refuge, and the slayer shall not be put to death by the avenger of blood, until he have stood before the congregation for judgment.",
+        "kjv": "That the slayer that killeth any person unawares and unwittingly may flee thither: and they shall be your refuge from the avenger of blood."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወይስኪ ፡ ውስተ ፡ አሐቲ ፡ እምነ ፡ እላንቱ ፡ አህጉር ፡ ወይቁም ፡ ውስተ ፡ ኆኅተ ፡ አንቀጸ ፡ ሀገር ፡ ወይንግሮሙ ፡\n                  ቃሎ ፡ ለሊቃናታ ፡ ለይእቲ ፡ ሀገር ፡ ወያብእ[ዎ] ፡ ሰብእ ፡ ኀቤሆሙ ፡ ወየሀብዎ ፡ መካነ ፡ ወይንበር ፡ ምስሌሆሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይስኪ",
+          "t": "wäyəsəki",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አሐቲ",
+          "t": "ʾäḥäti",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "እላንቱ",
+          "t": "ʾəlanətu",
+          "gl": ""
+        },
+        {
+          "g": "አህጉር",
+          "t": "ʾähəgurə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቁም",
+          "t": "wäyəqumə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኆኅተ",
+          "t": "ḫoḫətä",
+          "gl": ""
+        },
+        {
+          "g": "አንቀጸ",
+          "t": "ʾänəqäṣä",
+          "gl": ""
+        },
+        {
+          "g": "ሀገር",
+          "t": "hägärə",
+          "gl": ""
+        },
+        {
+          "g": "ወይንግሮሙ",
+          "t": "wäyənəgəromu",
+          "gl": ""
+        },
+        {
+          "g": "ቃሎ",
+          "t": "qalo",
+          "gl": ""
+        },
+        {
+          "g": "ለሊቃናታ",
+          "t": "läliqanata",
+          "gl": ""
+        },
+        {
+          "g": "ለይእቲ",
+          "t": "läyəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ሀገር",
+          "t": "hägärə",
+          "gl": ""
+        },
+        {
+          "g": "ወያብእዎ",
+          "t": "wäyabəʾəwo",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ኀቤሆሙ",
+          "t": "ḫäbehomu",
+          "gl": ""
+        },
+        {
+          "g": "ወየሀብዎ",
+          "t": "wäyähäbəwo",
+          "gl": ""
+        },
+        {
+          "g": "መካነ",
+          "t": "mäkanä",
+          "gl": ""
+        },
+        {
+          "g": "ወይንበር",
+          "t": "wäyənəbärə",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሆሙ",
+          "t": "məsəlehomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "kjv": "And when he that doth flee unto one of those cities shall stand at the entering of the gate of the city, and shall declare his cause in the ears of the elders of that city, they shall take him into the city unto them, and give him a place, that he may dwell among them."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወሶበ ፡ ዴገኖ ፡ አበ ፡ ደም ፡ ኢያግብእዎ ፡ ሎቱ ፡ ውስተ ፡ እዴሁ ፡ እስመ ፡ በኢያእምሮ ፡ ቀተሎ ፡ ለካልኡ ፡\n                  ወእንዘ ፡ ኢይጸልኦ ፡ ቀዲሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሶበ",
+          "t": "wäsobä",
+          "gl": ""
+        },
+        {
+          "g": "ዴገኖ",
+          "t": "degäno",
+          "gl": ""
+        },
+        {
+          "g": "አበ",
+          "t": "ʾäbä",
+          "gl": ""
+        },
+        {
+          "g": "ደም",
+          "t": "dämə",
+          "gl": ""
+        },
+        {
+          "g": "ኢያግብእዎ",
+          "t": "ʾiyagəbəʾəwo",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "በኢያእምሮ",
+          "t": "bäʾiyaʾəməro",
+          "gl": ""
+        },
+        {
+          "g": "ቀተሎ",
+          "t": "qätälo",
+          "gl": ""
+        },
+        {
+          "g": "ለካልኡ",
+          "t": "läkaləʾu",
+          "gl": ""
+        },
+        {
+          "g": "ወእንዘ",
+          "t": "wäʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ኢይጸልኦ",
+          "t": "ʾiyəṣäləʾo",
+          "gl": ""
+        },
+        {
+          "g": "ቀዲሙ",
+          "t": "qädimu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "kjv": "And if the avenger of blood pursue after him, then they shall not deliver the slayer up into his hand; because he smote his neighbour unwittingly, and hated him not beforetime."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወይነብር ፡ ውስተ ፡ ይእቲ ፡ ሀገር ፡ እስከ ፡ ይበጽሕ ፡ ቅድመ ፡ ዐውድ ፡ ይትሐተት ፡ ወእስከ ፡ አመ ፡ ይመውት ፡\n                  ካህን ፡ ዐቢይ ፡ ዘሀለወ ፡ በእማንቱ ፡ መዋዕል ፡ ወይእተ ፡ አሚረ ፡ ይገብእ ፡ ቀታሊ ፡ ወየአቱ ፡ ሀገሮ ፡ ወውስተ ፡ ቤቱ\n                  ፡ ወውስተ ፡ ሀገር ፡ እንተ ፡ እምኔሃ ፡ ሰከየ ። ወኢይቀትሎ ፡ አበ ፡ ደም ፡ ለቀታሊ ፡ እስከ ፡ ይቀውም ፡ ቅድመ ፡\n                  ዐውድአ ፡ ይትሐተትአ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይነብር",
+          "t": "wäyənäbərə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ሀገር",
+          "t": "hägärə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ይበጽሕ",
+          "t": "yəbäṣəḥə",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ዐውድ",
+          "t": "ʿäwədə",
+          "gl": ""
+        },
+        {
+          "g": "ይትሐተት",
+          "t": "yətəḥätätə",
+          "gl": ""
+        },
+        {
+          "g": "ወእስከ",
+          "t": "wäʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ይመውት",
+          "t": "yəmäwətə",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ዐቢይ",
+          "t": "ʿäbiyə",
+          "gl": ""
+        },
+        {
+          "g": "ዘሀለወ",
+          "t": "zähäläwä",
+          "gl": ""
+        },
+        {
+          "g": "በእማንቱ",
+          "t": "bäʾəmanətu",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕል",
+          "t": "mäwaʿələ",
+          "gl": ""
+        },
+        {
+          "g": "ወይእተ",
+          "t": "wäyəʾətä",
+          "gl": ""
+        },
+        {
+          "g": "አሚረ",
+          "t": "ʾämirä",
+          "gl": ""
+        },
+        {
+          "g": "ይገብእ",
+          "t": "yəgäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ቀታሊ",
+          "t": "qätali",
+          "gl": ""
+        },
+        {
+          "g": "ወየአቱ",
+          "t": "wäyäʾätu",
+          "gl": ""
+        },
+        {
+          "g": "ሀገሮ",
+          "t": "hägäro",
+          "gl": ""
+        },
+        {
+          "g": "ወውስተ",
+          "t": "wäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ቤቱ",
+          "t": "betu",
+          "gl": ""
+        },
+        {
+          "g": "ወውስተ",
+          "t": "wäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሀገር",
+          "t": "hägärə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሃ",
+          "t": "ʾəməneha",
+          "gl": ""
+        },
+        {
+          "g": "ሰከየ",
+          "t": "säkäyä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይቀትሎ",
+          "t": "wäʾiyəqätəlo",
+          "gl": ""
+        },
+        {
+          "g": "አበ",
+          "t": "ʾäbä",
+          "gl": ""
+        },
+        {
+          "g": "ደም",
+          "t": "dämə",
+          "gl": ""
+        },
+        {
+          "g": "ለቀታሊ",
+          "t": "läqätali",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ይቀውም",
+          "t": "yəqäwəmə",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ዐውድአ",
+          "t": "ʿäwədəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ይትሐተትአ",
+          "t": "yətəḥätätəʾä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "kjv": "And he shall dwell in that city, until he stand before the congregation for judgment, and until the death of the high priest that shall be in those days: then shall the slayer return, and come unto his own city, and unto his own house, unto the city from whence he fled."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወፈለጣ ፡ ለቃዴስ ፡ በገሊላ ፡ በውስተ ፡ ደብረ ፡ ንፍታሌም ፡ ወሲኬም ፡ በውስተ ፡ ደብረ ፡ ኤፍሬም ፡ ወሀገረ ፡\n                  አርቦቅ ፡ በደብረ ፡ ይሁዳ ፡ እንተ ፡ ይእቲ ፡ ኬብሮን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወፈለጣ",
+          "t": "wäfäläṭa",
+          "gl": ""
+        },
+        {
+          "g": "ለቃዴስ",
+          "t": "läqadesə",
+          "gl": ""
+        },
+        {
+          "g": "በገሊላ",
+          "t": "bägälila",
+          "gl": ""
+        },
+        {
+          "g": "በውስተ",
+          "t": "bäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ደብረ",
+          "t": "däbərä",
+          "gl": ""
+        },
+        {
+          "g": "ንፍታሌም",
+          "t": "nəfətalemə",
+          "gl": ""
+        },
+        {
+          "g": "ወሲኬም",
+          "t": "wäsikemə",
+          "gl": ""
+        },
+        {
+          "g": "በውስተ",
+          "t": "bäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ደብረ",
+          "t": "däbərä",
+          "gl": ""
+        },
+        {
+          "g": "ኤፍሬም",
+          "t": "ʾefəremə",
+          "gl": ""
+        },
+        {
+          "g": "ወሀገረ",
+          "t": "wähägärä",
+          "gl": ""
+        },
+        {
+          "g": "አርቦቅ",
+          "t": "ʾärəboqə",
+          "gl": ""
+        },
+        {
+          "g": "በደብረ",
+          "t": "bädäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ይሁዳ",
+          "t": "yəhuda",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ኬብሮን",
+          "t": "kebəronə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Joshua separated Cades in Galilee in the mount Nephthali, and Sychem in the mount Ephraim, and the city of Arboc; this is Chebron, in the mountain of Juda.",
+        "kjv": "And they appointed Kedesh in Galilee in mount Naphtali, and Shechem in mount Ephraim, and Kirjatharba, which is Hebron, in the mountain of Judah."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወበማዕዶተ ፡ ዮርዳንስ ፡ ኢየሪኮ ፡ ወእመንገለ ፡ ጽባሕ ፡ ወሀበ ፡ ቦሶር ፡ በሐቅለ ፡ ገዳም ፡ (ወ)እምነ ፡ ነገደ ፡\n                  ሮቤል ፡ ወኤሬሞት ፡ በገላአድ ፡ (ወ)እምነ ፡ ነገደ ፡ ጋድ ፡ ወገውሎን ፡ በባሳን ፡ (ወ)እምነ ፡ ነገደ ፡ መናሴ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበማዕዶተ",
+          "t": "wäbämaʿədotä",
+          "gl": ""
+        },
+        {
+          "g": "ዮርዳንስ",
+          "t": "yorədanəsə",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሪኮ",
+          "t": "ʾiyäriko",
+          "gl": ""
+        },
+        {
+          "g": "ወእመንገለ",
+          "t": "wäʾəmänəgälä",
+          "gl": ""
+        },
+        {
+          "g": "ጽባሕ",
+          "t": "ṣəbaḥə",
+          "gl": ""
+        },
+        {
+          "g": "ወሀበ",
+          "t": "wähäbä",
+          "gl": ""
+        },
+        {
+          "g": "ቦሶር",
+          "t": "bosorə",
+          "gl": ""
+        },
+        {
+          "g": "በሐቅለ",
+          "t": "bäḥäqəlä",
+          "gl": ""
+        },
+        {
+          "g": "ገዳም",
+          "t": "gädamə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ነገደ",
+          "t": "nägädä",
+          "gl": ""
+        },
+        {
+          "g": "ሮቤል",
+          "t": "robelə",
+          "gl": ""
+        },
+        {
+          "g": "ወኤሬሞት",
+          "t": "wäʾeremotə",
+          "gl": ""
+        },
+        {
+          "g": "በገላአድ",
+          "t": "bägälaʾädə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ነገደ",
+          "t": "nägädä",
+          "gl": ""
+        },
+        {
+          "g": "ጋድ",
+          "t": "gadə",
+          "gl": ""
+        },
+        {
+          "g": "ወገውሎን",
+          "t": "wägäwəlonə",
+          "gl": ""
+        },
+        {
+          "g": "በባሳን",
+          "t": "bäbasanə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ነገደ",
+          "t": "nägädä",
+          "gl": ""
+        },
+        {
+          "g": "መናሴ",
+          "t": "mänase",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And beyond Jordan he appointed Bosor in the wilderness in the plain out of the tribe of Ruben, and Aremoth in Galaad out of the tribe of Gad, and Gaulon in the country of Basan out of the tribe of Manasse.",
+        "kjv": "And on the other side Jordan by Jericho eastward, they assigned Bezer in the wilderness upon the plain out of the tribe of Reuben, and Ramoth in Gilead out of the tribe of Gad, and Golan in Bashan out of the tribe of Manasseh."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "እላንቱ ፡ ዘኀርዩ ፡ ደቂቀ ፡ እስራኤል ፡ ወለግዩርኒ ፡ ዘሀለወ ፡ ውስቴቶሙ ፡ ከመ ፡ ይስኪ ፡ ህየ ፡ ቀታሊ ፡ ኵሉ ፡\n                  ዘቀተለ ፡ ነፍሰ ፡ ሰብእ ፡ በኢያእምሮ ፡ ከመ ፡ ኢይቅትሎ ፡ አበ ፡ ደም ፡ እስከ ፡ ይቀውም ፡ ቅድመ ፡ ዐውድ ፡ ወይትሐተት\n                  ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እላንቱ",
+          "t": "ʾəlanətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘኀርዩ",
+          "t": "zäḫärəyu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወለግዩርኒ",
+          "t": "wälägəyurəni",
+          "gl": ""
+        },
+        {
+          "g": "ዘሀለወ",
+          "t": "zähäläwä",
+          "gl": ""
+        },
+        {
+          "g": "ውስቴቶሙ",
+          "t": "wəsətetomu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይስኪ",
+          "t": "yəsəki",
+          "gl": ""
+        },
+        {
+          "g": "ህየ",
+          "t": "həyä",
+          "gl": ""
+        },
+        {
+          "g": "ቀታሊ",
+          "t": "qätali",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘቀተለ",
+          "t": "zäqätälä",
+          "gl": ""
+        },
+        {
+          "g": "ነፍሰ",
+          "t": "näfəsä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "በኢያእምሮ",
+          "t": "bäʾiyaʾəməro",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ኢይቅትሎ",
+          "t": "ʾiyəqətəlo",
+          "gl": ""
+        },
+        {
+          "g": "አበ",
+          "t": "ʾäbä",
+          "gl": ""
+        },
+        {
+          "g": "ደም",
+          "t": "dämə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ይቀውም",
+          "t": "yəqäwəmə",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ዐውድ",
+          "t": "ʿäwədə",
+          "gl": ""
+        },
+        {
+          "g": "ወይትሐተት",
+          "t": "wäyətəḥätätə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "These were the cities selected for the sons of Israel, and for the stranger abiding among them, that every one who smites a soul unintentionally should flee thither, that he should not die by the hand of the avenger of blood, until he should stand before the congregation for judgment.",
+        "kjv": "These were the cities appointed for all the children of Israel, and for the stranger that sojourneth among them, that whosoever killeth any person at unawares might flee thither, and not die by the hand of the avenger of blood, until he stood before the congregation."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

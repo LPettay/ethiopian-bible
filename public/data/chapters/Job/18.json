@@ -1,0 +1,918 @@
+{
+  "book": "Job",
+  "chapter": 18,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወእደ፡ ተናገረ፡ በልዳዶስ፡ ወተሰጥወ፡፡ 2፡ ወይቤ፡ እስከ፡ ማዕዜኑ፡ ኢታረምም፡ ተዓገሥ፡ እንከ፡ ንን፡ ግርከ፡ ንሕነሂ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእደ",
+          "t": "wäʾədä",
+          "gl": ""
+        },
+        {
+          "g": "ተናገረ",
+          "t": "tänagärä",
+          "gl": ""
+        },
+        {
+          "g": "በልዳዶስ",
+          "t": "bälədadosə",
+          "gl": ""
+        },
+        {
+          "g": "ወተሰጥወ",
+          "t": "wätäsäṭəwä",
+          "gl": ""
+        },
+        {
+          "g": "2",
+          "t": "2",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ማዕዜኑ",
+          "t": "maʿəzenu",
+          "gl": ""
+        },
+        {
+          "g": "ኢታረምም",
+          "t": "ʾitaräməmə",
+          "gl": ""
+        },
+        {
+          "g": "ተዓገሥ",
+          "t": "täʿagäśə",
+          "gl": ""
+        },
+        {
+          "g": "እንከ",
+          "t": "ʾənəkä",
+          "gl": ""
+        },
+        {
+          "g": "ንን",
+          "t": "nənə",
+          "gl": ""
+        },
+        {
+          "g": "ግርከ",
+          "t": "gərəkä",
+          "gl": ""
+        },
+        {
+          "g": "ንሕነሂ",
+          "t": "nəḥənähi",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Then Baldad the Sauchite answered and said,",
+        "kjv": "Then answered Bildad the Shuhite, and said,"
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ለምንት፡ ከመ፡ አንስሳ፡ አርመምነ፡ ቅድሜከ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ለምንት",
+          "t": "lämənətə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "አንስሳ",
+          "t": "ʾänəsəsa",
+          "gl": ""
+        },
+        {
+          "g": "አርመምነ",
+          "t": "ʾärəmämənä",
+          "gl": ""
+        },
+        {
+          "g": "ቅድሜከ",
+          "t": "qədəmekä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For wherefore have we been silent before thee like brutes?",
+        "kjv": "Wherefore are we counted as beasts, and reputed vile in your sight?"
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ይደልዋ፡ ለመቅሠፍትከ፡ ወምንትኑ፡ አንተ፡ ለአመ፡ ሞትከ፡ አልቦኑ፡ ዘይኄይስ፡ እምታሕተ፡ ሰማይ፡ ወይወድቁ፡ አድባር፡ እመሠረቶሙ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ይደልዋ",
+          "t": "yədäləwa",
+          "gl": ""
+        },
+        {
+          "g": "ለመቅሠፍትከ",
+          "t": "lämäqəśäfətəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወምንትኑ",
+          "t": "wämənətənu",
+          "gl": ""
+        },
+        {
+          "g": "አንተ",
+          "t": "ʾänətä",
+          "gl": ""
+        },
+        {
+          "g": "ለአመ",
+          "t": "läʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ሞትከ",
+          "t": "motəkä",
+          "gl": ""
+        },
+        {
+          "g": "አልቦኑ",
+          "t": "ʾäləbonu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይኄይስ",
+          "t": "zäyəḫeyəsə",
+          "gl": ""
+        },
+        {
+          "g": "እምታሕተ",
+          "t": "ʾəmətaḥətä",
+          "gl": ""
+        },
+        {
+          "g": "ሰማይ",
+          "t": "sämayə",
+          "gl": ""
+        },
+        {
+          "g": "ወይወድቁ",
+          "t": "wäyəwädəqu",
+          "gl": ""
+        },
+        {
+          "g": "አድባር",
+          "t": "ʾädəbarə",
+          "gl": ""
+        },
+        {
+          "g": "እመሠረቶሙ",
+          "t": "ʾəmäśärätomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Anger has possessed thee: for what if thou shouldest die; would the earth under heaven be desolate? or shall the mountains be overthrown from their foundations?",
+        "kjv": "He teareth himself in his anger: shall the earth be forsaken for thee? and shall the rock be removed out of his place?"
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወይጠፍአ፡ ብርሃን፡ ኃጥአን፡ ወኢይትከበት፡ አከዩሙ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይጠፍአ",
+          "t": "wäyəṭäfəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ብርሃን",
+          "t": "bərəhanə",
+          "gl": ""
+        },
+        {
+          "g": "ኃጥአን",
+          "t": "ḫaṭəʾänə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይትከበት",
+          "t": "wäʾiyətəkäbätə",
+          "gl": ""
+        },
+        {
+          "g": "አከዩሙ",
+          "t": "ʾäkäyumu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But the light of the ungodly shall be quenched, and their flame shall not go up.",
+        "kjv": "Yea, the light of the wicked shall be put out, and the spark of his fire shall not shine."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወብርሃኖሙ፡ ጽልመት፡ ይከውኖሙ፡ ይጌግዑ፡ ወማኅቶ፡ ቶሙ፡ ትጠፍአ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወብርሃኖሙ",
+          "t": "wäbərəhanomu",
+          "gl": ""
+        },
+        {
+          "g": "ጽልመት",
+          "t": "ṣələmätə",
+          "gl": ""
+        },
+        {
+          "g": "ይከውኖሙ",
+          "t": "yəkäwənomu",
+          "gl": ""
+        },
+        {
+          "g": "ይጌግዑ",
+          "t": "yəgegəʿu",
+          "gl": ""
+        },
+        {
+          "g": "ወማኅቶ",
+          "t": "wämaḫəto",
+          "gl": ""
+        },
+        {
+          "g": "ቶሙ",
+          "t": "tomu",
+          "gl": ""
+        },
+        {
+          "g": "ትጠፍአ",
+          "t": "təṭäfəʾä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "His light shall be darkness in his habitation, and his lamp shall be put out with him.",
+        "kjv": "The light shall be dark in his tabernacle, and his candle shall be put out with him."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወይነሥኢ፡ ትሑታን፡ ንዋዮ፡ ወትድኅፅ፡ ምክሩ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይነሥኢ",
+          "t": "wäyənäśəʾi",
+          "gl": ""
+        },
+        {
+          "g": "ትሑታን",
+          "t": "təḥutanə",
+          "gl": ""
+        },
+        {
+          "g": "ንዋዮ",
+          "t": "nəwayo",
+          "gl": ""
+        },
+        {
+          "g": "ወትድኅፅ",
+          "t": "wätədəḫəṣ́ə",
+          "gl": ""
+        },
+        {
+          "g": "ምክሩ",
+          "t": "məkəru",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Let the meanest of men spoil his goods, and let his counsel deceive him.",
+        "kjv": "The steps of his strength shall be straitened, and his own counsel shall cast him down."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወትወርድ፡ እግሩ፡ ውስተ፡ መሥገርት፡ ወትትአሠር፡ በመሥገርት።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትወርድ",
+          "t": "wätəwärədə",
+          "gl": ""
+        },
+        {
+          "g": "እግሩ",
+          "t": "ʾəgəru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "መሥገርት",
+          "t": "mäśəgärətə",
+          "gl": ""
+        },
+        {
+          "g": "ወትትአሠር",
+          "t": "wätətəʾäśärə",
+          "gl": ""
+        },
+        {
+          "g": "በመሥገርት",
+          "t": "bämäśəgärətə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "His foot also has been caught in a snare, and let it be entangled in a net.",
+        "kjv": "For he is cast into a net by his own feet, and he walketh upon a snare."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወይመጽአ፡ መቅሠፍት፡ ላዕሌሁ፡ መይመጽኡ፡ ጽኑዓን፡ ላዕሌሁ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይመጽአ",
+          "t": "wäyəmäṣəʾä",
+          "gl": ""
+        },
+        {
+          "g": "መቅሠፍት",
+          "t": "mäqəśäfətə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "መይመጽኡ",
+          "t": "mäyəmäṣəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ጽኑዓን",
+          "t": "ṣənuʿanə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And let snares come upon him: he shall strengthen those that thirst for his destruction.",
+        "kjv": "The gin shall take him by the heel, and the robber shall prevail against him."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወኅቡእ፡ ውስተ፡ ምድር፡ ሐብሉ፡ ወይስሕብዎ፡ እምፍኖቱ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኅቡእ",
+          "t": "wäḫəbuʾə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ሐብሉ",
+          "t": "ḥäbəlu",
+          "gl": ""
+        },
+        {
+          "g": "ወይስሕብዎ",
+          "t": "wäyəsəḥəbəwo",
+          "gl": ""
+        },
+        {
+          "g": "እምፍኖቱ",
+          "t": "ʾəməfənotu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "His snare is hid in the earth, and that which shall take him is by the path.",
+        "kjv": "The snare is laid for him in the ground, and a trap for him in the way."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወያጠፍኦ፡ ሕማም፡ አምዓውዱ፡ ወመጽኡ፡ ብዙኃን፡ ታሕተ፡ አገሪሁ፡ በዓቢይ፡ ረኅብ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያጠፍኦ",
+          "t": "wäyaṭäfəʾo",
+          "gl": ""
+        },
+        {
+          "g": "ሕማም",
+          "t": "ḥəmamə",
+          "gl": ""
+        },
+        {
+          "g": "አምዓውዱ",
+          "t": "ʾäməʿawədu",
+          "gl": ""
+        },
+        {
+          "g": "ወመጽኡ",
+          "t": "wämäṣəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ብዙኃን",
+          "t": "bəzuḫanə",
+          "gl": ""
+        },
+        {
+          "g": "ታሕተ",
+          "t": "taḥətä",
+          "gl": ""
+        },
+        {
+          "g": "አገሪሁ",
+          "t": "ʾägärihu",
+          "gl": ""
+        },
+        {
+          "g": "በዓቢይ",
+          "t": "bäʿabiyə",
+          "gl": ""
+        },
+        {
+          "g": "ረኅብ",
+          "t": "räḫəbə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Let pains destroy him round about, and let many enemies come about him,",
+        "kjv": "Terrors shall make him afraid on every side, and shall drive him to his feet."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወጽኑሕ፡ ሎቱ፡ ኃሣር፡ ፅዑብ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወጽኑሕ",
+          "t": "wäṣənuḥə",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ኃሣር",
+          "t": "ḫaśarə",
+          "gl": ""
+        },
+        {
+          "g": "ፅዑብ",
+          "t": "ṣ́əʿubə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "vex him with distressing hunger: and a signal destruction has been prepared for him.",
+        "kjv": "His strength shall be hungerbitten, and destruction shall be ready at his side."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወይበኈብኁ፡ አቊያጸ፡ አገሪሁ፡ ወይበልፆ፡ ሞት፡ መሠንዮ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይበኈብኁ",
+          "t": "wäyəbäḫwäbəḫu",
+          "gl": ""
+        },
+        {
+          "g": "አቊያጸ",
+          "t": "ʾäqwiyaṣä",
+          "gl": ""
+        },
+        {
+          "g": "አገሪሁ",
+          "t": "ʾägärihu",
+          "gl": ""
+        },
+        {
+          "g": "ወይበልፆ",
+          "t": "wäyəbäləṣ́o",
+          "gl": ""
+        },
+        {
+          "g": "ሞት",
+          "t": "motə",
+          "gl": ""
+        },
+        {
+          "g": "መሠንዮ",
+          "t": "mäśänəyo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Let the soles of his feet be devoured: and death shall consume his beauty.",
+        "kjv": "It shall devour the strength of his skin: even the firstborn of death shall devour his strength."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወይነቅኡ፡ ፅሄያት፡ እምሥጋሁ፡ ወትዐንፅ፡ ምንዳቤሁ፡ ወይትቤቀሎ፡ እግዚአብሔር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይነቅኡ",
+          "t": "wäyənäqəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ፅሄያት",
+          "t": "ṣ́əheyatə",
+          "gl": ""
+        },
+        {
+          "g": "እምሥጋሁ",
+          "t": "ʾəməśəgahu",
+          "gl": ""
+        },
+        {
+          "g": "ወትዐንፅ",
+          "t": "wätəʿänəṣ́ə",
+          "gl": ""
+        },
+        {
+          "g": "ምንዳቤሁ",
+          "t": "mənədabehu",
+          "gl": ""
+        },
+        {
+          "g": "ወይትቤቀሎ",
+          "t": "wäyətəbeqälo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And let health be utterly banished from his tabernacle, and let distress seize upon him with a charge from the king.",
+        "kjv": "His confidence shall be rooted out of his tabernacle, and it shall bring him to the king of terrors."
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ወይትዓፆ፡ ውስተ፡ ቤቱ፡ በሌሊት፡ ወይዘርዎ፡ መሠንዮ፡ ፈጣሪሁ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይትዓፆ",
+          "t": "wäyətəʿaṣ́o",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ቤቱ",
+          "t": "betu",
+          "gl": ""
+        },
+        {
+          "g": "በሌሊት",
+          "t": "bälelitə",
+          "gl": ""
+        },
+        {
+          "g": "ወይዘርዎ",
+          "t": "wäyəzärəwo",
+          "gl": ""
+        },
+        {
+          "g": "መሠንዮ",
+          "t": "mäśänəyo",
+          "gl": ""
+        },
+        {
+          "g": "ፈጣሪሁ",
+          "t": "fäṭarihu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "It shall dwell in his tabernacle in his night: his excellency shall be sown with brimstone.",
+        "kjv": "It shall dwell in his tabernacle, because it is none of his: brimstone shall be scattered upon his habitation."
+      }
+    },
+    {
+      "num": 16,
+      "geez": "ወይብስ፡ ሥረዊሁ፡ በታሕቴሁ፡ ወይወድቅ፡ ፍሬሁ፡ እምላዕሌሁ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይብስ",
+          "t": "wäyəbəsə",
+          "gl": ""
+        },
+        {
+          "g": "ሥረዊሁ",
+          "t": "śəräwihu",
+          "gl": ""
+        },
+        {
+          "g": "በታሕቴሁ",
+          "t": "bätaḥətehu",
+          "gl": ""
+        },
+        {
+          "g": "ወይወድቅ",
+          "t": "wäyəwädəqə",
+          "gl": ""
+        },
+        {
+          "g": "ፍሬሁ",
+          "t": "fərehu",
+          "gl": ""
+        },
+        {
+          "g": "እምላዕሌሁ",
+          "t": "ʾəməlaʿəlehu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "His roots shall be dried up from beneath, and his crop shall fall away from above.",
+        "kjv": "His roots shall be dried up beneath, and above shall his branch be cut off."
+      }
+    },
+    {
+      "num": 17,
+      "geez": "ወይጠፍአ፡ እምድር፡ ዝክሩ፡ ወይርኅቅ፡ ስሙ፡ ነዋኅ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይጠፍአ",
+          "t": "wäyəṭäfəʾä",
+          "gl": ""
+        },
+        {
+          "g": "እምድር",
+          "t": "ʾəmədərə",
+          "gl": ""
+        },
+        {
+          "g": "ዝክሩ",
+          "t": "zəkəru",
+          "gl": ""
+        },
+        {
+          "g": "ወይርኅቅ",
+          "t": "wäyərəḫəqə",
+          "gl": ""
+        },
+        {
+          "g": "ስሙ",
+          "t": "səmu",
+          "gl": ""
+        },
+        {
+          "g": "ነዋኅ",
+          "t": "näwaḫə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Let his memorial perish out of the earth, and his name shall be publicly cast out.",
+        "kjv": "His remembrance shall perish from the earth, and he shall have no name in the street."
+      }
+    },
+    {
+      "num": 18,
+      "geez": "ወያፈልስዎ፡ እምብርሃን፡ ውስተ፡ ጽልመት፡ ወአልቦ፡ ዘይምሕሮ፡ እምሕዝቡ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያፈልስዎ",
+          "t": "wäyafäləsəwo",
+          "gl": ""
+        },
+        {
+          "g": "እምብርሃን",
+          "t": "ʾəməbərəhanə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ጽልመት",
+          "t": "ṣələmätə",
+          "gl": ""
+        },
+        {
+          "g": "ወአልቦ",
+          "t": "wäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘይምሕሮ",
+          "t": "zäyəməḥəro",
+          "gl": ""
+        },
+        {
+          "g": "እምሕዝቡ",
+          "t": "ʾəməḥəzəbu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Let one drive him from light into darkness.",
+        "kjv": "He shall be driven from light into darkness, and chased out of the world."
+      }
+    },
+    {
+      "num": 19,
+      "geez": "ወኢይድኅን፡ ቤቱ፡ በታሕተ፡ ሰማይ፡ ወባዕድ፡ ይዴሎ፡ በንዋየ፡ ዚአሁ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኢይድኅን",
+          "t": "wäʾiyədəḫənə",
+          "gl": ""
+        },
+        {
+          "g": "ቤቱ",
+          "t": "betu",
+          "gl": ""
+        },
+        {
+          "g": "በታሕተ",
+          "t": "bätaḥətä",
+          "gl": ""
+        },
+        {
+          "g": "ሰማይ",
+          "t": "sämayə",
+          "gl": ""
+        },
+        {
+          "g": "ወባዕድ",
+          "t": "wäbaʿədə",
+          "gl": ""
+        },
+        {
+          "g": "ይዴሎ",
+          "t": "yədelo",
+          "gl": ""
+        },
+        {
+          "g": "በንዋየ",
+          "t": "bänəwayä",
+          "gl": ""
+        },
+        {
+          "g": "ዚአሁ",
+          "t": "ziʾähu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "He shall not be known among his people, nor his house preserved on the earth.",
+        "kjv": "He shall neither have son nor nephew among his people, nor any remaining in his dwellings."
+      }
+    },
+    {
+      "num": 20,
+      "geez": "መገዓረ፡ ነዳይ፡ በአንቲአሁ፡ ወዓበይትሂ፡ አንከርዎ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "መገዓረ",
+          "t": "mägäʿarä",
+          "gl": ""
+        },
+        {
+          "g": "ነዳይ",
+          "t": "nädayə",
+          "gl": ""
+        },
+        {
+          "g": "በአንቲአሁ",
+          "t": "bäʾänətiʾähu",
+          "gl": ""
+        },
+        {
+          "g": "ወዓበይትሂ",
+          "t": "wäʿabäyətəhi",
+          "gl": ""
+        },
+        {
+          "g": "አንከርዎ",
+          "t": "ʾänəkärəwo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But strangers shall dwell in his possessions: the last groaned for him, and wonder seized the first.",
+        "kjv": "They that come after him shall be astonied at his day, as they that went before were affrighted."
+      }
+    },
+    {
+      "num": 21,
+      "geez": "ከመዝ፡ ለእለ፡ ኢየአምርዎ፡ ለእግዚአብሔር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ከመዝ",
+          "t": "kämäzə",
+          "gl": ""
+        },
+        {
+          "g": "ለእለ",
+          "t": "läʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኢየአምርዎ",
+          "t": "ʾiyäʾämərəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "These are the houses of the unrighteous, and this is the place of them that know not the Lord.",
+        "kjv": "Surely such are the dwellings of the wicked, and this is the place of him that knoweth not God."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

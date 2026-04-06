@@ -1,0 +1,9 @@
+services:
+  ethiopian-bible:
+    build: .
+    ports:
+      - "3300:80"
+    volumes:
+      # Optional: mount local data directory to override bundled data
+      # - ./public/data:/srv/data:ro
+    restart: unless-stopped

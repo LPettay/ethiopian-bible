@@ -1,0 +1,854 @@
+{
+  "book": "1En",
+  "chapter": 52,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወእምድኅረ፡ እማንቱ፡ መዋዕል፡ በውእቱ፡ መካን፡ ኀበ፡ ርኢኩ፡ ኵሎ፡ ራእያተ፡ ኅቡኣተ፡ እስመ፡ ተመሠጥኩ፡ በነኰርኳረ፡ ነፋስ፡ ወወሰዱኒ፡ ውስተ፡ ዐረብ።",
+      "translation": "And after those days in that place where I had seen all the visions of that which is hidden—for I had been carried off in a whirlwind and they had borne me towards the west—",
+      "words": [
+        {
+          "g": "ወእምድኅረ",
+          "t": "wäʾəmədəḫərä",
+          "gl": ""
+        },
+        {
+          "g": "እማንቱ",
+          "t": "ʾəmanətu",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕል",
+          "t": "mäwaʿələ",
+          "gl": ""
+        },
+        {
+          "g": "በውእቱ",
+          "t": "bäwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "መካን",
+          "t": "mäkanə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ርኢኩ",
+          "t": "rəʾiku",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ራእያተ",
+          "t": "raʾəyatä",
+          "gl": ""
+        },
+        {
+          "g": "ኅቡኣተ",
+          "t": "ḫəbuʾatä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ተመሠጥኩ",
+          "t": "tämäśäṭəku",
+          "gl": ""
+        },
+        {
+          "g": "በነኰርኳረ",
+          "t": "bänäkwärəkwarä",
+          "gl": ""
+        },
+        {
+          "g": "ነፋስ",
+          "t": "näfasə",
+          "gl": ""
+        },
+        {
+          "g": "ወወሰዱኒ",
+          "t": "wäwäsäduni",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዐረብ",
+          "t": "ʿäräbə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "geez": "ወበህየ፡ ርእያ፡ አዕይንትየ፡ ኅቡኣተ፡ ሰማይ፡ ኵሎ፡ ዘይከውን፡ ሀሎ፡ በዲበ፡ ምድር፡ ደብረ፡ ኀጺን፡ ወደብረ፡ ጸሪቅ፡ ወደብረ፡ ብሩር፡ ወደብረ፡ ወርቅ፡ ወደብረ፡ ነጠብጣብ፡ ወደብረ፡ ዓረር።",
+      "translation": "There mine eyes saw all the secret things of heaven that shall be, a mountain of iron, and a mountain of copper, and a mountain of silver, and a mountain of gold, and a mountain of soft metal, and a mountain of lead.",
+      "words": [
+        {
+          "g": "ወበህየ",
+          "t": "wäbähəyä",
+          "gl": ""
+        },
+        {
+          "g": "ርእያ",
+          "t": "rəʾəya",
+          "gl": ""
+        },
+        {
+          "g": "አዕይንትየ",
+          "t": "ʾäʿəyənətəyä",
+          "gl": ""
+        },
+        {
+          "g": "ኅቡኣተ",
+          "t": "ḫəbuʾatä",
+          "gl": ""
+        },
+        {
+          "g": "ሰማይ",
+          "t": "sämayə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ዘይከውን",
+          "t": "zäyəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ሀሎ",
+          "t": "hälo",
+          "gl": ""
+        },
+        {
+          "g": "በዲበ",
+          "t": "bädibä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ደብረ",
+          "t": "däbərä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጺን",
+          "t": "ḫäṣinə",
+          "gl": ""
+        },
+        {
+          "g": "ወደብረ",
+          "t": "wädäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ጸሪቅ",
+          "t": "ṣäriqə",
+          "gl": ""
+        },
+        {
+          "g": "ወደብረ",
+          "t": "wädäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ብሩር",
+          "t": "bərurə",
+          "gl": ""
+        },
+        {
+          "g": "ወደብረ",
+          "t": "wädäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ወርቅ",
+          "t": "wärəqə",
+          "gl": ""
+        },
+        {
+          "g": "ወደብረ",
+          "t": "wädäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ነጠብጣብ",
+          "t": "näṭäbəṭabə",
+          "gl": ""
+        },
+        {
+          "g": "ወደብረ",
+          "t": "wädäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ዓረር",
+          "t": "ʿarärə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "geez": "ወተስእልክዎ፡ ለመልአክ፡ ዘየሐውር፡ ምስሌየ፡ እንዘ፡ እብል፡ ምንት፡ እሙንቱ፡ እሉ፡ እለ፡ በኅቡእ፡ ርኢኩ።",
+      "translation": "And I asked the angel who went with me, saying, ‘What things are these which I have seen in secret?’",
+      "words": [
+        {
+          "g": "ወተስእልክዎ",
+          "t": "wätäsəʾələkəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለመልአክ",
+          "t": "lämäləʾäkə",
+          "gl": ""
+        },
+        {
+          "g": "ዘየሐውር",
+          "t": "zäyäḥäwərə",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌየ",
+          "t": "məsəleyä",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "እብል",
+          "t": "ʾəbələ",
+          "gl": ""
+        },
+        {
+          "g": "ምንት",
+          "t": "mənətə",
+          "gl": ""
+        },
+        {
+          "g": "እሙንቱ",
+          "t": "ʾəmunətu",
+          "gl": ""
+        },
+        {
+          "g": "እሉ",
+          "t": "ʾəlu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "በኅቡእ",
+          "t": "bäḫəbuʾə",
+          "gl": ""
+        },
+        {
+          "g": "ርኢኩ",
+          "t": "rəʾiku",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 4,
+      "geez": "ወይቤለኒ፡ እሉ፡ ኵሎሙ፡ ዘርኢከ፡ ለሥልጣነ፡ መሲሑ፡ እሙንቱ፡ ይከውኑ፡ ከመ፡ የአዝዝ፡ ወይትኀየል፡ ዲበ፡ ምድር።",
+      "translation": "And he said unto me: ‘All these things which thou hast seen shall serve the dominion of His Anointed that he may be potent and mighty on the earth.’",
+      "words": [
+        {
+          "g": "ወይቤለኒ",
+          "t": "wäyəbeläni",
+          "gl": ""
+        },
+        {
+          "g": "እሉ",
+          "t": "ʾəlu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘርኢከ",
+          "t": "zärəʾikä",
+          "gl": ""
+        },
+        {
+          "g": "ለሥልጣነ",
+          "t": "läśələṭanä",
+          "gl": ""
+        },
+        {
+          "g": "መሲሑ",
+          "t": "mäsiḥu",
+          "gl": ""
+        },
+        {
+          "g": "እሙንቱ",
+          "t": "ʾəmunətu",
+          "gl": ""
+        },
+        {
+          "g": "ይከውኑ",
+          "t": "yəkäwənu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "የአዝዝ",
+          "t": "yäʾäzəzə",
+          "gl": ""
+        },
+        {
+          "g": "ወይትኀየል",
+          "t": "wäyətəḫäyälə",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 5,
+      "geez": "ወአውሥአኒ፡ እንዘ፡ ይብል፡ ውእቱ፡ መልአከ፡ ሰላም፡ ጽናሕ፡ ንስቲተ፡ ወትሬኢ፡ ወይትከሠት፡ ለከ፡ ኵሉ፡ ዘኅቡእ፡ ዘተከላ፡ እግዚአ፡ መናፍስት።",
+      "translation": "And that angel of peace answered, saying unto me: ‘Wait a little, and there shall be revealed unto thee all the secret things which surround the Lord of Spirits.",
+      "words": [
+        {
+          "g": "ወአውሥአኒ",
+          "t": "wäʾäwəśəʾäni",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ይብል",
+          "t": "yəbələ",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "መልአከ",
+          "t": "mäləʾäkä",
+          "gl": ""
+        },
+        {
+          "g": "ሰላም",
+          "t": "sälamə",
+          "gl": ""
+        },
+        {
+          "g": "ጽናሕ",
+          "t": "ṣənaḥə",
+          "gl": ""
+        },
+        {
+          "g": "ንስቲተ",
+          "t": "nəsətitä",
+          "gl": ""
+        },
+        {
+          "g": "ወትሬኢ",
+          "t": "wätəreʾi",
+          "gl": ""
+        },
+        {
+          "g": "ወይትከሠት",
+          "t": "wäyətəkäśätə",
+          "gl": ""
+        },
+        {
+          "g": "ለከ",
+          "t": "läkä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘኅቡእ",
+          "t": "zäḫəbuʾə",
+          "gl": ""
+        },
+        {
+          "g": "ዘተከላ",
+          "t": "zätäkäla",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአ",
+          "t": "ʾəgəziʾä",
+          "gl": ""
+        },
+        {
+          "g": "መናፍስት",
+          "t": "mänafəsətə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 6,
+      "geez": "ወእሎንቱ፡ አድባር፡ ዘርኢከ፡ ደብረ፡ ኀጺን፡ ወደብረ፡ ጸሪቅ፡ ወደብረ፡ ብሩር፡ ወደብረ፡ ወርቅ፡ ወደብረ፡ ነጠብጣብ፡ ወደብረ፡ ዓረር፡ እሉ፡ ኵሎሙ፡ ቅድሜሁ፡ ለኅሩይ፡ ይከውኑ፡ ከመ፡ መዓረ፡ ግራ፡ ዘቅድመ፡ ገጸ፡ እሳት፡ ወከመ፡ ማይ፡ ዘይወርድ፡ እምላዕሉ፡ ዲበ፡ እማንቱ፡ አድባር፡ ወይከውኑ፡ ድኩማነ፡ ታሕተ፡ እገሪሁ።",
+      "translation": "And these mountains which thine eyes have seen, The mountain of iron, and the mountain of copper, and the mountain of silver, And the mountain of gold, and the mountain of soft metal, and the mountain of lead, All these shall be in the presence of the Elect One As wax before the fire, And like the water which streams down from above [upon those mountains], And they shall become powerless before his feet.",
+      "words": [
+        {
+          "g": "ወእሎንቱ",
+          "t": "wäʾəlonətu",
+          "gl": ""
+        },
+        {
+          "g": "አድባር",
+          "t": "ʾädəbarə",
+          "gl": ""
+        },
+        {
+          "g": "ዘርኢከ",
+          "t": "zärəʾikä",
+          "gl": ""
+        },
+        {
+          "g": "ደብረ",
+          "t": "däbərä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጺን",
+          "t": "ḫäṣinə",
+          "gl": ""
+        },
+        {
+          "g": "ወደብረ",
+          "t": "wädäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ጸሪቅ",
+          "t": "ṣäriqə",
+          "gl": ""
+        },
+        {
+          "g": "ወደብረ",
+          "t": "wädäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ብሩር",
+          "t": "bərurə",
+          "gl": ""
+        },
+        {
+          "g": "ወደብረ",
+          "t": "wädäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ወርቅ",
+          "t": "wärəqə",
+          "gl": ""
+        },
+        {
+          "g": "ወደብረ",
+          "t": "wädäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ነጠብጣብ",
+          "t": "näṭäbəṭabə",
+          "gl": ""
+        },
+        {
+          "g": "ወደብረ",
+          "t": "wädäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ዓረር",
+          "t": "ʿarärə",
+          "gl": ""
+        },
+        {
+          "g": "እሉ",
+          "t": "ʾəlu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ቅድሜሁ",
+          "t": "qədəmehu",
+          "gl": ""
+        },
+        {
+          "g": "ለኅሩይ",
+          "t": "läḫəruyə",
+          "gl": ""
+        },
+        {
+          "g": "ይከውኑ",
+          "t": "yəkäwənu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "መዓረ",
+          "t": "mäʿarä",
+          "gl": ""
+        },
+        {
+          "g": "ግራ",
+          "t": "gəra",
+          "gl": ""
+        },
+        {
+          "g": "ዘቅድመ",
+          "t": "zäqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ገጸ",
+          "t": "gäṣä",
+          "gl": ""
+        },
+        {
+          "g": "እሳት",
+          "t": "ʾəsatə",
+          "gl": ""
+        },
+        {
+          "g": "ወከመ",
+          "t": "wäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ማይ",
+          "t": "mayə",
+          "gl": ""
+        },
+        {
+          "g": "ዘይወርድ",
+          "t": "zäyəwärədə",
+          "gl": ""
+        },
+        {
+          "g": "እምላዕሉ",
+          "t": "ʾəməlaʿəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "እማንቱ",
+          "t": "ʾəmanətu",
+          "gl": ""
+        },
+        {
+          "g": "አድባር",
+          "t": "ʾädəbarə",
+          "gl": ""
+        },
+        {
+          "g": "ወይከውኑ",
+          "t": "wäyəkäwənu",
+          "gl": ""
+        },
+        {
+          "g": "ድኩማነ",
+          "t": "dəkumanä",
+          "gl": ""
+        },
+        {
+          "g": "ታሕተ",
+          "t": "taḥətä",
+          "gl": ""
+        },
+        {
+          "g": "እገሪሁ",
+          "t": "ʾəgärihu",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 7,
+      "geez": "ወይከውን፡ በእማንቱ፡ መዋዕል፡ ኢይድኅኑ፡ ኢ፡ በወርቅ፡ ወኢ፡ በብሩር፡ ወኢይክሉ፡ ድኂነ፡ ወጐይየ።",
+      "translation": "And it shall come to pass in those days that none shall be saved, Either by gold or by silver, And none be able to escape.",
+      "words": [
+        {
+          "g": "ወይከውን",
+          "t": "wäyəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "በእማንቱ",
+          "t": "bäʾəmanətu",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕል",
+          "t": "mäwaʿələ",
+          "gl": ""
+        },
+        {
+          "g": "ኢይድኅኑ",
+          "t": "ʾiyədəḫənu",
+          "gl": ""
+        },
+        {
+          "g": "ኢ",
+          "t": "ʾi",
+          "gl": ""
+        },
+        {
+          "g": "በወርቅ",
+          "t": "bäwärəqə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢ",
+          "t": "wäʾi",
+          "gl": ""
+        },
+        {
+          "g": "በብሩር",
+          "t": "bäbərurə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይክሉ",
+          "t": "wäʾiyəkəlu",
+          "gl": ""
+        },
+        {
+          "g": "ድኂነ",
+          "t": "dəḫinä",
+          "gl": ""
+        },
+        {
+          "g": "ወጐይየ",
+          "t": "wägwäyəyä",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 8,
+      "geez": "ወኢይከውን፡ ኀጺን፡ ለጸብእ፡ ወኢ፡ ልብስ፡ ለድርዐ፡ እንግድዓ፡ ኢይበቍዕ፡ ብርት፡ ወኢ፡ ናእክ፡ ኢይበቍዕ፡ ወኢይትኌለቍ፡ ወዓረር፡ ኢይትፈቀድ።",
+      "translation": "And there shall be no iron for war, Nor shall one clothe oneself with a breastplate. Bronze shall be of no service, And tin [shall be of no service and] shall not be esteemed, And lead shall not be desired.",
+      "words": [
+        {
+          "g": "ወኢይከውን",
+          "t": "wäʾiyəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ኀጺን",
+          "t": "ḫäṣinə",
+          "gl": ""
+        },
+        {
+          "g": "ለጸብእ",
+          "t": "läṣäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢ",
+          "t": "wäʾi",
+          "gl": ""
+        },
+        {
+          "g": "ልብስ",
+          "t": "ləbəsə",
+          "gl": ""
+        },
+        {
+          "g": "ለድርዐ",
+          "t": "lädərəʿä",
+          "gl": ""
+        },
+        {
+          "g": "እንግድዓ",
+          "t": "ʾənəgədəʿa",
+          "gl": ""
+        },
+        {
+          "g": "ኢይበቍዕ",
+          "t": "ʾiyəbäqwəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ብርት",
+          "t": "bərətə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢ",
+          "t": "wäʾi",
+          "gl": ""
+        },
+        {
+          "g": "ናእክ",
+          "t": "naʾəkə",
+          "gl": ""
+        },
+        {
+          "g": "ኢይበቍዕ",
+          "t": "ʾiyəbäqwəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይትኌለቍ",
+          "t": "wäʾiyətəḫweläqwə",
+          "gl": ""
+        },
+        {
+          "g": "ወዓረር",
+          "t": "wäʿarärə",
+          "gl": ""
+        },
+        {
+          "g": "ኢይትፈቀድ",
+          "t": "ʾiyətəfäqädə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 9,
+      "geez": "አላ፡ ኵሎሙ፡ ይትከየዱ፡ ወይትሀጐሉ፡ ሀለዎሙ፡ እምገጸ፡ ምድር፡ ሶበ፡ ያስተርኢ፡ ኅሩይ፡ በቅድመ፡ ገጹ፡ ለእግዚአ፡ መናፍስት።",
+      "translation": "And all these things shall be [denied and] destroyed from the surface of the earth, When the Elect One shall appear before the face of the Lord of Spirits.’",
+      "words": [
+        {
+          "g": "አላ",
+          "t": "ʾäla",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ይትከየዱ",
+          "t": "yətəkäyädu",
+          "gl": ""
+        },
+        {
+          "g": "ወይትሀጐሉ",
+          "t": "wäyətəhägwälu",
+          "gl": ""
+        },
+        {
+          "g": "ሀለዎሙ",
+          "t": "häläwomu",
+          "gl": ""
+        },
+        {
+          "g": "እምገጸ",
+          "t": "ʾəməgäṣä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ሶበ",
+          "t": "sobä",
+          "gl": ""
+        },
+        {
+          "g": "ያስተርኢ",
+          "t": "yasətärəʾi",
+          "gl": ""
+        },
+        {
+          "g": "ኅሩይ",
+          "t": "ḫəruyə",
+          "gl": ""
+        },
+        {
+          "g": "በቅድመ",
+          "t": "bäqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ገጹ",
+          "t": "gäṣu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአ",
+          "t": "läʾəgəziʾä",
+          "gl": ""
+        },
+        {
+          "g": "መናፍስት",
+          "t": "mänafəsətə",
+          "gl": ""
+        }
+      ]
+    }
+  ]
+}

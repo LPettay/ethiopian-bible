@@ -1,0 +1,813 @@
+{
+  "book": "Sir",
+  "chapter": 5,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወኢትክዓው፡ ንዋየከ፡ በከንቱ፡ ወኢትበል፡ ኮንየ፡ አከለኒ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኢትክዓው",
+          "t": "wäʾitəkəʿawə",
+          "gl": ""
+        },
+        {
+          "g": "ንዋየከ",
+          "t": "nəwayäkä",
+          "gl": ""
+        },
+        {
+          "g": "በከንቱ",
+          "t": "bäkänətu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢትበል",
+          "t": "wäʾitəbälə",
+          "gl": ""
+        },
+        {
+          "g": "ኮንየ",
+          "t": "konəyä",
+          "gl": ""
+        },
+        {
+          "g": "አከለኒ",
+          "t": "ʾäkäläni",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Set not thy heart upon thy goods; and say not, I have enough for my life."
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ወኢትትሉ፡ ግዕዘ፡ ኀይለ፡ ነፍስከ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኢትትሉ",
+          "t": "wäʾitətəlu",
+          "gl": ""
+        },
+        {
+          "g": "ግዕዘ",
+          "t": "gəʿəzä",
+          "gl": ""
+        },
+        {
+          "g": "ኀይለ",
+          "t": "ḫäyəlä",
+          "gl": ""
+        },
+        {
+          "g": "ነፍስከ",
+          "t": "näfəsəkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Follow not thine own mind and thy strength, to walk in the ways of thy heart:"
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወኢትበል፡ ኀያል፡ አነ፡ ወመኑ፡ ይክለኒ፡ እስመ፡ እግዚአብሔር፡ በቀለ፡ ይትቤቀል።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኢትበል",
+          "t": "wäʾitəbälə",
+          "gl": ""
+        },
+        {
+          "g": "ኀያል",
+          "t": "ḫäyalə",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "ወመኑ",
+          "t": "wämänu",
+          "gl": ""
+        },
+        {
+          "g": "ይክለኒ",
+          "t": "yəkəläni",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "በቀለ",
+          "t": "bäqälä",
+          "gl": ""
+        },
+        {
+          "g": "ይትቤቀል",
+          "t": "yətəbeqälə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and say not, Who shall control me for my works? for the Lord will surely revenge thy pride."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወኢትበል፡ አበስኩሂ፡ ወአልቦ፡ ዘተፈደይኩ፡ እስመ፡ እግዚአብሔር፡ ይትዔገሥ፡ ጕንዱየ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኢትበል",
+          "t": "wäʾitəbälə",
+          "gl": ""
+        },
+        {
+          "g": "አበስኩሂ",
+          "t": "ʾäbäsəkuhi",
+          "gl": ""
+        },
+        {
+          "g": "ወአልቦ",
+          "t": "wäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘተፈደይኩ",
+          "t": "zätäfädäyəku",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ይትዔገሥ",
+          "t": "yətəʿegäśə",
+          "gl": ""
+        },
+        {
+          "g": "ጕንዱየ",
+          "t": "gwənəduyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Say not, I have sinned, and what harm hath happened unto me? for the Lord is longsuffering, he will in no wise let thee go."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወኢትፍራህ፡ ተጋንዮ፡ በእንተ፡ ኀጢአትከ፡ ወኢትወስክ፡ ኀጢአተ፡ በዲበ፡ ኀጢአትከ፡ እንዘ፡ ትብል፡ ብዙኅ፡ ምሕረቱ፡ ለእግዚአብሔር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኢትፍራህ",
+          "t": "wäʾitəfərahə",
+          "gl": ""
+        },
+        {
+          "g": "ተጋንዮ",
+          "t": "täganəyo",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአትከ",
+          "t": "ḫäṭiʾätəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢትወስክ",
+          "t": "wäʾitəwäsəkə",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአተ",
+          "t": "ḫäṭiʾätä",
+          "gl": ""
+        },
+        {
+          "g": "በዲበ",
+          "t": "bädibä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአትከ",
+          "t": "ḫäṭiʾätəkä",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ትብል",
+          "t": "təbələ",
+          "gl": ""
+        },
+        {
+          "g": "ብዙኅ",
+          "t": "bəzuḫə",
+          "gl": ""
+        },
+        {
+          "g": "ምሕረቱ",
+          "t": "məḥərätu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Concerning propitiation, be not without fear to add sin unto sin:"
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ምሕረትኒ፡ ወመቅሠፍትኒ፡ እምኀቤሁ፡ ላዕለ፡ ኃጥእ፡ ይወርድ፡ መቅሠፍቱ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ምሕረትኒ",
+          "t": "məḥərätəni",
+          "gl": ""
+        },
+        {
+          "g": "ወመቅሠፍትኒ",
+          "t": "wämäqəśäfətəni",
+          "gl": ""
+        },
+        {
+          "g": "እምኀቤሁ",
+          "t": "ʾəməḫäbehu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኃጥእ",
+          "t": "ḫaṭəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ይወርድ",
+          "t": "yəwärədə",
+          "gl": ""
+        },
+        {
+          "g": "መቅሠፍቱ",
+          "t": "mäqəśäfətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and say not, His mercy is great; he will be pacified for the multitude of my sins: for mercy and wrath come from him, and his indignation resteth upon sinners."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ኢታጐንዲ፡ ተጋንዮ፡ ለእግዚአብሔር፡ ወኢታስተኀልፍ፡ ዕለተ፡ እምዕለት፡ እስመ፡ ግብተ፡ ትመጽእ፡ መንሱት፡ ወትትመነደብ፡ አመ፡ ትመጽእ፡ ፍዳከ፡ ወመቅሠፍትከ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኢታጐንዲ",
+          "t": "ʾitagwänədi",
+          "gl": ""
+        },
+        {
+          "g": "ተጋንዮ",
+          "t": "täganəyo",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢታስተኀልፍ",
+          "t": "wäʾitasətäḫäləfə",
+          "gl": ""
+        },
+        {
+          "g": "ዕለተ",
+          "t": "ʿəlätä",
+          "gl": ""
+        },
+        {
+          "g": "እምዕለት",
+          "t": "ʾəməʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ግብተ",
+          "t": "gəbətä",
+          "gl": ""
+        },
+        {
+          "g": "ትመጽእ",
+          "t": "təmäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "መንሱት",
+          "t": "mänəsutə",
+          "gl": ""
+        },
+        {
+          "g": "ወትትመነደብ",
+          "t": "wätətəmänädäbə",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ትመጽእ",
+          "t": "təmäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ፍዳከ",
+          "t": "fədakä",
+          "gl": ""
+        },
+        {
+          "g": "ወመቅሠፍትከ",
+          "t": "wämäqəśäfətəkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Make no tarrying to turn to the Lord, and put not off from day to day: for suddenly shall the wrath of the Lord come forth, and in thy security thou shalt be destroyed, and perish in the day of vengeance."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ኢትሰቈቊ፡ ለንዋየ፡ ዓመፃ፡ እስመ፡ ኢይክል፡ አድኅኖተከ፡ አመ፡ ምንዳቤከ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኢትሰቈቊ",
+          "t": "ʾitəsäqwäqwi",
+          "gl": ""
+        },
+        {
+          "g": "ለንዋየ",
+          "t": "länəwayä",
+          "gl": ""
+        },
+        {
+          "g": "ዓመፃ",
+          "t": "ʿamäṣ́a",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኢይክል",
+          "t": "ʾiyəkələ",
+          "gl": ""
+        },
+        {
+          "g": "አድኅኖተከ",
+          "t": "ʾädəḫənotäkä",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ምንዳቤከ",
+          "t": "mənədabekä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Set not thine heart upon goods unjustly gotten; for they shall not profit thee in the day of calamity."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወኢታብቁ፡ ለኵሉ፡ ዘነፍስ፡ ወኢትትሉ፡ ውስተ፡ ኵሉ፡ ዘፈተውከ፡ ወኢትኩን፡ ከመ፡ ኃጥእ፡ ዘክልኤ፡ ልሳኑ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኢታብቁ",
+          "t": "wäʾitabəqu",
+          "gl": ""
+        },
+        {
+          "g": "ለኵሉ",
+          "t": "läkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘነፍስ",
+          "t": "zänäfəsə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢትትሉ",
+          "t": "wäʾitətəlu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘፈተውከ",
+          "t": "zäfätäwəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢትኩን",
+          "t": "wäʾitəkunə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ኃጥእ",
+          "t": "ḫaṭəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ዘክልኤ",
+          "t": "zäkələʾe",
+          "gl": ""
+        },
+        {
+          "g": "ልሳኑ",
+          "t": "ləsanu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Winnow not with every wind, and go not into every way: for so doth the sinner that hath a double tongue."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "አንተሰ፡ አስምክ፡ ላዕለ፡ ጥበብከ፡ ወአሐደ፡ ይኩን፡ ቃልከ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "አንተሰ",
+          "t": "ʾänətäsä",
+          "gl": ""
+        },
+        {
+          "g": "አስምክ",
+          "t": "ʾäsəməkə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ጥበብከ",
+          "t": "ṭəbäbəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወአሐደ",
+          "t": "wäʾäḥädä",
+          "gl": ""
+        },
+        {
+          "g": "ይኩን",
+          "t": "yəkunə",
+          "gl": ""
+        },
+        {
+          "g": "ቃልከ",
+          "t": "qaləkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Be stedfast in thy understanding; and let thy word be the same."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወኩን፡ ፍጡነ፡ ለሰሚዕ፡ ወመስተዓግሠ፡ ለአውሥኦ፡ ቃል።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኩን",
+          "t": "wäkunə",
+          "gl": ""
+        },
+        {
+          "g": "ፍጡነ",
+          "t": "fəṭunä",
+          "gl": ""
+        },
+        {
+          "g": "ለሰሚዕ",
+          "t": "läsämiʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወመስተዓግሠ",
+          "t": "wämäsətäʿagəśä",
+          "gl": ""
+        },
+        {
+          "g": "ለአውሥኦ",
+          "t": "läʾäwəśəʾo",
+          "gl": ""
+        },
+        {
+          "g": "ቃል",
+          "t": "qalə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Be swift to hear; and let thy life be sincere; and with patience give answer."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "እመ፡ ብከ፡ ዘታየድዖ፡ ንግሮ፡ ለቢጽከ፡ ወእመ፡ አኮሰ፡ ደይ፡ እዴከ፡ ላዕለ፡ አፉከ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እመ",
+          "t": "ʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ብከ",
+          "t": "bəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዘታየድዖ",
+          "t": "zätayädəʿo",
+          "gl": ""
+        },
+        {
+          "g": "ንግሮ",
+          "t": "nəgəro",
+          "gl": ""
+        },
+        {
+          "g": "ለቢጽከ",
+          "t": "läbiṣəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወእመ",
+          "t": "wäʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "አኮሰ",
+          "t": "ʾäkosä",
+          "gl": ""
+        },
+        {
+          "g": "ደይ",
+          "t": "däyə",
+          "gl": ""
+        },
+        {
+          "g": "እዴከ",
+          "t": "ʾədekä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "አፉከ",
+          "t": "ʾäfukä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "If thou hast understanding, answer thy neighbour; if not, lay thy hand upon thy mouth."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ኀሣርከኒ፡ ወክብርከኒ፡ እምቃልከኒ፡ ወእምልሳኑ፡ ለሰብእ፡ ድቀቱ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኀሣርከኒ",
+          "t": "ḫäśarəkäni",
+          "gl": ""
+        },
+        {
+          "g": "ወክብርከኒ",
+          "t": "wäkəbərəkäni",
+          "gl": ""
+        },
+        {
+          "g": "እምቃልከኒ",
+          "t": "ʾəməqaləkäni",
+          "gl": ""
+        },
+        {
+          "g": "ወእምልሳኑ",
+          "t": "wäʾəmələsanu",
+          "gl": ""
+        },
+        {
+          "g": "ለሰብእ",
+          "t": "läsäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ድቀቱ",
+          "t": "dəqätu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Honour and shame is in talk: and the tongue of man is his fall."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ኢትኩን፡ ሐማዬ፡ ወኢትዘለፍ፡ በልሳንከ፡ እስመ፡ ኅዳጥ፡ ኀፍረቱ፡ ለሰራቂ፡ ወእኪት፡ ኀሣሩ፡ ለዘክልኤ፡ ልሳኑ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኢትኩን",
+          "t": "ʾitəkunə",
+          "gl": ""
+        },
+        {
+          "g": "ሐማዬ",
+          "t": "ḥämaye",
+          "gl": ""
+        },
+        {
+          "g": "ወኢትዘለፍ",
+          "t": "wäʾitəzäläfə",
+          "gl": ""
+        },
+        {
+          "g": "በልሳንከ",
+          "t": "bäləsanəkä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኅዳጥ",
+          "t": "ḫədaṭə",
+          "gl": ""
+        },
+        {
+          "g": "ኀፍረቱ",
+          "t": "ḫäfərätu",
+          "gl": ""
+        },
+        {
+          "g": "ለሰራቂ",
+          "t": "läsäraqi",
+          "gl": ""
+        },
+        {
+          "g": "ወእኪት",
+          "t": "wäʾəkitə",
+          "gl": ""
+        },
+        {
+          "g": "ኀሣሩ",
+          "t": "ḫäśaru",
+          "gl": ""
+        },
+        {
+          "g": "ለዘክልኤ",
+          "t": "läzäkələʾe",
+          "gl": ""
+        },
+        {
+          "g": "ልሳኑ",
+          "t": "ləsanu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Be not called a whisperer, and lie not in wait with thy tongue: for a foul shame is upon the thief, and an evil condemnation upon the double tongue."
+      }
+    },
+    {
+      "num": 15,
+      "geez": "በኀበ፡ ዐቢይኒ፡ ወበኀበ፡ ንዑስኒ፡ አስተርኢ፡ ኄረ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "በኀበ",
+          "t": "bäḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ዐቢይኒ",
+          "t": "ʿäbiyəni",
+          "gl": ""
+        },
+        {
+          "g": "ወበኀበ",
+          "t": "wäbäḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ንዑስኒ",
+          "t": "nəʿusəni",
+          "gl": ""
+        },
+        {
+          "g": "አስተርኢ",
+          "t": "ʾäsətärəʾi",
+          "gl": ""
+        },
+        {
+          "g": "ኄረ",
+          "t": "ḫerä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Be not ignorant of any thing in a great matter or a small."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    }
+  }
+}

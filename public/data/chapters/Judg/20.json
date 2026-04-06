@@ -1,0 +1,4271 @@
+{
+  "book": "Judg",
+  "chapter": 20,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወወፅኡ ፡ ኵሎሙ ፡ ደቂቀ ፡ እስራኤል ፡ ወአንገለጉ ፡ ተጋቢኦሙ ፡ ኵሎሙ ፡ ማኅበሮሙ ፡ ከመ ፡ አሐዱ ፡ ብእሲ ፡ እምነ\n                  ፡ ዳን ፡ እስከ ፡ ቤርሳቤሕ ፡ ወገላአድኒ ፡ ውስተ ፡ መሴፋ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወወፅኡ",
+          "t": "wäwäṣ́əʾu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወአንገለጉ",
+          "t": "wäʾänəgälägu",
+          "gl": ""
+        },
+        {
+          "g": "ተጋቢኦሙ",
+          "t": "tägabiʾomu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ማኅበሮሙ",
+          "t": "maḫəbäromu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ዳን",
+          "t": "danə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ቤርሳቤሕ",
+          "t": "berəsabeḥə",
+          "gl": ""
+        },
+        {
+          "g": "ወገላአድኒ",
+          "t": "wägälaʾädəni",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "መሴፋ",
+          "t": "mäsefa",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And all the children of Israel went out, and all the congregation was gathered as one man, from Dan even to Bersabee, and in the land of Galaad, to the Lord at Massepha.",
+        "kjv": "Then all the children of Israel went out, and the congregation was gathered together as one man, from Dan even to Beersheba, with the land of Gilead, unto the LORD in Mizpeh."
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ወቆመ ፡ ኵሉ ፡ ሕዝብ ፡ ወኵሉ ፡ ነገደ ፡ እስራኤል ፡ ውስተ ፡ ማኅበረ ፡ ኵሉ ፡ ሕዝቡ ፡ ለእግዚአብሔር ፡ አርብዓ ፡\n                  እልፍ ፡ አጋር ፡ ዘይጸውር ፡ ኵናተ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወቆመ",
+          "t": "wäqomä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ነገደ",
+          "t": "nägädä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ማኅበረ",
+          "t": "maḫəbärä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝቡ",
+          "t": "ḥəzəbu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አርብዓ",
+          "t": "ʾärəbəʿa",
+          "gl": ""
+        },
+        {
+          "g": "እልፍ",
+          "t": "ʾələfə",
+          "gl": ""
+        },
+        {
+          "g": "አጋር",
+          "t": "ʾägarə",
+          "gl": ""
+        },
+        {
+          "g": "ዘይጸውር",
+          "t": "zäyəṣäwərə",
+          "gl": ""
+        },
+        {
+          "g": "ኵናተ",
+          "t": "kwənatä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And all the tribes of Israel stood before the Lord in the assembly of the people of God, four hundred thousand footmen that drew sword.",
+        "kjv": "And the chief of all the people, even of all the tribes of Israel, presented themselves in the assembly of the people of God, four hundred thousand footmen that drew sword."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወሰምዑ ፡ ደቂቀ ፡ ብንያም ፡ ከመ ፡ ተጋብኡ ፡ ደቂቀ ፡ እስራኤል ፡ ውስተ ፡ መሴፋ ፡ ወይቤሉ ፡ ደቂቀ ፡ እስራኤል ፡\n                  አይድዑ ፡ በአይቴ ፡ ኮነት ፡ ዛቲ ፡ እኪት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሰምዑ",
+          "t": "wäsäməʿu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ብንያም",
+          "t": "bənəyamə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ተጋብኡ",
+          "t": "tägabəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "መሴፋ",
+          "t": "mäsefa",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሉ",
+          "t": "wäyəbelu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "አይድዑ",
+          "t": "ʾäyədəʿu",
+          "gl": ""
+        },
+        {
+          "g": "በአይቴ",
+          "t": "bäʾäyəte",
+          "gl": ""
+        },
+        {
+          "g": "ኮነት",
+          "t": "konätə",
+          "gl": ""
+        },
+        {
+          "g": "ዛቲ",
+          "t": "zati",
+          "gl": ""
+        },
+        {
+          "g": "እኪት",
+          "t": "ʾəkitə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the children of Benjamin heard that the children of Israel were gone up to Massepha: and the children of Israel came and said, Tell us, where did this wickedness take place?",
+        "kjv": "(Now the children of Benjamin heard that the children of Israel were gone up to Mizpeh.) Then said the children of Israel, Tell us, how was this wickedness?"
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወአውሥአ ፡ ዝክቱ ፡ ብእሲ ፡ ሌዋዊ ፡ ምታ ፡ ለእንታክቲ ፡ ብእሲት ፡ እንተ ፡ ቀተሉ ፡ ወይቤ ፡ በገባአ ፡ ዘብንያሚ ፡\n                  መጻእኩ ፡ አነ ፡ ወዕቅብትየ ፡ ንኅድር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአውሥአ",
+          "t": "wäʾäwəśəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ዝክቱ",
+          "t": "zəkətu",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ሌዋዊ",
+          "t": "lewawi",
+          "gl": ""
+        },
+        {
+          "g": "ምታ",
+          "t": "məta",
+          "gl": ""
+        },
+        {
+          "g": "ለእንታክቲ",
+          "t": "läʾənətakəti",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲት",
+          "t": "bəʾəsitə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ቀተሉ",
+          "t": "qätälu",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "በገባአ",
+          "t": "bägäbaʾä",
+          "gl": ""
+        },
+        {
+          "g": "ዘብንያሚ",
+          "t": "zäbənəyami",
+          "gl": ""
+        },
+        {
+          "g": "መጻእኩ",
+          "t": "mäṣaʾəku",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "ወዕቅብትየ",
+          "t": "wäʿəqəbətəyä",
+          "gl": ""
+        },
+        {
+          "g": "ንኅድር",
+          "t": "nəḫədərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Levite, the husband of the woman that was slain, answered and said, I and my concubine went to Gabaa of Benjamin to lodge.",
+        "kjv": "And the Levite, the husband of the woman that was slain, answered and said, I came into Gibeah that belongeth to Benjamin, I and my concubine, to lodge."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወተንሥኡ ፡ ላዕሌነ ፡ ሰብአ ፡ ገባኣ ፡ ወዐገቱ ፡ ዲቤነ ፡ ውእተ ፡ ቤተ ፡ ሌሊተ ፡ ወኪያየኒ ፡ ፈቀዱ ፡ ይቅትሉኒ ፡\n                  ወለዕቅብትየሰ ፡ አኅሰርዋ ፡ ወተወነይዋ ፡ ወሞተት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተንሥኡ",
+          "t": "wätänəśəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌነ",
+          "t": "laʿəlenä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብአ",
+          "t": "säbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ገባኣ",
+          "t": "gäbaʾa",
+          "gl": ""
+        },
+        {
+          "g": "ወዐገቱ",
+          "t": "wäʿägätu",
+          "gl": ""
+        },
+        {
+          "g": "ዲቤነ",
+          "t": "dibenä",
+          "gl": ""
+        },
+        {
+          "g": "ውእተ",
+          "t": "wəʾətä",
+          "gl": ""
+        },
+        {
+          "g": "ቤተ",
+          "t": "betä",
+          "gl": ""
+        },
+        {
+          "g": "ሌሊተ",
+          "t": "lelitä",
+          "gl": ""
+        },
+        {
+          "g": "ወኪያየኒ",
+          "t": "wäkiyayäni",
+          "gl": ""
+        },
+        {
+          "g": "ፈቀዱ",
+          "t": "fäqädu",
+          "gl": ""
+        },
+        {
+          "g": "ይቅትሉኒ",
+          "t": "yəqətəluni",
+          "gl": ""
+        },
+        {
+          "g": "ወለዕቅብትየሰ",
+          "t": "wäläʿəqəbətəyäsä",
+          "gl": ""
+        },
+        {
+          "g": "አኅሰርዋ",
+          "t": "ʾäḫəsärəwa",
+          "gl": ""
+        },
+        {
+          "g": "ወተወነይዋ",
+          "t": "wätäwänäyəwa",
+          "gl": ""
+        },
+        {
+          "g": "ወሞተት",
+          "t": "wämotätə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the men of Gabaa rose up against me, and compassed the house by night against me; they wished to slay me, and they have humbled my concubine, and she is dead.",
+        "kjv": "And the men of Gibeah rose against me, and beset the house round about upon me by night, and thought to have slain me: and my concubine have they forced, that she is dead."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወነሣእክዋ ፡ ለዕቅብትየ ፡ ወመተርክዋ ፡ በበ ፡ መለያልያ ፡ ወፈነውኩ ፡ ውስተ ፡ ኵሉ ፡ ደወለ ፡ ርስቶሙ ፡ ለእስራኤል\n                  ፡ እስመ ፡ ገብሩ ፡ እበደ ፡ ውስተ ፡ እስራኤል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነሣእክዋ",
+          "t": "wänäśaʾəkəwa",
+          "gl": ""
+        },
+        {
+          "g": "ለዕቅብትየ",
+          "t": "läʿəqəbətəyä",
+          "gl": ""
+        },
+        {
+          "g": "ወመተርክዋ",
+          "t": "wämätärəkəwa",
+          "gl": ""
+        },
+        {
+          "g": "በበ",
+          "t": "bäbä",
+          "gl": ""
+        },
+        {
+          "g": "መለያልያ",
+          "t": "mäläyaləya",
+          "gl": ""
+        },
+        {
+          "g": "ወፈነውኩ",
+          "t": "wäfänäwəku",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ደወለ",
+          "t": "däwälä",
+          "gl": ""
+        },
+        {
+          "g": "ርስቶሙ",
+          "t": "rəsətomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእስራኤል",
+          "t": "läʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ገብሩ",
+          "t": "gäbəru",
+          "gl": ""
+        },
+        {
+          "g": "እበደ",
+          "t": "ʾəbädä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And I laid hold of my concubine, and divided her in pieces, and sent the parts into every coast of the inheritance of the children of Israel; for they have wrought lewdness and abomination in Israel.",
+        "kjv": "And I took my concubine, and cut her in pieces, and sent her throughout all the country of the inheritance of Israel: for they have committed lewdness and folly in Israel."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወናሁ ፡ ኵልክሙ ፡ አንትሙ ፡ ደቂቀ ፡ እስራኤል ፡ ዝየ ፡ አቅሙ ፡ ለክሙ ፡ [ቃለ ፡] ወምክረ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወናሁ",
+          "t": "wänahu",
+          "gl": ""
+        },
+        {
+          "g": "ኵልክሙ",
+          "t": "kwələkəmu",
+          "gl": ""
+        },
+        {
+          "g": "አንትሙ",
+          "t": "ʾänətəmu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ዝየ",
+          "t": "zəyä",
+          "gl": ""
+        },
+        {
+          "g": "አቅሙ",
+          "t": "ʾäqəmu",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ቃለ",
+          "t": "qalä",
+          "gl": ""
+        },
+        {
+          "g": "ወምክረ",
+          "t": "wäməkərä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Behold, all ye are children of Israel; and consider and take counsel here among yourselves.",
+        "kjv": "Behold, ye are all children of Israel; give here your advice and counsel."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወቆሙ ፡ ኵሉ ፡ ሕዝብ ፡ ከመ ፡ አሐዱ ፡ ብእሲ ፡ ወይቤሉ ፡ ኢነአቱ ፡ አብያቲነ ፡ ወኢንገብእ ፡ በሓውርቲነ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወቆሙ",
+          "t": "wäqomu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሉ",
+          "t": "wäyəbelu",
+          "gl": ""
+        },
+        {
+          "g": "ኢነአቱ",
+          "t": "ʾinäʾätu",
+          "gl": ""
+        },
+        {
+          "g": "አብያቲነ",
+          "t": "ʾäbəyatinä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢንገብእ",
+          "t": "wäʾinəgäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "በሓውርቲነ",
+          "t": "bäḥawərətinä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And all the people rose up as one man, saying, No one of us shall return to his tent, and no one of us shall return to his house.",
+        "kjv": "And all the people arose as one man, saying, We will not any of us go to his tent, neither will we any of us turn into his house."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወይእዜኒ ፡ ከመዝ ፡ ግበሩ ፡ ላዕለ ፡ ገባአ ፡ ነዐርግ ፡ ላዕሌሆሙ ፡ በበ ፡ መክፈልትነ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይእዜኒ",
+          "t": "wäyəʾəzeni",
+          "gl": ""
+        },
+        {
+          "g": "ከመዝ",
+          "t": "kämäzə",
+          "gl": ""
+        },
+        {
+          "g": "ግበሩ",
+          "t": "gəbäru",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ገባአ",
+          "t": "gäbaʾä",
+          "gl": ""
+        },
+        {
+          "g": "ነዐርግ",
+          "t": "näʿärəgə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሆሙ",
+          "t": "laʿəlehomu",
+          "gl": ""
+        },
+        {
+          "g": "በበ",
+          "t": "bäbä",
+          "gl": ""
+        },
+        {
+          "g": "መክፈልትነ",
+          "t": "mäkəfälətənä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And now this is the thing which shall be done in Gabaa; we will go up against it by lot.",
+        "kjv": "But now this shall be the thing which we will do to Gibeah; we will go up by lot against it;"
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወንነሥእ ፡ በበ ፡ ዐሠርቱ ፡ ዕደው ፡ ለለ ፡ ምእት ፡ ለኵሉ ፡ ሕዝበ ፡ እስራኤል ፡ ከማሁ ፡ ወምእተ ፡ ለዐሠርቱ ፡\n                  ምእት ፡ ወዐሠርቱ ፡ ምእት ፡ ለእልፍ ፡ እለ ፡ ይጸውሩ ፡ ሥንቀ ፡ ለሕዝብ ፡ ውስተ ፡ ፍኖት ፡ ለእለ ፡ የሐውሩ ፡\n                  ይትቃተልዎሙ ፡ ለገባኣ ፡ [ዘ]ብንያሚ ፡ በበይነ ፡ ኵሉ ፡ እበድ ፡ እንተ ፡ ገብሩ ፡ ላዕለ ፡ እስራኤል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወንነሥእ",
+          "t": "wänənäśəʾə",
+          "gl": ""
+        },
+        {
+          "g": "በበ",
+          "t": "bäbä",
+          "gl": ""
+        },
+        {
+          "g": "ዐሠርቱ",
+          "t": "ʿäśärətu",
+          "gl": ""
+        },
+        {
+          "g": "ዕደው",
+          "t": "ʿədäwə",
+          "gl": ""
+        },
+        {
+          "g": "ለለ",
+          "t": "lälä",
+          "gl": ""
+        },
+        {
+          "g": "ምእት",
+          "t": "məʾətə",
+          "gl": ""
+        },
+        {
+          "g": "ለኵሉ",
+          "t": "läkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝበ",
+          "t": "ḥəzəbä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ከማሁ",
+          "t": "kämahu",
+          "gl": ""
+        },
+        {
+          "g": "ወምእተ",
+          "t": "wäməʾətä",
+          "gl": ""
+        },
+        {
+          "g": "ለዐሠርቱ",
+          "t": "läʿäśärətu",
+          "gl": ""
+        },
+        {
+          "g": "ምእት",
+          "t": "məʾətə",
+          "gl": ""
+        },
+        {
+          "g": "ወዐሠርቱ",
+          "t": "wäʿäśärətu",
+          "gl": ""
+        },
+        {
+          "g": "ምእት",
+          "t": "məʾətə",
+          "gl": ""
+        },
+        {
+          "g": "ለእልፍ",
+          "t": "läʾələfə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይጸውሩ",
+          "t": "yəṣäwəru",
+          "gl": ""
+        },
+        {
+          "g": "ሥንቀ",
+          "t": "śənəqä",
+          "gl": ""
+        },
+        {
+          "g": "ለሕዝብ",
+          "t": "läḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ፍኖት",
+          "t": "fənotə",
+          "gl": ""
+        },
+        {
+          "g": "ለእለ",
+          "t": "läʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "የሐውሩ",
+          "t": "yäḥäwəru",
+          "gl": ""
+        },
+        {
+          "g": "ይትቃተልዎሙ",
+          "t": "yətəqatäləwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለገባኣ",
+          "t": "lägäbaʾa",
+          "gl": ""
+        },
+        {
+          "g": "ዘብንያሚ",
+          "t": "zäbənəyami",
+          "gl": ""
+        },
+        {
+          "g": "በበይነ",
+          "t": "bäbäyənä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "እበድ",
+          "t": "ʾəbädə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ገብሩ",
+          "t": "gäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Moreover we will take ten men for a hundred for all the tribes of Israel, and a hundred for a thousand, and a thousand for ten thousand, to take provision, to cause them to come to Gabaa of Benjamin, to do to it according to all the abomination, which they wrought in Israel.",
+        "kjv": "And we will take ten men of an hundred throughout all the tribes of Israel, and an hundred of a thousand, and a thousand out of ten thousand, to fetch victual for the people, that they may do, when they come to Gibeah of Benjamin, according to all the folly that they have wrought in Israel."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወተጋብኡ ፡ ኵሉ ፡ እስራኤል ፡ እምነ ፡ አህጉሪሆሙ ፡ ከመ ፡ ይባኡ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተጋብኡ",
+          "t": "wätägabəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "አህጉሪሆሙ",
+          "t": "ʾähəgurihomu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይባኡ",
+          "t": "yəbaʾu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And all the men of Israel were gathered to the city as one man.",
+        "kjv": "So all the men of Israel were gathered against the city, knit together as one man."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወለአኩ ፡ ሕዝበ ፡ እስራኤል ፡ ውስተ ፡ ኵሉ ፡ ነገደ ፡ ብንያሚ ፡ እንዘ ፡ ይብሉ ፡ ምንትአ ፡ ዛቲአ ፡ እኪትአ ፡\n                  እንተአ ፡ ኮነትአ ፡ በውስቴትክሙአ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለአኩ",
+          "t": "wäläʾäku",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝበ",
+          "t": "ḥəzəbä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ነገደ",
+          "t": "nägädä",
+          "gl": ""
+        },
+        {
+          "g": "ብንያሚ",
+          "t": "bənəyami",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ይብሉ",
+          "t": "yəbəlu",
+          "gl": ""
+        },
+        {
+          "g": "ምንትአ",
+          "t": "mənətəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ዛቲአ",
+          "t": "zatiʾä",
+          "gl": ""
+        },
+        {
+          "g": "እኪትአ",
+          "t": "ʾəkitəʾä",
+          "gl": ""
+        },
+        {
+          "g": "እንተአ",
+          "t": "ʾənətäʾä",
+          "gl": ""
+        },
+        {
+          "g": "ኮነትአ",
+          "t": "konätəʾä",
+          "gl": ""
+        },
+        {
+          "g": "በውስቴትክሙአ",
+          "t": "bäwəsətetəkəmuʾä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the tribes of Israel sent men through the whole tribe of Benjamin, saying, What is this wickedness that has been wrought among you?",
+        "kjv": "And the tribes of Israel sent men through all the tribe of Benjamin, saying, What wickedness is this that is done among you?"
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወይእዜኒአ ፡ አግብኡአ ፡ ዕደወአ ፡ እለአ ፡ አበሱአ ፡ በገባአ ፡ ደቂቀአ ፡ በለዓምአ ፡ ወንትቃቴሎሙአ ፡ ወናውፅእአ ፡\n                  እኪተአ ፡ እምነ ፡ እስራኤልአ ፡ ወአበዩ ፡ ደቂቀ ፡ ብንያሚ ፡ ሰሚዖቶሙ ፡ ለአኀዊሆሙ ፡ ለደቂቀ ፡ እስራኤል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይእዜኒአ",
+          "t": "wäyəʾəzeniʾä",
+          "gl": ""
+        },
+        {
+          "g": "አግብኡአ",
+          "t": "ʾägəbəʾuʾä",
+          "gl": ""
+        },
+        {
+          "g": "ዕደወአ",
+          "t": "ʿədäwäʾä",
+          "gl": ""
+        },
+        {
+          "g": "እለአ",
+          "t": "ʾəläʾä",
+          "gl": ""
+        },
+        {
+          "g": "አበሱአ",
+          "t": "ʾäbäsuʾä",
+          "gl": ""
+        },
+        {
+          "g": "በገባአ",
+          "t": "bägäbaʾä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀአ",
+          "t": "däqiqäʾä",
+          "gl": ""
+        },
+        {
+          "g": "በለዓምአ",
+          "t": "bäläʿaməʾä",
+          "gl": ""
+        },
+        {
+          "g": "ወንትቃቴሎሙአ",
+          "t": "wänətəqatelomuʾä",
+          "gl": ""
+        },
+        {
+          "g": "ወናውፅእአ",
+          "t": "wänawəṣ́əʾəʾä",
+          "gl": ""
+        },
+        {
+          "g": "እኪተአ",
+          "t": "ʾəkitäʾä",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤልአ",
+          "t": "ʾəsəraʾeləʾä",
+          "gl": ""
+        },
+        {
+          "g": "ወአበዩ",
+          "t": "wäʾäbäyu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ብንያሚ",
+          "t": "bənəyami",
+          "gl": ""
+        },
+        {
+          "g": "ሰሚዖቶሙ",
+          "t": "sämiʿotomu",
+          "gl": ""
+        },
+        {
+          "g": "ለአኀዊሆሙ",
+          "t": "läʾäḫäwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Now then give up the men the sons of transgressors that are in Gabaa, and we will put them to death, and purge out wickedness from Israel: but the children of Benjamin consented not to hearken to the voice of their brethren the children of Israel.",
+        "kjv": "Now therefore deliver us the men, the children of Belial, which are in Gibeah, that we may put them to death, and put away evil from Israel. But the children of Benjamin would not hearken to the voice of their brethren the children of Israel:"
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወተጋብኡ ፡ ደቂቀ ፡ ብንያሚ ፡ እምነ ፡ አህጉሪሆሙ ፡ ውስተ ፡ ገባኣ ፡ ከመ ፡ ይፃኡ ፡ ወይትቃተልዎሙ ፡ ለደቂቀ ፡\n                  እስራኤል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተጋብኡ",
+          "t": "wätägabəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ብንያሚ",
+          "t": "bənəyami",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "አህጉሪሆሙ",
+          "t": "ʾähəgurihomu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ገባኣ",
+          "t": "gäbaʾa",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይፃኡ",
+          "t": "yəṣ́aʾu",
+          "gl": ""
+        },
+        {
+          "g": "ወይትቃተልዎሙ",
+          "t": "wäyətəqatäləwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the children of Benjamin were gathered from their cities to Gabaa, to go forth to fight with the children of Israel.",
+        "kjv": "But the children of Benjamin gathered themselves together out of the cities unto Gibeah, to go out to battle against the children of Israel."
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ወተኈለቁ ፡ ደቂቀ ፡ ብንያሚ ፡ በይእቲ ፡ ዕለት ፡ እምነ ፡ አህጉሪሆሙ ፡ ክልኤ ፡ እልፍ ፡ ወኀምሳ ፡ ምእት ፡ ብእሲ ፡\n                  እለ ፡ ይጸውሩ ፡ ኵናተ ፡ እንበለ ፡ እለ ፡ ይነብሩ ፡ ውስተ ፡ ገባኣ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተኈለቁ",
+          "t": "wätäḫwäläqu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ብንያሚ",
+          "t": "bənəyami",
+          "gl": ""
+        },
+        {
+          "g": "በይእቲ",
+          "t": "bäyəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "አህጉሪሆሙ",
+          "t": "ʾähəgurihomu",
+          "gl": ""
+        },
+        {
+          "g": "ክልኤ",
+          "t": "kələʾe",
+          "gl": ""
+        },
+        {
+          "g": "እልፍ",
+          "t": "ʾələfə",
+          "gl": ""
+        },
+        {
+          "g": "ወኀምሳ",
+          "t": "wäḫäməsa",
+          "gl": ""
+        },
+        {
+          "g": "ምእት",
+          "t": "məʾətə",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይጸውሩ",
+          "t": "yəṣäwəru",
+          "gl": ""
+        },
+        {
+          "g": "ኵናተ",
+          "t": "kwənatä",
+          "gl": ""
+        },
+        {
+          "g": "እንበለ",
+          "t": "ʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ገባኣ",
+          "t": "gäbaʾa",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the children of Benjamin from their cities were numbered in that day, twenty-three thousand, every man drawing a sword, besides the inhabitants of Gabaa, who were numbered seven hundred chosen men of all the people, able to use both hands alike;",
+        "kjv": "And the children of Benjamin were numbered at that time out of the cities twenty and six thousand men that drew sword, beside the inhabitants of Gibeah, which were numbered seven hundred chosen men."
+      }
+    },
+    {
+      "num": 16,
+      "geez": "ወእሙንቱኒ ፡ ተኈለቁ ፡ ሰብዐቱ ፡ ምእት ፡ ወራዙት ፡ ኅሩያን ፡ እለ ፡ ክልኤሆን ፡ እደዊሆሙ ፡ የማንያን ፡ ኵሎሙ ፡\n                  ወኵሎሙ ፡ እሉ ፡ ወፃፍያን ፡ በሞፀፍተ ፡ እብን ፡ ወየሀይጱ ፡ ሥዕርተ ፡ ወኢይስሕቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእሙንቱኒ",
+          "t": "wäʾəmunətuni",
+          "gl": ""
+        },
+        {
+          "g": "ተኈለቁ",
+          "t": "täḫwäläqu",
+          "gl": ""
+        },
+        {
+          "g": "ሰብዐቱ",
+          "t": "säbəʿätu",
+          "gl": ""
+        },
+        {
+          "g": "ምእት",
+          "t": "məʾətə",
+          "gl": ""
+        },
+        {
+          "g": "ወራዙት",
+          "t": "wärazutə",
+          "gl": ""
+        },
+        {
+          "g": "ኅሩያን",
+          "t": "ḫəruyanə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ክልኤሆን",
+          "t": "kələʾehonə",
+          "gl": ""
+        },
+        {
+          "g": "እደዊሆሙ",
+          "t": "ʾədäwihomu",
+          "gl": ""
+        },
+        {
+          "g": "የማንያን",
+          "t": "yämanəyanə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎሙ",
+          "t": "wäkwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "እሉ",
+          "t": "ʾəlu",
+          "gl": ""
+        },
+        {
+          "g": "ወፃፍያን",
+          "t": "wäṣ́afəyanə",
+          "gl": ""
+        },
+        {
+          "g": "በሞፀፍተ",
+          "t": "bämoṣ́äfətä",
+          "gl": ""
+        },
+        {
+          "g": "እብን",
+          "t": "ʾəbənə",
+          "gl": ""
+        },
+        {
+          "g": "ወየሀይጱ",
+          "t": "wäyähäyəṗu",
+          "gl": ""
+        },
+        {
+          "g": "ሥዕርተ",
+          "t": "śəʿərətä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይስሕቱ",
+          "t": "wäʾiyəsəḥətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "all these could sling with stones at a hair, and not miss.",
+        "kjv": "Among all this people there were seven hundred chosen men lefthanded; every one could sling stones at an hair breadth, and not miss."
+      }
+    },
+    {
+      "num": 17,
+      "geez": "ወተኈለቁ ፡ ኵሎሙ ፡ ደቂቀ ፡ እስራኤል ፡ እንበለ ፡ ደቂቀ ፡ ብንያሚ ፡ ፵፻-፻ብእሲ ፡ ጸዋሬ ፡ ኵናት ፡ ወኵሎሙ ፡ እሉ\n                  ፡ ዕደው ፡ መስተቃትላን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተኈለቁ",
+          "t": "wätäḫwäläqu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "እንበለ",
+          "t": "ʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ብንያሚ",
+          "t": "bənəyami",
+          "gl": ""
+        },
+        {
+          "g": "፵፻-፻ብእሲ",
+          "t": "40100-100bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ጸዋሬ",
+          "t": "ṣäware",
+          "gl": ""
+        },
+        {
+          "g": "ኵናት",
+          "t": "kwənatə",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎሙ",
+          "t": "wäkwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "እሉ",
+          "t": "ʾəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዕደው",
+          "t": "ʿədäwə",
+          "gl": ""
+        },
+        {
+          "g": "መስተቃትላን",
+          "t": "mäsətäqatəlanə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the men of Israel, exclusive of Benjamin, were numbered four hundred thousand men that drew sword; all these were men of war.",
+        "kjv": "And the men of Israel, beside Benjamin, were numbered four hundred thousand men that drew sword: all these were men of war."
+      }
+    },
+    {
+      "num": 18,
+      "geez": "ወተንሥኡ ፡ ወዐርጉ ፡ ውስተ ፡ ቤቴል ፡ ወተስእሉ ፡ ኀበ ፡ እግዚአብሔር ፡ ወይቤሉ ፡ ደቂቀ ፡ እስራኤል ፡ መኑ ፡\n                  የዐርግ ፡ ለነ ፡ መስፍነ ፡ ዘይትቃተሎሙ ፡ ለነ ፡ ለብንያሚ ፡ ወይቤሎሙ ፡ እግዚአብሔር ፡ ይሁዳ ፡ ይዕርግ ፡ ለክሙ ፡\n                  መስፍነ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተንሥኡ",
+          "t": "wätänəśəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ወዐርጉ",
+          "t": "wäʿärəgu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ቤቴል",
+          "t": "betelə",
+          "gl": ""
+        },
+        {
+          "g": "ወተስእሉ",
+          "t": "wätäsəʾəlu",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሉ",
+          "t": "wäyəbelu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "መኑ",
+          "t": "mänu",
+          "gl": ""
+        },
+        {
+          "g": "የዐርግ",
+          "t": "yäʿärəgə",
+          "gl": ""
+        },
+        {
+          "g": "ለነ",
+          "t": "länä",
+          "gl": ""
+        },
+        {
+          "g": "መስፍነ",
+          "t": "mäsəfənä",
+          "gl": ""
+        },
+        {
+          "g": "ዘይትቃተሎሙ",
+          "t": "zäyətəqatälomu",
+          "gl": ""
+        },
+        {
+          "g": "ለነ",
+          "t": "länä",
+          "gl": ""
+        },
+        {
+          "g": "ለብንያሚ",
+          "t": "läbənəyami",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎሙ",
+          "t": "wäyəbelomu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ይሁዳ",
+          "t": "yəhuda",
+          "gl": ""
+        },
+        {
+          "g": "ይዕርግ",
+          "t": "yəʿərəgə",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        },
+        {
+          "g": "መስፍነ",
+          "t": "mäsəfənä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they arose and went up to Bæthel, and enquired of God: and the children of Israel said, Who shall go up for us first to fight with the children of Benjamin? And the Lord said, Juda shall go up first as leader.",
+        "kjv": "And the children of Israel arose, and went up to the house of God, and asked counsel of God, and said, Which of us shall go up first to the battle against the children of Benjamin? And the LORD said, Judah shall go up first."
+      }
+    },
+    {
+      "num": 19,
+      "geez": "ወተንሥኡ ፡ ደቂቀ ፡ እስራኤል ፡ ወኀደሩ ፡ ላዕለ ፡ ገባአ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተንሥኡ",
+          "t": "wätänəśəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወኀደሩ",
+          "t": "wäḫädäru",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ገባአ",
+          "t": "gäbaʾä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the children of Israel rose up in the morning, and encamped against Gabaa.",
+        "kjv": "And the children of Israel rose up in the morning, and encamped against Gibeah."
+      }
+    },
+    {
+      "num": 20,
+      "geez": "ወወፅኡ ፡ ኵሎሙ ፡ ዕደወ ፡ እስራኤል ፡ ውስተ ፡ ቀትል ፡ ምስለ ፡ ብንያሚ ፡ ወተአኀዝዎሙ ፡ በገባኣ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወወፅኡ",
+          "t": "wäwäṣ́əʾu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ዕደወ",
+          "t": "ʿədäwä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ቀትል",
+          "t": "qätələ",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ብንያሚ",
+          "t": "bənəyami",
+          "gl": ""
+        },
+        {
+          "g": "ወተአኀዝዎሙ",
+          "t": "wätäʾäḫäzəwomu",
+          "gl": ""
+        },
+        {
+          "g": "በገባኣ",
+          "t": "bägäbaʾa",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they went out, all the men of Israel, to fight with Benjamin, and engaged with them at Gabaa.",
+        "kjv": "And the men of Israel went out to battle against Benjamin; and the men of Israel put themselves in array to fight against them at Gibeah."
+      }
+    },
+    {
+      "num": 21,
+      "geez": "ወወፅኡ ፡ ደቂቀ ፡ ብንያሚ ፡ እምነ ፡ ሀገር ፡ ወቀተሉ ፡ እምነ ፡ እስራኤል ፡ ክልአ ፡ እልፈ ፡ ወዕሥራ ፡ ምእተ ፡\n                  ብእሴ ፡ ይእተ ፡ አሚረ ፡ እለ ፡ ወድቁ ፡ ውስተ ፡ ምድር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወወፅኡ",
+          "t": "wäwäṣ́əʾu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ብንያሚ",
+          "t": "bənəyami",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ሀገር",
+          "t": "hägärə",
+          "gl": ""
+        },
+        {
+          "g": "ወቀተሉ",
+          "t": "wäqätälu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ክልአ",
+          "t": "kələʾä",
+          "gl": ""
+        },
+        {
+          "g": "እልፈ",
+          "t": "ʾələfä",
+          "gl": ""
+        },
+        {
+          "g": "ወዕሥራ",
+          "t": "wäʿəśəra",
+          "gl": ""
+        },
+        {
+          "g": "ምእተ",
+          "t": "məʾətä",
+          "gl": ""
+        },
+        {
+          "g": "ብእሴ",
+          "t": "bəʾəse",
+          "gl": ""
+        },
+        {
+          "g": "ይእተ",
+          "t": "yəʾətä",
+          "gl": ""
+        },
+        {
+          "g": "አሚረ",
+          "t": "ʾämirä",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ወድቁ",
+          "t": "wädəqu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the sons of Benjamin went forth from Gabaa, and they destroyed in Israel on that day two and twenty thousand men down to the ground.",
+        "kjv": "And the children of Benjamin came forth out of Gibeah, and destroyed down to the ground of the Israelites that day twenty and two thousand men."
+      }
+    },
+    {
+      "num": 22,
+      "geez": "ወተጸንዑ ፡ ደቂቀ ፡ እስራኤል ፡ ወደገሙ ፡ ወፅኡ ፡ ይትቃተሉ ፡ ውስተ ፡ ዝክቱ ፡ መካን ፡ ኀበ ፡ ተቃተሉ ፡ አመ ፡\n                  ቀዳሚት ፡ ዕለት ፡ ህየ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተጸንዑ",
+          "t": "wätäṣänəʿu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወደገሙ",
+          "t": "wädägämu",
+          "gl": ""
+        },
+        {
+          "g": "ወፅኡ",
+          "t": "wäṣ́əʾu",
+          "gl": ""
+        },
+        {
+          "g": "ይትቃተሉ",
+          "t": "yətəqatälu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዝክቱ",
+          "t": "zəkətu",
+          "gl": ""
+        },
+        {
+          "g": "መካን",
+          "t": "mäkanə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ተቃተሉ",
+          "t": "täqatälu",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ቀዳሚት",
+          "t": "qädamitə",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "ህየ",
+          "t": "həyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the men of Israel strengthened themselves, and again engaged in battle in the place where they had engaged on the first day.",
+        "kjv": "And the people the men of Israel encouraged themselves, and set their battle again in array in the place where they put themselves in array the first day."
+      }
+    },
+    {
+      "num": 23,
+      "geez": "ወዐርጉ ፡ ደቂቀ ፡ እስራኤል ፡ ወበከዩ ፡ ቅድመ ፡ እግዚአብሔር ፡ እስከ ፡ ሰርክ ፡ ወተስእሉ ፡ ኀበ ፡ እግዚአብሔር ፡\n                  ወይቤሉ ፡ ንድግምኑ ፡ ዓዲ ፡ ተቃትሎ ፡ ምስለ ፡ ብንያሚ ፡ እኁነ ፡ ወይቤሎሙ ፡ እግዚአብሔር ፡ ዕረጉ ፡ ኀቤሆሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዐርጉ",
+          "t": "wäʿärəgu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወበከዩ",
+          "t": "wäbäkäyu",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ሰርክ",
+          "t": "särəkə",
+          "gl": ""
+        },
+        {
+          "g": "ወተስእሉ",
+          "t": "wätäsəʾəlu",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሉ",
+          "t": "wäyəbelu",
+          "gl": ""
+        },
+        {
+          "g": "ንድግምኑ",
+          "t": "nədəgəmənu",
+          "gl": ""
+        },
+        {
+          "g": "ዓዲ",
+          "t": "ʿadi",
+          "gl": ""
+        },
+        {
+          "g": "ተቃትሎ",
+          "t": "täqatəlo",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ብንያሚ",
+          "t": "bənəyami",
+          "gl": ""
+        },
+        {
+          "g": "እኁነ",
+          "t": "ʾəḫunä",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎሙ",
+          "t": "wäyəbelomu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ዕረጉ",
+          "t": "ʿərägu",
+          "gl": ""
+        },
+        {
+          "g": "ኀቤሆሙ",
+          "t": "ḫäbehomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the children of Israel went up, and wept before the Lord till evening, and enquired of the Lord, saying, Shall we again draw nigh to battle with our brethren the children of Benjamin? and the Lord said, Go up against them.",
+        "kjv": "(And the children of Israel went up and wept before the LORD until even, and asked counsel of the LORD, saying, Shall I go up again to battle against the children of Benjamin my brother? And the LORD said, Go up against him.)"
+      }
+    },
+    {
+      "num": 24,
+      "geez": "ወመጽኡ ፡ ደቂቀ ፡ እስራኤል ፡ ኀበ ፡ ብንያሚ ፡ አመ ፡ ሳኒት ፡ ዕለት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወመጽኡ",
+          "t": "wämäṣəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ብንያሚ",
+          "t": "bənəyami",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ሳኒት",
+          "t": "sanitə",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the children of Israel advanced against the children of Benjamin on the second day.",
+        "kjv": "And the children of Israel came near against the children of Benjamin the second day."
+      }
+    },
+    {
+      "num": 25,
+      "geez": "ወወፅኡ ፡ ብንያሚ ፡ ወተቀበሎሙ ፡ አመ ፡ ሳኒት ፡ ዕለት ፡ እምነ ፡ ገባአ ፡ ወቀተሉ ፡ እምኔሆሙ ፡ እልፈ ፡ ወሰማንያ\n                  ፡ ምእተ ፡ ብእሴ ፡ እለ ፡ ወድቁ ፡ ውስተ ፡ ምድር ፡ ወኵሎሙ ፡ እለ ፡ ይጸውሩ ፡ ኵናተ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወወፅኡ",
+          "t": "wäwäṣ́əʾu",
+          "gl": ""
+        },
+        {
+          "g": "ብንያሚ",
+          "t": "bənəyami",
+          "gl": ""
+        },
+        {
+          "g": "ወተቀበሎሙ",
+          "t": "wätäqäbälomu",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ሳኒት",
+          "t": "sanitə",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ገባአ",
+          "t": "gäbaʾä",
+          "gl": ""
+        },
+        {
+          "g": "ወቀተሉ",
+          "t": "wäqätälu",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሆሙ",
+          "t": "ʾəmənehomu",
+          "gl": ""
+        },
+        {
+          "g": "እልፈ",
+          "t": "ʾələfä",
+          "gl": ""
+        },
+        {
+          "g": "ወሰማንያ",
+          "t": "wäsämanəya",
+          "gl": ""
+        },
+        {
+          "g": "ምእተ",
+          "t": "məʾətä",
+          "gl": ""
+        },
+        {
+          "g": "ብእሴ",
+          "t": "bəʾəse",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ወድቁ",
+          "t": "wädəqu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎሙ",
+          "t": "wäkwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይጸውሩ",
+          "t": "yəṣäwəru",
+          "gl": ""
+        },
+        {
+          "g": "ኵናተ",
+          "t": "kwənatä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the children of Benjamin went forth to meet them from Gabaa on the second day, and destroyed of the children of Israel yet further eighteen thousand men down to the ground: all these drew sword.",
+        "kjv": "And Benjamin went forth against them out of Gibeah the second day, and destroyed down to the ground of the children of Israel again eighteen thousand men; all these drew the sword."
+      }
+    },
+    {
+      "num": 26,
+      "geez": "ወዐርጉ ፡ ኵሎሙ ፡ ደቂቀ ፡ እስራኤል ፡ ወኵሉ ፡ ሕዝብ ፡ ወሖሩ ፡ ቤቴል ፡ ወበከዩ ፡ ወነበሩ ፡ ህየ ፡ ቅድመ ፡\n                  እግዚአብሔር ፡ ወጾሙ ፡ ሕዝብ ፡ እስከ ፡ ሰርክ ፡ ወአዕረጉ ፡ መሥዋዕተ ፡ መድኀኒት ፡ ለእግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዐርጉ",
+          "t": "wäʿärəgu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ወሖሩ",
+          "t": "wäḥoru",
+          "gl": ""
+        },
+        {
+          "g": "ቤቴል",
+          "t": "betelə",
+          "gl": ""
+        },
+        {
+          "g": "ወበከዩ",
+          "t": "wäbäkäyu",
+          "gl": ""
+        },
+        {
+          "g": "ወነበሩ",
+          "t": "wänäbäru",
+          "gl": ""
+        },
+        {
+          "g": "ህየ",
+          "t": "həyä",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወጾሙ",
+          "t": "wäṣomu",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ሰርክ",
+          "t": "särəkə",
+          "gl": ""
+        },
+        {
+          "g": "ወአዕረጉ",
+          "t": "wäʾäʿərägu",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕተ",
+          "t": "mäśəwaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "መድኀኒት",
+          "t": "mädəḫänitə",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the children of Israel and all the people went up, and came to Bæthel; and they wept, and sat there before the Lord; and they fasted on that day until evening, and offered whole-burnt-offerings and perfect sacrifices, before the Lord,",
+        "kjv": "Then all the children of Israel, and all the people, went up, and came unto the house of God, and wept, and sat there before the LORD, and fasted that day until even, and offered burnt offerings and peace offerings before the LORD."
+      }
+    },
+    {
+      "num": 27,
+      "geez": "ወተስእሉ ፡ ደቂቀ ፡ እስራኤል ፡ ኀበ ፡ እግዚአብሔር ፡ ወሀለወት ፡ ህየ ፡ ታቦተ ፡ እግዚአብሔር ፡ በእማንቱ ፡ መዋዕል\n                  ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተስእሉ",
+          "t": "wätäsəʾəlu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወሀለወት",
+          "t": "wähäläwätə",
+          "gl": ""
+        },
+        {
+          "g": "ህየ",
+          "t": "həyä",
+          "gl": ""
+        },
+        {
+          "g": "ታቦተ",
+          "t": "tabotä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "በእማንቱ",
+          "t": "bäʾəmanətu",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕል",
+          "t": "mäwaʿələ",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "for the ark of the Lord God was there in those days,",
+        "kjv": "And the children of Israel enquired of the LORD, (for the ark of the covenant of God was there in those days,"
+      }
+    },
+    {
+      "num": 28,
+      "geez": "ወፊንሐስ ፡ ወልደ ፡ እልዓዛር ፡ ወልደ ፡ አሮን ፡ ይቀውም ፡ ቅድሜሃ ፡ በእማንቱ ፡ መዋዕል ፡ ወይቤሉ ፡ ንድግምኑ ፡\n                  ዓዲ ፡ ወፂኦ ፡ ውስተ ፡ ቀትል ፡ ምስለ ፡ ደቂቀ ፡ ብንያሚ ፡ እኁነ ፡ አው ፡ ንኅድግ ፡ ወይቤሎሙ ፡ እግዚአብሔር ፡ ዕረጉ\n                  ፡ እስመ ፡ ጌሠመ ፡ ኣገብኦሙ ፡ ውስተ ፡ እዴክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወፊንሐስ",
+          "t": "wäfinəḥäsə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "እልዓዛር",
+          "t": "ʾələʿazarə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "አሮን",
+          "t": "ʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ይቀውም",
+          "t": "yəqäwəmə",
+          "gl": ""
+        },
+        {
+          "g": "ቅድሜሃ",
+          "t": "qədəmeha",
+          "gl": ""
+        },
+        {
+          "g": "በእማንቱ",
+          "t": "bäʾəmanətu",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕል",
+          "t": "mäwaʿələ",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሉ",
+          "t": "wäyəbelu",
+          "gl": ""
+        },
+        {
+          "g": "ንድግምኑ",
+          "t": "nədəgəmənu",
+          "gl": ""
+        },
+        {
+          "g": "ዓዲ",
+          "t": "ʿadi",
+          "gl": ""
+        },
+        {
+          "g": "ወፂኦ",
+          "t": "wäṣ́iʾo",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ቀትል",
+          "t": "qätələ",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ብንያሚ",
+          "t": "bənəyami",
+          "gl": ""
+        },
+        {
+          "g": "እኁነ",
+          "t": "ʾəḫunä",
+          "gl": ""
+        },
+        {
+          "g": "አው",
+          "t": "ʾäwə",
+          "gl": ""
+        },
+        {
+          "g": "ንኅድግ",
+          "t": "nəḫədəgə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎሙ",
+          "t": "wäyəbelomu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ዕረጉ",
+          "t": "ʿərägu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ጌሠመ",
+          "t": "geśämä",
+          "gl": ""
+        },
+        {
+          "g": "ኣገብኦሙ",
+          "t": "ʾagäbəʾomu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴክሙ",
+          "t": "ʾədekəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and Phinees the son of Eleazar the son of Aaron stood before it in those days; and the children of Israel enquired of the Lord, saying, Shall we yet again go forth to fight with our brethren the sons of Benjamin? and the Lord said, Go up, to-morrow I will give them into your hands.",
+        "kjv": "And Phinehas, the son of Eleazar, the son of Aaron, stood before it in those days,) saying, Shall I yet again go out to battle against the children of Benjamin my brother, or shall I cease? And the LORD said, Go up; for to morrow I will deliver them into thine hand."
+      }
+    },
+    {
+      "num": 29,
+      "geez": "ወአንበሩ ፡ ደቂቀ ፡ እስራኤል ፡ እለ ፡ የዐግትዋ ፡ ለገባአ ፡ ዐውዳ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአንበሩ",
+          "t": "wäʾänəbäru",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "የዐግትዋ",
+          "t": "yäʿägətəwa",
+          "gl": ""
+        },
+        {
+          "g": "ለገባአ",
+          "t": "lägäbaʾä",
+          "gl": ""
+        },
+        {
+          "g": "ዐውዳ",
+          "t": "ʿäwəda",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the children of Israel set an ambush against Gabaa round about it.",
+        "kjv": "And Israel set liers in wait round about Gibeah."
+      }
+    },
+    {
+      "num": 30,
+      "geez": "ወተአኀዝዎሙ ፡ እስራኤል ፡ ለብንያሚ ፡ አመ ፡ ሣልስት ፡ ዕለት ፡ ወተቃተልዎሙ ፡ በኀበ ፡ ገባአ ፡ ከመ ፡ ቀዲሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተአኀዝዎሙ",
+          "t": "wätäʾäḫäzəwomu",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ለብንያሚ",
+          "t": "läbənəyami",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ሣልስት",
+          "t": "śaləsətə",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "ወተቃተልዎሙ",
+          "t": "wätäqatäləwomu",
+          "gl": ""
+        },
+        {
+          "g": "በኀበ",
+          "t": "bäḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ገባአ",
+          "t": "gäbaʾä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ቀዲሙ",
+          "t": "qädimu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the children of Israel went up against the children of Benjamin on the third day, and arrayed themselves against Gabaa as before.",
+        "kjv": "And the children of Israel went up against the children of Benjamin on the third day, and put themselves in array against Gibeah, as at other times."
+      }
+    },
+    {
+      "num": 31,
+      "geez": "ወወፅኡ ፡ ደቂቀ ፡ ብንያሚ ፡ ተቀበልዎሙ ፡ ለሕዝብ ፡ ወጐዩ ፡ እምኀበ ፡ ሀገር ፡ ወአኀዙ ፡ ይትቃተሉ ፡ እምነ ፡ ሕዝብ\n                  ፡ ከመ ፡ ቀዲሙ ፡ በውስተ ፡ ፍኖት ፡ አሐቲ ፡ እንተ ፡ ታዐርግ ፡ ለቤቴል ፡ ወአሐቲ ፡ እንተ ፡ ታዐርግ ፡ ለገባኣ ፡\n                  በውስተ ፡ ገዳም ፡ የአክሉ ፡ ፴ብእሲ ፡ እምነ ፡ እስራኤል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወወፅኡ",
+          "t": "wäwäṣ́əʾu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ብንያሚ",
+          "t": "bənəyami",
+          "gl": ""
+        },
+        {
+          "g": "ተቀበልዎሙ",
+          "t": "täqäbäləwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለሕዝብ",
+          "t": "läḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ወጐዩ",
+          "t": "wägwäyu",
+          "gl": ""
+        },
+        {
+          "g": "እምኀበ",
+          "t": "ʾəməḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ሀገር",
+          "t": "hägärə",
+          "gl": ""
+        },
+        {
+          "g": "ወአኀዙ",
+          "t": "wäʾäḫäzu",
+          "gl": ""
+        },
+        {
+          "g": "ይትቃተሉ",
+          "t": "yətəqatälu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ቀዲሙ",
+          "t": "qädimu",
+          "gl": ""
+        },
+        {
+          "g": "በውስተ",
+          "t": "bäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ፍኖት",
+          "t": "fənotə",
+          "gl": ""
+        },
+        {
+          "g": "አሐቲ",
+          "t": "ʾäḥäti",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ታዐርግ",
+          "t": "taʿärəgə",
+          "gl": ""
+        },
+        {
+          "g": "ለቤቴል",
+          "t": "läbetelə",
+          "gl": ""
+        },
+        {
+          "g": "ወአሐቲ",
+          "t": "wäʾäḥäti",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ታዐርግ",
+          "t": "taʿärəgə",
+          "gl": ""
+        },
+        {
+          "g": "ለገባኣ",
+          "t": "lägäbaʾa",
+          "gl": ""
+        },
+        {
+          "g": "በውስተ",
+          "t": "bäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ገዳም",
+          "t": "gädamə",
+          "gl": ""
+        },
+        {
+          "g": "የአክሉ",
+          "t": "yäʾäkəlu",
+          "gl": ""
+        },
+        {
+          "g": "፴ብእሲ",
+          "t": "30bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the children of Benjamin went out to meet the people, and were all drawn out of the city, and began to smite and slay the people as before in the roads, whereof one goes up to Bæthel, and one to Gabaa in the field, about thirty men of Israel.",
+        "kjv": "And the children of Benjamin went out against the people, and were drawn away from the city; and they began to smite of the people, and kill, as at other times, in the highways, of which one goeth up to the house of God, and the other to Gibeah in the field, about thirty men of Israel."
+      }
+    },
+    {
+      "num": 32,
+      "geez": "ወይቤሉ ፡ ደቂቀ ፡ ብንያሚ ፡ ይመውቱ ፡ ቅድሜነ ፡ ከመ ፡ ቀዲሙ ፡ ወይቤሉ ፡ ደቂቀ ፡ እስራኤል ፡ ንጐይይ ፡ ወናርሕቆሙ\n                  ፡ እምነ ፡ ሀገር ፡ ውስተ ፡ ፍናዌ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሉ",
+          "t": "wäyəbelu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ብንያሚ",
+          "t": "bənəyami",
+          "gl": ""
+        },
+        {
+          "g": "ይመውቱ",
+          "t": "yəmäwətu",
+          "gl": ""
+        },
+        {
+          "g": "ቅድሜነ",
+          "t": "qədəmenä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ቀዲሙ",
+          "t": "qädimu",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሉ",
+          "t": "wäyəbelu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ንጐይይ",
+          "t": "nəgwäyəyə",
+          "gl": ""
+        },
+        {
+          "g": "ወናርሕቆሙ",
+          "t": "wänarəḥəqomu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ሀገር",
+          "t": "hägärə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ፍናዌ",
+          "t": "fənawe",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the children of Benjamin said, They fall before us as at the first: but the children of Israel said, Let us flee, and draw them out from the city into the roads; and they did so.",
+        "kjv": "And the children of Benjamin said, They are smitten down before us, as at the first. But the children of Israel said, Let us flee, and draw them from the city unto the highways."
+      }
+    },
+    {
+      "num": 33,
+      "geez": "ወተንሥኡ ፡ ኵሎሙ ፡ ዕደወ ፡ እስራኤል ፡ እምነ ፡ መካኖሙ ፡ ወተቃተሉ ፡ በበዓልታመር ፡ ወማዕገቶሙኒ ፡ ለእስራኤል ፡\n                  ተባአሱ ፡ በመካኖሙ ፡ እምነ ፡ ዐረቢሃ ፡ ለገባኣ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተንሥኡ",
+          "t": "wätänəśəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ዕደወ",
+          "t": "ʿədäwä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "መካኖሙ",
+          "t": "mäkanomu",
+          "gl": ""
+        },
+        {
+          "g": "ወተቃተሉ",
+          "t": "wätäqatälu",
+          "gl": ""
+        },
+        {
+          "g": "በበዓልታመር",
+          "t": "bäbäʿalətamärə",
+          "gl": ""
+        },
+        {
+          "g": "ወማዕገቶሙኒ",
+          "t": "wämaʿəgätomuni",
+          "gl": ""
+        },
+        {
+          "g": "ለእስራኤል",
+          "t": "läʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ተባአሱ",
+          "t": "täbaʾäsu",
+          "gl": ""
+        },
+        {
+          "g": "በመካኖሙ",
+          "t": "bämäkanomu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ዐረቢሃ",
+          "t": "ʿäräbiha",
+          "gl": ""
+        },
+        {
+          "g": "ለገባኣ",
+          "t": "lägäbaʾa",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And all the men rose up out of their places, and engaged in Baal Thamar; and the liers in wait of Israel advanced from their place from Maraagabe.",
+        "kjv": "And all the men of Israel rose up out of their place, and put themselves in array at Baaltamar: and the liers in wait of Israel came forth out of their places, even out of the meadows of Gibeah."
+      }
+    },
+    {
+      "num": 34,
+      "geez": "ወገብኡ ፡ እንተ ፡ ቅድሜሃ ፡ ለገባኣ ፡ እልፍ ፡ ብእሲ ፡ ኅሩያን ፡ እምነ ፡ እስራኤል ፡ ወጸንዐ ፡ ቀትል ፡ ወእሙንቱሰ\n                  ፡ ኢያእመሩ ፡ ከመ ፡ በጽሐቶሙ ፡ እከይሆሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወገብኡ",
+          "t": "wägäbəʾu",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ቅድሜሃ",
+          "t": "qədəmeha",
+          "gl": ""
+        },
+        {
+          "g": "ለገባኣ",
+          "t": "lägäbaʾa",
+          "gl": ""
+        },
+        {
+          "g": "እልፍ",
+          "t": "ʾələfə",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ኅሩያን",
+          "t": "ḫəruyanə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወጸንዐ",
+          "t": "wäṣänəʿä",
+          "gl": ""
+        },
+        {
+          "g": "ቀትል",
+          "t": "qätələ",
+          "gl": ""
+        },
+        {
+          "g": "ወእሙንቱሰ",
+          "t": "wäʾəmunətusä",
+          "gl": ""
+        },
+        {
+          "g": "ኢያእመሩ",
+          "t": "ʾiyaʾəmäru",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "በጽሐቶሙ",
+          "t": "bäṣəḥätomu",
+          "gl": ""
+        },
+        {
+          "g": "እከይሆሙ",
+          "t": "ʾəkäyəhomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And there came over against Gabaa ten thousand chosen men out of all Israel; and the fight was severe; and they knew not that evil was coming upon them.",
+        "kjv": "And there came against Gibeah ten thousand chosen men out of all Israel, and the battle was sore: but they knew not that evil was near them."
+      }
+    },
+    {
+      "num": 35,
+      "geez": "ወአውደቆሙ ፡ እግዚአብሔር ፡ ለብንያሚ ፡ ቅድመ ፡ እስራኤል ፡ ወቀተልወሙ ፡ ደቂቀ ፡ እስራኤል ፡ ለብንያሚ ፡\n                  ፪፻-፻ወ፶ወ፩፻ወኵሎሙ ፡ እሉ ፡ እለ ፡ ይጸውሩ ፡ ኵናተ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአውደቆሙ",
+          "t": "wäʾäwədäqomu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለብንያሚ",
+          "t": "läbənəyami",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወቀተልወሙ",
+          "t": "wäqätäləwämu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ለብንያሚ",
+          "t": "läbənəyami",
+          "gl": ""
+        },
+        {
+          "g": "፪፻-፻ወ፶ወ፩፻ወኵሎሙ",
+          "t": "2100-100wä50wä1100wäkwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "እሉ",
+          "t": "ʾəlu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይጸውሩ",
+          "t": "yəṣäwəru",
+          "gl": ""
+        },
+        {
+          "g": "ኵናተ",
+          "t": "kwənatä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord smote Benjamin before the children of Israel; and the children of Israel destroyed of Benjamin in that day a hundred and twenty-five thousand men: all these drew sword.",
+        "kjv": "And the LORD smote Benjamin before Israel: and the children of Israel destroyed of the Benjamites that day twenty and five thousand and an hundred men: all these drew the sword."
+      }
+    },
+    {
+      "num": 36,
+      "geez": "ወርእየ ፡ ብንያሚ ፡ ከመ ፡ ተቀትለ ፡ ወወሀብዎሙ ፡ እስራኤል ፡ መካነ ፡ እስመ ፡ ተአመኑ ፡ በማዕገቶሙ ፡ ዘሤሙ ፡\n                  ላዕለ ፡ ገባአ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወርእየ",
+          "t": "wärəʾəyä",
+          "gl": ""
+        },
+        {
+          "g": "ብንያሚ",
+          "t": "bənəyami",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ተቀትለ",
+          "t": "täqätəlä",
+          "gl": ""
+        },
+        {
+          "g": "ወወሀብዎሙ",
+          "t": "wäwähäbəwomu",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "መካነ",
+          "t": "mäkanä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ተአመኑ",
+          "t": "täʾämänu",
+          "gl": ""
+        },
+        {
+          "g": "በማዕገቶሙ",
+          "t": "bämaʿəgätomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘሤሙ",
+          "t": "zäśemu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ገባአ",
+          "t": "gäbaʾä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the children of Benjamin saw that they were smitten; and the men of Israel gave place to Benjamin, because they trusted in the ambuscade which they had prepared against Gabaa.",
+        "kjv": "So the children of Benjamin saw that they were smitten: for the men of Israel gave place to the Benjamites, because they trusted unto the liers in wait which they had set beside Gibeah."
+      }
+    },
+    {
+      "num": 37,
+      "geez": "ወሖሩ ፡ እልክቱ ፡ እለ ፡ ዐገቱ ፡ ወቀተልዋ ፡ ለሀገር ፡ በአፈ ፡ ሐፂን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሖሩ",
+          "t": "wäḥoru",
+          "gl": ""
+        },
+        {
+          "g": "እልክቱ",
+          "t": "ʾələkətu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ዐገቱ",
+          "t": "ʿägätu",
+          "gl": ""
+        },
+        {
+          "g": "ወቀተልዋ",
+          "t": "wäqätäləwa",
+          "gl": ""
+        },
+        {
+          "g": "ለሀገር",
+          "t": "lähägärə",
+          "gl": ""
+        },
+        {
+          "g": "በአፈ",
+          "t": "bäʾäfä",
+          "gl": ""
+        },
+        {
+          "g": "ሐፂን",
+          "t": "ḥäṣ́inə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And when they retreated, then the liers in wait rose up, and they moved on toward Gabaa, and the whole ambush came forth, and they smote the city with the edge of the sword.",
+        "kjv": "And the liers in wait hasted, and rushed upon Gibeah; and the liers in wait drew themselves along, and smote all the city with the edge of the sword."
+      }
+    },
+    {
+      "num": 38,
+      "geez": "ወአዘዝዎሙ ፡ እስራኤል ፡ ለእለ ፡ የዐግቱ ፡ ከመ ፡ በኀፂን ፡ ይቅትልዎሙ ፡ ወያዕርግዎ ፡ ለጢሰ ፡ ሀገር ፡ ከመ ፡\n                  ማኅፈድ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአዘዝዎሙ",
+          "t": "wäʾäzäzəwomu",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ለእለ",
+          "t": "läʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "የዐግቱ",
+          "t": "yäʿägətu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "በኀፂን",
+          "t": "bäḫäṣ́inə",
+          "gl": ""
+        },
+        {
+          "g": "ይቅትልዎሙ",
+          "t": "yəqətələwomu",
+          "gl": ""
+        },
+        {
+          "g": "ወያዕርግዎ",
+          "t": "wäyaʿərəgəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለጢሰ",
+          "t": "läṭisä",
+          "gl": ""
+        },
+        {
+          "g": "ሀገር",
+          "t": "hägärə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ማኅፈድ",
+          "t": "maḫəfädə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the children of Israel had a signal of battle with the liers in wait, that they should send up a signal of smoke from the city.",
+        "kjv": "Now there was an appointed sign between the men of Israel and the liers in wait, that they should make a great flame with smoke rise up out of the city."
+      }
+    },
+    {
+      "num": 39,
+      "geez": "ወተመይጡ ፡ ዕደወ ፡ እስራኤል ፡ በውስተ ፡ ቀትል ፡ ወለብንያምሰ ፡ አኀዝዎ ፡ ይቅትልዎ ፡ ዕደወ ፡ እስራኤል ፡ የአክሉ\n                  ፡ ስድስተ ፡ ምእተ ፡ ብእሲ ፡ እስመ ፡ ይቤ ፡ እንበለ ፡ ይቅትሉኒ ፡ ቀተልክዎሙ ፡ በቅድሜየ ፡ ከመ ፡ ቀትለ ፡ ቀዲሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተመይጡ",
+          "t": "wätämäyəṭu",
+          "gl": ""
+        },
+        {
+          "g": "ዕደወ",
+          "t": "ʿədäwä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "በውስተ",
+          "t": "bäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ቀትል",
+          "t": "qätələ",
+          "gl": ""
+        },
+        {
+          "g": "ወለብንያምሰ",
+          "t": "wäläbənəyaməsä",
+          "gl": ""
+        },
+        {
+          "g": "አኀዝዎ",
+          "t": "ʾäḫäzəwo",
+          "gl": ""
+        },
+        {
+          "g": "ይቅትልዎ",
+          "t": "yəqətələwo",
+          "gl": ""
+        },
+        {
+          "g": "ዕደወ",
+          "t": "ʿədäwä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "የአክሉ",
+          "t": "yäʾäkəlu",
+          "gl": ""
+        },
+        {
+          "g": "ስድስተ",
+          "t": "sədəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምእተ",
+          "t": "məʾətä",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ይቤ",
+          "t": "yəbe",
+          "gl": ""
+        },
+        {
+          "g": "እንበለ",
+          "t": "ʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "ይቅትሉኒ",
+          "t": "yəqətəluni",
+          "gl": ""
+        },
+        {
+          "g": "ቀተልክዎሙ",
+          "t": "qätäləkəwomu",
+          "gl": ""
+        },
+        {
+          "g": "በቅድሜየ",
+          "t": "bäqədəmeyä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ቀትለ",
+          "t": "qätəlä",
+          "gl": ""
+        },
+        {
+          "g": "ቀዲሙ",
+          "t": "qädimu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the children of Israel saw that the liers in wait had seized Gabaa, and they stood in line of battle; and Benjamin began to smite down wounded ones among the men of Israel about thirty men; for they said, Surely they fall again before us, as in the first battle.",
+        "kjv": "And when the men of Israel retired in the battle, Benjamin began to smite and kill of the men of Israel about thirty persons: for they said, Surely they are smitten down before us, as in the first battle."
+      }
+    },
+    {
+      "num": 40,
+      "geez": "ወዝክቱ ፡ ማኅፈደ ፡ ጢስ ፡ እምነ ፡ ሀገር ፡ ከመ ፡ ዐምድ ፡ ወነጸረ ፡ ብንያሚ ፡ ድኅሬሁ ፡ ወናሁ ፡ ዐርገ ፡ ጥፍዐተ\n                  ፡ ሀገር ፡ ውስተ ፡ ሰማይ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዝክቱ",
+          "t": "wäzəkətu",
+          "gl": ""
+        },
+        {
+          "g": "ማኅፈደ",
+          "t": "maḫəfädä",
+          "gl": ""
+        },
+        {
+          "g": "ጢስ",
+          "t": "ṭisə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ሀገር",
+          "t": "hägärə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ዐምድ",
+          "t": "ʿämədə",
+          "gl": ""
+        },
+        {
+          "g": "ወነጸረ",
+          "t": "wänäṣärä",
+          "gl": ""
+        },
+        {
+          "g": "ብንያሚ",
+          "t": "bənəyami",
+          "gl": ""
+        },
+        {
+          "g": "ድኅሬሁ",
+          "t": "dəḫərehu",
+          "gl": ""
+        },
+        {
+          "g": "ወናሁ",
+          "t": "wänahu",
+          "gl": ""
+        },
+        {
+          "g": "ዐርገ",
+          "t": "ʿärəgä",
+          "gl": ""
+        },
+        {
+          "g": "ጥፍዐተ",
+          "t": "ṭəfəʿätä",
+          "gl": ""
+        },
+        {
+          "g": "ሀገር",
+          "t": "hägärə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሰማይ",
+          "t": "sämayə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the signal went up increasingly over the city as a pillar of smoke; and Benjamin looked behind him, and behold the destruction of the city went up to heaven.",
+        "kjv": "But when the flame began to arise up out of the city with a pillar of smoke, the Benjamites looked behind them, and, behold, the flame of the city ascended up to heaven."
+      }
+    },
+    {
+      "num": 41,
+      "geez": "ወተመይጡ ፡ ዕደወ ፡ እስራኤል ፡ ወተወላወሉ ፡ ዕደወ ፡ ብንያሚ ፡ ወርእዩ ፡ ከመ ፡ በጽሐቶሙ ፡ እከይሆሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተመይጡ",
+          "t": "wätämäyəṭu",
+          "gl": ""
+        },
+        {
+          "g": "ዕደወ",
+          "t": "ʿədäwä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወተወላወሉ",
+          "t": "wätäwälawälu",
+          "gl": ""
+        },
+        {
+          "g": "ዕደወ",
+          "t": "ʿədäwä",
+          "gl": ""
+        },
+        {
+          "g": "ብንያሚ",
+          "t": "bənəyami",
+          "gl": ""
+        },
+        {
+          "g": "ወርእዩ",
+          "t": "wärəʾəyu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "በጽሐቶሙ",
+          "t": "bäṣəḥätomu",
+          "gl": ""
+        },
+        {
+          "g": "እከይሆሙ",
+          "t": "ʾəkäyəhomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the men of Israel turned back, and the men of Benjamin hasted, because they saw that evil had come upon them.",
+        "kjv": "And when the men of Israel turned again, the men of Benjamin were amazed: for they saw that evil was come upon them."
+      }
+    },
+    {
+      "num": 42,
+      "geez": "ወነትዑ ፡ ቅድሜሆሙ ፡ ለእስራኤል ፡ ውስተ ፡ ፍኖተ ፡ ገዳም ፡ ወበጽሖሙ ፡ ቀትል ፡ ወእለሂ ፡ እምነ ፡ አህጉር ፡\n                  ቀተልዎሙ ፡ በማእከሎሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነትዑ",
+          "t": "wänätəʿu",
+          "gl": ""
+        },
+        {
+          "g": "ቅድሜሆሙ",
+          "t": "qədəmehomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእስራኤል",
+          "t": "läʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ፍኖተ",
+          "t": "fənotä",
+          "gl": ""
+        },
+        {
+          "g": "ገዳም",
+          "t": "gädamə",
+          "gl": ""
+        },
+        {
+          "g": "ወበጽሖሙ",
+          "t": "wäbäṣəḥomu",
+          "gl": ""
+        },
+        {
+          "g": "ቀትል",
+          "t": "qätələ",
+          "gl": ""
+        },
+        {
+          "g": "ወእለሂ",
+          "t": "wäʾəlähi",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "አህጉር",
+          "t": "ʾähəgurə",
+          "gl": ""
+        },
+        {
+          "g": "ቀተልዎሙ",
+          "t": "qätäləwomu",
+          "gl": ""
+        },
+        {
+          "g": "በማእከሎሙ",
+          "t": "bämaʾəkälomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they turned to the way of the wilderness from before the children of Israel, and fled: but the battle overtook them, and they from the cities destroyed them in the midst of them.",
+        "kjv": "Therefore they turned their backs before the men of Israel unto the way of the wilderness; but the battle overtook them; and them which came out of the cities they destroyed in the midst of them."
+      }
+    },
+    {
+      "num": 43,
+      "geez": "ወቀተልዎሙ ፡ ለብንያሚ ፡ ወአጥፍእዎሙ ፡ ወደምስሶ ፡ ደምሰስዎሙ ፡ በቅድመ ፡ ገባአ ፡ እመንገለ ፡ ጽባሒሃ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወቀተልዎሙ",
+          "t": "wäqätäləwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለብንያሚ",
+          "t": "läbənəyami",
+          "gl": ""
+        },
+        {
+          "g": "ወአጥፍእዎሙ",
+          "t": "wäʾäṭəfəʾəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ወደምስሶ",
+          "t": "wädäməsəso",
+          "gl": ""
+        },
+        {
+          "g": "ደምሰስዎሙ",
+          "t": "däməsäsəwomu",
+          "gl": ""
+        },
+        {
+          "g": "በቅድመ",
+          "t": "bäqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ገባአ",
+          "t": "gäbaʾä",
+          "gl": ""
+        },
+        {
+          "g": "እመንገለ",
+          "t": "ʾəmänəgälä",
+          "gl": ""
+        },
+        {
+          "g": "ጽባሒሃ",
+          "t": "ṣəbaḥiha",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they cut down Benjamin, and pursued him from Nua closely till they came opposite Gabaa on the east.",
+        "kjv": "Thus they inclosed the Benjamites round about, and chased them, and trode them down with ease over against Gibeah toward the sunrising."
+      }
+    },
+    {
+      "num": 44,
+      "geez": "ወወድቁ ፡ እምነ ፡ ብንያሚ ፡ እልፍ ፡ ወሰማንያ ፡ ምእት ፡ ብእሲ ፡ ወኵሎሙ ፡ እሉ ፡ ጽኑዓን ፡ ዕደው ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወወድቁ",
+          "t": "wäwädəqu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ብንያሚ",
+          "t": "bənəyami",
+          "gl": ""
+        },
+        {
+          "g": "እልፍ",
+          "t": "ʾələfə",
+          "gl": ""
+        },
+        {
+          "g": "ወሰማንያ",
+          "t": "wäsämanəya",
+          "gl": ""
+        },
+        {
+          "g": "ምእት",
+          "t": "məʾətə",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎሙ",
+          "t": "wäkwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "እሉ",
+          "t": "ʾəlu",
+          "gl": ""
+        },
+        {
+          "g": "ጽኑዓን",
+          "t": "ṣənuʿanə",
+          "gl": ""
+        },
+        {
+          "g": "ዕደው",
+          "t": "ʿədäwə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And there fell of Benjamin eighteen thousand men: all these were men of might.",
+        "kjv": "And there fell of Benjamin eighteen thousand men; all these were men of valour."
+      }
+    },
+    {
+      "num": 45,
+      "geez": "ወነትዑ ፡ ወጐዩ ፡ ኀበ ፡ ኰኵሐ ፡ ሬሞን ፡ ወአረይዎሙ ፡ ኀምሳ ፡ ምእተ ፡ ብእሲ ፡ ወዴገንዎሙ ፡ ወተለውዎሙ ፡ እስከ\n                  ፡ [ጌዴአም ፡] ወቀተሉ ፡ እምኔሆሙ ፡ ፳፻ብእሴ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነትዑ",
+          "t": "wänätəʿu",
+          "gl": ""
+        },
+        {
+          "g": "ወጐዩ",
+          "t": "wägwäyu",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ኰኵሐ",
+          "t": "kwäkwəḥä",
+          "gl": ""
+        },
+        {
+          "g": "ሬሞን",
+          "t": "remonə",
+          "gl": ""
+        },
+        {
+          "g": "ወአረይዎሙ",
+          "t": "wäʾäräyəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ኀምሳ",
+          "t": "ḫäməsa",
+          "gl": ""
+        },
+        {
+          "g": "ምእተ",
+          "t": "məʾətä",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ወዴገንዎሙ",
+          "t": "wädegänəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ወተለውዎሙ",
+          "t": "wätäläwəwomu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ጌዴአም",
+          "t": "gedeʾämə",
+          "gl": ""
+        },
+        {
+          "g": "ወቀተሉ",
+          "t": "wäqätälu",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሆሙ",
+          "t": "ʾəmənehomu",
+          "gl": ""
+        },
+        {
+          "g": "፳፻ብእሴ",
+          "t": "20100bəʾəse",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the rest turned, and fled to the wilderness to the rock of Remmon; and the children of Israel picked off of them five thousand men; and the children of Israel went down after them as far as Gedan, and they smote of them two thousand men.",
+        "kjv": "And they turned and fled toward the wilderness unto the rock of Rimmon: and they gleaned of them in the highways five thousand men; and pursued hard after them unto Gidom, and slew two thousand men of them."
+      }
+    },
+    {
+      "num": 46,
+      "geez": "ወኮኑ ፡ ኵሎሙ ፡ እለ ፡ ወድቁ ፡ እምነ ፡ ብንያሚ ፡ ፪፻-፻ወ፶፻ብእሲ ፡ እለ ፡ ይጸውሩ ፡ ኵናተ ፡ በይእቲ ፡ ዕለት ፡\n                  ወኵሎሙ ፡ እሉ ፡ ዕደው ፡ ጽኑዓን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኮኑ",
+          "t": "wäkonu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ወድቁ",
+          "t": "wädəqu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ብንያሚ",
+          "t": "bənəyami",
+          "gl": ""
+        },
+        {
+          "g": "፪፻-፻ወ፶፻ብእሲ",
+          "t": "2100-100wä50100bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይጸውሩ",
+          "t": "yəṣäwəru",
+          "gl": ""
+        },
+        {
+          "g": "ኵናተ",
+          "t": "kwənatä",
+          "gl": ""
+        },
+        {
+          "g": "በይእቲ",
+          "t": "bäyəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎሙ",
+          "t": "wäkwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "እሉ",
+          "t": "ʾəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዕደው",
+          "t": "ʿədäwə",
+          "gl": ""
+        },
+        {
+          "g": "ጽኑዓን",
+          "t": "ṣənuʿanə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And all that fell of Benjamin were twenty-five thousand men that drew sword in that day: all these were men of might.",
+        "kjv": "So that all which fell that day of Benjamin were twenty and five thousand men that drew the sword; all these were men of valour."
+      }
+    },
+    {
+      "num": 47,
+      "geez": "ወነትዑ ፡ ወጐዩ ፡ ውስተ ፡ ኰኵሐ ፡ ሬሞን ፡ ስድስቱ ፡ ምእት ፡ ብእሲ ፡ ወነበሩ ፡ ውስተ ፡ ኰኵሐ ፡ ሬሞን ፡\n                  አርባዕተ ፡ አውራኀ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነትዑ",
+          "t": "wänätəʿu",
+          "gl": ""
+        },
+        {
+          "g": "ወጐዩ",
+          "t": "wägwäyu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኰኵሐ",
+          "t": "kwäkwəḥä",
+          "gl": ""
+        },
+        {
+          "g": "ሬሞን",
+          "t": "remonə",
+          "gl": ""
+        },
+        {
+          "g": "ስድስቱ",
+          "t": "sədəsətu",
+          "gl": ""
+        },
+        {
+          "g": "ምእት",
+          "t": "məʾətə",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ወነበሩ",
+          "t": "wänäbäru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኰኵሐ",
+          "t": "kwäkwəḥä",
+          "gl": ""
+        },
+        {
+          "g": "ሬሞን",
+          "t": "remonə",
+          "gl": ""
+        },
+        {
+          "g": "አርባዕተ",
+          "t": "ʾärəbaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "አውራኀ",
+          "t": "ʾäwəraḫä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the rest turned, and fled to the wilderness to the rock of Remmon, even six hundred men; and they sojourned four months in the rock of Remmon.",
+        "kjv": "But six hundred men turned and fled to the wilderness unto the rock Rimmon, and abode in the rock Rimmon four months."
+      }
+    },
+    {
+      "num": 48,
+      "geez": "ወዐጸውዎሙ ፡ ሰብአ ፡ እስራኤል ፡ ለደቂቀ ፡ ብንያሚ ፡ ወቀተልዎሙ ፡ በአፈ ፡ ኀፂን ፡ ወለሀገሮሙኒ ፡ ወለእንስሳሆሙ ፡\n                  ወኵሉ ፡ ዘተረክበ ፡ ውስተ ፡ አህጉር ፡ ወአህጉሪሆሙ ፡ እለ ፡ ረከቡ ፡ አውዐይዎን ፡ በእሳት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዐጸውዎሙ",
+          "t": "wäʿäṣäwəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ሰብአ",
+          "t": "säbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ብንያሚ",
+          "t": "bənəyami",
+          "gl": ""
+        },
+        {
+          "g": "ወቀተልዎሙ",
+          "t": "wäqätäləwomu",
+          "gl": ""
+        },
+        {
+          "g": "በአፈ",
+          "t": "bäʾäfä",
+          "gl": ""
+        },
+        {
+          "g": "ኀፂን",
+          "t": "ḫäṣ́inə",
+          "gl": ""
+        },
+        {
+          "g": "ወለሀገሮሙኒ",
+          "t": "wälähägäromuni",
+          "gl": ""
+        },
+        {
+          "g": "ወለእንስሳሆሙ",
+          "t": "wäläʾənəsəsahomu",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘተረክበ",
+          "t": "zätäräkəbä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አህጉር",
+          "t": "ʾähəgurə",
+          "gl": ""
+        },
+        {
+          "g": "ወአህጉሪሆሙ",
+          "t": "wäʾähəgurihomu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ረከቡ",
+          "t": "räkäbu",
+          "gl": ""
+        },
+        {
+          "g": "አውዐይዎን",
+          "t": "ʾäwəʿäyəwonə",
+          "gl": ""
+        },
+        {
+          "g": "በእሳት",
+          "t": "bäʾəsatə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the children of Israel returned to the children of Benjamin, and smote them with the edge of the sword from the city of Methla, even to the cattle, and every thing that was found in all the cities: and they burnt with fire the cities they found.",
+        "kjv": "And the men of Israel turned again upon the children of Benjamin, and smote them with the edge of the sword, as well the men of every city, as the beast, and all that came to hand: also they set on fire all the cities that they came to."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

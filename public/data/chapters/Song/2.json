@@ -1,0 +1,1232 @@
+{
+  "book": "Song",
+  "chapter": 2,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "አነ፡ ጽጌ፡ ገዳም። ጽጌ፡ ደንጐላት፡ ዘውስተ፡ ቈላት።",
+      "translation": "",
+      "words": [
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "ጽጌ",
+          "t": "ṣəge",
+          "gl": ""
+        },
+        {
+          "g": "ገዳም",
+          "t": "gädamə",
+          "gl": ""
+        },
+        {
+          "g": "ጽጌ",
+          "t": "ṣəge",
+          "gl": ""
+        },
+        {
+          "g": "ደንጐላት",
+          "t": "dänəgwälatə",
+          "gl": ""
+        },
+        {
+          "g": "ዘውስተ",
+          "t": "zäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ቈላት",
+          "t": "qwälatə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "I am a flower of the plain, a lily of the valleys.",
+        "kjv": "I am the rose of Sharon, and the lily of the valleys."
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ወከመ፡ ጽጌ፡ ደንጐላት፡ በማእከለ፡ አሥዋክ። ከማሁ፡ አንቲኒ፡ እንተ፡ ኀቤየ፡ በማእከለ፡ አዋልድ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወከመ",
+          "t": "wäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ጽጌ",
+          "t": "ṣəge",
+          "gl": ""
+        },
+        {
+          "g": "ደንጐላት",
+          "t": "dänəgwälatə",
+          "gl": ""
+        },
+        {
+          "g": "በማእከለ",
+          "t": "bämaʾəkälä",
+          "gl": ""
+        },
+        {
+          "g": "አሥዋክ",
+          "t": "ʾäśəwakə",
+          "gl": ""
+        },
+        {
+          "g": "ከማሁ",
+          "t": "kämahu",
+          "gl": ""
+        },
+        {
+          "g": "አንቲኒ",
+          "t": "ʾänətini",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀቤየ",
+          "t": "ḫäbeyä",
+          "gl": ""
+        },
+        {
+          "g": "በማእከለ",
+          "t": "bämaʾəkälä",
+          "gl": ""
+        },
+        {
+          "g": "አዋልድ",
+          "t": "ʾäwalədə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "As a lily among thorns, so is my companion among the daughters.",
+        "kjv": "As the lily among thorns, so is my love among the daughters."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወከመ፡ ኮል፡ ዘውስተ፡ ዕፀወ፡ ገዳም። ከማሁ፡ ዘኣፈቅር፡ በማእከለ፡ አኀው። ታሕተ፡ ጽላሎቱ፡ ፈተውኩ፡ ወነበርኩ። ወፍሬሁኒ፡ ጥዑም፡ ለጕርዔየ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወከመ",
+          "t": "wäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ኮል",
+          "t": "kolə",
+          "gl": ""
+        },
+        {
+          "g": "ዘውስተ",
+          "t": "zäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዕፀወ",
+          "t": "ʿəṣ́äwä",
+          "gl": ""
+        },
+        {
+          "g": "ገዳም",
+          "t": "gädamə",
+          "gl": ""
+        },
+        {
+          "g": "ከማሁ",
+          "t": "kämahu",
+          "gl": ""
+        },
+        {
+          "g": "ዘኣፈቅር",
+          "t": "zäʾafäqərə",
+          "gl": ""
+        },
+        {
+          "g": "በማእከለ",
+          "t": "bämaʾəkälä",
+          "gl": ""
+        },
+        {
+          "g": "አኀው",
+          "t": "ʾäḫäwə",
+          "gl": ""
+        },
+        {
+          "g": "ታሕተ",
+          "t": "taḥətä",
+          "gl": ""
+        },
+        {
+          "g": "ጽላሎቱ",
+          "t": "ṣəlalotu",
+          "gl": ""
+        },
+        {
+          "g": "ፈተውኩ",
+          "t": "fätäwəku",
+          "gl": ""
+        },
+        {
+          "g": "ወነበርኩ",
+          "t": "wänäbärəku",
+          "gl": ""
+        },
+        {
+          "g": "ወፍሬሁኒ",
+          "t": "wäfərehuni",
+          "gl": ""
+        },
+        {
+          "g": "ጥዑም",
+          "t": "ṭəʿumə",
+          "gl": ""
+        },
+        {
+          "g": "ለጕርዔየ",
+          "t": "lägwərəʿeyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "As the apple among the trees of the wood, so is my kinsman among the sons. I desired his shadow, and sat down, and his fruit was sweet in my throat.",
+        "kjv": "As the apple tree among the trees of the wood, so is my beloved among the sons. I sat down under his shadow with great delight, and his fruit was sweet to my taste."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "አብኡኒ፡ ቤተ፡ ወይን። ገብሩ፡ ላዕሌየ፡ ፍቅረ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "አብኡኒ",
+          "t": "ʾäbəʾuni",
+          "gl": ""
+        },
+        {
+          "g": "ቤተ",
+          "t": "betä",
+          "gl": ""
+        },
+        {
+          "g": "ወይን",
+          "t": "wäyənə",
+          "gl": ""
+        },
+        {
+          "g": "ገብሩ",
+          "t": "gäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌየ",
+          "t": "laʿəleyä",
+          "gl": ""
+        },
+        {
+          "g": "ፍቅረ",
+          "t": "fəqərä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Bring me into the wine house; set love before me.",
+        "kjv": "He brought me to the banqueting house, and his banner over me was love."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "አጽንዑኒ፡ በዕፍረት። ሰደቁኒ፡ በአክዋል። እስመ፡ ተነደፍኩ፡ በፍቅሩ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "አጽንዑኒ",
+          "t": "ʾäṣənəʿuni",
+          "gl": ""
+        },
+        {
+          "g": "በዕፍረት",
+          "t": "bäʿəfərätə",
+          "gl": ""
+        },
+        {
+          "g": "ሰደቁኒ",
+          "t": "sädäquni",
+          "gl": ""
+        },
+        {
+          "g": "በአክዋል",
+          "t": "bäʾäkəwalə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ተነደፍኩ",
+          "t": "tänädäfəku",
+          "gl": ""
+        },
+        {
+          "g": "በፍቅሩ",
+          "t": "bäfəqəru",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Strengthen me with perfumes, stay me with apples: for I am wounded with love.",
+        "kjv": "Stay me with flagons, comfort me with apples: for I am sick of love."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "የማኑ፡ ተሐቅፈኒ፡ ወፀጋሙ፡ ታሕተ፡ ርእስየ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "የማኑ",
+          "t": "yämanu",
+          "gl": ""
+        },
+        {
+          "g": "ተሐቅፈኒ",
+          "t": "täḥäqəfäni",
+          "gl": ""
+        },
+        {
+          "g": "ወፀጋሙ",
+          "t": "wäṣ́ägamu",
+          "gl": ""
+        },
+        {
+          "g": "ታሕተ",
+          "t": "taḥətä",
+          "gl": ""
+        },
+        {
+          "g": "ርእስየ",
+          "t": "rəʾəsəyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "His left hand shall be under my head, and his right hand shall embrace me.",
+        "kjv": "His left hand is under my head, and his right hand doth embrace me."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "አመሐልኩክን፡ አዋልደ፡ ኢየሩሳሌም። በኀይሉ፡ ወበጽንዑ፡ ለገዳም። አመ፡ ተንሥአ፡ ወአንሥአ፡ ኵሎ፡ ሙታነ። አፈቅሮ፡ እስከ፡ አመ፡ ፈቀደ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "አመሐልኩክን",
+          "t": "ʾämäḥäləkukənə",
+          "gl": ""
+        },
+        {
+          "g": "አዋልደ",
+          "t": "ʾäwalədä",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሩሳሌም",
+          "t": "ʾiyärusalemə",
+          "gl": ""
+        },
+        {
+          "g": "በኀይሉ",
+          "t": "bäḫäyəlu",
+          "gl": ""
+        },
+        {
+          "g": "ወበጽንዑ",
+          "t": "wäbäṣənəʿu",
+          "gl": ""
+        },
+        {
+          "g": "ለገዳም",
+          "t": "lägädamə",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ተንሥአ",
+          "t": "tänəśəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ወአንሥአ",
+          "t": "wäʾänəśəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ሙታነ",
+          "t": "mutanä",
+          "gl": ""
+        },
+        {
+          "g": "አፈቅሮ",
+          "t": "ʾäfäqəro",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ፈቀደ",
+          "t": "fäqädä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "I have charged you, ye daughters of Jerusalem, by the powers and by the virtues of the field, that ye do not rouse or wake my love, until he please.",
+        "kjv": "I charge you, O ye daughters of Jerusalem, by the roes, and by the hinds of the field, that ye stir not up, nor awake my love, till he please."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ቃል፡ ወልድ፡ እኁየ፡ ናሁ፡ ውእቱ፡ መጽአ። እንዘ፡ ይቀንጽ፡ ማዕከለ፡ አድባር። ወያንበሰብስ፡ ዲበ፡ አውግር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ቃል",
+          "t": "qalə",
+          "gl": ""
+        },
+        {
+          "g": "ወልድ",
+          "t": "wälədə",
+          "gl": ""
+        },
+        {
+          "g": "እኁየ",
+          "t": "ʾəḫuyä",
+          "gl": ""
+        },
+        {
+          "g": "ናሁ",
+          "t": "nahu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "መጽአ",
+          "t": "mäṣəʾä",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ይቀንጽ",
+          "t": "yəqänəṣə",
+          "gl": ""
+        },
+        {
+          "g": "ማዕከለ",
+          "t": "maʿəkälä",
+          "gl": ""
+        },
+        {
+          "g": "አድባር",
+          "t": "ʾädəbarə",
+          "gl": ""
+        },
+        {
+          "g": "ወያንበሰብስ",
+          "t": "wäyanəbäsäbəsə",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "አውግር",
+          "t": "ʾäwəgərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The voice of my kinsman! behold, he comes leaping over the mountains, bounding over the hills.",
+        "kjv": "The voice of my beloved! behold, he cometh leaping upon the mountains, skipping upon the hills."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ይመስል፡ ወልድ፡ እኁየ፡ ከመ፡ ወይጠል። ወከመ፡ ወሬዛ፡ ሀየል፡ ውስተ፡ አድባረ፡ ቤቴል። ናሁ፡ ውእቱ፡ ይቀውም፡ ድኅረ፡ አረፍት። ወይሔውጽ፡ እንተ፡ መሳክው። ወይደንን፡ እንተ፡ ተድባብ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ይመስል",
+          "t": "yəmäsələ",
+          "gl": ""
+        },
+        {
+          "g": "ወልድ",
+          "t": "wälədə",
+          "gl": ""
+        },
+        {
+          "g": "እኁየ",
+          "t": "ʾəḫuyä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ወይጠል",
+          "t": "wäyəṭälə",
+          "gl": ""
+        },
+        {
+          "g": "ወከመ",
+          "t": "wäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ወሬዛ",
+          "t": "wäreza",
+          "gl": ""
+        },
+        {
+          "g": "ሀየል",
+          "t": "häyälə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አድባረ",
+          "t": "ʾädəbarä",
+          "gl": ""
+        },
+        {
+          "g": "ቤቴል",
+          "t": "betelə",
+          "gl": ""
+        },
+        {
+          "g": "ናሁ",
+          "t": "nahu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ይቀውም",
+          "t": "yəqäwəmə",
+          "gl": ""
+        },
+        {
+          "g": "ድኅረ",
+          "t": "dəḫərä",
+          "gl": ""
+        },
+        {
+          "g": "አረፍት",
+          "t": "ʾäräfətə",
+          "gl": ""
+        },
+        {
+          "g": "ወይሔውጽ",
+          "t": "wäyəḥewəṣə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "መሳክው",
+          "t": "mäsakəwə",
+          "gl": ""
+        },
+        {
+          "g": "ወይደንን",
+          "t": "wäyədänənə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ተድባብ",
+          "t": "tädəbabə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "My kinsman is like a roe or a young hart on the mountains of Bæthel: behold, he is behind our wall, looking through the windows, peeping through the lattices.",
+        "kjv": "My beloved is like a roe or a young hart: behold, he standeth behind our wall, he looketh forth at the windows, shewing himself through the lattice."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ያወሥእ፡ ወልድ፡ እኁየ፡ ወይብለኒ። ተንሥኢ፡ ወንዒ፡ ቅርብትየ፡ እንቲኣየ፡ ሠናይት፡ ርግብየ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ያወሥእ",
+          "t": "yawäśəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወልድ",
+          "t": "wälədə",
+          "gl": ""
+        },
+        {
+          "g": "እኁየ",
+          "t": "ʾəḫuyä",
+          "gl": ""
+        },
+        {
+          "g": "ወይብለኒ",
+          "t": "wäyəbəläni",
+          "gl": ""
+        },
+        {
+          "g": "ተንሥኢ",
+          "t": "tänəśəʾi",
+          "gl": ""
+        },
+        {
+          "g": "ወንዒ",
+          "t": "wänəʿi",
+          "gl": ""
+        },
+        {
+          "g": "ቅርብትየ",
+          "t": "qərəbətəyä",
+          "gl": ""
+        },
+        {
+          "g": "እንቲኣየ",
+          "t": "ʾənətiʾayä",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይት",
+          "t": "śänayətə",
+          "gl": ""
+        },
+        {
+          "g": "ርግብየ",
+          "t": "rəgəbəyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "My kinsman answers, and says to me, Rise up, come, my companion, my fair one, my dove.",
+        "kjv": "My beloved spake, and said unto me, Rise up, my love, my fair one, and come away."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "እስመ፡ ናሁ፡ ክረምት፡ ኀለፈ። ወዝናም፡ ገብአ፡ ለሊሁ። ጽጌ፡ አስተርአየ፡ በውስተ፡ ምድርነ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ናሁ",
+          "t": "nahu",
+          "gl": ""
+        },
+        {
+          "g": "ክረምት",
+          "t": "kərämətə",
+          "gl": ""
+        },
+        {
+          "g": "ኀለፈ",
+          "t": "ḫäläfä",
+          "gl": ""
+        },
+        {
+          "g": "ወዝናም",
+          "t": "wäzənamə",
+          "gl": ""
+        },
+        {
+          "g": "ገብአ",
+          "t": "gäbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ለሊሁ",
+          "t": "lälihu",
+          "gl": ""
+        },
+        {
+          "g": "ጽጌ",
+          "t": "ṣəge",
+          "gl": ""
+        },
+        {
+          "g": "አስተርአየ",
+          "t": "ʾäsətärəʾäyä",
+          "gl": ""
+        },
+        {
+          "g": "በውስተ",
+          "t": "bäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድርነ",
+          "t": "mədərənä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For, behold, the winter is past, the rain is gone, it has departed.",
+        "kjv": "For, lo, the winter is past, the rain is over and gone;"
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ጊዜ፡ ገሚድ፡ በጽሐ። ቃለ፡ ማዕነቅ፡ ተሰምዐ፡ በምድርነ። በለስ፡ አውፅአ፡ ሠርጸ። አውያን፡ ጸገዩ፡ ወወሀቡ፡ መዐዛ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ጊዜ",
+          "t": "gize",
+          "gl": ""
+        },
+        {
+          "g": "ገሚድ",
+          "t": "gämidə",
+          "gl": ""
+        },
+        {
+          "g": "በጽሐ",
+          "t": "bäṣəḥä",
+          "gl": ""
+        },
+        {
+          "g": "ቃለ",
+          "t": "qalä",
+          "gl": ""
+        },
+        {
+          "g": "ማዕነቅ",
+          "t": "maʿənäqə",
+          "gl": ""
+        },
+        {
+          "g": "ተሰምዐ",
+          "t": "täsäməʿä",
+          "gl": ""
+        },
+        {
+          "g": "በምድርነ",
+          "t": "bämədərənä",
+          "gl": ""
+        },
+        {
+          "g": "በለስ",
+          "t": "bäläsə",
+          "gl": ""
+        },
+        {
+          "g": "አውፅአ",
+          "t": "ʾäwəṣ́əʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሠርጸ",
+          "t": "śärəṣä",
+          "gl": ""
+        },
+        {
+          "g": "አውያን",
+          "t": "ʾäwəyanə",
+          "gl": ""
+        },
+        {
+          "g": "ጸገዩ",
+          "t": "ṣägäyu",
+          "gl": ""
+        },
+        {
+          "g": "ወወሀቡ",
+          "t": "wäwähäbu",
+          "gl": ""
+        },
+        {
+          "g": "መዐዛ",
+          "t": "mäʿäza",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The flowers are seen in the land; the time of pruning has arrived; the voice of the turtle-dove has been heard in our land.",
+        "kjv": "The flowers appear on the earth; the time of the singing of birds is come, and the voice of the turtle is heard in our land;"
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ተንሥኢ፡ ወንዒ፡ ቅርብትየ። እንቲኣየ፡ ሠናይት፡ ርግብየ። ውስተ፡ ጽላሎተ፡ ኰኵሕ፡ ቅሩበ፡ ጥቅም።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ተንሥኢ",
+          "t": "tänəśəʾi",
+          "gl": ""
+        },
+        {
+          "g": "ወንዒ",
+          "t": "wänəʿi",
+          "gl": ""
+        },
+        {
+          "g": "ቅርብትየ",
+          "t": "qərəbətəyä",
+          "gl": ""
+        },
+        {
+          "g": "እንቲኣየ",
+          "t": "ʾənətiʾayä",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይት",
+          "t": "śänayətə",
+          "gl": ""
+        },
+        {
+          "g": "ርግብየ",
+          "t": "rəgəbəyä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ጽላሎተ",
+          "t": "ṣəlalotä",
+          "gl": ""
+        },
+        {
+          "g": "ኰኵሕ",
+          "t": "kwäkwəḥə",
+          "gl": ""
+        },
+        {
+          "g": "ቅሩበ",
+          "t": "qərubä",
+          "gl": ""
+        },
+        {
+          "g": "ጥቅም",
+          "t": "ṭəqəmə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The fig-tree has put forth its young figs, the vines put forth the tender grape, they yield a smell: arise, come, my companion, my fair one, my dove; yea, come.",
+        "kjv": "The fig tree putteth forth her green figs, and the vines with the tender grape give a good smell. Arise, my love, my fair one, and come away."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "አርእየኒ፡ ገጸከ፡ ወአስምዐኒ፡ ቃለከ። እስመ፡ ቃልከ፡ አዳም፡ ወገጽከ፡ ላህይ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "አርእየኒ",
+          "t": "ʾärəʾəyäni",
+          "gl": ""
+        },
+        {
+          "g": "ገጸከ",
+          "t": "gäṣäkä",
+          "gl": ""
+        },
+        {
+          "g": "ወአስምዐኒ",
+          "t": "wäʾäsəməʿäni",
+          "gl": ""
+        },
+        {
+          "g": "ቃለከ",
+          "t": "qaläkä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ቃልከ",
+          "t": "qaləkä",
+          "gl": ""
+        },
+        {
+          "g": "አዳም",
+          "t": "ʾädamə",
+          "gl": ""
+        },
+        {
+          "g": "ወገጽከ",
+          "t": "wägäṣəkä",
+          "gl": ""
+        },
+        {
+          "g": "ላህይ",
+          "t": "lahəyə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Thou art my dove, in the shelter of the rock, near the wall: shew me thy face, and cause me to hear thy voice; for thy voice is sweet, and thy countenance is beautiful.",
+        "kjv": "O my dove, that art in the clefts of the rock, in the secret places of the stairs, let me see thy countenance, let me hear thy voice; for sweet is thy voice, and thy countenance is comely."
+      }
+    },
+    {
+      "num": 15,
+      "geez": "አሥግሩ፡ ለነ፡ ቈናጽለ፡ ንኡሳነ፡ እለ፡ ያማስኑ፡ ዐጸደ፡ ወይንነ። ዐጸደ፡ ወይንነ፡ ይጽጊ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "አሥግሩ",
+          "t": "ʾäśəgəru",
+          "gl": ""
+        },
+        {
+          "g": "ለነ",
+          "t": "länä",
+          "gl": ""
+        },
+        {
+          "g": "ቈናጽለ",
+          "t": "qwänaṣəlä",
+          "gl": ""
+        },
+        {
+          "g": "ንኡሳነ",
+          "t": "nəʾusanä",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ያማስኑ",
+          "t": "yamasənu",
+          "gl": ""
+        },
+        {
+          "g": "ዐጸደ",
+          "t": "ʿäṣädä",
+          "gl": ""
+        },
+        {
+          "g": "ወይንነ",
+          "t": "wäyənənä",
+          "gl": ""
+        },
+        {
+          "g": "ዐጸደ",
+          "t": "ʿäṣädä",
+          "gl": ""
+        },
+        {
+          "g": "ወይንነ",
+          "t": "wäyənənä",
+          "gl": ""
+        },
+        {
+          "g": "ይጽጊ",
+          "t": "yəṣəgi",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Take us the little foxes that spoil the vines: for our vines put forth tender grapes.",
+        "kjv": "Take us the foxes, the little foxes, that spoil the vines: for our vines have tender grapes."
+      }
+    },
+    {
+      "num": 16,
+      "geez": "ወልድ፡ እኁየ፡ ሊተ፡ ወአነ፡ ሎቱ። መኑ፡ ይትዓደዎ፡ ለወልድ፡ እኁየ። እስመ፡ ልዑል፡ መዝራዕተ፡ የማኑ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወልድ",
+          "t": "wälədə",
+          "gl": ""
+        },
+        {
+          "g": "እኁየ",
+          "t": "ʾəḫuyä",
+          "gl": ""
+        },
+        {
+          "g": "ሊተ",
+          "t": "litä",
+          "gl": ""
+        },
+        {
+          "g": "ወአነ",
+          "t": "wäʾänä",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "መኑ",
+          "t": "mänu",
+          "gl": ""
+        },
+        {
+          "g": "ይትዓደዎ",
+          "t": "yətəʿadäwo",
+          "gl": ""
+        },
+        {
+          "g": "ለወልድ",
+          "t": "läwälədə",
+          "gl": ""
+        },
+        {
+          "g": "እኁየ",
+          "t": "ʾəḫuyä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ልዑል",
+          "t": "ləʿulə",
+          "gl": ""
+        },
+        {
+          "g": "መዝራዕተ",
+          "t": "mäzəraʿətä",
+          "gl": ""
+        },
+        {
+          "g": "የማኑ",
+          "t": "yämanu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "My kinsman is mine, and I am his: he feeds his flock among the lilies.",
+        "kjv": "My beloved is mine, and I am his: he feedeth among the lilies."
+      }
+    },
+    {
+      "num": 17,
+      "geez": "ዘይትረዐይ፡ ውስተ፡ ጽጌያት። እስከ፡ ሶበ፡ ያስተነፍስ፡ ዕለት፡ ወያንቀለቅል፡ ጽላሎት።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዘይትረዐይ",
+          "t": "zäyətəräʿäyə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ጽጌያት",
+          "t": "ṣəgeyatə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ሶበ",
+          "t": "sobä",
+          "gl": ""
+        },
+        {
+          "g": "ያስተነፍስ",
+          "t": "yasətänäfəsə",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "ወያንቀለቅል",
+          "t": "wäyanəqäläqələ",
+          "gl": ""
+        },
+        {
+          "g": "ጽላሎት",
+          "t": "ṣəlalotə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Until the day dawn, and the shadows depart, turn, my kinsman, be thou like to a roe or young hart on the mountains of the ravines.",
+        "kjv": "Until the day break, and the shadows flee away, turn, my beloved, and be thou like a roe or a young hart upon the mountains of Bether."
+      }
+    },
+    {
+      "num": 18,
+      "geez": "ተመየጥ፡ አንተ፡ ወልድ፡ እኁየ፡ ወተመሰላ፡ ለወይጠል። ወይርአያከ፡ አዋልደ፡ ኢየሩሳሌም። ወንበር፡ ዲበ፡ ሳሬል። ወዲበ፡ አርባዕቱ፡ አርባብ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ተመየጥ",
+          "t": "tämäyäṭə",
+          "gl": ""
+        },
+        {
+          "g": "አንተ",
+          "t": "ʾänətä",
+          "gl": ""
+        },
+        {
+          "g": "ወልድ",
+          "t": "wälədə",
+          "gl": ""
+        },
+        {
+          "g": "እኁየ",
+          "t": "ʾəḫuyä",
+          "gl": ""
+        },
+        {
+          "g": "ወተመሰላ",
+          "t": "wätämäsäla",
+          "gl": ""
+        },
+        {
+          "g": "ለወይጠል",
+          "t": "läwäyəṭälə",
+          "gl": ""
+        },
+        {
+          "g": "ወይርአያከ",
+          "t": "wäyərəʾäyakä",
+          "gl": ""
+        },
+        {
+          "g": "አዋልደ",
+          "t": "ʾäwalədä",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሩሳሌም",
+          "t": "ʾiyärusalemə",
+          "gl": ""
+        },
+        {
+          "g": "ወንበር",
+          "t": "wänəbärə",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "ሳሬል",
+          "t": "sarelə",
+          "gl": ""
+        },
+        {
+          "g": "ወዲበ",
+          "t": "wädibä",
+          "gl": ""
+        },
+        {
+          "g": "አርባዕቱ",
+          "t": "ʾärəbaʿətu",
+          "gl": ""
+        },
+        {
+          "g": "አርባብ",
+          "t": "ʾärəbabə",
+          "gl": ""
+        }
+      ]
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    }
+  }
+}

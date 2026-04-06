@@ -1,0 +1,1766 @@
+{
+  "book": "Exod",
+  "chapter": 5,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወእምድኅረዝ ፡ ቦኡ ፡ ሙሴ ፡ ወአሮን ፡ ኀበ ፡ ፈርዖን ፡ ወይቤልዎ ፡ ለፈርዖን ፡ ከመዝ ፡ ይቤ ፡ እግዚእ ፡ አምላከ ፡\n                  እስራኤል ፡ ፈኑ ፡ ሕዝብየ ፡ ከመ ፡ ይግበሩ ፡ በዓልየ ፡ በሐቅል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእምድኅረዝ",
+          "t": "wäʾəmədəḫəräzə",
+          "gl": ""
+        },
+        {
+          "g": "ቦኡ",
+          "t": "boʾu",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ወአሮን",
+          "t": "wäʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ፈርዖን",
+          "t": "färəʿonə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤልዎ",
+          "t": "wäyəbeləwo",
+          "gl": ""
+        },
+        {
+          "g": "ለፈርዖን",
+          "t": "läfärəʿonə",
+          "gl": ""
+        },
+        {
+          "g": "ከመዝ",
+          "t": "kämäzə",
+          "gl": ""
+        },
+        {
+          "g": "ይቤ",
+          "t": "yəbe",
+          "gl": ""
+        },
+        {
+          "g": "እግዚእ",
+          "t": "ʾəgəziʾə",
+          "gl": ""
+        },
+        {
+          "g": "አምላከ",
+          "t": "ʾäməlakä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ፈኑ",
+          "t": "fänu",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብየ",
+          "t": "ḥəzəbəyä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይግበሩ",
+          "t": "yəgəbäru",
+          "gl": ""
+        },
+        {
+          "g": "በዓልየ",
+          "t": "bäʿaləyä",
+          "gl": ""
+        },
+        {
+          "g": "በሐቅል",
+          "t": "bäḥäqələ",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And after this went in Moses and Aaron to Pharao, and they said to him, These things says the Lord God of Israel, Send my people away, that they may keep a feast to me in the wilderness.",
+        "kjv": "And afterward Moses and Aaron went in, and told Pharaoh, Thus saith the LORD God of Israel, Let my people go, that they may hold a feast unto me in the wilderness."
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ወይቤ ፡ ፈርዖን ፡ መኑ ፡ ውእቱ ፡ ዘእሰምዖ ፡ ቃሎ ፡ ከመ ፡ እፈንዎሙ ፡ ለደቂቀ ፡ እስራኤል ፤ ኢያአምሮሂ ፡ ለእግዚእ\n                  ፡ ወለእስራኤልሂ ፡ ኢይፌንዎ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "ፈርዖን",
+          "t": "färəʿonə",
+          "gl": ""
+        },
+        {
+          "g": "መኑ",
+          "t": "mänu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘእሰምዖ",
+          "t": "zäʾəsäməʿo",
+          "gl": ""
+        },
+        {
+          "g": "ቃሎ",
+          "t": "qalo",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "እፈንዎሙ",
+          "t": "ʾəfänəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል  ኢያአምሮሂ",
+          "t": "ʾəsəraʾelə  ʾiyaʾämərohi",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚእ",
+          "t": "läʾəgəziʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወለእስራኤልሂ",
+          "t": "wäläʾəsəraʾeləhi",
+          "gl": ""
+        },
+        {
+          "g": "ኢይፌንዎ",
+          "t": "ʾiyəfenəwo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Pharao said, Who is he that I should hearken to his voice, so that I should send away the children of Israel? I do not know the Lord, and I will not let Israel go.",
+        "kjv": "And Pharaoh said, Who is the LORD, that I should obey his voice to let Israel go? I know not the LORD, neither will I let Israel go."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወይቤልዎ ፡ አምላከ ፡ ዕብራዊያን ፡ ጸውዐነ ፡ ንሑር ፡ እንከ ፡ ምሕዋረ ፡ ሠሉስ ፡ ዕለት ፡ ውስተ ፡ ሐቅል ፡ ከመ ፡\n                  ንሡዕ ፡ ለእግዚእ ፡ ለአምላክነ ፡ ከመ ፡ ኢይርከበነ ፡ ሞት ፡ ወቀትል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤልዎ",
+          "t": "wäyəbeləwo",
+          "gl": ""
+        },
+        {
+          "g": "አምላከ",
+          "t": "ʾäməlakä",
+          "gl": ""
+        },
+        {
+          "g": "ዕብራዊያን",
+          "t": "ʿəbərawiyanə",
+          "gl": ""
+        },
+        {
+          "g": "ጸውዐነ",
+          "t": "ṣäwəʿänä",
+          "gl": ""
+        },
+        {
+          "g": "ንሑር",
+          "t": "nəḥurə",
+          "gl": ""
+        },
+        {
+          "g": "እንከ",
+          "t": "ʾənəkä",
+          "gl": ""
+        },
+        {
+          "g": "ምሕዋረ",
+          "t": "məḥəwarä",
+          "gl": ""
+        },
+        {
+          "g": "ሠሉስ",
+          "t": "śälusə",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሐቅል",
+          "t": "ḥäqələ",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ንሡዕ",
+          "t": "nəśuʿə",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚእ",
+          "t": "läʾəgəziʾə",
+          "gl": ""
+        },
+        {
+          "g": "ለአምላክነ",
+          "t": "läʾäməlakənä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ኢይርከበነ",
+          "t": "ʾiyərəkäbänä",
+          "gl": ""
+        },
+        {
+          "g": "ሞት",
+          "t": "motə",
+          "gl": ""
+        },
+        {
+          "g": "ወቀትል",
+          "t": "wäqätələ",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they say to him, The God of the Hebrews has called us to him: we will go therefore a three days' journey into the wilderness, that we may sacrifice to the Lord our God, lest at any time death or slaughter happen to us.",
+        "kjv": "And they said, The God of the Hebrews hath met with us: let us go, we pray thee, three days’ journey into the desert, and sacrifice unto the LORD our God; lest he fall upon us with pestilence, or with the sword."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወይቤሎሙ ፡ ንጉሠ ፡ ግብጽ ፡ ለምንት ፡ ለክሙ ፡ ሙሴ ፡ ወአሮን ፡ ትገፈትእዎ ፡ ለዝንቱ ፡ ሕዝብ ፡ እምግብሩ ፡ ሑሩ ፡\n                  ውስተ ፡ ግብርክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎሙ",
+          "t": "wäyəbelomu",
+          "gl": ""
+        },
+        {
+          "g": "ንጉሠ",
+          "t": "nəguśä",
+          "gl": ""
+        },
+        {
+          "g": "ግብጽ",
+          "t": "gəbəṣə",
+          "gl": ""
+        },
+        {
+          "g": "ለምንት",
+          "t": "lämənətə",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ወአሮን",
+          "t": "wäʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ትገፈትእዎ",
+          "t": "təgäfätəʾəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለዝንቱ",
+          "t": "läzənətu",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "እምግብሩ",
+          "t": "ʾəməgəbəru",
+          "gl": ""
+        },
+        {
+          "g": "ሑሩ",
+          "t": "ḥuru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ግብርክሙ",
+          "t": "gəbərəkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the king of Egypt said to them, Why do ye, Moses and Aaron, turn the people from their works? depart each of you to your works.",
+        "kjv": "And the king of Egypt said unto them, Wherefore do ye, Moses and Aaron, let the people from their works? get you unto your burdens."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወይቤሎሙ ፡ ፈርዖን ፡ ናሁ ፡ ይእዜ ፡ ብዙኅ ፡ ወምሉእ ፡ አሕዛበ ፡ ምድር ፡ ቦሁ ፡ ዘናዐርፎሙ ፡ እምግብሮሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎሙ",
+          "t": "wäyəbelomu",
+          "gl": ""
+        },
+        {
+          "g": "ፈርዖን",
+          "t": "färəʿonə",
+          "gl": ""
+        },
+        {
+          "g": "ናሁ",
+          "t": "nahu",
+          "gl": ""
+        },
+        {
+          "g": "ይእዜ",
+          "t": "yəʾəze",
+          "gl": ""
+        },
+        {
+          "g": "ብዙኅ",
+          "t": "bəzuḫə",
+          "gl": ""
+        },
+        {
+          "g": "ወምሉእ",
+          "t": "wäməluʾə",
+          "gl": ""
+        },
+        {
+          "g": "አሕዛበ",
+          "t": "ʾäḥəzabä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ቦሁ",
+          "t": "bohu",
+          "gl": ""
+        },
+        {
+          "g": "ዘናዐርፎሙ",
+          "t": "zänaʿärəfomu",
+          "gl": ""
+        },
+        {
+          "g": "እምግብሮሙ",
+          "t": "ʾəməgəbəromu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Pharao said, Behold now, the people is very numerous; let us not then give them rest from their work.",
+        "kjv": "And Pharaoh said, Behold, the people of the land now are many, and ye make them rest from their burdens."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወአዘዘ ፡ ፈርዖን ፡ ለነዳእተ ፡ ገባር ፡ ዘሕዝብ ፡ ወለጸሐፍት ፡ ወይቤሎሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአዘዘ",
+          "t": "wäʾäzäzä",
+          "gl": ""
+        },
+        {
+          "g": "ፈርዖን",
+          "t": "färəʿonə",
+          "gl": ""
+        },
+        {
+          "g": "ለነዳእተ",
+          "t": "länädaʾətä",
+          "gl": ""
+        },
+        {
+          "g": "ገባር",
+          "t": "gäbarə",
+          "gl": ""
+        },
+        {
+          "g": "ዘሕዝብ",
+          "t": "zäḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ወለጸሐፍት",
+          "t": "wäläṣäḥäfətə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎሙ",
+          "t": "wäyəbelomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Pharao gave orders to the task-masters of the people and the accountants, saying,",
+        "kjv": "And Pharaoh commanded the same day the taskmasters of the people, and their officers, saying,"
+      }
+    },
+    {
+      "num": 7,
+      "geez": "እምይእዜ ፡ እንከ ፡ ኢተሀብዎሙ ፡ ዳግመ ፡ ሐሠረ ፡ ለሕዝብ ፡ ለገቢረ ፡ ግንፋል ፡ በከመ ፡ መዋዕለ ፡ ትካት ፡ ለሊሆሙ\n                  ፡ ይሑሩ ፡ ወያስተጋብኡ ፡ ሐሠረ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እምይእዜ",
+          "t": "ʾəməyəʾəze",
+          "gl": ""
+        },
+        {
+          "g": "እንከ",
+          "t": "ʾənəkä",
+          "gl": ""
+        },
+        {
+          "g": "ኢተሀብዎሙ",
+          "t": "ʾitähäbəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ዳግመ",
+          "t": "dagəmä",
+          "gl": ""
+        },
+        {
+          "g": "ሐሠረ",
+          "t": "ḥäśärä",
+          "gl": ""
+        },
+        {
+          "g": "ለሕዝብ",
+          "t": "läḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ለገቢረ",
+          "t": "lägäbirä",
+          "gl": ""
+        },
+        {
+          "g": "ግንፋል",
+          "t": "gənəfalə",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕለ",
+          "t": "mäwaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ትካት",
+          "t": "təkatə",
+          "gl": ""
+        },
+        {
+          "g": "ለሊሆሙ",
+          "t": "lälihomu",
+          "gl": ""
+        },
+        {
+          "g": "ይሑሩ",
+          "t": "yəḥuru",
+          "gl": ""
+        },
+        {
+          "g": "ወያስተጋብኡ",
+          "t": "wäyasətägabəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ሐሠረ",
+          "t": "ḥäśärä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Ye shall no longer give straw to the people for brick-making as yesterday and the third day; but let them go themselves, and collect straw for themselves.",
+        "kjv": "Ye shall no more give the people straw to make brick, as heretofore: let them go and gather straw for themselves."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወአምጣነ ፡ ጥብዖቶሙ ፡ ዘይገብሩ ፡ ግንፋለ ፡ ከማሁ ፡ ይግበሩ ፡ ኵሎ ፡ ዕለተ ፡ ወአልቦ ፡ ዘታኅጽጽዎሙ ፡ ወኢምንተኒ\n                  ፡ ዓዲ ፡ እመ ፡ ኢወሰክምዎሙ ፡ እስመ ፡ ፅሩዓን ፡ ጸርኁ ፡ ወይቤሉ ፡ ንሑር ፡ ወንሠውዕ ፡ ለእግዚእ ፡ አምላክነ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአምጣነ",
+          "t": "wäʾäməṭanä",
+          "gl": ""
+        },
+        {
+          "g": "ጥብዖቶሙ",
+          "t": "ṭəbəʿotomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይገብሩ",
+          "t": "zäyəgäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ግንፋለ",
+          "t": "gənəfalä",
+          "gl": ""
+        },
+        {
+          "g": "ከማሁ",
+          "t": "kämahu",
+          "gl": ""
+        },
+        {
+          "g": "ይግበሩ",
+          "t": "yəgəbäru",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ዕለተ",
+          "t": "ʿəlätä",
+          "gl": ""
+        },
+        {
+          "g": "ወአልቦ",
+          "t": "wäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘታኅጽጽዎሙ",
+          "t": "zätaḫəṣəṣəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢምንተኒ",
+          "t": "wäʾimənətäni",
+          "gl": ""
+        },
+        {
+          "g": "ዓዲ",
+          "t": "ʿadi",
+          "gl": ""
+        },
+        {
+          "g": "እመ",
+          "t": "ʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኢወሰክምዎሙ",
+          "t": "ʾiwäsäkəməwomu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ፅሩዓን",
+          "t": "ṣ́əruʿanə",
+          "gl": ""
+        },
+        {
+          "g": "ጸርኁ",
+          "t": "ṣärəḫu",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሉ",
+          "t": "wäyəbelu",
+          "gl": ""
+        },
+        {
+          "g": "ንሑር",
+          "t": "nəḥurə",
+          "gl": ""
+        },
+        {
+          "g": "ወንሠውዕ",
+          "t": "wänəśäwəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚእ",
+          "t": "läʾəgəziʾə",
+          "gl": ""
+        },
+        {
+          "g": "አምላክነ",
+          "t": "ʾäməlakənä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And thou shalt impose on them daily the rate of brick-making which they perform: thou shalt not abate anything, for they are idle; therefore have they cried, saying, Let us arise and do sacrifice to our God.",
+        "kjv": "And the tale of the bricks, which they did make heretofore, ye shall lay upon them; ye shall not diminish ought thereof: for they be idle; therefore they cry, saying, Let us go and sacrifice to our God."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "አክብዱ ፡ ግብሮሙ ፡ ለዝንቱ ፡ ሰብእ ፡ ወዘንተ ፡ ይሔልዩ ፡ ወኢይሔልዩ ፡ ነገረ ፡ ዘኢይበቍዕ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "አክብዱ",
+          "t": "ʾäkəbədu",
+          "gl": ""
+        },
+        {
+          "g": "ግብሮሙ",
+          "t": "gəbəromu",
+          "gl": ""
+        },
+        {
+          "g": "ለዝንቱ",
+          "t": "läzənətu",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘንተ",
+          "t": "wäzänətä",
+          "gl": ""
+        },
+        {
+          "g": "ይሔልዩ",
+          "t": "yəḥeləyu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይሔልዩ",
+          "t": "wäʾiyəḥeləyu",
+          "gl": ""
+        },
+        {
+          "g": "ነገረ",
+          "t": "nägärä",
+          "gl": ""
+        },
+        {
+          "g": "ዘኢይበቍዕ",
+          "t": "zäʾiyəbäqwəʿə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Let the works of these men be made grievous, and let them care for these things, and not care for vain words.",
+        "kjv": "Let there more work be laid upon the men, that they may labour therein; and let them not regard vain words."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወአጐጕእዎሙ ፡ ነዳእተ ፡ ሕዝብ ፡ ወጸሐፍት ፡ ወይቤልዎሙ ፡ ለሕዝብ ፡ ከመዝ ፡ ይቤ ፡ ፈርዖን ፡ ኢንሁበክሙ ፡ እንከ ፡\n                  ኀሠረ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአጐጕእዎሙ",
+          "t": "wäʾägwägwəʾəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ነዳእተ",
+          "t": "nädaʾətä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ወጸሐፍት",
+          "t": "wäṣäḥäfətə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤልዎሙ",
+          "t": "wäyəbeləwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለሕዝብ",
+          "t": "läḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ከመዝ",
+          "t": "kämäzə",
+          "gl": ""
+        },
+        {
+          "g": "ይቤ",
+          "t": "yəbe",
+          "gl": ""
+        },
+        {
+          "g": "ፈርዖን",
+          "t": "färəʿonə",
+          "gl": ""
+        },
+        {
+          "g": "ኢንሁበክሙ",
+          "t": "ʾinəhubäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እንከ",
+          "t": "ʾənəkä",
+          "gl": ""
+        },
+        {
+          "g": "ኀሠረ",
+          "t": "ḫäśärä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the taskmasters and the accountants hastened them, and they spoke to the people, saying, Thus says Pharao, I will give you straw no longer.",
+        "kjv": "And the taskmasters of the people went out, and their officers, and they spake to the people, saying, Thus saith Pharaoh, I will not give you straw."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ለሊክሙ ፡ ሑሩ ፡ ወአስተጋብኡ ፡ ለክሙ ፡ ኀሠረ ፡ በኀበ ፡ ረከብክሙ ፡ ወአልቦ ፡ ዘያሐጸክሙ ፡ እምጥብዖትክሙ ፡\n                  ወኢምንተ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ለሊክሙ",
+          "t": "lälikəmu",
+          "gl": ""
+        },
+        {
+          "g": "ሑሩ",
+          "t": "ḥuru",
+          "gl": ""
+        },
+        {
+          "g": "ወአስተጋብኡ",
+          "t": "wäʾäsətägabəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ኀሠረ",
+          "t": "ḫäśärä",
+          "gl": ""
+        },
+        {
+          "g": "በኀበ",
+          "t": "bäḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ረከብክሙ",
+          "t": "räkäbəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወአልቦ",
+          "t": "wäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘያሐጸክሙ",
+          "t": "zäyaḥäṣäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እምጥብዖትክሙ",
+          "t": "ʾəməṭəbəʿotəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢምንተ",
+          "t": "wäʾimənətä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Go ye, yourselves, get for yourselves straw whencesoever ye can find it, for nothing is diminished from your rate.",
+        "kjv": "Go ye, get you straw where ye can find it: yet not ought of your work shall be diminished."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወተዘርወ ፡ ሕዝብ ፡ ውስተ ፡ ኵሉ ፡ ምድረ ፡ ግብጽ ፡ ከመ ፡ የአልዱ ፡ ሎሙ ፡ ብርዐ ፡ ለሐሠር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተዘርወ",
+          "t": "wätäzärəwä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ምድረ",
+          "t": "mədərä",
+          "gl": ""
+        },
+        {
+          "g": "ግብጽ",
+          "t": "gəbəṣə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "የአልዱ",
+          "t": "yäʾälədu",
+          "gl": ""
+        },
+        {
+          "g": "ሎሙ",
+          "t": "lomu",
+          "gl": ""
+        },
+        {
+          "g": "ብርዐ",
+          "t": "bərəʿä",
+          "gl": ""
+        },
+        {
+          "g": "ለሐሠር",
+          "t": "läḥäśärə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "So the people were dispersed in all the land of Egypt, to gather stubble for straw.",
+        "kjv": "So the people were scattered abroad throughout all the land of Egypt to gather stubble instead of straw."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወዝኩሰ ፡ ነዳእቶሙ ፡ ያጔጕእዎሙ ፡ ወይብልዎሙ ፡ ፈጽሙ ፡ ግብረክሙ ፡ ዘለለ ፡ ዕለትክሙ ፡ በከመ ፡ አመ ፡ ንሁበክሙ ፡\n                  ኀሠረ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዝኩሰ",
+          "t": "wäzəkusä",
+          "gl": ""
+        },
+        {
+          "g": "ነዳእቶሙ",
+          "t": "nädaʾətomu",
+          "gl": ""
+        },
+        {
+          "g": "ያጔጕእዎሙ",
+          "t": "yagwegwəʾəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ወይብልዎሙ",
+          "t": "wäyəbələwomu",
+          "gl": ""
+        },
+        {
+          "g": "ፈጽሙ",
+          "t": "fäṣəmu",
+          "gl": ""
+        },
+        {
+          "g": "ግብረክሙ",
+          "t": "gəbəräkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ዘለለ",
+          "t": "zälälä",
+          "gl": ""
+        },
+        {
+          "g": "ዕለትክሙ",
+          "t": "ʿəlätəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ንሁበክሙ",
+          "t": "nəhubäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ኀሠረ",
+          "t": "ḫäśärä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the taskmasters hastened them, saying, Fulfil your regular daily tasks, even as when straw was given you.",
+        "kjv": "And the taskmasters hasted them, saying, Fulfil your works, your daily tasks, as when there was straw."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወይ[ትቀሠ]ፉ ፡ ጸሐፍተ ፡ ነገዶሙ ፡ ለደቂቀ ፡ እስራኤል ፡ እለ ፡ ተሠይሙ ፡ ዲቤሆሙ ፡ በኀበ ፡ ዐበይተ ፡ ፈርዖን ፡\n                  ወይቤልዎሙ ፡ ለምንት ፡ ኢትፌጽሙ ፡ ጥብዖተክሙ ፡ ግንፋለ ፡ በከመ ፡ ትካት ፡ ዮምኒ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይትቀሠፉ",
+          "t": "wäyətəqäśäfu",
+          "gl": ""
+        },
+        {
+          "g": "ጸሐፍተ",
+          "t": "ṣäḥäfətä",
+          "gl": ""
+        },
+        {
+          "g": "ነገዶሙ",
+          "t": "nägädomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ተሠይሙ",
+          "t": "täśäyəmu",
+          "gl": ""
+        },
+        {
+          "g": "ዲቤሆሙ",
+          "t": "dibehomu",
+          "gl": ""
+        },
+        {
+          "g": "በኀበ",
+          "t": "bäḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ዐበይተ",
+          "t": "ʿäbäyətä",
+          "gl": ""
+        },
+        {
+          "g": "ፈርዖን",
+          "t": "färəʿonə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤልዎሙ",
+          "t": "wäyəbeləwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለምንት",
+          "t": "lämənətə",
+          "gl": ""
+        },
+        {
+          "g": "ኢትፌጽሙ",
+          "t": "ʾitəfeṣəmu",
+          "gl": ""
+        },
+        {
+          "g": "ጥብዖተክሙ",
+          "t": "ṭəbəʿotäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ግንፋለ",
+          "t": "gənəfalä",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ትካት",
+          "t": "təkatə",
+          "gl": ""
+        },
+        {
+          "g": "ዮምኒ",
+          "t": "yoməni",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the accountants of the race of the children of Israel, who were set over them by the masters of Pharao, were scourged, [and questioned,] men saying, Why have ye not fulfilled your rates of brick-work as yesterday and the third day, to-day also?",
+        "kjv": "And the officers of the children of Israel, which Pharaoh’s taskmasters had set over them, were beaten, and demanded, Wherefore have ye not fulfilled your task in making brick both yesterday and to day, as heretofore?"
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ወቦኡ ፡ ጸሐፍቶሙ ፡ ለደቂቀ ፡ እስራኤል ፡ ወአውየዉ ፡ ኀበ ፡ ፈርዖን ፡ ወይቤሉ ፡ ለምንት ፡ ከመዝ ፡ ትሬስዮሙ ፡\n                  ለአግብርቲከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወቦኡ",
+          "t": "wäboʾu",
+          "gl": ""
+        },
+        {
+          "g": "ጸሐፍቶሙ",
+          "t": "ṣäḥäfətomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወአውየዉ",
+          "t": "wäʾäwəyäwu",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ፈርዖን",
+          "t": "färəʿonə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሉ",
+          "t": "wäyəbelu",
+          "gl": ""
+        },
+        {
+          "g": "ለምንት",
+          "t": "lämənətə",
+          "gl": ""
+        },
+        {
+          "g": "ከመዝ",
+          "t": "kämäzə",
+          "gl": ""
+        },
+        {
+          "g": "ትሬስዮሙ",
+          "t": "təresəyomu",
+          "gl": ""
+        },
+        {
+          "g": "ለአግብርቲከ",
+          "t": "läʾägəbərətikä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the accountants of the children of Israel went in and cried to Pharao, saying, Why dost thou act thus to thy servants?",
+        "kjv": "Then the officers of the children of Israel came and cried unto Pharaoh, saying, Wherefore dealest thou thus with thy servants?"
+      }
+    },
+    {
+      "num": 16,
+      "geez": "ኀሥረ ፡ ኢይሁብዎሙ ፡ ለአግብርቲከ ፡ ወይቤልዎሙ ፡ ግበሩ ፡ ግንፋለ ፡ ወናሁ ፡ አግብርቲከ ፡ ይትቀሠፉ ፡ ወይትገፋዕ ፡\n                  ሕዝብከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኀሥረ",
+          "t": "ḫäśərä",
+          "gl": ""
+        },
+        {
+          "g": "ኢይሁብዎሙ",
+          "t": "ʾiyəhubəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለአግብርቲከ",
+          "t": "läʾägəbərətikä",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤልዎሙ",
+          "t": "wäyəbeləwomu",
+          "gl": ""
+        },
+        {
+          "g": "ግበሩ",
+          "t": "gəbäru",
+          "gl": ""
+        },
+        {
+          "g": "ግንፋለ",
+          "t": "gənəfalä",
+          "gl": ""
+        },
+        {
+          "g": "ወናሁ",
+          "t": "wänahu",
+          "gl": ""
+        },
+        {
+          "g": "አግብርቲከ",
+          "t": "ʾägəbərətikä",
+          "gl": ""
+        },
+        {
+          "g": "ይትቀሠፉ",
+          "t": "yətəqäśäfu",
+          "gl": ""
+        },
+        {
+          "g": "ወይትገፋዕ",
+          "t": "wäyətəgäfaʿə",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብከ",
+          "t": "ḥəzəbəkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Straw is not given to thy servants, and they tell us to make brick; and behold thy servants have been scourged: thou wilt therefore injure thy people.",
+        "kjv": "There is no straw given unto thy servants, and they say to us, Make brick: and, behold, thy servants are beaten; but the fault is in thine own people."
+      }
+    },
+    {
+      "num": 17,
+      "geez": "ወይቤሎሙ ፡ ዕሩፋን ፡ አንትሙ ፡ ወፅሩዓን ፡ ወበእንተ ፡ ዝንቱ ፡ ትብሉ ፡ ንሑር ፡ ወንሡዕ ፡ ለአምላክነ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎሙ",
+          "t": "wäyəbelomu",
+          "gl": ""
+        },
+        {
+          "g": "ዕሩፋን",
+          "t": "ʿərufanə",
+          "gl": ""
+        },
+        {
+          "g": "አንትሙ",
+          "t": "ʾänətəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወፅሩዓን",
+          "t": "wäṣ́əruʿanə",
+          "gl": ""
+        },
+        {
+          "g": "ወበእንተ",
+          "t": "wäbäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ትብሉ",
+          "t": "təbəlu",
+          "gl": ""
+        },
+        {
+          "g": "ንሑር",
+          "t": "nəḥurə",
+          "gl": ""
+        },
+        {
+          "g": "ወንሡዕ",
+          "t": "wänəśuʿə",
+          "gl": ""
+        },
+        {
+          "g": "ለአምላክነ",
+          "t": "läʾäməlakənä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he said to them, Ye are idle, ye are idlers: therefore ye say, Let us go and do sacrifice to our God.",
+        "kjv": "But he said, Ye are idle, ye are idle: therefore ye say, Let us go and do sacrifice to the LORD."
+      }
+    },
+    {
+      "num": 18,
+      "geez": "ይእዜሂ ፡ ሑሩ ፡ ወግበሩ ፡ ሐሠረሰ ፡ ኢይሁቡክሙ ፡ ወጥብዖተሰ ፡ ግንፋልክሙ ፡ ታግብኡ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ይእዜሂ",
+          "t": "yəʾəzehi",
+          "gl": ""
+        },
+        {
+          "g": "ሑሩ",
+          "t": "ḥuru",
+          "gl": ""
+        },
+        {
+          "g": "ወግበሩ",
+          "t": "wägəbäru",
+          "gl": ""
+        },
+        {
+          "g": "ሐሠረሰ",
+          "t": "ḥäśäräsä",
+          "gl": ""
+        },
+        {
+          "g": "ኢይሁቡክሙ",
+          "t": "ʾiyəhubukəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወጥብዖተሰ",
+          "t": "wäṭəbəʿotäsä",
+          "gl": ""
+        },
+        {
+          "g": "ግንፋልክሙ",
+          "t": "gənəfaləkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ታግብኡ",
+          "t": "tagəbəʾu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Now then go and work, for straw shall not be given to you, yet ye shall return the rate of bricks.",
+        "kjv": "Go therefore now, and work; for there shall no straw be given you, yet shall ye deliver the tale of bricks."
+      }
+    },
+    {
+      "num": 19,
+      "geez": "ወርእዩ ፡ ጸሐፍቶሙ ፡ ለደቂቀ ፡ እስራኤል ፡ ከመ ፡ በእከት ፡ ሀለዉ ፡ ወይቤሉ ፡ እምጥብዖትነሂ ፡ ዘለለ ፡ ዕለትነ ፡\n                  ኢየኀጸነ ፡ ግንፋል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወርእዩ",
+          "t": "wärəʾəyu",
+          "gl": ""
+        },
+        {
+          "g": "ጸሐፍቶሙ",
+          "t": "ṣäḥäfətomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "በእከት",
+          "t": "bäʾəkätə",
+          "gl": ""
+        },
+        {
+          "g": "ሀለዉ",
+          "t": "häläwu",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሉ",
+          "t": "wäyəbelu",
+          "gl": ""
+        },
+        {
+          "g": "እምጥብዖትነሂ",
+          "t": "ʾəməṭəbəʿotənähi",
+          "gl": ""
+        },
+        {
+          "g": "ዘለለ",
+          "t": "zälälä",
+          "gl": ""
+        },
+        {
+          "g": "ዕለትነ",
+          "t": "ʿəlätənä",
+          "gl": ""
+        },
+        {
+          "g": "ኢየኀጸነ",
+          "t": "ʾiyäḫäṣänä",
+          "gl": ""
+        },
+        {
+          "g": "ግንፋል",
+          "t": "gənəfalə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the accountants of the children of Israel saw themselves in an evil plight, men saying, Ye shall not fail to deliver the daily rate of the brick-making.",
+        "kjv": "And the officers of the children of Israel did see that they were in evil case, after it was said, Ye shall not minish ought from your bricks of your daily task."
+      }
+    },
+    {
+      "num": 20,
+      "geez": "ወተራከብዎሙ ፡ ለሙሴ ፡ ወለአሮን ፡ እንዘ ፡ ይመጽኡ ፡ ፀአቶሙ ፡ እምኀበ ፡ ፈርዖን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተራከብዎሙ",
+          "t": "wätärakäbəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ወለአሮን",
+          "t": "wäläʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ይመጽኡ",
+          "t": "yəmäṣəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ፀአቶሙ",
+          "t": "ṣ́äʾätomu",
+          "gl": ""
+        },
+        {
+          "g": "እምኀበ",
+          "t": "ʾəməḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ፈርዖን",
+          "t": "färəʿonə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they met Moses and Aaron coming forth to meet them, as they came forth from Pharao.",
+        "kjv": "And they met Moses and Aaron, who stood in the way, as they came forth from Pharaoh:"
+      }
+    },
+    {
+      "num": 21,
+      "geez": "ወይቤልዎሙ ፡ ይርአይ ፡ እግዚአብሔር ፡ ለነ ፡ ወይፍታሕ ፡ ከመ ፡ ገበርክምዎ ፡ ለፄናነ ፡ ሠቆራረ ፡ በቅድመ ፡ ፈርዖን\n                  ፡ ወበቅድመ ፡ ዐበይቱ ፡ ከመ ፡ ትመጥውዎ ፡ ሰይፈ ፡ ውስተ ፡ እዴሁ ፡ በዘ ፡ ይቀትለነ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤልዎሙ",
+          "t": "wäyəbeləwomu",
+          "gl": ""
+        },
+        {
+          "g": "ይርአይ",
+          "t": "yərəʾäyə",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለነ",
+          "t": "länä",
+          "gl": ""
+        },
+        {
+          "g": "ወይፍታሕ",
+          "t": "wäyəfətaḥə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ገበርክምዎ",
+          "t": "gäbärəkəməwo",
+          "gl": ""
+        },
+        {
+          "g": "ለፄናነ",
+          "t": "läṣ́enanä",
+          "gl": ""
+        },
+        {
+          "g": "ሠቆራረ",
+          "t": "śäqorarä",
+          "gl": ""
+        },
+        {
+          "g": "በቅድመ",
+          "t": "bäqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ፈርዖን",
+          "t": "färəʿonə",
+          "gl": ""
+        },
+        {
+          "g": "ወበቅድመ",
+          "t": "wäbäqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ዐበይቱ",
+          "t": "ʿäbäyətu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ትመጥውዎ",
+          "t": "təmäṭəwəwo",
+          "gl": ""
+        },
+        {
+          "g": "ሰይፈ",
+          "t": "säyəfä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        },
+        {
+          "g": "በዘ",
+          "t": "bäzä",
+          "gl": ""
+        },
+        {
+          "g": "ይቀትለነ",
+          "t": "yəqätəlänä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they said to them, The Lord look upon you and judge you, for ye have made our savour abominable before Pharao, and before his servants, to put a sword into his hands to slay us.",
+        "kjv": "And they said unto them, The LORD look upon you, and judge; because ye have made our savour to be abhorred in the eyes of Pharaoh, and in the eyes of his servants, to put a sword in their hand to slay us."
+      }
+    },
+    {
+      "num": 22,
+      "geez": "ወገብአ ፡ ሙሴ ፡ ኀበ ፡ እግዚእ ፡ ወይቤ ፡ እግዚኦ ፡ ለምንት ፡ አሕሠምከ ፡ በዝ ፡ ሕዝብ ፡ ወለምንት ፡ ፈኖከኒ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወገብአ",
+          "t": "wägäbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚእ",
+          "t": "ʾəgəziʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "እግዚኦ",
+          "t": "ʾəgəziʾo",
+          "gl": ""
+        },
+        {
+          "g": "ለምንት",
+          "t": "lämənətə",
+          "gl": ""
+        },
+        {
+          "g": "አሕሠምከ",
+          "t": "ʾäḥəśäməkä",
+          "gl": ""
+        },
+        {
+          "g": "በዝ",
+          "t": "bäzə",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ወለምንት",
+          "t": "wälämənətə",
+          "gl": ""
+        },
+        {
+          "g": "ፈኖከኒ",
+          "t": "fänokäni",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Moses turned to the Lord, and said, I pray, Lord, why hast thou afflicted this people? and wherefore hast thou sent me?",
+        "kjv": "And Moses returned unto the LORD, and said, LORD, wherefore hast thou so evil entreated this people? why is it that thou hast sent me?"
+      }
+    },
+    {
+      "num": 23,
+      "geez": "እምአመ ፡ ሖርኩ ፡ ኀበ ፡ ፈርዖን ፡ እንግሮ ፡ በቃልከ ፡ አሕሠመ ፡ በሕዝብከ ፡ ወኢያድኀንካሁ ፡ ለዝ ፡ ሕዝብ\n                  ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እምአመ",
+          "t": "ʾəməʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ሖርኩ",
+          "t": "ḥorəku",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ፈርዖን",
+          "t": "färəʿonə",
+          "gl": ""
+        },
+        {
+          "g": "እንግሮ",
+          "t": "ʾənəgəro",
+          "gl": ""
+        },
+        {
+          "g": "በቃልከ",
+          "t": "bäqaləkä",
+          "gl": ""
+        },
+        {
+          "g": "አሕሠመ",
+          "t": "ʾäḥəśämä",
+          "gl": ""
+        },
+        {
+          "g": "በሕዝብከ",
+          "t": "bäḥəzəbəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢያድኀንካሁ",
+          "t": "wäʾiyadəḫänəkahu",
+          "gl": ""
+        },
+        {
+          "g": "ለዝ",
+          "t": "läzə",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For from the time that I went to Pharao to speak in thy name, he has afflicted this people, and thou hast not delivered thy people.",
+        "kjv": "For since I came to Pharaoh to speak in thy name, he hath done evil to this people; neither hast thou delivered thy people at all."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

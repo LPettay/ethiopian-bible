@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Ethiopic:wght@400;600;700&family=Inter:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-bg: #121210;
+  --color-surface: #1e1e1a;
+  --color-surface-raised: #2a2a24;
+  --color-surface-hover: #33332c;
+  --color-text: #e0ddd4;
+  --color-text-muted: #8a8878;
+  --color-text-faint: #5a5848;
+  --color-geez: #f5eedc;
+  --color-translit: #a89880;
+  --color-gloss: #c8b89a;
+  --color-accent: #d4a843;
+  --color-accent-dim: rgba(212, 168, 67, 0.15);
+  --color-accent-bright: #e6be5a;
+  --color-lxx: #7cb87c;
+  --color-lxx-bg: rgba(124, 184, 124, 0.06);
+  --color-lxx-border: rgba(124, 184, 124, 0.4);
+  --color-mt: #c76b6b;
+  --color-mt-bg: rgba(199, 107, 107, 0.06);
+  --color-mt-border: rgba(199, 107, 107, 0.4);
+  --color-border: rgba(212, 168, 67, 0.1);
+  --color-border-strong: rgba(212, 168, 67, 0.2);
+  --font-geez: "Noto Sans Ethiopic", "Abyssinica SIL", serif;
+  --font-body: "Inter", system-ui, sans-serif;
+}
+
+body {
+  font-family: var(--font-body);
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  -webkit-font-smoothing: antialiased;
+  margin: 0;
+}
+
+#root {
+  min-height: 100svh;
+  display: flex;
+  flex-direction: column;
+}
+
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--color-bg); }
+::-webkit-scrollbar-thumb { background: #3d3d30; border-radius: 3px; }
+* { scrollbar-width: thin; scrollbar-color: #3d3d30 var(--color-bg); }
+
+/* Skip-to-content link */
+.skip-to-content {
+  position: absolute;
+  left: -9999px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  z-index: 100;
+}
+.skip-to-content:focus {
+  position: fixed;
+  top: 8px;
+  left: 8px;
+  width: auto;
+  height: auto;
+  padding: 0.75rem 1.25rem;
+  background: var(--color-accent);
+  color: var(--color-bg);
+  font-weight: 600;
+  font-size: 0.875rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+  z-index: 100;
+}
+
+/* Animations */
+@keyframes fade-in {
+  from { opacity: 0; transform: translateX(-50%) translateY(4px); }
+  to { opacity: 1; transform: translateX(-50%) translateY(0); }
+}
+
+.animate-fade-in {
+  animation: fade-in 0.15s ease-out;
+}
+
+@keyframes chapter-fade-in {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-chapter-in {
+  animation: chapter-fade-in 0.3s ease-out;
+}
+
+/* Loading skeleton shimmer */
+@keyframes shimmer {
+  0% { background-position: -400px 0; }
+  100% { background-position: 400px 0; }
+}
+
+.skeleton-line {
+  height: 1em;
+  border-radius: 0.25rem;
+  background: linear-gradient(90deg, var(--color-surface) 25%, var(--color-surface-raised) 50%, var(--color-surface) 75%);
+  background-size: 800px 100%;
+  animation: shimmer 1.5s ease-in-out infinite;
+}

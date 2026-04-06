@@ -1,0 +1,2791 @@
+{
+  "book": "Lev",
+  "chapter": 15,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወይቤሎሙ ፡ እግዚአብሔር ፡ ለሙሴ ፡ ወለአሮን ፡ እንዘ ፡ ይብል ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎሙ",
+          "t": "wäyəbelomu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ወለአሮን",
+          "t": "wäläʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ይብል",
+          "t": "yəbələ",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord spoke to Moses and Aaron, saying,",
+        "kjv": "And the LORD spake unto Moses and to Aaron, saying,"
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ንግርዎሙ ፡ ለደቂቀ ፡ እስራኤል ፡ ወበልዎሙ ፡ ብእሲ ፡ ብእሲ ፡ እመቦ ፡ ዘይትከዐዎ ፡ ርኩስ ፡ ውእቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ንግርዎሙ",
+          "t": "nəgərəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወበልዎሙ",
+          "t": "wäbäləwomu",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "እመቦ",
+          "t": "ʾəmäbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘይትከዐዎ",
+          "t": "zäyətəkäʿäwo",
+          "gl": ""
+        },
+        {
+          "g": "ርኩስ",
+          "t": "rəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Speak to the children of Israel, and thou shalt say to them, Whatever man shall have an issue out of his body, his issue is unclean.",
+        "kjv": "Speak unto the children of Israel, and say unto them, When any man hath a running issue out of his flesh, because of his issue he is unclean."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወዝንቱ ፡ ውእቱ ፡ ሕጉ ፡ ርኩስ ፡ ለዘይትከዐዎ ፡ ዘርኡ ፡ እምነፍስቱ ፡ ወነበረ ፡ ከማሁ ፡ ውስተ ፡ ነፍስቱ ፡ ውእቱ\n                  ፡ ዘይትከዐዎ ፡ ውእቱ ፡ ርኩስ ፡ ዘላዕሌሁ ፡ ኵሎ ፡ መዋዕለ ፡ ዘነበረ ፡ እንዘ ፡ ይትከዐዎ ፡ እምነፍስቱ ፡ ውእቱ ፡\n                  ዘይትከዐዎ ፡ ውእቱ ፡ ያረኵሶ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዝንቱ",
+          "t": "wäzənətu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ሕጉ",
+          "t": "ḥəgu",
+          "gl": ""
+        },
+        {
+          "g": "ርኩስ",
+          "t": "rəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ለዘይትከዐዎ",
+          "t": "läzäyətəkäʿäwo",
+          "gl": ""
+        },
+        {
+          "g": "ዘርኡ",
+          "t": "zärəʾu",
+          "gl": ""
+        },
+        {
+          "g": "እምነፍስቱ",
+          "t": "ʾəmənäfəsətu",
+          "gl": ""
+        },
+        {
+          "g": "ወነበረ",
+          "t": "wänäbärä",
+          "gl": ""
+        },
+        {
+          "g": "ከማሁ",
+          "t": "kämahu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ነፍስቱ",
+          "t": "näfəsətu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይትከዐዎ",
+          "t": "zäyətəkäʿäwo",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ርኩስ",
+          "t": "rəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ዘላዕሌሁ",
+          "t": "zälaʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕለ",
+          "t": "mäwaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ዘነበረ",
+          "t": "zänäbärä",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ይትከዐዎ",
+          "t": "yətəkäʿäwo",
+          "gl": ""
+        },
+        {
+          "g": "እምነፍስቱ",
+          "t": "ʾəmənäfəsətu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይትከዐዎ",
+          "t": "zäyətəkäʿäwo",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ያረኵሶ",
+          "t": "yaräkwəso",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And this is the law of his uncleanness; whoever has a gonorrhœa out of his body, this is his uncleanness in him by reason of the issue, by which his body is affected through the issue: all the days of the issue of his body, by which his body is affected through the issue, there is his uncleanness.",
+        "kjv": "And this shall be his uncleanness in his issue: whether his flesh run with his issue, or his flesh be stopped from his issue, it is his uncleanness."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ኵሉ ፡ ዐራት ፡ እንተ ፡ ላዕሌሃ ፡ ሰከበ ፡ ርኵስት ፡ ይእቲ ፡ [ወኵሉ ፡ ንዋይ ፡ ዘነበረ ፡ ላዕሌሁ ፡ ይረኵስ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዐራት",
+          "t": "ʿäratə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሃ",
+          "t": "laʿəleha",
+          "gl": ""
+        },
+        {
+          "g": "ሰከበ",
+          "t": "säkäbä",
+          "gl": ""
+        },
+        {
+          "g": "ርኵስት",
+          "t": "rəkwəsətə",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ንዋይ",
+          "t": "nəwayə",
+          "gl": ""
+        },
+        {
+          "g": "ዘነበረ",
+          "t": "zänäbärä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ይረኵስ",
+          "t": "yəräkwəsə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Every bed on which he that has the issue shall happen to lie, is unclean; and every seat on which he that has the issue may happen to sit, shall be unclean.",
+        "kjv": "Every bed, whereon he lieth that hath the issue, is unclean: and every thing, whereon he sitteth, shall be unclean."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "] ወእመቦ ፡ ሰብእ ፡ ዘገሰሰ ፡ ዐራቶ ፡ የኀፅብ ፡ አልባሲሁ ፡ ወይትኀፀብ ፡ ሥጋሁኒ ፡ በማይ ፡ ወርኩስ ፡ ውእቱ ፡\n                  እስከ ፡ ሰርክ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመቦ",
+          "t": "wäʾəmäbo",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ዘገሰሰ",
+          "t": "zägäsäsä",
+          "gl": ""
+        },
+        {
+          "g": "ዐራቶ",
+          "t": "ʿärato",
+          "gl": ""
+        },
+        {
+          "g": "የኀፅብ",
+          "t": "yäḫäṣ́əbə",
+          "gl": ""
+        },
+        {
+          "g": "አልባሲሁ",
+          "t": "ʾäləbasihu",
+          "gl": ""
+        },
+        {
+          "g": "ወይትኀፀብ",
+          "t": "wäyətəḫäṣ́äbə",
+          "gl": ""
+        },
+        {
+          "g": "ሥጋሁኒ",
+          "t": "śəgahuni",
+          "gl": ""
+        },
+        {
+          "g": "በማይ",
+          "t": "bämayə",
+          "gl": ""
+        },
+        {
+          "g": "ወርኩስ",
+          "t": "wärəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ሰርክ",
+          "t": "särəkə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the man who shall touch his bed, shall wash his garments, and bathe himself in water, and shall be unclean till evening.",
+        "kjv": "And whosoever toucheth his bed shall wash his clothes, and bathe himself in water, and be unclean until the even."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወዘነበረኒ ፡ ላዕለ ፡ ንዋይ ፡ ዘውእቱ ፡ ነበረ ፡ ላዕሌሁ ፡ የኀፅብ ፡ አልባሲሁ ፡ ወይትኀፀብ ፡ በማይ ፡ ወርኩስ ፡\n                  ውእቱ ፡ እስከ ፡ ሰርክ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዘነበረኒ",
+          "t": "wäzänäbäräni",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ንዋይ",
+          "t": "nəwayə",
+          "gl": ""
+        },
+        {
+          "g": "ዘውእቱ",
+          "t": "zäwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ነበረ",
+          "t": "näbärä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "የኀፅብ",
+          "t": "yäḫäṣ́əbə",
+          "gl": ""
+        },
+        {
+          "g": "አልባሲሁ",
+          "t": "ʾäləbasihu",
+          "gl": ""
+        },
+        {
+          "g": "ወይትኀፀብ",
+          "t": "wäyətəḫäṣ́äbə",
+          "gl": ""
+        },
+        {
+          "g": "በማይ",
+          "t": "bämayə",
+          "gl": ""
+        },
+        {
+          "g": "ወርኩስ",
+          "t": "wärəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ሰርክ",
+          "t": "särəkə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And whosoever sits on the seat on which he that has the issue may have sat, shall wash his garments, and bathe himself in water, and shall be unclean until evening.",
+        "kjv": "And he that sitteth on any thing whereon he sat that hath the issue shall wash his clothes, and bathe himself in water, and be unclean until the even."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "[ወዘገሰሶኒ ፡ ለውእቱ ፡ ዘይትከዐው ፡ ዘርኡ ፡ የኀፅብ ፡ አልባሲሁ ፡ ወይትኀፀብ ፡ ሥጋሁ ፡ በማይ ፡ ወርኩስ ፡ ውእቱ\n                  ፡ እስከ ፡ ሰርክ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዘገሰሶኒ",
+          "t": "wäzägäsäsoni",
+          "gl": ""
+        },
+        {
+          "g": "ለውእቱ",
+          "t": "läwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይትከዐው",
+          "t": "zäyətəkäʿäwə",
+          "gl": ""
+        },
+        {
+          "g": "ዘርኡ",
+          "t": "zärəʾu",
+          "gl": ""
+        },
+        {
+          "g": "የኀፅብ",
+          "t": "yäḫäṣ́əbə",
+          "gl": ""
+        },
+        {
+          "g": "አልባሲሁ",
+          "t": "ʾäləbasihu",
+          "gl": ""
+        },
+        {
+          "g": "ወይትኀፀብ",
+          "t": "wäyətəḫäṣ́äbə",
+          "gl": ""
+        },
+        {
+          "g": "ሥጋሁ",
+          "t": "śəgahu",
+          "gl": ""
+        },
+        {
+          "g": "በማይ",
+          "t": "bämayə",
+          "gl": ""
+        },
+        {
+          "g": "ወርኩስ",
+          "t": "wärəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ሰርክ",
+          "t": "särəkə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he that touches the skin of him that has the issue, shall wash his garments and bathe himself in water, and shall be unclean till evening.",
+        "kjv": "And he that toucheth the flesh of him that hath the issue shall wash his clothes, and bathe himself in water, and be unclean until the even."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "] ወእመቦኒ ፡ ዘላዕሌሁ ፡ ወረቀ ፡ ዲበ ፡ ዘንጹሕ ፡ የኀፅብ ፡ አልባሲሁ ፡ ወይትኀፀብ ፡ በማይ ፡ ወርኩስ ፡ ውእቱ ፡\n                  እስከ ፡ ሰርክ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመቦኒ",
+          "t": "wäʾəmäboni",
+          "gl": ""
+        },
+        {
+          "g": "ዘላዕሌሁ",
+          "t": "zälaʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ወረቀ",
+          "t": "wäräqä",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "ዘንጹሕ",
+          "t": "zänəṣuḥə",
+          "gl": ""
+        },
+        {
+          "g": "የኀፅብ",
+          "t": "yäḫäṣ́əbə",
+          "gl": ""
+        },
+        {
+          "g": "አልባሲሁ",
+          "t": "ʾäləbasihu",
+          "gl": ""
+        },
+        {
+          "g": "ወይትኀፀብ",
+          "t": "wäyətəḫäṣ́äbə",
+          "gl": ""
+        },
+        {
+          "g": "በማይ",
+          "t": "bämayə",
+          "gl": ""
+        },
+        {
+          "g": "ወርኩስ",
+          "t": "wärəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ሰርክ",
+          "t": "särəkə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if he that has the issue should spit upon one that is clean, that person shall wash his garments, and bathe himself in water, and be unclean until evening.",
+        "kjv": "And if he that hath the issue spit upon him that is clean; then he shall wash his clothes, and bathe himself in water, and be unclean until the even."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወኵሉ ፡ ሕንባላት ፡ ዘላዕሌሁ ፡ ነበረ ፡ ርኩስ ፡ ውእቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ሕንባላት",
+          "t": "ḥənəbalatə",
+          "gl": ""
+        },
+        {
+          "g": "ዘላዕሌሁ",
+          "t": "zälaʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ነበረ",
+          "t": "näbärä",
+          "gl": ""
+        },
+        {
+          "g": "ርኩስ",
+          "t": "rəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And every ass's saddle, on which the man with the issue shall have mounted, shall be unclean till evening.",
+        "kjv": "And what saddle soever he rideth upon that hath the issue shall be unclean."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወኵሉ ፡ ዘገሰሰ ፡ እምኵሉ ፡ ዘነበረ ፡ ላዕሌሁ ፡ ርኩስ ፡ ውእቱ ፡ እስከ ፡ ሰርክ ፡ ወዘርእዮኒ ፡ የኀፅብ ፡ አልባሲሁ\n                  ፡ ወይትኀፀብ ፡ ሥጋሁ ፡ በማይ ፡ ወርኩስ ፡ ውእቱ ፡ እስከ ፡ ሰርክ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘገሰሰ",
+          "t": "zägäsäsä",
+          "gl": ""
+        },
+        {
+          "g": "እምኵሉ",
+          "t": "ʾəməkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘነበረ",
+          "t": "zänäbärä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ርኩስ",
+          "t": "rəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ሰርክ",
+          "t": "särəkə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘርእዮኒ",
+          "t": "wäzärəʾəyoni",
+          "gl": ""
+        },
+        {
+          "g": "የኀፅብ",
+          "t": "yäḫäṣ́əbə",
+          "gl": ""
+        },
+        {
+          "g": "አልባሲሁ",
+          "t": "ʾäləbasihu",
+          "gl": ""
+        },
+        {
+          "g": "ወይትኀፀብ",
+          "t": "wäyətəḫäṣ́äbə",
+          "gl": ""
+        },
+        {
+          "g": "ሥጋሁ",
+          "t": "śəgahu",
+          "gl": ""
+        },
+        {
+          "g": "በማይ",
+          "t": "bämayə",
+          "gl": ""
+        },
+        {
+          "g": "ወርኩስ",
+          "t": "wärəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ሰርክ",
+          "t": "särəkə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And every one that touches whatsoever shall have been under him shall be unclean until evening; and he that takes them up shall wash his garments, and bathe himself in water, and shall be unclean until evening.",
+        "kjv": "And whosoever toucheth any thing that was under him shall be unclean until the even: and he that beareth any of those things shall wash his clothes, and bathe himself in water, and be unclean until the even."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወለዘ ፡ ገሰሰኒ ፡ ውእቱ ፡ ዘይትከዐዎ ፡ ዘርኡ ፡ እንበለ ፡ ይትኀፀባ ፡ እደዊሁ ፡ የኀፅብ ፡ አልባሲሁ ፡ ወይትኀፀብ ፡\n                  ሥጋሁ ፡ በማይ ፡ ወርኩስ ፡ ውእቱ ፡ እስከ ፡ ሰርክ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለዘ",
+          "t": "wäläzä",
+          "gl": ""
+        },
+        {
+          "g": "ገሰሰኒ",
+          "t": "gäsäsäni",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይትከዐዎ",
+          "t": "zäyətəkäʿäwo",
+          "gl": ""
+        },
+        {
+          "g": "ዘርኡ",
+          "t": "zärəʾu",
+          "gl": ""
+        },
+        {
+          "g": "እንበለ",
+          "t": "ʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "ይትኀፀባ",
+          "t": "yətəḫäṣ́äba",
+          "gl": ""
+        },
+        {
+          "g": "እደዊሁ",
+          "t": "ʾədäwihu",
+          "gl": ""
+        },
+        {
+          "g": "የኀፅብ",
+          "t": "yäḫäṣ́əbə",
+          "gl": ""
+        },
+        {
+          "g": "አልባሲሁ",
+          "t": "ʾäləbasihu",
+          "gl": ""
+        },
+        {
+          "g": "ወይትኀፀብ",
+          "t": "wäyətəḫäṣ́äbə",
+          "gl": ""
+        },
+        {
+          "g": "ሥጋሁ",
+          "t": "śəgahu",
+          "gl": ""
+        },
+        {
+          "g": "በማይ",
+          "t": "bämayə",
+          "gl": ""
+        },
+        {
+          "g": "ወርኩስ",
+          "t": "wärəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ሰርክ",
+          "t": "särəkə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And whomsoever he that has the issue shall touch, if he have not rinsed his hands in water, he shall wash his garments, and bathe his body in water, and shall be unclean until evening.",
+        "kjv": "And whomsoever he toucheth that hath the issue, and hath not rinsed his hands in water, he shall wash his clothes, and bathe himself in water, and be unclean until the even."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወኵሉ ፡ ንዋየ ፡ ልሕኵት ፡ ዘውእቱ ፡ ገሰሰ ፡ ይሰብርዎ ፡ ወለንዋየ ፡ ዕፅሰ ፡ የኀፅብዎ ፡ በማይ ፡ ወንጹሐ ፡ ይከውን\n                  ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ንዋየ",
+          "t": "nəwayä",
+          "gl": ""
+        },
+        {
+          "g": "ልሕኵት",
+          "t": "ləḥəkwətə",
+          "gl": ""
+        },
+        {
+          "g": "ዘውእቱ",
+          "t": "zäwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ገሰሰ",
+          "t": "gäsäsä",
+          "gl": ""
+        },
+        {
+          "g": "ይሰብርዎ",
+          "t": "yəsäbərəwo",
+          "gl": ""
+        },
+        {
+          "g": "ወለንዋየ",
+          "t": "wälänəwayä",
+          "gl": ""
+        },
+        {
+          "g": "ዕፅሰ",
+          "t": "ʿəṣ́əsä",
+          "gl": ""
+        },
+        {
+          "g": "የኀፅብዎ",
+          "t": "yäḫäṣ́əbəwo",
+          "gl": ""
+        },
+        {
+          "g": "በማይ",
+          "t": "bämayə",
+          "gl": ""
+        },
+        {
+          "g": "ወንጹሐ",
+          "t": "wänəṣuḥä",
+          "gl": ""
+        },
+        {
+          "g": "ይከውን",
+          "t": "yəkäwənə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the earthen vessel which he that has the issue shall happen to touch, shall be broken; and a wooden vessel shall be washed with water, and shall be clean.",
+        "kjv": "And the vessel of earth, that he toucheth which hath the issue, shall be broken: and every vessel of wood shall be rinsed in water."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወእመሰ ፡ ኀደጎ ፡ ውእቱ ፡ ዘይትከዐዎ ፡ ይኌልቁ ፡ ሎቱ ፡ ሰቡዐ ፡ መዋዕለ ፡ ለአንጽሖቱ ፡ ወየኀፅብ ፡ አልባሲሁ ፡\n                  ወይትኀፀብ ፡ ሥጋሁ ፡ በማይ ፡ ጥዑም ፡ ወንጹሐ ፡ ይከውን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "ኀደጎ",
+          "t": "ḫädägo",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይትከዐዎ",
+          "t": "zäyətəkäʿäwo",
+          "gl": ""
+        },
+        {
+          "g": "ይኌልቁ",
+          "t": "yəḫweləqu",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ሰቡዐ",
+          "t": "säbuʿä",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕለ",
+          "t": "mäwaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ለአንጽሖቱ",
+          "t": "läʾänəṣəḥotu",
+          "gl": ""
+        },
+        {
+          "g": "ወየኀፅብ",
+          "t": "wäyäḫäṣ́əbə",
+          "gl": ""
+        },
+        {
+          "g": "አልባሲሁ",
+          "t": "ʾäləbasihu",
+          "gl": ""
+        },
+        {
+          "g": "ወይትኀፀብ",
+          "t": "wäyətəḫäṣ́äbə",
+          "gl": ""
+        },
+        {
+          "g": "ሥጋሁ",
+          "t": "śəgahu",
+          "gl": ""
+        },
+        {
+          "g": "በማይ",
+          "t": "bämayə",
+          "gl": ""
+        },
+        {
+          "g": "ጥዑም",
+          "t": "ṭəʿumə",
+          "gl": ""
+        },
+        {
+          "g": "ወንጹሐ",
+          "t": "wänəṣuḥä",
+          "gl": ""
+        },
+        {
+          "g": "ይከውን",
+          "t": "yəkäwənə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if he that has the issue should be cleansed of his issue, then shall he number to himself seven days for his purification; and he shall wash his garments, and bathe his body in water, and shall be clean.",
+        "kjv": "And when he that hath an issue is cleansed of his issue; then he shall number to himself seven days for his cleansing, and wash his clothes, and bathe his flesh in running water, and shall be clean."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "በሳምንት ፡ ዕለት ፡ ይነሥእ ፡ ሎቱ ፡ ክልኤ ፡ መዓንቀ ፡ አው ፡ ክልኤ ፡ እጕለ ፡ ርግብ ፡ ወያመጽእ ፡ ቅድመ ፡\n                  እግዚአብሔር ፡ ኀበ ፡ ኆኅተ ፡ ደብተራ ፡ ዘመርጡል ፡ ወይሁቦ ፡ ለካህን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "በሳምንት",
+          "t": "bäsamənətə",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "ይነሥእ",
+          "t": "yənäśəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ክልኤ",
+          "t": "kələʾe",
+          "gl": ""
+        },
+        {
+          "g": "መዓንቀ",
+          "t": "mäʿanəqä",
+          "gl": ""
+        },
+        {
+          "g": "አው",
+          "t": "ʾäwə",
+          "gl": ""
+        },
+        {
+          "g": "ክልኤ",
+          "t": "kələʾe",
+          "gl": ""
+        },
+        {
+          "g": "እጕለ",
+          "t": "ʾəgwəlä",
+          "gl": ""
+        },
+        {
+          "g": "ርግብ",
+          "t": "rəgəbə",
+          "gl": ""
+        },
+        {
+          "g": "ወያመጽእ",
+          "t": "wäyamäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ኆኅተ",
+          "t": "ḫoḫətä",
+          "gl": ""
+        },
+        {
+          "g": "ደብተራ",
+          "t": "däbətära",
+          "gl": ""
+        },
+        {
+          "g": "ዘመርጡል",
+          "t": "zämärəṭulə",
+          "gl": ""
+        },
+        {
+          "g": "ወይሁቦ",
+          "t": "wäyəhubo",
+          "gl": ""
+        },
+        {
+          "g": "ለካህን",
+          "t": "läkahənə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And on the eighth day he shall take to himself two turtle-doves or two young pigeons, and he shall bring them before the Lord to the doors of the tabernacle of witness, and shall give them to the priest.",
+        "kjv": "And on the eighth day he shall take to him two turtledoves, or two young pigeons, and come before the LORD unto the door of the tabernacle of the congregation, and give them unto the priest:"
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ወይገብሮ ፡ ካህን ፡ አሐተ ፡ በእንተ ፡ ኀጢአት ፡ ወአሐተ ፡ ለመሥዋዕት ፡ ወያስተሰሪ ፡ ሎቱ ፡ ካህን ፡ ቅድመ ፡\n                  እግዚአብሔር ፡ በእንተ ፡ ውእቱ ፡ ዘተክዕዎ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይገብሮ",
+          "t": "wäyəgäbəro",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "አሐተ",
+          "t": "ʾäḥätä",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአት",
+          "t": "ḫäṭiʾätə",
+          "gl": ""
+        },
+        {
+          "g": "ወአሐተ",
+          "t": "wäʾäḥätä",
+          "gl": ""
+        },
+        {
+          "g": "ለመሥዋዕት",
+          "t": "lämäśəwaʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ወያስተሰሪ",
+          "t": "wäyasətäsäri",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘተክዕዎ",
+          "t": "zätäkəʿəwo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the priest shall offer them one for a sin-offering, and the other for a whole-burnt-offering; and the priest shall make atonement for him before the Lord for his issue.",
+        "kjv": "And the priest shall offer them, the one for a sin offering, and the other for a burnt offering; and the priest shall make an atonement for him before the LORD for his issue."
+      }
+    },
+    {
+      "num": 16,
+      "geez": "ወእመቦ ፡ ብእሲ ፡ ዘሰክበ ፡ ምስለ ፡ ብእሲት ፡ ይትኀፀብ ፡ በማይ ፡ ኵሎ ፡ ሥጋሁ ፡ ወሥኡብ ፡ ውእቱ ፡ እስከ ፡\n                  ሰርክ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመቦ",
+          "t": "wäʾəmäbo",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ዘሰክበ",
+          "t": "zäsäkəbä",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲት",
+          "t": "bəʾəsitə",
+          "gl": ""
+        },
+        {
+          "g": "ይትኀፀብ",
+          "t": "yətəḫäṣ́äbə",
+          "gl": ""
+        },
+        {
+          "g": "በማይ",
+          "t": "bämayə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ሥጋሁ",
+          "t": "śəgahu",
+          "gl": ""
+        },
+        {
+          "g": "ወሥኡብ",
+          "t": "wäśəʾubə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ሰርክ",
+          "t": "särəkə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the man whose seed of copulation shall happen to go forth from him, shall then wash his whole body, and shall be unclean until evening.",
+        "kjv": "And if any man’s seed of copulation go out from him, then he shall wash all his flesh in water, and be unclean until the even."
+      }
+    },
+    {
+      "num": 17,
+      "geez": "ወኵሉ ፡ ልብስ ፡ ወኵላ ፡ ማእስ ፡ ዘበጽሐ ፡ ዝኔት ፡ የኀፅብዎ ፡ በማይ ፡ ወርኩሰ ፡ ውእቱ ፡ እስከ ፡ ሰርክ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ልብስ",
+          "t": "ləbəsə",
+          "gl": ""
+        },
+        {
+          "g": "ወኵላ",
+          "t": "wäkwəla",
+          "gl": ""
+        },
+        {
+          "g": "ማእስ",
+          "t": "maʾəsə",
+          "gl": ""
+        },
+        {
+          "g": "ዘበጽሐ",
+          "t": "zäbäṣəḥä",
+          "gl": ""
+        },
+        {
+          "g": "ዝኔት",
+          "t": "zənetə",
+          "gl": ""
+        },
+        {
+          "g": "የኀፅብዎ",
+          "t": "yäḫäṣ́əbəwo",
+          "gl": ""
+        },
+        {
+          "g": "በማይ",
+          "t": "bämayə",
+          "gl": ""
+        },
+        {
+          "g": "ወርኩሰ",
+          "t": "wärəkusä",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ሰርክ",
+          "t": "särəkə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And every garment, and every skin on which there shall be the seed of copulation shall both be washed with water, and be unclean until evening.",
+        "kjv": "And every garment, and every skin, whereon is the seed of copulation, shall be washed with water, and be unclean until the even."
+      }
+    },
+    {
+      "num": 18,
+      "geez": "ወብእሲትኒ ፡ እመ ፡ ሰክበት ፡ ምስለ ፡ ብእሲ ፡ ይትኀፀቡ ፡ በማይ ፡ ወሥኡባን ፡ እሙንቱ ፡ እስከ ፡ ሰርክ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወብእሲትኒ",
+          "t": "wäbəʾəsitəni",
+          "gl": ""
+        },
+        {
+          "g": "እመ",
+          "t": "ʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ሰክበት",
+          "t": "säkəbätə",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ይትኀፀቡ",
+          "t": "yətəḫäṣ́äbu",
+          "gl": ""
+        },
+        {
+          "g": "በማይ",
+          "t": "bämayə",
+          "gl": ""
+        },
+        {
+          "g": "ወሥኡባን",
+          "t": "wäśəʾubanə",
+          "gl": ""
+        },
+        {
+          "g": "እሙንቱ",
+          "t": "ʾəmunətu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ሰርክ",
+          "t": "särəkə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And a woman, if a man shall lie with her with seed of copulation—they shall both bathe themselves in water and shall be unclean until evening.",
+        "kjv": "The woman also with whom man shall lie with seed of copulation, they shall both bathe themselves in water, and be unclean until the even."
+      }
+    },
+    {
+      "num": 19,
+      "geez": "ወእመቦ ፡ ብእሲተ ፡ እንተ ፡ ይትከዐዋ ፡ ደም ፡ ወነበረ ፡ እንዘ ፡ ይትከዐዋ ፡ እምነፍስታ ፡ ሰቡዕ ፡ መዋዕል ፡ ውእቱ\n                  ፡ ዘትክቶሃ ፡ ኵሉ ፡ ዘገሰሰ ፡ ርኩስ ፡ ውእቱ ፡ እስከ ፡ ሰርክ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመቦ",
+          "t": "wäʾəmäbo",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲተ",
+          "t": "bəʾəsitä",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ይትከዐዋ",
+          "t": "yətəkäʿäwa",
+          "gl": ""
+        },
+        {
+          "g": "ደም",
+          "t": "dämə",
+          "gl": ""
+        },
+        {
+          "g": "ወነበረ",
+          "t": "wänäbärä",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ይትከዐዋ",
+          "t": "yətəkäʿäwa",
+          "gl": ""
+        },
+        {
+          "g": "እምነፍስታ",
+          "t": "ʾəmənäfəsəta",
+          "gl": ""
+        },
+        {
+          "g": "ሰቡዕ",
+          "t": "säbuʿə",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕል",
+          "t": "mäwaʿələ",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘትክቶሃ",
+          "t": "zätəkətoha",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘገሰሰ",
+          "t": "zägäsäsä",
+          "gl": ""
+        },
+        {
+          "g": "ርኩስ",
+          "t": "rəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ሰርክ",
+          "t": "särəkə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the woman whosoever shall have an issue of blood, when her issue shall be in her body, shall be seven days in her separation; every one that touches her shall be unclean until evening.",
+        "kjv": "And if a woman have an issue, and her issue in her flesh be blood, she shall be put apart seven days: and whosoever toucheth her shall be unclean until the even."
+      }
+    },
+    {
+      "num": 20,
+      "geez": "ወኵሉ ፡ ዘላዕሌሁ ፡ ሰክበት ፡ እንዘ ፡ ትክት ፡ ይእቲ ፡ ርኩስ ፡ ውእቱ ፡ [ወኵሉ ፡ ዘነበረት ፡ ላዕሌሁ ፡ ይረኵሰ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘላዕሌሁ",
+          "t": "zälaʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ሰክበት",
+          "t": "säkəbätə",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ትክት",
+          "t": "təkətə",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ርኩስ",
+          "t": "rəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘነበረት",
+          "t": "zänäbärätə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ይረኵሰ",
+          "t": "yəräkwəsä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And every thing whereon she shall lie in her separation, shall be unclean; and whatever she shall sit upon, shall be unclean.",
+        "kjv": "And every thing that she lieth upon in her separation shall be unclean: every thing also that she sitteth upon shall be unclean."
+      }
+    },
+    {
+      "num": 21,
+      "geez": "] ወኵሉ ፡ ዘገሰሰ ፡ ዐራታ ፡ የኀፅብ ፡ አልባሲሁ ፡ ወይትኀፀብ ፡ ሥጋሁ ፡ ወርኩስ ፡ ውእቱ ፡ እስከ ፡ ሰርክ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘገሰሰ",
+          "t": "zägäsäsä",
+          "gl": ""
+        },
+        {
+          "g": "ዐራታ",
+          "t": "ʿärata",
+          "gl": ""
+        },
+        {
+          "g": "የኀፅብ",
+          "t": "yäḫäṣ́əbə",
+          "gl": ""
+        },
+        {
+          "g": "አልባሲሁ",
+          "t": "ʾäləbasihu",
+          "gl": ""
+        },
+        {
+          "g": "ወይትኀፀብ",
+          "t": "wäyətəḫäṣ́äbə",
+          "gl": ""
+        },
+        {
+          "g": "ሥጋሁ",
+          "t": "śəgahu",
+          "gl": ""
+        },
+        {
+          "g": "ወርኩስ",
+          "t": "wärəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ሰርክ",
+          "t": "särəkə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And whosoever shall touch her bed shall wash his garments, and bathe his body in water, and shall be unclean until evening.",
+        "kjv": "And whosoever toucheth her bed shall wash his clothes, and bathe himself in water, and be unclean until the even."
+      }
+    },
+    {
+      "num": 22,
+      "geez": "ወኵሉ ፡ ዘገሰሰ ፡ እምኵሉ ፡ ንዋይ ፡ ዘላዕሌሁ ፡ ነበረት ፡ የኀፅብ ፡ አልባሲሁ ፡ ወ[ይት]ኀፀብ ፡ በማይ ፡ ወርኩስ ፡\n                  ውእቱ ፡ እስከ ፡ ሰርክ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘገሰሰ",
+          "t": "zägäsäsä",
+          "gl": ""
+        },
+        {
+          "g": "እምኵሉ",
+          "t": "ʾəməkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ንዋይ",
+          "t": "nəwayə",
+          "gl": ""
+        },
+        {
+          "g": "ዘላዕሌሁ",
+          "t": "zälaʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ነበረት",
+          "t": "näbärätə",
+          "gl": ""
+        },
+        {
+          "g": "የኀፅብ",
+          "t": "yäḫäṣ́əbə",
+          "gl": ""
+        },
+        {
+          "g": "አልባሲሁ",
+          "t": "ʾäləbasihu",
+          "gl": ""
+        },
+        {
+          "g": "ወይትኀፀብ",
+          "t": "wäyətəḫäṣ́äbə",
+          "gl": ""
+        },
+        {
+          "g": "በማይ",
+          "t": "bämayə",
+          "gl": ""
+        },
+        {
+          "g": "ወርኩስ",
+          "t": "wärəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ሰርክ",
+          "t": "särəkə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And every one that touches any vessel on which she shall sit, shall wash his garments and bathe himself in water, and shall be unclean until evening.",
+        "kjv": "And whosoever toucheth any thing that she sat upon shall wash his clothes, and bathe himself in water, and be unclean until the even."
+      }
+    },
+    {
+      "num": 23,
+      "geez": "ወእመኒ ፡ እንዘ ፡ ሀለወት ፡ ላዕለ ፡ ዐራታ ፡ አው ፡ ላዕለ ፡ ንዋይ ፡ ዘዲቤሁ ፡ ትነብር ፡ ይእቲ ፡ ዘገሰሰ ፡ ርኩስ\n                  ፡ ውእቱ ፡ እስከ ፡ ሰርክ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመኒ",
+          "t": "wäʾəmäni",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ሀለወት",
+          "t": "häläwätə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ዐራታ",
+          "t": "ʿärata",
+          "gl": ""
+        },
+        {
+          "g": "አው",
+          "t": "ʾäwə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ንዋይ",
+          "t": "nəwayə",
+          "gl": ""
+        },
+        {
+          "g": "ዘዲቤሁ",
+          "t": "zädibehu",
+          "gl": ""
+        },
+        {
+          "g": "ትነብር",
+          "t": "tənäbərə",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ዘገሰሰ",
+          "t": "zägäsäsä",
+          "gl": ""
+        },
+        {
+          "g": "ርኩስ",
+          "t": "rəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ሰርክ",
+          "t": "särəkə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And whether it be while she is on her bed, or on a seat which she may happen to sit upon when he touches her, he shall be unclean till evening.",
+        "kjv": "And if it be on her bed, or on any thing whereon she sitteth, when he toucheth it, he shall be unclean until the even."
+      }
+    },
+    {
+      "num": 24,
+      "geez": "ወዘሰክበ ፡ ምስሌሃ ፡ ብእሲ ፡ ላዕሌሁ ፡ ይገብእ ፡ ርኵሳ ፡ ወርኩሰ ፡ ይከውን ፡ ሰቡዐ ፡ ዕለተ ፡ ወኵሉ ፡ ዐራት ፡\n                  እንተ ፡ ላዕሌሃ ፡ ሰክበ ፡ ርኵስት ፡ ይእቲ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዘሰክበ",
+          "t": "wäzäsäkəbä",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሃ",
+          "t": "məsəleha",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ይገብእ",
+          "t": "yəgäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ርኵሳ",
+          "t": "rəkwəsa",
+          "gl": ""
+        },
+        {
+          "g": "ወርኩሰ",
+          "t": "wärəkusä",
+          "gl": ""
+        },
+        {
+          "g": "ይከውን",
+          "t": "yəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ሰቡዐ",
+          "t": "säbuʿä",
+          "gl": ""
+        },
+        {
+          "g": "ዕለተ",
+          "t": "ʿəlätä",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዐራት",
+          "t": "ʿäratə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሃ",
+          "t": "laʿəleha",
+          "gl": ""
+        },
+        {
+          "g": "ሰክበ",
+          "t": "säkəbä",
+          "gl": ""
+        },
+        {
+          "g": "ርኵስት",
+          "t": "rəkwəsətə",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if any one shall lie with her, and her uncleanness be upon him, he shall be unclean seven days; and every bed on which he shall have lain shall be unclean.",
+        "kjv": "And if any man lie with her at all, and her flowers be upon him, he shall be unclean seven days; and all the bed whereon he lieth shall be unclean."
+      }
+    },
+    {
+      "num": 25,
+      "geez": "ወእመቦ ፡ ብእሲተ ፡ እንተ ፡ ይትከዐዋ ፡ ደም ፡ ብዙኀ ፡ መዋዕለ ፡ ወፈድፋደ ፡ እምነ ፡ መዋዕለ ፡ ትክቶሃ ፡ ወእመኒ\n                  ፡ እምድኅረ ፡ ትክቶሃ ፡ ተክዕዋ ፡ በኵሉ ፡ መዋዕል ፡ ዘይትከዐዋ ፡ ርኵስት ፡ ይእቲ ፡ በከመ ፡ መዋዕለ ፡ ትክቶሃ ፡\n                  ርኵስት ፡ ይእቲ ፡ ከማሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመቦ",
+          "t": "wäʾəmäbo",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲተ",
+          "t": "bəʾəsitä",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ይትከዐዋ",
+          "t": "yətəkäʿäwa",
+          "gl": ""
+        },
+        {
+          "g": "ደም",
+          "t": "dämə",
+          "gl": ""
+        },
+        {
+          "g": "ብዙኀ",
+          "t": "bəzuḫä",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕለ",
+          "t": "mäwaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ወፈድፋደ",
+          "t": "wäfädəfadä",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕለ",
+          "t": "mäwaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ትክቶሃ",
+          "t": "təkətoha",
+          "gl": ""
+        },
+        {
+          "g": "ወእመኒ",
+          "t": "wäʾəmäni",
+          "gl": ""
+        },
+        {
+          "g": "እምድኅረ",
+          "t": "ʾəmədəḫərä",
+          "gl": ""
+        },
+        {
+          "g": "ትክቶሃ",
+          "t": "təkətoha",
+          "gl": ""
+        },
+        {
+          "g": "ተክዕዋ",
+          "t": "täkəʿəwa",
+          "gl": ""
+        },
+        {
+          "g": "በኵሉ",
+          "t": "bäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕል",
+          "t": "mäwaʿələ",
+          "gl": ""
+        },
+        {
+          "g": "ዘይትከዐዋ",
+          "t": "zäyətəkäʿäwa",
+          "gl": ""
+        },
+        {
+          "g": "ርኵስት",
+          "t": "rəkwəsətə",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕለ",
+          "t": "mäwaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ትክቶሃ",
+          "t": "təkətoha",
+          "gl": ""
+        },
+        {
+          "g": "ርኵስት",
+          "t": "rəkwəsətə",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ከማሁ",
+          "t": "kämahu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if a woman have an issue of blood many days, not in the time of her separation; if the blood should also flow after her separation, all the days of the issue of her uncleanness shall be as the days of her separation: she shall be unclean.",
+        "kjv": "And if a woman have an issue of her blood many days out of the time of her separation, or if it run beyond the time of her separation; all the days of the issue of her uncleanness shall be as the days of her separation: she shall be unclean."
+      }
+    },
+    {
+      "num": 26,
+      "geez": "ወኵሉ ፡ ዐራት ፡ እንተ ፡ ላዕሌሁ ፡ ሰክበት ፡ በኵሉ ፡ መዋዕል ፡ ዘይትከዐዋ ፡ ከመ ፡ ዐራተ ፡ ትክቶሃ ፡ ውእቱ ፡\n                  ላቲ ፡ ወኵሉ ፡ ንዋይ ፡ ዘላዕሌሁ ፡ ነበረት ፡ ርኩስ ፡ ውእቱ ፡ በከመ ፡ ርኵሰ ፡ ትክቶሃ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዐራት",
+          "t": "ʿäratə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ሰክበት",
+          "t": "säkəbätə",
+          "gl": ""
+        },
+        {
+          "g": "በኵሉ",
+          "t": "bäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕል",
+          "t": "mäwaʿələ",
+          "gl": ""
+        },
+        {
+          "g": "ዘይትከዐዋ",
+          "t": "zäyətəkäʿäwa",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ዐራተ",
+          "t": "ʿäratä",
+          "gl": ""
+        },
+        {
+          "g": "ትክቶሃ",
+          "t": "təkətoha",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ላቲ",
+          "t": "lati",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ንዋይ",
+          "t": "nəwayə",
+          "gl": ""
+        },
+        {
+          "g": "ዘላዕሌሁ",
+          "t": "zälaʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ነበረት",
+          "t": "näbärätə",
+          "gl": ""
+        },
+        {
+          "g": "ርኩስ",
+          "t": "rəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ርኵሰ",
+          "t": "rəkwəsä",
+          "gl": ""
+        },
+        {
+          "g": "ትክቶሃ",
+          "t": "təkətoha",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And every bed on which she shall lie all the days of her flux shall be to her as the bed of her separation, and every seat whereon she shall sit shall be unclean according to the uncleanness of her separation.",
+        "kjv": "Every bed whereon she lieth all the days of her issue shall be unto her as the bed of her separation: and whatsoever she sitteth upon shall be unclean, as the uncleanness of her separation."
+      }
+    },
+    {
+      "num": 27,
+      "geez": "ወኵሉ ፡ ዘገሰሳ ፡ ርኩስ ፡ ውእቱ ፡ ወየኀፅብ ፡ አልባሲሁ ፡ ወይትኀፀብ ፡ በማይ ፡ ወርኩስ ፡ ውእቱ ፡ እስከ ፡ ሰርክ\n                  ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘገሰሳ",
+          "t": "zägäsäsa",
+          "gl": ""
+        },
+        {
+          "g": "ርኩስ",
+          "t": "rəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ወየኀፅብ",
+          "t": "wäyäḫäṣ́əbə",
+          "gl": ""
+        },
+        {
+          "g": "አልባሲሁ",
+          "t": "ʾäləbasihu",
+          "gl": ""
+        },
+        {
+          "g": "ወይትኀፀብ",
+          "t": "wäyətəḫäṣ́äbə",
+          "gl": ""
+        },
+        {
+          "g": "በማይ",
+          "t": "bämayə",
+          "gl": ""
+        },
+        {
+          "g": "ወርኩስ",
+          "t": "wärəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ሰርክ",
+          "t": "särəkə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Every one that touches it shall be unclean; and he shall wash his garments, and bathe his body in water, and shall be unclean till evening.",
+        "kjv": "And whosoever toucheth those things shall be unclean, and shall wash his clothes, and bathe himself in water, and be unclean until the even."
+      }
+    },
+    {
+      "num": 28,
+      "geez": "ወእመሰ ፡ ኀደጋ ፡ ውእቱ ፡ ዘይትከዐዋ ፡ ይኌልቁ ፡ ላቲ ፡ ሰቡዐ ፡ መዋዕለ ፡ ወእምድኅሬሁ ፡ ንጹሐ ፡ ትከውን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "ኀደጋ",
+          "t": "ḫädäga",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይትከዐዋ",
+          "t": "zäyətəkäʿäwa",
+          "gl": ""
+        },
+        {
+          "g": "ይኌልቁ",
+          "t": "yəḫweləqu",
+          "gl": ""
+        },
+        {
+          "g": "ላቲ",
+          "t": "lati",
+          "gl": ""
+        },
+        {
+          "g": "ሰቡዐ",
+          "t": "säbuʿä",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕለ",
+          "t": "mäwaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ወእምድኅሬሁ",
+          "t": "wäʾəmədəḫərehu",
+          "gl": ""
+        },
+        {
+          "g": "ንጹሐ",
+          "t": "nəṣuḥä",
+          "gl": ""
+        },
+        {
+          "g": "ትከውን",
+          "t": "təkäwənə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But if she shall be cleansed from her flux, then she shall number to herself seven days, and afterwards she shall be esteemed clean.",
+        "kjv": "But if she be cleansed of her issue, then she shall number to herself seven days, and after that she shall be clean."
+      }
+    },
+    {
+      "num": 29,
+      "geez": "ወበ[ሳም]ንት ፡ ዕለት ፡ ትነሥእ ፡ ላቲ ፡ ክልኤ ፡ መዓንቀ ፡ አው ፡ ክልኤተ ፡ እጕለ ፡ ርግብ ፡ ወታመጽእ ፡ ኀበ ፡\n                  ካህን ፡ ኀበ ፡ ኆኅተ ፡ ደብተራ ፡ ዘመርጡል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበሳምንት",
+          "t": "wäbäsamənətə",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "ትነሥእ",
+          "t": "tənäśəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ላቲ",
+          "t": "lati",
+          "gl": ""
+        },
+        {
+          "g": "ክልኤ",
+          "t": "kələʾe",
+          "gl": ""
+        },
+        {
+          "g": "መዓንቀ",
+          "t": "mäʿanəqä",
+          "gl": ""
+        },
+        {
+          "g": "አው",
+          "t": "ʾäwə",
+          "gl": ""
+        },
+        {
+          "g": "ክልኤተ",
+          "t": "kələʾetä",
+          "gl": ""
+        },
+        {
+          "g": "እጕለ",
+          "t": "ʾəgwəlä",
+          "gl": ""
+        },
+        {
+          "g": "ርግብ",
+          "t": "rəgəbə",
+          "gl": ""
+        },
+        {
+          "g": "ወታመጽእ",
+          "t": "wätamäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ኆኅተ",
+          "t": "ḫoḫətä",
+          "gl": ""
+        },
+        {
+          "g": "ደብተራ",
+          "t": "däbətära",
+          "gl": ""
+        },
+        {
+          "g": "ዘመርጡል",
+          "t": "zämärəṭulə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And on the eighth day she shall take two turtle-doves, or two young pigeons, and shall bring them to the priest, to the door of the tabernacle of witness.",
+        "kjv": "And on the eighth day she shall take unto her two turtles, or two young pigeons, and bring them unto the priest, to the door of the tabernacle of the congregation."
+      }
+    },
+    {
+      "num": 30,
+      "geez": "ወይገብር ፡ ካህን ፡ አሐተ ፡ በእንተ ፡ ኀጢአት ፡ ወአሐተ ፡ ለመሥዋዕት ፡ ወያስተሰሪ ፡ ላቲ ፡ ካህን ፡ ቅድመ ፡\n                  እግዚአብሔር ፡ በእንተ ፡ ውእቱ ፡ ዘተክዕዋ ፡ ዘርኩሳ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይገብር",
+          "t": "wäyəgäbərə",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "አሐተ",
+          "t": "ʾäḥätä",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአት",
+          "t": "ḫäṭiʾätə",
+          "gl": ""
+        },
+        {
+          "g": "ወአሐተ",
+          "t": "wäʾäḥätä",
+          "gl": ""
+        },
+        {
+          "g": "ለመሥዋዕት",
+          "t": "lämäśəwaʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ወያስተሰሪ",
+          "t": "wäyasətäsäri",
+          "gl": ""
+        },
+        {
+          "g": "ላቲ",
+          "t": "lati",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘተክዕዋ",
+          "t": "zätäkəʿəwa",
+          "gl": ""
+        },
+        {
+          "g": "ዘርኩሳ",
+          "t": "zärəkusa",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the priest shall offer one for a sin-offering, and the other for a whole-burnt-offering, and the priest shall make atonement for her before the Lord for her unclean flux.",
+        "kjv": "And the priest shall offer the one for a sin offering, and the other for a burnt offering; and the priest shall make an atonement for her before the LORD for the issue of her uncleanness."
+      }
+    },
+    {
+      "num": 31,
+      "geez": "ወንጹሓነ ፡ ረስይዎሙ ፡ ለደቂቀ ፡ እስራኤል ፡ እምነ ፡ ርኵሶሙ ፡ ወኢይሙቱ ፡ በእንተ ፡ ርኵሶሙ ፡ ከመ ፡ ኢያርኵሱ ፡\n                  ደብተራየ ፡ እንተ ፡ ኀቤሆሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወንጹሓነ",
+          "t": "wänəṣuḥanä",
+          "gl": ""
+        },
+        {
+          "g": "ረስይዎሙ",
+          "t": "räsəyəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ርኵሶሙ",
+          "t": "rəkwəsomu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይሙቱ",
+          "t": "wäʾiyəmutu",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ርኵሶሙ",
+          "t": "rəkwəsomu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ኢያርኵሱ",
+          "t": "ʾiyarəkwəsu",
+          "gl": ""
+        },
+        {
+          "g": "ደብተራየ",
+          "t": "däbətärayä",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀቤሆሙ",
+          "t": "ḫäbehomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And ye shall cause the children of Israel to beware of their uncleannesses; so they shall not die for their uncleanness, in polluting my tabernacle that is among them.",
+        "kjv": "Thus shall ye separate the children of Israel from their uncleanness; that they die not in their uncleanness, when they defile my tabernacle that is among them."
+      }
+    },
+    {
+      "num": 32,
+      "geez": "ዝንቱ ፡ ውእቱ ፡ ሕጉ ፡ ለዘይትከዐዎ ፡ ዘርኡ ፡ ወእመቦ ፡ ዘሰክበ ፡ ምስለ ፡ ብእሲት ፡ ወሥዑበ ፡ ኮነ ፡ ባቲ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ሕጉ",
+          "t": "ḥəgu",
+          "gl": ""
+        },
+        {
+          "g": "ለዘይትከዐዎ",
+          "t": "läzäyətəkäʿäwo",
+          "gl": ""
+        },
+        {
+          "g": "ዘርኡ",
+          "t": "zärəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ወእመቦ",
+          "t": "wäʾəmäbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘሰክበ",
+          "t": "zäsäkəbä",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲት",
+          "t": "bəʾəsitə",
+          "gl": ""
+        },
+        {
+          "g": "ወሥዑበ",
+          "t": "wäśəʿubä",
+          "gl": ""
+        },
+        {
+          "g": "ኮነ",
+          "t": "konä",
+          "gl": ""
+        },
+        {
+          "g": "ባቲ",
+          "t": "bati",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "This is the law of the man who has an issue, and if one discharge seed of copulation, so that he should be polluted by it.",
+        "kjv": "This is the law of him that hath an issue, and of him whose seed goeth from him, and is defiled therewith;"
+      }
+    },
+    {
+      "num": 33,
+      "geez": "ወለእንተ ፡ ይትከዐዋኒ ፡ ደም ፡ በትክቶሃ ፡ ወለዘ ፡ ይትከዐዎኒ ፡ ዘርኡ ፡ በመዋዕ[ለ] ፡ ይትከዐዎ ፡ ለተባዕትኒ ፡\n                  ወለአንስትኒ ፡ ወለብእሲኒ ፡ ዘሰክበ ፡ ምስለ ፡ ትክት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለእንተ",
+          "t": "wäläʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ይትከዐዋኒ",
+          "t": "yətəkäʿäwani",
+          "gl": ""
+        },
+        {
+          "g": "ደም",
+          "t": "dämə",
+          "gl": ""
+        },
+        {
+          "g": "በትክቶሃ",
+          "t": "bätəkətoha",
+          "gl": ""
+        },
+        {
+          "g": "ወለዘ",
+          "t": "wäläzä",
+          "gl": ""
+        },
+        {
+          "g": "ይትከዐዎኒ",
+          "t": "yətəkäʿäwoni",
+          "gl": ""
+        },
+        {
+          "g": "ዘርኡ",
+          "t": "zärəʾu",
+          "gl": ""
+        },
+        {
+          "g": "በመዋዕለ",
+          "t": "bämäwaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይትከዐዎ",
+          "t": "yətəkäʿäwo",
+          "gl": ""
+        },
+        {
+          "g": "ለተባዕትኒ",
+          "t": "lätäbaʿətəni",
+          "gl": ""
+        },
+        {
+          "g": "ወለአንስትኒ",
+          "t": "wäläʾänəsətəni",
+          "gl": ""
+        },
+        {
+          "g": "ወለብእሲኒ",
+          "t": "wäläbəʾəsini",
+          "gl": ""
+        },
+        {
+          "g": "ዘሰክበ",
+          "t": "zäsäkəbä",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ትክት",
+          "t": "təkətə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And this is the law for her that has the issue of blood in her separation, and as to the person who has an issue of seed, in his issue: it is a law for the male and the female, and for the man who shall have lain with her that is set apart.",
+        "kjv": "And of her that is sick of her flowers, and of him that hath an issue, of the man, and of the woman, and of him that lieth with her that is unclean."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

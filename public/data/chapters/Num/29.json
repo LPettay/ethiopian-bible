@@ -1,0 +1,2752 @@
+{
+  "book": "Num",
+  "chapter": 29,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወበሳብዕ ፡ ወርኅ ፡ አመ ፡ ሠርቀ ፡ ወርኅ ፡ ቅድስተ ፡ ትሰመይ ፡ ለክሙ ፡ ይእቲ ፡ ዕለት ፡ ኵሎ ፡ ግብረ ፡ ማሕረስ\n                  ፡ ኢትግበሩ ፡ ባቲ ፡ ወዕለተ ፡ ትእምርት ፡ ትኩንክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበሳብዕ",
+          "t": "wäbäsabəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወርኅ",
+          "t": "wärəḫə",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ሠርቀ",
+          "t": "śärəqä",
+          "gl": ""
+        },
+        {
+          "g": "ወርኅ",
+          "t": "wärəḫə",
+          "gl": ""
+        },
+        {
+          "g": "ቅድስተ",
+          "t": "qədəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ትሰመይ",
+          "t": "təsämäyə",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ግብረ",
+          "t": "gəbərä",
+          "gl": ""
+        },
+        {
+          "g": "ማሕረስ",
+          "t": "maḥəräsə",
+          "gl": ""
+        },
+        {
+          "g": "ኢትግበሩ",
+          "t": "ʾitəgəbäru",
+          "gl": ""
+        },
+        {
+          "g": "ባቲ",
+          "t": "bati",
+          "gl": ""
+        },
+        {
+          "g": "ወዕለተ",
+          "t": "wäʿəlätä",
+          "gl": ""
+        },
+        {
+          "g": "ትእምርት",
+          "t": "təʾəmərətə",
+          "gl": ""
+        },
+        {
+          "g": "ትኩንክሙ",
+          "t": "təkunəkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And in the seventh month, on the first day of the month, there shall be to you a holy convocation: ye shall do no servile work: it shall be to you a day of blowing the trumpets.",
+        "kjv": "And in the seventh month, on the first day of the month, ye shall have an holy convocation; ye shall do no servile work: it is a day of blowing the trumpets unto you."
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ወትገብሩ ፡ መሣውዐ ፡ ለመዐዛ ፡ ሠናይ ፡ ለእግዚአብሔር ፡ ሶረ ፡ አሐደ ፡ እምውስተ ፡ አልህምት ፡ ወበግዐ ፡ አሐደ ፡\n                  ወማሕስአ ፡ አባግዕ ፡ ሰብዐተ ፡ ንጹሓነ ፡ ዘዘዓመት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትገብሩ",
+          "t": "wätəgäbəru",
+          "gl": ""
+        },
+        {
+          "g": "መሣውዐ",
+          "t": "mäśawəʿä",
+          "gl": ""
+        },
+        {
+          "g": "ለመዐዛ",
+          "t": "lämäʿäza",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይ",
+          "t": "śänayə",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ሶረ",
+          "t": "sorä",
+          "gl": ""
+        },
+        {
+          "g": "አሐደ",
+          "t": "ʾäḥädä",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አልህምት",
+          "t": "ʾäləhəmətə",
+          "gl": ""
+        },
+        {
+          "g": "ወበግዐ",
+          "t": "wäbägəʿä",
+          "gl": ""
+        },
+        {
+          "g": "አሐደ",
+          "t": "ʾäḥädä",
+          "gl": ""
+        },
+        {
+          "g": "ወማሕስአ",
+          "t": "wämaḥəsəʾä",
+          "gl": ""
+        },
+        {
+          "g": "አባግዕ",
+          "t": "ʾäbagəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ሰብዐተ",
+          "t": "säbəʿätä",
+          "gl": ""
+        },
+        {
+          "g": "ንጹሓነ",
+          "t": "nəṣuḥanä",
+          "gl": ""
+        },
+        {
+          "g": "ዘዘዓመት",
+          "t": "zäzäʿamätə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And ye shall offer whole-burnt-offerings for a sweet savour to the Lord, one calf of the herd, one ram, seven lambs of a year old without blemish.",
+        "kjv": "And ye shall offer a burnt offering for a sweet savour unto the LORD; one young bullock, one ram, and seven lambs of the first year without blemish:"
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወመሥዋዕቶሙ ፡ ስንዳሌ ፡ ዘግቡር ፡ በቅብእ ፡ ሠለስቱ ፡ ዓሥራት ፡ ለ፩ላህም ፡ ወክልኤቱ ፡ ዓሥራት ፡ ለ፩በግዕ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወመሥዋዕቶሙ",
+          "t": "wämäśəwaʿətomu",
+          "gl": ""
+        },
+        {
+          "g": "ስንዳሌ",
+          "t": "sənədale",
+          "gl": ""
+        },
+        {
+          "g": "ዘግቡር",
+          "t": "zägəburə",
+          "gl": ""
+        },
+        {
+          "g": "በቅብእ",
+          "t": "bäqəbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ሠለስቱ",
+          "t": "śäläsətu",
+          "gl": ""
+        },
+        {
+          "g": "ዓሥራት",
+          "t": "ʿaśəratə",
+          "gl": ""
+        },
+        {
+          "g": "ለ፩ላህም",
+          "t": "lä1lahəmə",
+          "gl": ""
+        },
+        {
+          "g": "ወክልኤቱ",
+          "t": "wäkələʾetu",
+          "gl": ""
+        },
+        {
+          "g": "ዓሥራት",
+          "t": "ʿaśəratə",
+          "gl": ""
+        },
+        {
+          "g": "ለ፩በግዕ",
+          "t": "lä1bägəʿə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Their meat-offering shall be fine flour mingled with oil; three tenth deals for one calf, and two tenth deals for one ram:",
+        "kjv": "And their meat offering shall be of flour mingled with oil, three tenth deals for a bullock, and two tenth deals for a ram,"
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወዓሥራ[ት] ፡ ዓሥራት ፡ ለ፩ማሕስአ ፡ በግዕ ፡ ወከማሁ ፡ ለሰብዐቲሆሙ ፡ ማሕስአ ፡ አባግዕ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዓሥራት",
+          "t": "wäʿaśəratə",
+          "gl": ""
+        },
+        {
+          "g": "ዓሥራት",
+          "t": "ʿaśəratə",
+          "gl": ""
+        },
+        {
+          "g": "ለ፩ማሕስአ",
+          "t": "lä1maḥəsəʾä",
+          "gl": ""
+        },
+        {
+          "g": "በግዕ",
+          "t": "bägəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወከማሁ",
+          "t": "wäkämahu",
+          "gl": ""
+        },
+        {
+          "g": "ለሰብዐቲሆሙ",
+          "t": "läsäbəʿätihomu",
+          "gl": ""
+        },
+        {
+          "g": "ማሕስአ",
+          "t": "maḥəsəʾä",
+          "gl": ""
+        },
+        {
+          "g": "አባግዕ",
+          "t": "ʾäbagəʿə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "a tenth deal for each several ram, for the seven lambs.",
+        "kjv": "And one tenth deal for one lamb, throughout the seven lambs:"
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወሐርጌ ፡ አሐዱ ፡ እምውስተ ፡ አጣሊ ፡ በእንተ ፡ ኀጢአት ፡ በዘ ፡ ቦቱ ፡ ያስተሰርዩ ፡ ለክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሐርጌ",
+          "t": "wäḥärəge",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አጣሊ",
+          "t": "ʾäṭali",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአት",
+          "t": "ḫäṭiʾätə",
+          "gl": ""
+        },
+        {
+          "g": "በዘ",
+          "t": "bäzä",
+          "gl": ""
+        },
+        {
+          "g": "ቦቱ",
+          "t": "botu",
+          "gl": ""
+        },
+        {
+          "g": "ያስተሰርዩ",
+          "t": "yasətäsärəyu",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And one kid of the goats for a sin-offering, to make atonement for you.",
+        "kjv": "And one kid of the goats for a sin offering, to make an atonement for you:"
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ዘእንበለ ፡ መሥዋዕት ፡ ዘበበ ፡ ሠርቀ ፡ ወርኅ ፡ ወመሥዋዕቶሙኒ ፡ ወሞጻሕቶሙኒ ፡ [ወመሥዋዕትኒ ፡ ዘዘልፍ ፡\n                  ወመሥዋዕቶሙኒ ፡ ወሞጻሕቶሙኒ ፡] ዘከመ ፡ ሕጎሙ ፡ ለመዐዛ ፡ ሠናይ ፡ ለእግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዘእንበለ",
+          "t": "zäʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕት",
+          "t": "mäśəwaʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ዘበበ",
+          "t": "zäbäbä",
+          "gl": ""
+        },
+        {
+          "g": "ሠርቀ",
+          "t": "śärəqä",
+          "gl": ""
+        },
+        {
+          "g": "ወርኅ",
+          "t": "wärəḫə",
+          "gl": ""
+        },
+        {
+          "g": "ወመሥዋዕቶሙኒ",
+          "t": "wämäśəwaʿətomuni",
+          "gl": ""
+        },
+        {
+          "g": "ወሞጻሕቶሙኒ",
+          "t": "wämoṣaḥətomuni",
+          "gl": ""
+        },
+        {
+          "g": "ወመሥዋዕትኒ",
+          "t": "wämäśəwaʿətəni",
+          "gl": ""
+        },
+        {
+          "g": "ዘዘልፍ",
+          "t": "zäzäləfə",
+          "gl": ""
+        },
+        {
+          "g": "ወመሥዋዕቶሙኒ",
+          "t": "wämäśəwaʿətomuni",
+          "gl": ""
+        },
+        {
+          "g": "ወሞጻሕቶሙኒ",
+          "t": "wämoṣaḥətomuni",
+          "gl": ""
+        },
+        {
+          "g": "ዘከመ",
+          "t": "zäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ሕጎሙ",
+          "t": "ḥəgomu",
+          "gl": ""
+        },
+        {
+          "g": "ለመዐዛ",
+          "t": "lämäʿäza",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይ",
+          "t": "śänayə",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Beside the whole-burnt-offerings for the new moon, and their meat-offerings, and their drink-offerings, and their perpetual whole-burnt-offering; and their meat-offerings and their drink-offerings according to their ordinance for a sweet-smelling savour to the Lord.",
+        "kjv": "Beside the burnt offering of the month, and his meat offering, and the daily burnt offering, and his meat offering, and their drink offerings, according unto their manner, for a sweet savour, a sacrifice made by fire unto the LORD."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወአመ ፡ ዐሡሩ ፡ ለሠርቀ ፡ ውእቱ ፡ ወርኅ ፡ ቅድስተ ፡ ትሰመይ ፡ ለክሙ ፡ ወአሕምምዋ ፡ ለነፍስክሙ ፡ ወኵሎ ፡ ግብረ\n                  ፡ ማሕረስ ፡ ኢትግበሩ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአመ",
+          "t": "wäʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ዐሡሩ",
+          "t": "ʿäśuru",
+          "gl": ""
+        },
+        {
+          "g": "ለሠርቀ",
+          "t": "läśärəqä",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ወርኅ",
+          "t": "wärəḫə",
+          "gl": ""
+        },
+        {
+          "g": "ቅድስተ",
+          "t": "qədəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ትሰመይ",
+          "t": "təsämäyə",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወአሕምምዋ",
+          "t": "wäʾäḥəməməwa",
+          "gl": ""
+        },
+        {
+          "g": "ለነፍስክሙ",
+          "t": "länäfəsəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ግብረ",
+          "t": "gəbərä",
+          "gl": ""
+        },
+        {
+          "g": "ማሕረስ",
+          "t": "maḥəräsə",
+          "gl": ""
+        },
+        {
+          "g": "ኢትግበሩ",
+          "t": "ʾitəgəbäru",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And on the tenth of this month there shall be to you a holy convocation; and ye shall afflict your souls, and ye shall do no work.",
+        "kjv": "And ye shall have on the tenth day of this seventh month an holy convocation; and ye shall afflict your souls: ye shall not do any work therein:"
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወታበውኡ ፡ መሥዋዕተ ፡ ለመዐዛ ፡ ሠናይ ፡ ሶረ ፡ አሐደ ፡ እምውስተ ፡ አልህምት ፡ ወበግዐ ፡ አሐደ ፡ ወመሓስአ ፡\n                  አባግዕ ፡ ሰብዐተ ፡ ንጹሓነ ፡ ዘዘ ፡ ዓመት ፡ ይኩንክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወታበውኡ",
+          "t": "wätabäwəʾu",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕተ",
+          "t": "mäśəwaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "ለመዐዛ",
+          "t": "lämäʿäza",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይ",
+          "t": "śänayə",
+          "gl": ""
+        },
+        {
+          "g": "ሶረ",
+          "t": "sorä",
+          "gl": ""
+        },
+        {
+          "g": "አሐደ",
+          "t": "ʾäḥädä",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አልህምት",
+          "t": "ʾäləhəmətə",
+          "gl": ""
+        },
+        {
+          "g": "ወበግዐ",
+          "t": "wäbägəʿä",
+          "gl": ""
+        },
+        {
+          "g": "አሐደ",
+          "t": "ʾäḥädä",
+          "gl": ""
+        },
+        {
+          "g": "ወመሓስአ",
+          "t": "wämäḥasəʾä",
+          "gl": ""
+        },
+        {
+          "g": "አባግዕ",
+          "t": "ʾäbagəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ሰብዐተ",
+          "t": "säbəʿätä",
+          "gl": ""
+        },
+        {
+          "g": "ንጹሓነ",
+          "t": "nəṣuḥanä",
+          "gl": ""
+        },
+        {
+          "g": "ዘዘ",
+          "t": "zäzä",
+          "gl": ""
+        },
+        {
+          "g": "ዓመት",
+          "t": "ʿamätə",
+          "gl": ""
+        },
+        {
+          "g": "ይኩንክሙ",
+          "t": "yəkunəkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And ye shall bring near whole-burnt-offerings for a sweet-smelling savour to the Lord; burnt-sacrifices to the Lord, one calf of the herd, one ram, seven lambs of a year old; they shall be to you without blemish.",
+        "kjv": "But ye shall offer a burnt offering unto the LORD for a sweet savour; one young bullock, one ram, and seven lambs of the first year; they shall be unto you without blemish:"
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወመሥዋዕቶሙ ፡ ስንዳሌ ፡ ዘግቡር ፡ በቅብእ ፡ (ወ)ሠለስቱ ፡ ዓሥራት ፡ ለ፩ላህም ፡ ወክልኤቱ ፡ ዓሥራት ፡ ለ፩በግዕ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወመሥዋዕቶሙ",
+          "t": "wämäśəwaʿətomu",
+          "gl": ""
+        },
+        {
+          "g": "ስንዳሌ",
+          "t": "sənədale",
+          "gl": ""
+        },
+        {
+          "g": "ዘግቡር",
+          "t": "zägəburə",
+          "gl": ""
+        },
+        {
+          "g": "በቅብእ",
+          "t": "bäqəbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወሠለስቱ",
+          "t": "wäśäläsətu",
+          "gl": ""
+        },
+        {
+          "g": "ዓሥራት",
+          "t": "ʿaśəratə",
+          "gl": ""
+        },
+        {
+          "g": "ለ፩ላህም",
+          "t": "lä1lahəmə",
+          "gl": ""
+        },
+        {
+          "g": "ወክልኤቱ",
+          "t": "wäkələʾetu",
+          "gl": ""
+        },
+        {
+          "g": "ዓሥራት",
+          "t": "ʿaśəratə",
+          "gl": ""
+        },
+        {
+          "g": "ለ፩በግዕ",
+          "t": "lä1bägəʿə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Their meat-offering shall be fine flour mingled with oil; three tenth deals for one calf, and two tenth deals for one ram.",
+        "kjv": "And their meat offering shall be of flour mingled with oil, three tenth deals to a bullock, and two tenth deals to one ram,"
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወዓሥራ[ት] ፡ ዓሥራት ፡ ለ፩ማሕስአ ፡ በግዕ ፡ ወከማሁ ፡ ለሰብዐቲሆሙ ፡ መሓስአ ፡ አባግዕ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዓሥራት",
+          "t": "wäʿaśəratə",
+          "gl": ""
+        },
+        {
+          "g": "ዓሥራት",
+          "t": "ʿaśəratə",
+          "gl": ""
+        },
+        {
+          "g": "ለ፩ማሕስአ",
+          "t": "lä1maḥəsəʾä",
+          "gl": ""
+        },
+        {
+          "g": "በግዕ",
+          "t": "bägəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወከማሁ",
+          "t": "wäkämahu",
+          "gl": ""
+        },
+        {
+          "g": "ለሰብዐቲሆሙ",
+          "t": "läsäbəʿätihomu",
+          "gl": ""
+        },
+        {
+          "g": "መሓስአ",
+          "t": "mäḥasəʾä",
+          "gl": ""
+        },
+        {
+          "g": "አባግዕ",
+          "t": "ʾäbagəʿə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "A tenth deal for each several lamb, for the seven lambs.",
+        "kjv": "A several tenth deal for one lamb, throughout the seven lambs:"
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወሐርጌ ፡ አሐዱ ፡ እምውስተ ፡ አጣሊ ፡ በዘ ፡ ቦቱ ፡ ያስተሰርዩ ፡ ለክሙ ፡ በእንተ ፡ ኀጢአት ፡ ዘእንበለ ፡ ዘበእንተ\n                  ፡ ኀጢአት ፡ ዘአስተስርዮ ፡ ወመሥዋዕት ፡ ዘዘልፍ ፡ ወመሥዋዕቶሙኒ ፡ ወሞጻሕቶሙኒ ፡ በከመ ፡ ሕጎሙ ፡ ለመዐዛ ፡ ሠናይ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሐርጌ",
+          "t": "wäḥärəge",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አጣሊ",
+          "t": "ʾäṭali",
+          "gl": ""
+        },
+        {
+          "g": "በዘ",
+          "t": "bäzä",
+          "gl": ""
+        },
+        {
+          "g": "ቦቱ",
+          "t": "botu",
+          "gl": ""
+        },
+        {
+          "g": "ያስተሰርዩ",
+          "t": "yasətäsärəyu",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአት",
+          "t": "ḫäṭiʾätə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእንበለ",
+          "t": "zäʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "ዘበእንተ",
+          "t": "zäbäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአት",
+          "t": "ḫäṭiʾätə",
+          "gl": ""
+        },
+        {
+          "g": "ዘአስተስርዮ",
+          "t": "zäʾäsətäsərəyo",
+          "gl": ""
+        },
+        {
+          "g": "ወመሥዋዕት",
+          "t": "wämäśəwaʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ዘዘልፍ",
+          "t": "zäzäləfə",
+          "gl": ""
+        },
+        {
+          "g": "ወመሥዋዕቶሙኒ",
+          "t": "wämäśəwaʿətomuni",
+          "gl": ""
+        },
+        {
+          "g": "ወሞጻሕቶሙኒ",
+          "t": "wämoṣaḥətomuni",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ሕጎሙ",
+          "t": "ḥəgomu",
+          "gl": ""
+        },
+        {
+          "g": "ለመዐዛ",
+          "t": "lämäʿäza",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይ",
+          "t": "śänayə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And one kid of the goats for a sin-offering, to make atonement for you; beside the sin-offering for atonement, and the continual whole-burnt-offering, its meat-offering, and its drink-offering according to its ordinance for a smell of sweet savour, a burnt-sacrifice to the Lord.",
+        "kjv": "One kid of the goats for a sin offering; beside the sin offering of atonement, and the continual burnt offering, and the meat offering of it, and their drink offerings."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወአመ ፡ ዐሡሩ ፡ ወኀሙሱ ፡ ለሠርቀ ፡ ውእቱ ፡ ወርኅ ፡ ሳብዕ ፡ ቅድስተ ፡ ትሰመይ ፡ ለክሙ ፡ ኵሎ ፡ ግብረ ፡ ማሕረስ\n                  ፡ ኢትግበሩ ፡ ወግበሩ ፡ በዓለ ፡ ለእግዚአብሔር ፡ ባቲ ፡ ሰቡዐ ፡ መዋዕለ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአመ",
+          "t": "wäʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ዐሡሩ",
+          "t": "ʿäśuru",
+          "gl": ""
+        },
+        {
+          "g": "ወኀሙሱ",
+          "t": "wäḫämusu",
+          "gl": ""
+        },
+        {
+          "g": "ለሠርቀ",
+          "t": "läśärəqä",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ወርኅ",
+          "t": "wärəḫə",
+          "gl": ""
+        },
+        {
+          "g": "ሳብዕ",
+          "t": "sabəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ቅድስተ",
+          "t": "qədəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ትሰመይ",
+          "t": "təsämäyə",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ግብረ",
+          "t": "gəbərä",
+          "gl": ""
+        },
+        {
+          "g": "ማሕረስ",
+          "t": "maḥəräsə",
+          "gl": ""
+        },
+        {
+          "g": "ኢትግበሩ",
+          "t": "ʾitəgəbäru",
+          "gl": ""
+        },
+        {
+          "g": "ወግበሩ",
+          "t": "wägəbäru",
+          "gl": ""
+        },
+        {
+          "g": "በዓለ",
+          "t": "bäʿalä",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ባቲ",
+          "t": "bati",
+          "gl": ""
+        },
+        {
+          "g": "ሰቡዐ",
+          "t": "säbuʿä",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕለ",
+          "t": "mäwaʿəlä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And on the fifteenth day of this seventh month ye shall have a holy convocation; ye shall do no servile work; and ye shall keep it a feast to the Lord seven days.",
+        "kjv": "And on the fifteenth day of the seventh month ye shall have an holy convocation; ye shall do no servile work, and ye shall keep a feast unto the LORD seven days:"
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወአብኡ ፡ መሥዋዕተ ፡ ቍርባን ፡ ለመዐዛ ፡ ሠናይ ፡ ለእግዚአብሔር ፡ አመ ፡ ዕለት ፡ ቀዳሚት ፡ አስዋረ ፡ ሠለስተ ፡\n                  እምውስተ ፡ አልህምት ፡ ወዐሠርተ ፡ አልህምተ ፡ ወክልኤተ ፡ አባግዐ ፡ ወዐሠርተ ፡ ወአርባዕተ ፡ መሓስአ ፡ አባግዕ ፡ ዘዘ ፡\n                  ዓመት ፡ ንጹሓነ ፡ ይኩኑ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአብኡ",
+          "t": "wäʾäbəʾu",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕተ",
+          "t": "mäśəwaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "ቍርባን",
+          "t": "qwərəbanə",
+          "gl": ""
+        },
+        {
+          "g": "ለመዐዛ",
+          "t": "lämäʿäza",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይ",
+          "t": "śänayə",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "ቀዳሚት",
+          "t": "qädamitə",
+          "gl": ""
+        },
+        {
+          "g": "አስዋረ",
+          "t": "ʾäsəwarä",
+          "gl": ""
+        },
+        {
+          "g": "ሠለስተ",
+          "t": "śäläsətä",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አልህምት",
+          "t": "ʾäləhəmətə",
+          "gl": ""
+        },
+        {
+          "g": "ወዐሠርተ",
+          "t": "wäʿäśärətä",
+          "gl": ""
+        },
+        {
+          "g": "አልህምተ",
+          "t": "ʾäləhəmətä",
+          "gl": ""
+        },
+        {
+          "g": "ወክልኤተ",
+          "t": "wäkələʾetä",
+          "gl": ""
+        },
+        {
+          "g": "አባግዐ",
+          "t": "ʾäbagəʿä",
+          "gl": ""
+        },
+        {
+          "g": "ወዐሠርተ",
+          "t": "wäʿäśärətä",
+          "gl": ""
+        },
+        {
+          "g": "ወአርባዕተ",
+          "t": "wäʾärəbaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "መሓስአ",
+          "t": "mäḥasəʾä",
+          "gl": ""
+        },
+        {
+          "g": "አባግዕ",
+          "t": "ʾäbagəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ዘዘ",
+          "t": "zäzä",
+          "gl": ""
+        },
+        {
+          "g": "ዓመት",
+          "t": "ʿamätə",
+          "gl": ""
+        },
+        {
+          "g": "ንጹሓነ",
+          "t": "nəṣuḥanä",
+          "gl": ""
+        },
+        {
+          "g": "ይኩኑ",
+          "t": "yəkunu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And ye shall bring near whole-burnt-offerings, a sacrifice for a smell of sweet savour to the Lord, on the first day thirteen calves of the herd, two rams, fourteen lambs of a year old; they shall be without blemish.",
+        "kjv": "And ye shall offer a burnt offering, a sacrifice made by fire, of a sweet savour unto the LORD; thirteen young bullocks, two rams, and fourteen lambs of the first year; they shall be without blemish:"
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወመሥዋዕቶሙ ፡ ሠለስቱ ፡ ዓሥራት ፡ ለለ ፡ ላህም ፡ ስንዳሌ ፡ ዘግቡር ፡ በቅብእ ፡ ወከማሁ ፡ ለዐሠርቲሆሙ ፡\n                  ወሠለስቲሆሙ ፡ ወክልኤቱ ፡ ዓሥራት ፡ ለ፩በግዕ ፡ ወከማሁ ፡ ለክልኤሆሙ ፡ አባግዕ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወመሥዋዕቶሙ",
+          "t": "wämäśəwaʿətomu",
+          "gl": ""
+        },
+        {
+          "g": "ሠለስቱ",
+          "t": "śäläsətu",
+          "gl": ""
+        },
+        {
+          "g": "ዓሥራት",
+          "t": "ʿaśəratə",
+          "gl": ""
+        },
+        {
+          "g": "ለለ",
+          "t": "lälä",
+          "gl": ""
+        },
+        {
+          "g": "ላህም",
+          "t": "lahəmə",
+          "gl": ""
+        },
+        {
+          "g": "ስንዳሌ",
+          "t": "sənədale",
+          "gl": ""
+        },
+        {
+          "g": "ዘግቡር",
+          "t": "zägəburə",
+          "gl": ""
+        },
+        {
+          "g": "በቅብእ",
+          "t": "bäqəbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወከማሁ",
+          "t": "wäkämahu",
+          "gl": ""
+        },
+        {
+          "g": "ለዐሠርቲሆሙ",
+          "t": "läʿäśärətihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወሠለስቲሆሙ",
+          "t": "wäśäläsətihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወክልኤቱ",
+          "t": "wäkələʾetu",
+          "gl": ""
+        },
+        {
+          "g": "ዓሥራት",
+          "t": "ʿaśəratə",
+          "gl": ""
+        },
+        {
+          "g": "ለ፩በግዕ",
+          "t": "lä1bägəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወከማሁ",
+          "t": "wäkämahu",
+          "gl": ""
+        },
+        {
+          "g": "ለክልኤሆሙ",
+          "t": "läkələʾehomu",
+          "gl": ""
+        },
+        {
+          "g": "አባግዕ",
+          "t": "ʾäbagəʿə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Their meat-offerings shall be fine flour mingled with oil; there shall be three tenth deals for one calf, for the thirteen calves; and two tenth deals for one ram, for the two rams.",
+        "kjv": "And their meat offering shall be of flour mingled with oil, three tenth deals unto every bullock of the thirteen bullocks, two tenth deals to each ram of the two rams,"
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ዐ[ሥራት] ፡ ዓሥራት ፡ ለ፩ማሕስአ ፡ በግዕ ፡ ወከማሁ ፡ ለዐሠርቲሆሙ ፡ ወአርባዕቲሆሙ ፡ ማሕስአ ፡ አባግዕ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዐሥራት",
+          "t": "ʿäśəratə",
+          "gl": ""
+        },
+        {
+          "g": "ዓሥራት",
+          "t": "ʿaśəratə",
+          "gl": ""
+        },
+        {
+          "g": "ለ፩ማሕስአ",
+          "t": "lä1maḥəsəʾä",
+          "gl": ""
+        },
+        {
+          "g": "በግዕ",
+          "t": "bägəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወከማሁ",
+          "t": "wäkämahu",
+          "gl": ""
+        },
+        {
+          "g": "ለዐሠርቲሆሙ",
+          "t": "läʿäśärətihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወአርባዕቲሆሙ",
+          "t": "wäʾärəbaʿətihomu",
+          "gl": ""
+        },
+        {
+          "g": "ማሕስአ",
+          "t": "maḥəsəʾä",
+          "gl": ""
+        },
+        {
+          "g": "አባግዕ",
+          "t": "ʾäbagəʿə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "A tenth deal for every lamb, for the fourteen lambs.",
+        "kjv": "And a several tenth deal to each lamb of the fourteen lambs:"
+      }
+    },
+    {
+      "num": 16,
+      "geez": "ወሐርጌ ፡ አሐዱ ፡ እምውስተ ፡ አጣሊ ፡ በእንተ ፡ ኀጢአት ፡ ዘእንበለ ፡ መሥዋዕተ ፡ ዘልፍ ፡ ወሞጻሕቶሙ ፡ ወመሥዋዕቶሙ\n                  ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሐርጌ",
+          "t": "wäḥärəge",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አጣሊ",
+          "t": "ʾäṭali",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአት",
+          "t": "ḫäṭiʾätə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእንበለ",
+          "t": "zäʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕተ",
+          "t": "mäśəwaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "ዘልፍ",
+          "t": "zäləfə",
+          "gl": ""
+        },
+        {
+          "g": "ወሞጻሕቶሙ",
+          "t": "wämoṣaḥətomu",
+          "gl": ""
+        },
+        {
+          "g": "ወመሥዋዕቶሙ",
+          "t": "wämäśəwaʿətomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And one kid of the goats for a sin-offering; beside the continual whole-burnt-offering: there shall be their meat-offerings and their drink-offerings.",
+        "kjv": "And one kid of the goats for a sin offering; beside the continual burnt offering, his meat offering, and his drink offering."
+      }
+    },
+    {
+      "num": 17,
+      "geez": "ወበሳ[ኒታ] ፡ ዕለት ፡ ፲ወ፪አስዋር ፡ ወ፪አባግዕ ፡ ወ፲ወ፬መሓስአ ፡ አባግዕ ፡ ንጹሓን ፡ ዘዘዓመት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበሳኒታ",
+          "t": "wäbäsanita",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "፲ወ፪አስዋር",
+          "t": "10wä2ʾäsəwarə",
+          "gl": ""
+        },
+        {
+          "g": "ወ፪አባግዕ",
+          "t": "wä2ʾäbagəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወ፲ወ፬መሓስአ",
+          "t": "wä10wä4mäḥasəʾä",
+          "gl": ""
+        },
+        {
+          "g": "አባግዕ",
+          "t": "ʾäbagəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ንጹሓን",
+          "t": "nəṣuḥanə",
+          "gl": ""
+        },
+        {
+          "g": "ዘዘዓመት",
+          "t": "zäzäʿamätə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And on the second day twelve calves, two rams, fourteen lambs of a year old without blemish.",
+        "kjv": "And on the second day ye shall offer twelve young bullocks, two rams, fourteen lambs of the first year without spot:"
+      }
+    },
+    {
+      "num": 18,
+      "geez": "ወመሥዋዕቶሙ ፡ ወሞጻሕቶሙ ፡ ለአልህምትኒ ፡ ወለአባግዕኒ ፡ ወለመሓስአ ፡ አባግዕ ፡ በኍለቊሆሙ ፡ በከመ ፡ ሕጎሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወመሥዋዕቶሙ",
+          "t": "wämäśəwaʿətomu",
+          "gl": ""
+        },
+        {
+          "g": "ወሞጻሕቶሙ",
+          "t": "wämoṣaḥətomu",
+          "gl": ""
+        },
+        {
+          "g": "ለአልህምትኒ",
+          "t": "läʾäləhəmətəni",
+          "gl": ""
+        },
+        {
+          "g": "ወለአባግዕኒ",
+          "t": "wäläʾäbagəʿəni",
+          "gl": ""
+        },
+        {
+          "g": "ወለመሓስአ",
+          "t": "wälämäḥasəʾä",
+          "gl": ""
+        },
+        {
+          "g": "አባግዕ",
+          "t": "ʾäbagəʿə",
+          "gl": ""
+        },
+        {
+          "g": "በኍለቊሆሙ",
+          "t": "bäḫwəläqwihomu",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ሕጎሙ",
+          "t": "ḥəgomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Their meat-offering and their drink-offering shall be for the calves and the rams and the lambs according to their number, according to their ordinance.",
+        "kjv": "And their meat offering and their drink offerings for the bullocks, for the rams, and for the lambs, shall be according to their number, after the manner:"
+      }
+    },
+    {
+      "num": 19,
+      "geez": "ወሐርጌ ፡ ፩እምውስተ ፡ አጣሊ ፡ በእንተ ፡ ኀጢአት ፡ ዘእንበለ ፡ መሥዋዕተ ፡ ዘልፍ ፡ ወመሥዋዕቶሙ ፡ ወሞጻሕቶሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሐርጌ",
+          "t": "wäḥärəge",
+          "gl": ""
+        },
+        {
+          "g": "፩እምውስተ",
+          "t": "1ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አጣሊ",
+          "t": "ʾäṭali",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአት",
+          "t": "ḫäṭiʾätə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእንበለ",
+          "t": "zäʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕተ",
+          "t": "mäśəwaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "ዘልፍ",
+          "t": "zäləfə",
+          "gl": ""
+        },
+        {
+          "g": "ወመሥዋዕቶሙ",
+          "t": "wämäśəwaʿətomu",
+          "gl": ""
+        },
+        {
+          "g": "ወሞጻሕቶሙ",
+          "t": "wämoṣaḥətomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And one kid of the goats for a sin-offering; beside the perpetual whole-burnt-offering; their meat-offerings and their drink-offerings.",
+        "kjv": "And one kid of the goats for a sin offering; beside the continual burnt offering, and the meat offering thereof, and their drink offerings."
+      }
+    },
+    {
+      "num": 20,
+      "geez": "ወበሣልስት ፡ ዕለት ፡ አስዋር ፡ ፲ወ፩ወበግዕ ፡ ፪ወመሐስአ ፡ አባግዕ ፡ ፲ወ፬ንጹሓን ፡ ዘዘዓመት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበሣልስት",
+          "t": "wäbäśaləsətə",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "አስዋር",
+          "t": "ʾäsəwarə",
+          "gl": ""
+        },
+        {
+          "g": "፲ወ፩ወበግዕ",
+          "t": "10wä1wäbägəʿə",
+          "gl": ""
+        },
+        {
+          "g": "፪ወመሐስአ",
+          "t": "2wämäḥäsəʾä",
+          "gl": ""
+        },
+        {
+          "g": "አባግዕ",
+          "t": "ʾäbagəʿə",
+          "gl": ""
+        },
+        {
+          "g": "፲ወ፬ንጹሓን",
+          "t": "10wä4nəṣuḥanə",
+          "gl": ""
+        },
+        {
+          "g": "ዘዘዓመት",
+          "t": "zäzäʿamätə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "On the third day eleven calves, two rams, fourteen lambs of a year old without blemish.",
+        "kjv": "And on the third day eleven bullocks, two rams, fourteen lambs of the first year without blemish;"
+      }
+    },
+    {
+      "num": 21,
+      "geez": "ወመሥዋዕቶሙ ፡ ወሞጻሕቶሙ ፡ ለአልህምትኒ ፡ ወለአባግዕኒ ፡ ወለመሓስአ ፡ አባግዕ ፡ በበ ፡ ኍለቊሆሙ ፡ በከመ ፡ ሕጎሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወመሥዋዕቶሙ",
+          "t": "wämäśəwaʿətomu",
+          "gl": ""
+        },
+        {
+          "g": "ወሞጻሕቶሙ",
+          "t": "wämoṣaḥətomu",
+          "gl": ""
+        },
+        {
+          "g": "ለአልህምትኒ",
+          "t": "läʾäləhəmətəni",
+          "gl": ""
+        },
+        {
+          "g": "ወለአባግዕኒ",
+          "t": "wäläʾäbagəʿəni",
+          "gl": ""
+        },
+        {
+          "g": "ወለመሓስአ",
+          "t": "wälämäḥasəʾä",
+          "gl": ""
+        },
+        {
+          "g": "አባግዕ",
+          "t": "ʾäbagəʿə",
+          "gl": ""
+        },
+        {
+          "g": "በበ",
+          "t": "bäbä",
+          "gl": ""
+        },
+        {
+          "g": "ኍለቊሆሙ",
+          "t": "ḫwəläqwihomu",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ሕጎሙ",
+          "t": "ḥəgomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Their meat-offering and their drink-offering shall be to the calves and to the rams and to the lambs according to their number, according to their ordinance.",
+        "kjv": "And their meat offering and their drink offerings for the bullocks, for the rams, and for the lambs, shall be according to their number, after the manner:"
+      }
+    },
+    {
+      "num": 22,
+      "geez": "ወሐርጌ ፡ ፩እምውስተ ፡ አጣሊ ፡ በእንተ ፡ ኀጢአት ፡ ዘእንበለ ፡ መሥዋዕተ ፡ ዘልፍ ፡ ወመሥዋዕቶሙ ፡ ወሞጻሕቶሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሐርጌ",
+          "t": "wäḥärəge",
+          "gl": ""
+        },
+        {
+          "g": "፩እምውስተ",
+          "t": "1ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አጣሊ",
+          "t": "ʾäṭali",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአት",
+          "t": "ḫäṭiʾätə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእንበለ",
+          "t": "zäʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕተ",
+          "t": "mäśəwaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "ዘልፍ",
+          "t": "zäləfə",
+          "gl": ""
+        },
+        {
+          "g": "ወመሥዋዕቶሙ",
+          "t": "wämäśəwaʿətomu",
+          "gl": ""
+        },
+        {
+          "g": "ወሞጻሕቶሙ",
+          "t": "wämoṣaḥətomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And one kid of the goats for a sin-offering; beside the continual whole-burnt-offering; there shall be their meat-offerings and their drink-offerings.",
+        "kjv": "And one goat for a sin offering; beside the continual burnt offering, and his meat offering, and his drink offering."
+      }
+    },
+    {
+      "num": 23,
+      "geez": "ወበራብዕት ፡ ዕለት ፡ አስዋር ፡ ፲ወ፪አባግዕ ፡ ወ፲ወ፬መሓስአ ፡ አባግዕ ፡ ንጹሓን ፡ ዘዘ ፡ ዓመት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበራብዕት",
+          "t": "wäbärabəʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "አስዋር",
+          "t": "ʾäsəwarə",
+          "gl": ""
+        },
+        {
+          "g": "፲ወ፪አባግዕ",
+          "t": "10wä2ʾäbagəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወ፲ወ፬መሓስአ",
+          "t": "wä10wä4mäḥasəʾä",
+          "gl": ""
+        },
+        {
+          "g": "አባግዕ",
+          "t": "ʾäbagəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ንጹሓን",
+          "t": "nəṣuḥanə",
+          "gl": ""
+        },
+        {
+          "g": "ዘዘ",
+          "t": "zäzä",
+          "gl": ""
+        },
+        {
+          "g": "ዓመት",
+          "t": "ʿamätə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "On the fourth day ten calves, two rams, fourteen lambs of a year old without spot.",
+        "kjv": "And on the fourth day ten bullocks, two rams, and fourteen lambs of the first year without blemish:"
+      }
+    },
+    {
+      "num": 24,
+      "geez": "ወመሥዋዕቶሙ ፡ ወሞጻሕቶሙ ፡ ለአልህምትኒ ፡ ወለአባግዕኒ ፡ ወለመሓስአ ፡ አባግዕ ፡ በበ ፡ ኍለቊሆሙ ፡ በከመ ፡ ሕጎሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወመሥዋዕቶሙ",
+          "t": "wämäśəwaʿətomu",
+          "gl": ""
+        },
+        {
+          "g": "ወሞጻሕቶሙ",
+          "t": "wämoṣaḥətomu",
+          "gl": ""
+        },
+        {
+          "g": "ለአልህምትኒ",
+          "t": "läʾäləhəmətəni",
+          "gl": ""
+        },
+        {
+          "g": "ወለአባግዕኒ",
+          "t": "wäläʾäbagəʿəni",
+          "gl": ""
+        },
+        {
+          "g": "ወለመሓስአ",
+          "t": "wälämäḥasəʾä",
+          "gl": ""
+        },
+        {
+          "g": "አባግዕ",
+          "t": "ʾäbagəʿə",
+          "gl": ""
+        },
+        {
+          "g": "በበ",
+          "t": "bäbä",
+          "gl": ""
+        },
+        {
+          "g": "ኍለቊሆሙ",
+          "t": "ḫwəläqwihomu",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ሕጎሙ",
+          "t": "ḥəgomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "There shall be their meat-offerings and their drink-offerings to the calves and the rams and the lambs according to their number, according to their ordinance.",
+        "kjv": "Their meat offering and their drink offerings for the bullocks, for the rams, and for the lambs, shall be according to their number, after the manner:"
+      }
+    },
+    {
+      "num": 25,
+      "geez": "ወሐርጌ ፡ ፩እምውስተ ፡ አጣሊ ፡ በእንተ ፡ ኀጢአት ፡ ዘእንበለ ፡ መሥዋዕተ ፡ ዘልፍ ፡ ወመሥዋዕቶሙ ፡ ወሞጻሕቶሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሐርጌ",
+          "t": "wäḥärəge",
+          "gl": ""
+        },
+        {
+          "g": "፩እምውስተ",
+          "t": "1ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አጣሊ",
+          "t": "ʾäṭali",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአት",
+          "t": "ḫäṭiʾätə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእንበለ",
+          "t": "zäʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕተ",
+          "t": "mäśəwaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "ዘልፍ",
+          "t": "zäləfə",
+          "gl": ""
+        },
+        {
+          "g": "ወመሥዋዕቶሙ",
+          "t": "wämäśəwaʿətomu",
+          "gl": ""
+        },
+        {
+          "g": "ወሞጻሕቶሙ",
+          "t": "wämoṣaḥətomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And one kid of the goats for a sin-offering; beside the continual whole-burnt-offering there shall be their meat-offerings and their drink-offerings.",
+        "kjv": "And one kid of the goats for a sin offering; beside the continual burnt offering, his meat offering, and his drink offering."
+      }
+    },
+    {
+      "num": 26,
+      "geez": "ወበኃምስት ፡ ዕለት ፡ አስዋር ፡ ፱ወ፪አባግዕ ፡ ወ፲ወ፬መሐስአ ፡ አባግዕ ፡ ንጹሓን ፡ ዘዘ ፡ ዓመት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበኃምስት",
+          "t": "wäbäḫaməsətə",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "አስዋር",
+          "t": "ʾäsəwarə",
+          "gl": ""
+        },
+        {
+          "g": "፱ወ፪አባግዕ",
+          "t": "9wä2ʾäbagəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወ፲ወ፬መሐስአ",
+          "t": "wä10wä4mäḥäsəʾä",
+          "gl": ""
+        },
+        {
+          "g": "አባግዕ",
+          "t": "ʾäbagəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ንጹሓን",
+          "t": "nəṣuḥanə",
+          "gl": ""
+        },
+        {
+          "g": "ዘዘ",
+          "t": "zäzä",
+          "gl": ""
+        },
+        {
+          "g": "ዓመት",
+          "t": "ʿamätə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "On the fifth day nine calves, two rams, fourteen lambs of a year old without spot.",
+        "kjv": "And on the fifth day nine bullocks, two rams, and fourteen lambs of the first year without spot:"
+      }
+    },
+    {
+      "num": 27,
+      "geez": "ወመሥዋዕቶሙ ፡ ወሞጻሕቶሙ ፡ ለአልህምትኒ ፡ ወለአባግዕኒ ፡ ወለመሐስአ ፡ አባግዕ ፡ በከመ ፡ ኍለቊሆሙ ፡ በከመ ፡ ሕጎሙ\n                  ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወመሥዋዕቶሙ",
+          "t": "wämäśəwaʿətomu",
+          "gl": ""
+        },
+        {
+          "g": "ወሞጻሕቶሙ",
+          "t": "wämoṣaḥətomu",
+          "gl": ""
+        },
+        {
+          "g": "ለአልህምትኒ",
+          "t": "läʾäləhəmətəni",
+          "gl": ""
+        },
+        {
+          "g": "ወለአባግዕኒ",
+          "t": "wäläʾäbagəʿəni",
+          "gl": ""
+        },
+        {
+          "g": "ወለመሐስአ",
+          "t": "wälämäḥäsəʾä",
+          "gl": ""
+        },
+        {
+          "g": "አባግዕ",
+          "t": "ʾäbagəʿə",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ኍለቊሆሙ",
+          "t": "ḫwəläqwihomu",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ሕጎሙ",
+          "t": "ḥəgomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Their meat-offerings and their drink-offerings shall be to the calves and the rams and the lambs according to their number, according to their ordinance.",
+        "kjv": "And their meat offering and their drink offerings for the bullocks, for the rams, and for the lambs, shall be according to their number, after the manner:"
+      }
+    },
+    {
+      "num": 28,
+      "geez": "ወሐርጌ ፡ ፩እምውስተ ፡ አጣሊ ፡ በእንተ ፡ ኀጢአት ፡ ዘእንበለ ፡ መሥዋዕተ ፡ ዘልፍ ፡ ወመሥዋዕቶሙ ፡ ወሞጻሕቶሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሐርጌ",
+          "t": "wäḥärəge",
+          "gl": ""
+        },
+        {
+          "g": "፩እምውስተ",
+          "t": "1ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አጣሊ",
+          "t": "ʾäṭali",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአት",
+          "t": "ḫäṭiʾätə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእንበለ",
+          "t": "zäʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕተ",
+          "t": "mäśəwaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "ዘልፍ",
+          "t": "zäləfə",
+          "gl": ""
+        },
+        {
+          "g": "ወመሥዋዕቶሙ",
+          "t": "wämäśəwaʿətomu",
+          "gl": ""
+        },
+        {
+          "g": "ወሞጻሕቶሙ",
+          "t": "wämoṣaḥətomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And one kid of the goats for a sin-offering; beside the perpetual whole-burnt-offering; there shall be their meat-offerings and their drink-offerings.",
+        "kjv": "And one goat for a sin offering; beside the continual burnt offering, and his meat offering, and his drink offering."
+      }
+    },
+    {
+      "num": 29,
+      "geez": "ወበሳድስት ፡ ዕለት ፡ አስዋር ፡ ፰ወ፪አባግዕ ፡ ወ፲ወ፬መሐስአ ፡ አባግዕ ፡ ንጹሓን ፡ ዘዘ ፡ ዓመት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበሳድስት",
+          "t": "wäbäsadəsətə",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "አስዋር",
+          "t": "ʾäsəwarə",
+          "gl": ""
+        },
+        {
+          "g": "፰ወ፪አባግዕ",
+          "t": "8wä2ʾäbagəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወ፲ወ፬መሐስአ",
+          "t": "wä10wä4mäḥäsəʾä",
+          "gl": ""
+        },
+        {
+          "g": "አባግዕ",
+          "t": "ʾäbagəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ንጹሓን",
+          "t": "nəṣuḥanə",
+          "gl": ""
+        },
+        {
+          "g": "ዘዘ",
+          "t": "zäzä",
+          "gl": ""
+        },
+        {
+          "g": "ዓመት",
+          "t": "ʿamätə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "On the sixth day eight calves, two rams, fourteen lambs of a year old without blemish.",
+        "kjv": "And on the sixth day eight bullocks, two rams, and fourteen lambs of the first year without blemish:"
+      }
+    },
+    {
+      "num": 30,
+      "geez": "ወመሥዋዕቶሙ ፡ ወሞጻሕቶሙ ፡ ለአልህምትኒ ፡ ወለአባግዕኒ ፡ ወለመሓስአ ፡ አባግዕ ፡ በበ ፡ ኍለቊሆሙ ፡ ወበከመ ፡ ሕጎሙ\n                  ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወመሥዋዕቶሙ",
+          "t": "wämäśəwaʿətomu",
+          "gl": ""
+        },
+        {
+          "g": "ወሞጻሕቶሙ",
+          "t": "wämoṣaḥətomu",
+          "gl": ""
+        },
+        {
+          "g": "ለአልህምትኒ",
+          "t": "läʾäləhəmətəni",
+          "gl": ""
+        },
+        {
+          "g": "ወለአባግዕኒ",
+          "t": "wäläʾäbagəʿəni",
+          "gl": ""
+        },
+        {
+          "g": "ወለመሓስአ",
+          "t": "wälämäḥasəʾä",
+          "gl": ""
+        },
+        {
+          "g": "አባግዕ",
+          "t": "ʾäbagəʿə",
+          "gl": ""
+        },
+        {
+          "g": "በበ",
+          "t": "bäbä",
+          "gl": ""
+        },
+        {
+          "g": "ኍለቊሆሙ",
+          "t": "ḫwəläqwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበከመ",
+          "t": "wäbäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ሕጎሙ",
+          "t": "ḥəgomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "There shall be their meat-offerings and their drink-offerings to the calves and rams and lambs according to their number, according to their ordinance.",
+        "kjv": "And their meat offering and their drink offerings for the bullocks, for the rams, and for the lambs, shall be according to their number, after the manner:"
+      }
+    },
+    {
+      "num": 31,
+      "geez": "ወሐርጌ ፡ ፩እምውስተ ፡ አጣሊ ፡ በእንተ ፡ ኀጢአት ፡ ዘእንበለ ፡ መሥዋዕተ ፡ ዘልፍ ፡ ወመሥዋዕቶሙ ፡ ወሞጻሕቶሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሐርጌ",
+          "t": "wäḥärəge",
+          "gl": ""
+        },
+        {
+          "g": "፩እምውስተ",
+          "t": "1ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አጣሊ",
+          "t": "ʾäṭali",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአት",
+          "t": "ḫäṭiʾätə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእንበለ",
+          "t": "zäʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕተ",
+          "t": "mäśəwaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "ዘልፍ",
+          "t": "zäləfə",
+          "gl": ""
+        },
+        {
+          "g": "ወመሥዋዕቶሙ",
+          "t": "wämäśəwaʿətomu",
+          "gl": ""
+        },
+        {
+          "g": "ወሞጻሕቶሙ",
+          "t": "wämoṣaḥətomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And one kid of the goats for a sin-offering; beside the perpetual whole-burnt-offering; there shall be their meat-offerings and their drink-offerings.",
+        "kjv": "And one goat for a sin offering; beside the continual burnt offering, his meat offering, and his drink offering."
+      }
+    },
+    {
+      "num": 32,
+      "geez": "ወበሳብዕት ፡ ዕለት ፡ አልህምት ፡ ፯ወአባግዕ ፡ ፪ወ፲ወ፬መሓስአ ፡ አባግዕ ፡ ዘዘ ፡ ዓመት ፡ ንጹሓን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበሳብዕት",
+          "t": "wäbäsabəʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "አልህምት",
+          "t": "ʾäləhəmətə",
+          "gl": ""
+        },
+        {
+          "g": "፯ወአባግዕ",
+          "t": "7wäʾäbagəʿə",
+          "gl": ""
+        },
+        {
+          "g": "፪ወ፲ወ፬መሓስአ",
+          "t": "2wä10wä4mäḥasəʾä",
+          "gl": ""
+        },
+        {
+          "g": "አባግዕ",
+          "t": "ʾäbagəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ዘዘ",
+          "t": "zäzä",
+          "gl": ""
+        },
+        {
+          "g": "ዓመት",
+          "t": "ʿamätə",
+          "gl": ""
+        },
+        {
+          "g": "ንጹሓን",
+          "t": "nəṣuḥanə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "On the seventh day seven calves, two rams, fourteen lambs of a year old without blemish.",
+        "kjv": "And on the seventh day seven bullocks, two rams, and fourteen lambs of the first year without blemish:"
+      }
+    },
+    {
+      "num": 33,
+      "geez": "ወመሥዋዕቶሙኒ ፡ ወሞጻሕቶሙኒ ፡ ለአልህምትኒ ፡ ወለአባግዕኒ ፡ ወለመሓስአ ፡ አባግዕ ፡ በበ ፡ ኍለቊሆሙ ፡ ወበከመ ፡\n                  ሕጎሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወመሥዋዕቶሙኒ",
+          "t": "wämäśəwaʿətomuni",
+          "gl": ""
+        },
+        {
+          "g": "ወሞጻሕቶሙኒ",
+          "t": "wämoṣaḥətomuni",
+          "gl": ""
+        },
+        {
+          "g": "ለአልህምትኒ",
+          "t": "läʾäləhəmətəni",
+          "gl": ""
+        },
+        {
+          "g": "ወለአባግዕኒ",
+          "t": "wäläʾäbagəʿəni",
+          "gl": ""
+        },
+        {
+          "g": "ወለመሓስአ",
+          "t": "wälämäḥasəʾä",
+          "gl": ""
+        },
+        {
+          "g": "አባግዕ",
+          "t": "ʾäbagəʿə",
+          "gl": ""
+        },
+        {
+          "g": "በበ",
+          "t": "bäbä",
+          "gl": ""
+        },
+        {
+          "g": "ኍለቊሆሙ",
+          "t": "ḫwəläqwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበከመ",
+          "t": "wäbäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ሕጎሙ",
+          "t": "ḥəgomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Their meat-offerings and their drink-offerings shall be to the calves and the rams and the lambs according to their number, according to their ordinance.",
+        "kjv": "And their meat offering and their drink offerings for the bullocks, for the rams, and for the lambs, shall be according to their number, after the manner:"
+      }
+    },
+    {
+      "num": 34,
+      "geez": "ወሐርጌ ፡ ፩እምውስተ ፡ አጣሊ ፡ በእንተ ፡ ኀጢአት ፡ ዘእንበለ ፡ መሥዋዕተ ፡ ዘልፍ ፡ ወመሥዋዕቶሙ ፡ ወሞጻሕቶሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሐርጌ",
+          "t": "wäḥärəge",
+          "gl": ""
+        },
+        {
+          "g": "፩እምውስተ",
+          "t": "1ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አጣሊ",
+          "t": "ʾäṭali",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአት",
+          "t": "ḫäṭiʾätə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእንበለ",
+          "t": "zäʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕተ",
+          "t": "mäśəwaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "ዘልፍ",
+          "t": "zäləfə",
+          "gl": ""
+        },
+        {
+          "g": "ወመሥዋዕቶሙ",
+          "t": "wämäśəwaʿətomu",
+          "gl": ""
+        },
+        {
+          "g": "ወሞጻሕቶሙ",
+          "t": "wämoṣaḥətomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And one kid of the goats for a sin-offering; beside the continual whole-burnt-offering; there shall be their meat-offerings and their drink-offerings.",
+        "kjv": "And one goat for a sin offering; beside the continual burnt offering, his meat offering, and his drink offering."
+      }
+    },
+    {
+      "num": 35,
+      "geez": "ወበሳምንት ፡ ዕለት ፡ ዕለተ ፡ ተሐውሶ ፡ ይእቲ ፡ ለክሙ ፡ ኵሎ ፡ ግብረ ፡ ማሕረስ ፡ ኢትግበሩ ፡ ባቲ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበሳምንት",
+          "t": "wäbäsamənətə",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "ዕለተ",
+          "t": "ʿəlätä",
+          "gl": ""
+        },
+        {
+          "g": "ተሐውሶ",
+          "t": "täḥäwəso",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ግብረ",
+          "t": "gəbərä",
+          "gl": ""
+        },
+        {
+          "g": "ማሕረስ",
+          "t": "maḥəräsə",
+          "gl": ""
+        },
+        {
+          "g": "ኢትግበሩ",
+          "t": "ʾitəgəbäru",
+          "gl": ""
+        },
+        {
+          "g": "ባቲ",
+          "t": "bati",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And on the eighth day there shall be to you a release: ye shall do no servile work in it.",
+        "kjv": "On the eighth day ye shall have a solemn assembly: ye shall do no servile work therein:"
+      }
+    },
+    {
+      "num": 36,
+      "geez": "ወአብኡ ፡ መሥዋዕተ ፡ ቍርባን ፡ ለመዐዛ ፡ ሠናይ ፡ ለእግዚአብሔር ፡ ላህመ ፡ አሐደ ፡ ወበግዐ ፡ አሐደ ፡ ለመሥዋዕት ፡\n                  ወመሖስአ ፡ አባግዕ ፡ ዘዘ ፡ ዓመት ፡ ንጹሓነ ፡ ሰብዐተ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአብኡ",
+          "t": "wäʾäbəʾu",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕተ",
+          "t": "mäśəwaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "ቍርባን",
+          "t": "qwərəbanə",
+          "gl": ""
+        },
+        {
+          "g": "ለመዐዛ",
+          "t": "lämäʿäza",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይ",
+          "t": "śänayə",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ላህመ",
+          "t": "lahəmä",
+          "gl": ""
+        },
+        {
+          "g": "አሐደ",
+          "t": "ʾäḥädä",
+          "gl": ""
+        },
+        {
+          "g": "ወበግዐ",
+          "t": "wäbägəʿä",
+          "gl": ""
+        },
+        {
+          "g": "አሐደ",
+          "t": "ʾäḥädä",
+          "gl": ""
+        },
+        {
+          "g": "ለመሥዋዕት",
+          "t": "lämäśəwaʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ወመሖስአ",
+          "t": "wämäḥosəʾä",
+          "gl": ""
+        },
+        {
+          "g": "አባግዕ",
+          "t": "ʾäbagəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ዘዘ",
+          "t": "zäzä",
+          "gl": ""
+        },
+        {
+          "g": "ዓመት",
+          "t": "ʿamätə",
+          "gl": ""
+        },
+        {
+          "g": "ንጹሓነ",
+          "t": "nəṣuḥanä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብዐተ",
+          "t": "säbəʿätä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And ye shall offer whole-burnt-offerings as sacrifices to the Lord, one calf, one ram, seven lambs of a year old without spot.",
+        "kjv": "But ye shall offer a burnt offering, a sacrifice made by fire, of a sweet savour unto the LORD: one bullock, one ram, seven lambs of the first year without blemish:"
+      }
+    },
+    {
+      "num": 37,
+      "geez": "ወመሥዋዕቶሙ ፡ ወሞጻሕቶሙ ፡ ለአልህምትኒ ፡ ወለአባግዕኒ ፡ ወለመሐስአ ፡ አባግዕ ፡ በበ ፡ ኍለቊሆሙ ፡ ወበከመ ፡ ሕጎሙ\n                  ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወመሥዋዕቶሙ",
+          "t": "wämäśəwaʿətomu",
+          "gl": ""
+        },
+        {
+          "g": "ወሞጻሕቶሙ",
+          "t": "wämoṣaḥətomu",
+          "gl": ""
+        },
+        {
+          "g": "ለአልህምትኒ",
+          "t": "läʾäləhəmətəni",
+          "gl": ""
+        },
+        {
+          "g": "ወለአባግዕኒ",
+          "t": "wäläʾäbagəʿəni",
+          "gl": ""
+        },
+        {
+          "g": "ወለመሐስአ",
+          "t": "wälämäḥäsəʾä",
+          "gl": ""
+        },
+        {
+          "g": "አባግዕ",
+          "t": "ʾäbagəʿə",
+          "gl": ""
+        },
+        {
+          "g": "በበ",
+          "t": "bäbä",
+          "gl": ""
+        },
+        {
+          "g": "ኍለቊሆሙ",
+          "t": "ḫwəläqwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበከመ",
+          "t": "wäbäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ሕጎሙ",
+          "t": "ḥəgomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "There shall be their meat-offerings and their drink-offerings for the calf and the ram and the lambs according to their number, according to their ordinance.",
+        "kjv": "Their meat offering and their drink offerings for the bullock, for the ram, and for the lambs, shall be according to their number, after the manner:"
+      }
+    },
+    {
+      "num": 38,
+      "geez": "ወሐርጌ ፡ አሐደ ፡ እምውስተ ፡ አጣሊ ፡ በእንተ ፡ ኀጢአት ፡ ዘእንበለ ፡ መሥዋዕተ ፡ ዘልፍ ፡ ወመሥዋዕቶሙ ፡ ወሞጻሕቶሙ\n                  ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሐርጌ",
+          "t": "wäḥärəge",
+          "gl": ""
+        },
+        {
+          "g": "አሐደ",
+          "t": "ʾäḥädä",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አጣሊ",
+          "t": "ʾäṭali",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአት",
+          "t": "ḫäṭiʾätə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእንበለ",
+          "t": "zäʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕተ",
+          "t": "mäśəwaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "ዘልፍ",
+          "t": "zäləfə",
+          "gl": ""
+        },
+        {
+          "g": "ወመሥዋዕቶሙ",
+          "t": "wämäśəwaʿətomu",
+          "gl": ""
+        },
+        {
+          "g": "ወሞጻሕቶሙ",
+          "t": "wämoṣaḥətomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And one kid of the goats for a sin-offering; beside the continual whole-burnt-offering; there shall be their meat-offerings and their drink-offerings.",
+        "kjv": "And one goat for a sin offering; beside the continual burnt offering, and his meat offering, and his drink offering."
+      }
+    },
+    {
+      "num": 39,
+      "geez": "ወከመዝ ፡ ግበሩ ፡ ዘንተ ፡ ለእግዚአብሔር ፡ በበዓላቲክሙ ፡ ወዘበፈቃድክሙኒ ፡ ወቍርባንክሙኒ ፡ ወመሥዋዕትክሙኒ ፡\n                  ወሞጻሕትክሙኒ ፡ ወዘመድኀኒትክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወከመዝ",
+          "t": "wäkämäzə",
+          "gl": ""
+        },
+        {
+          "g": "ግበሩ",
+          "t": "gəbäru",
+          "gl": ""
+        },
+        {
+          "g": "ዘንተ",
+          "t": "zänətä",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "በበዓላቲክሙ",
+          "t": "bäbäʿalatikəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወዘበፈቃድክሙኒ",
+          "t": "wäzäbäfäqadəkəmuni",
+          "gl": ""
+        },
+        {
+          "g": "ወቍርባንክሙኒ",
+          "t": "wäqwərəbanəkəmuni",
+          "gl": ""
+        },
+        {
+          "g": "ወመሥዋዕትክሙኒ",
+          "t": "wämäśəwaʿətəkəmuni",
+          "gl": ""
+        },
+        {
+          "g": "ወሞጻሕትክሙኒ",
+          "t": "wämoṣaḥətəkəmuni",
+          "gl": ""
+        },
+        {
+          "g": "ወዘመድኀኒትክሙ",
+          "t": "wäzämädəḫänitəkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "These sacrifices shall ye offer to the Lord in your feasts, besides your vows; and ye shall offer your free-will-offerings and your whole-burnt-offerings, and your meat-offerings and your drink-offerings, and your peace-offerings.",
+        "kjv": "These things ye shall do unto the LORD in your set feasts, beside your vows, and your freewill offerings, for your burnt offerings, and for your meat offerings, and for your drink offerings, and for your peace offerings."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

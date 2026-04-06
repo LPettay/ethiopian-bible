@@ -1,0 +1,980 @@
+{
+  "book": "Deut",
+  "chapter": 34,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወዐርገ ፡ ሙሴ ፡ እምነ ፡ አራቦ[ት] ፡ ዘሞአብ ፡ ውስተ ፡ ደብረ ፡ ና[በው] ፡ ውስተ ፡ ርእሰ ፡ ፈስጋ ፡ ዘሀለወ ፡\n                  ቅድመ ፡ ኢያሪኮ ፡ ወአርአዮ ፡ እግዚአብሔር ፡ ኵሎ ፡ ምድረ ፡ ገላአድ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዐርገ",
+          "t": "wäʿärəgä",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "አራቦት",
+          "t": "ʾärabotə",
+          "gl": ""
+        },
+        {
+          "g": "ዘሞአብ",
+          "t": "zämoʾäbə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ደብረ",
+          "t": "däbərä",
+          "gl": ""
+        },
+        {
+          "g": "ናበው",
+          "t": "nabäwə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ርእሰ",
+          "t": "rəʾəsä",
+          "gl": ""
+        },
+        {
+          "g": "ፈስጋ",
+          "t": "fäsəga",
+          "gl": ""
+        },
+        {
+          "g": "ዘሀለወ",
+          "t": "zähäläwä",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኢያሪኮ",
+          "t": "ʾiyariko",
+          "gl": ""
+        },
+        {
+          "g": "ወአርአዮ",
+          "t": "wäʾärəʾäyo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ምድረ",
+          "t": "mədərä",
+          "gl": ""
+        },
+        {
+          "g": "ገላአድ",
+          "t": "gälaʾädə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Moses went up from Araboth Moab to the mount of Nabau, to the top of Phasga, which is before Jericho; and the Lord shewed him all the mount of Galaad to Dan, and all the land of Nephthali,",
+        "kjv": "And Moses went up from the plains of Moab unto the mountain of Nebo, to the top of Pisgah, that is over against Jericho. And the LORD shewed him all the land of Gilead, unto Dan,"
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ወኵሎ ፡ ምድረ ፡ ንፍታሌም ፡ ወኵሎ ፡ ምድረ ፡ ምናሴ ፡ ወኵሎ ፡ ምድረ ፡ ይሁዳ ፡ እስከ ፡ ደኃሪት ፡ ባሕር ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ምድረ",
+          "t": "mədərä",
+          "gl": ""
+        },
+        {
+          "g": "ንፍታሌም",
+          "t": "nəfətalemə",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ምድረ",
+          "t": "mədərä",
+          "gl": ""
+        },
+        {
+          "g": "ምናሴ",
+          "t": "mənase",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ምድረ",
+          "t": "mədərä",
+          "gl": ""
+        },
+        {
+          "g": "ይሁዳ",
+          "t": "yəhuda",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ደኃሪት",
+          "t": "däḫaritə",
+          "gl": ""
+        },
+        {
+          "g": "ባሕር",
+          "t": "baḥərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and all the land of Ephraim and Manasse, and all the land of Juda to the farthest sea;",
+        "kjv": "And all Naphtali, and the land of Ephraim, and Manasseh, and all the land of Judah, unto the utmost sea,"
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወገዳሙ ፡ ወአድያሚሃ ፡ ለኢያሪኮ ፡ ሀገረ ፡ ፊንቆን ፡ እስከ ፡ ሴይር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወገዳሙ",
+          "t": "wägädamu",
+          "gl": ""
+        },
+        {
+          "g": "ወአድያሚሃ",
+          "t": "wäʾädəyamiha",
+          "gl": ""
+        },
+        {
+          "g": "ለኢያሪኮ",
+          "t": "läʾiyariko",
+          "gl": ""
+        },
+        {
+          "g": "ሀገረ",
+          "t": "hägärä",
+          "gl": ""
+        },
+        {
+          "g": "ፊንቆን",
+          "t": "finəqonə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ሴይር",
+          "t": "seyərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and the wilderness, and the country round about Jericho, the city of palm-trees, to Segor.",
+        "kjv": "And the south, and the plain of the valley of Jericho, the city of palm trees, unto Zoar."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወይቤሎ ፡ እግዚአብሔር ፡ ለሙሴ ፡ ዛቲ ፡ ምድር ፡ እንተ ፡ መሐልኩ ፡ ለአብርሃም ፡ ወለይስሐቅ ፡ ወለያዕቆብ ፡ ወእቤሎሙ\n                  ፡ ለዘርእከ ፡ እሁባ ፡ ወናሁ ፡ አርአይኩካሃ ፡ [ለከ ፡ በአዕይንቲከ ፡] ወህየ ፡ ባሕቱ ፡ ኢትበውእ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ዛቲ",
+          "t": "zati",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "መሐልኩ",
+          "t": "mäḥäləku",
+          "gl": ""
+        },
+        {
+          "g": "ለአብርሃም",
+          "t": "läʾäbərəhamə",
+          "gl": ""
+        },
+        {
+          "g": "ወለይስሐቅ",
+          "t": "wäläyəsəḥäqə",
+          "gl": ""
+        },
+        {
+          "g": "ወለያዕቆብ",
+          "t": "wäläyaʿəqobə",
+          "gl": ""
+        },
+        {
+          "g": "ወእቤሎሙ",
+          "t": "wäʾəbelomu",
+          "gl": ""
+        },
+        {
+          "g": "ለዘርእከ",
+          "t": "läzärəʾəkä",
+          "gl": ""
+        },
+        {
+          "g": "እሁባ",
+          "t": "ʾəhuba",
+          "gl": ""
+        },
+        {
+          "g": "ወናሁ",
+          "t": "wänahu",
+          "gl": ""
+        },
+        {
+          "g": "አርአይኩካሃ",
+          "t": "ʾärəʾäyəkukaha",
+          "gl": ""
+        },
+        {
+          "g": "ለከ",
+          "t": "läkä",
+          "gl": ""
+        },
+        {
+          "g": "በአዕይንቲከ",
+          "t": "bäʾäʿəyənətikä",
+          "gl": ""
+        },
+        {
+          "g": "ወህየ",
+          "t": "wähəyä",
+          "gl": ""
+        },
+        {
+          "g": "ባሕቱ",
+          "t": "baḥətu",
+          "gl": ""
+        },
+        {
+          "g": "ኢትበውእ",
+          "t": "ʾitəbäwəʾə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord said to Moses, This is the land of which I sware to Abraam, and Isaac, and Jacob, saying, To your seed will I give it: and I have shewed it to thine eyes, but thou shalt not go in thither.",
+        "kjv": "And the LORD said unto him, This is the land which I sware unto Abraham, unto Isaac, and unto Jacob, saying, I will give it unto thy seed: I have caused thee to see it with thine eyes, but thou shalt not go over thither."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወሞተ ፡ ሙሴ ፡ ቍልዔሁ ፡ ለእግዚአብሔር ፡ በምድረ ፡ ሞአብ ፡ በቃለ ፡ እግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሞተ",
+          "t": "wämotä",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ቍልዔሁ",
+          "t": "qwələʿehu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "በምድረ",
+          "t": "bämədərä",
+          "gl": ""
+        },
+        {
+          "g": "ሞአብ",
+          "t": "moʾäbə",
+          "gl": ""
+        },
+        {
+          "g": "በቃለ",
+          "t": "bäqalä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "So Moses the servant of the Lord died in the land of Moab by the word of the Lord.",
+        "kjv": "So Moses the servant of the LORD died there in the land of Moab, according to the word of the LORD."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወቀበርዎ ፡ ውስተ ፡ ምድር ፡ ቅሩበ ፡ ቤተ ፡ ፌጎር ፡ ወአልቦ ፡ ዘያአምር ፡ መኑሂ ፡ መቃብሮ ፡ እስከ ፡ ዛቲ ፡ ዕለት\n                  ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወቀበርዎ",
+          "t": "wäqäbärəwo",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ቅሩበ",
+          "t": "qərubä",
+          "gl": ""
+        },
+        {
+          "g": "ቤተ",
+          "t": "betä",
+          "gl": ""
+        },
+        {
+          "g": "ፌጎር",
+          "t": "fegorə",
+          "gl": ""
+        },
+        {
+          "g": "ወአልቦ",
+          "t": "wäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘያአምር",
+          "t": "zäyaʾämərə",
+          "gl": ""
+        },
+        {
+          "g": "መኑሂ",
+          "t": "mänuhi",
+          "gl": ""
+        },
+        {
+          "g": "መቃብሮ",
+          "t": "mäqabəro",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዛቲ",
+          "t": "zati",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they buried him in Gai near the house of Phogor; and no one has seen his sepulchre to this day.",
+        "kjv": "And he buried him in a valley in the land of Moab, over against Bethpeor: but no man knoweth of his sepulchre unto this day."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወምእት ፡ ወዕሥራ ፡ ዓመት ፡ ሎቱ ፡ ለሙሴ ፡ አመ ፡ ሞተ ፡ ወኢተሐምጋ ፡ አዕይንቲሁ ፡ ወኢማሰና ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወምእት",
+          "t": "wäməʾətə",
+          "gl": ""
+        },
+        {
+          "g": "ወዕሥራ",
+          "t": "wäʿəśəra",
+          "gl": ""
+        },
+        {
+          "g": "ዓመት",
+          "t": "ʿamätə",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ሞተ",
+          "t": "motä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢተሐምጋ",
+          "t": "wäʾitäḥäməga",
+          "gl": ""
+        },
+        {
+          "g": "አዕይንቲሁ",
+          "t": "ʾäʿəyənətihu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢማሰና",
+          "t": "wäʾimasäna",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Moses was a hundred and twenty years old at his death; his eyes were not dimmed, nor were his natural powers destroyed.",
+        "kjv": "And Moses was an hundred and twenty years old when he died: his eye was not dim, nor his natural force abated."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወበከይዎ ፡ ደቂቀ ፡ እስራኤል ፡ ለሙሴ ፡ በአራቦት ፡ ዘሞአብ ፡ በኀበ ፡ ዮርዳንስ ፡ ዘመንገለ ፡ ኢያሪኮ ፡ ሠላሳ ፡\n                  መዋዕለ ፡ ወተፈጸመ ፡ መዋዕለ ፡ ላሑ ፡ ለሙሴ ፡ ዘበከይዎ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበከይዎ",
+          "t": "wäbäkäyəwo",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "በአራቦት",
+          "t": "bäʾärabotə",
+          "gl": ""
+        },
+        {
+          "g": "ዘሞአብ",
+          "t": "zämoʾäbə",
+          "gl": ""
+        },
+        {
+          "g": "በኀበ",
+          "t": "bäḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ዮርዳንስ",
+          "t": "yorədanəsə",
+          "gl": ""
+        },
+        {
+          "g": "ዘመንገለ",
+          "t": "zämänəgälä",
+          "gl": ""
+        },
+        {
+          "g": "ኢያሪኮ",
+          "t": "ʾiyariko",
+          "gl": ""
+        },
+        {
+          "g": "ሠላሳ",
+          "t": "śälasa",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕለ",
+          "t": "mäwaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ወተፈጸመ",
+          "t": "wätäfäṣämä",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕለ",
+          "t": "mäwaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ላሑ",
+          "t": "laḥu",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ዘበከይዎ",
+          "t": "zäbäkäyəwo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the children of Israel wept for Moses in Araboth of Moab at Jordan near Jericho thirty days; and the days of the sad mourning for Moses were completed.",
+        "kjv": "And the children of Israel wept for Moses in the plains of Moab thirty days: so the days of weeping and mourning for Moses were ended."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወኢየሱስ ፡ ወልደ ፡ ነዌ ፡ ተመልአ ፡ መንፈሰ ፡ ጥበብ ፡ እስመ ፡ ወደየ ፡ እዴሁ ፡ ሙሴ ፡ ላዕሌሁ ፡ ወተአዘዙ ፡ ሎቱ\n                  ፡ ኵሉ ፡ ደቂቀ ፡ እስራኤል ፡ ወገብሩ ፡ ኵሎ ፡ ዘከመ ፡ አዘዞ ፡ እግዚአብሔር ፡ ለሙሴ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኢየሱስ",
+          "t": "wäʾiyäsusə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ነዌ",
+          "t": "näwe",
+          "gl": ""
+        },
+        {
+          "g": "ተመልአ",
+          "t": "tämäləʾä",
+          "gl": ""
+        },
+        {
+          "g": "መንፈሰ",
+          "t": "mänəfäsä",
+          "gl": ""
+        },
+        {
+          "g": "ጥበብ",
+          "t": "ṭəbäbə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ወደየ",
+          "t": "wädäyä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ወተአዘዙ",
+          "t": "wätäʾäzäzu",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወገብሩ",
+          "t": "wägäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ዘከመ",
+          "t": "zäkämä",
+          "gl": ""
+        },
+        {
+          "g": "አዘዞ",
+          "t": "ʾäzäzo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Joshua the son of Naue was filled with the spirit of knowledge, for Moses had laid his hands upon him; and the children of Israel hearkened to him; and they did as the Lord commanded Moses.",
+        "kjv": "And Joshua the son of Nun was full of the spirit of wisdom; for Moses had laid his hands upon him: and the children of Israel hearkened unto him, and did as the LORD commanded Moses."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወኢተንሥአ ፡ እንከ ፡ ነቢይ ፡ ውስተ ፡ እስራኤል ፡ ዘከመ ፡ ሙሴ ፡ ዘተናገሮ ፡ ለእግዚአብሔር ፡ ገጸ ፡ በገጽ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኢተንሥአ",
+          "t": "wäʾitänəśəʾä",
+          "gl": ""
+        },
+        {
+          "g": "እንከ",
+          "t": "ʾənəkä",
+          "gl": ""
+        },
+        {
+          "g": "ነቢይ",
+          "t": "näbiyə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ዘከመ",
+          "t": "zäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ዘተናገሮ",
+          "t": "zätänagäro",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ገጸ",
+          "t": "gäṣä",
+          "gl": ""
+        },
+        {
+          "g": "በገጽ",
+          "t": "bägäṣə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And there rose up no more a prophet in Israel like Moses, whom the Lord knew face to face,",
+        "kjv": "And there arose not a prophet since in Israel like unto Moses, whom the LORD knew face to face,"
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወበኵሉ ፡ ተአምር ፡ ወመድምም ፡ ዘፈነዎ ፡ እግዚአብሔር ፡ ከመ ፡ ይግበሮ ፡ በምድረ ፡ ግብጽ ፡ ላዕለ ፡ ፈርዖን ፡\n                  ወላዕለ ፡ መገብቱ ፡ ወላዕለ ፡ ምድሩ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበኵሉ",
+          "t": "wäbäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ተአምር",
+          "t": "täʾämərə",
+          "gl": ""
+        },
+        {
+          "g": "ወመድምም",
+          "t": "wämädəməmə",
+          "gl": ""
+        },
+        {
+          "g": "ዘፈነዎ",
+          "t": "zäfänäwo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይግበሮ",
+          "t": "yəgəbäro",
+          "gl": ""
+        },
+        {
+          "g": "በምድረ",
+          "t": "bämədərä",
+          "gl": ""
+        },
+        {
+          "g": "ግብጽ",
+          "t": "gəbəṣə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ፈርዖን",
+          "t": "färəʿonə",
+          "gl": ""
+        },
+        {
+          "g": "ወላዕለ",
+          "t": "wälaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "መገብቱ",
+          "t": "mägäbətu",
+          "gl": ""
+        },
+        {
+          "g": "ወላዕለ",
+          "t": "wälaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ምድሩ",
+          "t": "mədəru",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "in all the signs and wonders, which the Lord sent him to work in Egypt on Pharao, and his servants, and all his land;",
+        "kjv": "In all the signs and the wonders, which the LORD sent him to do in the land of Egypt to Pharaoh, and to all his servants, and to all his land,"
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ዐበይት ፡ መድምም ፡ ወእድ ፡ ጽንዕት ፡ ወመዝራዕት ፡ ልዑል ፡ ኵሎ ፡ ዘገብረ ፡ ሙሴ ፡ በቅድመ ፡ ኵሉ ፡ እስራኤል\n                  ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዐበይት",
+          "t": "ʿäbäyətə",
+          "gl": ""
+        },
+        {
+          "g": "መድምም",
+          "t": "mädəməmə",
+          "gl": ""
+        },
+        {
+          "g": "ወእድ",
+          "t": "wäʾədə",
+          "gl": ""
+        },
+        {
+          "g": "ጽንዕት",
+          "t": "ṣənəʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ወመዝራዕት",
+          "t": "wämäzəraʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ልዑል",
+          "t": "ləʿulə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ዘገብረ",
+          "t": "zägäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "በቅድመ",
+          "t": "bäqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "the great wonders, and the mighty hand which Moses displayed before all Israel.",
+        "kjv": "And in all that mighty hand, and in all the great terror which Moses shewed in the sight of all Israel."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

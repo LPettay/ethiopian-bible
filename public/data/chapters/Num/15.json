@@ -1,0 +1,3154 @@
+{
+  "book": "Num",
+  "chapter": 15,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወነበቦ ፡ እግዚአብሔር ፡ ለሙሴ ፡ ወይቤሎ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነበቦ",
+          "t": "wänäbäbo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord spoke to Moses, saying,",
+        "kjv": "And the LORD spake unto Moses, saying,"
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ንግሮሙ ፡ ለደቂቀ ፡ እስራኤል ፡ ወበሎሙ ፡ አመ ፡ ቦእክሙ ፡ ውስተ ፡ ይእቲ ፡ ምድር ፡ እንቴ ፡ ውስቴታ ፡ ትነብሩ ፡\n                  እንተ ፡ አነ ፡ እሁበክሙ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ንግሮሙ",
+          "t": "nəgəromu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወበሎሙ",
+          "t": "wäbälomu",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ቦእክሙ",
+          "t": "boʾəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "እንቴ",
+          "t": "ʾənəte",
+          "gl": ""
+        },
+        {
+          "g": "ውስቴታ",
+          "t": "wəsəteta",
+          "gl": ""
+        },
+        {
+          "g": "ትነብሩ",
+          "t": "tənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "እሁበክሙ",
+          "t": "ʾəhubäkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Speak to the children of Israel, and thou shalt say to them, When ye are come into the land of your habitation, which I give to you,",
+        "kjv": "Speak unto the children of Israel, and say unto them, When ye be come into the land of your habitations, which I give unto you,"
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ትገብሩ ፡ ፍሬ ፡ ለእግዚአብሔር ፡ ቍርባነ ፡ አው ፡ መሥዋዕተ ፡ ወታዐብዩ ፡ ብፅዓተ ፡ ወእመኒ ፡ ዘበፈቃድክሙ ፡ ወአመኒ\n                  ፡ በበዓላቲክሙ ፡ ትገብሩ ፡ ለመዐዛ ፡ ሠናይ ፡ ለእግዚአብሔር ፡ እመኒ ፡ እምውስተ ፡ አልህምት ፡ ወእመኒ ፡ እምውስተ ፡\n                  አባግዕ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ትገብሩ",
+          "t": "təgäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ፍሬ",
+          "t": "fəre",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ቍርባነ",
+          "t": "qwərəbanä",
+          "gl": ""
+        },
+        {
+          "g": "አው",
+          "t": "ʾäwə",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕተ",
+          "t": "mäśəwaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "ወታዐብዩ",
+          "t": "wätaʿäbəyu",
+          "gl": ""
+        },
+        {
+          "g": "ብፅዓተ",
+          "t": "bəṣ́əʿatä",
+          "gl": ""
+        },
+        {
+          "g": "ወእመኒ",
+          "t": "wäʾəmäni",
+          "gl": ""
+        },
+        {
+          "g": "ዘበፈቃድክሙ",
+          "t": "zäbäfäqadəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወአመኒ",
+          "t": "wäʾämäni",
+          "gl": ""
+        },
+        {
+          "g": "በበዓላቲክሙ",
+          "t": "bäbäʿalatikəmu",
+          "gl": ""
+        },
+        {
+          "g": "ትገብሩ",
+          "t": "təgäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ለመዐዛ",
+          "t": "lämäʿäza",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይ",
+          "t": "śänayə",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "እመኒ",
+          "t": "ʾəmäni",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አልህምት",
+          "t": "ʾäləhəmətə",
+          "gl": ""
+        },
+        {
+          "g": "ወእመኒ",
+          "t": "wäʾəmäni",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አባግዕ",
+          "t": "ʾäbagəʿə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and thou wilt offer whole-burnt-offerings to the Lord, a whole-burnt-offering or a meat-offering to perform a vow, or a free-will offering, or to offer in your feasts a sacrifice of sweet savour to the Lord, whether of the herd or the flock:",
+        "kjv": "And will make an offering by fire unto the LORD, a burnt offering, or a sacrifice in performing a vow, or in a freewill offering, or in your solemn feasts, to make a sweet savour unto the LORD, of the herd, or of the flock:"
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወያመጽእ ፡ ዘያበውእ ፡ ቍርባኖ ፡ ለእግዚአብሔር ፡ መሥዋዕተ ፡ ስንዳሌ ፡ ዓሥራተ ፡ እዴሃ ፡ ለመስፈርተ ፡ ኢፍ ፡\n                  ዘልውስ ፡ በቅብእ ፡ በራብዕተ ፡ እዴሃ ፡ ለመስፈርተ ፡ ኢን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያመጽእ",
+          "t": "wäyamäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ዘያበውእ",
+          "t": "zäyabäwəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ቍርባኖ",
+          "t": "qwərəbano",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕተ",
+          "t": "mäśəwaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "ስንዳሌ",
+          "t": "sənədale",
+          "gl": ""
+        },
+        {
+          "g": "ዓሥራተ",
+          "t": "ʿaśəratä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሃ",
+          "t": "ʾədeha",
+          "gl": ""
+        },
+        {
+          "g": "ለመስፈርተ",
+          "t": "lämäsəfärətä",
+          "gl": ""
+        },
+        {
+          "g": "ኢፍ",
+          "t": "ʾifə",
+          "gl": ""
+        },
+        {
+          "g": "ዘልውስ",
+          "t": "zäləwəsə",
+          "gl": ""
+        },
+        {
+          "g": "በቅብእ",
+          "t": "bäqəbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "በራብዕተ",
+          "t": "bärabəʿətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሃ",
+          "t": "ʾədeha",
+          "gl": ""
+        },
+        {
+          "g": "ለመስፈርተ",
+          "t": "lämäsəfärətä",
+          "gl": ""
+        },
+        {
+          "g": "ኢን",
+          "t": "ʾinə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "then he that offers his gift to the Lord shall bring a meat-offering of fine flour, a tenth part of an ephah mingled with oil, even with the fourth part of a hin.",
+        "kjv": "Then shall he that offereth his offering unto the LORD bring a meat offering of a tenth deal of flour mingled with the fourth part of an hin of oil."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "[ወወይነ ፡ ለሞጻሕት ፡ ራብዕተ ፡ እዴሃ ፡ ለመስፈርተ ፡ ኢን ፡] ይገብር ፡ ዲበ ፡ ቍርባን ፡ ወእመኒ ፡ ዲበ ፡\n                  መሥዋዕ[ት] ፤ ለአሐዱ ፡ ማሕስአ ፡ በግዕ ፡ ይግበር ፡ መጠነዝ ፡ ቍርባነ ፡ ለመዐዛ ፡ ሠናይ ፡ ለእግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወወይነ",
+          "t": "wäwäyənä",
+          "gl": ""
+        },
+        {
+          "g": "ለሞጻሕት",
+          "t": "lämoṣaḥətə",
+          "gl": ""
+        },
+        {
+          "g": "ራብዕተ",
+          "t": "rabəʿətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሃ",
+          "t": "ʾədeha",
+          "gl": ""
+        },
+        {
+          "g": "ለመስፈርተ",
+          "t": "lämäsəfärətä",
+          "gl": ""
+        },
+        {
+          "g": "ኢን",
+          "t": "ʾinə",
+          "gl": ""
+        },
+        {
+          "g": "ይገብር",
+          "t": "yəgäbərə",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "ቍርባን",
+          "t": "qwərəbanə",
+          "gl": ""
+        },
+        {
+          "g": "ወእመኒ",
+          "t": "wäʾəmäni",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕት  ለአሐዱ",
+          "t": "mäśəwaʿətə  läʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "ማሕስአ",
+          "t": "maḥəsəʾä",
+          "gl": ""
+        },
+        {
+          "g": "በግዕ",
+          "t": "bägəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ይግበር",
+          "t": "yəgəbärə",
+          "gl": ""
+        },
+        {
+          "g": "መጠነዝ",
+          "t": "mäṭänäzə",
+          "gl": ""
+        },
+        {
+          "g": "ቍርባነ",
+          "t": "qwərəbanä",
+          "gl": ""
+        },
+        {
+          "g": "ለመዐዛ",
+          "t": "lämäʿäza",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይ",
+          "t": "śänayə",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And for a drink-offering ye shall offer the fourth part of a hin on the whole-burnt-offering, or on the meat-offering: for every lamb thou shalt offer so much, as a sacrifice, a smell of sweet savour to the Lord.",
+        "kjv": "And the fourth part of an hin of wine for a drink offering shalt thou prepare with the burnt offering or sacrifice, for one lamb."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወለበግዕኒ ፡ ሶበ ፡ ትገብርዎ ፡ ቍርባነ ፡ አው ፡ መሥዋዕተ ፡ ትገብር ፡ መሥዋዕተ ፡ ስንዳሌ ፡ ክልኤ ፡ ዓሥራተ ፡\n                  ዘግቡር ፡ በቅብእ ፡ በሣልስተ ፡ እዴሃ ፡ ለመስፈርተ ፡ ኢን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለበግዕኒ",
+          "t": "wäläbägəʿəni",
+          "gl": ""
+        },
+        {
+          "g": "ሶበ",
+          "t": "sobä",
+          "gl": ""
+        },
+        {
+          "g": "ትገብርዎ",
+          "t": "təgäbərəwo",
+          "gl": ""
+        },
+        {
+          "g": "ቍርባነ",
+          "t": "qwərəbanä",
+          "gl": ""
+        },
+        {
+          "g": "አው",
+          "t": "ʾäwə",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕተ",
+          "t": "mäśəwaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "ትገብር",
+          "t": "təgäbərə",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕተ",
+          "t": "mäśəwaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "ስንዳሌ",
+          "t": "sənədale",
+          "gl": ""
+        },
+        {
+          "g": "ክልኤ",
+          "t": "kələʾe",
+          "gl": ""
+        },
+        {
+          "g": "ዓሥራተ",
+          "t": "ʿaśəratä",
+          "gl": ""
+        },
+        {
+          "g": "ዘግቡር",
+          "t": "zägəburə",
+          "gl": ""
+        },
+        {
+          "g": "በቅብእ",
+          "t": "bäqəbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "በሣልስተ",
+          "t": "bäśaləsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሃ",
+          "t": "ʾədeha",
+          "gl": ""
+        },
+        {
+          "g": "ለመስፈርተ",
+          "t": "lämäsəfärətä",
+          "gl": ""
+        },
+        {
+          "g": "ኢን",
+          "t": "ʾinə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And for a ram, when ye offer it as a whole-burnt-offering or as a sacrifice, thou shalt prepare as a meat-offering two tenths of fine flour mingled with oil, the third part of a hin.",
+        "kjv": "Or for a ram, thou shalt prepare for a meat offering two tenth deals of flour mingled with the third part of an hin of oil."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወወይ[ነ] ፡ ለሞጻሕት ፡ ሣልስተ ፡ እዴሃ ፡ ለመስፈርተ ፡ ኢን ፡ ያበውእ ፡ ለመዐዛ ፡ ሠናይ ፡ ለእግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወወይነ",
+          "t": "wäwäyənä",
+          "gl": ""
+        },
+        {
+          "g": "ለሞጻሕት",
+          "t": "lämoṣaḥətə",
+          "gl": ""
+        },
+        {
+          "g": "ሣልስተ",
+          "t": "śaləsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሃ",
+          "t": "ʾədeha",
+          "gl": ""
+        },
+        {
+          "g": "ለመስፈርተ",
+          "t": "lämäsəfärətä",
+          "gl": ""
+        },
+        {
+          "g": "ኢን",
+          "t": "ʾinə",
+          "gl": ""
+        },
+        {
+          "g": "ያበውእ",
+          "t": "yabäwəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ለመዐዛ",
+          "t": "lämäʿäza",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይ",
+          "t": "śänayə",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And ye shall offer for a smell of sweet savour to the Lord wine for a drink-offering, the third part of a hin.",
+        "kjv": "And for a drink offering thou shalt offer the third part of an hin of wine, for a sweet savour unto the LORD."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወለእመሰ ፡ እምውስተ ፡ አልህምት ፡ ገበርክሙ ፡ ቍርባነ ፡ አው ፡ መሥዋዕተ ፡ አው ፡ አዕበይክሙ ፡ ብፅዓተ ፡ መድኀኒት\n                  ፡ ለእግዚአብሔር ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለእመሰ",
+          "t": "wäläʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አልህምት",
+          "t": "ʾäləhəmətə",
+          "gl": ""
+        },
+        {
+          "g": "ገበርክሙ",
+          "t": "gäbärəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ቍርባነ",
+          "t": "qwərəbanä",
+          "gl": ""
+        },
+        {
+          "g": "አው",
+          "t": "ʾäwə",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕተ",
+          "t": "mäśəwaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "አው",
+          "t": "ʾäwə",
+          "gl": ""
+        },
+        {
+          "g": "አዕበይክሙ",
+          "t": "ʾäʿəbäyəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ብፅዓተ",
+          "t": "bəṣ́əʿatä",
+          "gl": ""
+        },
+        {
+          "g": "መድኀኒት",
+          "t": "mädəḫänitə",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if ye sacrifice a bullock from the herd for a whole-burnt-offering or for a sacrifice, to perform a vow or a peace-offering to the Lord,",
+        "kjv": "And when thou preparest a bullock for a burnt offering, or for a sacrifice in performing a vow, or peace offerings unto the LORD:"
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወያመጽእ ፡ ላዕለ ፡ ውእቱ ፡ ላህሙ ፡ መሥዋዕተ ፡ ስንዳሌ ፡ ፫ዓሥራተ ፡ ዘልውስ ፡ በቅብእ ፡ በመንፈቃ ፡ ለመስፈርተ ፡\n                  ኢን ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያመጽእ",
+          "t": "wäyamäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ላህሙ",
+          "t": "lahəmu",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕተ",
+          "t": "mäśəwaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "ስንዳሌ",
+          "t": "sənədale",
+          "gl": ""
+        },
+        {
+          "g": "፫ዓሥራተ",
+          "t": "3ʿaśəratä",
+          "gl": ""
+        },
+        {
+          "g": "ዘልውስ",
+          "t": "zäləwəsə",
+          "gl": ""
+        },
+        {
+          "g": "በቅብእ",
+          "t": "bäqəbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "በመንፈቃ",
+          "t": "bämänəfäqa",
+          "gl": ""
+        },
+        {
+          "g": "ለመስፈርተ",
+          "t": "lämäsəfärətä",
+          "gl": ""
+        },
+        {
+          "g": "ኢን",
+          "t": "ʾinə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "then the worshipper shall offer upon the calf a meat-offering, three tenth deals of fine flour mingled with oil, even the half of a hin.",
+        "kjv": "Then shall he bring with a bullock a meat offering of three tenth deals of flour mingled with half an hin of oil."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወወይነ ፡ ለሞጻሕት ፡ መንፈቃ ፡ ለመስፈርተ ፡ ኢን ፡ ቍርባነ ፡ ዘመዐዛ ፡ ሠናይ ፡ ለእግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወወይነ",
+          "t": "wäwäyənä",
+          "gl": ""
+        },
+        {
+          "g": "ለሞጻሕት",
+          "t": "lämoṣaḥətə",
+          "gl": ""
+        },
+        {
+          "g": "መንፈቃ",
+          "t": "mänəfäqa",
+          "gl": ""
+        },
+        {
+          "g": "ለመስፈርተ",
+          "t": "lämäsəfärətä",
+          "gl": ""
+        },
+        {
+          "g": "ኢን",
+          "t": "ʾinə",
+          "gl": ""
+        },
+        {
+          "g": "ቍርባነ",
+          "t": "qwərəbanä",
+          "gl": ""
+        },
+        {
+          "g": "ዘመዐዛ",
+          "t": "zämäʿäza",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይ",
+          "t": "śänayə",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And wine for a drink-offering the half of a hin, a sacrifice for a smell of sweet savour to the Lord.",
+        "kjv": "And thou shalt bring for a drink offering half an hin of wine, for an offering made by fire, of a sweet savour unto the LORD."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ከማሁ ፡ ትገብር ፡ ለአሐዱ ፡ ላህም ፡ አው ፡ ለአሐዱ ፡ በግዕ ፡ አው ፡ ለአሐዱ ፡ ማሕስአ ፡ በግዕ ፡ እምውስተ ፡\n                  አባግዕ ፡ ወእመኒ ፡ እምውስተ ፡ አጣሊ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ከማሁ",
+          "t": "kämahu",
+          "gl": ""
+        },
+        {
+          "g": "ትገብር",
+          "t": "təgäbərə",
+          "gl": ""
+        },
+        {
+          "g": "ለአሐዱ",
+          "t": "läʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "ላህም",
+          "t": "lahəmə",
+          "gl": ""
+        },
+        {
+          "g": "አው",
+          "t": "ʾäwə",
+          "gl": ""
+        },
+        {
+          "g": "ለአሐዱ",
+          "t": "läʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "በግዕ",
+          "t": "bägəʿə",
+          "gl": ""
+        },
+        {
+          "g": "አው",
+          "t": "ʾäwə",
+          "gl": ""
+        },
+        {
+          "g": "ለአሐዱ",
+          "t": "läʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "ማሕስአ",
+          "t": "maḥəsəʾä",
+          "gl": ""
+        },
+        {
+          "g": "በግዕ",
+          "t": "bägəʿə",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አባግዕ",
+          "t": "ʾäbagəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወእመኒ",
+          "t": "wäʾəmäni",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አጣሊ",
+          "t": "ʾäṭali",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Thus shalt thou do to one calf or to one ram, or to one lamb of the sheep or kid of the goats.",
+        "kjv": "Thus shall it be done for one bullock, or for one ram, or for a lamb, or a kid."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "በኍለቊሆሙ ፡ ለእለ ፡ ገበርክሙ ፡ ከመዝ ፡ ትገብሩ ፡ ለለ፩በአምጣነ ፡ ኍለቊሆሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "በኍለቊሆሙ",
+          "t": "bäḫwəläqwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእለ",
+          "t": "läʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ገበርክሙ",
+          "t": "gäbärəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ከመዝ",
+          "t": "kämäzə",
+          "gl": ""
+        },
+        {
+          "g": "ትገብሩ",
+          "t": "təgäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ለለ፩በአምጣነ",
+          "t": "lälä1bäʾäməṭanä",
+          "gl": ""
+        },
+        {
+          "g": "ኍለቊሆሙ",
+          "t": "ḫwəläqwihomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "According to the number of what ye shall offer, so shall ye do to each one, according to their number.",
+        "kjv": "According to the number that ye shall prepare, so shall ye do to every one according to their number."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ኵሉ ፡ ዘእምፍጥረቱ ፡ ከመዝ ፡ ይግበር ፡ ወከመዝ ፡ ያበውእ ፡ ቍርባኖ ፡ ለመዐዛ ፡ ሠናይ ፡ ለእግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምፍጥረቱ",
+          "t": "zäʾəməfəṭərätu",
+          "gl": ""
+        },
+        {
+          "g": "ከመዝ",
+          "t": "kämäzə",
+          "gl": ""
+        },
+        {
+          "g": "ይግበር",
+          "t": "yəgəbärə",
+          "gl": ""
+        },
+        {
+          "g": "ወከመዝ",
+          "t": "wäkämäzə",
+          "gl": ""
+        },
+        {
+          "g": "ያበውእ",
+          "t": "yabäwəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ቍርባኖ",
+          "t": "qwərəbano",
+          "gl": ""
+        },
+        {
+          "g": "ለመዐዛ",
+          "t": "lämäʿäza",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይ",
+          "t": "śänayə",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Every native of the country shall do thus to offer such things as sacrifices for a smell of sweet savour to the Lord.",
+        "kjv": "All that are born of the country shall do these things after this manner, in offering an offering made by fire, of a sweet savour unto the LORD."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወለእመሰ ፡ ግዩር ፡ ቦቱ ፡ ዘኮነ ፡ ውስቴትክሙ ፡ ወፈለሰ ፡ ውስተ ፡ ምድርክሙ ፡ ወእመኒ ፡ ቦቱ ፡ ዘኮነ ፡ ውስተ ፡\n                  ሙላድክሙ ፡ ይገብር ፡ ቍርባነ ፡ ዘመዐዛ ፡ ሠናይ ፡ ለእግዚአብሔር ፡ በከመ ፡ ትገብሩ ፡ አንትሙ ፡ ከማሁ ፡ ትገብር ፡\n                  ትዕይንቱ ፡ ለእግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለእመሰ",
+          "t": "wäläʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "ግዩር",
+          "t": "gəyurə",
+          "gl": ""
+        },
+        {
+          "g": "ቦቱ",
+          "t": "botu",
+          "gl": ""
+        },
+        {
+          "g": "ዘኮነ",
+          "t": "zäkonä",
+          "gl": ""
+        },
+        {
+          "g": "ውስቴትክሙ",
+          "t": "wəsətetəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወፈለሰ",
+          "t": "wäfäläsä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድርክሙ",
+          "t": "mədərəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወእመኒ",
+          "t": "wäʾəmäni",
+          "gl": ""
+        },
+        {
+          "g": "ቦቱ",
+          "t": "botu",
+          "gl": ""
+        },
+        {
+          "g": "ዘኮነ",
+          "t": "zäkonä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሙላድክሙ",
+          "t": "muladəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ይገብር",
+          "t": "yəgäbərə",
+          "gl": ""
+        },
+        {
+          "g": "ቍርባነ",
+          "t": "qwərəbanä",
+          "gl": ""
+        },
+        {
+          "g": "ዘመዐዛ",
+          "t": "zämäʿäza",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይ",
+          "t": "śänayə",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ትገብሩ",
+          "t": "təgäbəru",
+          "gl": ""
+        },
+        {
+          "g": "አንትሙ",
+          "t": "ʾänətəmu",
+          "gl": ""
+        },
+        {
+          "g": "ከማሁ",
+          "t": "kämahu",
+          "gl": ""
+        },
+        {
+          "g": "ትገብር",
+          "t": "təgäbərə",
+          "gl": ""
+        },
+        {
+          "g": "ትዕይንቱ",
+          "t": "təʿəyənətu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if there should be a stranger among you in your land, or one who should be born to you among your generations, and he will offer a sacrifice, a smell of sweet savour to the Lord—as ye do, so the whole congregation shall offer to the Lord.",
+        "kjv": "And if a stranger sojourn with you, or whosoever be among you in your generations, and will offer an offering made by fire, of a sweet savour unto the LORD; as ye do, so he shall do."
+      }
+    },
+    {
+      "num": 15,
+      "geez": "አሐዱ ፡ ውእቱ ፡ ሕጉ ፡ ለክሙ ፡ ወለግዩራን ፡ እለ ፡ ሀለዉ ፡ ውስቴትክሙ ፡ ሕ[ግ] ፡ ዘለዓለም ፡ በመዋዕሊክሙ ፤\n                  በከመ ፡ አንትሙ ፡ ከማሁ ፡ ግዩራን ፡ ቅድመ ፡ እግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ሕጉ",
+          "t": "ḥəgu",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወለግዩራን",
+          "t": "wälägəyuranə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሀለዉ",
+          "t": "häläwu",
+          "gl": ""
+        },
+        {
+          "g": "ውስቴትክሙ",
+          "t": "wəsətetəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ሕግ",
+          "t": "ḥəgə",
+          "gl": ""
+        },
+        {
+          "g": "ዘለዓለም",
+          "t": "zäläʿalämə",
+          "gl": ""
+        },
+        {
+          "g": "በመዋዕሊክሙ \n                  በከመ",
+          "t": "bämäwaʿəlikəmu \n                  bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "አንትሙ",
+          "t": "ʾänətəmu",
+          "gl": ""
+        },
+        {
+          "g": "ከማሁ",
+          "t": "kämahu",
+          "gl": ""
+        },
+        {
+          "g": "ግዩራን",
+          "t": "gəyuranə",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "There shall be one law for you and for the strangers abiding among you, a perpetual law for your generations: as ye are, so shall the stranger be before the Lord.",
+        "kjv": "One ordinance shall be both for you of the congregation, and also for the stranger that sojourneth with you, an ordinance for ever in your generations: as ye are, so shall the stranger be before the LORD."
+      }
+    },
+    {
+      "num": 16,
+      "geez": "አሐዱ ፡ ውእቱ ፡ ሕጉ ፡ ወአሐዱ ፡ ኵነኔሁ ፡ ለክሙ ፡ ወለግዩር ፡ ዘሀለወ ፡ ውስቴትክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ሕጉ",
+          "t": "ḥəgu",
+          "gl": ""
+        },
+        {
+          "g": "ወአሐዱ",
+          "t": "wäʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "ኵነኔሁ",
+          "t": "kwənänehu",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወለግዩር",
+          "t": "wälägəyurə",
+          "gl": ""
+        },
+        {
+          "g": "ዘሀለወ",
+          "t": "zähäläwä",
+          "gl": ""
+        },
+        {
+          "g": "ውስቴትክሙ",
+          "t": "wəsətetəkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "There shall be one law and one ordinance for you, and for the stranger that abides among you.",
+        "kjv": "One law and one manner shall be for you, and for the stranger that sojourneth with you."
+      }
+    },
+    {
+      "num": 17,
+      "geez": "ወነበቦ ፡ እግዚአብሔር ፡ ለሙሴ ፡ ወይቤሎ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነበቦ",
+          "t": "wänäbäbo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord spoke to Moses, saying,",
+        "kjv": "And the LORD spake unto Moses, saying,"
+      }
+    },
+    {
+      "num": 18,
+      "geez": "ንግሮሙ ፡ ለደቂቀ ፡ እስራኤል ፡ ወበሎሙ ፡ አመ ፡ ትበውኡ ፡ ውስተ ፡ ይእቲ ፡ ምድር ፡ እንተ ፡ አነ ፡ እወስደክሙ ፡\n                  ህየ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ንግሮሙ",
+          "t": "nəgəromu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወበሎሙ",
+          "t": "wäbälomu",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ትበውኡ",
+          "t": "təbäwəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "እወስደክሙ",
+          "t": "ʾəwäsədäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ህየ",
+          "t": "həyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Speak to the sons of Israel, and thou shalt say to them, When ye are entering into the land, into which I bring you,",
+        "kjv": "Speak unto the children of Israel, and say unto them, When ye come into the land whither I bring you,"
+      }
+    },
+    {
+      "num": 19,
+      "geez": "ሶበ ፡ በላዕክሙ ፡ እምነ ፡ እክላ ፡ ለይእቲ ፡ ምድር ፡ ትፈልጡ ፡ መባአ ፡ ፍሉጥ ፡ ለእግዚአብሔር ፡ እምውስተ ፡ ቀዳሜ\n                  ፡ ሐሪጽክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ሶበ",
+          "t": "sobä",
+          "gl": ""
+        },
+        {
+          "g": "በላዕክሙ",
+          "t": "bälaʿəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "እክላ",
+          "t": "ʾəkəla",
+          "gl": ""
+        },
+        {
+          "g": "ለይእቲ",
+          "t": "läyəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ትፈልጡ",
+          "t": "təfäləṭu",
+          "gl": ""
+        },
+        {
+          "g": "መባአ",
+          "t": "mäbaʾä",
+          "gl": ""
+        },
+        {
+          "g": "ፍሉጥ",
+          "t": "fəluṭə",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ቀዳሜ",
+          "t": "qädame",
+          "gl": ""
+        },
+        {
+          "g": "ሐሪጽክሙ",
+          "t": "ḥäriṣəkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "then it shall come to pass, when ye shall eat of the bread of the land, ye shall separate a wave-offering, a special offering to the Lord, the first-fruits of your dough.",
+        "kjv": "Then it shall be, that, when ye eat of the bread of the land, ye shall offer up an heave offering unto the LORD."
+      }
+    },
+    {
+      "num": 20,
+      "geez": "ኅብስተ ፡ መባአ ፡ ትፈልጡ ፡ ሎቱ ፡ ከመ ፡ መባእ ፡ ዘእምውስተ ፡ ዐውደ ፡ እክል ፡ ከማሁ ፡ ትፈልጡ ፡ ሎቱ ፡\n                  እምውስተ ፡ ቀዳሜ ፡ ሐሪጽክሙ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኅብስተ",
+          "t": "ḫəbəsətä",
+          "gl": ""
+        },
+        {
+          "g": "መባአ",
+          "t": "mäbaʾä",
+          "gl": ""
+        },
+        {
+          "g": "ትፈልጡ",
+          "t": "təfäləṭu",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "መባእ",
+          "t": "mäbaʾə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምውስተ",
+          "t": "zäʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዐውደ",
+          "t": "ʿäwədä",
+          "gl": ""
+        },
+        {
+          "g": "እክል",
+          "t": "ʾəkələ",
+          "gl": ""
+        },
+        {
+          "g": "ከማሁ",
+          "t": "kämahu",
+          "gl": ""
+        },
+        {
+          "g": "ትፈልጡ",
+          "t": "təfäləṭu",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ቀዳሜ",
+          "t": "qädame",
+          "gl": ""
+        },
+        {
+          "g": "ሐሪጽክሙ",
+          "t": "ḥäriṣəkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Ye shall offer your bread a heave-offering: as a heave-offering from the threshing-floor, so shall ye separate it,",
+        "kjv": "Ye shall offer up a cake of the first of your dough for an heave offering: as ye do the heave offering of the threshingfloor, so shall ye heave it."
+      }
+    },
+    {
+      "num": 21,
+      "geez": "ወትሁቡ ፡ ለእግዚአብሔር ፡ መባአ ፡ በመዋዕሊክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትሁቡ",
+          "t": "wätəhubu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "መባአ",
+          "t": "mäbaʾä",
+          "gl": ""
+        },
+        {
+          "g": "በመዋዕሊክሙ",
+          "t": "bämäwaʿəlikəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "even the first-fruits of your dough, and ye shall give the Lord a heave-offering throughout your generations.",
+        "kjv": "Of the first of your dough ye shall give unto the LORD an heave offering in your generations."
+      }
+    },
+    {
+      "num": 22,
+      "geez": "ወለእመ ፡ አበስክሙ ፡ ወኢገበርክሙ ፡ ኵሎ ፡ ዘንተ ፡ ትእዛዘ ፡ ዘይቤሎ ፡ እግዚአብሔር ፡ ለሙሴ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለእመ",
+          "t": "wäläʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "አበስክሙ",
+          "t": "ʾäbäsəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢገበርክሙ",
+          "t": "wäʾigäbärəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ዘንተ",
+          "t": "zänətä",
+          "gl": ""
+        },
+        {
+          "g": "ትእዛዘ",
+          "t": "təʾəzazä",
+          "gl": ""
+        },
+        {
+          "g": "ዘይቤሎ",
+          "t": "zäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But whensoever ye shall transgress, and not perform all these commands, which the Lord spoke to Moses;",
+        "kjv": "And if ye have erred, and not observed all these commandments, which the LORD hath spoken unto Moses,"
+      }
+    },
+    {
+      "num": 23,
+      "geez": "በከመ ፡ አዘዘክሙ ፡ እግዚአብሔር ፡ በእደ ፡ ሙሴ ፡ እምአመ ፡ አዘዘክሙ ፡ እግዚአብሔር ፡ ወእምቅድሜሁ ፡ በመዋዕሊክሙ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "አዘዘክሙ",
+          "t": "ʾäzäzäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "በእደ",
+          "t": "bäʾədä",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "እምአመ",
+          "t": "ʾəməʾämä",
+          "gl": ""
+        },
+        {
+          "g": "አዘዘክሙ",
+          "t": "ʾäzäzäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምቅድሜሁ",
+          "t": "wäʾəməqədəmehu",
+          "gl": ""
+        },
+        {
+          "g": "በመዋዕሊክሙ",
+          "t": "bämäwaʿəlikəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "as the Lord appointed you by the hand of Moses, from the day which the Lord appointed you and forward throughout your generations,",
+        "kjv": "Even all that the LORD hath commanded you by the hand of Moses, from the day that the LORD commanded Moses, and henceforward among your generations;"
+      }
+    },
+    {
+      "num": 24,
+      "geez": "ወለእመ ፡ ቦቱ ፡ ዘኢተዐውቆሙ ፡ ውስተ ፡ አዕይንቲሆሙ ፡ ለትዕይንት ፡ ወትገብር ፡ ኵላ ፡ ይእቲ ፡ ትዕይንት ፡ ላህመ ፡\n                  አሐደ ፡ እምውስተ ፡ አልህምት ፡ ንጹሐ ፡ ለመሥዋዕት ፡ ወለመዐዛ ፡ ሠናይ ፡ ለእግዚአብሔር ፡ ወመሥዋዕቱሂ ፡ ለዝንቱ ፡\n                  ወሞጻኅቱሂ ፡ በከመ ፡ ሕጉ ፡ ወአሐዱ ፡ ሐርጌ ፡ እምውስተ ፡ አጣሊ ፡ በእንተ ፡ ኀጢአት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለእመ",
+          "t": "wäläʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ቦቱ",
+          "t": "botu",
+          "gl": ""
+        },
+        {
+          "g": "ዘኢተዐውቆሙ",
+          "t": "zäʾitäʿäwəqomu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አዕይንቲሆሙ",
+          "t": "ʾäʿəyənətihomu",
+          "gl": ""
+        },
+        {
+          "g": "ለትዕይንት",
+          "t": "lätəʿəyənətə",
+          "gl": ""
+        },
+        {
+          "g": "ወትገብር",
+          "t": "wätəgäbərə",
+          "gl": ""
+        },
+        {
+          "g": "ኵላ",
+          "t": "kwəla",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ትዕይንት",
+          "t": "təʿəyənətə",
+          "gl": ""
+        },
+        {
+          "g": "ላህመ",
+          "t": "lahəmä",
+          "gl": ""
+        },
+        {
+          "g": "አሐደ",
+          "t": "ʾäḥädä",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አልህምት",
+          "t": "ʾäləhəmətə",
+          "gl": ""
+        },
+        {
+          "g": "ንጹሐ",
+          "t": "nəṣuḥä",
+          "gl": ""
+        },
+        {
+          "g": "ለመሥዋዕት",
+          "t": "lämäśəwaʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ወለመዐዛ",
+          "t": "wälämäʿäza",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይ",
+          "t": "śänayə",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወመሥዋዕቱሂ",
+          "t": "wämäśəwaʿətuhi",
+          "gl": ""
+        },
+        {
+          "g": "ለዝንቱ",
+          "t": "läzənətu",
+          "gl": ""
+        },
+        {
+          "g": "ወሞጻኅቱሂ",
+          "t": "wämoṣaḫətuhi",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ሕጉ",
+          "t": "ḥəgu",
+          "gl": ""
+        },
+        {
+          "g": "ወአሐዱ",
+          "t": "wäʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "ሐርጌ",
+          "t": "ḥärəge",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አጣሊ",
+          "t": "ʾäṭali",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአት",
+          "t": "ḫäṭiʾätə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "then it shall come to pass, if a trespass be committed unwillingly, unknown to the congregation, then shall all the congregation offer a calf of the herd without blemish for a whole-burnt-offering of sweet savour to the Lord, and its meat-offering and its drink-offering according to the ordinance, and one kid of the goats for a sin-offering.",
+        "kjv": "Then it shall be, if ought be committed by ignorance without the knowledge of the congregation, that all the congregation shall offer one young bullock for a burnt offering, for a sweet savour unto the LORD, with his meat offering, and his drink offering, according to the manner, and one kid of the goats for a sin offering."
+      }
+    },
+    {
+      "num": 25,
+      "geez": "ወያስተሰሪ ፡ ካህን ፡ በእንተ ፡ ኵሉ ፡ ተዓይኒሆሙ ፡ ለደቂቀ ፡ እስራኤል ፡ ወይትኀደግ ፡ ሎሙ ፡ እስመ ፡ በኢያእምሮ ፡\n                  ውእቱ ፡ ወእሙንቱኒ ፡ አምጽኡ ፡ ቍርባኖሙ ፡ ወመሥዋዕተ ፡ ለእግዚአብሔር ፡ በእንተ ፡ ኀጢአቶሙ ፡ ቅድመ ፡ እግዚአብሔር ፡\n                  ወበእንተ ፡ ኢያእምሮቶሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያስተሰሪ",
+          "t": "wäyasətäsäri",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ተዓይኒሆሙ",
+          "t": "täʿayənihomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወይትኀደግ",
+          "t": "wäyətəḫädägə",
+          "gl": ""
+        },
+        {
+          "g": "ሎሙ",
+          "t": "lomu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "በኢያእምሮ",
+          "t": "bäʾiyaʾəməro",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ወእሙንቱኒ",
+          "t": "wäʾəmunətuni",
+          "gl": ""
+        },
+        {
+          "g": "አምጽኡ",
+          "t": "ʾäməṣəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ቍርባኖሙ",
+          "t": "qwərəbanomu",
+          "gl": ""
+        },
+        {
+          "g": "ወመሥዋዕተ",
+          "t": "wämäśəwaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአቶሙ",
+          "t": "ḫäṭiʾätomu",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወበእንተ",
+          "t": "wäbäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኢያእምሮቶሙ",
+          "t": "ʾiyaʾəmərotomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the priest shall make atonement for all the congregation of the children of Israel, and the trespass shall be forgiven them, because it is involuntary; and they have brought their gift, a burnt-offering to the Lord for their trespass before the Lord, even for their involuntary sins.",
+        "kjv": "And the priest shall make an atonement for all the congregation of the children of Israel, and it shall be forgiven them; for it is ignorance: and they shall bring their offering, a sacrifice made by fire unto the LORD, and their sin offering before the LORD, for their ignorance:"
+      }
+    },
+    {
+      "num": 26,
+      "geez": "ወይትኀደግ ፡ ለኵሉ ፡ ትዕይንቶሙ ፡ ለደቂቀ ፡ እስራኤል ፡ ወለግዩ[ርኒ] ፡ ዘይመጽእ ፡ ኀቤክሙ ፡ እስመ ፡ ለኵሉ ፡\n                  ሕዝብ ፡ ኢያእምሮ ፡ ኮነ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይትኀደግ",
+          "t": "wäyətəḫädägə",
+          "gl": ""
+        },
+        {
+          "g": "ለኵሉ",
+          "t": "läkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ትዕይንቶሙ",
+          "t": "təʿəyənətomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወለግዩርኒ",
+          "t": "wälägəyurəni",
+          "gl": ""
+        },
+        {
+          "g": "ዘይመጽእ",
+          "t": "zäyəmäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ኀቤክሙ",
+          "t": "ḫäbekəmu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ለኵሉ",
+          "t": "läkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ኢያእምሮ",
+          "t": "ʾiyaʾəməro",
+          "gl": ""
+        },
+        {
+          "g": "ኮነ",
+          "t": "konä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it shall be forgiven as respects all the congregation of the children of Israel, and the stranger that is abiding among you, because it is involuntary to all the people.",
+        "kjv": "And it shall be forgiven all the congregation of the children of Israel, and the stranger that sojourneth among them; seeing all the people were in ignorance."
+      }
+    },
+    {
+      "num": 27,
+      "geez": "ወለእመሰ ፡ አሐቲ ፡ ነፍስ ፡ አበሰት ፡ በኢያእምሮ ፡ ያመጽእ ፡ አሐተ ፡ ጠሊተ ፡ እንተ ፡ ዓመት ፡ በእንተ ፡ ኀጢአት\n                  ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለእመሰ",
+          "t": "wäläʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "አሐቲ",
+          "t": "ʾäḥäti",
+          "gl": ""
+        },
+        {
+          "g": "ነፍስ",
+          "t": "näfəsə",
+          "gl": ""
+        },
+        {
+          "g": "አበሰት",
+          "t": "ʾäbäsätə",
+          "gl": ""
+        },
+        {
+          "g": "በኢያእምሮ",
+          "t": "bäʾiyaʾəməro",
+          "gl": ""
+        },
+        {
+          "g": "ያመጽእ",
+          "t": "yamäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "አሐተ",
+          "t": "ʾäḥätä",
+          "gl": ""
+        },
+        {
+          "g": "ጠሊተ",
+          "t": "ṭälitä",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ዓመት",
+          "t": "ʿamätə",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአት",
+          "t": "ḫäṭiʾätə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if one soul sin unwillingly, he shall bring one she-goat of a year old for a sin-offering.",
+        "kjv": "And if any soul sin through ignorance, then he shall bring a she goat of the first year for a sin offering."
+      }
+    },
+    {
+      "num": 28,
+      "geez": "ወያስተሰሪ ፡ ካህን ፡ በእንተ ፡ ይእቲ ፡ ነፍስ ፡ እንተ ፡ በኢያእምሮ ፡ አበሰት ፡ በእንተ ፡ ኢያእምሮታ ፡ ቅድመ ፡\n                  እግዚአብሔር ፡ ወያስተሰሪ ፡ በእንቲአሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያስተሰሪ",
+          "t": "wäyasətäsäri",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ነፍስ",
+          "t": "näfəsə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "በኢያእምሮ",
+          "t": "bäʾiyaʾəməro",
+          "gl": ""
+        },
+        {
+          "g": "አበሰት",
+          "t": "ʾäbäsätə",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኢያእምሮታ",
+          "t": "ʾiyaʾəmərota",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወያስተሰሪ",
+          "t": "wäyasətäsäri",
+          "gl": ""
+        },
+        {
+          "g": "በእንቲአሁ",
+          "t": "bäʾənətiʾähu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the priest shall make atonement for the soul that committed the trespass unwillingly, and that sinned unwillingly before the Lord, to make atonement for him.",
+        "kjv": "And the priest shall make an atonement for the soul that sinneth ignorantly, when he sinneth by ignorance before the LORD, to make an atonement for him; and it shall be forgiven him."
+      }
+    },
+    {
+      "num": 29,
+      "geez": "[ዘ] እምፍጥረቱሂ ፡ ውስተ ፡ ደቂቀ ፡ እስራኤል ፡ ወለግዩ[ርኒ] ፡ ዘሀለወ ፡ ውስቴትክሙ ፡ አሐዱ ፡ ውእቱ ፡ ሕጉ ፡\n                  ሎሙ ፡ እምከመ ፡ በኢያእምሮ ፡ ገብረ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዘ እምፍጥረቱሂ",
+          "t": "zä ʾəməfəṭərätuhi",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወለግዩርኒ",
+          "t": "wälägəyurəni",
+          "gl": ""
+        },
+        {
+          "g": "ዘሀለወ",
+          "t": "zähäläwä",
+          "gl": ""
+        },
+        {
+          "g": "ውስቴትክሙ",
+          "t": "wəsətetəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ሕጉ",
+          "t": "ḥəgu",
+          "gl": ""
+        },
+        {
+          "g": "ሎሙ",
+          "t": "lomu",
+          "gl": ""
+        },
+        {
+          "g": "እምከመ",
+          "t": "ʾəməkämä",
+          "gl": ""
+        },
+        {
+          "g": "በኢያእምሮ",
+          "t": "bäʾiyaʾəməro",
+          "gl": ""
+        },
+        {
+          "g": "ገብረ",
+          "t": "gäbərä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "There shall be one law for the native among the children of Israel, and for the stranger that abides among them, whosoever shall commit a trespass unwillingly.",
+        "kjv": "Ye shall have one law for him that sinneth through ignorance, both for him that is born among the children of Israel, and for the stranger that sojourneth among them."
+      }
+    },
+    {
+      "num": 30,
+      "geez": "ወነፍስ ፡ እንተ ፡ ገብረት ፡ በእዴሃ ፡ ትዕቢተ ፡ እመኒ ፡ እምውስተ ፡ እለ ፡ እምፍጥረቶሙ ፡ ወእመኒ ፡ እምውስተ ፡\n                  ግዩራኒሁ ፡ ለእግዚአብሔር ፡ ወአምዕዐ ፡ በዝንቱ ፡ ለትሰሮ ፡ ይእቲ ፡ ነፍስ ፡ እምውስተ ፡ ሕዝባ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነፍስ",
+          "t": "wänäfəsə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ገብረት",
+          "t": "gäbərätə",
+          "gl": ""
+        },
+        {
+          "g": "በእዴሃ",
+          "t": "bäʾədeha",
+          "gl": ""
+        },
+        {
+          "g": "ትዕቢተ",
+          "t": "təʿəbitä",
+          "gl": ""
+        },
+        {
+          "g": "እመኒ",
+          "t": "ʾəmäni",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "እምፍጥረቶሙ",
+          "t": "ʾəməfəṭərätomu",
+          "gl": ""
+        },
+        {
+          "g": "ወእመኒ",
+          "t": "wäʾəmäni",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ግዩራኒሁ",
+          "t": "gəyuranihu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወአምዕዐ",
+          "t": "wäʾäməʿəʿä",
+          "gl": ""
+        },
+        {
+          "g": "በዝንቱ",
+          "t": "bäzənətu",
+          "gl": ""
+        },
+        {
+          "g": "ለትሰሮ",
+          "t": "lätəsäro",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ነፍስ",
+          "t": "näfəsə",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝባ",
+          "t": "ḥəzəba",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And whatever soul either of the natives or of the strangers shall do any thing with a presumptuous hand, he will provoke God; that soul shall be cut off from his people,",
+        "kjv": "But the soul that doeth ought presumptuously, whether he be born in the land, or a stranger, the same reproacheth the LORD; and that soul shall be cut off from among his people."
+      }
+    },
+    {
+      "num": 31,
+      "geez": "እስመ ፡ ላዕለ ፡ ቃለ ፡ እግዚአብሔር ፡ አበሰ ፡ ወዐለወ ፡ ትእዛዞ ፡ ተቀጥቅጦ ፡ ለትትቀጥቀጥ ፡ ይእቲ ፡ ነፍስ ፡\n                  ወኀጢአታሂ ፡ ላዕሌሃ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ቃለ",
+          "t": "qalä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አበሰ",
+          "t": "ʾäbäsä",
+          "gl": ""
+        },
+        {
+          "g": "ወዐለወ",
+          "t": "wäʿäläwä",
+          "gl": ""
+        },
+        {
+          "g": "ትእዛዞ",
+          "t": "təʾəzazo",
+          "gl": ""
+        },
+        {
+          "g": "ተቀጥቅጦ",
+          "t": "täqäṭəqəṭo",
+          "gl": ""
+        },
+        {
+          "g": "ለትትቀጥቀጥ",
+          "t": "lätətəqäṭəqäṭə",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ነፍስ",
+          "t": "näfəsə",
+          "gl": ""
+        },
+        {
+          "g": "ወኀጢአታሂ",
+          "t": "wäḫäṭiʾätahi",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሃ",
+          "t": "laʿəleha",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "for he has set at nought the word of the Lord and broken his commands: that soul shall be utterly destroyed, his sin is upon him.",
+        "kjv": "Because he hath despised the word of the LORD, and hath broken his commandment, that soul shall utterly be cut off; his iniquity shall be upon him."
+      }
+    },
+    {
+      "num": 32,
+      "geez": "ወሀለዉ ፡ ደቂቀ ፡ እስራኤል ፡ ውስተ ፡ ገዳም ፡ ወረከቡ ፡ ብእሴ ፡ እንዘ ፡ ይኤልድ ፡ ዕፀወ ፡ በዕለተ ፡ ሰንበት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሀለዉ",
+          "t": "wähäläwu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ገዳም",
+          "t": "gädamə",
+          "gl": ""
+        },
+        {
+          "g": "ወረከቡ",
+          "t": "wäräkäbu",
+          "gl": ""
+        },
+        {
+          "g": "ብእሴ",
+          "t": "bəʾəse",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ይኤልድ",
+          "t": "yəʾelədə",
+          "gl": ""
+        },
+        {
+          "g": "ዕፀወ",
+          "t": "ʿəṣ́äwä",
+          "gl": ""
+        },
+        {
+          "g": "በዕለተ",
+          "t": "bäʿəlätä",
+          "gl": ""
+        },
+        {
+          "g": "ሰንበት",
+          "t": "sänəbätə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the children of Israel were in the wilderness, and they found a man gathering sticks on the sabbath-day.",
+        "kjv": "And while the children of Israel were in the wilderness, they found a man that gathered sticks upon the sabbath day."
+      }
+    },
+    {
+      "num": 33,
+      "geez": "ወአምጽእዎ ፡ እለ ፡ ረከብዎ ፡ ኀበ ፡ ሙሴ ፡ ወአሮን ፡ ወኀበ ፡ ኵሉ ፡ ተዓይኒሆሙ ፡ ለደቂቀ ፡ እስራኤል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአምጽእዎ",
+          "t": "wäʾäməṣəʾəwo",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ረከብዎ",
+          "t": "räkäbəwo",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ወአሮን",
+          "t": "wäʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ወኀበ",
+          "t": "wäḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ተዓይኒሆሙ",
+          "t": "täʿayənihomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they who found him gathering sticks on the sabbath-day brought him to Moses and Aaron, and to all the congregation of the children of Israel.",
+        "kjv": "And they that found him gathering sticks brought him unto Moses and Aaron, and unto all the congregation."
+      }
+    },
+    {
+      "num": 34,
+      "geez": "ወአውዐልዎ ፡ ውስተ ፡ ሙዓል ፡ እስመ ፡ አልቦ ፡ ዘኰነኑ ፡ ዘከመ ፡ ይሬስይዎ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአውዐልዎ",
+          "t": "wäʾäwəʿäləwo",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሙዓል",
+          "t": "muʿalə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አልቦ",
+          "t": "ʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘኰነኑ",
+          "t": "zäkwänänu",
+          "gl": ""
+        },
+        {
+          "g": "ዘከመ",
+          "t": "zäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ይሬስይዎ",
+          "t": "yəresəyəwo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they placed him in custody, for they did not determine what they should do to him.",
+        "kjv": "And they put him in ward, because it was not declared what should be done to him."
+      }
+    },
+    {
+      "num": 35,
+      "geez": "ወነበቦ ፡ እግዚአብሔር ፡ ለሙሴ ፡ ወይቤሎ ፡ ሞተ ፡ ለይሙት ፡ ውእቱ ፡ ብእሲ ፡ ወግርዎ ፡ በእብን ፡ ኵሉ ፡ ትዕይንት\n                  ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነበቦ",
+          "t": "wänäbäbo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ሞተ",
+          "t": "motä",
+          "gl": ""
+        },
+        {
+          "g": "ለይሙት",
+          "t": "läyəmutə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ወግርዎ",
+          "t": "wägərəwo",
+          "gl": ""
+        },
+        {
+          "g": "በእብን",
+          "t": "bäʾəbənə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ትዕይንት",
+          "t": "təʿəyənətə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord spoke to Moses, saying, Let the man be by all means put to death: do ye all the congregation, stone him with stones.",
+        "kjv": "And the LORD said unto Moses, The man shall be surely put to death: all the congregation shall stone him with stones without the camp."
+      }
+    },
+    {
+      "num": 36,
+      "geez": "ወአውጽእዎ ፡ አፍአ ፡ ኵሉ ፡ ተዓይን ፡ እምትዕይንት ፡ ወወገርዎ ፡ በከመ ፡ ይቤሎ ፡ እግዚአብሔር ፡ ለሙሴ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአውጽእዎ",
+          "t": "wäʾäwəṣəʾəwo",
+          "gl": ""
+        },
+        {
+          "g": "አፍአ",
+          "t": "ʾäfəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ተዓይን",
+          "t": "täʿayənə",
+          "gl": ""
+        },
+        {
+          "g": "እምትዕይንት",
+          "t": "ʾəmətəʿəyənətə",
+          "gl": ""
+        },
+        {
+          "g": "ወወገርዎ",
+          "t": "wäwägärəwo",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ይቤሎ",
+          "t": "yəbelo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And all the congregation brought him forth out of the camp; and all the congregation stoned him with stones outside the camp, as the Lord commanded Moses.",
+        "kjv": "And all the congregation brought him without the camp, and stoned him with stones, and he died; as the LORD commanded Moses."
+      }
+    },
+    {
+      "num": 37,
+      "geez": "ወነበቦ ፡ እግዚአብሔር ፡ ለሙሴ ፡ ወይቤሎ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነበቦ",
+          "t": "wänäbäbo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord spoke to Moses, saying,",
+        "kjv": "And the LORD spake unto Moses, saying,"
+      }
+    },
+    {
+      "num": 38,
+      "geez": "ንግሮሙ ፡ ለደቂቀ ፡ እስራኤል ፡ ወበሎሙ ፡ ወይግበሩ ፡ ሎሙ ፡ ዘፈረ ፡ ውስተ ፡ ጽነፈ ፡ አልባሲሆሙ ፡ በመዋዕሊሆሙ ፡\n                  ወይደዩ ፡ ውስተ ፡ ዘፈረ ፡ ጽነፊሁ ፡ ደረከኖ ፡ ፍቱለ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ንግሮሙ",
+          "t": "nəgəromu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወበሎሙ",
+          "t": "wäbälomu",
+          "gl": ""
+        },
+        {
+          "g": "ወይግበሩ",
+          "t": "wäyəgəbäru",
+          "gl": ""
+        },
+        {
+          "g": "ሎሙ",
+          "t": "lomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘፈረ",
+          "t": "zäfärä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ጽነፈ",
+          "t": "ṣənäfä",
+          "gl": ""
+        },
+        {
+          "g": "አልባሲሆሙ",
+          "t": "ʾäləbasihomu",
+          "gl": ""
+        },
+        {
+          "g": "በመዋዕሊሆሙ",
+          "t": "bämäwaʿəlihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወይደዩ",
+          "t": "wäyədäyu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዘፈረ",
+          "t": "zäfärä",
+          "gl": ""
+        },
+        {
+          "g": "ጽነፊሁ",
+          "t": "ṣənäfihu",
+          "gl": ""
+        },
+        {
+          "g": "ደረከኖ",
+          "t": "däräkäno",
+          "gl": ""
+        },
+        {
+          "g": "ፍቱለ",
+          "t": "fətulä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Speak to the children of Israel, and thou shalt tell them; and let them make for themselves fringes upon the borders of their garments throughout their generations: and ye shall put upon the fringes of the borders a lace of blue.",
+        "kjv": "Speak unto the children of Israel, and bid them that they make them fringes in the borders of their garments throughout their generations, and that they put upon the fringe of the borders a ribband of blue:"
+      }
+    },
+    {
+      "num": 39,
+      "geez": "ወይኩንክሙ ፡ ውስተ ፡ ዘፈር ፡ ወትሬእይዎ ፡ ወትዜከሩ ፡ ኵሎ ፡ ትእዛዞ ፡ ለእግዚአብሔር ፡ ወግበርዎን ፡ ወ[ኢ]ትተልዉ\n                  ፡ ድኅረ ፡ ሕሊናክሙ ፡ ወድኅረ ፡ አዕይንቲክሙ ፡ በዘ ፡ ቦቱ ፡ ትዜምዉ ፡ አንትሙ ፡ ድኅሬሆሙ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይኩንክሙ",
+          "t": "wäyəkunəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዘፈር",
+          "t": "zäfärə",
+          "gl": ""
+        },
+        {
+          "g": "ወትሬእይዎ",
+          "t": "wätəreʾəyəwo",
+          "gl": ""
+        },
+        {
+          "g": "ወትዜከሩ",
+          "t": "wätəzekäru",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ትእዛዞ",
+          "t": "təʾəzazo",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወግበርዎን",
+          "t": "wägəbärəwonə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢትተልዉ",
+          "t": "wäʾitətäləwu",
+          "gl": ""
+        },
+        {
+          "g": "ድኅረ",
+          "t": "dəḫərä",
+          "gl": ""
+        },
+        {
+          "g": "ሕሊናክሙ",
+          "t": "ḥəlinakəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወድኅረ",
+          "t": "wädəḫərä",
+          "gl": ""
+        },
+        {
+          "g": "አዕይንቲክሙ",
+          "t": "ʾäʿəyənətikəmu",
+          "gl": ""
+        },
+        {
+          "g": "በዘ",
+          "t": "bäzä",
+          "gl": ""
+        },
+        {
+          "g": "ቦቱ",
+          "t": "botu",
+          "gl": ""
+        },
+        {
+          "g": "ትዜምዉ",
+          "t": "təzeməwu",
+          "gl": ""
+        },
+        {
+          "g": "አንትሙ",
+          "t": "ʾänətəmu",
+          "gl": ""
+        },
+        {
+          "g": "ድኅሬሆሙ",
+          "t": "dəḫərehomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it shall be on your fringes, and ye shall look on them, and ye shall remember all the commands of the Lord, and do them: and ye shall not turn back after your imaginations, and after the sight of your eyes in the things after which ye go a whoring;",
+        "kjv": "And it shall be unto you for a fringe, that ye may look upon it, and remember all the commandments of the LORD, and do them; and that ye seek not after your own heart and your own eyes, after which ye use to go a whoring:"
+      }
+    },
+    {
+      "num": 40,
+      "geez": "ከመ ፡ ትዘከሩ ፡ ወትግበሩ ፡ ኵላ ፡ ትእዛዝየ ፤ ወትከውኑ ፡ ቅዱሳነ ፡ ለአምላክክሙ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ትዘከሩ",
+          "t": "təzäkäru",
+          "gl": ""
+        },
+        {
+          "g": "ወትግበሩ",
+          "t": "wätəgəbäru",
+          "gl": ""
+        },
+        {
+          "g": "ኵላ",
+          "t": "kwəla",
+          "gl": ""
+        },
+        {
+          "g": "ትእዛዝየ  ወትከውኑ",
+          "t": "təʾəzazəyä  wätəkäwənu",
+          "gl": ""
+        },
+        {
+          "g": "ቅዱሳነ",
+          "t": "qədusanä",
+          "gl": ""
+        },
+        {
+          "g": "ለአምላክክሙ",
+          "t": "läʾäməlakəkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "that ye may remember and perform all my commands, and ye shall be holy unto your God.",
+        "kjv": "That ye may remember, and do all my commandments, and be holy unto your God."
+      }
+    },
+    {
+      "num": 41,
+      "geez": "ዘአውጽአክሙ ፡ እምነ ፡ ምድረ ፡ ግብጽ ፡ ከመ ፡ እኩንክሙ ፡ አምላከ ፡ ወአነ ፡ እግዚአብሔር ፡ አምላክክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዘአውጽአክሙ",
+          "t": "zäʾäwəṣəʾäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ምድረ",
+          "t": "mədərä",
+          "gl": ""
+        },
+        {
+          "g": "ግብጽ",
+          "t": "gəbəṣə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "እኩንክሙ",
+          "t": "ʾəkunəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "አምላከ",
+          "t": "ʾäməlakä",
+          "gl": ""
+        },
+        {
+          "g": "ወአነ",
+          "t": "wäʾänä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላክክሙ",
+          "t": "ʾäməlakəkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "I am the Lord your God that brought you out of the land of Egypt, to be your God: I am the Lord your God.",
+        "kjv": "I am the LORD your God, which brought you out of the land of Egypt, to be your God: I am the LORD your God."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

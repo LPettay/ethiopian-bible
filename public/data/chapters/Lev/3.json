@@ -1,0 +1,1335 @@
+{
+  "book": "Lev",
+  "chapter": 3,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወእመሰ ፡ መሥዋዕተ ፡ መድኀኒት ፡ ውእቱ ፡ ቍርባኑ ፡ ለእግዚአብሔር ፡ ለእመ ፡ እምውስተ ፡ ላህም ፡ አምጽአ ፡ እመኒ ፡\n                  ተባዕተ ፡ ወእመኒ ፡ አንስተ ፡ ንጹሐ ፡ ለያምጽእ ፡ ቅድመ ፡ እግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕተ",
+          "t": "mäśəwaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "መድኀኒት",
+          "t": "mädəḫänitə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ቍርባኑ",
+          "t": "qwərəbanu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለእመ",
+          "t": "läʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ላህም",
+          "t": "lahəmə",
+          "gl": ""
+        },
+        {
+          "g": "አምጽአ",
+          "t": "ʾäməṣəʾä",
+          "gl": ""
+        },
+        {
+          "g": "እመኒ",
+          "t": "ʾəmäni",
+          "gl": ""
+        },
+        {
+          "g": "ተባዕተ",
+          "t": "täbaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "ወእመኒ",
+          "t": "wäʾəmäni",
+          "gl": ""
+        },
+        {
+          "g": "አንስተ",
+          "t": "ʾänəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ንጹሐ",
+          "t": "nəṣuḥä",
+          "gl": ""
+        },
+        {
+          "g": "ለያምጽእ",
+          "t": "läyaməṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if his gift to the Lord be a peace-offering, if he should bring it of the oxen, whether it be male or whether it be female, he shall bring it unblemished before the Lord.",
+        "kjv": "And if his oblation be a sacrifice of peace offering, if he offer it of the herd; whether it be a male or female, he shall offer it without blemish before the LORD."
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ወይወዲ ፡ እዴሁ ፡ ላዕለ ፡ ርእሰ ፡ ቍርባኑ ፡ ወይጠብሖ ፡ ኀበ ፡ ኆኅተ ፡ ደብተራ ፡ ዘመርጡል ፡ ወይክዕዉ ፡ ደሞ ፡\n                  ደቂቀ ፡ አሮን ፡ ካህናት ፡ ላዕለ ፡ ምሥዋዕ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይወዲ",
+          "t": "wäyəwädi",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ርእሰ",
+          "t": "rəʾəsä",
+          "gl": ""
+        },
+        {
+          "g": "ቍርባኑ",
+          "t": "qwərəbanu",
+          "gl": ""
+        },
+        {
+          "g": "ወይጠብሖ",
+          "t": "wäyəṭäbəḥo",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ኆኅተ",
+          "t": "ḫoḫətä",
+          "gl": ""
+        },
+        {
+          "g": "ደብተራ",
+          "t": "däbətära",
+          "gl": ""
+        },
+        {
+          "g": "ዘመርጡል",
+          "t": "zämärəṭulə",
+          "gl": ""
+        },
+        {
+          "g": "ወይክዕዉ",
+          "t": "wäyəkəʿəwu",
+          "gl": ""
+        },
+        {
+          "g": "ደሞ",
+          "t": "dämo",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "አሮን",
+          "t": "ʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ካህናት",
+          "t": "kahənatə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ምሥዋዕ",
+          "t": "məśəwaʿə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he shall lay his hands on the head of the gift, and shall slay it before the Lord, by the doors of the tabernacle of witness. And the priests the sons of Aaron shall pour the blood on the altar of burnt-offerings round about.",
+        "kjv": "And he shall lay his hand upon the head of his offering, and kill it at the door of the tabernacle of the congregation: and Aaron’s sons the priests shall sprinkle the blood upon the altar round about."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወያበውኡ ፡ እምውስተ ፡ መሥዋዕተ ፡ መድኀኒት ፡ ቍርባነ ፡ ለእግዚአብሔር ፡ ሥብሐ ፡ ዘይገለብባ ፡ ለከርሡ ፡ ወኵሎ ፡\n                  ሥብሐ ፡ ዘውስተ ፡ ከርሡ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያበውኡ",
+          "t": "wäyabäwəʾu",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕተ",
+          "t": "mäśəwaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "መድኀኒት",
+          "t": "mädəḫänitə",
+          "gl": ""
+        },
+        {
+          "g": "ቍርባነ",
+          "t": "qwərəbanä",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ሥብሐ",
+          "t": "śəbəḥä",
+          "gl": ""
+        },
+        {
+          "g": "ዘይገለብባ",
+          "t": "zäyəgäläbəba",
+          "gl": ""
+        },
+        {
+          "g": "ለከርሡ",
+          "t": "läkärəśu",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ሥብሐ",
+          "t": "śəbəḥä",
+          "gl": ""
+        },
+        {
+          "g": "ዘውስተ",
+          "t": "zäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ከርሡ",
+          "t": "kärəśu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they shall bring of the peace-offering a burnt-sacrifice to the Lord, the fat covering the belly, and all the fat on the belly.",
+        "kjv": "And he shall offer of the sacrifice of the peace offering an offering made by fire unto the LORD; the fat that covereth the inwards, and all the fat that is upon the inwards,"
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወክልኤሆን ፡ ኵልያቶ ፡ ወሥብሐ ፡ ዘላዕሌሆን ፡ ዘውስተ ፡ ፀራዒት ፡ ወከብደ ፡ እንተ ፡ ትንእስ ፡ ምስለ ፡ ኵልያቱ ፡\n                  ያወጽአ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወክልኤሆን",
+          "t": "wäkələʾehonə",
+          "gl": ""
+        },
+        {
+          "g": "ኵልያቶ",
+          "t": "kwələyato",
+          "gl": ""
+        },
+        {
+          "g": "ወሥብሐ",
+          "t": "wäśəbəḥä",
+          "gl": ""
+        },
+        {
+          "g": "ዘላዕሌሆን",
+          "t": "zälaʿəlehonə",
+          "gl": ""
+        },
+        {
+          "g": "ዘውስተ",
+          "t": "zäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ፀራዒት",
+          "t": "ṣ́äraʿitə",
+          "gl": ""
+        },
+        {
+          "g": "ወከብደ",
+          "t": "wäkäbədä",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ትንእስ",
+          "t": "tənəʾəsə",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኵልያቱ",
+          "t": "kwələyatu",
+          "gl": ""
+        },
+        {
+          "g": "ያወጽአ",
+          "t": "yawäṣəʾä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the two kidneys and the fat that is upon them; he shall take away that which is on the thighs, and the caul above the liver together with the kidneys.",
+        "kjv": "And the two kidneys, and the fat that is on them, which is by the flanks, and the caul above the liver, with the kidneys, it shall he take away."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወያበውኡ ፡ ደቂቀ ፡ አሮን ፡ ውስተ ፡ ምሥዋዕ ፡ ላዕለ ፡ መሣውዑ ፡ ዲበ ፡ ዕፀው ፡ ዘላዕለ ፡ እሳት ፡ መሥዋዕተ ፡\n                  ለመዐዛ ፡ ሠናይ ፡ ለእግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያበውኡ",
+          "t": "wäyabäwəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "አሮን",
+          "t": "ʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምሥዋዕ",
+          "t": "məśəwaʿə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "መሣውዑ",
+          "t": "mäśawəʿu",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "ዕፀው",
+          "t": "ʿəṣ́äwə",
+          "gl": ""
+        },
+        {
+          "g": "ዘላዕለ",
+          "t": "zälaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "እሳት",
+          "t": "ʾəsatə",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕተ",
+          "t": "mäśəwaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "ለመዐዛ",
+          "t": "lämäʿäza",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይ",
+          "t": "śänayə",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the priests the sons of Aaron shall offer them on the altar on the burnt-offering, on the wood which is on the fire upon the altar: it is a burnt-offering, a smell of sweet savour to the Lord.",
+        "kjv": "And Aaron’s sons shall burn it on the altar upon the burnt sacrifice, which is upon the wood that is on the fire: it is an offering made by fire, of a sweet savour unto the LORD."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወእመሰ ፡ እምውስተ ፡ አባግዕ ፡ ቍርባኑ ፡ መሥዋዕተ ፡ መድኀኒቱ ፡ ለእግዚአብሔር ፡ እመኒ ፡ ተባዕት ፡ ወእመኒ ፡\n                  አንስት ፡ ንጹሐ ፡ ያምጽእ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አባግዕ",
+          "t": "ʾäbagəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ቍርባኑ",
+          "t": "qwərəbanu",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕተ",
+          "t": "mäśəwaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "መድኀኒቱ",
+          "t": "mädəḫänitu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "እመኒ",
+          "t": "ʾəmäni",
+          "gl": ""
+        },
+        {
+          "g": "ተባዕት",
+          "t": "täbaʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ወእመኒ",
+          "t": "wäʾəmäni",
+          "gl": ""
+        },
+        {
+          "g": "አንስት",
+          "t": "ʾänəsətə",
+          "gl": ""
+        },
+        {
+          "g": "ንጹሐ",
+          "t": "nəṣuḥä",
+          "gl": ""
+        },
+        {
+          "g": "ያምጽእ",
+          "t": "yaməṣəʾə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if his gift be of the sheep, a peace-offering to the Lord, male or female, he shall bring it unblemished.",
+        "kjv": "And if his offering for a sacrifice of peace offering unto the LORD be of the flock; male or female, he shall offer it without blemish."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወእመሰ ፡ ማሕስአ ፡ በግዕ ፡ ቍርባኑ ፡ ያመጽእ ፡ ቅድመ ፡ እግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "ማሕስአ",
+          "t": "maḥəsəʾä",
+          "gl": ""
+        },
+        {
+          "g": "በግዕ",
+          "t": "bägəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ቍርባኑ",
+          "t": "qwərəbanu",
+          "gl": ""
+        },
+        {
+          "g": "ያመጽእ",
+          "t": "yamäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "If he bring a lamb for his gift, he shall bring it before the Lord.",
+        "kjv": "If he offer a lamb for his offering, then shall he offer it before the LORD."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወይወዲ ፡ እዴሁ ፡ ላዕለ ፡ ርእሰ ፡ ቍርባኑ ፡ ወይጠብሖ ፡ ኀበ ፡ ኆኅተ ፡ ደብተራ ፡ ዘመርጡል ፡ ወይክዕዉ ፡ ደቂቀ ፡\n                  አሮን ፡ ደሞ ፡ ላዕለ ፡ ምሥዋዕ ፡ ውስተ ፡ ዐውዱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይወዲ",
+          "t": "wäyəwädi",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ርእሰ",
+          "t": "rəʾəsä",
+          "gl": ""
+        },
+        {
+          "g": "ቍርባኑ",
+          "t": "qwərəbanu",
+          "gl": ""
+        },
+        {
+          "g": "ወይጠብሖ",
+          "t": "wäyəṭäbəḥo",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ኆኅተ",
+          "t": "ḫoḫətä",
+          "gl": ""
+        },
+        {
+          "g": "ደብተራ",
+          "t": "däbətära",
+          "gl": ""
+        },
+        {
+          "g": "ዘመርጡል",
+          "t": "zämärəṭulə",
+          "gl": ""
+        },
+        {
+          "g": "ወይክዕዉ",
+          "t": "wäyəkəʿəwu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "አሮን",
+          "t": "ʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ደሞ",
+          "t": "dämo",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ምሥዋዕ",
+          "t": "məśəwaʿə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዐውዱ",
+          "t": "ʿäwədu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he shall lay his hands on the head of his offering, and shall slay it by the doors of the tabernacle of witness; and the priests the sons of Aaron shall pour out the blood on the altar round about.",
+        "kjv": "And he shall lay his hand upon the head of his offering, and kill it before the tabernacle of the congregation: and Aaron’s sons shall sprinkle the blood thereof round about upon the altar."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወይነሥእ ፡ እምውስተ ፡ መሥዋዕተ ፡ መድኀኒት ፡ ቍርባነ ፡ ለእግዚአብሔር ፡ ሥብሐ ፡ ወሐቌሁ ፡ ንጹሐ ፡ ምስለ ፡ ስመጢሁ\n                  ፡ ይመትሮ ፡ ወኵሎ ፡ ሥብሐ ፡ ዘይገለብባ ፡ ለከርሡ ፡ ወኵሎ ፡ ሥብሐ ፡ ዘውስተ ፡ ከርሡ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይነሥእ",
+          "t": "wäyənäśəʾə",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕተ",
+          "t": "mäśəwaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "መድኀኒት",
+          "t": "mädəḫänitə",
+          "gl": ""
+        },
+        {
+          "g": "ቍርባነ",
+          "t": "qwərəbanä",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ሥብሐ",
+          "t": "śəbəḥä",
+          "gl": ""
+        },
+        {
+          "g": "ወሐቌሁ",
+          "t": "wäḥäqwehu",
+          "gl": ""
+        },
+        {
+          "g": "ንጹሐ",
+          "t": "nəṣuḥä",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ስመጢሁ",
+          "t": "səmäṭihu",
+          "gl": ""
+        },
+        {
+          "g": "ይመትሮ",
+          "t": "yəmätəro",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ሥብሐ",
+          "t": "śəbəḥä",
+          "gl": ""
+        },
+        {
+          "g": "ዘይገለብባ",
+          "t": "zäyəgäläbəba",
+          "gl": ""
+        },
+        {
+          "g": "ለከርሡ",
+          "t": "läkärəśu",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ሥብሐ",
+          "t": "śəbəḥä",
+          "gl": ""
+        },
+        {
+          "g": "ዘውስተ",
+          "t": "zäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ከርሡ",
+          "t": "kärəśu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he shall bring of the peace-offering a burnt-sacrifice to the Lord: the fat and the hinder part unblemished he shall take away with the loins, and having taken away all the fat that covers the belly, and all the fat that is on the belly,",
+        "kjv": "And he shall offer of the sacrifice of the peace offering an offering made by fire unto the LORD; the fat thereof, and the whole rump, it shall he take off hard by the backbone; and the fat that covereth the inwards, and all the fat that is upon the inwards,"
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወክልኤሆን ፡ ኵለያቲሁ ፡ ወሥብሐ ፡ ዘውስተ ፡ ፀራዒቲሁ ፡ ወከብዶ ፡ እንተ ፡ ትንእስ ፡ ምስለ ፡ ኵለያቲሁ ፡ ይመትሮ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወክልኤሆን",
+          "t": "wäkələʾehonə",
+          "gl": ""
+        },
+        {
+          "g": "ኵለያቲሁ",
+          "t": "kwəläyatihu",
+          "gl": ""
+        },
+        {
+          "g": "ወሥብሐ",
+          "t": "wäśəbəḥä",
+          "gl": ""
+        },
+        {
+          "g": "ዘውስተ",
+          "t": "zäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ፀራዒቲሁ",
+          "t": "ṣ́äraʿitihu",
+          "gl": ""
+        },
+        {
+          "g": "ወከብዶ",
+          "t": "wäkäbədo",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ትንእስ",
+          "t": "tənəʾəsə",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኵለያቲሁ",
+          "t": "kwəläyatihu",
+          "gl": ""
+        },
+        {
+          "g": "ይመትሮ",
+          "t": "yəmätəro",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and both the kidneys and the fat that is upon them, and that which is on the thighs, and the caul which is on the liver with the kidneys,",
+        "kjv": "And the two kidneys, and the fat that is upon them, which is by the flanks, and the caul above the liver, with the kidneys, it shall he take away."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወይወድዮ ፡ ካህን ፡ ውስተ ፡ ምሥዋዕ ፡ ቍርባኑ ፡ ውእቱ ፡ ለእግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይወድዮ",
+          "t": "wäyəwädəyo",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምሥዋዕ",
+          "t": "məśəwaʿə",
+          "gl": ""
+        },
+        {
+          "g": "ቍርባኑ",
+          "t": "qwərəbanu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "the priest shall offer these on the altar: it is a sacrifice of sweet savour, a burnt-offering to the Lord.",
+        "kjv": "And the priest shall burn it upon the altar: it is the food of the offering made by fire unto the LORD."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወእመሰ ፡ እምውስተ ፡ አጣሊ ፡ ቍርባኑ ፡ ለእግዚአብሔር ፡ ወያመጽኦ ፡ ቅድመ ፡ እግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አጣሊ",
+          "t": "ʾäṭali",
+          "gl": ""
+        },
+        {
+          "g": "ቍርባኑ",
+          "t": "qwərəbanu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወያመጽኦ",
+          "t": "wäyamäṣəʾo",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if his offering be of the goats, then shall he bring it before the Lord.",
+        "kjv": "And if his offering be a goat, then he shall offer it before the LORD."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወይወዲ ፡ እዴሁ ፡ ላዕለ ፡ ርእሱ ፡ ወይጠብሕዎ ፡ ቅድመ ፡ እግዚአብሔር ፡ ኀበ ፡ ኆኅተ ፡ ደብተራ ፡ ዘመርጡል ፡\n                  ወይክዕዉ ፡ ደሞ ፡ ደቂቀ ፡ አሮን ፡ ካህናት ፡ ላዕለ ፡ ምሥዋዕ ፡ ውስተ ፡ ዐውዱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይወዲ",
+          "t": "wäyəwädi",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ርእሱ",
+          "t": "rəʾəsu",
+          "gl": ""
+        },
+        {
+          "g": "ወይጠብሕዎ",
+          "t": "wäyəṭäbəḥəwo",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ኆኅተ",
+          "t": "ḫoḫətä",
+          "gl": ""
+        },
+        {
+          "g": "ደብተራ",
+          "t": "däbətära",
+          "gl": ""
+        },
+        {
+          "g": "ዘመርጡል",
+          "t": "zämärəṭulə",
+          "gl": ""
+        },
+        {
+          "g": "ወይክዕዉ",
+          "t": "wäyəkəʿəwu",
+          "gl": ""
+        },
+        {
+          "g": "ደሞ",
+          "t": "dämo",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "አሮን",
+          "t": "ʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ካህናት",
+          "t": "kahənatə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ምሥዋዕ",
+          "t": "məśəwaʿə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዐውዱ",
+          "t": "ʿäwədu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he shall lay his hands on its head; and they shall slay it before the Lord by the doors of the tabernacle of witness; and the priests the sons of Aaron shall pour out the blood on the altar round about.",
+        "kjv": "And he shall lay his hand upon the head of it, and kill it before the tabernacle of the congregation: and the sons of Aaron shall sprinkle the blood thereof upon the altar round about."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወይነሥእ ፡ እምውስቴቱ ፡ ቍርባነ ፡ ለእግዚአብሔር ፡ ሥብሐ ፡ ዘይገለብባ ፡ ለከርሡ ፡ ወኵሎ ፡ ሥብሐ ፡ ዘውስተ ፡ ከርሡ\n                  ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይነሥእ",
+          "t": "wäyənäśəʾə",
+          "gl": ""
+        },
+        {
+          "g": "እምውስቴቱ",
+          "t": "ʾəməwəsətetu",
+          "gl": ""
+        },
+        {
+          "g": "ቍርባነ",
+          "t": "qwərəbanä",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ሥብሐ",
+          "t": "śəbəḥä",
+          "gl": ""
+        },
+        {
+          "g": "ዘይገለብባ",
+          "t": "zäyəgäläbəba",
+          "gl": ""
+        },
+        {
+          "g": "ለከርሡ",
+          "t": "läkärəśu",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ሥብሐ",
+          "t": "śəbəḥä",
+          "gl": ""
+        },
+        {
+          "g": "ዘውስተ",
+          "t": "zäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ከርሡ",
+          "t": "kärəśu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he shall offer of it a burnt-offering to the Lord, even the fat that covers the belly, and all the fat that is on the belly.",
+        "kjv": "And he shall offer thereof his offering, even an offering made by fire unto the LORD; the fat that covereth the inwards, and all the fat that is upon the inwards,"
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ወክልኤሆን ፡ ኵለያቲሁ ፡ ወኵሎ ፡ ሥብሐ ፡ ዘላዕሌሆን ፡ ዘውስተ ፡ ፀራዒቲሁ ፡ ወከብደ ፡ እንተ ፡ ትንእስ ፡ ምስለ ፡\n                  ኵለያቱ ፡ ይመትራ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወክልኤሆን",
+          "t": "wäkələʾehonə",
+          "gl": ""
+        },
+        {
+          "g": "ኵለያቲሁ",
+          "t": "kwəläyatihu",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ሥብሐ",
+          "t": "śəbəḥä",
+          "gl": ""
+        },
+        {
+          "g": "ዘላዕሌሆን",
+          "t": "zälaʿəlehonə",
+          "gl": ""
+        },
+        {
+          "g": "ዘውስተ",
+          "t": "zäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ፀራዒቲሁ",
+          "t": "ṣ́äraʿitihu",
+          "gl": ""
+        },
+        {
+          "g": "ወከብደ",
+          "t": "wäkäbədä",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ትንእስ",
+          "t": "tənəʾəsə",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኵለያቱ",
+          "t": "kwəläyatu",
+          "gl": ""
+        },
+        {
+          "g": "ይመትራ",
+          "t": "yəmätəra",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And both the kidneys, and all the fat that is upon them, that which is upon the thighs, and the caul of the liver with the kidneys, shall he take away.",
+        "kjv": "And the two kidneys, and the fat that is upon them, which is by the flanks, and the caul above the liver, with the kidneys, it shall he take away."
+      }
+    },
+    {
+      "num": 16,
+      "geez": "ወያነብሮ ፡ ካህን ፡ ላዕለ ፡ ምሥዋዕ ፤ መሥዋዕቱ ፡ ውእቱ ፡ ዘመዐዛ ፡ ሠናይ ፡ ለእግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያነብሮ",
+          "t": "wäyanäbəro",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ምሥዋዕ  መሥዋዕቱ",
+          "t": "məśəwaʿə  mäśəwaʿətu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘመዐዛ",
+          "t": "zämäʿäza",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይ",
+          "t": "śänayə",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the priest shall offer it upon the altar: it is a burnt-offering, a smell of sweet savour to the Lord. All the fat belongs to the Lord.",
+        "kjv": "And the priest shall burn them upon the altar: it is the food of the offering made by fire for a sweet savour: all the fat is the LORD’s."
+      }
+    },
+    {
+      "num": 17,
+      "geez": "ኵሉ ፡ ሥብሕ ፡ ለእግዚአብሔር ፡ ሕግ ፡ ዘለዓለም ፡ ውእቱ ፡ በኵሉ ፡ መዋዕሊክሙ ፡ በኵልሄ ፡ በኀበ ፡ ትነብሩ ፤ ኵሎ\n                  ፡ ሥብሐ ፡ ወኵሎ ፡ ደመ ፡ ኢትብልዑ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ሥብሕ",
+          "t": "śəbəḥə",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ሕግ",
+          "t": "ḥəgə",
+          "gl": ""
+        },
+        {
+          "g": "ዘለዓለም",
+          "t": "zäläʿalämə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "በኵሉ",
+          "t": "bäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕሊክሙ",
+          "t": "mäwaʿəlikəmu",
+          "gl": ""
+        },
+        {
+          "g": "በኵልሄ",
+          "t": "bäkwələhe",
+          "gl": ""
+        },
+        {
+          "g": "በኀበ",
+          "t": "bäḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ትነብሩ  ኵሎ",
+          "t": "tənäbəru  kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ሥብሐ",
+          "t": "śəbəḥä",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ደመ",
+          "t": "dämä",
+          "gl": ""
+        },
+        {
+          "g": "ኢትብልዑ",
+          "t": "ʾitəbələʿu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "It is a perpetual statute throughout your generations, in all your habitations; ye shall eat no fat and no blood.",
+        "kjv": "It shall be a perpetual statute for your generations throughout all your dwellings, that ye eat neither fat nor blood."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

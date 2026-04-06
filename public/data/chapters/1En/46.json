@@ -1,0 +1,913 @@
+{
+  "book": "1En",
+  "chapter": 46,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወበህየ፡ ርኢኩ፡ ዘሎቱ፡ ርእሰ፡ መዋዕል፡ ወርእሱ፡ ከመ፡ ፀምር፡ ጸዐዳ፡ ወምስሌሁ፡ ካልእ፡ ዘገጹ፡ ከመ፡ ርእየተ፡ ሰብእ፡ ወምሉእ፡ ጸጋ፡ ወገጹ፡ ከመ፡ አሐዱ፡ እመላእክት፡ ቅዱሳን።",
+      "translation": "And there I saw One who had a head of days, And His head was white like wool, And with Him was another being whose countenance had the appearance of a man, And his face was full of graciousness, like one of the holy angels.",
+      "words": [
+        {
+          "g": "ወበህየ",
+          "t": "wäbähəyä",
+          "gl": ""
+        },
+        {
+          "g": "ርኢኩ",
+          "t": "rəʾiku",
+          "gl": ""
+        },
+        {
+          "g": "ዘሎቱ",
+          "t": "zälotu",
+          "gl": ""
+        },
+        {
+          "g": "ርእሰ",
+          "t": "rəʾəsä",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕል",
+          "t": "mäwaʿələ",
+          "gl": ""
+        },
+        {
+          "g": "ወርእሱ",
+          "t": "wärəʾəsu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ፀምር",
+          "t": "ṣ́ämərə",
+          "gl": ""
+        },
+        {
+          "g": "ጸዐዳ",
+          "t": "ṣäʿäda",
+          "gl": ""
+        },
+        {
+          "g": "ወምስሌሁ",
+          "t": "wäməsəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ካልእ",
+          "t": "kaləʾə",
+          "gl": ""
+        },
+        {
+          "g": "ዘገጹ",
+          "t": "zägäṣu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ርእየተ",
+          "t": "rəʾəyätä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወምሉእ",
+          "t": "wäməluʾə",
+          "gl": ""
+        },
+        {
+          "g": "ጸጋ",
+          "t": "ṣäga",
+          "gl": ""
+        },
+        {
+          "g": "ወገጹ",
+          "t": "wägäṣu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "እመላእክት",
+          "t": "ʾəmälaʾəkətə",
+          "gl": ""
+        },
+        {
+          "g": "ቅዱሳን",
+          "t": "qədusanə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "geez": "ወተስእልክዎ፡ ለአሐዱ፡ እመላእክት፡ ቅዱሳን፡ ዘየሐውር፡ ምስሌየ፡ ወኵሎ፡ ኅቡኣተ፡ ዘአርአየኒ፡ በእንተ፡ ዝኩ፡ ወልደ፡ ሰብእ፡ ወእቤሎ፡ መኑ፡ ውእቱ፡ ወእምአይቴ፡ ይከውን፡ ውእቱ፡ ወበእንተ፡ ምንት፡ ምስለ፡ ርእሰ፡ መዋዕል፡ የሐውር።",
+      "translation": "And I asked the angel who went with me and showed me all the hidden things, concerning that Son of Man, who he was, and whence he was, (and) why he went with the Head of Days?",
+      "words": [
+        {
+          "g": "ወተስእልክዎ",
+          "t": "wätäsəʾələkəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለአሐዱ",
+          "t": "läʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "እመላእክት",
+          "t": "ʾəmälaʾəkətə",
+          "gl": ""
+        },
+        {
+          "g": "ቅዱሳን",
+          "t": "qədusanə",
+          "gl": ""
+        },
+        {
+          "g": "ዘየሐውር",
+          "t": "zäyäḥäwərə",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌየ",
+          "t": "məsəleyä",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ኅቡኣተ",
+          "t": "ḫəbuʾatä",
+          "gl": ""
+        },
+        {
+          "g": "ዘአርአየኒ",
+          "t": "zäʾärəʾäyäni",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ዝኩ",
+          "t": "zəku",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወእቤሎ",
+          "t": "wäʾəbelo",
+          "gl": ""
+        },
+        {
+          "g": "መኑ",
+          "t": "mänu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ወእምአይቴ",
+          "t": "wäʾəməʾäyəte",
+          "gl": ""
+        },
+        {
+          "g": "ይከውን",
+          "t": "yəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ወበእንተ",
+          "t": "wäbäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ምንት",
+          "t": "mənətə",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ርእሰ",
+          "t": "rəʾəsä",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕል",
+          "t": "mäwaʿələ",
+          "gl": ""
+        },
+        {
+          "g": "የሐውር",
+          "t": "yäḥäwərə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "geez": "ወአውሥአኒ፡ ወይቤለኒ፡ ዝንቱ፡ ውእቱ፡ ወልደ፡ ሰብእ፡ ዘሎቱ፡ ኮነ፡ ጽድቅ፡ ወጽድቅ፡ ምስሌሁ፡ ኀደረ፡ ወኵሎ፡ መዛግብተ፡ ዘኅቡእ፡ ውእቱ፡ ይከሥት፡ እስመ፡ እግዚአ፡ መናፍስት፡ ኪያሁ፡ ኀረየ፡ ወዘክፍሎ፡ ኵሎ፡ ሞአ፡ በቅድመ፡ እግዚአ፡ መናፍስት፡ በርትዕ፡ ለዓለም።",
+      "translation": "And he answered and said unto me: This is the Son of Man who hath righteousness, With whom dwelleth righteousness, And who revealeth all the treasures of that which is hidden, Because the Lord of Spirits hath chosen him, And whose lot hath the pre-eminence before the Lord of Spirits in uprightness for ever.",
+      "words": [
+        {
+          "g": "ወአውሥአኒ",
+          "t": "wäʾäwəśəʾäni",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤለኒ",
+          "t": "wäyəbeläni",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ዘሎቱ",
+          "t": "zälotu",
+          "gl": ""
+        },
+        {
+          "g": "ኮነ",
+          "t": "konä",
+          "gl": ""
+        },
+        {
+          "g": "ጽድቅ",
+          "t": "ṣədəqə",
+          "gl": ""
+        },
+        {
+          "g": "ወጽድቅ",
+          "t": "wäṣədəqə",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሁ",
+          "t": "məsəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ኀደረ",
+          "t": "ḫädärä",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "መዛግብተ",
+          "t": "mäzagəbətä",
+          "gl": ""
+        },
+        {
+          "g": "ዘኅቡእ",
+          "t": "zäḫəbuʾə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ይከሥት",
+          "t": "yəkäśətə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአ",
+          "t": "ʾəgəziʾä",
+          "gl": ""
+        },
+        {
+          "g": "መናፍስት",
+          "t": "mänafəsətə",
+          "gl": ""
+        },
+        {
+          "g": "ኪያሁ",
+          "t": "kiyahu",
+          "gl": ""
+        },
+        {
+          "g": "ኀረየ",
+          "t": "ḫäräyä",
+          "gl": ""
+        },
+        {
+          "g": "ወዘክፍሎ",
+          "t": "wäzäkəfəlo",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ሞአ",
+          "t": "moʾä",
+          "gl": ""
+        },
+        {
+          "g": "በቅድመ",
+          "t": "bäqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአ",
+          "t": "ʾəgəziʾä",
+          "gl": ""
+        },
+        {
+          "g": "መናፍስት",
+          "t": "mänafəsətə",
+          "gl": ""
+        },
+        {
+          "g": "በርትዕ",
+          "t": "bärətəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ለዓለም",
+          "t": "läʿalämə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 4,
+      "geez": "ወዝንቱ፡ ወልደ፡ ሰብእ፡ ዘርኢከ፡ ያነሥኦሙ፡ ለነገሥት፡ ወለኀያላን፡ እምስካባቲሆሙ፡ ወለጽኑዓን፡ እመናብርቲሆሙ፡ ወይፈትሕ፡ ልጓማተ፡ ጽኑዓን፡ ወያደቅቅ፡ አስናነ፡ ኃጥኣን።",
+      "translation": "And this Son of Man whom thou hast seen Shall †raise up† the kings and the mighty from their seats, [And the strong from their thrones] And shall loosen the reins of the strong, And break the teeth of the sinners.",
+      "words": [
+        {
+          "g": "ወዝንቱ",
+          "t": "wäzənətu",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ዘርኢከ",
+          "t": "zärəʾikä",
+          "gl": ""
+        },
+        {
+          "g": "ያነሥኦሙ",
+          "t": "yanäśəʾomu",
+          "gl": ""
+        },
+        {
+          "g": "ለነገሥት",
+          "t": "länägäśətə",
+          "gl": ""
+        },
+        {
+          "g": "ወለኀያላን",
+          "t": "wäläḫäyalanə",
+          "gl": ""
+        },
+        {
+          "g": "እምስካባቲሆሙ",
+          "t": "ʾəməsəkabatihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወለጽኑዓን",
+          "t": "wäläṣənuʿanə",
+          "gl": ""
+        },
+        {
+          "g": "እመናብርቲሆሙ",
+          "t": "ʾəmänabərətihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወይፈትሕ",
+          "t": "wäyəfätəḥə",
+          "gl": ""
+        },
+        {
+          "g": "ልጓማተ",
+          "t": "ləgwamatä",
+          "gl": ""
+        },
+        {
+          "g": "ጽኑዓን",
+          "t": "ṣənuʿanə",
+          "gl": ""
+        },
+        {
+          "g": "ወያደቅቅ",
+          "t": "wäyadäqəqə",
+          "gl": ""
+        },
+        {
+          "g": "አስናነ",
+          "t": "ʾäsənanä",
+          "gl": ""
+        },
+        {
+          "g": "ኃጥኣን",
+          "t": "ḫaṭəʾanə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 5,
+      "geez": "ወይገፈትዖሙ፡ ለነገሥት፡ እመናብርቲሆሙ፡ ወእመንግሥቶሙ፡ እስመ፡ ኢያሌዕልዎ፡ ወኢይሴብሕዎ፡ ወኢይገንዩ፡ ወእምአይቴ፡ ተውህበት፡ ሎሙ፡ መንግሥት።",
+      "translation": "[And he shall put down the kings from their thrones and kingdoms] Because they do not extol and praise Him, Nor humbly acknowledge whence the kingdom was bestowed upon them.",
+      "words": [
+        {
+          "g": "ወይገፈትዖሙ",
+          "t": "wäyəgäfätəʿomu",
+          "gl": ""
+        },
+        {
+          "g": "ለነገሥት",
+          "t": "länägäśətə",
+          "gl": ""
+        },
+        {
+          "g": "እመናብርቲሆሙ",
+          "t": "ʾəmänabərətihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወእመንግሥቶሙ",
+          "t": "wäʾəmänəgəśətomu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኢያሌዕልዎ",
+          "t": "ʾiyaleʿələwo",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይሴብሕዎ",
+          "t": "wäʾiyəsebəḥəwo",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይገንዩ",
+          "t": "wäʾiyəgänəyu",
+          "gl": ""
+        },
+        {
+          "g": "ወእምአይቴ",
+          "t": "wäʾəməʾäyəte",
+          "gl": ""
+        },
+        {
+          "g": "ተውህበት",
+          "t": "täwəhəbätə",
+          "gl": ""
+        },
+        {
+          "g": "ሎሙ",
+          "t": "lomu",
+          "gl": ""
+        },
+        {
+          "g": "መንግሥት",
+          "t": "mänəgəśətə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 6,
+      "geez": "ወገጸ፡ ጽኑዓን፡ ይገፈትዕ፡ ወይመልኦሙ፡ ኀፍረት፡ ወጽልመተ፡ ይከውኖሙ፡ ማኅደሪሆሙ፡ ወዕፄያት፡ ይከውንዎሙ፡ ምስካቢሆሙ፡ ወኢይሴፈዉ፡ ከመ፡ ይትነሥኡ፡ እምስካባቲሆሙ፡ እስመ፡ ኢያሌዕሉ፡ ስሞ፡ ለእግዚአ፡ መናፍስት።",
+      "translation": "And he shall put down the countenance of the strong, And shall fill them with shame. And darkness shall be their dwelling, And worms shall be their bed, And they shall have no hope of rising from their beds, Because they do not extol the name of the Lord of Spirits.",
+      "words": [
+        {
+          "g": "ወገጸ",
+          "t": "wägäṣä",
+          "gl": ""
+        },
+        {
+          "g": "ጽኑዓን",
+          "t": "ṣənuʿanə",
+          "gl": ""
+        },
+        {
+          "g": "ይገፈትዕ",
+          "t": "yəgäfätəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወይመልኦሙ",
+          "t": "wäyəmäləʾomu",
+          "gl": ""
+        },
+        {
+          "g": "ኀፍረት",
+          "t": "ḫäfərätə",
+          "gl": ""
+        },
+        {
+          "g": "ወጽልመተ",
+          "t": "wäṣələmätä",
+          "gl": ""
+        },
+        {
+          "g": "ይከውኖሙ",
+          "t": "yəkäwənomu",
+          "gl": ""
+        },
+        {
+          "g": "ማኅደሪሆሙ",
+          "t": "maḫədärihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወዕፄያት",
+          "t": "wäʿəṣ́eyatə",
+          "gl": ""
+        },
+        {
+          "g": "ይከውንዎሙ",
+          "t": "yəkäwənəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ምስካቢሆሙ",
+          "t": "məsəkabihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይሴፈዉ",
+          "t": "wäʾiyəsefäwu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይትነሥኡ",
+          "t": "yətənäśəʾu",
+          "gl": ""
+        },
+        {
+          "g": "እምስካባቲሆሙ",
+          "t": "ʾəməsəkabatihomu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኢያሌዕሉ",
+          "t": "ʾiyaleʿəlu",
+          "gl": ""
+        },
+        {
+          "g": "ስሞ",
+          "t": "səmo",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአ",
+          "t": "läʾəgəziʾä",
+          "gl": ""
+        },
+        {
+          "g": "መናፍስት",
+          "t": "mänafəsətə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 7,
+      "geez": "ወእሙንቱ፡ ኮኑ፡ እለ፡ ይኴንኑ፡ ከዋክብተ፡ ሰማይ፡ ወያሌዕሉ፡ እደዊሆሙ፡ ውስተ፡ ልዑል፡ ወይከይዱ፡ ዲበ፡ የብስ፡ ወየኀድሩ፡ ውስቴታ፡ ወኵሎ፡ ተግባሮሙ፡ ዐመፃ፡ ያሬእዩ፡ ወኵሉ፡ ተግባሮሙ፡ ዐመፃ፡ ወኀይሎሙ፡ ዲበ፡ ብዕሎሙ፡ ወሃይማኖቶሙ፡ ኮነ፡ ለአማልክት፡ እለ፡ ገብሩ፡ በእደዊሆሙ፡ ወይክሕዱ፡ ስሞ፡ ለእግዚአ፡ መናፍስት።",
+      "translation": "And these are they who †judge† the stars of heaven, [And raise their hands against the Most High], †And tread upon the earth and dwell upon it†. And all their deeds manifest unrighteousness, And their power rests upon their riches, And their faith is in the gods which they have made with their hands, And they deny the name of the Lord of Spirits,",
+      "words": [
+        {
+          "g": "ወእሙንቱ",
+          "t": "wäʾəmunətu",
+          "gl": ""
+        },
+        {
+          "g": "ኮኑ",
+          "t": "konu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይኴንኑ",
+          "t": "yəkwenənu",
+          "gl": ""
+        },
+        {
+          "g": "ከዋክብተ",
+          "t": "käwakəbətä",
+          "gl": ""
+        },
+        {
+          "g": "ሰማይ",
+          "t": "sämayə",
+          "gl": ""
+        },
+        {
+          "g": "ወያሌዕሉ",
+          "t": "wäyaleʿəlu",
+          "gl": ""
+        },
+        {
+          "g": "እደዊሆሙ",
+          "t": "ʾədäwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ልዑል",
+          "t": "ləʿulə",
+          "gl": ""
+        },
+        {
+          "g": "ወይከይዱ",
+          "t": "wäyəkäyədu",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "የብስ",
+          "t": "yäbəsə",
+          "gl": ""
+        },
+        {
+          "g": "ወየኀድሩ",
+          "t": "wäyäḫädəru",
+          "gl": ""
+        },
+        {
+          "g": "ውስቴታ",
+          "t": "wəsəteta",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ተግባሮሙ",
+          "t": "tägəbaromu",
+          "gl": ""
+        },
+        {
+          "g": "ዐመፃ",
+          "t": "ʿämäṣ́a",
+          "gl": ""
+        },
+        {
+          "g": "ያሬእዩ",
+          "t": "yareʾəyu",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ተግባሮሙ",
+          "t": "tägəbaromu",
+          "gl": ""
+        },
+        {
+          "g": "ዐመፃ",
+          "t": "ʿämäṣ́a",
+          "gl": ""
+        },
+        {
+          "g": "ወኀይሎሙ",
+          "t": "wäḫäyəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "ብዕሎሙ",
+          "t": "bəʿəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ወሃይማኖቶሙ",
+          "t": "wähayəmanotomu",
+          "gl": ""
+        },
+        {
+          "g": "ኮነ",
+          "t": "konä",
+          "gl": ""
+        },
+        {
+          "g": "ለአማልክት",
+          "t": "läʾämaləkətə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ገብሩ",
+          "t": "gäbəru",
+          "gl": ""
+        },
+        {
+          "g": "በእደዊሆሙ",
+          "t": "bäʾədäwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወይክሕዱ",
+          "t": "wäyəkəḥədu",
+          "gl": ""
+        },
+        {
+          "g": "ስሞ",
+          "t": "səmo",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአ",
+          "t": "läʾəgəziʾä",
+          "gl": ""
+        },
+        {
+          "g": "መናፍስት",
+          "t": "mänafəsətə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 8,
+      "geez": "ወይሰድዱ፡ እምአብያት፡ ምስትጉቡአ፡ ዚኣሁ፡ ወለመሃይምናን፡ እለ፡ ስቁላን፡ በስሙ፡ ለእግዚአ፡ መናፍስት።",
+      "translation": "And they persecute the houses of His congregations, And the faithful who hang upon the name of the Lord of Spirits.",
+      "words": [
+        {
+          "g": "ወይሰድዱ",
+          "t": "wäyəsädədu",
+          "gl": ""
+        },
+        {
+          "g": "እምአብያት",
+          "t": "ʾəməʾäbəyatə",
+          "gl": ""
+        },
+        {
+          "g": "ምስትጉቡአ",
+          "t": "məsətəgubuʾä",
+          "gl": ""
+        },
+        {
+          "g": "ዚኣሁ",
+          "t": "ziʾahu",
+          "gl": ""
+        },
+        {
+          "g": "ወለመሃይምናን",
+          "t": "wälämähayəmənanə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ስቁላን",
+          "t": "səqulanə",
+          "gl": ""
+        },
+        {
+          "g": "በስሙ",
+          "t": "bäsəmu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአ",
+          "t": "läʾəgəziʾä",
+          "gl": ""
+        },
+        {
+          "g": "መናፍስት",
+          "t": "mänafəsətə",
+          "gl": ""
+        }
+      ]
+    }
+  ],
+  "note": "The Son of Man is revealed. 'His countenance was full of grace, like one of the holy angels.' He existed before creation. He will judge the kings and the mighty. The conceptual bridge between Daniel 7 and Jesus' self-designation in the Gospels."
+}

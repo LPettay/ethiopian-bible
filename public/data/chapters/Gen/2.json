@@ -1,0 +1,1908 @@
+{
+  "book": "Gen",
+  "chapter": 2,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ተፈጸመ ፡ ሰማይ ፡ ወምድር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ተፈጸመ",
+          "t": "täfäṣämä",
+          "gl": ""
+        },
+        {
+          "g": "ሰማይ",
+          "t": "sämayə",
+          "gl": ""
+        },
+        {
+          "g": "ወምድር",
+          "t": "wämədərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the heavens and the earth were finished, and the whole world of them.",
+        "kjv": "Thus the heavens and the earth were finished, and all the host of them."
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ወኵሎ ፡ ዓለመ ፡ ፈጸመ ፡ እግዚአብሔር ፡ ገቢረ ፡ ግብሮ ፡ ወአዕረፈ ፡ እግዚአብሔር ፡ በሳብዕት ፡ ዕለት ፡ እምኵሉ ፡\n                  ግብሩ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ዓለመ",
+          "t": "ʿalämä",
+          "gl": ""
+        },
+        {
+          "g": "ፈጸመ",
+          "t": "fäṣämä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ገቢረ",
+          "t": "gäbirä",
+          "gl": ""
+        },
+        {
+          "g": "ግብሮ",
+          "t": "gəbəro",
+          "gl": ""
+        },
+        {
+          "g": "ወአዕረፈ",
+          "t": "wäʾäʿəräfä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "በሳብዕት",
+          "t": "bäsabəʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "እምኵሉ",
+          "t": "ʾəməkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ግብሩ",
+          "t": "gəbəru",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And God finished on the sixth day his works which he made, and he ceased on the seventh day from all his works which he made.",
+        "kjv": "And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወባረካ ፡ እግዚአብሔር ፡ ለዕለት ፡ ሳብዕት ፡ ወቀደሳ ፡ እስመ ፡ ባቲ ፡ አዕረፈ ፡ እምኵሉ ፡ ግብሩ ፡ ዘአኀዘ ፡\n                  ይግበር ፡ እግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወባረካ",
+          "t": "wäbaräka",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለዕለት",
+          "t": "läʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "ሳብዕት",
+          "t": "sabəʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ወቀደሳ",
+          "t": "wäqädäsa",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ባቲ",
+          "t": "bati",
+          "gl": ""
+        },
+        {
+          "g": "አዕረፈ",
+          "t": "ʾäʿəräfä",
+          "gl": ""
+        },
+        {
+          "g": "እምኵሉ",
+          "t": "ʾəməkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ግብሩ",
+          "t": "gəbəru",
+          "gl": ""
+        },
+        {
+          "g": "ዘአኀዘ",
+          "t": "zäʾäḫäzä",
+          "gl": ""
+        },
+        {
+          "g": "ይግበር",
+          "t": "yəgəbärə",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And God blessed the seventh day and sanctified it, because in it he ceased from all his works which God began to do.",
+        "kjv": "And God blessed the seventh day, and sanctified it: because that in it he had rested from all his work which God created and made."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ዛቲ ፡ መጽሐፍ ፡ እንተ ፡ ፍጥረተ ፡ ሰማይ ፡ ወምድር ፡ አመ ፡ ኮነት ፡ ዕለት ፡ እንተ ፡ ባቲ ፡ ገብረ ፡ እግዚአብሔር\n                  ፡ ሰማየ ፡ ወምድረ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዛቲ",
+          "t": "zati",
+          "gl": ""
+        },
+        {
+          "g": "መጽሐፍ",
+          "t": "mäṣəḥäfə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ፍጥረተ",
+          "t": "fəṭərätä",
+          "gl": ""
+        },
+        {
+          "g": "ሰማይ",
+          "t": "sämayə",
+          "gl": ""
+        },
+        {
+          "g": "ወምድር",
+          "t": "wämədərə",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ኮነት",
+          "t": "konätə",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ባቲ",
+          "t": "bati",
+          "gl": ""
+        },
+        {
+          "g": "ገብረ",
+          "t": "gäbərä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ሰማየ",
+          "t": "sämayä",
+          "gl": ""
+        },
+        {
+          "g": "ወምድረ",
+          "t": "wämədərä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "This is the book of the generation of heaven and earth, when they were made, in the day in which the Lord God made the heaven and the earth,",
+        "kjv": "These are the generations of the heavens and of the earth when they were created, in the day that the LORD God made the earth and the heavens,"
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወኵሉ ፡ ኀመልማለ ፡ [ሐቅል ፡ እምቅድመ ፡ ይኩን ፡ በምድር ፡ ወኵሉ ፡ ኀመልማለ ፡] ምድር ፡ እምቅድመ ፡ ይብቈል ፡\n                  እስመ ፡ ኢያዝነመ ፡ እግዚአብሔር ፡ ዲበ ፡ ምድር ፡ እምቅድመ ፡ ይትፈጠር ፡ እጓለ ፡ እመሕያው ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ኀመልማለ",
+          "t": "ḫämäləmalä",
+          "gl": ""
+        },
+        {
+          "g": "ሐቅል",
+          "t": "ḥäqələ",
+          "gl": ""
+        },
+        {
+          "g": "እምቅድመ",
+          "t": "ʾəməqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ይኩን",
+          "t": "yəkunə",
+          "gl": ""
+        },
+        {
+          "g": "በምድር",
+          "t": "bämədərə",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ኀመልማለ",
+          "t": "ḫämäləmalä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "እምቅድመ",
+          "t": "ʾəməqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ይብቈል",
+          "t": "yəbəqwälə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኢያዝነመ",
+          "t": "ʾiyazənämä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "እምቅድመ",
+          "t": "ʾəməqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ይትፈጠር",
+          "t": "yətəfäṭärə",
+          "gl": ""
+        },
+        {
+          "g": "እጓለ",
+          "t": "ʾəgwalä",
+          "gl": ""
+        },
+        {
+          "g": "እመሕያው",
+          "t": "ʾəmäḥəyawə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and every herb of the field before it was on the earth, and all the grass of the field before it sprang up, for God had not rained on the earth, and there was not a man to cultivate it.",
+        "kjv": "And every plant of the field before it was in the earth, and every herb of the field before it grew: for the LORD God had not caused it to rain upon the earth, and there was not a man to till the ground."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "አላ ፡ ነቀዐ ፡ ማይ ፡ የዐርግ ፡ ባሕቱ ፡ እምነ ፡ ምድር ፡ [ወይሰቅያ ፡ ለየብስ ፡] ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "አላ",
+          "t": "ʾäla",
+          "gl": ""
+        },
+        {
+          "g": "ነቀዐ",
+          "t": "näqäʿä",
+          "gl": ""
+        },
+        {
+          "g": "ማይ",
+          "t": "mayə",
+          "gl": ""
+        },
+        {
+          "g": "የዐርግ",
+          "t": "yäʿärəgə",
+          "gl": ""
+        },
+        {
+          "g": "ባሕቱ",
+          "t": "baḥətu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ወይሰቅያ",
+          "t": "wäyəsäqəya",
+          "gl": ""
+        },
+        {
+          "g": "ለየብስ",
+          "t": "läyäbəsə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But there rose a fountain out of the earth, and watered the whole face of the earth.",
+        "kjv": "But there went up a mist from the earth, and watered the whole face of the ground."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወገብሮ ፡ እግዚአብሔር ፡ ለሰብእ ፡ እምነ ፡ መሬተ ፡ ምድር ፡ ወነፍኀ ፡ ዲበ ፡ ገጹ ፡ መንፈሰ ፡ ሕይወት ፡ ወኮነ ፡\n                  እጓለ ፡ እመሕያው ፡ ለመንፈሰ ፡ ሕይወት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወገብሮ",
+          "t": "wägäbəro",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሰብእ",
+          "t": "läsäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "መሬተ",
+          "t": "märetä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ወነፍኀ",
+          "t": "wänäfəḫä",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "ገጹ",
+          "t": "gäṣu",
+          "gl": ""
+        },
+        {
+          "g": "መንፈሰ",
+          "t": "mänəfäsä",
+          "gl": ""
+        },
+        {
+          "g": "ሕይወት",
+          "t": "ḥəyəwätə",
+          "gl": ""
+        },
+        {
+          "g": "ወኮነ",
+          "t": "wäkonä",
+          "gl": ""
+        },
+        {
+          "g": "እጓለ",
+          "t": "ʾəgwalä",
+          "gl": ""
+        },
+        {
+          "g": "እመሕያው",
+          "t": "ʾəmäḥəyawə",
+          "gl": ""
+        },
+        {
+          "g": "ለመንፈሰ",
+          "t": "lämänəfäsä",
+          "gl": ""
+        },
+        {
+          "g": "ሕይወት",
+          "t": "ḥəyəwätə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And God formed the man of dust of the earth, and breathed upon his face the breath of life, and the man became a living soul.",
+        "kjv": "And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወተከለ ፡ እግዚአብሔር ፡ ውስተ ፡ ኤድም ፡ ገነተ ፡ ቅድመ ፡ መንገለ ፡ ጽባሕ ፡ ወሤሞ ፡ ህየ ፡ ለእጓለ ፡ እመሕያው ፡\n                  ዘገብረ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተከለ",
+          "t": "wätäkälä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኤድም",
+          "t": "ʾedəmə",
+          "gl": ""
+        },
+        {
+          "g": "ገነተ",
+          "t": "gänätä",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "መንገለ",
+          "t": "mänəgälä",
+          "gl": ""
+        },
+        {
+          "g": "ጽባሕ",
+          "t": "ṣəbaḥə",
+          "gl": ""
+        },
+        {
+          "g": "ወሤሞ",
+          "t": "wäśemo",
+          "gl": ""
+        },
+        {
+          "g": "ህየ",
+          "t": "həyä",
+          "gl": ""
+        },
+        {
+          "g": "ለእጓለ",
+          "t": "läʾəgwalä",
+          "gl": ""
+        },
+        {
+          "g": "እመሕያው",
+          "t": "ʾəmäḥəyawə",
+          "gl": ""
+        },
+        {
+          "g": "ዘገብረ",
+          "t": "zägäbərä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And God planted a garden eastward in Edem, and placed there the man whom he had formed.",
+        "kjv": "And the LORD God planted a garden eastward in Eden; and there he put the man whom he had formed."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወአብቈለ ፡ ዓዲ ፡ እግዚአብሔር ፡ እምነ ፡ ምድር ፡ ኵሎ ፡ ዕፀወ ፡ ዘሠናይ ፡ ለበሊዕ ፡ ወሠናይ ፡ ለርእይ ፡ ወዕፀ ፡\n                  ሕይወትኒ ፡ ማእከለ ፡ ገነት ፡ ወዕፀኒ ፡ ዘያርኢ ፡ ወያሌቡ ፡ ሠናየ ፡ ወእኩየ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአብቈለ",
+          "t": "wäʾäbəqwälä",
+          "gl": ""
+        },
+        {
+          "g": "ዓዲ",
+          "t": "ʿadi",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ዕፀወ",
+          "t": "ʿəṣ́äwä",
+          "gl": ""
+        },
+        {
+          "g": "ዘሠናይ",
+          "t": "zäśänayə",
+          "gl": ""
+        },
+        {
+          "g": "ለበሊዕ",
+          "t": "läbäliʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወሠናይ",
+          "t": "wäśänayə",
+          "gl": ""
+        },
+        {
+          "g": "ለርእይ",
+          "t": "lärəʾəyə",
+          "gl": ""
+        },
+        {
+          "g": "ወዕፀ",
+          "t": "wäʿəṣ́ä",
+          "gl": ""
+        },
+        {
+          "g": "ሕይወትኒ",
+          "t": "ḥəyəwätəni",
+          "gl": ""
+        },
+        {
+          "g": "ማእከለ",
+          "t": "maʾəkälä",
+          "gl": ""
+        },
+        {
+          "g": "ገነት",
+          "t": "gänätə",
+          "gl": ""
+        },
+        {
+          "g": "ወዕፀኒ",
+          "t": "wäʿəṣ́äni",
+          "gl": ""
+        },
+        {
+          "g": "ዘያርኢ",
+          "t": "zäyarəʾi",
+          "gl": ""
+        },
+        {
+          "g": "ወያሌቡ",
+          "t": "wäyalebu",
+          "gl": ""
+        },
+        {
+          "g": "ሠናየ",
+          "t": "śänayä",
+          "gl": ""
+        },
+        {
+          "g": "ወእኩየ",
+          "t": "wäʾəkuyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And God made to spring up also out of the earth every tree beautiful to the eye and good for food, and the tree of life in the midst of the garden, and the tree of learning the knowledge of good and evil.",
+        "kjv": "And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወፈለግ ፡ ይወጽእ ፡ እምነ ፡ ቅድሜሁ ፡ ከመ ፡ ይስቅያ ፡ ለገነት ፡ ወእምህየ ፡ ይትፈለጥ ፡ ለአርባዕቱ ፡ መኣዝነ ፡\n                  ዓለም ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወፈለግ",
+          "t": "wäfälägə",
+          "gl": ""
+        },
+        {
+          "g": "ይወጽእ",
+          "t": "yəwäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ቅድሜሁ",
+          "t": "qədəmehu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይስቅያ",
+          "t": "yəsəqəya",
+          "gl": ""
+        },
+        {
+          "g": "ለገነት",
+          "t": "lägänätə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምህየ",
+          "t": "wäʾəməhəyä",
+          "gl": ""
+        },
+        {
+          "g": "ይትፈለጥ",
+          "t": "yətəfäläṭə",
+          "gl": ""
+        },
+        {
+          "g": "ለአርባዕቱ",
+          "t": "läʾärəbaʿətu",
+          "gl": ""
+        },
+        {
+          "g": "መኣዝነ",
+          "t": "mäʾazənä",
+          "gl": ""
+        },
+        {
+          "g": "ዓለም",
+          "t": "ʿalämə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And a river proceeds out of Edem to water the garden, thence it divides itself into four heads.",
+        "kjv": "And a river went out of Eden to water the garden; and from thence it was parted, and became into four heads."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ስሙ ፡ ለአሐዱ ፡ ፈለግ ፡ ፊሶን ፡ [ውእቱ ፡] ዘየዐውድ ፡ ውስተ ፡ ኵሉ ፡ ምድረ ፡ ኤውላጦን ፡ ወህየ ፡ ኀበ ፡ ሀሎ\n                  ፡ ወርቅ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ስሙ",
+          "t": "səmu",
+          "gl": ""
+        },
+        {
+          "g": "ለአሐዱ",
+          "t": "läʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "ፈለግ",
+          "t": "fälägə",
+          "gl": ""
+        },
+        {
+          "g": "ፊሶን",
+          "t": "fisonə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘየዐውድ",
+          "t": "zäyäʿäwədə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ምድረ",
+          "t": "mədərä",
+          "gl": ""
+        },
+        {
+          "g": "ኤውላጦን",
+          "t": "ʾewəlaṭonə",
+          "gl": ""
+        },
+        {
+          "g": "ወህየ",
+          "t": "wähəyä",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ሀሎ",
+          "t": "hälo",
+          "gl": ""
+        },
+        {
+          "g": "ወርቅ",
+          "t": "wärəqə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The name of the one, Phisom, this it is which encircles the whole land of Evilat, where there is gold.",
+        "kjv": "The name of the first is Pison: that is it which compasseth the whole land of Havilah, where there is gold;"
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወወርቃ ፡ ለይእቲ ፡ ምድር ፡ ሠናይ ፡ ወህየ ፡ ሀሎ ፡ ዕንቍ ፡ ዘየኀቱ ፡ ወዕንቍ ፡ ኀመልሚል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወወርቃ",
+          "t": "wäwärəqa",
+          "gl": ""
+        },
+        {
+          "g": "ለይእቲ",
+          "t": "läyəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይ",
+          "t": "śänayə",
+          "gl": ""
+        },
+        {
+          "g": "ወህየ",
+          "t": "wähəyä",
+          "gl": ""
+        },
+        {
+          "g": "ሀሎ",
+          "t": "hälo",
+          "gl": ""
+        },
+        {
+          "g": "ዕንቍ",
+          "t": "ʿənəqwə",
+          "gl": ""
+        },
+        {
+          "g": "ዘየኀቱ",
+          "t": "zäyäḫätu",
+          "gl": ""
+        },
+        {
+          "g": "ወዕንቍ",
+          "t": "wäʿənəqwə",
+          "gl": ""
+        },
+        {
+          "g": "ኀመልሚል",
+          "t": "ḫämäləmilə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the gold of that land is good, there also is carbuncle and emerald.",
+        "kjv": "And the gold of that land is good: there is bdellium and the onyx stone."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወስሙ ፡ ለካልእ ፡ ፈለግ ፡ ጌዮን ፡ ውእቱ ፡ ዘየዐውድ ፡ ኵሎ ፡ ምድረ ፡ ኢትዮጵያ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወስሙ",
+          "t": "wäsəmu",
+          "gl": ""
+        },
+        {
+          "g": "ለካልእ",
+          "t": "läkaləʾə",
+          "gl": ""
+        },
+        {
+          "g": "ፈለግ",
+          "t": "fälägə",
+          "gl": ""
+        },
+        {
+          "g": "ጌዮን",
+          "t": "geyonə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘየዐውድ",
+          "t": "zäyäʿäwədə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ምድረ",
+          "t": "mədərä",
+          "gl": ""
+        },
+        {
+          "g": "ኢትዮጵያ",
+          "t": "ʾitəyoṗəya",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the name of the second river is Geon, this it is which encircles the whole land of Ethiopia.",
+        "kjv": "And the name of the second river is Gihon: the same is it that compasseth the whole land of Ethiopia."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወፈለግ ፡ ሣልስ ፡ ጤግርስ ፡ ውእቱ ፡ ዘየሐውር ፡ ላዕለ ፡ ፋርስ ፤ ወፈለግ ፡ ራብዕ ፡ ውእቱ ፡ አፍራጥስ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወፈለግ",
+          "t": "wäfälägə",
+          "gl": ""
+        },
+        {
+          "g": "ሣልስ",
+          "t": "śaləsə",
+          "gl": ""
+        },
+        {
+          "g": "ጤግርስ",
+          "t": "ṭegərəsə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘየሐውር",
+          "t": "zäyäḥäwərə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ፋርስ  ወፈለግ",
+          "t": "farəsə  wäfälägə",
+          "gl": ""
+        },
+        {
+          "g": "ራብዕ",
+          "t": "rabəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "አፍራጥስ",
+          "t": "ʾäfəraṭəsə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the third river is Tigris, this is that which flows forth over against the Assyrians. And the fourth river is Euphrates.",
+        "kjv": "And the name of the third river is Hiddekel: that is it which goeth toward the east of Assyria. And the fourth river is Euphrates."
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ወነሥኦ ፡ እግዚአብሔር ፡ ለእጓለ ፡ እመሕያው ፡ ዘገብረ ፡ ወሤሞ ፡ ውስተ ፡ ገነት ፡ ከመ ፡ ይትገበራ ፡ ወይዕቀባ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነሥኦ",
+          "t": "wänäśəʾo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለእጓለ",
+          "t": "läʾəgwalä",
+          "gl": ""
+        },
+        {
+          "g": "እመሕያው",
+          "t": "ʾəmäḥəyawə",
+          "gl": ""
+        },
+        {
+          "g": "ዘገብረ",
+          "t": "zägäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ወሤሞ",
+          "t": "wäśemo",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ገነት",
+          "t": "gänätə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይትገበራ",
+          "t": "yətəgäbära",
+          "gl": ""
+        },
+        {
+          "g": "ወይዕቀባ",
+          "t": "wäyəʿəqäba",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord God took the man whom he had formed, and placed him in the garden of Delight, to cultivate and keep it.",
+        "kjv": "And the LORD God took the man, and put him into the garden of Eden to dress it and to keep it."
+      }
+    },
+    {
+      "num": 16,
+      "geez": "ወአዘዞ ፡ እግዚአብሔር ፡ ለአዳም ፡ ወይቤሎ ፡ እምኵሉ ፡ ዕፅ ፡ ዘሀሎ ፡ ውስተ ፡ ገነት ፡ ብላዕ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአዘዞ",
+          "t": "wäʾäzäzo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለአዳም",
+          "t": "läʾädamə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "እምኵሉ",
+          "t": "ʾəməkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዕፅ",
+          "t": "ʿəṣ́ə",
+          "gl": ""
+        },
+        {
+          "g": "ዘሀሎ",
+          "t": "zähälo",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ገነት",
+          "t": "gänätə",
+          "gl": ""
+        },
+        {
+          "g": "ብላዕ",
+          "t": "bəlaʿə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord God gave a charge to Adam, saying, Of every tree which is in the garden thou mayest freely eat,",
+        "kjv": "And the LORD God commanded the man, saying, Of every tree of the garden thou mayest freely eat:"
+      }
+    },
+    {
+      "num": 17,
+      "geez": "ወእምዕፅ[ሰ] ፡ ዘያሌቡ ፡ ሠናየ ፡ ወእኩየ ፡ ኢትብላዕ ፡ እምኔሁ ፡ እስመ ፡ በዕለት ፡ እንተ ፡ ትበልዑ ፡ እምኔሁ ፡\n                  ሞተ ፡ ትመውቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእምዕፅሰ",
+          "t": "wäʾəməʿəṣ́əsä",
+          "gl": ""
+        },
+        {
+          "g": "ዘያሌቡ",
+          "t": "zäyalebu",
+          "gl": ""
+        },
+        {
+          "g": "ሠናየ",
+          "t": "śänayä",
+          "gl": ""
+        },
+        {
+          "g": "ወእኩየ",
+          "t": "wäʾəkuyä",
+          "gl": ""
+        },
+        {
+          "g": "ኢትብላዕ",
+          "t": "ʾitəbəlaʿə",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "በዕለት",
+          "t": "bäʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ትበልዑ",
+          "t": "təbäləʿu",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "ሞተ",
+          "t": "motä",
+          "gl": ""
+        },
+        {
+          "g": "ትመውቱ",
+          "t": "təmäwətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "but of the tree of the knowledge of good and evil—of it ye shall not eat, but in whatsoever day ye eat of it, ye shall surely die.",
+        "kjv": "But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die."
+      }
+    },
+    {
+      "num": 18,
+      "geez": "ወይቤ ፡ እግዚአብሔር ፡ ኢኮነ ፡ ሠናይ ፡ ለእጓለ ፡ እመሕያው ፡ ይንበር ፡ ባሕቲቱ ፡ ንግበር ፡ ሎቱ ፡ ቢጸ ፡ ዘይረድኦ\n                  ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ኢኮነ",
+          "t": "ʾikonä",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይ",
+          "t": "śänayə",
+          "gl": ""
+        },
+        {
+          "g": "ለእጓለ",
+          "t": "läʾəgwalä",
+          "gl": ""
+        },
+        {
+          "g": "እመሕያው",
+          "t": "ʾəmäḥəyawə",
+          "gl": ""
+        },
+        {
+          "g": "ይንበር",
+          "t": "yənəbärə",
+          "gl": ""
+        },
+        {
+          "g": "ባሕቲቱ",
+          "t": "baḥətitu",
+          "gl": ""
+        },
+        {
+          "g": "ንግበር",
+          "t": "nəgəbärə",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ቢጸ",
+          "t": "biṣä",
+          "gl": ""
+        },
+        {
+          "g": "ዘይረድኦ",
+          "t": "zäyərädəʾo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord God said, It is not good that the man should be alone, let us make for him a help suitable to him.",
+        "kjv": "And the LORD God said, It is not good that the man should be alone; I will make him an help meet for him."
+      }
+    },
+    {
+      "num": 19,
+      "geez": "ወገብረ ፡ እግዚአብሔር ፡ ዓዲ ፡ አራዊተ ፡ ገዳም ፡ እምነ ፡ ምድር ፡ (ኵሎ ፡ አራዊተ ፡ ገዳም ፡) ወኵሎ ፡ አዕዋፈ ፡\n                  ሰማይ ፡ ወአምጽኦሙ ፡ ኀበ ፡ አዳም ፡ ከመ ፡ ይርአይ ፡ ወምንተ ፡ ይሰምዮሙ ፡ ወኵሎ ፡ ሰመዮሙ ፡ አዳም ፡ ለለነፍሰ ፡\n                  ሕይወት ፡ ውእቱ ፡ ይኩን ፡ ስሞሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወገብረ",
+          "t": "wägäbərä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ዓዲ",
+          "t": "ʿadi",
+          "gl": ""
+        },
+        {
+          "g": "አራዊተ",
+          "t": "ʾärawitä",
+          "gl": ""
+        },
+        {
+          "g": "ገዳም",
+          "t": "gädamə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "አራዊተ",
+          "t": "ʾärawitä",
+          "gl": ""
+        },
+        {
+          "g": "ገዳም",
+          "t": "gädamə",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "አዕዋፈ",
+          "t": "ʾäʿəwafä",
+          "gl": ""
+        },
+        {
+          "g": "ሰማይ",
+          "t": "sämayə",
+          "gl": ""
+        },
+        {
+          "g": "ወአምጽኦሙ",
+          "t": "wäʾäməṣəʾomu",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "አዳም",
+          "t": "ʾädamə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይርአይ",
+          "t": "yərəʾäyə",
+          "gl": ""
+        },
+        {
+          "g": "ወምንተ",
+          "t": "wämənətä",
+          "gl": ""
+        },
+        {
+          "g": "ይሰምዮሙ",
+          "t": "yəsäməyomu",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ሰመዮሙ",
+          "t": "sämäyomu",
+          "gl": ""
+        },
+        {
+          "g": "አዳም",
+          "t": "ʾädamə",
+          "gl": ""
+        },
+        {
+          "g": "ለለነፍሰ",
+          "t": "lälänäfəsä",
+          "gl": ""
+        },
+        {
+          "g": "ሕይወት",
+          "t": "ḥəyəwätə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ይኩን",
+          "t": "yəkunə",
+          "gl": ""
+        },
+        {
+          "g": "ስሞሙ",
+          "t": "səmomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And God formed yet farther out of the earth all the wild beasts of the field, and all the birds of the sky, and he brought them to Adam, to see what he would call them, and whatever Adam called any living creature, that was the name of it.",
+        "kjv": "And out of the ground the LORD God formed every beast of the field, and every fowl of the air; and brought them unto Adam to see what he would call them: and whatsoever Adam called every living creature, that was the name thereof."
+      }
+    },
+    {
+      "num": 20,
+      "geez": "ወሰመዮሙ ፡ አዳም ፡ ኵሎ ፡ አስማቲሆሙ ፡ ለእንስሳ ፡ ወለአዕዋፈ ፡ ሰማይ ፡ ወለኵሉ ፡ አራዊተ ፡ ገዳም ፡ ወለአዳምሰ ፡\n                  ኢተረክበ ፡ ረድኤቱ ፡ ዘከማሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሰመዮሙ",
+          "t": "wäsämäyomu",
+          "gl": ""
+        },
+        {
+          "g": "አዳም",
+          "t": "ʾädamə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "አስማቲሆሙ",
+          "t": "ʾäsəmatihomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእንስሳ",
+          "t": "läʾənəsəsa",
+          "gl": ""
+        },
+        {
+          "g": "ወለአዕዋፈ",
+          "t": "wäläʾäʿəwafä",
+          "gl": ""
+        },
+        {
+          "g": "ሰማይ",
+          "t": "sämayə",
+          "gl": ""
+        },
+        {
+          "g": "ወለኵሉ",
+          "t": "wäläkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "አራዊተ",
+          "t": "ʾärawitä",
+          "gl": ""
+        },
+        {
+          "g": "ገዳም",
+          "t": "gädamə",
+          "gl": ""
+        },
+        {
+          "g": "ወለአዳምሰ",
+          "t": "wäläʾädaməsä",
+          "gl": ""
+        },
+        {
+          "g": "ኢተረክበ",
+          "t": "ʾitäräkəbä",
+          "gl": ""
+        },
+        {
+          "g": "ረድኤቱ",
+          "t": "rädəʾetu",
+          "gl": ""
+        },
+        {
+          "g": "ዘከማሁ",
+          "t": "zäkämahu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Adam gave names to all the cattle and to all the birds of the sky, and to all the wild beasts of the field, but for Adam there was not found a help like to himself.",
+        "kjv": "And Adam gave names to all cattle, and to the fowl of the air, and to every beast of the field; but for Adam there was not found an help meet for him."
+      }
+    },
+    {
+      "num": 21,
+      "geez": "ወፈነወ ፡ እግዚአብሔር ፡ ድቃሰ ፡ ላዕለ ፡ አዳም ፡ ወኖመ ፡ ወነሥአ ፡ አሐደ ፡ እምዐጽመ ፡ ገቦሁ ፡ ወመልአ ፡ ሥጋ ፡\n                  መካና ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወፈነወ",
+          "t": "wäfänäwä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ድቃሰ",
+          "t": "dəqasä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "አዳም",
+          "t": "ʾädamə",
+          "gl": ""
+        },
+        {
+          "g": "ወኖመ",
+          "t": "wänomä",
+          "gl": ""
+        },
+        {
+          "g": "ወነሥአ",
+          "t": "wänäśəʾä",
+          "gl": ""
+        },
+        {
+          "g": "አሐደ",
+          "t": "ʾäḥädä",
+          "gl": ""
+        },
+        {
+          "g": "እምዐጽመ",
+          "t": "ʾəməʿäṣəmä",
+          "gl": ""
+        },
+        {
+          "g": "ገቦሁ",
+          "t": "gäbohu",
+          "gl": ""
+        },
+        {
+          "g": "ወመልአ",
+          "t": "wämäləʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሥጋ",
+          "t": "śəga",
+          "gl": ""
+        },
+        {
+          "g": "መካና",
+          "t": "mäkana",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And God brought a trance upon Adam, and he slept, and he took one of his ribs, and filled up the flesh instead thereof.",
+        "kjv": "And the LORD God caused a deep sleep to fall upon Adam, and he slept: and he took one of his ribs, and closed up the flesh instead thereof;"
+      }
+    },
+    {
+      "num": 22,
+      "geez": "ወነደቃ ፡ እግዚአብሔር ፡ ለይእቲ ፡ ዐጽመ ፡ ገቦ ፡ እንተ ፡ ነሥአ ፡ እምነ ፡ አዳም ፡ ወረሰያ ፡ ብእሲቶ ፡ ወአምጽአ\n                  ፡ ኀበ ፡ አዳም ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነደቃ",
+          "t": "wänädäqa",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለይእቲ",
+          "t": "läyəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ዐጽመ",
+          "t": "ʿäṣəmä",
+          "gl": ""
+        },
+        {
+          "g": "ገቦ",
+          "t": "gäbo",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ነሥአ",
+          "t": "näśəʾä",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "አዳም",
+          "t": "ʾädamə",
+          "gl": ""
+        },
+        {
+          "g": "ወረሰያ",
+          "t": "wäräsäya",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲቶ",
+          "t": "bəʾəsito",
+          "gl": ""
+        },
+        {
+          "g": "ወአምጽአ",
+          "t": "wäʾäməṣəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "አዳም",
+          "t": "ʾädamə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And God formed the rib which he took from Adam into a woman, and brought her to Adam.",
+        "kjv": "And the rib, which the LORD God had taken from man, made he a woman, and brought her unto the man."
+      }
+    },
+    {
+      "num": 23,
+      "geez": "ወይቤ ፡ አዳም ፡ ዝንቱ ፡ ውእቱ ፡ ዐጽም ፡ እምዐጽምየ ፡ ወሥጋ ፡ እምሥጋየ ፡ ዛቲ ፡ ለትኩነኒ ፡ ብእሲትየ ፡ እስመ ፡\n                  እምታ ፡ ወጽአት ፡ ይእቲ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "አዳም",
+          "t": "ʾädamə",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዐጽም",
+          "t": "ʿäṣəmə",
+          "gl": ""
+        },
+        {
+          "g": "እምዐጽምየ",
+          "t": "ʾəməʿäṣəməyä",
+          "gl": ""
+        },
+        {
+          "g": "ወሥጋ",
+          "t": "wäśəga",
+          "gl": ""
+        },
+        {
+          "g": "እምሥጋየ",
+          "t": "ʾəməśəgayä",
+          "gl": ""
+        },
+        {
+          "g": "ዛቲ",
+          "t": "zati",
+          "gl": ""
+        },
+        {
+          "g": "ለትኩነኒ",
+          "t": "lätəkunäni",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲትየ",
+          "t": "bəʾəsitəyä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "እምታ",
+          "t": "ʾəməta",
+          "gl": ""
+        },
+        {
+          "g": "ወጽአት",
+          "t": "wäṣəʾätə",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Adam said, This now is bone of my bones, and flesh of my flesh; she shall be called woman, because she was taken out of her husband.",
+        "kjv": "And Adam said, This is now bone of my bones, and flesh of my flesh: she shall be called Woman, because she was taken out of Man."
+      }
+    },
+    {
+      "num": 24,
+      "geez": "ወበእንተ ፡ ዝንቱ ፡ ይኅድግ ፡ ብእሲ ፡ አባሁ ፡ ወእሞ ፡ ወይትልዋ ፡ ለብእሲቱ ፡ ወይከውኑ ፡ ክልኤሆሙ ፡ አሐደ ፡ ሥጋ\n                  ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበእንተ",
+          "t": "wäbäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ይኅድግ",
+          "t": "yəḫədəgə",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "አባሁ",
+          "t": "ʾäbahu",
+          "gl": ""
+        },
+        {
+          "g": "ወእሞ",
+          "t": "wäʾəmo",
+          "gl": ""
+        },
+        {
+          "g": "ወይትልዋ",
+          "t": "wäyətələwa",
+          "gl": ""
+        },
+        {
+          "g": "ለብእሲቱ",
+          "t": "läbəʾəsitu",
+          "gl": ""
+        },
+        {
+          "g": "ወይከውኑ",
+          "t": "wäyəkäwənu",
+          "gl": ""
+        },
+        {
+          "g": "ክልኤሆሙ",
+          "t": "kələʾehomu",
+          "gl": ""
+        },
+        {
+          "g": "አሐደ",
+          "t": "ʾäḥädä",
+          "gl": ""
+        },
+        {
+          "g": "ሥጋ",
+          "t": "śəga",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Therefore shall a man leave his father and his mother and shall cleave to his wife, and they two shall be one flesh.",
+        "kjv": "Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh."
+      }
+    },
+    {
+      "num": 25,
+      "geez": "ወሀለዉ ፡ አዳም ፡ ወብእሲቱ ፡ ዕራቃኒሆሙ ፡ ወኢየኀፍሩ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሀለዉ",
+          "t": "wähäläwu",
+          "gl": ""
+        },
+        {
+          "g": "አዳም",
+          "t": "ʾädamə",
+          "gl": ""
+        },
+        {
+          "g": "ወብእሲቱ",
+          "t": "wäbəʾəsitu",
+          "gl": ""
+        },
+        {
+          "g": "ዕራቃኒሆሙ",
+          "t": "ʿəraqanihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢየኀፍሩ",
+          "t": "wäʾiyäḫäfəru",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the two were naked, both Adam and his wife, and were not ashamed.",
+        "kjv": "And they were both naked, the man and his wife, and were not ashamed."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

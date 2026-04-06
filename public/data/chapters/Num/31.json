@@ -1,0 +1,3582 @@
+{
+  "book": "Num",
+  "chapter": 31,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወነበቦ ፡ እግዚአብሔር ፡ ለሙሴ ፡ ወይቤሎ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነበቦ",
+          "t": "wänäbäbo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord spoke to Moses, saying,",
+        "kjv": "And the LORD spake unto Moses, saying,"
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ተበቀል ፡ በቀሎሙ ፡ ለደቂቀ ፡ እስራኤል ፡ እምነ ፡ መድናውያን ፡ ወድኅረ ፡ ትትዌሰክ ፡ ኀበ ፡ ሕዝብከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ተበቀል",
+          "t": "täbäqälə",
+          "gl": ""
+        },
+        {
+          "g": "በቀሎሙ",
+          "t": "bäqälomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "መድናውያን",
+          "t": "mädənawəyanə",
+          "gl": ""
+        },
+        {
+          "g": "ወድኅረ",
+          "t": "wädəḫərä",
+          "gl": ""
+        },
+        {
+          "g": "ትትዌሰክ",
+          "t": "tətəwesäkə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብከ",
+          "t": "ḥəzəbəkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Avenge the wrongs of the children of Israel on the Madianites, and afterwards thou shalt be added to thy people.",
+        "kjv": "Avenge the children of Israel of the Midianites: afterward shalt thou be gathered unto thy people."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወነገሮሙ ፡ ሙሴ ፡ ለሕዝብ ፡ ወይቤሎሙ ፡ አስተረስዩ ፡ እምውስቴትክሙ ፡ ዕደወ ፡ ወ[ተቃተ] ሉ ፡ ቅድመ ፡ እግዚአብሔር\n                  ፡ ምስለ ፡ ምድያም ፡ ከመ ፡ ያግብኡ ፡ በቀለ ፡ እምኀበ ፡ እግዚአብሔር ፡ ለምድያም ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነገሮሙ",
+          "t": "wänägäromu",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ለሕዝብ",
+          "t": "läḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎሙ",
+          "t": "wäyəbelomu",
+          "gl": ""
+        },
+        {
+          "g": "አስተረስዩ",
+          "t": "ʾäsətäräsəyu",
+          "gl": ""
+        },
+        {
+          "g": "እምውስቴትክሙ",
+          "t": "ʾəməwəsətetəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ዕደወ",
+          "t": "ʿədäwä",
+          "gl": ""
+        },
+        {
+          "g": "ወተቃተ ሉ",
+          "t": "wätäqatä lu",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ምድያም",
+          "t": "mədəyamə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ያግብኡ",
+          "t": "yagəbəʾu",
+          "gl": ""
+        },
+        {
+          "g": "በቀለ",
+          "t": "bäqälä",
+          "gl": ""
+        },
+        {
+          "g": "እምኀበ",
+          "t": "ʾəməḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለምድያም",
+          "t": "lämədəyamə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Moses spoke to the people, saying, Arm some of you, and set yourselves in array before the Lord against Madian, to inflict vengeance on Madian from the Lord.",
+        "kjv": "And Moses spake unto the people, saying, Arm some of yourselves unto the war, and let them go against the Midianites, and avenge the LORD of Midian."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወ፲፻እምውስተ ፡ ነገድ ፡ ወ፲፻እምውስተ ፡ ነገድ ፡ ወእምውስተ ፡ ኵሉ ፡ ነገደ ፡ እስራኤል ፡ ፈንዉ ፡ ዘይትቃተል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወ፲፻እምውስተ",
+          "t": "wä10100ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ነገድ",
+          "t": "nägädə",
+          "gl": ""
+        },
+        {
+          "g": "ወ፲፻እምውስተ",
+          "t": "wä10100ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ነገድ",
+          "t": "nägädə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምውስተ",
+          "t": "wäʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ነገደ",
+          "t": "nägädä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ፈንዉ",
+          "t": "fänəwu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይትቃተል",
+          "t": "zäyətəqatälə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Send a thousand of each tribe from all the tribes of the children of Israel to set themselves in array.",
+        "kjv": "Of every tribe a thousand, throughout all the tribes of Israel, shall ye send to the war."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወኈለቁ ፡ እምውስተ ፡ አእላፍ ፡ ዘእስራኤል ፡ እምነገድ ፡ ነገድ ፡ ፲፻ወኮነ ፡ እልፈ ፡ ወዕሥራ ፡ ምእተ ፡ እለ ፡\n                  ተረሰዩ ፡ ለቀትል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኈለቁ",
+          "t": "wäḫwäläqu",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አእላፍ",
+          "t": "ʾäʾəlafə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእስራኤል",
+          "t": "zäʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "እምነገድ",
+          "t": "ʾəmənägädə",
+          "gl": ""
+        },
+        {
+          "g": "ነገድ",
+          "t": "nägädə",
+          "gl": ""
+        },
+        {
+          "g": "፲፻ወኮነ",
+          "t": "10100wäkonä",
+          "gl": ""
+        },
+        {
+          "g": "እልፈ",
+          "t": "ʾələfä",
+          "gl": ""
+        },
+        {
+          "g": "ወዕሥራ",
+          "t": "wäʿəśəra",
+          "gl": ""
+        },
+        {
+          "g": "ምእተ",
+          "t": "məʾətä",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ተረሰዩ",
+          "t": "täräsäyu",
+          "gl": ""
+        },
+        {
+          "g": "ለቀትል",
+          "t": "läqätələ",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they numbered of the thousands of Israel a thousand of each tribe, twelve thousands; these were armed for war.",
+        "kjv": "So there were delivered out of the thousands of Israel, a thousand of every tribe, twelve thousand armed for war."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወፈነዎሙ ፡ ሙሴ ፡ በበ ፡ ዐሠርቱ ፡ ምእት ፡ ዘነገድ ፡ ነገድ ፡ ምስለ ፡ ኀይሎሙ ፡ ወፊንሕስ ፡ ወልደ ፡ እልዓዛር ፡\n                  ወልደ ፡ አሮን ፡ ካህን ፡ ወንዋየ ፡ ቅድሳት ፡ ወመጣቅዕት ፡ ዘተአምር ፡ ምስሌሆሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወፈነዎሙ",
+          "t": "wäfänäwomu",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "በበ",
+          "t": "bäbä",
+          "gl": ""
+        },
+        {
+          "g": "ዐሠርቱ",
+          "t": "ʿäśärətu",
+          "gl": ""
+        },
+        {
+          "g": "ምእት",
+          "t": "məʾətə",
+          "gl": ""
+        },
+        {
+          "g": "ዘነገድ",
+          "t": "zänägädə",
+          "gl": ""
+        },
+        {
+          "g": "ነገድ",
+          "t": "nägädə",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኀይሎሙ",
+          "t": "ḫäyəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ወፊንሕስ",
+          "t": "wäfinəḥəsə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "እልዓዛር",
+          "t": "ʾələʿazarə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "አሮን",
+          "t": "ʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ወንዋየ",
+          "t": "wänəwayä",
+          "gl": ""
+        },
+        {
+          "g": "ቅድሳት",
+          "t": "qədəsatə",
+          "gl": ""
+        },
+        {
+          "g": "ወመጣቅዕት",
+          "t": "wämäṭaqəʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ዘተአምር",
+          "t": "zätäʾämərə",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሆሙ",
+          "t": "məsəlehomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Moses sent them away a thousand of every tribe with their forces, and Phinees the son of Eleazar the son of Aaron the priest: and the holy instruments, and the signal trumpets were in their hands.",
+        "kjv": "And Moses sent them to the war, a thousand of every tribe, them and Phinehas the son of Eleazar the priest, to the war, with the holy instruments, and the trumpets to blow in his hand."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወተቃተልዎሙ ፡ ለምድያም ፡ በከመ ፡ አዘዞ ፡ እግዚአብሔር ፡ [ለሙሴ ፡] ወቀተሉ ፡ ኵሎ ፡ ተባዕቶሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተቃተልዎሙ",
+          "t": "wätäqatäləwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለምድያም",
+          "t": "lämədəyamə",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "አዘዞ",
+          "t": "ʾäzäzo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ወቀተሉ",
+          "t": "wäqätälu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ተባዕቶሙ",
+          "t": "täbaʿətomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they set themselves in array against Madian, as the Lord commanded Moses; and they slew every male.",
+        "kjv": "And they warred against the Midianites, as the LORD commanded Moses; and they slew all the males."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወለነገሥተ ፡ ምድያምሂ ፡ ቀተልዎሙ ፡ ኅቡረ ፡ በውእቱ ፡ ቀትሎሙ ፡ ወአውንሂ ፡ ወሮቆምሂ ፡ ወሱርሂ ፡ ወሑርሂ ፡\n                  ወሮቦቅሂ ፡ ኀምስቱ ፡ ነገሥተ ፡ ምድያም ፡ ወለበለዓምሂ ፡ ወልደ ፡ ቤዖር ፡ ቀተልዎ ፡ በኀፂን ፡ በውእቱ ፡ ቀትሎሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለነገሥተ",
+          "t": "wälänägäśətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድያምሂ",
+          "t": "mədəyaməhi",
+          "gl": ""
+        },
+        {
+          "g": "ቀተልዎሙ",
+          "t": "qätäləwomu",
+          "gl": ""
+        },
+        {
+          "g": "ኅቡረ",
+          "t": "ḫəburä",
+          "gl": ""
+        },
+        {
+          "g": "በውእቱ",
+          "t": "bäwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ቀትሎሙ",
+          "t": "qätəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ወአውንሂ",
+          "t": "wäʾäwənəhi",
+          "gl": ""
+        },
+        {
+          "g": "ወሮቆምሂ",
+          "t": "wäroqoməhi",
+          "gl": ""
+        },
+        {
+          "g": "ወሱርሂ",
+          "t": "wäsurəhi",
+          "gl": ""
+        },
+        {
+          "g": "ወሑርሂ",
+          "t": "wäḥurəhi",
+          "gl": ""
+        },
+        {
+          "g": "ወሮቦቅሂ",
+          "t": "wäroboqəhi",
+          "gl": ""
+        },
+        {
+          "g": "ኀምስቱ",
+          "t": "ḫäməsətu",
+          "gl": ""
+        },
+        {
+          "g": "ነገሥተ",
+          "t": "nägäśətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድያም",
+          "t": "mədəyamə",
+          "gl": ""
+        },
+        {
+          "g": "ወለበለዓምሂ",
+          "t": "wäläbäläʿaməhi",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ቤዖር",
+          "t": "beʿorə",
+          "gl": ""
+        },
+        {
+          "g": "ቀተልዎ",
+          "t": "qätäləwo",
+          "gl": ""
+        },
+        {
+          "g": "በኀፂን",
+          "t": "bäḫäṣ́inə",
+          "gl": ""
+        },
+        {
+          "g": "በውእቱ",
+          "t": "bäwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ቀትሎሙ",
+          "t": "qätəlomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they slew the kings of Madian together with their slain subjects; even Evi and Rocon, and Sur, and Ur, and Roboc, five kings of Madian; and they slew with the sword Balaam the son of Beor with their other slain.",
+        "kjv": "And they slew the kings of Midian, beside the rest of them that were slain; namely, Evi, and Rekem, and Zur, and Hur, and Reba, five kings of Midian: Balaam also the son of Beor they slew with the sword."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወፄወዉ ፡ አንስቲያሆሙ ፡ ለምድያም ፡ ወንዋዮሙኒ ፡ ወእንስሳሆሙኒ ፡ ወኵሎ ፡ ጥሪቶሙ ፡ ወኀይሎሙ ፡ ፄወዉ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወፄወዉ",
+          "t": "wäṣ́ewäwu",
+          "gl": ""
+        },
+        {
+          "g": "አንስቲያሆሙ",
+          "t": "ʾänəsətiyahomu",
+          "gl": ""
+        },
+        {
+          "g": "ለምድያም",
+          "t": "lämədəyamə",
+          "gl": ""
+        },
+        {
+          "g": "ወንዋዮሙኒ",
+          "t": "wänəwayomuni",
+          "gl": ""
+        },
+        {
+          "g": "ወእንስሳሆሙኒ",
+          "t": "wäʾənəsəsahomuni",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ጥሪቶሙ",
+          "t": "ṭəritomu",
+          "gl": ""
+        },
+        {
+          "g": "ወኀይሎሙ",
+          "t": "wäḫäyəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ፄወዉ",
+          "t": "ṣ́ewäwu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they made a prey of the women of Madian, and their store, and their cattle, and all their possessions: and they spoiled their forces.",
+        "kjv": "And the children of Israel took all the women of Midian captives, and their little ones, and took the spoil of all their cattle, and all their flocks, and all their goods."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወኵሎ ፡ አህጉሪሆሙ ፡ ዘውስቴቱ ፡ ይነብሩ ፡ ወአዕጻዳቲሆሙኒ ፡ አውዐዩ ፡ በእሳት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "አህጉሪሆሙ",
+          "t": "ʾähəgurihomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘውስቴቱ",
+          "t": "zäwəsətetu",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ወአዕጻዳቲሆሙኒ",
+          "t": "wäʾäʿəṣadatihomuni",
+          "gl": ""
+        },
+        {
+          "g": "አውዐዩ",
+          "t": "ʾäwəʿäyu",
+          "gl": ""
+        },
+        {
+          "g": "በእሳት",
+          "t": "bäʾəsatə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they burnt with fire all their cities in the places of their habitation, and they burnt their villages with fire.",
+        "kjv": "And they burnt all their cities wherein they dwelt, and all their goodly castles, with fire."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወነሥኡ ፡ ኵሎ ፡ ፄዋሆሙ ፡ ወምህርካሆሙ ፡ እምሰብእ ፡ እስከ ፡ እንስሳ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነሥኡ",
+          "t": "wänäśəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ፄዋሆሙ",
+          "t": "ṣ́ewahomu",
+          "gl": ""
+        },
+        {
+          "g": "ወምህርካሆሙ",
+          "t": "wäməhərəkahomu",
+          "gl": ""
+        },
+        {
+          "g": "እምሰብእ",
+          "t": "ʾəməsäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "እንስሳ",
+          "t": "ʾənəsəsa",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they took all their plunder, and all their spoils, both man and beast.",
+        "kjv": "And they took all the spoil, and all the prey, both of men and of beasts."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወወሰዱ ፡ ኀበ ፡ ሙሴ ፡ ወኀበ ፡ እልዓዛር ፡ ካህን ፡ ወኀበ ፡ ኵሉ ፡ ደቂቀ ፡ እስራኤል ፡ ፄዋ ፡ ወምህርካ ፡\n                  ወዘበርበሩ ፡ ውስተ ፡ ትዕይንት ፡ ዘአራ[ቦ] ት ፡ ዘሞአብ ፡ እንተ ፡ ዲበ ፡ ዮርዳንስ ፡ መንገለ ፡ ኢያሪኮ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወወሰዱ",
+          "t": "wäwäsädu",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ወኀበ",
+          "t": "wäḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "እልዓዛር",
+          "t": "ʾələʿazarə",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ወኀበ",
+          "t": "wäḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ፄዋ",
+          "t": "ṣ́ewa",
+          "gl": ""
+        },
+        {
+          "g": "ወምህርካ",
+          "t": "wäməhərəka",
+          "gl": ""
+        },
+        {
+          "g": "ወዘበርበሩ",
+          "t": "wäzäbärəbäru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ትዕይንት",
+          "t": "təʿəyənətə",
+          "gl": ""
+        },
+        {
+          "g": "ዘአራቦ ት",
+          "t": "zäʾärabo tə",
+          "gl": ""
+        },
+        {
+          "g": "ዘሞአብ",
+          "t": "zämoʾäbə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "ዮርዳንስ",
+          "t": "yorədanəsə",
+          "gl": ""
+        },
+        {
+          "g": "መንገለ",
+          "t": "mänəgälä",
+          "gl": ""
+        },
+        {
+          "g": "ኢያሪኮ",
+          "t": "ʾiyariko",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they brought to Moses and to Eleazar the priest, and to all the children of Israel, the captives, and the spoils, and the plunder, to the camp to Araboth Moab, which is at Jordan by Jericho.",
+        "kjv": "And they brought the captives, and the prey, and the spoil, unto Moses, and Eleazar the priest, and unto the congregation of the children of Israel, unto the camp at the plains of Moab, which are by Jordan near Jericho."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወወፅኡ ፡ ሙሴ ፡ ወእልዓዛር ፡ ካህን ፡ ወኵሉ ፡ መላእክተ ፡ ተዓይን ፡ ተቀበልዎሙ ፡ አፍአ ፡ እምትዕይንት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወወፅኡ",
+          "t": "wäwäṣ́əʾu",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ወእልዓዛር",
+          "t": "wäʾələʿazarə",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "መላእክተ",
+          "t": "mälaʾəkətä",
+          "gl": ""
+        },
+        {
+          "g": "ተዓይን",
+          "t": "täʿayənə",
+          "gl": ""
+        },
+        {
+          "g": "ተቀበልዎሙ",
+          "t": "täqäbäləwomu",
+          "gl": ""
+        },
+        {
+          "g": "አፍአ",
+          "t": "ʾäfəʾä",
+          "gl": ""
+        },
+        {
+          "g": "እምትዕይንት",
+          "t": "ʾəmətəʿəyənətə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Moses and Eleazar the priest and all the rulers of the synagogue went forth out of the camp to meet them.",
+        "kjv": "And Moses, and Eleazar the priest, and all the princes of the congregation, went forth to meet them without the camp."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወተምዐ ፡ መዐተ ፡ ሙሴ ፡ ላዕለ ፡ መላእክተ ፡ ሰራዊት ፡ ወላዕለ ፡ መሳፍንቲሆሙ ፡ ወላዕለ ፡ መላእክትኒ ፡ እለ ፡\n                  አተዉ ፡ እምፀብእ ፡ እምኀበ ፡ ይትቃተሉ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተምዐ",
+          "t": "wätäməʿä",
+          "gl": ""
+        },
+        {
+          "g": "መዐተ",
+          "t": "mäʿätä",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "መላእክተ",
+          "t": "mälaʾəkətä",
+          "gl": ""
+        },
+        {
+          "g": "ሰራዊት",
+          "t": "särawitə",
+          "gl": ""
+        },
+        {
+          "g": "ወላዕለ",
+          "t": "wälaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "መሳፍንቲሆሙ",
+          "t": "mäsafənətihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወላዕለ",
+          "t": "wälaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "መላእክትኒ",
+          "t": "mälaʾəkətəni",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "አተዉ",
+          "t": "ʾätäwu",
+          "gl": ""
+        },
+        {
+          "g": "እምፀብእ",
+          "t": "ʾəməṣ́äbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "እምኀበ",
+          "t": "ʾəməḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ይትቃተሉ",
+          "t": "yətəqatälu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Moses was angry with the captains of the host, the heads of thousands and the heads of hundreds who came from the battle-array.",
+        "kjv": "And Moses was wroth with the officers of the host, with the captains over thousands, and captains over hundreds, which came from the battle."
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ወይቤሎሙ ፡ ሙሴ ፡ ለምንት ፡ አሕየውክሙ ፡ ኵሎ ፡ አንስተ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎሙ",
+          "t": "wäyəbelomu",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ለምንት",
+          "t": "lämənətə",
+          "gl": ""
+        },
+        {
+          "g": "አሕየውክሙ",
+          "t": "ʾäḥəyäwəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "አንስተ",
+          "t": "ʾänəsətä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Moses said to them, Why have ye saved every female alive?",
+        "kjv": "And Moses said unto them, Have ye saved all the women alive?"
+      }
+    },
+    {
+      "num": 16,
+      "geez": "እስመ ፡ እላንቱ ፡ ውእቶን ፡ እለ ፡ ይከውናሆሙ ፡ ለደቂቀ ፡ እስራኤል ፡ በከመ ፡ ይቤ ፡ በለዓም ፡ እለ ፡ ያስሕታሆሙ\n                  ፡ ወያኀድጋሆሙ ፡ ቃለ ፡ እግዚአብሔር ፡ በበይነ ፡ ፌጎር ፡ ወመጽአ ፡ መቅሠፍተ ፡ እግዚአብሔር ፡ ላዕለ ፡ ትዕይንት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "እላንቱ",
+          "t": "ʾəlanətu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቶን",
+          "t": "wəʾətonə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይከውናሆሙ",
+          "t": "yəkäwənahomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ይቤ",
+          "t": "yəbe",
+          "gl": ""
+        },
+        {
+          "g": "በለዓም",
+          "t": "bäläʿamə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ያስሕታሆሙ",
+          "t": "yasəḥətahomu",
+          "gl": ""
+        },
+        {
+          "g": "ወያኀድጋሆሙ",
+          "t": "wäyaḫädəgahomu",
+          "gl": ""
+        },
+        {
+          "g": "ቃለ",
+          "t": "qalä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "በበይነ",
+          "t": "bäbäyənä",
+          "gl": ""
+        },
+        {
+          "g": "ፌጎር",
+          "t": "fegorə",
+          "gl": ""
+        },
+        {
+          "g": "ወመጽአ",
+          "t": "wämäṣəʾä",
+          "gl": ""
+        },
+        {
+          "g": "መቅሠፍተ",
+          "t": "mäqəśäfətä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ትዕይንት",
+          "t": "təʿəyənətə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For they were the occasion to the children of Israel by the word of Balaam of their revolting and despising the word of the Lord, because of Phogor; and there was a plague in the congregation of the Lord.",
+        "kjv": "Behold, these caused the children of Israel, through the counsel of Balaam, to commit trespass against the LORD in the matter of Peor, and there was a plague among the congregation of the LORD."
+      }
+    },
+    {
+      "num": 17,
+      "geez": "ወይእዜኒ ፡ ቅትሉ ፡ ኵሎ ፡ ተባዕተ ፡ በኀበ ፡ ሀለዉ ፡ ወኵሎ ፡ ብእሲተ ፡ እንተ ፡ አእመረት ፡ ብእሴ ፡ ቅትሉ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይእዜኒ",
+          "t": "wäyəʾəzeni",
+          "gl": ""
+        },
+        {
+          "g": "ቅትሉ",
+          "t": "qətəlu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ተባዕተ",
+          "t": "täbaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "በኀበ",
+          "t": "bäḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ሀለዉ",
+          "t": "häläwu",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲተ",
+          "t": "bəʾəsitä",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "አእመረት",
+          "t": "ʾäʾəmärätə",
+          "gl": ""
+        },
+        {
+          "g": "ብእሴ",
+          "t": "bəʾəse",
+          "gl": ""
+        },
+        {
+          "g": "ቅትሉ",
+          "t": "qətəlu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Now then slay every male in all the spoil, slay every woman, who has known the lying with man.",
+        "kjv": "Now therefore kill every male among the little ones, and kill every woman that hath known man by lying with him."
+      }
+    },
+    {
+      "num": 18,
+      "geez": "ወኵሎ ፡ አዋልደ ፡ እለ ፡ ኢያእመራ ፡ ብእሴ ፡ አሕይውዎን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "አዋልደ",
+          "t": "ʾäwalədä",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኢያእመራ",
+          "t": "ʾiyaʾəmära",
+          "gl": ""
+        },
+        {
+          "g": "ብእሴ",
+          "t": "bəʾəse",
+          "gl": ""
+        },
+        {
+          "g": "አሕይውዎን",
+          "t": "ʾäḥəyəwəwonə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And as for all the captivity of women, who have not known the lying with man, save ye them alive.",
+        "kjv": "But all the women children, that have not known a man by lying with him, keep alive for yourselves."
+      }
+    },
+    {
+      "num": 19,
+      "geez": "ወአንትሙሰ ፡ ተዓየኑ ፡ ለክሙ ፡ አፍአ ፡ እምትዕይንት ፡ ሰቡዐ ፡ መዋዕለ ፡ ኵሉ ፡ ዘቀተለ ፡ ወዘገሰሰ ፡ ምውተ ፡\n                  ያንጽሕ ፡ ርእሶ ፡ አመ ፡ ሣልስት ፡ ዕለት ፡ ወአመ ፡ ሳብዕት ፡ ዕለት ፡ አንትሙ ፡ ወፄዋክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአንትሙሰ",
+          "t": "wäʾänətəmusä",
+          "gl": ""
+        },
+        {
+          "g": "ተዓየኑ",
+          "t": "täʿayänu",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        },
+        {
+          "g": "አፍአ",
+          "t": "ʾäfəʾä",
+          "gl": ""
+        },
+        {
+          "g": "እምትዕይንት",
+          "t": "ʾəmətəʿəyənətə",
+          "gl": ""
+        },
+        {
+          "g": "ሰቡዐ",
+          "t": "säbuʿä",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕለ",
+          "t": "mäwaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘቀተለ",
+          "t": "zäqätälä",
+          "gl": ""
+        },
+        {
+          "g": "ወዘገሰሰ",
+          "t": "wäzägäsäsä",
+          "gl": ""
+        },
+        {
+          "g": "ምውተ",
+          "t": "məwətä",
+          "gl": ""
+        },
+        {
+          "g": "ያንጽሕ",
+          "t": "yanəṣəḥə",
+          "gl": ""
+        },
+        {
+          "g": "ርእሶ",
+          "t": "rəʾəso",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ሣልስት",
+          "t": "śaləsətə",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "ወአመ",
+          "t": "wäʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ሳብዕት",
+          "t": "sabəʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "አንትሙ",
+          "t": "ʾänətəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወፄዋክሙ",
+          "t": "wäṣ́ewakəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And ye shall encamp outside the great camp seven days; every one who has slain and who touches a dead body, shall be purified on the third day, and ye and your captivity shall purify yourselves on the seventh day.",
+        "kjv": "And do ye abide without the camp seven days: whosoever hath killed any person, and whosoever hath touched any slain, purify both yourselves and your captives on the third day, and on the seventh day."
+      }
+    },
+    {
+      "num": 20,
+      "geez": "ወኵሎ ፡ ልብሰ ፡ ወኵሎ ፡ ንዋየ ፡ ማእስ ፡ ወኵሎ ፡ ንዋየ ፡ ዘእምነ ፡ ማእሰ ፡ ጠሊ ፡ ወኵሎ ፡ ንቀየ ፡ ዕፅ ፡\n                  አንጽሑ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ልብሰ",
+          "t": "ləbəsä",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ንዋየ",
+          "t": "nəwayä",
+          "gl": ""
+        },
+        {
+          "g": "ማእስ",
+          "t": "maʾəsə",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ንዋየ",
+          "t": "nəwayä",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምነ",
+          "t": "zäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ማእሰ",
+          "t": "maʾəsä",
+          "gl": ""
+        },
+        {
+          "g": "ጠሊ",
+          "t": "ṭäli",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ንቀየ",
+          "t": "nəqäyä",
+          "gl": ""
+        },
+        {
+          "g": "ዕፅ",
+          "t": "ʿəṣ́ə",
+          "gl": ""
+        },
+        {
+          "g": "አንጽሑ",
+          "t": "ʾänəṣəḥu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And ye shall purify every garment and every leathern utensil, and all furniture of goat skin, and every wooden vessel.",
+        "kjv": "And purify all your raiment, and all that is made of skins, and all work of goats’ hair, and all things made of wood."
+      }
+    },
+    {
+      "num": 21,
+      "geez": "ወይቤሎሙ ፡ እልዓዛር ፡ ለዕደወ ፡ ኀይል ፡ እለ ፡ አተዉ ፡ እምፀብእ ፡ እምኀበ ፡ ይትቃተሉ ፡ ዝንቱ ፡ ውእቱ ፡ ኵነኔሁ\n                  ፡ ለሕግ ፡ ዘአዘዞ ፡ እግዚአብሔር ፡ ለሙሴ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎሙ",
+          "t": "wäyəbelomu",
+          "gl": ""
+        },
+        {
+          "g": "እልዓዛር",
+          "t": "ʾələʿazarə",
+          "gl": ""
+        },
+        {
+          "g": "ለዕደወ",
+          "t": "läʿədäwä",
+          "gl": ""
+        },
+        {
+          "g": "ኀይል",
+          "t": "ḫäyələ",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "አተዉ",
+          "t": "ʾätäwu",
+          "gl": ""
+        },
+        {
+          "g": "እምፀብእ",
+          "t": "ʾəməṣ́äbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "እምኀበ",
+          "t": "ʾəməḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ይትቃተሉ",
+          "t": "yətəqatälu",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ኵነኔሁ",
+          "t": "kwənänehu",
+          "gl": ""
+        },
+        {
+          "g": "ለሕግ",
+          "t": "läḥəgə",
+          "gl": ""
+        },
+        {
+          "g": "ዘአዘዞ",
+          "t": "zäʾäzäzo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Eleazar the priest said to the men of the host that came from the battle-array, This is the ordinance of the law which the Lord has commanded Moses.",
+        "kjv": "And Eleazar the priest said unto the men of war which went to the battle, This is the ordinance of the law which the LORD commanded Moses;"
+      }
+    },
+    {
+      "num": 22,
+      "geez": "ወርቅ ፡ ወብሩር ፡ ወብርት ፡ ወኀፂን ፡ ወዐረር ፡ ወናእክ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወርቅ",
+          "t": "wärəqə",
+          "gl": ""
+        },
+        {
+          "g": "ወብሩር",
+          "t": "wäbərurə",
+          "gl": ""
+        },
+        {
+          "g": "ወብርት",
+          "t": "wäbərətə",
+          "gl": ""
+        },
+        {
+          "g": "ወኀፂን",
+          "t": "wäḫäṣ́inə",
+          "gl": ""
+        },
+        {
+          "g": "ወዐረር",
+          "t": "wäʿärärə",
+          "gl": ""
+        },
+        {
+          "g": "ወናእክ",
+          "t": "wänaʾəkə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Beside the gold, and the silver, and the brass, and the iron, and lead, and tin,",
+        "kjv": "Only the gold, and the silver, the brass, the iron, the tin, and the lead,"
+      }
+    },
+    {
+      "num": 23,
+      "geez": "ኵሉ ፡ ዘይትገበር ፡ በእሳት ፡ ንዋይ ፡ ወይነጽሕ ፡ ለያንጽሕዎ ፡ በማየ ፡ አንጽሖ ፡ ወኵሉ ፡ ዘይበውእ ፡ ውስተ ፡\n                  እሳት ፡ ለይጥምዕዎ ፡ ውስተ ፡ ማይ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይትገበር",
+          "t": "zäyətəgäbärə",
+          "gl": ""
+        },
+        {
+          "g": "በእሳት",
+          "t": "bäʾəsatə",
+          "gl": ""
+        },
+        {
+          "g": "ንዋይ",
+          "t": "nəwayə",
+          "gl": ""
+        },
+        {
+          "g": "ወይነጽሕ",
+          "t": "wäyənäṣəḥə",
+          "gl": ""
+        },
+        {
+          "g": "ለያንጽሕዎ",
+          "t": "läyanəṣəḥəwo",
+          "gl": ""
+        },
+        {
+          "g": "በማየ",
+          "t": "bämayä",
+          "gl": ""
+        },
+        {
+          "g": "አንጽሖ",
+          "t": "ʾänəṣəḥo",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይበውእ",
+          "t": "zäyəbäwəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እሳት",
+          "t": "ʾəsatə",
+          "gl": ""
+        },
+        {
+          "g": "ለይጥምዕዎ",
+          "t": "läyəṭəməʿəwo",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ማይ",
+          "t": "mayə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "every thing that shall pass through the fire shall so be clean, nevertheless it shall be purified with the water of sanctification; and whatsoever will not pass through the fire shall pass through water.",
+        "kjv": "Every thing that may abide the fire, ye shall make it go through the fire, and it shall be clean: nevertheless it shall be purified with the water of separation: and all that abideth not the fire ye shall make go through the water."
+      }
+    },
+    {
+      "num": 24,
+      "geez": "ወኅፅቡ ፡ አልባሲክሙ ፡ በሳብዕት ፡ ዕለት ፡ ወትነጽሑ ፡ ወእምድኅረ ፡ ዝንቱ ፡ ትበውኡ ፡ ውስተ ፡ ትዕይንተ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኅፅቡ",
+          "t": "wäḫəṣ́əbu",
+          "gl": ""
+        },
+        {
+          "g": "አልባሲክሙ",
+          "t": "ʾäləbasikəmu",
+          "gl": ""
+        },
+        {
+          "g": "በሳብዕት",
+          "t": "bäsabəʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "ወትነጽሑ",
+          "t": "wätənäṣəḥu",
+          "gl": ""
+        },
+        {
+          "g": "ወእምድኅረ",
+          "t": "wäʾəmədəḫərä",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ትበውኡ",
+          "t": "təbäwəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ትዕይንተ",
+          "t": "təʿəyənətä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And on the seventh day ye shall wash your garments, and be clean; and afterwards ye shall come into the camp.",
+        "kjv": "And ye shall wash your clothes on the seventh day, and ye shall be clean, and afterward ye shall come into the camp."
+      }
+    },
+    {
+      "num": 25,
+      "geez": "ወነበቦ ፡ እግዚአብሔር ፡ ለሙሴ ፡ ወይቤሎ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነበቦ",
+          "t": "wänäbäbo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord spoke to Moses, saying,",
+        "kjv": "And the LORD spake unto Moses, saying,"
+      }
+    },
+    {
+      "num": 26,
+      "geez": "ንሥኦ ፡ መሠንዮ ፡ ለፄዋ ፡ ወለምህርካ ፡ እምሰብእ ፡ እስከ ፡ እንስሳ ፡ አንተ ፡ ወእልዓዛር ፡ ወመላእክተ ፡ አበዊሆሙ\n                  ፡ ለተዓይን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ንሥኦ",
+          "t": "nəśəʾo",
+          "gl": ""
+        },
+        {
+          "g": "መሠንዮ",
+          "t": "mäśänəyo",
+          "gl": ""
+        },
+        {
+          "g": "ለፄዋ",
+          "t": "läṣ́ewa",
+          "gl": ""
+        },
+        {
+          "g": "ወለምህርካ",
+          "t": "wäläməhərəka",
+          "gl": ""
+        },
+        {
+          "g": "እምሰብእ",
+          "t": "ʾəməsäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "እንስሳ",
+          "t": "ʾənəsəsa",
+          "gl": ""
+        },
+        {
+          "g": "አንተ",
+          "t": "ʾänətä",
+          "gl": ""
+        },
+        {
+          "g": "ወእልዓዛር",
+          "t": "wäʾələʿazarə",
+          "gl": ""
+        },
+        {
+          "g": "ወመላእክተ",
+          "t": "wämälaʾəkətä",
+          "gl": ""
+        },
+        {
+          "g": "አበዊሆሙ",
+          "t": "ʾäbäwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ለተዓይን",
+          "t": "lätäʿayənə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Take the sum of the spoils of the captivity both of man and beast, thou and Eleazar the priest, and the heads of the families of the congregation.",
+        "kjv": "Take the sum of the prey that was taken, both of man and of beast, thou, and Eleazar the priest, and the chief fathers of the congregation:"
+      }
+    },
+    {
+      "num": 27,
+      "geez": "ወትከፍሉ ፡ ምህርካ ፡ ማእከሎሙ ፡ ለእለ ፡ ፀብኡ ፡ ለእለ ፡ ሖሩ ፡ ይትቃተሉ ፡ ወማእከለ ፡ ኵሉ ፡ ተዓይን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትከፍሉ",
+          "t": "wätəkäfəlu",
+          "gl": ""
+        },
+        {
+          "g": "ምህርካ",
+          "t": "məhərəka",
+          "gl": ""
+        },
+        {
+          "g": "ማእከሎሙ",
+          "t": "maʾəkälomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእለ",
+          "t": "läʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ፀብኡ",
+          "t": "ṣ́äbəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ለእለ",
+          "t": "läʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሖሩ",
+          "t": "ḥoru",
+          "gl": ""
+        },
+        {
+          "g": "ይትቃተሉ",
+          "t": "yətəqatälu",
+          "gl": ""
+        },
+        {
+          "g": "ወማእከለ",
+          "t": "wämaʾəkälä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ተዓይን",
+          "t": "täʿayənə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And ye shall divide the spoils between the warriors that went out to battle, and the whole congregation.",
+        "kjv": "And divide the prey into two parts; between them that took the war upon them, who went out to battle, and between all the congregation:"
+      }
+    },
+    {
+      "num": 28,
+      "geez": "ወታወፅኡ ፡ ፀባሕቶ ፡ ለእግዚአብሔር ፡ እምኀቤሆሙ ፡ ለእለ ፡ ፀብኡ ፡ ለእለ ፡ ሖሩ ፡ ይትቃተሉ ፡ አሐተ ፡ ነፍሰ ፡\n                  እምውስተ ፡ ፭፻ወእምነ ፡ ሰብእ ፡ ወእምነ ፡ እንስሳ ፡ ወእምነ ፡ አልህምት ፡ ወእምነ ፡ አባግዕ ፡ ወእምነ ፡ አእዱግ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወታወፅኡ",
+          "t": "wätawäṣ́əʾu",
+          "gl": ""
+        },
+        {
+          "g": "ፀባሕቶ",
+          "t": "ṣ́äbaḥəto",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "እምኀቤሆሙ",
+          "t": "ʾəməḫäbehomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእለ",
+          "t": "läʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ፀብኡ",
+          "t": "ṣ́äbəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ለእለ",
+          "t": "läʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሖሩ",
+          "t": "ḥoru",
+          "gl": ""
+        },
+        {
+          "g": "ይትቃተሉ",
+          "t": "yətəqatälu",
+          "gl": ""
+        },
+        {
+          "g": "አሐተ",
+          "t": "ʾäḥätä",
+          "gl": ""
+        },
+        {
+          "g": "ነፍሰ",
+          "t": "näfəsä",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "፭፻ወእምነ",
+          "t": "5100wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "እንስሳ",
+          "t": "ʾənəsəsa",
+          "gl": ""
+        },
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "አልህምት",
+          "t": "ʾäləhəmətə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "አባግዕ",
+          "t": "ʾäbagəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "አእዱግ",
+          "t": "ʾäʾədugə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And ye shall take a tribute for the Lord from the warriors that went out to battle; one soul out of five hundred, from the men, and from the cattle, even from the oxen, and from the sheep, and from the asses; and ye shall take from their half.",
+        "kjv": "And levy a tribute unto the Lord of the men of war which went out to battle: one soul of five hundred, both of the persons, and of the beeves, and of the asses, and of the sheep:"
+      }
+    },
+    {
+      "num": 29,
+      "geez": "ወትነሥእ ፡ እምነ ፡ መንፈቆሙ ፡ ወትሁቦ ፡ ለእልዓዛር ፡ ካህን ፡ ቀደምያቲሁ ፡ ለእግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትነሥእ",
+          "t": "wätənäśəʾə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "መንፈቆሙ",
+          "t": "mänəfäqomu",
+          "gl": ""
+        },
+        {
+          "g": "ወትሁቦ",
+          "t": "wätəhubo",
+          "gl": ""
+        },
+        {
+          "g": "ለእልዓዛር",
+          "t": "läʾələʿazarə",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ቀደምያቲሁ",
+          "t": "qädäməyatihu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And thou shalt give them to Eleazar the priest as the first-fruits of the Lord.",
+        "kjv": "Take it of their half, and give it unto Eleazar the priest, for an heave offering of the LORD."
+      }
+    },
+    {
+      "num": 30,
+      "geez": "ወእምነ ፡ መንፈቆሙ ፡ ለደቂቀ ፡ እስራኤል ፡ ትነሥእ ፡ አሐደ ፡ እምኀምሳ ፡ እምነ ፡ ሰብእ ፡ ወእምነ ፡ አልህምት ፡\n                  ወእምነ ፡ አባግዕ ፡ ወእምነ ፡ አእዱግ ፡ ወእምነ ፡ እንስሳ ፡ ወሀቦሙ ፡ ለሌዋውያን ፡ እለ ፡ የዐቅቡ ፡ ሕገ ፡ ደብተራሁ ፡\n                  ለእግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "መንፈቆሙ",
+          "t": "mänəfäqomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ትነሥእ",
+          "t": "tənäśəʾə",
+          "gl": ""
+        },
+        {
+          "g": "አሐደ",
+          "t": "ʾäḥädä",
+          "gl": ""
+        },
+        {
+          "g": "እምኀምሳ",
+          "t": "ʾəməḫäməsa",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "አልህምት",
+          "t": "ʾäləhəmətə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "አባግዕ",
+          "t": "ʾäbagəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "አእዱግ",
+          "t": "ʾäʾədugə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "እንስሳ",
+          "t": "ʾənəsəsa",
+          "gl": ""
+        },
+        {
+          "g": "ወሀቦሙ",
+          "t": "wähäbomu",
+          "gl": ""
+        },
+        {
+          "g": "ለሌዋውያን",
+          "t": "lälewawəyanə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "የዐቅቡ",
+          "t": "yäʿäqəbu",
+          "gl": ""
+        },
+        {
+          "g": "ሕገ",
+          "t": "ḥəgä",
+          "gl": ""
+        },
+        {
+          "g": "ደብተራሁ",
+          "t": "däbətärahu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And from the half belonging to the children of Israel thou shalt take one in fifty from the men, and from the oxen, and from the sheep, and from the asses, and from all the cattle; and thou shalt give them to the Levites that keep the charges in the tabernacle of the Lord.",
+        "kjv": "And of the children of Israel’s half, thou shalt take one portion of fifty, of the persons, of the beeves, of the asses, and of the flocks, of all manner of beasts, and give them unto the Levites, which keep the charge of the tabernacle of the LORD."
+      }
+    },
+    {
+      "num": 31,
+      "geez": "ወገብረ ፡ ሙሴ ፡ ወእልዓዛር ፡ ካህን ፡ በከመ ፡ አዘዞ ፡ እግዚአብሔር ፡ ለሙሴ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወገብረ",
+          "t": "wägäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ወእልዓዛር",
+          "t": "wäʾələʿazarə",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "አዘዞ",
+          "t": "ʾäzäzo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Moses and Eleazar the priest did as the Lord commanded Moses.",
+        "kjv": "And Moses and Eleazar the priest did as the LORD commanded Moses."
+      }
+    },
+    {
+      "num": 32,
+      "geez": "ወኮነ ፡ ኍልቈ ፡ አባግዕ ፡ ዘማህረኩ ፡ ዕደው ፡ እለ ፡ ፀብኡ ፡ ፷፻-፻፯፻-፻፶፻ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኮነ",
+          "t": "wäkonä",
+          "gl": ""
+        },
+        {
+          "g": "ኍልቈ",
+          "t": "ḫwələqwä",
+          "gl": ""
+        },
+        {
+          "g": "አባግዕ",
+          "t": "ʾäbagəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ዘማህረኩ",
+          "t": "zämahəräku",
+          "gl": ""
+        },
+        {
+          "g": "ዕደው",
+          "t": "ʿədäwə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ፀብኡ",
+          "t": "ṣ́äbəʾu",
+          "gl": ""
+        },
+        {
+          "g": "፷፻-፻፯፻-፻፶፻",
+          "t": "60100-1007100-10050100",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And that which remained of the spoil which the warriors took, was—of the sheep, six hundred and seventy-five thousand:",
+        "kjv": "And the booty, being the rest of the prey which the men of war had caught, was six hundred thousand and seventy thousand and five thousand sheep,"
+      }
+    },
+    {
+      "num": 33,
+      "geez": "ወላህሞሙ ፡ ፯፻-፻፳፻ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወላህሞሙ",
+          "t": "wälahəmomu",
+          "gl": ""
+        },
+        {
+          "g": "፯፻-፻፳፻",
+          "t": "7100-10020100",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and oxen, seventy-two thousand:",
+        "kjv": "And threescore and twelve thousand beeves,"
+      }
+    },
+    {
+      "num": 34,
+      "geez": "ወአእዱግ ፡ ፯፻-፻፲፻ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአእዱግ",
+          "t": "wäʾäʾədugə",
+          "gl": ""
+        },
+        {
+          "g": "፯፻-፻፲፻",
+          "t": "7100-10010100",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and asses, sixty-one thousand.",
+        "kjv": "And threescore and one thousand asses,"
+      }
+    },
+    {
+      "num": 35,
+      "geez": "ወሰብእ ፡ ዘመንፈስ ፡ አንስት ፡ እለ ፡ ኢያአምራ ፡ ብእሴ ፡ ኵሉ ፡ ነፍስ ፡ ፫፻-፻፳፻ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሰብእ",
+          "t": "wäsäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ዘመንፈስ",
+          "t": "zämänəfäsə",
+          "gl": ""
+        },
+        {
+          "g": "አንስት",
+          "t": "ʾänəsətə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኢያአምራ",
+          "t": "ʾiyaʾäməra",
+          "gl": ""
+        },
+        {
+          "g": "ብእሴ",
+          "t": "bəʾəse",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ነፍስ",
+          "t": "näfəsə",
+          "gl": ""
+        },
+        {
+          "g": "፫፻-፻፳፻",
+          "t": "3100-10020100",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And persons of women who had not known lying with man, all the souls, thirty-two thousand.",
+        "kjv": "And thirty and two thousand persons in all, of women that had not known man by lying with him."
+      }
+    },
+    {
+      "num": 36,
+      "geez": "ወኮነ ፡ መንፈቀ ፡ ክፍሎሙ ፡ ለእለ ፡ ሖሩ ፡ ፅብአ ፡ እምውስተ ፡ ኍልቈ ፡ አባግዒሆሙ ፡ ፴፻-፻፫፻-፻፸፻፭፻ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኮነ",
+          "t": "wäkonä",
+          "gl": ""
+        },
+        {
+          "g": "መንፈቀ",
+          "t": "mänəfäqä",
+          "gl": ""
+        },
+        {
+          "g": "ክፍሎሙ",
+          "t": "kəfəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእለ",
+          "t": "läʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሖሩ",
+          "t": "ḥoru",
+          "gl": ""
+        },
+        {
+          "g": "ፅብአ",
+          "t": "ṣ́əbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኍልቈ",
+          "t": "ḫwələqwä",
+          "gl": ""
+        },
+        {
+          "g": "አባግዒሆሙ",
+          "t": "ʾäbagəʿihomu",
+          "gl": ""
+        },
+        {
+          "g": "፴፻-፻፫፻-፻፸፻፭፻",
+          "t": "30100-1003100-100701005100",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the half, even the portion of them that went out to war, from the number of the sheep, was three hundred and thirty-seven thousand and five hundred.",
+        "kjv": "And the half, which was the portion of them that went out to war, was in number three hundred thousand and seven and thirty thousand and five hundred sheep:"
+      }
+    },
+    {
+      "num": 37,
+      "geez": "ወኮነ ፡ ጸባሕቱ ፡ ለእግዚአብሔር ፡ እምውስተ ፡ አባግዕ ፡ ፯፻፸፭ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኮነ",
+          "t": "wäkonä",
+          "gl": ""
+        },
+        {
+          "g": "ጸባሕቱ",
+          "t": "ṣäbaḥətu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አባግዕ",
+          "t": "ʾäbagəʿə",
+          "gl": ""
+        },
+        {
+          "g": "፯፻፸፭",
+          "t": "7100705",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the tribute to the Lord from the sheep was six hundred and seventy-five.",
+        "kjv": "And the LORD’s tribute of the sheep was six hundred and threescore and fifteen."
+      }
+    },
+    {
+      "num": 38,
+      "geez": "ወላህም ፡ ፫፻-፻፷፻ወጸባሕቱ ፡ ለእግዚአብሔር ፡ ፸ወ፪ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወላህም",
+          "t": "wälahəmə",
+          "gl": ""
+        },
+        {
+          "g": "፫፻-፻፷፻ወጸባሕቱ",
+          "t": "3100-10060100wäṣäbaḥətu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "፸ወ፪",
+          "t": "70wä2",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the oxen, six and thirty thousand, and the tribute to the Lord, seventy-two.",
+        "kjv": "And the beeves were thirty and six thousand; of which the LORD’s tribute was threescore and twelve."
+      }
+    },
+    {
+      "num": 39,
+      "geez": "ወአእዱግ ፡ ፫፻-፻፭፻ወጸባሕቱ ፡ ለእግዚአብሔር ፡ ፷፩ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአእዱግ",
+          "t": "wäʾäʾədugə",
+          "gl": ""
+        },
+        {
+          "g": "፫፻-፻፭፻ወጸባሕቱ",
+          "t": "3100-1005100wäṣäbaḥətu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "፷፩",
+          "t": "601",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And asses, thirty thousand and five hundred, and the tribute to the Lord, sixty-one:",
+        "kjv": "And the asses were thirty thousand and five hundred; of which the LORD’s tribute was threescore and one."
+      }
+    },
+    {
+      "num": 40,
+      "geez": "ወሰብእ ፡ ዘመንፈስ ፡ ፩፻-፻፷፻ወጸባሕቱ ፡ ለእግዚአብሔር ፡ ፴፪ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሰብእ",
+          "t": "wäsäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ዘመንፈስ",
+          "t": "zämänəfäsə",
+          "gl": ""
+        },
+        {
+          "g": "፩፻-፻፷፻ወጸባሕቱ",
+          "t": "1100-10060100wäṣäbaḥətu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "፴፪",
+          "t": "302",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and the persons, sixteen thousand, and the tribute of them to the Lord, thirty-two souls.",
+        "kjv": "And the persons were sixteen thousand; of which the LORD’s tribute was thirty and two persons."
+      }
+    },
+    {
+      "num": 41,
+      "geez": "ወወሀበ ፡ ሙሴ ፡ ጸባሕተ ፡ ለእግዚአብሔር ፡ ዘፈለጡ ፡ ለእግዚአብሔር ፡ ለእልዓዛር ፡ ካህን ፡ በከመ ፡ አዘዞ ፡\n                  እግዚአብሔር ፡ ለሙሴ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወወሀበ",
+          "t": "wäwähäbä",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ጸባሕተ",
+          "t": "ṣäbaḥətä",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ዘፈለጡ",
+          "t": "zäfäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለእልዓዛር",
+          "t": "läʾələʿazarə",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "አዘዞ",
+          "t": "ʾäzäzo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Moses gave the tribute to the Lord, the heave-offering of God, to Eleazar the priest, as the Lord commanded Moses;",
+        "kjv": "And Moses gave the tribute, which was the LORD’s heave offering, unto Eleazar the priest, as the LORD commanded Moses."
+      }
+    },
+    {
+      "num": 42,
+      "geez": "እምውስተ ፡ መንፈቆሙ ፡ ለደቂቀ ፡ እስራኤል ፡ ዘአውፅአ ፡ ሙሴ ፡ እምነ ፡ ዕደው ፡ እለ ፡ ሖሩ ፡ ፀብአ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "መንፈቆሙ",
+          "t": "mänəfäqomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ዘአውፅአ",
+          "t": "zäʾäwəṣ́əʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ዕደው",
+          "t": "ʿədäwə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሖሩ",
+          "t": "ḥoru",
+          "gl": ""
+        },
+        {
+          "g": "ፀብአ",
+          "t": "ṣ́äbəʾä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "from the half belonging to the children of Israel, whom Moses separated from the men of war.",
+        "kjv": "And of the children of Israel’s half, which Moses divided from the men that warred,"
+      }
+    },
+    {
+      "num": 43,
+      "geez": "ወኮነ ፡ መንፈቅ ፡ ዘእምውስተ ፡ ትዕይንት ፡ እምነ ፡ አባግዕ ፡ ፴፻-፻[፫፻-፻፸፻] ፭፻ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኮነ",
+          "t": "wäkonä",
+          "gl": ""
+        },
+        {
+          "g": "መንፈቅ",
+          "t": "mänəfäqə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምውስተ",
+          "t": "zäʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ትዕይንት",
+          "t": "təʿəyənətə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "አባግዕ",
+          "t": "ʾäbagəʿə",
+          "gl": ""
+        },
+        {
+          "g": "፴፻-፻፫፻-፻፸፻ ፭፻",
+          "t": "30100-1003100-10070100 5100",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the half taken from the sheep, belonging to the congregation, was three hundred and thirty-seven thousand and five hundred.",
+        "kjv": "(Now the half that pertained unto the congregation was three hundred thousand and thirty thousand and seven thousand and five hundred sheep,"
+      }
+    },
+    {
+      "num": 44,
+      "geez": "[ወአልህምት ፡ ፫፻-፻፷፻ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአልህምት",
+          "t": "wäʾäləhəmətə",
+          "gl": ""
+        },
+        {
+          "g": "፫፻-፻፷፻",
+          "t": "3100-10060100",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the oxen, thirty-six thousand;",
+        "kjv": "And thirty and six thousand beeves,"
+      }
+    },
+    {
+      "num": 45,
+      "geez": "ወአእዱግ ፡ ፫፻-፻፭፻ ።]",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአእዱግ",
+          "t": "wäʾäʾədugə",
+          "gl": ""
+        },
+        {
+          "g": "፫፻-፻፭፻",
+          "t": "3100-1005100",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "asses, thirty thousand and five hundred;",
+        "kjv": "And thirty thousand asses and five hundred,"
+      }
+    },
+    {
+      "num": 46,
+      "geez": "ወሰብእ ፡ ዘመንፈስ ፡ ፩፻-፻፷፻ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሰብእ",
+          "t": "wäsäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ዘመንፈስ",
+          "t": "zämänəfäsə",
+          "gl": ""
+        },
+        {
+          "g": "፩፻-፻፷፻",
+          "t": "1100-10060100",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and persons, sixteen thousand.",
+        "kjv": "And sixteen thousand persons;)"
+      }
+    },
+    {
+      "num": 47,
+      "geez": "ወነሥአ ፡ ሙሴ ፡ እምውስተ ፡ መንፈቆሙ ፡ ለደቅቀ ፡ እስራኤል ፡ አሐደ ፡ እም፶እምነ ፡ ሰብእ ፡ ወእምነ ፡ እንስሳ ፡\n                  ወወሀቦሙ ፡ ለሌዋውያን ፡ ለእለ ፡ የዐቅቡ ፡ ሕገ ፡ ደብተራሁ ፡ ለእግዚአብሔር ፡ በከመ ፡ አዘዞ ፡ እግዚአብሔር ፡ ለሙሴ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነሥአ",
+          "t": "wänäśəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "መንፈቆሙ",
+          "t": "mänəfäqomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቅቀ",
+          "t": "lädäqəqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "አሐደ",
+          "t": "ʾäḥädä",
+          "gl": ""
+        },
+        {
+          "g": "እም፶እምነ",
+          "t": "ʾəmə50ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "እንስሳ",
+          "t": "ʾənəsəsa",
+          "gl": ""
+        },
+        {
+          "g": "ወወሀቦሙ",
+          "t": "wäwähäbomu",
+          "gl": ""
+        },
+        {
+          "g": "ለሌዋውያን",
+          "t": "lälewawəyanə",
+          "gl": ""
+        },
+        {
+          "g": "ለእለ",
+          "t": "läʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "የዐቅቡ",
+          "t": "yäʿäqəbu",
+          "gl": ""
+        },
+        {
+          "g": "ሕገ",
+          "t": "ḥəgä",
+          "gl": ""
+        },
+        {
+          "g": "ደብተራሁ",
+          "t": "däbətärahu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "አዘዞ",
+          "t": "ʾäzäzo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Moses took of the half belonging to the children of Israel the fiftieth part, of men and of cattle, and he gave them to the Levites who keep the charges of the tabernacle of the Lord, as the Lord commanded Moses.",
+        "kjv": "Even of the children of Israel’s half, Moses took one portion of fifty, both of man and of beast, and gave them unto the Levites, which kept the charge of the tabernacle of the LORD; as the LORD commanded Moses."
+      }
+    },
+    {
+      "num": 48,
+      "geez": "ወመጽኡ ፡ ኀበ ፡ ሙሴ ፡ ኵሎሙ ፡ እለ ፡ ሥዩማን ፡ ላዕለ ፡ ሰራዊተ ፡ ኀይል ፡ ነገሥተ ፡ ሰራዊት ፡ ወመሳፍንት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወመጽኡ",
+          "t": "wämäṣəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሥዩማን",
+          "t": "śəyumanə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሰራዊተ",
+          "t": "särawitä",
+          "gl": ""
+        },
+        {
+          "g": "ኀይል",
+          "t": "ḫäyələ",
+          "gl": ""
+        },
+        {
+          "g": "ነገሥተ",
+          "t": "nägäśətä",
+          "gl": ""
+        },
+        {
+          "g": "ሰራዊት",
+          "t": "särawitə",
+          "gl": ""
+        },
+        {
+          "g": "ወመሳፍንት",
+          "t": "wämäsafənətə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And all those who were appointed to be officers of thousands of the host, captains of thousands and captains of hundreds, approached Moses, and said to Moses,",
+        "kjv": "And the officers which were over thousands of the host, the captains of thousands, and captains of hundreds, came near unto Moses:"
+      }
+    },
+    {
+      "num": 49,
+      "geez": "ወይቤልዎ ፡ ለሙሴ ፡ ሰብእከ ፡ ነሥኡ ፡ ሰርጕሆሙ ፡ ለዕደው ፡ እለ ፡ ቀተሉ ፡ ምስሌነ ፡ ወኢያይድዑነ ፡ ወኢአሐዱ ፡\n                  እምኔሆሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤልዎ",
+          "t": "wäyəbeləwo",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእከ",
+          "t": "säbəʾəkä",
+          "gl": ""
+        },
+        {
+          "g": "ነሥኡ",
+          "t": "näśəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ሰርጕሆሙ",
+          "t": "särəgwəhomu",
+          "gl": ""
+        },
+        {
+          "g": "ለዕደው",
+          "t": "läʿədäwə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ቀተሉ",
+          "t": "qätälu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌነ",
+          "t": "məsəlenä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢያይድዑነ",
+          "t": "wäʾiyayədəʿunä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢአሐዱ",
+          "t": "wäʾiʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሆሙ",
+          "t": "ʾəmənehomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Thy servants have taken the sum of the men of war with us, and not one is missing.",
+        "kjv": "And they said unto Moses, Thy servants have taken the sum of the men of war which are under our charge, and there lacketh not one man of us."
+      }
+    },
+    {
+      "num": 50,
+      "geez": "ወናሁ ፡ አምጻእነ ፡ ቍርባኖ ፡ ለእግዚአብሔር ፡ ብእሲ ፡ ዘረከበ ፡ ሰርጐ ፡ ወርቅ ፡ በዝግና ፡ አው ፡ ወቅፈ ፡ አው ፡\n                  ሕልቀተ ፡ አው ፡ ሐብለተ ፡ ዘፅፍሮ ፡ ከመ ፡ ታስተስርዩ ፡ በእንቲአነ ፡ ቅድመ ፡ እግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወናሁ",
+          "t": "wänahu",
+          "gl": ""
+        },
+        {
+          "g": "አምጻእነ",
+          "t": "ʾäməṣaʾənä",
+          "gl": ""
+        },
+        {
+          "g": "ቍርባኖ",
+          "t": "qwərəbano",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ዘረከበ",
+          "t": "zäräkäbä",
+          "gl": ""
+        },
+        {
+          "g": "ሰርጐ",
+          "t": "särəgwä",
+          "gl": ""
+        },
+        {
+          "g": "ወርቅ",
+          "t": "wärəqə",
+          "gl": ""
+        },
+        {
+          "g": "በዝግና",
+          "t": "bäzəgəna",
+          "gl": ""
+        },
+        {
+          "g": "አው",
+          "t": "ʾäwə",
+          "gl": ""
+        },
+        {
+          "g": "ወቅፈ",
+          "t": "wäqəfä",
+          "gl": ""
+        },
+        {
+          "g": "አው",
+          "t": "ʾäwə",
+          "gl": ""
+        },
+        {
+          "g": "ሕልቀተ",
+          "t": "ḥələqätä",
+          "gl": ""
+        },
+        {
+          "g": "አው",
+          "t": "ʾäwə",
+          "gl": ""
+        },
+        {
+          "g": "ሐብለተ",
+          "t": "ḥäbəlätä",
+          "gl": ""
+        },
+        {
+          "g": "ዘፅፍሮ",
+          "t": "zäṣ́əfəro",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ታስተስርዩ",
+          "t": "tasətäsərəyu",
+          "gl": ""
+        },
+        {
+          "g": "በእንቲአነ",
+          "t": "bäʾənətiʾänä",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And we have brought our gift to the Lord, every man who has found an article of gold, whether an armlet, or a chain, or a ring, or a bracelet, or a clasp for hair, to make atonement for us before the Lord.",
+        "kjv": "We have therefore brought an oblation for the LORD, what every man hath gotten, of jewels of gold, chains, and bracelets, rings, earrings, and tablets, to make an atonement for our souls before the LORD."
+      }
+    },
+    {
+      "num": 51,
+      "geez": "ወነሥኡ ፡ ሙሴ ፡ ወእልዓዛር ፡ ካህን ፡ ውእተ ፡ ወርቀ ፡ እምኔሆሙ ፡ ወኵሎ ፡ ሰርጐ ፡ ግቡር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነሥኡ",
+          "t": "wänäśəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ወእልዓዛር",
+          "t": "wäʾələʿazarə",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ውእተ",
+          "t": "wəʾətä",
+          "gl": ""
+        },
+        {
+          "g": "ወርቀ",
+          "t": "wärəqä",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሆሙ",
+          "t": "ʾəmənehomu",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ሰርጐ",
+          "t": "särəgwä",
+          "gl": ""
+        },
+        {
+          "g": "ግቡር",
+          "t": "gəburə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Moses and Eleazar the priest took the gold from them, even every wrought article.",
+        "kjv": "And Moses and Eleazar the priest took the gold of them, even all wrought jewels."
+      }
+    },
+    {
+      "num": 52,
+      "geez": "ወኮነ ፡ ኵሉ ፡ ወርቅ ፡ ዘመባእ ፡ ዘፈለጡ ፡ ለእግዚአብሔር ፡ ፩፻-፻፷፻፯፻፶ ፡ በሰቅል ፡ ዘእምኀበ ፡ ነገሥተ ፡\n                  ሰራዊት ፡ ወመሳፍንት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኮነ",
+          "t": "wäkonä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ወርቅ",
+          "t": "wärəqə",
+          "gl": ""
+        },
+        {
+          "g": "ዘመባእ",
+          "t": "zämäbaʾə",
+          "gl": ""
+        },
+        {
+          "g": "ዘፈለጡ",
+          "t": "zäfäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "፩፻-፻፷፻፯፻፶",
+          "t": "1100-10060100710050",
+          "gl": ""
+        },
+        {
+          "g": "በሰቅል",
+          "t": "bäsäqələ",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምኀበ",
+          "t": "zäʾəməḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ነገሥተ",
+          "t": "nägäśətä",
+          "gl": ""
+        },
+        {
+          "g": "ሰራዊት",
+          "t": "särawitə",
+          "gl": ""
+        },
+        {
+          "g": "ወመሳፍንት",
+          "t": "wämäsafənətə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And all the wrought gold, even the offering that they offered to the Lord, was sixteen thousand and seven hundred and fifty shekels from the captains of thousands and the captains of hundreds.",
+        "kjv": "And all the gold of the offering that they offered up to the LORD, of the captains of thousands, and of the captains of hundreds, was sixteen thousand seven hundred and fifty shekels."
+      }
+    },
+    {
+      "num": 53,
+      "geez": "ወእልክቱሰ ፡ ዕደው ፡ እለ ፡ ፀብኡ ፡ አእተዉ ፡ ለለ ፡ ርእሶሙ ፡ ዘሰለቡ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእልክቱሰ",
+          "t": "wäʾələkətusä",
+          "gl": ""
+        },
+        {
+          "g": "ዕደው",
+          "t": "ʿədäwə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ፀብኡ",
+          "t": "ṣ́äbəʾu",
+          "gl": ""
+        },
+        {
+          "g": "አእተዉ",
+          "t": "ʾäʾətäwu",
+          "gl": ""
+        },
+        {
+          "g": "ለለ",
+          "t": "lälä",
+          "gl": ""
+        },
+        {
+          "g": "ርእሶሙ",
+          "t": "rəʾəsomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘሰለቡ",
+          "t": "zäsäläbu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For the men of war took plunder every one for himself.",
+        "kjv": "(For the men of war had taken spoil, every man for himself.)"
+      }
+    },
+    {
+      "num": 54,
+      "geez": "ወነሥኡ ፡ ሙሴ ፡ ወእልዓዛር ፡ ካህን ፡ ውእተ ፡ ወርቀ ፡ እምኀበ ፡ መላእክተ ፡ ሰራዊት ፡ ወእምኀበ ፡ መሳፍንት ፡\n                  ወአብኡ ፡ ውስተ ፡ ደብተራ ፡ ዘመርጡል ፡ ተዝካሮሙ ፡ ለደቂቀ ፡ እስራኤል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነሥኡ",
+          "t": "wänäśəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ወእልዓዛር",
+          "t": "wäʾələʿazarə",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ውእተ",
+          "t": "wəʾətä",
+          "gl": ""
+        },
+        {
+          "g": "ወርቀ",
+          "t": "wärəqä",
+          "gl": ""
+        },
+        {
+          "g": "እምኀበ",
+          "t": "ʾəməḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "መላእክተ",
+          "t": "mälaʾəkətä",
+          "gl": ""
+        },
+        {
+          "g": "ሰራዊት",
+          "t": "särawitə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምኀበ",
+          "t": "wäʾəməḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "መሳፍንት",
+          "t": "mäsafənətə",
+          "gl": ""
+        },
+        {
+          "g": "ወአብኡ",
+          "t": "wäʾäbəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ደብተራ",
+          "t": "däbətära",
+          "gl": ""
+        },
+        {
+          "g": "ዘመርጡል",
+          "t": "zämärəṭulə",
+          "gl": ""
+        },
+        {
+          "g": "ተዝካሮሙ",
+          "t": "täzəkaromu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Moses and Eleazar the priest took the gold from the captains of thousands and captains of hundreds, and brought the vessels into the tabernacle of witness, a memorial of the children of Israel before the Lord.",
+        "kjv": "And Moses and Eleazar the priest took the gold of the captains of thousands and of hundreds, and brought it into the tabernacle of the congregation, for a memorial for the children of Israel before the LORD."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

@@ -1,0 +1,2158 @@
+{
+  "book": "Sir",
+  "chapter": 39,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወባሕቱ፡(ኪንሰ፡)ለዘ፡ አስተሐመመ፡ በልቡ፡(ውእቱ፡)ወዘይኄሊ፡ ሕጎ፡ ለልዑል፡ ጥበብ(ሰ)፡ ተኀሠት፡ በኀበ፡ ኵሎሙ፡ ቀደምት፡ ወትሜህር፡ ተነብዮተ፡ ለዕደው።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወባሕቱ",
+          "t": "wäbaḥətu",
+          "gl": ""
+        },
+        {
+          "g": "ኪንሰ",
+          "t": "kinəsä",
+          "gl": ""
+        },
+        {
+          "g": "ለዘ",
+          "t": "läzä",
+          "gl": ""
+        },
+        {
+          "g": "አስተሐመመ",
+          "t": "ʾäsətäḥämämä",
+          "gl": ""
+        },
+        {
+          "g": "በልቡ",
+          "t": "bäləbu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ወዘይኄሊ",
+          "t": "wäzäyəḫeli",
+          "gl": ""
+        },
+        {
+          "g": "ሕጎ",
+          "t": "ḥəgo",
+          "gl": ""
+        },
+        {
+          "g": "ለልዑል",
+          "t": "läləʿulə",
+          "gl": ""
+        },
+        {
+          "g": "ጥበብሰ",
+          "t": "ṭəbäbəsä",
+          "gl": ""
+        },
+        {
+          "g": "ተኀሠት",
+          "t": "täḫäśätə",
+          "gl": ""
+        },
+        {
+          "g": "በኀበ",
+          "t": "bäḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ቀደምት",
+          "t": "qädämətə",
+          "gl": ""
+        },
+        {
+          "g": "ወትሜህር",
+          "t": "wätəmehərə",
+          "gl": ""
+        },
+        {
+          "g": "ተነብዮተ",
+          "t": "tänäbəyotä",
+          "gl": ""
+        },
+        {
+          "g": "ለዕደው",
+          "t": "läʿədäwə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "will seek out the wisdom of all the ancients, and be occupied in prophecies."
+      }
+    },
+    {
+      "num": 2,
+      "geez": "እለ፡ አስመዩ፡ በሃይማኖት፡ ወታበውእ፡ ውስተ፡ አምሳለ፡ ነቢያት።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "አስመዩ",
+          "t": "ʾäsəmäyu",
+          "gl": ""
+        },
+        {
+          "g": "በሃይማኖት",
+          "t": "bähayəmanotə",
+          "gl": ""
+        },
+        {
+          "g": "ወታበውእ",
+          "t": "wätabäwəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አምሳለ",
+          "t": "ʾäməsalä",
+          "gl": ""
+        },
+        {
+          "g": "ነቢያት",
+          "t": "näbiyatə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "He will keep the sayings of the renowned men: and where subtil parables are, he will be there also."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወተኅሥሥ፡ አምሳለ፡ ዘኅቡእ፤[ወትትመየጥ]፡ በፍካሬ፡ አምሳል።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተኅሥሥ",
+          "t": "wätäḫəśəśə",
+          "gl": ""
+        },
+        {
+          "g": "አምሳለ",
+          "t": "ʾäməsalä",
+          "gl": ""
+        },
+        {
+          "g": "ዘኅቡእወትትመየጥ",
+          "t": "zäḫəbuʾəwätətəmäyäṭə",
+          "gl": ""
+        },
+        {
+          "g": "በፍካሬ",
+          "t": "bäfəkare",
+          "gl": ""
+        },
+        {
+          "g": "አምሳል",
+          "t": "ʾäməsalə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "He will seek out the secrets of grave sentences, and be conversant in dark parables."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወትበቊዕ፡ በማእከለ፡ መኳንንት፡ ወታስተርኢ፡ በማእከለ፡ መላእክት፡ ወትበውእ፡ ብሔረ፡ አሕዛብ፡ ነኪር፡ እስመ፡ ወጠንቆሙ፡ ለእጓለ፡ እመሕያው፡ በሠናይትኒ፡ ወበእኪትኒ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትበቊዕ",
+          "t": "wätəbäqwiʿə",
+          "gl": ""
+        },
+        {
+          "g": "በማእከለ",
+          "t": "bämaʾəkälä",
+          "gl": ""
+        },
+        {
+          "g": "መኳንንት",
+          "t": "mäkwanənətə",
+          "gl": ""
+        },
+        {
+          "g": "ወታስተርኢ",
+          "t": "wätasətärəʾi",
+          "gl": ""
+        },
+        {
+          "g": "በማእከለ",
+          "t": "bämaʾəkälä",
+          "gl": ""
+        },
+        {
+          "g": "መላእክት",
+          "t": "mälaʾəkətə",
+          "gl": ""
+        },
+        {
+          "g": "ወትበውእ",
+          "t": "wätəbäwəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ብሔረ",
+          "t": "bəḥerä",
+          "gl": ""
+        },
+        {
+          "g": "አሕዛብ",
+          "t": "ʾäḥəzabə",
+          "gl": ""
+        },
+        {
+          "g": "ነኪር",
+          "t": "näkirə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ወጠንቆሙ",
+          "t": "wäṭänəqomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእጓለ",
+          "t": "läʾəgwalä",
+          "gl": ""
+        },
+        {
+          "g": "እመሕያው",
+          "t": "ʾəmäḥəyawə",
+          "gl": ""
+        },
+        {
+          "g": "በሠናይትኒ",
+          "t": "bäśänayətəni",
+          "gl": ""
+        },
+        {
+          "g": "ወበእኪትኒ",
+          "t": "wäbäʾəkitəni",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "He shall serve among great men, and appear before princes: he will travel through strange countries; for he hath tried the good and the evil among men."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወሜጠ፡ ልቦ፡ ከመ፡ ይጊሥ፡ ኀበ፡ እግዚአብሔር፡ ፈጣሪሁ፤ወ(ከመ፡)፡ ይጼሊ፡ ቅድመ፡ ልዑል፡ ወይከሥት፡ [አፉሁ]፡ ወይስእል፡ ወይትጋነይ፡ እንበይነ፡ ኀጢአቱ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሜጠ",
+          "t": "wämeṭä",
+          "gl": ""
+        },
+        {
+          "g": "ልቦ",
+          "t": "ləbo",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይጊሥ",
+          "t": "yəgiśə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ፈጣሪሁወከመ",
+          "t": "fäṭarihuwäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ይጼሊ",
+          "t": "yəṣeli",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ልዑል",
+          "t": "ləʿulə",
+          "gl": ""
+        },
+        {
+          "g": "ወይከሥት",
+          "t": "wäyəkäśətə",
+          "gl": ""
+        },
+        {
+          "g": "አፉሁ",
+          "t": "ʾäfuhu",
+          "gl": ""
+        },
+        {
+          "g": "ወይስእል",
+          "t": "wäyəsəʾələ",
+          "gl": ""
+        },
+        {
+          "g": "ወይትጋነይ",
+          "t": "wäyətəganäyə",
+          "gl": ""
+        },
+        {
+          "g": "እንበይነ",
+          "t": "ʾənəbäyənä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአቱ",
+          "t": "ḫäṭiʾätu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "He will give his heart to resort early to the Lord that made him, and will pray before the most High, and will open his mouth in prayer, and make supplication for his sins."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወእመሰ፡ ፈቀደ፡ እግዚአብሔር፡ ዘዐቢይ፡ ውእቱ፡ ወመልአ፡ ሎቱ፡ መንፈሰ፡ ጥበብ፡ ላዕሌሁ፡ ወውእቱ፡ ያነቅዕ፡ ቃለ፡ ጥበቢሁ፡ [ለሊሁ]፡ ወበጸሎት፡ ይገኒ፡ ለእግዚአብሔር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "ፈቀደ",
+          "t": "fäqädä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ዘዐቢይ",
+          "t": "zäʿäbiyə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ወመልአ",
+          "t": "wämäləʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "መንፈሰ",
+          "t": "mänəfäsä",
+          "gl": ""
+        },
+        {
+          "g": "ጥበብ",
+          "t": "ṭəbäbə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ወውእቱ",
+          "t": "wäwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ያነቅዕ",
+          "t": "yanäqəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ቃለ",
+          "t": "qalä",
+          "gl": ""
+        },
+        {
+          "g": "ጥበቢሁ",
+          "t": "ṭəbäbihu",
+          "gl": ""
+        },
+        {
+          "g": "ለሊሁ",
+          "t": "lälihu",
+          "gl": ""
+        },
+        {
+          "g": "ወበጸሎት",
+          "t": "wäbäṣälotə",
+          "gl": ""
+        },
+        {
+          "g": "ይገኒ",
+          "t": "yəgäni",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "When the great Lord will, he shall be filled with the spirit of understanding: he shall pour out wise sentences, and give thanks unto the Lord in his prayer."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወውእቱ፡ ያረትዕ፡ ሎቱ፡ ምክረ፡ ወጥበበ፡ ወያኄልዮ፡ ዘኅቡእ፡ ያእምር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወውእቱ",
+          "t": "wäwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ያረትዕ",
+          "t": "yarätəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ምክረ",
+          "t": "məkərä",
+          "gl": ""
+        },
+        {
+          "g": "ወጥበበ",
+          "t": "wäṭəbäbä",
+          "gl": ""
+        },
+        {
+          "g": "ወያኄልዮ",
+          "t": "wäyaḫeləyo",
+          "gl": ""
+        },
+        {
+          "g": "ዘኅቡእ",
+          "t": "zäḫəbuʾə",
+          "gl": ""
+        },
+        {
+          "g": "ያእምር",
+          "t": "yaʾəmərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "He shall direct his counsel and knowledge, and on his secrets shall he meditate."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወውእቱ፡ ያርኢ፡ ጥበበ፡ ትምህርቱ፡ ወይትሜካሕ፡ በሕገ፡ ኪዳኑ፡ ለእግዚአብሔር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወውእቱ",
+          "t": "wäwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ያርኢ",
+          "t": "yarəʾi",
+          "gl": ""
+        },
+        {
+          "g": "ጥበበ",
+          "t": "ṭəbäbä",
+          "gl": ""
+        },
+        {
+          "g": "ትምህርቱ",
+          "t": "təməhərətu",
+          "gl": ""
+        },
+        {
+          "g": "ወይትሜካሕ",
+          "t": "wäyətəmekaḥə",
+          "gl": ""
+        },
+        {
+          "g": "በሕገ",
+          "t": "bäḥəgä",
+          "gl": ""
+        },
+        {
+          "g": "ኪዳኑ",
+          "t": "kidanu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "He shall shew forth that which he hath learned, and shall glory in the law of the covenant of the Lord."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወብዙኃን፡ ይዌድስዎ፡ እንበይነ፡ ጥበቢሁ፡ ወኢይደመሰስ፡ ለዓለም፡ ወኢይጠፍእ፡ ዝክሩ፡ ወይቀውም፡ ስሙ፡ ለትውልደ፡ ትውልድ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወብዙኃን",
+          "t": "wäbəzuḫanə",
+          "gl": ""
+        },
+        {
+          "g": "ይዌድስዎ",
+          "t": "yəwedəsəwo",
+          "gl": ""
+        },
+        {
+          "g": "እንበይነ",
+          "t": "ʾənəbäyənä",
+          "gl": ""
+        },
+        {
+          "g": "ጥበቢሁ",
+          "t": "ṭəbäbihu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይደመሰስ",
+          "t": "wäʾiyədämäsäsə",
+          "gl": ""
+        },
+        {
+          "g": "ለዓለም",
+          "t": "läʿalämə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይጠፍእ",
+          "t": "wäʾiyəṭäfəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ዝክሩ",
+          "t": "zəkəru",
+          "gl": ""
+        },
+        {
+          "g": "ወይቀውም",
+          "t": "wäyəqäwəmə",
+          "gl": ""
+        },
+        {
+          "g": "ስሙ",
+          "t": "səmu",
+          "gl": ""
+        },
+        {
+          "g": "ለትውልደ",
+          "t": "lätəwələdä",
+          "gl": ""
+        },
+        {
+          "g": "ትውልድ",
+          "t": "təwələdə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Many shall commend his understanding; and so long as the world endureth, it shall not be blotted out; his memorial shall not depart away, and his name shall live from generation to generation."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወይትናገሩ፡ አሕዛብ፡ በጥበቢሁ፡ ወይዌድስዎ፡ በማእከለ፡ ማኅበር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይትናገሩ",
+          "t": "wäyətənagäru",
+          "gl": ""
+        },
+        {
+          "g": "አሕዛብ",
+          "t": "ʾäḥəzabə",
+          "gl": ""
+        },
+        {
+          "g": "በጥበቢሁ",
+          "t": "bäṭəbäbihu",
+          "gl": ""
+        },
+        {
+          "g": "ወይዌድስዎ",
+          "t": "wäyəwedəsəwo",
+          "gl": ""
+        },
+        {
+          "g": "በማእከለ",
+          "t": "bämaʾəkälä",
+          "gl": ""
+        },
+        {
+          "g": "ማኅበር",
+          "t": "maḫəbärə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Nations shall shew forth his wisdom, and the congregation shall declare his praise."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወይኄይስ፡ ቀዊመ፡ ስሙ፡ እምነ፡ ፲፻፡ ወእምድኅረ፡ ሞተኒ፡ ጽኑዕ፡ ግብሩ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይኄይስ",
+          "t": "wäyəḫeyəsə",
+          "gl": ""
+        },
+        {
+          "g": "ቀዊመ",
+          "t": "qäwimä",
+          "gl": ""
+        },
+        {
+          "g": "ስሙ",
+          "t": "səmu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "፲፻",
+          "t": "10100",
+          "gl": ""
+        },
+        {
+          "g": "ወእምድኅረ",
+          "t": "wäʾəmədəḫərä",
+          "gl": ""
+        },
+        {
+          "g": "ሞተኒ",
+          "t": "motäni",
+          "gl": ""
+        },
+        {
+          "g": "ጽኑዕ",
+          "t": "ṣənuʿə",
+          "gl": ""
+        },
+        {
+          "g": "ግብሩ",
+          "t": "gəbəru",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "If he die, he shall leave a greater name than a thousand: and if he live, he shall increase it."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወዓዲ፡ እኄሊ፡ ወእነግር፤….።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዓዲ",
+          "t": "wäʿadi",
+          "gl": ""
+        },
+        {
+          "g": "እኄሊ",
+          "t": "ʾəḫeli",
+          "gl": ""
+        },
+        {
+          "g": "ወእነግር…",
+          "t": "wäʾənägərə…",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Yet have I more to say, which I have thought upon; for I am filled as the moon at the full."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ስምዑኒ፡ ውሉደ፡ ጻድቃን፡ ወሥረጹ፡ ወከመ፡ ይጸጊ፡ ጽጌ፡ በውስተ፡ ጠለ፡ ገዳም፡ ጽገዩ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ስምዑኒ",
+          "t": "səməʿuni",
+          "gl": ""
+        },
+        {
+          "g": "ውሉደ",
+          "t": "wəludä",
+          "gl": ""
+        },
+        {
+          "g": "ጻድቃን",
+          "t": "ṣadəqanə",
+          "gl": ""
+        },
+        {
+          "g": "ወሥረጹ",
+          "t": "wäśəräṣu",
+          "gl": ""
+        },
+        {
+          "g": "ወከመ",
+          "t": "wäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ይጸጊ",
+          "t": "yəṣägi",
+          "gl": ""
+        },
+        {
+          "g": "ጽጌ",
+          "t": "ṣəge",
+          "gl": ""
+        },
+        {
+          "g": "በውስተ",
+          "t": "bäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ጠለ",
+          "t": "ṭälä",
+          "gl": ""
+        },
+        {
+          "g": "ገዳም",
+          "t": "gädamə",
+          "gl": ""
+        },
+        {
+          "g": "ጽገዩ",
+          "t": "ṣəgäyu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Hearken unto me, ye holy children, and bud forth as a rose growing by the brook of the field:"
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወከመ፡ መዐዛ፡ ሊባኖስ፡ ከማሁ፡ ይጥዐም፡ መዐዛክሙ፡ ወአብቊሉ፡ ፍሬክሙ፡ ከመ፡ ጽጌ፡ ረዳ፡ ወአጥዕሙ፡ ወዐዛክሙ፡ ወሰብሑ፡ ማሕሌቶ፡ ወባርክዎ፡ ለእግዚአብሔር፡ በኵሉ፡ ምግባሩ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወከመ",
+          "t": "wäkämä",
+          "gl": ""
+        },
+        {
+          "g": "መዐዛ",
+          "t": "mäʿäza",
+          "gl": ""
+        },
+        {
+          "g": "ሊባኖስ",
+          "t": "libanosə",
+          "gl": ""
+        },
+        {
+          "g": "ከማሁ",
+          "t": "kämahu",
+          "gl": ""
+        },
+        {
+          "g": "ይጥዐም",
+          "t": "yəṭəʿämə",
+          "gl": ""
+        },
+        {
+          "g": "መዐዛክሙ",
+          "t": "mäʿäzakəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወአብቊሉ",
+          "t": "wäʾäbəqwilu",
+          "gl": ""
+        },
+        {
+          "g": "ፍሬክሙ",
+          "t": "fərekəmu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ጽጌ",
+          "t": "ṣəge",
+          "gl": ""
+        },
+        {
+          "g": "ረዳ",
+          "t": "räda",
+          "gl": ""
+        },
+        {
+          "g": "ወአጥዕሙ",
+          "t": "wäʾäṭəʿəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወዐዛክሙ",
+          "t": "wäʿäzakəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወሰብሑ",
+          "t": "wäsäbəḥu",
+          "gl": ""
+        },
+        {
+          "g": "ማሕሌቶ",
+          "t": "maḥəleto",
+          "gl": ""
+        },
+        {
+          "g": "ወባርክዎ",
+          "t": "wäbarəkəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "በኵሉ",
+          "t": "bäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ምግባሩ",
+          "t": "məgəbaru",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and give ye a sweet savour as frankincense, and flourish as a lily, send forth a smell, and sing a song of praise, bless the Lord in all his works."
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ወአዕብይዎ፡ ለስሙ፡ ወግነዩ፡ ሎቱ፡ ለስብሐቲሁ፡ በ፲፻ማሕሌት፡ ወበመሰንቆ፡ ወከመዝ፡ በሉ፡ ሶበ፡ ትሴብሕዎ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአዕብይዎ",
+          "t": "wäʾäʿəbəyəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለስሙ",
+          "t": "läsəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወግነዩ",
+          "t": "wägənäyu",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ለስብሐቲሁ",
+          "t": "läsəbəḥätihu",
+          "gl": ""
+        },
+        {
+          "g": "በ፲፻ማሕሌት",
+          "t": "bä10100maḥəletə",
+          "gl": ""
+        },
+        {
+          "g": "ወበመሰንቆ",
+          "t": "wäbämäsänəqo",
+          "gl": ""
+        },
+        {
+          "g": "ወከመዝ",
+          "t": "wäkämäzə",
+          "gl": ""
+        },
+        {
+          "g": "በሉ",
+          "t": "bälu",
+          "gl": ""
+        },
+        {
+          "g": "ሶበ",
+          "t": "sobä",
+          "gl": ""
+        },
+        {
+          "g": "ትሴብሕዎ",
+          "t": "təsebəḥəwo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Magnify his name, and shew forth his praise with the songs of your lips, and with harps, and in praising him ye shall say after this manner:"
+      }
+    },
+    {
+      "num": 16,
+      "geez": "ዐቢይ፡ ግብሩ፡ ለእግዚአብሔር፡ ወፈድፋደ፡ ሠናይ፡ ወኵሉ፡ ሥርዐቱ፡ ዘበዕድሜሁ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዐቢይ",
+          "t": "ʿäbiyə",
+          "gl": ""
+        },
+        {
+          "g": "ግብሩ",
+          "t": "gəbəru",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወፈድፋደ",
+          "t": "wäfädəfadä",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይ",
+          "t": "śänayə",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ሥርዐቱ",
+          "t": "śərəʿätu",
+          "gl": ""
+        },
+        {
+          "g": "ዘበዕድሜሁ",
+          "t": "zäbäʿədəmehu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "All the works of the Lord are exceeding good, and whatsoever he commandeth shall be accomplished in due season."
+      }
+    },
+    {
+      "num": 17,
+      "geez": "ወአልቦ፡ ከመ፡ ይበሉ፡ ለምንትኑ፡ ዝንቱ፡ ወለምንትኑ፡ ዝክቱ፡ ወኵሉ፡ በጊዜሁ፡ ይትፈቀድ፡ አቀሞ፡ ለማይ፡ ከመ፡ አረፍት፡ በቃሉ፤….።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአልቦ",
+          "t": "wäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይበሉ",
+          "t": "yəbälu",
+          "gl": ""
+        },
+        {
+          "g": "ለምንትኑ",
+          "t": "lämənətənu",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ወለምንትኑ",
+          "t": "wälämənətənu",
+          "gl": ""
+        },
+        {
+          "g": "ዝክቱ",
+          "t": "zəkətu",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "በጊዜሁ",
+          "t": "bägizehu",
+          "gl": ""
+        },
+        {
+          "g": "ይትፈቀድ",
+          "t": "yətəfäqädə",
+          "gl": ""
+        },
+        {
+          "g": "አቀሞ",
+          "t": "ʾäqämo",
+          "gl": ""
+        },
+        {
+          "g": "ለማይ",
+          "t": "lämayə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "አረፍት",
+          "t": "ʾäräfətə",
+          "gl": ""
+        },
+        {
+          "g": "በቃሉ…",
+          "t": "bäqalu…",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For at time convenient they shall all be sought out: at his commandment the waters stood as an heap, and at the words of his mouth, the receptacles of waters."
+      }
+    },
+    {
+      "num": 19,
+      "geez": "ወቅድሜሁ፡ ውእቱ፡ ግብረ፡ ኵሉ፡ ዘነፍስ፡ ወአልቦ፡ ዘይክል፡ ተኀብኦ፡ እምውድመ፡ አዕይንቲሁ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወቅድሜሁ",
+          "t": "wäqədəmehu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ግብረ",
+          "t": "gəbərä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘነፍስ",
+          "t": "zänäfəsə",
+          "gl": ""
+        },
+        {
+          "g": "ወአልቦ",
+          "t": "wäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘይክል",
+          "t": "zäyəkələ",
+          "gl": ""
+        },
+        {
+          "g": "ተኀብኦ",
+          "t": "täḫäbəʾo",
+          "gl": ""
+        },
+        {
+          "g": "እምውድመ",
+          "t": "ʾəməwədəmä",
+          "gl": ""
+        },
+        {
+          "g": "አዕይንቲሁ",
+          "t": "ʾäʿəyənətihu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The works of all flesh are before him, and nothing can be hid from his eyes."
+      }
+    },
+    {
+      "num": 20,
+      "geez": "እምቅድመ፡ ይትፈጠር፡ ዓለም፡ ወእስከ፡ ለዓለም፡ ኵሎ፡ አእመረ፡ ወአልቦ፡ ምንትኒ፡ ነኪር፡ በቅድሜሁ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እምቅድመ",
+          "t": "ʾəməqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ይትፈጠር",
+          "t": "yətəfäṭärə",
+          "gl": ""
+        },
+        {
+          "g": "ዓለም",
+          "t": "ʿalämə",
+          "gl": ""
+        },
+        {
+          "g": "ወእስከ",
+          "t": "wäʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ለዓለም",
+          "t": "läʿalämə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "አእመረ",
+          "t": "ʾäʾəmärä",
+          "gl": ""
+        },
+        {
+          "g": "ወአልቦ",
+          "t": "wäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ምንትኒ",
+          "t": "mənətəni",
+          "gl": ""
+        },
+        {
+          "g": "ነኪር",
+          "t": "näkirə",
+          "gl": ""
+        },
+        {
+          "g": "በቅድሜሁ",
+          "t": "bäqədəmehu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "He seeth from everlasting to everlasting; and there is nothing wonderful before him."
+      }
+    },
+    {
+      "num": 21,
+      "geez": "ወአልቦ፡ ዘይክል፡ ይበል፡ ለምንትኑ፡ ዝንቱ፡ ወለምንትኑ፡ ዝክቱ፡ እስመ፡ ኵሉ፡ መፍቅዶሙ፡ ተፈጥረ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአልቦ",
+          "t": "wäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘይክል",
+          "t": "zäyəkələ",
+          "gl": ""
+        },
+        {
+          "g": "ይበል",
+          "t": "yəbälə",
+          "gl": ""
+        },
+        {
+          "g": "ለምንትኑ",
+          "t": "lämənətənu",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ወለምንትኑ",
+          "t": "wälämənətənu",
+          "gl": ""
+        },
+        {
+          "g": "ዝክቱ",
+          "t": "zəkətu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "መፍቅዶሙ",
+          "t": "mäfəqədomu",
+          "gl": ""
+        },
+        {
+          "g": "ተፈጥረ",
+          "t": "täfäṭərä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "A man need not to say, What is this? wherefore is that? for he hath made all things for their uses."
+      }
+    },
+    {
+      "num": 22,
+      "geez": "ወበረከቱኒ፡ ከመ፡ ማየ፡ ተከዜ፡ መልአት፡ ወከመ፡ ማየ፡ አይኅ፡ [አርወየታ፡]ለምድር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበረከቱኒ",
+          "t": "wäbäräkätuni",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ማየ",
+          "t": "mayä",
+          "gl": ""
+        },
+        {
+          "g": "ተከዜ",
+          "t": "täkäze",
+          "gl": ""
+        },
+        {
+          "g": "መልአት",
+          "t": "mäləʾätə",
+          "gl": ""
+        },
+        {
+          "g": "ወከመ",
+          "t": "wäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ማየ",
+          "t": "mayä",
+          "gl": ""
+        },
+        {
+          "g": "አይኅ",
+          "t": "ʾäyəḫə",
+          "gl": ""
+        },
+        {
+          "g": "አርወየታ",
+          "t": "ʾärəwäyäta",
+          "gl": ""
+        },
+        {
+          "g": "ለምድር",
+          "t": "lämədərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "His blessing covered the dry land as a river, and watered it as a flood."
+      }
+    },
+    {
+      "num": 23,
+      "geez": "ወከማሁ፡ መዐቱኒ፡ ከፈለቶሙ፡ ለአሕዛብ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወከማሁ",
+          "t": "wäkämahu",
+          "gl": ""
+        },
+        {
+          "g": "መዐቱኒ",
+          "t": "mäʿätuni",
+          "gl": ""
+        },
+        {
+          "g": "ከፈለቶሙ",
+          "t": "käfälätomu",
+          "gl": ""
+        },
+        {
+          "g": "ለአሕዛብ",
+          "t": "läʾäḥəzabə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "As he hath turned the waters into saltness: so shall the heathen inherit his wrath."
+      }
+    },
+    {
+      "num": 24,
+      "geez": "ርቱዕ፡ ፍናዊሁ፡ ለጻድቅ፡ ወለኃጥእሰ፡ ዕቅፍት፡ ውእቱ፡ ዘሜጦ፡ ለማይ፡ ወረሰዮ፡ ጼወ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ርቱዕ",
+          "t": "rətuʿə",
+          "gl": ""
+        },
+        {
+          "g": "ፍናዊሁ",
+          "t": "fənawihu",
+          "gl": ""
+        },
+        {
+          "g": "ለጻድቅ",
+          "t": "läṣadəqə",
+          "gl": ""
+        },
+        {
+          "g": "ወለኃጥእሰ",
+          "t": "wäläḫaṭəʾəsä",
+          "gl": ""
+        },
+        {
+          "g": "ዕቅፍት",
+          "t": "ʿəqəfətə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘሜጦ",
+          "t": "zämeṭo",
+          "gl": ""
+        },
+        {
+          "g": "ለማይ",
+          "t": "lämayə",
+          "gl": ""
+        },
+        {
+          "g": "ወረሰዮ",
+          "t": "wäräsäyo",
+          "gl": ""
+        },
+        {
+          "g": "ጼወ",
+          "t": "ṣewä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "As his ways are plain unto the holy; so are they stumbling-blocks unto the wicked."
+      }
+    },
+    {
+      "num": 25,
+      "geez": "ሠናይት፡ ለሠናያት፡ ተፈጥረት፡ እምትካት፡ ወከማሁ፡ እኪትኒ፡ ለኃጥኣን።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ሠናይት",
+          "t": "śänayətə",
+          "gl": ""
+        },
+        {
+          "g": "ለሠናያት",
+          "t": "läśänayatə",
+          "gl": ""
+        },
+        {
+          "g": "ተፈጥረት",
+          "t": "täfäṭərätə",
+          "gl": ""
+        },
+        {
+          "g": "እምትካት",
+          "t": "ʾəmətəkatə",
+          "gl": ""
+        },
+        {
+          "g": "ወከማሁ",
+          "t": "wäkämahu",
+          "gl": ""
+        },
+        {
+          "g": "እኪትኒ",
+          "t": "ʾəkitəni",
+          "gl": ""
+        },
+        {
+          "g": "ለኃጥኣን",
+          "t": "läḫaṭəʾanə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For the good are good things created from the beginning: so evil things for sinners."
+      }
+    },
+    {
+      "num": 26,
+      "geez": "ቀዳሜ፡ ኵሉ፡ መፍቅዱ፡ ለሰብእ፡ ማይ፡ ወእሳት፡ ወኀጺን፡ ወጼው፡ ወእክል፡ ሥርናይ፡ ወመዓር፡ ወሐሊብ፡ ደመ፡ አስካል፡ ወቅብእ፡ ወልብስ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ቀዳሜ",
+          "t": "qädame",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "መፍቅዱ",
+          "t": "mäfəqədu",
+          "gl": ""
+        },
+        {
+          "g": "ለሰብእ",
+          "t": "läsäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ማይ",
+          "t": "mayə",
+          "gl": ""
+        },
+        {
+          "g": "ወእሳት",
+          "t": "wäʾəsatə",
+          "gl": ""
+        },
+        {
+          "g": "ወኀጺን",
+          "t": "wäḫäṣinə",
+          "gl": ""
+        },
+        {
+          "g": "ወጼው",
+          "t": "wäṣewə",
+          "gl": ""
+        },
+        {
+          "g": "ወእክል",
+          "t": "wäʾəkələ",
+          "gl": ""
+        },
+        {
+          "g": "ሥርናይ",
+          "t": "śərənayə",
+          "gl": ""
+        },
+        {
+          "g": "ወመዓር",
+          "t": "wämäʿarə",
+          "gl": ""
+        },
+        {
+          "g": "ወሐሊብ",
+          "t": "wäḥälibə",
+          "gl": ""
+        },
+        {
+          "g": "ደመ",
+          "t": "dämä",
+          "gl": ""
+        },
+        {
+          "g": "አስካል",
+          "t": "ʾäsəkalə",
+          "gl": ""
+        },
+        {
+          "g": "ወቅብእ",
+          "t": "wäqəbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወልብስ",
+          "t": "wäləbəsə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The principal things for the whole use of man's life are water, fire, iron, and salt, flour of wheat, honey, milk, and the blood of the grape, and oil, and clothing."
+      }
+    },
+    {
+      "num": 27,
+      "geez": "ዝንቱ፡ ኵሉ፡ በረከቶሙ፡ ለጻድቃን፡ ወከማሁ፡ ለኃጥኣን፡ ይትመየጦሙ፡ በእኩይ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "በረከቶሙ",
+          "t": "bäräkätomu",
+          "gl": ""
+        },
+        {
+          "g": "ለጻድቃን",
+          "t": "läṣadəqanə",
+          "gl": ""
+        },
+        {
+          "g": "ወከማሁ",
+          "t": "wäkämahu",
+          "gl": ""
+        },
+        {
+          "g": "ለኃጥኣን",
+          "t": "läḫaṭəʾanə",
+          "gl": ""
+        },
+        {
+          "g": "ይትመየጦሙ",
+          "t": "yətəmäyäṭomu",
+          "gl": ""
+        },
+        {
+          "g": "በእኩይ",
+          "t": "bäʾəkuyə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "All these things are for good to the godly: so to the sinners they are turned into evil."
+      }
+    },
+    {
+      "num": 28,
+      "geez": "ወቦ፡ መንፈስ፡ ለተበቅሎ፡ ተፈጥረት፡ ወበመንሱቶሙ፡ ያዐብይዋ፡ ለመቅሠፍቶሙ፡ ወበዕድሜሆሙ፡ ይዘረው፡ ኀይሎሙ፡ ወመቅሠፍተ፡ ፈጣሪሆሙ፡ ይቀርቦሙ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወቦ",
+          "t": "wäbo",
+          "gl": ""
+        },
+        {
+          "g": "መንፈስ",
+          "t": "mänəfäsə",
+          "gl": ""
+        },
+        {
+          "g": "ለተበቅሎ",
+          "t": "lätäbäqəlo",
+          "gl": ""
+        },
+        {
+          "g": "ተፈጥረት",
+          "t": "täfäṭərätə",
+          "gl": ""
+        },
+        {
+          "g": "ወበመንሱቶሙ",
+          "t": "wäbämänəsutomu",
+          "gl": ""
+        },
+        {
+          "g": "ያዐብይዋ",
+          "t": "yaʿäbəyəwa",
+          "gl": ""
+        },
+        {
+          "g": "ለመቅሠፍቶሙ",
+          "t": "lämäqəśäfətomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበዕድሜሆሙ",
+          "t": "wäbäʿədəmehomu",
+          "gl": ""
+        },
+        {
+          "g": "ይዘረው",
+          "t": "yəzäräwə",
+          "gl": ""
+        },
+        {
+          "g": "ኀይሎሙ",
+          "t": "ḫäyəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ወመቅሠፍተ",
+          "t": "wämäqəśäfətä",
+          "gl": ""
+        },
+        {
+          "g": "ፈጣሪሆሙ",
+          "t": "fäṭarihomu",
+          "gl": ""
+        },
+        {
+          "g": "ይቀርቦሙ",
+          "t": "yəqärəbomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "There be spirits that are created for vengeance, which in their fury lay on sore strokes; in the time of destruction they pour out their force, and appease the wrath of him that made them."
+      }
+    },
+    {
+      "num": 29,
+      "geez": "እሳት፡ ወበረድ፡ ወረኃብ፡ ወብድብድ፡ ኵሉ፡ ዝንቱ፡ ለተበቅሎ፡ ተፈጥረ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እሳት",
+          "t": "ʾəsatə",
+          "gl": ""
+        },
+        {
+          "g": "ወበረድ",
+          "t": "wäbärädə",
+          "gl": ""
+        },
+        {
+          "g": "ወረኃብ",
+          "t": "wäräḫabə",
+          "gl": ""
+        },
+        {
+          "g": "ወብድብድ",
+          "t": "wäbədəbədə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ለተበቅሎ",
+          "t": "lätäbäqəlo",
+          "gl": ""
+        },
+        {
+          "g": "ተፈጥረ",
+          "t": "täfäṭərä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Fire, and hail, and famine, and death, all these were created for vengeance;"
+      }
+    },
+    {
+      "num": 30,
+      "geez": "ስነነ፡ አራዊተ፡ ምድር፡ ወዐቃርብት፡ ወአፍዖት፡ ወኲናት፡ ከመ፡ ትሠርዎሙ፡ ለኃጥኣን።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ስነነ",
+          "t": "sənänä",
+          "gl": ""
+        },
+        {
+          "g": "አራዊተ",
+          "t": "ʾärawitä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ወዐቃርብት",
+          "t": "wäʿäqarəbətə",
+          "gl": ""
+        },
+        {
+          "g": "ወአፍዖት",
+          "t": "wäʾäfəʿotə",
+          "gl": ""
+        },
+        {
+          "g": "ወኲናት",
+          "t": "wäkwinatə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ትሠርዎሙ",
+          "t": "təśärəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለኃጥኣን",
+          "t": "läḫaṭəʾanə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "teeth of wild beasts, and scorpions, serpents, and the sword, punishing the wicked to destruction,"
+      }
+    },
+    {
+      "num": 31,
+      "geez": "ወውእቱሰ፡[ያስተፌሥሕ፡]በሣህሉ፡ ወያስተዴሉ፡ ለዓለም፡ መፍቅደ፡ ወኵሉ፡ እምከመ፡ በጽሐ፡ ዕድሜሁ፡ ወኮነ፡ ጊዜሁ፡ የኀልቅ፡ ሶቤ[ሃ]።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወውእቱሰ",
+          "t": "wäwəʾətusä",
+          "gl": ""
+        },
+        {
+          "g": "ያስተፌሥሕ",
+          "t": "yasətäfeśəḥə",
+          "gl": ""
+        },
+        {
+          "g": "በሣህሉ",
+          "t": "bäśahəlu",
+          "gl": ""
+        },
+        {
+          "g": "ወያስተዴሉ",
+          "t": "wäyasətädelu",
+          "gl": ""
+        },
+        {
+          "g": "ለዓለም",
+          "t": "läʿalämə",
+          "gl": ""
+        },
+        {
+          "g": "መፍቅደ",
+          "t": "mäfəqədä",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "እምከመ",
+          "t": "ʾəməkämä",
+          "gl": ""
+        },
+        {
+          "g": "በጽሐ",
+          "t": "bäṣəḥä",
+          "gl": ""
+        },
+        {
+          "g": "ዕድሜሁ",
+          "t": "ʿədəmehu",
+          "gl": ""
+        },
+        {
+          "g": "ወኮነ",
+          "t": "wäkonä",
+          "gl": ""
+        },
+        {
+          "g": "ጊዜሁ",
+          "t": "gizehu",
+          "gl": ""
+        },
+        {
+          "g": "የኀልቅ",
+          "t": "yäḫäləqə",
+          "gl": ""
+        },
+        {
+          "g": "ሶቤሃ",
+          "t": "sobeha",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "shall rejoice in his commandment, and they shall be ready upon earth, when need is; and when their time is come, they shall not go beyond his word."
+      }
+    },
+    {
+      "num": 32,
+      "geez": "እንበይነ፡ ዝንቱ፡ እምፍጥረቱ፡ ተሠርዐ፡ ኵሉ፡ ወኀለይክዎ፡ ለዝንቱ፡ ወለካእክዎ፡ ውስተ፡ መጽሐፍ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እንበይነ",
+          "t": "ʾənəbäyənä",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "እምፍጥረቱ",
+          "t": "ʾəməfəṭərätu",
+          "gl": ""
+        },
+        {
+          "g": "ተሠርዐ",
+          "t": "täśärəʿä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ወኀለይክዎ",
+          "t": "wäḫäläyəkəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለዝንቱ",
+          "t": "läzənətu",
+          "gl": ""
+        },
+        {
+          "g": "ወለካእክዎ",
+          "t": "wäläkaʾəkəwo",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "መጽሐፍ",
+          "t": "mäṣəḥäfə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Therefore from the beginning I was resolved, and thought upon these things, and have left them in writing."
+      }
+    },
+    {
+      "num": 33,
+      "geez": "እስመ፡ ኵሉ፡ ግብሩ፡ ለእግዚአብሔር፡ ሠናይ፡ ወይሁብ፡ ለሰብእ፡ ኵሉ፡ መፍቅዶ፡ በበጊዜሁ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ግብሩ",
+          "t": "gəbəru",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይ",
+          "t": "śänayə",
+          "gl": ""
+        },
+        {
+          "g": "ወይሁብ",
+          "t": "wäyəhubə",
+          "gl": ""
+        },
+        {
+          "g": "ለሰብእ",
+          "t": "läsäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "መፍቅዶ",
+          "t": "mäfəqədo",
+          "gl": ""
+        },
+        {
+          "g": "በበጊዜሁ",
+          "t": "bäbägizehu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "All the works of the Lord are good: and he will give every needful thing in due season."
+      }
+    },
+    {
+      "num": 34,
+      "geez": "ወአልቦ፡ ዘይብሎ፡ ዘንተሰ፡ እኩየ፡ ፈጠርከ፡ ወዝክተሰ፡ አሠነይከ፡ እስመ፡ ለኵሉ፡ ዕለቱ፡[ይንእዶ]።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአልቦ",
+          "t": "wäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘይብሎ",
+          "t": "zäyəbəlo",
+          "gl": ""
+        },
+        {
+          "g": "ዘንተሰ",
+          "t": "zänətäsä",
+          "gl": ""
+        },
+        {
+          "g": "እኩየ",
+          "t": "ʾəkuyä",
+          "gl": ""
+        },
+        {
+          "g": "ፈጠርከ",
+          "t": "fäṭärəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወዝክተሰ",
+          "t": "wäzəkətäsä",
+          "gl": ""
+        },
+        {
+          "g": "አሠነይከ",
+          "t": "ʾäśänäyəkä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ለኵሉ",
+          "t": "läkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዕለቱ",
+          "t": "ʿəlätu",
+          "gl": ""
+        },
+        {
+          "g": "ይንእዶ",
+          "t": "yənəʾədo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "So that a man cannot say, This is worse than that: for in time they shall all be well approved."
+      }
+    },
+    {
+      "num": 35,
+      "geez": "ወይእዜኒ፡ በኵሉ፡ ልብክሙ፡ ወበአፉክሙ፡ ሰብሕዎ፡ ለእግዚአብሔር፡ ወባርኩ፡ ለስሙ፡ በኵሉ፡ ጊዜ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይእዜኒ",
+          "t": "wäyəʾəzeni",
+          "gl": ""
+        },
+        {
+          "g": "በኵሉ",
+          "t": "bäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ልብክሙ",
+          "t": "ləbəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወበአፉክሙ",
+          "t": "wäbäʾäfukəmu",
+          "gl": ""
+        },
+        {
+          "g": "ሰብሕዎ",
+          "t": "säbəḥəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወባርኩ",
+          "t": "wäbarəku",
+          "gl": ""
+        },
+        {
+          "g": "ለስሙ",
+          "t": "läsəmu",
+          "gl": ""
+        },
+        {
+          "g": "በኵሉ",
+          "t": "bäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ጊዜ",
+          "t": "gize",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And therefore praise ye the Lord with the whole heart and mouth, and bless the name of the Lord."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    }
+  }
+}

@@ -1,0 +1,454 @@
+{
+  "book": "1En",
+  "chapter": 36,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወእምህየ፡ ሖርኩ፡ መንገለ፡ አዜብ፡ በአጽናፈ፡ ምድር፡ ወበህየ፡ ርኢኩ፡ ሠለስተ፡ ኀዋኅወ፡ ሰማይ፡ ርኅዋተ፡ ወይወፅእ፡ እምህየ፡ አዜብ፡ ወጠል፡ ወዝናም፡ ወነፋስ።",
+      "translation": "And from thence I went to the south to the ends of the earth, and saw there three open portals of the heaven: and thence there come dew, rain, †and wind†.",
+      "words": [
+        {
+          "g": "ወእምህየ",
+          "t": "wäʾəməhəyä",
+          "gl": ""
+        },
+        {
+          "g": "ሖርኩ",
+          "t": "ḥorəku",
+          "gl": ""
+        },
+        {
+          "g": "መንገለ",
+          "t": "mänəgälä",
+          "gl": ""
+        },
+        {
+          "g": "አዜብ",
+          "t": "ʾäzebə",
+          "gl": ""
+        },
+        {
+          "g": "በአጽናፈ",
+          "t": "bäʾäṣənafä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ወበህየ",
+          "t": "wäbähəyä",
+          "gl": ""
+        },
+        {
+          "g": "ርኢኩ",
+          "t": "rəʾiku",
+          "gl": ""
+        },
+        {
+          "g": "ሠለስተ",
+          "t": "śäläsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀዋኅወ",
+          "t": "ḫäwaḫəwä",
+          "gl": ""
+        },
+        {
+          "g": "ሰማይ",
+          "t": "sämayə",
+          "gl": ""
+        },
+        {
+          "g": "ርኅዋተ",
+          "t": "rəḫəwatä",
+          "gl": ""
+        },
+        {
+          "g": "ወይወፅእ",
+          "t": "wäyəwäṣ́əʾə",
+          "gl": ""
+        },
+        {
+          "g": "እምህየ",
+          "t": "ʾəməhəyä",
+          "gl": ""
+        },
+        {
+          "g": "አዜብ",
+          "t": "ʾäzebə",
+          "gl": ""
+        },
+        {
+          "g": "ወጠል",
+          "t": "wäṭälə",
+          "gl": ""
+        },
+        {
+          "g": "ወዝናም",
+          "t": "wäzənamə",
+          "gl": ""
+        },
+        {
+          "g": "ወነፋስ",
+          "t": "wänäfasə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "geez": "ወእምህየ፡ ሖርኩ፡ መንገለ፡ ጽባሕ፡ በአጽናፈ፡ ሰማይ፡ ወበህየ፡ ርኢኩ፡ ሠለስተ፡ ኀዋኅወ፡ ሰማይ፡ ርኅዋተ፡ መንገለ፡ ጽባሕ፡ ወበላዕሌሆሙ፡ ኀዋኅው፡ ንኡሳን።",
+      "translation": "And from thence I went to the east to the ends of the heaven, and saw here the three eastern portals of heaven open and small portals above them.",
+      "words": [
+        {
+          "g": "ወእምህየ",
+          "t": "wäʾəməhəyä",
+          "gl": ""
+        },
+        {
+          "g": "ሖርኩ",
+          "t": "ḥorəku",
+          "gl": ""
+        },
+        {
+          "g": "መንገለ",
+          "t": "mänəgälä",
+          "gl": ""
+        },
+        {
+          "g": "ጽባሕ",
+          "t": "ṣəbaḥə",
+          "gl": ""
+        },
+        {
+          "g": "በአጽናፈ",
+          "t": "bäʾäṣənafä",
+          "gl": ""
+        },
+        {
+          "g": "ሰማይ",
+          "t": "sämayə",
+          "gl": ""
+        },
+        {
+          "g": "ወበህየ",
+          "t": "wäbähəyä",
+          "gl": ""
+        },
+        {
+          "g": "ርኢኩ",
+          "t": "rəʾiku",
+          "gl": ""
+        },
+        {
+          "g": "ሠለስተ",
+          "t": "śäläsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀዋኅወ",
+          "t": "ḫäwaḫəwä",
+          "gl": ""
+        },
+        {
+          "g": "ሰማይ",
+          "t": "sämayə",
+          "gl": ""
+        },
+        {
+          "g": "ርኅዋተ",
+          "t": "rəḫəwatä",
+          "gl": ""
+        },
+        {
+          "g": "መንገለ",
+          "t": "mänəgälä",
+          "gl": ""
+        },
+        {
+          "g": "ጽባሕ",
+          "t": "ṣəbaḥə",
+          "gl": ""
+        },
+        {
+          "g": "ወበላዕሌሆሙ",
+          "t": "wäbälaʿəlehomu",
+          "gl": ""
+        },
+        {
+          "g": "ኀዋኅው",
+          "t": "ḫäwaḫəwə",
+          "gl": ""
+        },
+        {
+          "g": "ንኡሳን",
+          "t": "nəʾusanə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "geez": "በበ፡ አሐዱ፡ እምእልኩ፡ ኀዋኅው፡ ንኡሳን፡ የኀልፉ፡ ከዋክብተ፡ ሰማይ፡ ወየሐውሩ፡ ምዕራበ፡ በፍኖት፡ እንተ፡ ተርእየት፡ ሎሙ።",
+      "translation": "Through each of these small portals pass the stars of heaven and run their course to the west on the path which is shown to them.",
+      "words": [
+        {
+          "g": "በበ",
+          "t": "bäbä",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "እምእልኩ",
+          "t": "ʾəməʾələku",
+          "gl": ""
+        },
+        {
+          "g": "ኀዋኅው",
+          "t": "ḫäwaḫəwə",
+          "gl": ""
+        },
+        {
+          "g": "ንኡሳን",
+          "t": "nəʾusanə",
+          "gl": ""
+        },
+        {
+          "g": "የኀልፉ",
+          "t": "yäḫäləfu",
+          "gl": ""
+        },
+        {
+          "g": "ከዋክብተ",
+          "t": "käwakəbətä",
+          "gl": ""
+        },
+        {
+          "g": "ሰማይ",
+          "t": "sämayə",
+          "gl": ""
+        },
+        {
+          "g": "ወየሐውሩ",
+          "t": "wäyäḥäwəru",
+          "gl": ""
+        },
+        {
+          "g": "ምዕራበ",
+          "t": "məʿərabä",
+          "gl": ""
+        },
+        {
+          "g": "በፍኖት",
+          "t": "bäfənotə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ተርእየት",
+          "t": "tärəʾəyätə",
+          "gl": ""
+        },
+        {
+          "g": "ሎሙ",
+          "t": "lomu",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 4,
+      "geez": "ወሶበ፡ ርኢኩ፡ ባረኩ፡ ወበኵሉ፡ ጊዜ፡ እባርኮ፡ ለእግዚአ፡ ስብሐት፡ ዘገብረ፡ ተኣምራተ፡ ዐቢያነ፡ ወስቡሓነ፡ ከመ፡ ያርኢ፡ ዕበየ፡ ግብሩ፡ ለመላእክቲሁ፡ ወለነፍሳተ፡ ሰብእ፡ ከመ፡ ይሰብሑ፡ ግብሮ፡ ወኵሉ፡ ተግባሩ፡ ከመ፡ ይርአዩ፡ ግብረ፡ ኀይሉ፡ ወይሰብሕዎ፡ ለግብረ፡ እደዊሁ፡ ዐቢይ፡ ወይባርክዎ፡ እስከ፡ ለዓለም።",
+      "translation": "And as often as I saw I blessed always the Lord of Glory, and I continued to bless the Lord of Glory who has wrought great and glorious wonders, to show the greatness of His work to the angels and to spirits and to men, that they might praise His work and all His creation: that they might see the work of His might and praise the great work of His hands and bless Him for ever.",
+      "words": [
+        {
+          "g": "ወሶበ",
+          "t": "wäsobä",
+          "gl": ""
+        },
+        {
+          "g": "ርኢኩ",
+          "t": "rəʾiku",
+          "gl": ""
+        },
+        {
+          "g": "ባረኩ",
+          "t": "baräku",
+          "gl": ""
+        },
+        {
+          "g": "ወበኵሉ",
+          "t": "wäbäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ጊዜ",
+          "t": "gize",
+          "gl": ""
+        },
+        {
+          "g": "እባርኮ",
+          "t": "ʾəbarəko",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአ",
+          "t": "läʾəgəziʾä",
+          "gl": ""
+        },
+        {
+          "g": "ስብሐት",
+          "t": "səbəḥätə",
+          "gl": ""
+        },
+        {
+          "g": "ዘገብረ",
+          "t": "zägäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ተኣምራተ",
+          "t": "täʾaməratä",
+          "gl": ""
+        },
+        {
+          "g": "ዐቢያነ",
+          "t": "ʿäbiyanä",
+          "gl": ""
+        },
+        {
+          "g": "ወስቡሓነ",
+          "t": "wäsəbuḥanä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ያርኢ",
+          "t": "yarəʾi",
+          "gl": ""
+        },
+        {
+          "g": "ዕበየ",
+          "t": "ʿəbäyä",
+          "gl": ""
+        },
+        {
+          "g": "ግብሩ",
+          "t": "gəbəru",
+          "gl": ""
+        },
+        {
+          "g": "ለመላእክቲሁ",
+          "t": "lämälaʾəkətihu",
+          "gl": ""
+        },
+        {
+          "g": "ወለነፍሳተ",
+          "t": "wälänäfəsatä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይሰብሑ",
+          "t": "yəsäbəḥu",
+          "gl": ""
+        },
+        {
+          "g": "ግብሮ",
+          "t": "gəbəro",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ተግባሩ",
+          "t": "tägəbaru",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይርአዩ",
+          "t": "yərəʾäyu",
+          "gl": ""
+        },
+        {
+          "g": "ግብረ",
+          "t": "gəbərä",
+          "gl": ""
+        },
+        {
+          "g": "ኀይሉ",
+          "t": "ḫäyəlu",
+          "gl": ""
+        },
+        {
+          "g": "ወይሰብሕዎ",
+          "t": "wäyəsäbəḥəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለግብረ",
+          "t": "lägəbərä",
+          "gl": ""
+        },
+        {
+          "g": "እደዊሁ",
+          "t": "ʾədäwihu",
+          "gl": ""
+        },
+        {
+          "g": "ዐቢይ",
+          "t": "ʿäbiyə",
+          "gl": ""
+        },
+        {
+          "g": "ወይባርክዎ",
+          "t": "wäyəbarəkəwo",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ለዓለም",
+          "t": "läʿalämə",
+          "gl": ""
+        }
+      ]
+    }
+  ]
+}

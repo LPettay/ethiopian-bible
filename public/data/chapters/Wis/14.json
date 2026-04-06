@@ -1,0 +1,2727 @@
+{
+  "book": "Wis",
+  "chapter": 14,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወካዕበ፡ ሶበ፡ ይፌኑ፡ ሰብአ፡ ይዕርግ፡ ሀመረ፡ ውስተ፡ ባሕር፡ እንዘ፡ ይፈቅድ፡ ይንግድ፡ ውስተ፡ ፀዋጋት፡ ሞገዳት፡ ይስእል፡ ወይጸርህ፡ ኀበ፡ ዕፅ፡ ዘየኃሥር፡ ወይደክም፡ እምሐመር፡ እንተ፡ ትፀውሮ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወካዕበ",
+          "t": "wäkaʿəbä",
+          "gl": ""
+        },
+        {
+          "g": "ሶበ",
+          "t": "sobä",
+          "gl": ""
+        },
+        {
+          "g": "ይፌኑ",
+          "t": "yəfenu",
+          "gl": ""
+        },
+        {
+          "g": "ሰብአ",
+          "t": "säbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ይዕርግ",
+          "t": "yəʿərəgə",
+          "gl": ""
+        },
+        {
+          "g": "ሀመረ",
+          "t": "hämärä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ባሕር",
+          "t": "baḥərə",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ይፈቅድ",
+          "t": "yəfäqədə",
+          "gl": ""
+        },
+        {
+          "g": "ይንግድ",
+          "t": "yənəgədə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ፀዋጋት",
+          "t": "ṣ́äwagatə",
+          "gl": ""
+        },
+        {
+          "g": "ሞገዳት",
+          "t": "mogädatə",
+          "gl": ""
+        },
+        {
+          "g": "ይስእል",
+          "t": "yəsəʾələ",
+          "gl": ""
+        },
+        {
+          "g": "ወይጸርህ",
+          "t": "wäyəṣärəhə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ዕፅ",
+          "t": "ʿəṣ́ə",
+          "gl": ""
+        },
+        {
+          "g": "ዘየኃሥር",
+          "t": "zäyäḫaśərə",
+          "gl": ""
+        },
+        {
+          "g": "ወይደክም",
+          "t": "wäyədäkəmə",
+          "gl": ""
+        },
+        {
+          "g": "እምሐመር",
+          "t": "ʾəməḥämärə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ትፀውሮ",
+          "t": "təṣ́äwəro",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Again, one preparing himself to sail, and about to pass through the raging waves, calleth upon a piece of wood more rotten than the vessel that carrieth him."
+      }
+    },
+    {
+      "num": 2,
+      "geez": "እስመ፡ ለዝኩ፡ ጣዖት፡ በፍትወተ፡ ረባኅ፡ ተኬንዎ፡ ወኬንያ፡ በጥበብ፡ ገብሮ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ለዝኩ",
+          "t": "läzəku",
+          "gl": ""
+        },
+        {
+          "g": "ጣዖት",
+          "t": "ṭaʿotə",
+          "gl": ""
+        },
+        {
+          "g": "በፍትወተ",
+          "t": "bäfətəwätä",
+          "gl": ""
+        },
+        {
+          "g": "ረባኅ",
+          "t": "räbaḫə",
+          "gl": ""
+        },
+        {
+          "g": "ተኬንዎ",
+          "t": "täkenəwo",
+          "gl": ""
+        },
+        {
+          "g": "ወኬንያ",
+          "t": "wäkenəya",
+          "gl": ""
+        },
+        {
+          "g": "በጥበብ",
+          "t": "bäṭəbäbə",
+          "gl": ""
+        },
+        {
+          "g": "ገብሮ",
+          "t": "gäbəro",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For verily desire of gain devised that, and the workman built it by his skill."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወእንቲአከሰ፡ ኃዳፍ፡ ኦ፡ አብ፡ ትሠርዕ፡ ኵሎ፡ እስመ፡ ወሀብከ፡ ውስተ፡ ባሕር፡ ፍኖተ፡ ወውስተ፡ ሞገድ፡ አሠረ፡ ጽኑዐ፡ ታርኢ፡ ከመ፡ ትክል፡ ኵሎ፡ አድኅኖ፡ በጽድቅ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእንቲአከሰ",
+          "t": "wäʾənətiʾäkäsä",
+          "gl": ""
+        },
+        {
+          "g": "ኃዳፍ",
+          "t": "ḫadafə",
+          "gl": ""
+        },
+        {
+          "g": "ኦ",
+          "t": "ʾo",
+          "gl": ""
+        },
+        {
+          "g": "አብ",
+          "t": "ʾäbə",
+          "gl": ""
+        },
+        {
+          "g": "ትሠርዕ",
+          "t": "təśärəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ወሀብከ",
+          "t": "wähäbəkä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ባሕር",
+          "t": "baḥərə",
+          "gl": ""
+        },
+        {
+          "g": "ፍኖተ",
+          "t": "fənotä",
+          "gl": ""
+        },
+        {
+          "g": "ወውስተ",
+          "t": "wäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሞገድ",
+          "t": "mogädə",
+          "gl": ""
+        },
+        {
+          "g": "አሠረ",
+          "t": "ʾäśärä",
+          "gl": ""
+        },
+        {
+          "g": "ጽኑዐ",
+          "t": "ṣənuʿä",
+          "gl": ""
+        },
+        {
+          "g": "ታርኢ",
+          "t": "tarəʾi",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ትክል",
+          "t": "təkələ",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "አድኅኖ",
+          "t": "ʾädəḫəno",
+          "gl": ""
+        },
+        {
+          "g": "በጽድቅ",
+          "t": "bäṣədəqə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But thy providence, O Father, governeth it: for thou hast made a way in the sea, and a safe path in the waves;"
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወበአዕርጎሂ፡ ውስተ፡ ሐመር፡ ወዘእንበለ፡ ኪንሂ፡ ዓዲ፡ አሕለፍከ፡ እስመ፡ ትፈቅድ፡ ከመ፡ ኢይኩን፡ ጽሩዐ፡ ምግባሪሃ፡ ለጥበብከ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበአዕርጎሂ",
+          "t": "wäbäʾäʿərəgohi",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሐመር",
+          "t": "ḥämärə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘእንበለ",
+          "t": "wäzäʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "ኪንሂ",
+          "t": "kinəhi",
+          "gl": ""
+        },
+        {
+          "g": "ዓዲ",
+          "t": "ʿadi",
+          "gl": ""
+        },
+        {
+          "g": "አሕለፍከ",
+          "t": "ʾäḥəläfəkä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ትፈቅድ",
+          "t": "təfäqədə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ኢይኩን",
+          "t": "ʾiyəkunə",
+          "gl": ""
+        },
+        {
+          "g": "ጽሩዐ",
+          "t": "ṣəruʿä",
+          "gl": ""
+        },
+        {
+          "g": "ምግባሪሃ",
+          "t": "məgəbariha",
+          "gl": ""
+        },
+        {
+          "g": "ለጥበብከ",
+          "t": "läṭəbäbəkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "shewing that thou canst save from all danger: yea, though a man went to sea without art."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "በእንተ፡ ዝንቱ፡ ይትአመኑ፡ ሰብእ፡ ነፍሶሙ፡ ውስተ፡ ዕፅ፡ ምኑን፡ ወኅሡር፡ ወይትዓደዉ፡ ማእከለ፡ መዋግድ፡ በሐመር፡ ንኡስ፡ ወበአርማስ፡ ወይድኅኑ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ይትአመኑ",
+          "t": "yətəʾämänu",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ነፍሶሙ",
+          "t": "näfəsomu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዕፅ",
+          "t": "ʿəṣ́ə",
+          "gl": ""
+        },
+        {
+          "g": "ምኑን",
+          "t": "mənunə",
+          "gl": ""
+        },
+        {
+          "g": "ወኅሡር",
+          "t": "wäḫəśurə",
+          "gl": ""
+        },
+        {
+          "g": "ወይትዓደዉ",
+          "t": "wäyətəʿadäwu",
+          "gl": ""
+        },
+        {
+          "g": "ማእከለ",
+          "t": "maʾəkälä",
+          "gl": ""
+        },
+        {
+          "g": "መዋግድ",
+          "t": "mäwagədə",
+          "gl": ""
+        },
+        {
+          "g": "በሐመር",
+          "t": "bäḥämärə",
+          "gl": ""
+        },
+        {
+          "g": "ንኡስ",
+          "t": "nəʾusə",
+          "gl": ""
+        },
+        {
+          "g": "ወበአርማስ",
+          "t": "wäbäʾärəmasə",
+          "gl": ""
+        },
+        {
+          "g": "ወይድኅኑ",
+          "t": "wäyədəḫənu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Nevertheless thou wouldest not that the works of thy wisdom should be idle, and therefore do men commit their lives to a small piece of wood, and passing the rough sea in a weak vessel are saved."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወቀዲሙኒ፡ እመ፡ ተኀጒሉ፡ ዕቡያን፡ ረዓይት፡ ውስተ፡ ዕፅ፡ ተስፋ፡ ዓለም፡ ተፀዊሮ፡ ወተፀዊኖ፡ ድኅነ፡ ወኀደገ፡ ለዓለም፡ ዘርአ፡ ትውልድ፡ ተኀዲፎ፡ በእደ፡ ዚአከ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወቀዲሙኒ",
+          "t": "wäqädimuni",
+          "gl": ""
+        },
+        {
+          "g": "እመ",
+          "t": "ʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ተኀጒሉ",
+          "t": "täḫägwilu",
+          "gl": ""
+        },
+        {
+          "g": "ዕቡያን",
+          "t": "ʿəbuyanə",
+          "gl": ""
+        },
+        {
+          "g": "ረዓይት",
+          "t": "räʿayətə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዕፅ",
+          "t": "ʿəṣ́ə",
+          "gl": ""
+        },
+        {
+          "g": "ተስፋ",
+          "t": "täsəfa",
+          "gl": ""
+        },
+        {
+          "g": "ዓለም",
+          "t": "ʿalämə",
+          "gl": ""
+        },
+        {
+          "g": "ተፀዊሮ",
+          "t": "täṣ́äwiro",
+          "gl": ""
+        },
+        {
+          "g": "ወተፀዊኖ",
+          "t": "wätäṣ́äwino",
+          "gl": ""
+        },
+        {
+          "g": "ድኅነ",
+          "t": "dəḫənä",
+          "gl": ""
+        },
+        {
+          "g": "ወኀደገ",
+          "t": "wäḫädägä",
+          "gl": ""
+        },
+        {
+          "g": "ለዓለም",
+          "t": "läʿalämə",
+          "gl": ""
+        },
+        {
+          "g": "ዘርአ",
+          "t": "zärəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ትውልድ",
+          "t": "təwələdə",
+          "gl": ""
+        },
+        {
+          "g": "ተኀዲፎ",
+          "t": "täḫädifo",
+          "gl": ""
+        },
+        {
+          "g": "በእደ",
+          "t": "bäʾədä",
+          "gl": ""
+        },
+        {
+          "g": "ዚአከ",
+          "t": "ziʾäkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For in the old time also, when the proud giants perished, the hope of the world governed by thy hand escaped in a weak vessel, and left to all ages a seed of generation."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "እስመ፡ ተባረክ፡ ዕፅ፡ በዘቦቱ፡ ይትገበር፡ ጽድቅ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ተባረክ",
+          "t": "täbaräkə",
+          "gl": ""
+        },
+        {
+          "g": "ዕፅ",
+          "t": "ʿəṣ́ə",
+          "gl": ""
+        },
+        {
+          "g": "በዘቦቱ",
+          "t": "bäzäbotu",
+          "gl": ""
+        },
+        {
+          "g": "ይትገበር",
+          "t": "yətəgäbärə",
+          "gl": ""
+        },
+        {
+          "g": "ጽድቅ",
+          "t": "ṣədəqə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For blessed is the wood whereby righteousness cometh."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወዘበዕበድሰ፡ ተገብረ፡ ርጉም፡ ውእቱ፡ ወዘገብሮኒ፡ እስመ፡ ውእቱ፡ ግብር፡ በላዪ፡ ውእቱ፡ ወዘይማስን፡ አምላከ፡ ተሰምየ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዘበዕበድሰ",
+          "t": "wäzäbäʿəbädəsä",
+          "gl": ""
+        },
+        {
+          "g": "ተገብረ",
+          "t": "tägäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ርጉም",
+          "t": "rəgumə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ወዘገብሮኒ",
+          "t": "wäzägäbəroni",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ግብር",
+          "t": "gəbərə",
+          "gl": ""
+        },
+        {
+          "g": "በላዪ",
+          "t": "bälayi",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ወዘይማስን",
+          "t": "wäzäyəmasənə",
+          "gl": ""
+        },
+        {
+          "g": "አምላከ",
+          "t": "ʾäməlakä",
+          "gl": ""
+        },
+        {
+          "g": "ተሰምየ",
+          "t": "täsäməyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But that which is made with hands is cursed, as well it, as he that made it: he, because he made it: and it, because, being corruptible, it was called God."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "እስመ፡ ዕሩየ፡ ተጸልኡ፡ በኀበ፡ እግዚአብሔር፡ ረሲዕኒ፡ ወርስዓት።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ዕሩየ",
+          "t": "ʿəruyä",
+          "gl": ""
+        },
+        {
+          "g": "ተጸልኡ",
+          "t": "täṣäləʾu",
+          "gl": ""
+        },
+        {
+          "g": "በኀበ",
+          "t": "bäḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ረሲዕኒ",
+          "t": "räsiʿəni",
+          "gl": ""
+        },
+        {
+          "g": "ወርስዓት",
+          "t": "wärəsəʿatə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For the ungodly and his ungodliness are both alike hateful unto God."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "እስመ፡ ግብር፡ ዘተገብረ፡ ምስለ፡ ገባሪሁ፡ ይትኴነን።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ግብር",
+          "t": "gəbərə",
+          "gl": ""
+        },
+        {
+          "g": "ዘተገብረ",
+          "t": "zätägäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ገባሪሁ",
+          "t": "gäbarihu",
+          "gl": ""
+        },
+        {
+          "g": "ይትኴነን",
+          "t": "yətəkwenänə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For that which is made shall be punished together with him that made it."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወበእንተዝ፡ ሐተታ፡ ይከውን፡ በኀበ፡ ጣዖቶሙ፡ ለአሕዛብ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበእንተዝ",
+          "t": "wäbäʾənətäzə",
+          "gl": ""
+        },
+        {
+          "g": "ሐተታ",
+          "t": "ḥätäta",
+          "gl": ""
+        },
+        {
+          "g": "ይከውን",
+          "t": "yəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "በኀበ",
+          "t": "bäḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ጣዖቶሙ",
+          "t": "ṭaʿotomu",
+          "gl": ""
+        },
+        {
+          "g": "ለአሕዛብ",
+          "t": "läʾäḥəzabə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Therefore even upon the idols of the Gentiles shall there be a visitation: because in the creature of God they are become an abomination, and stumblingblocks to the souls of men, and a snare to the feet of the unwise."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "እስመ፡ ተገብረ፡ ፍጥረት፡ ለአኅጒሎ፡ ወማዕቅፈ፡ ለነፍሳተ፡ ሰብእ፡ ወመሥገርተ፡ ለአእጋረ፡ ሰብእ፡ ዓብዳን፡ እስመ፡ ቀዳሚሃ፡ ለዝሙት፡ ሐል፡ ውስተ፡ ፈጣሪሁ፡ ለጣዖት።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ተገብረ",
+          "t": "tägäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ፍጥረት",
+          "t": "fəṭərätə",
+          "gl": ""
+        },
+        {
+          "g": "ለአኅጒሎ",
+          "t": "läʾäḫəgwilo",
+          "gl": ""
+        },
+        {
+          "g": "ወማዕቅፈ",
+          "t": "wämaʿəqəfä",
+          "gl": ""
+        },
+        {
+          "g": "ለነፍሳተ",
+          "t": "länäfəsatä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወመሥገርተ",
+          "t": "wämäśəgärətä",
+          "gl": ""
+        },
+        {
+          "g": "ለአእጋረ",
+          "t": "läʾäʾəgarä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ዓብዳን",
+          "t": "ʿabədanə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ቀዳሚሃ",
+          "t": "qädamiha",
+          "gl": ""
+        },
+        {
+          "g": "ለዝሙት",
+          "t": "läzəmutə",
+          "gl": ""
+        },
+        {
+          "g": "ሐል",
+          "t": "ḥälə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ፈጣሪሁ",
+          "t": "fäṭarihu",
+          "gl": ""
+        },
+        {
+          "g": "ለጣዖት",
+          "t": "läṭaʿotə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For the devising of idols was the beginning of spiritual fornication, and the invention of them the corruption of life."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወረኪቦቱ፡ ሙስናሃ፡ ለሕይወት፡ እስመ፡ ኢሀሎ፡ እምፍጥረት፡ ወኢይሄሉ፡ ለዓለም።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወረኪቦቱ",
+          "t": "wäräkibotu",
+          "gl": ""
+        },
+        {
+          "g": "ሙስናሃ",
+          "t": "musənaha",
+          "gl": ""
+        },
+        {
+          "g": "ለሕይወት",
+          "t": "läḥəyəwätə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኢሀሎ",
+          "t": "ʾihälo",
+          "gl": ""
+        },
+        {
+          "g": "እምፍጥረት",
+          "t": "ʾəməfəṭərätə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይሄሉ",
+          "t": "wäʾiyəhelu",
+          "gl": ""
+        },
+        {
+          "g": "ለዓለም",
+          "t": "läʿalämə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For neither were they from the beginning, neither shall they be for ever."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወበምክንያተ፡ ሰብእ፡ ከንቱ፡ ቦአ፡ ውስተ፡ ዓለም፡ ከመዝ፡ በእንተ፡ ዘያፈጥን፡ ፍጻሜ፡ ኅልፈተ፡ ምስጠቶሙ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበምክንያተ",
+          "t": "wäbäməkənəyatä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ከንቱ",
+          "t": "känətu",
+          "gl": ""
+        },
+        {
+          "g": "ቦአ",
+          "t": "boʾä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዓለም",
+          "t": "ʿalämə",
+          "gl": ""
+        },
+        {
+          "g": "ከመዝ",
+          "t": "kämäzə",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ዘያፈጥን",
+          "t": "zäyafäṭənə",
+          "gl": ""
+        },
+        {
+          "g": "ፍጻሜ",
+          "t": "fəṣame",
+          "gl": ""
+        },
+        {
+          "g": "ኅልፈተ",
+          "t": "ḫələfätä",
+          "gl": ""
+        },
+        {
+          "g": "ምስጠቶሙ",
+          "t": "məsəṭätomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For by the vain glory of men they entered into the world, and therefore shall they come shortly to an end."
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ወእምዝ፡ ሐለዩ፡ በጊረ፡ ጣዖት፡ እስመ፡ አብ፡ ይፄዓር፡ ወይላሁ፡ ላዕለ፡ ዘአሐዱ፡ ሎቱ፡ እስመ፡ እንዘ፡ ቆዑ፡ ተመሥጠ፡ ሕፃኑ፡ ፍጡነ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእምዝ",
+          "t": "wäʾəməzə",
+          "gl": ""
+        },
+        {
+          "g": "ሐለዩ",
+          "t": "ḥäläyu",
+          "gl": ""
+        },
+        {
+          "g": "በጊረ",
+          "t": "bägirä",
+          "gl": ""
+        },
+        {
+          "g": "ጣዖት",
+          "t": "ṭaʿotə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አብ",
+          "t": "ʾäbə",
+          "gl": ""
+        },
+        {
+          "g": "ይፄዓር",
+          "t": "yəṣ́eʿarə",
+          "gl": ""
+        },
+        {
+          "g": "ወይላሁ",
+          "t": "wäyəlahu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ዘአሐዱ",
+          "t": "zäʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ቆዑ",
+          "t": "qoʿu",
+          "gl": ""
+        },
+        {
+          "g": "ተመሥጠ",
+          "t": "tämäśəṭä",
+          "gl": ""
+        },
+        {
+          "g": "ሕፃኑ",
+          "t": "ḥəṣ́anu",
+          "gl": ""
+        },
+        {
+          "g": "ፍጡነ",
+          "t": "fəṭunä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For a father afflicted with untimely mourning, when he hath made an image of his child soon taken away, now honoured him as a god, which was then a dead man, and delivered to those that were under him ceremonies and sacrifices."
+      }
+    },
+    {
+      "num": 16,
+      "geez": "አምሳለ፡ ዘገብሩ፡ ሎቱ፡ ቀዲሙ፡ ለዘሞተ፡ ሰብእ፡ ይእዜሰ፡ ከመ፡ አምላክ፡ አክበርዎ፡ ወወሀብዎ፡ ቅኑያን፡ ለኃጢአት፡ በዓላተ፡ በጉሃን፡ ወመሥዋዕተ፡ ምሥጢር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "አምሳለ",
+          "t": "ʾäməsalä",
+          "gl": ""
+        },
+        {
+          "g": "ዘገብሩ",
+          "t": "zägäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ቀዲሙ",
+          "t": "qädimu",
+          "gl": ""
+        },
+        {
+          "g": "ለዘሞተ",
+          "t": "läzämotä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ይእዜሰ",
+          "t": "yəʾəzesä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "አምላክ",
+          "t": "ʾäməlakə",
+          "gl": ""
+        },
+        {
+          "g": "አክበርዎ",
+          "t": "ʾäkəbärəwo",
+          "gl": ""
+        },
+        {
+          "g": "ወወሀብዎ",
+          "t": "wäwähäbəwo",
+          "gl": ""
+        },
+        {
+          "g": "ቅኑያን",
+          "t": "qənuyanə",
+          "gl": ""
+        },
+        {
+          "g": "ለኃጢአት",
+          "t": "läḫaṭiʾätə",
+          "gl": ""
+        },
+        {
+          "g": "በዓላተ",
+          "t": "bäʿalatä",
+          "gl": ""
+        },
+        {
+          "g": "በጉሃን",
+          "t": "bäguhanə",
+          "gl": ""
+        },
+        {
+          "g": "ወመሥዋዕተ",
+          "t": "wämäśəwaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "ምሥጢር",
+          "t": "məśəṭirə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Thus in process of time an ungodly custom grown strong was kept as a law, and graven images were worshipped by the commandments of kings."
+      }
+    },
+    {
+      "num": 17,
+      "geez": "ወእምዝ፡ በርኅቀተ፡ መዋዕል፡ ተእኅዘ፡ ልማደ፡ እብሰት፡ ወርስዐት፡ ወከመ፡ ዘሕግ፡ ዓቀብዎ፡ ወበትእዛዘ፡ መኳንንት፡ እኩያን፡ አምለክዎሙ፡ ለግልፎዋት፡ ወለእለ፡ ይትከሀሎሙ፡ ለሰብእ፡ ያክብርዎሙ፡ በቅድመ፡ ገጾሙ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእምዝ",
+          "t": "wäʾəməzə",
+          "gl": ""
+        },
+        {
+          "g": "በርኅቀተ",
+          "t": "bärəḫəqätä",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕል",
+          "t": "mäwaʿələ",
+          "gl": ""
+        },
+        {
+          "g": "ተእኅዘ",
+          "t": "täʾəḫəzä",
+          "gl": ""
+        },
+        {
+          "g": "ልማደ",
+          "t": "ləmadä",
+          "gl": ""
+        },
+        {
+          "g": "እብሰት",
+          "t": "ʾəbəsätə",
+          "gl": ""
+        },
+        {
+          "g": "ወርስዐት",
+          "t": "wärəsəʿätə",
+          "gl": ""
+        },
+        {
+          "g": "ወከመ",
+          "t": "wäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ዘሕግ",
+          "t": "zäḥəgə",
+          "gl": ""
+        },
+        {
+          "g": "ዓቀብዎ",
+          "t": "ʿaqäbəwo",
+          "gl": ""
+        },
+        {
+          "g": "ወበትእዛዘ",
+          "t": "wäbätəʾəzazä",
+          "gl": ""
+        },
+        {
+          "g": "መኳንንት",
+          "t": "mäkwanənətə",
+          "gl": ""
+        },
+        {
+          "g": "እኩያን",
+          "t": "ʾəkuyanə",
+          "gl": ""
+        },
+        {
+          "g": "አምለክዎሙ",
+          "t": "ʾäməläkəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለግልፎዋት",
+          "t": "lägələfowatə",
+          "gl": ""
+        },
+        {
+          "g": "ወለእለ",
+          "t": "wäläʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይትከሀሎሙ",
+          "t": "yətəkähälomu",
+          "gl": ""
+        },
+        {
+          "g": "ለሰብእ",
+          "t": "läsäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ያክብርዎሙ",
+          "t": "yakəbərəwomu",
+          "gl": ""
+        },
+        {
+          "g": "በቅድመ",
+          "t": "bäqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ገጾሙ",
+          "t": "gäṣomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Whom men could not honour in presence, because they dwelt far off, they took the counterfeit of his visage from far, and made an express image of a king whom they honoured, to the end that by this their forwardness they might flatter him that was absent, as if he were present."
+      }
+    },
+    {
+      "num": 18,
+      "geez": "እስመ፡ ርኁቀ፡ ሀለዉ፡ ወመሰሉ፡ ገጾሙ፡ ዘርኁቅ፡ መልክዑ፡ ወገብሩ፡ ለንጉሥ፡ ዘክቡር፡ በኀቤሆሙ፡ አምሳለ፡ ክሡተ፡ ለዘኢሀሎ፡ ከመ፡ ዘሀሎ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ርኁቀ",
+          "t": "rəḫuqä",
+          "gl": ""
+        },
+        {
+          "g": "ሀለዉ",
+          "t": "häläwu",
+          "gl": ""
+        },
+        {
+          "g": "ወመሰሉ",
+          "t": "wämäsälu",
+          "gl": ""
+        },
+        {
+          "g": "ገጾሙ",
+          "t": "gäṣomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘርኁቅ",
+          "t": "zärəḫuqə",
+          "gl": ""
+        },
+        {
+          "g": "መልክዑ",
+          "t": "mäləkəʿu",
+          "gl": ""
+        },
+        {
+          "g": "ወገብሩ",
+          "t": "wägäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ለንጉሥ",
+          "t": "länəguśə",
+          "gl": ""
+        },
+        {
+          "g": "ዘክቡር",
+          "t": "zäkəburə",
+          "gl": ""
+        },
+        {
+          "g": "በኀቤሆሙ",
+          "t": "bäḫäbehomu",
+          "gl": ""
+        },
+        {
+          "g": "አምሳለ",
+          "t": "ʾäməsalä",
+          "gl": ""
+        },
+        {
+          "g": "ክሡተ",
+          "t": "kəśutä",
+          "gl": ""
+        },
+        {
+          "g": "ለዘኢሀሎ",
+          "t": "läzäʾihälo",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ዘሀሎ",
+          "t": "zähälo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Also the singular diligence of the artificer did help to set forward the ignorant to more superstition."
+      }
+    },
+    {
+      "num": 19,
+      "geez": "ያስተበቊዕ፡ በጻሕቅ፡ ወለእለሂ፡ ኢአምሩ፡ ስሕተቶሙ፡ ፀንዑ፡ በአምልኮቶሙ፡ ወሜጡ፡ ክብረ፡ ኬንያ፡ ውስተ፡ ኪነ፡ እደ፡ ሰብእ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ያስተበቊዕ",
+          "t": "yasətäbäqwiʿə",
+          "gl": ""
+        },
+        {
+          "g": "በጻሕቅ",
+          "t": "bäṣaḥəqə",
+          "gl": ""
+        },
+        {
+          "g": "ወለእለሂ",
+          "t": "wäläʾəlähi",
+          "gl": ""
+        },
+        {
+          "g": "ኢአምሩ",
+          "t": "ʾiʾäməru",
+          "gl": ""
+        },
+        {
+          "g": "ስሕተቶሙ",
+          "t": "səḥətätomu",
+          "gl": ""
+        },
+        {
+          "g": "ፀንዑ",
+          "t": "ṣ́änəʿu",
+          "gl": ""
+        },
+        {
+          "g": "በአምልኮቶሙ",
+          "t": "bäʾämələkotomu",
+          "gl": ""
+        },
+        {
+          "g": "ወሜጡ",
+          "t": "wämeṭu",
+          "gl": ""
+        },
+        {
+          "g": "ክብረ",
+          "t": "kəbərä",
+          "gl": ""
+        },
+        {
+          "g": "ኬንያ",
+          "t": "kenəya",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኪነ",
+          "t": "kinä",
+          "gl": ""
+        },
+        {
+          "g": "እደ",
+          "t": "ʾədä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For he, peradventure willing to please one in authority, forced all his skill to make the resemblance of the best fashion."
+      }
+    },
+    {
+      "num": 20,
+      "geez": "ወቦ፡ ካዕበ፡ ዘይፈቅደ፡ ያድሉ፡ ወያሥምሮ፡ ለነጋሢ፡ አኃዚ፡ ተጠናቀቀ፡ ለገቢረ፡ አምሳሉ፡ በዘይሤኒ፡ ወበዘይኄይስ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወቦ",
+          "t": "wäbo",
+          "gl": ""
+        },
+        {
+          "g": "ካዕበ",
+          "t": "kaʿəbä",
+          "gl": ""
+        },
+        {
+          "g": "ዘይፈቅደ",
+          "t": "zäyəfäqədä",
+          "gl": ""
+        },
+        {
+          "g": "ያድሉ",
+          "t": "yadəlu",
+          "gl": ""
+        },
+        {
+          "g": "ወያሥምሮ",
+          "t": "wäyaśəməro",
+          "gl": ""
+        },
+        {
+          "g": "ለነጋሢ",
+          "t": "länägaśi",
+          "gl": ""
+        },
+        {
+          "g": "አኃዚ",
+          "t": "ʾäḫazi",
+          "gl": ""
+        },
+        {
+          "g": "ተጠናቀቀ",
+          "t": "täṭänaqäqä",
+          "gl": ""
+        },
+        {
+          "g": "ለገቢረ",
+          "t": "lägäbirä",
+          "gl": ""
+        },
+        {
+          "g": "አምሳሉ",
+          "t": "ʾäməsalu",
+          "gl": ""
+        },
+        {
+          "g": "በዘይሤኒ",
+          "t": "bäzäyəśeni",
+          "gl": ""
+        },
+        {
+          "g": "ወበዘይኄይስ",
+          "t": "wäbäzäyəḫeyəsə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And so the multitude, allured by the grace of the work, took him now for a god, which a little before was but honoured as a man."
+      }
+    },
+    {
+      "num": 21,
+      "geez": "ወበውእቱ፡ ተስሕበ፡ ሰብእ፡ ብዙኅ፡ በእንተ፡ ፍሥሐሆሙ፡ በሥነ፡ ላህየ፡ ምግባር፡ ወለብእሲ፡ ዘሀሎ፡ እምቅድመ፡ መዋዕል፡ በንስቲት፡ ክብር፡ ይእዜሰ፡ ከመ፡ አምላክ፡ ረሰይዎ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበውእቱ",
+          "t": "wäbäwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ተስሕበ",
+          "t": "täsəḥəbä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ብዙኅ",
+          "t": "bəzuḫə",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ፍሥሐሆሙ",
+          "t": "fəśəḥähomu",
+          "gl": ""
+        },
+        {
+          "g": "በሥነ",
+          "t": "bäśənä",
+          "gl": ""
+        },
+        {
+          "g": "ላህየ",
+          "t": "lahəyä",
+          "gl": ""
+        },
+        {
+          "g": "ምግባር",
+          "t": "məgəbarə",
+          "gl": ""
+        },
+        {
+          "g": "ወለብእሲ",
+          "t": "wäläbəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ዘሀሎ",
+          "t": "zähälo",
+          "gl": ""
+        },
+        {
+          "g": "እምቅድመ",
+          "t": "ʾəməqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕል",
+          "t": "mäwaʿələ",
+          "gl": ""
+        },
+        {
+          "g": "በንስቲት",
+          "t": "bänəsətitə",
+          "gl": ""
+        },
+        {
+          "g": "ክብር",
+          "t": "kəbərə",
+          "gl": ""
+        },
+        {
+          "g": "ይእዜሰ",
+          "t": "yəʾəzesä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "አምላክ",
+          "t": "ʾäməlakə",
+          "gl": ""
+        },
+        {
+          "g": "ረሰይዎ",
+          "t": "räsäyəwo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And this was an occasion to deceive the world: for men, serving either calamity or tyranny, did ascribe unto stones and stocks the incommunicable name."
+      }
+    },
+    {
+      "num": 22,
+      "geez": "ወዝንቱ፡ ኮነ፡ መሥገርተ፡ ዓለም፡ እስመ፡ ሰብእ፡ ተቀንየ፡ ሎቱ፡ በምንዳቤ፡ አው፡ በአገብሮ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዝንቱ",
+          "t": "wäzənətu",
+          "gl": ""
+        },
+        {
+          "g": "ኮነ",
+          "t": "konä",
+          "gl": ""
+        },
+        {
+          "g": "መሥገርተ",
+          "t": "mäśəgärətä",
+          "gl": ""
+        },
+        {
+          "g": "ዓለም",
+          "t": "ʿalämə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ተቀንየ",
+          "t": "täqänəyä",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "በምንዳቤ",
+          "t": "bämənədabe",
+          "gl": ""
+        },
+        {
+          "g": "አው",
+          "t": "ʾäwə",
+          "gl": ""
+        },
+        {
+          "g": "በአገብሮ",
+          "t": "bäʾägäbəro",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Moreover this was not enough for them, that they erred in the knowledge of God; but whereas they lived in the great war of ignorance, those so great plagues called they peace."
+      }
+    },
+    {
+      "num": 23,
+      "geez": "ወረሰዩ፡ ስሞ፡ ለአምላክ፡ ዘአልቦቱ፡ ሱታፌ፡ ለዕፅ፡ ወለእብን፡ ዘይረብኅዎሙ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወረሰዩ",
+          "t": "wäräsäyu",
+          "gl": ""
+        },
+        {
+          "g": "ስሞ",
+          "t": "səmo",
+          "gl": ""
+        },
+        {
+          "g": "ለአምላክ",
+          "t": "läʾäməlakə",
+          "gl": ""
+        },
+        {
+          "g": "ዘአልቦቱ",
+          "t": "zäʾäləbotu",
+          "gl": ""
+        },
+        {
+          "g": "ሱታፌ",
+          "t": "sutafe",
+          "gl": ""
+        },
+        {
+          "g": "ለዕፅ",
+          "t": "läʿəṣ́ə",
+          "gl": ""
+        },
+        {
+          "g": "ወለእብን",
+          "t": "wäläʾəbənə",
+          "gl": ""
+        },
+        {
+          "g": "ዘይረብኅዎሙ",
+          "t": "zäyəräbəḫəwomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For whilst they slew their children in sacrifices, or used secret ceremonies, or made revellings of strange rites;"
+      }
+    },
+    {
+      "num": 24,
+      "geez": "ዓዲ፡ ኢእከሎሙ፡ ስሕተቶሙ፡ እምኢያእምሮ፡ እግዚአብሔር፡ አላ፡ እንዘሂ፡ ሀለዉ፡ ውስተ፡ ፀብዕ፡ ዓቢይ፡ ዘመጠነዝ፡ ሕያዋን፡ በፅበዶሙሰ፡ ለዘመጠነዝ፡ እኩይ፡ ረሰይዎ፡ ወሰመይዎ፡ ሰላመ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዓዲ",
+          "t": "ʿadi",
+          "gl": ""
+        },
+        {
+          "g": "ኢእከሎሙ",
+          "t": "ʾiʾəkälomu",
+          "gl": ""
+        },
+        {
+          "g": "ስሕተቶሙ",
+          "t": "səḥətätomu",
+          "gl": ""
+        },
+        {
+          "g": "እምኢያእምሮ",
+          "t": "ʾəməʾiyaʾəməro",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አላ",
+          "t": "ʾäla",
+          "gl": ""
+        },
+        {
+          "g": "እንዘሂ",
+          "t": "ʾənəzähi",
+          "gl": ""
+        },
+        {
+          "g": "ሀለዉ",
+          "t": "häläwu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ፀብዕ",
+          "t": "ṣ́äbəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ዓቢይ",
+          "t": "ʿabiyə",
+          "gl": ""
+        },
+        {
+          "g": "ዘመጠነዝ",
+          "t": "zämäṭänäzə",
+          "gl": ""
+        },
+        {
+          "g": "ሕያዋን",
+          "t": "ḥəyawanə",
+          "gl": ""
+        },
+        {
+          "g": "በፅበዶሙሰ",
+          "t": "bäṣ́əbädomusä",
+          "gl": ""
+        },
+        {
+          "g": "ለዘመጠነዝ",
+          "t": "läzämäṭänäzə",
+          "gl": ""
+        },
+        {
+          "g": "እኩይ",
+          "t": "ʾəkuyə",
+          "gl": ""
+        },
+        {
+          "g": "ረሰይዎ",
+          "t": "räsäyəwo",
+          "gl": ""
+        },
+        {
+          "g": "ወሰመይዎ",
+          "t": "wäsämäyəwo",
+          "gl": ""
+        },
+        {
+          "g": "ሰላመ",
+          "t": "sälamä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "they kept neither lives nor marriages any longer undefiled: but either one slew another traiterously or grieved him by adultery."
+      }
+    },
+    {
+      "num": 25,
+      "geez": "እስመ፡ እለ፡ ሀለዉ፡ ይቀትሉ፡ ደቂቆሙ፡ ወይገብሩ፡ ኅቡእ፡ ምሥጢረ፡ አው፡ የሐልዩ፡ ወጺኦሙ፡ እንዘ፡ ያንጎግዉ፡ በካልእ፡ ሥርዓት፡ ኢ፡ ፍናዊሆሙ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሀለዉ",
+          "t": "häläwu",
+          "gl": ""
+        },
+        {
+          "g": "ይቀትሉ",
+          "t": "yəqätəlu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቆሙ",
+          "t": "däqiqomu",
+          "gl": ""
+        },
+        {
+          "g": "ወይገብሩ",
+          "t": "wäyəgäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ኅቡእ",
+          "t": "ḫəbuʾə",
+          "gl": ""
+        },
+        {
+          "g": "ምሥጢረ",
+          "t": "məśəṭirä",
+          "gl": ""
+        },
+        {
+          "g": "አው",
+          "t": "ʾäwə",
+          "gl": ""
+        },
+        {
+          "g": "የሐልዩ",
+          "t": "yäḥäləyu",
+          "gl": ""
+        },
+        {
+          "g": "ወጺኦሙ",
+          "t": "wäṣiʾomu",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ያንጎግዉ",
+          "t": "yanəgogəwu",
+          "gl": ""
+        },
+        {
+          "g": "በካልእ",
+          "t": "bäkaləʾə",
+          "gl": ""
+        },
+        {
+          "g": "ሥርዓት",
+          "t": "śərəʿatə",
+          "gl": ""
+        },
+        {
+          "g": "ኢ",
+          "t": "ʾi",
+          "gl": ""
+        },
+        {
+          "g": "ፍናዊሆሙ",
+          "t": "fənawihomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "So that there reigned in all men without exception, blood, manslaughter, theft, and dissimulation, corruption, unfaithfulness, tumults, perjury,"
+      }
+    },
+    {
+      "num": 26,
+      "geez": "ወኢ፡ ሰብሳቦሙ፡ ዓቀቡ፡ እንከ፡ ዳዕሙ፡ ካልእ፡ ይቀትሎ፡ ለካልኡ፡ ወእመ፡ አኮ፡ ይየውሆ፡ ወያስተሴፍዎ፡ በዘያደውዮ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኢ",
+          "t": "wäʾi",
+          "gl": ""
+        },
+        {
+          "g": "ሰብሳቦሙ",
+          "t": "säbəsabomu",
+          "gl": ""
+        },
+        {
+          "g": "ዓቀቡ",
+          "t": "ʿaqäbu",
+          "gl": ""
+        },
+        {
+          "g": "እንከ",
+          "t": "ʾənəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዳዕሙ",
+          "t": "daʿəmu",
+          "gl": ""
+        },
+        {
+          "g": "ካልእ",
+          "t": "kaləʾə",
+          "gl": ""
+        },
+        {
+          "g": "ይቀትሎ",
+          "t": "yəqätəlo",
+          "gl": ""
+        },
+        {
+          "g": "ለካልኡ",
+          "t": "läkaləʾu",
+          "gl": ""
+        },
+        {
+          "g": "ወእመ",
+          "t": "wäʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "አኮ",
+          "t": "ʾäko",
+          "gl": ""
+        },
+        {
+          "g": "ይየውሆ",
+          "t": "yəyäwəho",
+          "gl": ""
+        },
+        {
+          "g": "ወያስተሴፍዎ",
+          "t": "wäyasətäsefəwo",
+          "gl": ""
+        },
+        {
+          "g": "በዘያደውዮ",
+          "t": "bäzäyadäwəyo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "disquieting of good men, forgetfulness of good turns, defiling of souls, changing of kind, disorder in marriages, adultery, and shameless uncleanness."
+      }
+    },
+    {
+      "num": 27,
+      "geez": "ወኵሉ፡ ምግባራቲሆሙ፡ ድሙር፡ ውስተ፡ ደም፡ ወቀትል፡ ወስርቅ፡ ወሕብል፡ ወሙስና፡ ወሕፀተ፡ አኰቴት፡ ወኢ፡ አሚን፡ ወመሐላ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ምግባራቲሆሙ",
+          "t": "məgəbaratihomu",
+          "gl": ""
+        },
+        {
+          "g": "ድሙር",
+          "t": "dəmurə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ደም",
+          "t": "dämə",
+          "gl": ""
+        },
+        {
+          "g": "ወቀትል",
+          "t": "wäqätələ",
+          "gl": ""
+        },
+        {
+          "g": "ወስርቅ",
+          "t": "wäsərəqə",
+          "gl": ""
+        },
+        {
+          "g": "ወሕብል",
+          "t": "wäḥəbələ",
+          "gl": ""
+        },
+        {
+          "g": "ወሙስና",
+          "t": "wämusəna",
+          "gl": ""
+        },
+        {
+          "g": "ወሕፀተ",
+          "t": "wäḥəṣ́ätä",
+          "gl": ""
+        },
+        {
+          "g": "አኰቴት",
+          "t": "ʾäkwätetə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢ",
+          "t": "wäʾi",
+          "gl": ""
+        },
+        {
+          "g": "አሚን",
+          "t": "ʾäminə",
+          "gl": ""
+        },
+        {
+          "g": "ወመሐላ",
+          "t": "wämäḥäla",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For the worshipping of idols not to be named is the beginning, the cause, and the end, of all evil."
+      }
+    },
+    {
+      "num": 28,
+      "geez": "ወሀዊከ፡ ሠናይ፡ ወኢተዘክሮ፡ ዕሤት፡ ግማኔ፡ ነፍስ፡ ወሙያጤ፡ ልደት፡ ንስተተ፡ ሥርዓተ፡ ሰብሳብ፡ ዝሙት፡ ወርኵስ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሀዊከ",
+          "t": "wähäwikä",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይ",
+          "t": "śänayə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢተዘክሮ",
+          "t": "wäʾitäzäkəro",
+          "gl": ""
+        },
+        {
+          "g": "ዕሤት",
+          "t": "ʿəśetə",
+          "gl": ""
+        },
+        {
+          "g": "ግማኔ",
+          "t": "gəmane",
+          "gl": ""
+        },
+        {
+          "g": "ነፍስ",
+          "t": "näfəsə",
+          "gl": ""
+        },
+        {
+          "g": "ወሙያጤ",
+          "t": "wämuyaṭe",
+          "gl": ""
+        },
+        {
+          "g": "ልደት",
+          "t": "lədätə",
+          "gl": ""
+        },
+        {
+          "g": "ንስተተ",
+          "t": "nəsətätä",
+          "gl": ""
+        },
+        {
+          "g": "ሥርዓተ",
+          "t": "śərəʿatä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብሳብ",
+          "t": "säbəsabə",
+          "gl": ""
+        },
+        {
+          "g": "ዝሙት",
+          "t": "zəmutə",
+          "gl": ""
+        },
+        {
+          "g": "ወርኵስ",
+          "t": "wärəkwəsə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For either they are mad when they be merry, or prophesy lies, or live unjustly, or else lightly forswear themselves."
+      }
+    },
+    {
+      "num": 29,
+      "geez": "እስመ፡ አምልኮ፡ ጣዖት፡ እለ፡ አልቦሙ፡ ስም፡ ውእቱ፡ ጥንተ፡ ኵሉ፡ እከይ፡ ወምክንያተ፡ ፍጻሜሁ፡ እስመ፡ እለ፡ ያመልክዎሙ፡ ለእለ፡ ተፈሥሑ፡ ወየዓብዱ፡ ወይቀትሉ፡ ውሉዶሙ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አምልኮ",
+          "t": "ʾämələko",
+          "gl": ""
+        },
+        {
+          "g": "ጣዖት",
+          "t": "ṭaʿotə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "አልቦሙ",
+          "t": "ʾäləbomu",
+          "gl": ""
+        },
+        {
+          "g": "ስም",
+          "t": "səmə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ጥንተ",
+          "t": "ṭənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "እከይ",
+          "t": "ʾəkäyə",
+          "gl": ""
+        },
+        {
+          "g": "ወምክንያተ",
+          "t": "wäməkənəyatä",
+          "gl": ""
+        },
+        {
+          "g": "ፍጻሜሁ",
+          "t": "fəṣamehu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ያመልክዎሙ",
+          "t": "yamäləkəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእለ",
+          "t": "läʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ተፈሥሑ",
+          "t": "täfäśəḥu",
+          "gl": ""
+        },
+        {
+          "g": "ወየዓብዱ",
+          "t": "wäyäʿabədu",
+          "gl": ""
+        },
+        {
+          "g": "ወይቀትሉ",
+          "t": "wäyəqätəlu",
+          "gl": ""
+        },
+        {
+          "g": "ውሉዶሙ",
+          "t": "wəludomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For insomuch as their trust is in idols which have no life, though they swear falsely, yet they look not to be hurt."
+      }
+    },
+    {
+      "num": 30,
+      "geez": "ወእመ፡ አኮ፡ ይትኔበዩ፡ ወይሔስዉ፡ ሐሰተ፡ ወእመ፡ አኮ፡ የሐይዉ፡ ኅርቱመ፡ ወእመ፡ አኮ፡ ይምሕሉ፡ ፍጡነ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመ",
+          "t": "wäʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "አኮ",
+          "t": "ʾäko",
+          "gl": ""
+        },
+        {
+          "g": "ይትኔበዩ",
+          "t": "yətənebäyu",
+          "gl": ""
+        },
+        {
+          "g": "ወይሔስዉ",
+          "t": "wäyəḥesəwu",
+          "gl": ""
+        },
+        {
+          "g": "ሐሰተ",
+          "t": "ḥäsätä",
+          "gl": ""
+        },
+        {
+          "g": "ወእመ",
+          "t": "wäʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "አኮ",
+          "t": "ʾäko",
+          "gl": ""
+        },
+        {
+          "g": "የሐይዉ",
+          "t": "yäḥäyəwu",
+          "gl": ""
+        },
+        {
+          "g": "ኅርቱመ",
+          "t": "ḫərətumä",
+          "gl": ""
+        },
+        {
+          "g": "ወእመ",
+          "t": "wäʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "አኮ",
+          "t": "ʾäko",
+          "gl": ""
+        },
+        {
+          "g": "ይምሕሉ",
+          "t": "yəməḥəlu",
+          "gl": ""
+        },
+        {
+          "g": "ፍጡነ",
+          "t": "fəṭunä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Howbeit for both causes shall they be justly punished: both because they thought not well of God, giving heed unto idols, and also unjustly swore in deceit, despising holiness."
+      }
+    },
+    {
+      "num": 31,
+      "geez": "እስመ፡ እለ፡ እንበለ፡ ነፍስ፡ ይትአመኑ፡ ጣዖተ፡ ሕስወ፡ ወበሀመ፡ እለ፡ አልቦሙ፡ ንባብ፡ ወአእምሮ፡ አምሳለ፡ ፈጣሪ፡ ዘየአምር፡ ኵሎ፡ እስመ፡ አመ፡ መሐሉ፡ ይትኰነኑ፡ ኢይሴፈዉ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "እንበለ",
+          "t": "ʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "ነፍስ",
+          "t": "näfəsə",
+          "gl": ""
+        },
+        {
+          "g": "ይትአመኑ",
+          "t": "yətəʾämänu",
+          "gl": ""
+        },
+        {
+          "g": "ጣዖተ",
+          "t": "ṭaʿotä",
+          "gl": ""
+        },
+        {
+          "g": "ሕስወ",
+          "t": "ḥəsəwä",
+          "gl": ""
+        },
+        {
+          "g": "ወበሀመ",
+          "t": "wäbähämä",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "አልቦሙ",
+          "t": "ʾäləbomu",
+          "gl": ""
+        },
+        {
+          "g": "ንባብ",
+          "t": "nəbabə",
+          "gl": ""
+        },
+        {
+          "g": "ወአእምሮ",
+          "t": "wäʾäʾəməro",
+          "gl": ""
+        },
+        {
+          "g": "አምሳለ",
+          "t": "ʾäməsalä",
+          "gl": ""
+        },
+        {
+          "g": "ፈጣሪ",
+          "t": "fäṭari",
+          "gl": ""
+        },
+        {
+          "g": "ዘየአምር",
+          "t": "zäyäʾämərə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "መሐሉ",
+          "t": "mäḥälu",
+          "gl": ""
+        },
+        {
+          "g": "ይትኰነኑ",
+          "t": "yətəkwänänu",
+          "gl": ""
+        },
+        {
+          "g": "ኢይሴፈዉ",
+          "t": "ʾiyəsefäwu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For it is not the power of them by whom they swear: but it is the just vengeance of sinners, that punisheth always the offence of the ungodly."
+      }
+    },
+    {
+      "num": 32,
+      "geez": "ኅቡረ፡ ይረክቦሙ፡ ኵነኔ፡ ዘበጽድቅ፡ እስመ፡ ሐለዩ፡ እኩየ፡ በእግዚአብሔር፡ አመ፡ ነጸሩ፡ ጣዖተ፡ ወግፍዐ፡ መሐሉ፡ ቦቱ፡ በሕብል፡ አስተአኪዮሙ፡ ጽድቀ፡ ፈጣሪ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኅቡረ",
+          "t": "ḫəburä",
+          "gl": ""
+        },
+        {
+          "g": "ይረክቦሙ",
+          "t": "yəräkəbomu",
+          "gl": ""
+        },
+        {
+          "g": "ኵነኔ",
+          "t": "kwənäne",
+          "gl": ""
+        },
+        {
+          "g": "ዘበጽድቅ",
+          "t": "zäbäṣədəqə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ሐለዩ",
+          "t": "ḥäläyu",
+          "gl": ""
+        },
+        {
+          "g": "እኩየ",
+          "t": "ʾəkuyä",
+          "gl": ""
+        },
+        {
+          "g": "በእግዚአብሔር",
+          "t": "bäʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ነጸሩ",
+          "t": "näṣäru",
+          "gl": ""
+        },
+        {
+          "g": "ጣዖተ",
+          "t": "ṭaʿotä",
+          "gl": ""
+        },
+        {
+          "g": "ወግፍዐ",
+          "t": "wägəfəʿä",
+          "gl": ""
+        },
+        {
+          "g": "መሐሉ",
+          "t": "mäḥälu",
+          "gl": ""
+        },
+        {
+          "g": "ቦቱ",
+          "t": "botu",
+          "gl": ""
+        },
+        {
+          "g": "በሕብል",
+          "t": "bäḥəbələ",
+          "gl": ""
+        },
+        {
+          "g": "አስተአኪዮሙ",
+          "t": "ʾäsətäʾäkiyomu",
+          "gl": ""
+        },
+        {
+          "g": "ጽድቀ",
+          "t": "ṣədəqä",
+          "gl": ""
+        },
+        {
+          "g": "ፈጣሪ",
+          "t": "fäṭari",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 33,
+      "geez": "እስመ፡ አኮ፡ በእንተ፡ ኃይልከ፡ ዘመሐሉ፡ ቦቱ፡ ዳዕሙ፡ ለአኅልፎ፡ ኵነኔ፡ አበሳሆሙ፡ ትምጻእኬ፡ እንከ፡ ኵነኔ፡ ዲበ፡ ዕልወቶሙ፡ ለገፋዕያን፡ ዘልፈ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አኮ",
+          "t": "ʾäko",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኃይልከ",
+          "t": "ḫayələkä",
+          "gl": ""
+        },
+        {
+          "g": "ዘመሐሉ",
+          "t": "zämäḥälu",
+          "gl": ""
+        },
+        {
+          "g": "ቦቱ",
+          "t": "botu",
+          "gl": ""
+        },
+        {
+          "g": "ዳዕሙ",
+          "t": "daʿəmu",
+          "gl": ""
+        },
+        {
+          "g": "ለአኅልፎ",
+          "t": "läʾäḫələfo",
+          "gl": ""
+        },
+        {
+          "g": "ኵነኔ",
+          "t": "kwənäne",
+          "gl": ""
+        },
+        {
+          "g": "አበሳሆሙ",
+          "t": "ʾäbäsahomu",
+          "gl": ""
+        },
+        {
+          "g": "ትምጻእኬ",
+          "t": "təməṣaʾəke",
+          "gl": ""
+        },
+        {
+          "g": "እንከ",
+          "t": "ʾənəkä",
+          "gl": ""
+        },
+        {
+          "g": "ኵነኔ",
+          "t": "kwənäne",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "ዕልወቶሙ",
+          "t": "ʿələwätomu",
+          "gl": ""
+        },
+        {
+          "g": "ለገፋዕያን",
+          "t": "lägäfaʿəyanə",
+          "gl": ""
+        },
+        {
+          "g": "ዘልፈ",
+          "t": "zäləfä",
+          "gl": ""
+        }
+      ]
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    }
+  }
+}

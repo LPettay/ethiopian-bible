@@ -1,0 +1,1416 @@
+{
+  "book": "Isa",
+  "chapter": 24,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ናሁ፡ እግዚአብሔር፡ ያማስና፡ ለዓለም፡ ወያመዘብራ፡ ወይቀፍጻ፡ ገጻ፣፡ ወይዘርዎሙ፡ ለእለ፡ ይነብሩ፡ ውስቴታ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ናሁ",
+          "t": "nahu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ያማስና",
+          "t": "yamasəna",
+          "gl": ""
+        },
+        {
+          "g": "ለዓለም",
+          "t": "läʿalämə",
+          "gl": ""
+        },
+        {
+          "g": "ወያመዘብራ",
+          "t": "wäyamäzäbəra",
+          "gl": ""
+        },
+        {
+          "g": "ወይቀፍጻ",
+          "t": "wäyəqäfəṣa",
+          "gl": ""
+        },
+        {
+          "g": "ገጻ",
+          "t": "gäṣa",
+          "gl": ""
+        },
+        {
+          "g": "ወይዘርዎሙ",
+          "t": "wäyəzärəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእለ",
+          "t": "läʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ውስቴታ",
+          "t": "wəsəteta",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Behold, the Lord is about to lay waste the world, and will make it desolate, and will lay bare the surface of it, and scatter them that dwell therein.",
+        "kjv": "Behold, the LORD maketh the earth empty, and maketh it waste, and turneth it upside down, and scattereth abroad the inhabitants thereof."
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ወይከውን፡ ሕዝብ፡ ከመ፡ ካህን፣፡ ወገብር፡ ከመ፡ እግዚኡ፣፡ ወአመት፡ ከመ፡ እግዝእታ፤ ወዘይሣየጥ፡ ከመ፡ ዘይሠይት፣፡ ወዘይትሌቃሕ፡ ከመ፡ ዘይሌቅሕ፣፡ ወዘይፈዲ፡ ከመ፡ ዘበዓለ፡ ዕዳ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይከውን",
+          "t": "wäyəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ወገብር",
+          "t": "wägäbərə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚኡ",
+          "t": "ʾəgəziʾu",
+          "gl": ""
+        },
+        {
+          "g": "ወአመት",
+          "t": "wäʾämätə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "እግዝእታ ወዘይሣየጥ",
+          "t": "ʾəgəzəʾəta wäzäyəśayäṭə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ዘይሠይት",
+          "t": "zäyəśäyətə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘይትሌቃሕ",
+          "t": "wäzäyətəleqaḥə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ዘይሌቅሕ",
+          "t": "zäyəleqəḥə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘይፈዲ",
+          "t": "wäzäyəfädi",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ዘበዓለ",
+          "t": "zäbäʿalä",
+          "gl": ""
+        },
+        {
+          "g": "ዕዳ",
+          "t": "ʿəda",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the people shall be as the priest, and the servant as the lord, and the maid as the mistress; the buyer shall be as the seller, the lender as the borrower, and the debtor as his creditor.",
+        "kjv": "And it shall be, as with the people, so with the priest; as with the servant, so with his master; as with the maid, so with her mistress; as with the buyer, so with the seller; as with the lender, so with the borrower; as with the taker of usury, so with the giver of usury to him."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ናሁ፡ ማስኖ፡ ትማስን፡ ምድር፡ ወበርብሮ፡ ትትበረብር፡ ምድር፡ እስመ፡ አፉሁ፡ ለእግዚአብሔር፡ ነበበ፡ ከመዝ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ናሁ",
+          "t": "nahu",
+          "gl": ""
+        },
+        {
+          "g": "ማስኖ",
+          "t": "masəno",
+          "gl": ""
+        },
+        {
+          "g": "ትማስን",
+          "t": "təmasənə",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ወበርብሮ",
+          "t": "wäbärəbəro",
+          "gl": ""
+        },
+        {
+          "g": "ትትበረብር",
+          "t": "tətəbäräbərə",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አፉሁ",
+          "t": "ʾäfuhu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ነበበ",
+          "t": "näbäbä",
+          "gl": ""
+        },
+        {
+          "g": "ከመዝ",
+          "t": "kämäzə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The earth shall be completely laid waste, and the earth shall be utterly spoiled: for the mouth of the Lord has spoken these things.",
+        "kjv": "The land shall be utterly emptied, and utterly spoiled: for the LORD hath spoken this word."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ላሐወት፡ ምድር፡ ወማሰነት፡ ወተገፍትዐት፡ ዓለም፤ ላሕዉ፡ ዓበይተ፡ ምድር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ላሐወት",
+          "t": "laḥäwätə",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ወማሰነት",
+          "t": "wämasänätə",
+          "gl": ""
+        },
+        {
+          "g": "ወተገፍትዐት",
+          "t": "wätägäfətəʿätə",
+          "gl": ""
+        },
+        {
+          "g": "ዓለም ላሕዉ",
+          "t": "ʿalämə laḥəwu",
+          "gl": ""
+        },
+        {
+          "g": "ዓበይተ",
+          "t": "ʿabäyətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The earth mourns, and the world is ruined, the lofty ones of the earth are mourning.",
+        "kjv": "The earth mourneth and fadeth away, the world languisheth and fadeth away, the haughty people of the earth do languish."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "እስመ፡ አበሰት፡ ምድር፡ ምስለ፡ እለ፡ ይነብሩ፡ ውስቴታ፤ እስመ፡ ዐለዉ፡ ሕገ፡ ወወለጡ፡ ሥርዓተ፡ ወክሕዱ፡ ኪዳነ፡ ዘለዓለም።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አበሰት",
+          "t": "ʾäbäsätə",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ውስቴታ እስመ",
+          "t": "wəsəteta ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ዐለዉ",
+          "t": "ʿäläwu",
+          "gl": ""
+        },
+        {
+          "g": "ሕገ",
+          "t": "ḥəgä",
+          "gl": ""
+        },
+        {
+          "g": "ወወለጡ",
+          "t": "wäwäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ሥርዓተ",
+          "t": "śərəʿatä",
+          "gl": ""
+        },
+        {
+          "g": "ወክሕዱ",
+          "t": "wäkəḥədu",
+          "gl": ""
+        },
+        {
+          "g": "ኪዳነ",
+          "t": "kidanä",
+          "gl": ""
+        },
+        {
+          "g": "ዘለዓለም",
+          "t": "zäläʿalämə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And she has sinned by reason of her inhabitants; because they have transgressed the law, and changed the ordinances, even the everlasting covenant.",
+        "kjv": "The earth also is defiled under the inhabitants thereof; because they have transgressed the laws, changed the ordinance, broken the everlasting covenant."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "በእንተ፡ ዝንቱ፡ እንጋ፡ ትውሕጦሙ፡ ምድር፡ እስመ፡ አበሱ፡ እለ፡ ይነብሩ፡ ውስቴታ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "እንጋ",
+          "t": "ʾənəga",
+          "gl": ""
+        },
+        {
+          "g": "ትውሕጦሙ",
+          "t": "təwəḥəṭomu",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አበሱ",
+          "t": "ʾäbäsu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ውስቴታ",
+          "t": "wəsəteta",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Therefore a curse shall consume the earth, because the inhabitants thereof have sinned: therefore the dwellers in the earth shall be poor, and few men shall be left.",
+        "kjv": "Therefore hath the curse devoured the earth, and they that dwell therein are desolate: therefore the inhabitants of the earth are burned, and few men left."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ለይላሕዉ፡ ወይን፡ ወዓፀደ፡ ወይን፡ ወይበክዩ፡ ኵሎሙ፡ እለ፡ ይትፌሥሑ፡ በነፍሶሙ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ለይላሕዉ",
+          "t": "läyəlaḥəwu",
+          "gl": ""
+        },
+        {
+          "g": "ወይን",
+          "t": "wäyənə",
+          "gl": ""
+        },
+        {
+          "g": "ወዓፀደ",
+          "t": "wäʿaṣ́ädä",
+          "gl": ""
+        },
+        {
+          "g": "ወይን",
+          "t": "wäyənə",
+          "gl": ""
+        },
+        {
+          "g": "ወይበክዩ",
+          "t": "wäyəbäkəyu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይትፌሥሑ",
+          "t": "yətəfeśəḥu",
+          "gl": ""
+        },
+        {
+          "g": "በነፍሶሙ",
+          "t": "bänäfəsomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The wine shall mourn, the vine shall mourn, all the merry-hearted shall sigh.",
+        "kjv": "The new wine mourneth, the vine languisheth, all the merryhearted do sigh."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ኀልቀት፡ ትፍሥሕተ፡ ክብሮሙ፣፡ ኀልቀ፡ ትዝኅርት፡ ወብዕለ፡ ኃጥኣን፣፡ ኀልቀ፡ ቃለ፡ መሰንቆ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኀልቀት",
+          "t": "ḫäləqätə",
+          "gl": ""
+        },
+        {
+          "g": "ትፍሥሕተ",
+          "t": "təfəśəḥətä",
+          "gl": ""
+        },
+        {
+          "g": "ክብሮሙ",
+          "t": "kəbəromu",
+          "gl": ""
+        },
+        {
+          "g": "ኀልቀ",
+          "t": "ḫäləqä",
+          "gl": ""
+        },
+        {
+          "g": "ትዝኅርት",
+          "t": "təzəḫərətə",
+          "gl": ""
+        },
+        {
+          "g": "ወብዕለ",
+          "t": "wäbəʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኃጥኣን",
+          "t": "ḫaṭəʾanə",
+          "gl": ""
+        },
+        {
+          "g": "ኀልቀ",
+          "t": "ḫäləqä",
+          "gl": ""
+        },
+        {
+          "g": "ቃለ",
+          "t": "qalä",
+          "gl": ""
+        },
+        {
+          "g": "መሰንቆ",
+          "t": "mäsänəqo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The mirth of timbrels has ceased, the sound of the harp has ceased.",
+        "kjv": "The mirth of tabrets ceaseth, the noise of them that rejoice endeth, the joy of the harp ceaseth."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወተኀፍሩ፡ ወኢይሰትዩ፡ ወይነ፤ መሪረ፡ ኮነ፡ ሜስ፡ ለእለ፡ ይሰትይዎ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተኀፍሩ",
+          "t": "wätäḫäfəru",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይሰትዩ",
+          "t": "wäʾiyəsätəyu",
+          "gl": ""
+        },
+        {
+          "g": "ወይነ መሪረ",
+          "t": "wäyənä märirä",
+          "gl": ""
+        },
+        {
+          "g": "ኮነ",
+          "t": "konä",
+          "gl": ""
+        },
+        {
+          "g": "ሜስ",
+          "t": "mesə",
+          "gl": ""
+        },
+        {
+          "g": "ለእለ",
+          "t": "läʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይሰትይዎ",
+          "t": "yəsätəyəwo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "They are ashamed, they have not drunk wine; strong drink has become bitter to them that drink it.",
+        "kjv": "They shall not drink wine with a song; strong drink shall be bitter to them that drink it."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወመዝበራ፡ ኵሎን፡ አህጉር፡ ወተዐጽዋ፡ አብያት፡ ከመ፡ ኢይባኡ፡ ውስቴቶን።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወመዝበራ",
+          "t": "wämäzəbära",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎን",
+          "t": "kwəlonə",
+          "gl": ""
+        },
+        {
+          "g": "አህጉር",
+          "t": "ʾähəgurə",
+          "gl": ""
+        },
+        {
+          "g": "ወተዐጽዋ",
+          "t": "wätäʿäṣəwa",
+          "gl": ""
+        },
+        {
+          "g": "አብያት",
+          "t": "ʾäbəyatə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ኢይባኡ",
+          "t": "ʾiyəbaʾu",
+          "gl": ""
+        },
+        {
+          "g": "ውስቴቶን",
+          "t": "wəsətetonə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "All the city has become desolate: one shall shut his house so that none shall enter.",
+        "kjv": "The city of confusion is broken down: every house is shut up, that no man may come in."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ብክዩ፡ በእንተ፡ ወይን፡ እስመ፡ ተሥዕረ፡ ኵሉ፡ ትፍሥሕተ፡ ምድር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ብክዩ",
+          "t": "bəkəyu",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ወይን",
+          "t": "wäyənə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ተሥዕረ",
+          "t": "täśəʿərä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ትፍሥሕተ",
+          "t": "təfəśəḥətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "There is a howling for the wine everywhere; all the mirth of the land has ceased, all the mirth of the land has departed.",
+        "kjv": "There is a crying for wine in the streets; all joy is darkened, the mirth of the land is gone."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወይትኀደጋ፡ አህጉር፡ መዝበረ፣፡ ወአብያትኒ፡ የዐርቃ፡ ወይትኀደጋ፡ ወይትሐጐላ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይትኀደጋ",
+          "t": "wäyətəḫädäga",
+          "gl": ""
+        },
+        {
+          "g": "አህጉር",
+          "t": "ʾähəgurə",
+          "gl": ""
+        },
+        {
+          "g": "መዝበረ",
+          "t": "mäzəbärä",
+          "gl": ""
+        },
+        {
+          "g": "ወአብያትኒ",
+          "t": "wäʾäbəyatəni",
+          "gl": ""
+        },
+        {
+          "g": "የዐርቃ",
+          "t": "yäʿärəqa",
+          "gl": ""
+        },
+        {
+          "g": "ወይትኀደጋ",
+          "t": "wäyətəḫädäga",
+          "gl": ""
+        },
+        {
+          "g": "ወይትሐጐላ",
+          "t": "wäyətəḥägwäla",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And cities shall be left desolate, and houses being left shall fall to ruin.",
+        "kjv": "In the city is left desolation, and the gate is smitten with destruction."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ዝንቱ፡ ኵሉ፡ ዘይከውን፡ ውስተ፡ ብሔር፡ ማእከለ፡ አሕዛብ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይከውን",
+          "t": "zäyəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ብሔር",
+          "t": "bəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ማእከለ",
+          "t": "maʾəkälä",
+          "gl": ""
+        },
+        {
+          "g": "አሕዛብ",
+          "t": "ʾäḥəzabə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "All this shall be in the land in the midst of the nations, as if one should strip an olive tree, so shall they strip them; but when the vintage is done,",
+        "kjv": "When thus it shall be in the midst of the land among the people, there shall be as the shaking of an olive tree, and as the gleaning grapes when the vintage is done."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወእለሰ፡ ተርፉ፡ ውስተ፡ ምድር፡ ይትፌሥሑ፡ ኅቡረ፡ በስብሐተ፡ እግዚአብሔር፣፡ ይትከወስ፡ ማየ፡ ባሕር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእለሰ",
+          "t": "wäʾəläsä",
+          "gl": ""
+        },
+        {
+          "g": "ተርፉ",
+          "t": "tärəfu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ይትፌሥሑ",
+          "t": "yətəfeśəḥu",
+          "gl": ""
+        },
+        {
+          "g": "ኅቡረ",
+          "t": "ḫəburä",
+          "gl": ""
+        },
+        {
+          "g": "በስብሐተ",
+          "t": "bäsəbəḥätä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ይትከወስ",
+          "t": "yətəkäwäsə",
+          "gl": ""
+        },
+        {
+          "g": "ማየ",
+          "t": "mayä",
+          "gl": ""
+        },
+        {
+          "g": "ባሕር",
+          "t": "baḥərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "these shall cry aloud; and they that are left on the land shall rejoice together in the glory of the Lord: the water of the sea shall be troubled.",
+        "kjv": "They shall lift up their voice, they shall sing for the majesty of the LORD, they shall cry aloud from the sea."
+      }
+    },
+    {
+      "num": 15,
+      "geez": "እንበይነዝ፡ ስብሐተ፡ እግዚአብሔር፡ ይከውን፡ በደሴያተ፡ ባሕር፣፡ ስመ፡ እግዚአብሔር፡ ይሴባሕ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እንበይነዝ",
+          "t": "ʾənəbäyənäzə",
+          "gl": ""
+        },
+        {
+          "g": "ስብሐተ",
+          "t": "səbəḥätä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ይከውን",
+          "t": "yəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "በደሴያተ",
+          "t": "bädäseyatä",
+          "gl": ""
+        },
+        {
+          "g": "ባሕር",
+          "t": "baḥərə",
+          "gl": ""
+        },
+        {
+          "g": "ስመ",
+          "t": "səmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ይሴባሕ",
+          "t": "yəsebaḥə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Therefore shall the glory of the Lord be in the isles of the sea; the name of the Lord shall be glorious.",
+        "kjv": "Wherefore glorify ye the LORD in the fires, even the name of the LORD God of Israel in the isles of the sea."
+      }
+    },
+    {
+      "num": 16,
+      "geez": "እግዚአብሔር፡ አምላከ፡ እስራኤል፡ እምአጽናፈ፡ ምድር፣፡ ሰማዕነ፡ መንክረ፡ ተስፋሁ፡ ለጻድቅ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላከ",
+          "t": "ʾäməlakä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "እምአጽናፈ",
+          "t": "ʾəməʾäṣənafä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ሰማዕነ",
+          "t": "sämaʿənä",
+          "gl": ""
+        },
+        {
+          "g": "መንክረ",
+          "t": "mänəkərä",
+          "gl": ""
+        },
+        {
+          "g": "ተስፋሁ",
+          "t": "täsəfahu",
+          "gl": ""
+        },
+        {
+          "g": "ለጻድቅ",
+          "t": "läṣadəqə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "O Lord God of Israel, from the ends of the earth we have heard wonderful things, and there is hope to the godly: but they shall say, Woe to the despisers, that despise the law.",
+        "kjv": "From the uttermost part of the earth have we heard songs, even glory to the righteous. But I said, My leanness, my leanness, woe unto me! the treacherous dealers have dealt treacherously; yea, the treacherous dealers have dealt very treacherously."
+      }
+    },
+    {
+      "num": 17,
+      "geez": "ፍርሃት፡ ወጸድፍ፡ ወመሥገርት፡ ላዕሌሆሙ፡ ለእለ፡ ይነብሩ፡ ውስተ፡ ምድር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ፍርሃት",
+          "t": "fərəhatə",
+          "gl": ""
+        },
+        {
+          "g": "ወጸድፍ",
+          "t": "wäṣädəfə",
+          "gl": ""
+        },
+        {
+          "g": "ወመሥገርት",
+          "t": "wämäśəgärətə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሆሙ",
+          "t": "laʿəlehomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእለ",
+          "t": "läʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Fear, and a pit, and a snare, are upon you that dwell on the earth.",
+        "kjv": "Fear, and the pit, and the snare, are upon thee, O inhabitant of the earth."
+      }
+    },
+    {
+      "num": 18,
+      "geez": "ወዘይጐይይ፡ እምፍርሃት፡ ይወድቅ፡ ውስተ፡ ጸድፍ፤ ወዘሂ፡ ወፅአ፡ እምጸድፍ፡ ይእኅዞ፡ መሥገርት።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዘይጐይይ",
+          "t": "wäzäyəgwäyəyə",
+          "gl": ""
+        },
+        {
+          "g": "እምፍርሃት",
+          "t": "ʾəməfərəhatə",
+          "gl": ""
+        },
+        {
+          "g": "ይወድቅ",
+          "t": "yəwädəqə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ጸድፍ ወዘሂ",
+          "t": "ṣädəfə wäzähi",
+          "gl": ""
+        },
+        {
+          "g": "ወፅአ",
+          "t": "wäṣ́əʾä",
+          "gl": ""
+        },
+        {
+          "g": "እምጸድፍ",
+          "t": "ʾəməṣädəfə",
+          "gl": ""
+        },
+        {
+          "g": "ይእኅዞ",
+          "t": "yəʾəḫəzo",
+          "gl": ""
+        },
+        {
+          "g": "መሥገርት",
+          "t": "mäśəgärətə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it shall come to pass, that he that flees from the fear shall fall into the pit; and he that comes up out of the pit shall be caught by the snare: for windows have been opened in heaven, and the foundations of the earth shall be shaken,",
+        "kjv": "And it shall come to pass, that he who fleeth from the noise of the fear shall fall into the pit; and he that cometh up out of the midst of the pit shall be taken in the snare: for the windows from on high are open, and the foundations of the earth do shake."
+      }
+    },
+    {
+      "num": 19,
+      "geez": "ትደነግፅ፡ ምድር፡ ወትትሀወክ፡ ወተኀሥር፡ ምድር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ትደነግፅ",
+          "t": "tədänägəṣ́ə",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ወትትሀወክ",
+          "t": "wätətəhäwäkə",
+          "gl": ""
+        },
+        {
+          "g": "ወተኀሥር",
+          "t": "wätäḫäśərə",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "the earth shall be utterly confounded, and the earth shall be completely perplexed.",
+        "kjv": "The earth is utterly broken down, the earth is clean dissolved, the earth is moved exceedingly."
+      }
+    },
+    {
+      "num": 20,
+      "geez": "ወትተነትን፡ ከመ፡ ስኩር፡ ወከመ፡ ኅዳገ፡ ወይን፣፡ ወትጸንን፡ ወታድለቀልቅ፡ ከመ፡ ልገተ፡ ዓቃቤ፡ ቀምሕ፣፡ ወትወድቅ፡ ወኢትክል፡ ተንሥኦ፡ እስመ፡ ከብዳ፡ ኃጢአታ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትተነትን",
+          "t": "wätətänätənə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ስኩር",
+          "t": "səkurə",
+          "gl": ""
+        },
+        {
+          "g": "ወከመ",
+          "t": "wäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ኅዳገ",
+          "t": "ḫədagä",
+          "gl": ""
+        },
+        {
+          "g": "ወይን",
+          "t": "wäyənə",
+          "gl": ""
+        },
+        {
+          "g": "ወትጸንን",
+          "t": "wätəṣänənə",
+          "gl": ""
+        },
+        {
+          "g": "ወታድለቀልቅ",
+          "t": "wätadəläqäləqə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ልገተ",
+          "t": "ləgätä",
+          "gl": ""
+        },
+        {
+          "g": "ዓቃቤ",
+          "t": "ʿaqabe",
+          "gl": ""
+        },
+        {
+          "g": "ቀምሕ",
+          "t": "qäməḥə",
+          "gl": ""
+        },
+        {
+          "g": "ወትወድቅ",
+          "t": "wätəwädəqə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢትክል",
+          "t": "wäʾitəkələ",
+          "gl": ""
+        },
+        {
+          "g": "ተንሥኦ",
+          "t": "tänəśəʾo",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ከብዳ",
+          "t": "käbəda",
+          "gl": ""
+        },
+        {
+          "g": "ኃጢአታ",
+          "t": "ḫaṭiʾäta",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "It reels as a drunkard and one oppressed with wine, and the earth shall be shaken as a storehouse of fruits; for iniquity has prevailed upon it, and it shall fall, and shall not be able to rise.",
+        "kjv": "The earth shall reel to and fro like a drunkard, and shall be removed like a cottage; and the transgression thereof shall be heavy upon it; and it shall fall, and not rise again."
+      }
+    },
+    {
+      "num": 21,
+      "geez": "ይእተ፡ አሚረ፡ ያመጽእ፡ እግዚአብሔር፡ ዲበ፡ ሠርጐ፡ ሰማይ፡ እዴሁ፡ ወላዕለ፡ ነገሥተ፡ ምድር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ይእተ",
+          "t": "yəʾətä",
+          "gl": ""
+        },
+        {
+          "g": "አሚረ",
+          "t": "ʾämirä",
+          "gl": ""
+        },
+        {
+          "g": "ያመጽእ",
+          "t": "yamäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "ሠርጐ",
+          "t": "śärəgwä",
+          "gl": ""
+        },
+        {
+          "g": "ሰማይ",
+          "t": "sämayə",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        },
+        {
+          "g": "ወላዕለ",
+          "t": "wälaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ነገሥተ",
+          "t": "nägäśətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And God shall bring his hand upon the host of heaven, and upon the kings of the earth.",
+        "kjv": "And it shall come to pass in that day, that the LORD shall punish the host of the high ones that are on high, and the kings of the earth upon the earth."
+      }
+    },
+    {
+      "num": 22,
+      "geez": "ወይትጋብኡ፡ ወይትዐጸዉ፡ ወይጸወኑ፡ ወይትአሰሩ፡ ወይሔውጾሙ፡ ለብዙኅ፡ ትውልድ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይትጋብኡ",
+          "t": "wäyətəgabəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ወይትዐጸዉ",
+          "t": "wäyətəʿäṣäwu",
+          "gl": ""
+        },
+        {
+          "g": "ወይጸወኑ",
+          "t": "wäyəṣäwänu",
+          "gl": ""
+        },
+        {
+          "g": "ወይትአሰሩ",
+          "t": "wäyətəʾäsäru",
+          "gl": ""
+        },
+        {
+          "g": "ወይሔውጾሙ",
+          "t": "wäyəḥewəṣomu",
+          "gl": ""
+        },
+        {
+          "g": "ለብዙኅ",
+          "t": "läbəzuḫə",
+          "gl": ""
+        },
+        {
+          "g": "ትውልድ",
+          "t": "təwələdə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they shall gather the multitude thereof into prisons, and they shall shut them into a strong hold: after many generations they shall be visited.",
+        "kjv": "And they shall be gathered together, as prisoners are gathered in the pit, and shall be shut up in the prison, and after many days shall they be visited."
+      }
+    },
+    {
+      "num": 23,
+      "geez": "ወይትመሰዉ፡ ብዝኆሙ፡ ወይወድቅ፡ አረፍቶሙ፤ እስመ፡ ይነግሥ፡ እግዚአብሔር፡ ዘሎቱ፡ ኃይል፡ በጽዮን፡ ወበኢየሩሳሌም፡ ወይሴባሕ፡ በቅድመ፡ ሊቃናት።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይትመሰዉ",
+          "t": "wäyətəmäsäwu",
+          "gl": ""
+        },
+        {
+          "g": "ብዝኆሙ",
+          "t": "bəzəḫomu",
+          "gl": ""
+        },
+        {
+          "g": "ወይወድቅ",
+          "t": "wäyəwädəqə",
+          "gl": ""
+        },
+        {
+          "g": "አረፍቶሙ እስመ",
+          "t": "ʾäräfətomu ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ይነግሥ",
+          "t": "yənägəśə",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ዘሎቱ",
+          "t": "zälotu",
+          "gl": ""
+        },
+        {
+          "g": "ኃይል",
+          "t": "ḫayələ",
+          "gl": ""
+        },
+        {
+          "g": "በጽዮን",
+          "t": "bäṣəyonə",
+          "gl": ""
+        },
+        {
+          "g": "ወበኢየሩሳሌም",
+          "t": "wäbäʾiyärusalemə",
+          "gl": ""
+        },
+        {
+          "g": "ወይሴባሕ",
+          "t": "wäyəsebaḥə",
+          "gl": ""
+        },
+        {
+          "g": "በቅድመ",
+          "t": "bäqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ሊቃናት",
+          "t": "liqanatə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the brick shall decay, and the wall shall fall; for the Lord shall reign from out of Sion, and out of Jerusalem, and shall be glorified before his elders.",
+        "kjv": "Then the moon shall be confounded, and the sun ashamed, when the LORD of hosts shall reign in mount Zion, and in Jerusalem, and before his ancients gloriously."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

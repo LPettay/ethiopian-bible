@@ -1,0 +1,5623 @@
+{
+  "book": "Deut",
+  "chapter": 28,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወለእመ ፡ ሰሚዐ ፡ ሰማዕክሙ ፡ ቃለ ፡ እግዚአብሔር ፡ አምላክክሙ ፡ ወዐቀብክሙ ፡ ከመ ፡ ትግበሩ ፡ ኵሎ ፡ ትእዛዞ ፡\n                  ዘአነ ፡ እኤዝዘክሙ ፡ ዮም ፡ ወይሬስየከ ፡ እግዚአብሔር ፡ [አምላክከ ፡] መልዕልተ ፡ ኵሉ ፡ አሕዛበ ፡ ምድር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለእመ",
+          "t": "wäläʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ሰሚዐ",
+          "t": "sämiʿä",
+          "gl": ""
+        },
+        {
+          "g": "ሰማዕክሙ",
+          "t": "sämaʿəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ቃለ",
+          "t": "qalä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላክክሙ",
+          "t": "ʾäməlakəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወዐቀብክሙ",
+          "t": "wäʿäqäbəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ትግበሩ",
+          "t": "təgəbäru",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ትእዛዞ",
+          "t": "təʾəzazo",
+          "gl": ""
+        },
+        {
+          "g": "ዘአነ",
+          "t": "zäʾänä",
+          "gl": ""
+        },
+        {
+          "g": "እኤዝዘክሙ",
+          "t": "ʾəʾezəzäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ዮም",
+          "t": "yomə",
+          "gl": ""
+        },
+        {
+          "g": "ወይሬስየከ",
+          "t": "wäyəresəyäkä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላክከ",
+          "t": "ʾäməlakəkä",
+          "gl": ""
+        },
+        {
+          "g": "መልዕልተ",
+          "t": "mäləʿələtä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "አሕዛበ",
+          "t": "ʾäḥəzabä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it shall come to pass, if thou wilt indeed hear the voice of the Lord thy God, to observe and do all these commands, which I charge thee this day, that the Lord thy God shall set thee on high above all the nations of the earth;",
+        "kjv": "And it shall come to pass, if thou shalt hearken diligently unto the voice of the LORD thy God, to observe and to do all his commandments which I command thee this day, that the LORD thy God will set thee on high above all nations of the earth:"
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ወይበጽሐከ ፡ ዝንቱ ፡ ኵሉ ፡ በረከት ፡ ወይረክበከ ፡ ለእመ ፡ ሰማዕከ ፡ ቃለ ፡ እግዚአብሔር ፡ አምላክከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይበጽሐከ",
+          "t": "wäyəbäṣəḥäkä",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "በረከት",
+          "t": "bäräkätə",
+          "gl": ""
+        },
+        {
+          "g": "ወይረክበከ",
+          "t": "wäyəräkəbäkä",
+          "gl": ""
+        },
+        {
+          "g": "ለእመ",
+          "t": "läʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ሰማዕከ",
+          "t": "sämaʿəkä",
+          "gl": ""
+        },
+        {
+          "g": "ቃለ",
+          "t": "qalä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላክከ",
+          "t": "ʾäməlakəkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and all these blessings shall come upon thee, and shall find thee. If thou wilt indeed hear the voice of the Lord thy God,",
+        "kjv": "And all these blessings shall come on thee, and overtake thee, if thou shalt hearken unto the voice of the LORD thy God."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ቡሩከ ፡ ትከውን ፡ በሐቅል ፡ ወቡሩከ ፡ ትከውን ፡ በሀገር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ቡሩከ",
+          "t": "burukä",
+          "gl": ""
+        },
+        {
+          "g": "ትከውን",
+          "t": "təkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "በሐቅል",
+          "t": "bäḥäqələ",
+          "gl": ""
+        },
+        {
+          "g": "ወቡሩከ",
+          "t": "wäburukä",
+          "gl": ""
+        },
+        {
+          "g": "ትከውን",
+          "t": "təkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "በሀገር",
+          "t": "bähägärə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "blessed shalt thou be in the city, and blessed shalt thou be in the field.",
+        "kjv": "Blessed shalt thou be in the city, and blessed shalt thou be in the field."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ቡሩከ ፡ ይከውን ፡ ፍሬ ፡ ከርሥከ ፡ ወቡሩከ ፡ ይከውን ፡ እክለ ፡ ምድርከ ፡ ወአዕጻደ ፡ ላህምከ ፡ ወመራዕየ ፡\n                  አባግዒከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ቡሩከ",
+          "t": "burukä",
+          "gl": ""
+        },
+        {
+          "g": "ይከውን",
+          "t": "yəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ፍሬ",
+          "t": "fəre",
+          "gl": ""
+        },
+        {
+          "g": "ከርሥከ",
+          "t": "kärəśəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወቡሩከ",
+          "t": "wäburukä",
+          "gl": ""
+        },
+        {
+          "g": "ይከውን",
+          "t": "yəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "እክለ",
+          "t": "ʾəkəlä",
+          "gl": ""
+        },
+        {
+          "g": "ምድርከ",
+          "t": "mədərəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወአዕጻደ",
+          "t": "wäʾäʿəṣadä",
+          "gl": ""
+        },
+        {
+          "g": "ላህምከ",
+          "t": "lahəməkä",
+          "gl": ""
+        },
+        {
+          "g": "ወመራዕየ",
+          "t": "wämäraʿəyä",
+          "gl": ""
+        },
+        {
+          "g": "አባግዒከ",
+          "t": "ʾäbagəʿikä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Blessed shall be the offspring of thy body, and the fruits of thy land, and the herds of thy oxen, and the flocks of thy sheep.",
+        "kjv": "Blessed shall be the fruit of thy body, and the fruit of thy ground, and the fruit of thy cattle, the increase of thy kine, and the flocks of thy sheep."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ቡሩከ ፡ ይከውን ፡ መዛግብቲከ ፡ ወትራፋቲከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ቡሩከ",
+          "t": "burukä",
+          "gl": ""
+        },
+        {
+          "g": "ይከውን",
+          "t": "yəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "መዛግብቲከ",
+          "t": "mäzagəbətikä",
+          "gl": ""
+        },
+        {
+          "g": "ወትራፋቲከ",
+          "t": "wätərafatikä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Blessed shall be thy barns, and thy stores.",
+        "kjv": "Blessed shall be thy basket and thy store."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ቡሩከ ፡ ትከውን ፡ በበአትከ ፡ ወቡሩከ ፡ ትከውን ፡ በፀአትከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ቡሩከ",
+          "t": "burukä",
+          "gl": ""
+        },
+        {
+          "g": "ትከውን",
+          "t": "təkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "በበአትከ",
+          "t": "bäbäʾätəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወቡሩከ",
+          "t": "wäburukä",
+          "gl": ""
+        },
+        {
+          "g": "ትከውን",
+          "t": "təkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "በፀአትከ",
+          "t": "bäṣ́äʾätəkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Blessed shalt thou be in thy coming in, and blessed shalt thou be in thy going out.",
+        "kjv": "Blessed shalt thou be when thou comest in, and blessed shalt thou be when thou goest out."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወያገብኦሙ ፡ እግዚአብሔር ፡ አምላክከ ፡ ለፀርከ ፡ [እለ ፡ ይትቃወሙከ ፡] ከመ ፡ ይትቀጥቀጡ ፡ በታሕተ ፡ እገሪከ ፡\n                  በአሐቲ ፡ ፍኖት ፡ ይወፅኡ ፡ ይትቀበሉከ ፡ ወበሰብዑ ፡ ፍናዌ ፡ ይነትዑ ፡ እምቅድመ ፡ ገጽከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያገብኦሙ",
+          "t": "wäyagäbəʾomu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላክከ",
+          "t": "ʾäməlakəkä",
+          "gl": ""
+        },
+        {
+          "g": "ለፀርከ",
+          "t": "läṣ́ärəkä",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይትቃወሙከ",
+          "t": "yətəqawämukä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይትቀጥቀጡ",
+          "t": "yətəqäṭəqäṭu",
+          "gl": ""
+        },
+        {
+          "g": "በታሕተ",
+          "t": "bätaḥətä",
+          "gl": ""
+        },
+        {
+          "g": "እገሪከ",
+          "t": "ʾəgärikä",
+          "gl": ""
+        },
+        {
+          "g": "በአሐቲ",
+          "t": "bäʾäḥäti",
+          "gl": ""
+        },
+        {
+          "g": "ፍኖት",
+          "t": "fənotə",
+          "gl": ""
+        },
+        {
+          "g": "ይወፅኡ",
+          "t": "yəwäṣ́əʾu",
+          "gl": ""
+        },
+        {
+          "g": "ይትቀበሉከ",
+          "t": "yətəqäbälukä",
+          "gl": ""
+        },
+        {
+          "g": "ወበሰብዑ",
+          "t": "wäbäsäbəʿu",
+          "gl": ""
+        },
+        {
+          "g": "ፍናዌ",
+          "t": "fənawe",
+          "gl": ""
+        },
+        {
+          "g": "ይነትዑ",
+          "t": "yənätəʿu",
+          "gl": ""
+        },
+        {
+          "g": "እምቅድመ",
+          "t": "ʾəməqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ገጽከ",
+          "t": "gäṣəkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The Lord deliver thine enemies that withstand thee utterly broken before thy face: they shall come out against thee one way, and they shall flee seven ways from before thee.",
+        "kjv": "The LORD shall cause thine enemies that rise up against thee to be smitten before thy face: they shall come out against thee one way, and flee before thee seven ways."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወይፌኑ ፡ እግዚአብሔር ፡ በረከቶ ፡ ውስተ ፡ አብያቲከ ፡ ወውስተ ፡ ኵሉ ፡ ዘወደይከ ፡ እዴከ ፡ በውስተ ፡ ምድር ፡\n                  እንተ ፡ ወሀበከ ፡ እግዚአብሔር ፡ አምላክከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይፌኑ",
+          "t": "wäyəfenu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "በረከቶ",
+          "t": "bäräkäto",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አብያቲከ",
+          "t": "ʾäbəyatikä",
+          "gl": ""
+        },
+        {
+          "g": "ወውስተ",
+          "t": "wäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘወደይከ",
+          "t": "zäwädäyəkä",
+          "gl": ""
+        },
+        {
+          "g": "እዴከ",
+          "t": "ʾədekä",
+          "gl": ""
+        },
+        {
+          "g": "በውስተ",
+          "t": "bäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ወሀበከ",
+          "t": "wähäbäkä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላክከ",
+          "t": "ʾäməlakəkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The Lord send upon thee his blessing in thy barns, and on all on which thou shalt put thine hand, in the land which the Lord thy God gives thee.",
+        "kjv": "The LORD shall command the blessing upon thee in thy storehouses, and in all that thou settest thine hand unto; and he shall bless thee in the land which the LORD thy God giveth thee."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወያቀውመከ ፡ እግዚአብሔር ፡ ሎቱ ፡ ሕዝበ ፡ ቅዱሰ ፡ በከመ ፡ መሐለ ፡ እግዚአብሔር ፡ ለአበዊከ ፡ (ወ)ለእመ ፡ ሰማዕከ\n                  ፡ ቃለ ፡ እግዚአብሔር ፡ አምላክከ ፡ ወሖርከ ፡ በፍናዊሁ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያቀውመከ",
+          "t": "wäyaqäwəmäkä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝበ",
+          "t": "ḥəzəbä",
+          "gl": ""
+        },
+        {
+          "g": "ቅዱሰ",
+          "t": "qədusä",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "መሐለ",
+          "t": "mäḥälä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለአበዊከ",
+          "t": "läʾäbäwikä",
+          "gl": ""
+        },
+        {
+          "g": "ወለእመ",
+          "t": "wäläʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ሰማዕከ",
+          "t": "sämaʿəkä",
+          "gl": ""
+        },
+        {
+          "g": "ቃለ",
+          "t": "qalä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላክከ",
+          "t": "ʾäməlakəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወሖርከ",
+          "t": "wäḥorəkä",
+          "gl": ""
+        },
+        {
+          "g": "በፍናዊሁ",
+          "t": "bäfənawihu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The Lord raise thee up for himself a holy people, as he sware to thy fathers; if thou wilt hear the voice of the Lord thy God, and walk in all his ways.",
+        "kjv": "The LORD shall establish thee an holy people unto himself, as he hath sworn unto thee, if thou shalt keep the commandments of the LORD thy God, and walk in his ways."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወይሬእየከ ፡ ኵሉ ፡ አሕዛበ ፡ ምድር ፡ ከመ ፡ ተሰምየ ፡ ስሞ ፡ ለእግዚአብሔር ፡ ላዕሌከ ፡ ወይፈርሁከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይሬእየከ",
+          "t": "wäyəreʾəyäkä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "አሕዛበ",
+          "t": "ʾäḥəzabä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ተሰምየ",
+          "t": "täsäməyä",
+          "gl": ""
+        },
+        {
+          "g": "ስሞ",
+          "t": "səmo",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌከ",
+          "t": "laʿəlekä",
+          "gl": ""
+        },
+        {
+          "g": "ወይፈርሁከ",
+          "t": "wäyəfärəhukä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And all the nations of the earth shall see thee, that the name of the Lord is called upon thee, and they shall stand in awe of thee.",
+        "kjv": "And all people of the earth shall see that thou art called by the name of the LORD; and they shall be afraid of thee."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወያተባዝኀከ ፡ እግዚአብሔር ፡ አምላክከ ፡ ውስተ ፡ ሠናይት ፡ በውሉደ ፡ ከርሥከ ፡ ወበእክለ ፡ ምድርከ ፡ ወያስተዋልዶ ፡\n                  ለእንስሳከ ፡ በውስተ ፡ ምድር ፡ እንተ ፡ መሐለ ፡ እግዚአብሔር ፡ ለአበዊከ ፡ ከመ ፡ የሀብከ ፡ ከመ ፡ መዋዕለ ፡ ሰማይ ፡\n                  ዲበ ፡ ምድር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያተባዝኀከ",
+          "t": "wäyatäbazəḫäkä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላክከ",
+          "t": "ʾäməlakəkä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይት",
+          "t": "śänayətə",
+          "gl": ""
+        },
+        {
+          "g": "በውሉደ",
+          "t": "bäwəludä",
+          "gl": ""
+        },
+        {
+          "g": "ከርሥከ",
+          "t": "kärəśəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወበእክለ",
+          "t": "wäbäʾəkəlä",
+          "gl": ""
+        },
+        {
+          "g": "ምድርከ",
+          "t": "mədərəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወያስተዋልዶ",
+          "t": "wäyasətäwalədo",
+          "gl": ""
+        },
+        {
+          "g": "ለእንስሳከ",
+          "t": "läʾənəsəsakä",
+          "gl": ""
+        },
+        {
+          "g": "በውስተ",
+          "t": "bäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "መሐለ",
+          "t": "mäḥälä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለአበዊከ",
+          "t": "läʾäbäwikä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "የሀብከ",
+          "t": "yähäbəkä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕለ",
+          "t": "mäwaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሰማይ",
+          "t": "sämayə",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord thy God shall multiply thee for good in the offspring of thy body, and in the offspring of thy cattle, and in the fruits of thy land, on thy land which the Lord sware to thy fathers to give to thee.",
+        "kjv": "And the LORD shall make thee plenteous in goods, in the fruit of thy body, and in the fruit of thy cattle, and in the fruit of thy ground, in the land which the LORD sware unto thy fathers to give thee."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወይፈትሕ ፡ ለከ ፡ እግዚአብሔር ፡ መዝገበ ፡ ቡሩከ ፡ ሰማይ ፡ ከመ ፡ የሀብከ ፡ ዝናመ ፡ በመዋዕሊሁ ፡ ለምድርከ ፡ ከመ\n                  ፡ ይባርክ ፡ ለከ ፡ ኵሎ ፡ ተግባረ ፡ እደዊከ ፡ ወትሌቅሕ ፡ አንተ ፡ ለብዙኅ ፡ አሕዛብ ፡ ወአንተሰ ፡ ኢትትሌቃሕ ፡\n                  ወትኴንን ፡ አንተ ፡ ለብዙኅ ፡ አሕዛብ ፡ ወለከሰ ፡ ኢይኴንኑከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይፈትሕ",
+          "t": "wäyəfätəḥə",
+          "gl": ""
+        },
+        {
+          "g": "ለከ",
+          "t": "läkä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "መዝገበ",
+          "t": "mäzəgäbä",
+          "gl": ""
+        },
+        {
+          "g": "ቡሩከ",
+          "t": "burukä",
+          "gl": ""
+        },
+        {
+          "g": "ሰማይ",
+          "t": "sämayə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "የሀብከ",
+          "t": "yähäbəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዝናመ",
+          "t": "zənamä",
+          "gl": ""
+        },
+        {
+          "g": "በመዋዕሊሁ",
+          "t": "bämäwaʿəlihu",
+          "gl": ""
+        },
+        {
+          "g": "ለምድርከ",
+          "t": "lämədərəkä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይባርክ",
+          "t": "yəbarəkə",
+          "gl": ""
+        },
+        {
+          "g": "ለከ",
+          "t": "läkä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ተግባረ",
+          "t": "tägəbarä",
+          "gl": ""
+        },
+        {
+          "g": "እደዊከ",
+          "t": "ʾədäwikä",
+          "gl": ""
+        },
+        {
+          "g": "ወትሌቅሕ",
+          "t": "wätəleqəḥə",
+          "gl": ""
+        },
+        {
+          "g": "አንተ",
+          "t": "ʾänətä",
+          "gl": ""
+        },
+        {
+          "g": "ለብዙኅ",
+          "t": "läbəzuḫə",
+          "gl": ""
+        },
+        {
+          "g": "አሕዛብ",
+          "t": "ʾäḥəzabə",
+          "gl": ""
+        },
+        {
+          "g": "ወአንተሰ",
+          "t": "wäʾänətäsä",
+          "gl": ""
+        },
+        {
+          "g": "ኢትትሌቃሕ",
+          "t": "ʾitətəleqaḥə",
+          "gl": ""
+        },
+        {
+          "g": "ወትኴንን",
+          "t": "wätəkwenənə",
+          "gl": ""
+        },
+        {
+          "g": "አንተ",
+          "t": "ʾänətä",
+          "gl": ""
+        },
+        {
+          "g": "ለብዙኅ",
+          "t": "läbəzuḫə",
+          "gl": ""
+        },
+        {
+          "g": "አሕዛብ",
+          "t": "ʾäḥəzabə",
+          "gl": ""
+        },
+        {
+          "g": "ወለከሰ",
+          "t": "wäläkäsä",
+          "gl": ""
+        },
+        {
+          "g": "ኢይኴንኑከ",
+          "t": "ʾiyəkwenənukä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "May the Lord open to thee his good treasure, the heaven, to give rain to thy land in season: may he bless all the works of thy hands: so shalt thou lend to many nations, but thou shalt not borrow; and thou shalt rule over many nations, but they shall not rule over thee.",
+        "kjv": "The LORD shall open unto thee his good treasure, the heaven to give the rain unto thy land in his season, and to bless all the work of thine hand: and thou shalt lend unto many nations, and thou shalt not borrow."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወይሠይመከ ፡ እግዚአብሔር ፡ ውስተ ፡ ርእስ ፡ ወአኮ ፡ ውስተ ፡ ዘነብ ፡ ወትከውን ፡ መልዕልተ ፡ ወኢትከውን ፡ መትሕተ\n                  ፡ ለእመ ፡ ሰማዕክሙ ፡ ቃለ ፡ እግዚአብሔር ፡ አምላክክሙ ፡ ወትእዛዞ ፡ ኵሎ ፡ ዘአነ ፡ እኤዝዘክሙ ፡ ዮም ፡ ከመ ፡ ትዕቀቡ\n                  ፡ ወትግበሩ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይሠይመከ",
+          "t": "wäyəśäyəmäkä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ርእስ",
+          "t": "rəʾəsə",
+          "gl": ""
+        },
+        {
+          "g": "ወአኮ",
+          "t": "wäʾäko",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዘነብ",
+          "t": "zänäbə",
+          "gl": ""
+        },
+        {
+          "g": "ወትከውን",
+          "t": "wätəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "መልዕልተ",
+          "t": "mäləʿələtä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢትከውን",
+          "t": "wäʾitəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "መትሕተ",
+          "t": "mätəḥətä",
+          "gl": ""
+        },
+        {
+          "g": "ለእመ",
+          "t": "läʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ሰማዕክሙ",
+          "t": "sämaʿəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ቃለ",
+          "t": "qalä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላክክሙ",
+          "t": "ʾäməlakəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወትእዛዞ",
+          "t": "wätəʾəzazo",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ዘአነ",
+          "t": "zäʾänä",
+          "gl": ""
+        },
+        {
+          "g": "እኤዝዘክሙ",
+          "t": "ʾəʾezəzäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ዮም",
+          "t": "yomə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ትዕቀቡ",
+          "t": "təʿəqäbu",
+          "gl": ""
+        },
+        {
+          "g": "ወትግበሩ",
+          "t": "wätəgəbäru",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The Lord thy God make thee the head, and not the tail; and thou shalt then be above and thou shalt not be below, if thou wilt hearken to the voice of the Lord thy God, in all things that I charge thee this day to observe.",
+        "kjv": "And the LORD shall make thee the head, and not the tail; and thou shalt be above only, and thou shalt not be beneath; if that thou hearken unto the commandments of the LORD thy God, which I command thee this day, to observe and to do them:"
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወኢትትገሐሡ ፡ እምነ ፡ ኵሉ ፡ ቃል ፡ ዘአነ ፡ እኤዝዘከ ፡ ዮም ፡ ኢለየማን ፡ ወኢለፀጋም ፡ ከመ ፡ ትሑሩ ፡ ድኅረ ፡\n                  አማልክተ ፡ ባዕድ ፡ ታምልክዎሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኢትትገሐሡ",
+          "t": "wäʾitətəgäḥäśu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ቃል",
+          "t": "qalə",
+          "gl": ""
+        },
+        {
+          "g": "ዘአነ",
+          "t": "zäʾänä",
+          "gl": ""
+        },
+        {
+          "g": "እኤዝዘከ",
+          "t": "ʾəʾezəzäkä",
+          "gl": ""
+        },
+        {
+          "g": "ዮም",
+          "t": "yomə",
+          "gl": ""
+        },
+        {
+          "g": "ኢለየማን",
+          "t": "ʾiläyämanə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢለፀጋም",
+          "t": "wäʾiläṣ́ägamə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ትሑሩ",
+          "t": "təḥuru",
+          "gl": ""
+        },
+        {
+          "g": "ድኅረ",
+          "t": "dəḫərä",
+          "gl": ""
+        },
+        {
+          "g": "አማልክተ",
+          "t": "ʾämaləkətä",
+          "gl": ""
+        },
+        {
+          "g": "ባዕድ",
+          "t": "baʿədə",
+          "gl": ""
+        },
+        {
+          "g": "ታምልክዎሙ",
+          "t": "tamələkəwomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Thou shalt not turn aside from any of the commandments, which I charge thee this day, to the right hand or to the left, to go after other gods to serve them.",
+        "kjv": "And thou shalt not go aside from any of the words which I command thee this day, to the right hand, or to the left, to go after other gods to serve them."
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ወለእመ ፡ ኢሰማዕክሙ ፡ ቃለ ፡ እግዚአብሔር ፡ አምላክክሙ ፡ ከመ ፡ ትዕቀቡ ፡ ኵሎ ፡ ትእዛዞ ፡ ዘአነ ፡ እኤዝዘክሙ ፡\n                  ዮም ፡ ወይመጽእ ፡ ላዕሌከ ፡ ኵሉ ፡ ዝንቱ ፡ መርገም ፡ ወይረክበከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለእመ",
+          "t": "wäläʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኢሰማዕክሙ",
+          "t": "ʾisämaʿəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ቃለ",
+          "t": "qalä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላክክሙ",
+          "t": "ʾäməlakəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ትዕቀቡ",
+          "t": "təʿəqäbu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ትእዛዞ",
+          "t": "təʾəzazo",
+          "gl": ""
+        },
+        {
+          "g": "ዘአነ",
+          "t": "zäʾänä",
+          "gl": ""
+        },
+        {
+          "g": "እኤዝዘክሙ",
+          "t": "ʾəʾezəzäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ዮም",
+          "t": "yomə",
+          "gl": ""
+        },
+        {
+          "g": "ወይመጽእ",
+          "t": "wäyəmäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌከ",
+          "t": "laʿəlekä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "መርገም",
+          "t": "märəgämə",
+          "gl": ""
+        },
+        {
+          "g": "ወይረክበከ",
+          "t": "wäyəräkəbäkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But it shall come to pass, if thou wilt not hearken to the voice of the Lord thy God, to observe all his commandments, as many as I charge thee this day, then all these curses shall come on thee, and overtake thee.",
+        "kjv": "But it shall come to pass, if thou wilt not hearken unto the voice of the LORD thy God, to observe to do all his commandments and his statutes which I command thee this day; that all these curses shall come upon thee, and overtake thee:"
+      }
+    },
+    {
+      "num": 16,
+      "geez": "ወትከውን ፡ ርጉመ ፡ አንተ ፡ በሐቅል ፡ ወበሀገር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትከውን",
+          "t": "wätəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ርጉመ",
+          "t": "rəgumä",
+          "gl": ""
+        },
+        {
+          "g": "አንተ",
+          "t": "ʾänətä",
+          "gl": ""
+        },
+        {
+          "g": "በሐቅል",
+          "t": "bäḥäqələ",
+          "gl": ""
+        },
+        {
+          "g": "ወበሀገር",
+          "t": "wäbähägärə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Cursed shalt thou be in the city, and cursed shalt thou be in the field.",
+        "kjv": "Cursed shalt thou be in the city, and cursed shalt thou be in the field."
+      }
+    },
+    {
+      "num": 17,
+      "geez": "ወይከውን ፡ ርጉመ ፡ መዛግብቲከ ፡ ወትራፋቲከ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይከውን",
+          "t": "wäyəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ርጉመ",
+          "t": "rəgumä",
+          "gl": ""
+        },
+        {
+          "g": "መዛግብቲከ",
+          "t": "mäzagəbətikä",
+          "gl": ""
+        },
+        {
+          "g": "ወትራፋቲከ",
+          "t": "wätərafatikä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Cursed shall be thy barns and thy stores.",
+        "kjv": "Cursed shall be thy basket and thy store."
+      }
+    },
+    {
+      "num": 18,
+      "geez": "ወርጉመ ፡ ውሉደ ፡ ከርሥከ ፡ ወእክለ ፡ ምድርከ ፡ ወአዕጻዳተ ፡ አልህምቲከ ፡ ወመራዕየ ፡ አባግዒከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወርጉመ",
+          "t": "wärəgumä",
+          "gl": ""
+        },
+        {
+          "g": "ውሉደ",
+          "t": "wəludä",
+          "gl": ""
+        },
+        {
+          "g": "ከርሥከ",
+          "t": "kärəśəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወእክለ",
+          "t": "wäʾəkəlä",
+          "gl": ""
+        },
+        {
+          "g": "ምድርከ",
+          "t": "mədərəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወአዕጻዳተ",
+          "t": "wäʾäʿəṣadatä",
+          "gl": ""
+        },
+        {
+          "g": "አልህምቲከ",
+          "t": "ʾäləhəmətikä",
+          "gl": ""
+        },
+        {
+          "g": "ወመራዕየ",
+          "t": "wämäraʿəyä",
+          "gl": ""
+        },
+        {
+          "g": "አባግዒከ",
+          "t": "ʾäbagəʿikä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Cursed shall be the offspring of thy body, and the fruits of thy land, the herds of thine oxen, and the flocks of thy sheep.",
+        "kjv": "Cursed shall be the fruit of thy body, and the fruit of thy land, the increase of thy kine, and the flocks of thy sheep."
+      }
+    },
+    {
+      "num": 19,
+      "geez": "ወርጉም ፡ አንተ ፡ በበአትከ ፡ ወበፀአትከ ፡ ርጉመ ፡ ትከውን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወርጉም",
+          "t": "wärəgumə",
+          "gl": ""
+        },
+        {
+          "g": "አንተ",
+          "t": "ʾänətä",
+          "gl": ""
+        },
+        {
+          "g": "በበአትከ",
+          "t": "bäbäʾätəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወበፀአትከ",
+          "t": "wäbäṣ́äʾätəkä",
+          "gl": ""
+        },
+        {
+          "g": "ርጉመ",
+          "t": "rəgumä",
+          "gl": ""
+        },
+        {
+          "g": "ትከውን",
+          "t": "təkäwənə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Cursed shalt thou be in thy coming in, and cursed shalt thou be in thy going out.",
+        "kjv": "Cursed shalt thou be when thou comest in, and cursed shalt thou be when thou goest out."
+      }
+    },
+    {
+      "num": 20,
+      "geez": "ወይፌኑ ፡ ላዕሌከ ፡ እግዚአብሔር ፡ ንዴተ ፡ ወረኃበ ፡ ወብድብደ ፡ ወይጠፍእ ፡ ኵሉ ፡ ዘወደይከ ፡ እዴከ ፡ ውስቴቱ ፡\n                  ወይሤርወከ ፡ እስከ ፡ ይደመስሰከ ፡ ፍጡነ ፡ በበይነ ፡ እከየ ፡ ምግባሪከ ፡ እስመ ፡ ኀደገኒ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይፌኑ",
+          "t": "wäyəfenu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌከ",
+          "t": "laʿəlekä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ንዴተ",
+          "t": "nədetä",
+          "gl": ""
+        },
+        {
+          "g": "ወረኃበ",
+          "t": "wäräḫabä",
+          "gl": ""
+        },
+        {
+          "g": "ወብድብደ",
+          "t": "wäbədəbədä",
+          "gl": ""
+        },
+        {
+          "g": "ወይጠፍእ",
+          "t": "wäyəṭäfəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘወደይከ",
+          "t": "zäwädäyəkä",
+          "gl": ""
+        },
+        {
+          "g": "እዴከ",
+          "t": "ʾədekä",
+          "gl": ""
+        },
+        {
+          "g": "ውስቴቱ",
+          "t": "wəsətetu",
+          "gl": ""
+        },
+        {
+          "g": "ወይሤርወከ",
+          "t": "wäyəśerəwäkä",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ይደመስሰከ",
+          "t": "yədämäsəsäkä",
+          "gl": ""
+        },
+        {
+          "g": "ፍጡነ",
+          "t": "fəṭunä",
+          "gl": ""
+        },
+        {
+          "g": "በበይነ",
+          "t": "bäbäyənä",
+          "gl": ""
+        },
+        {
+          "g": "እከየ",
+          "t": "ʾəkäyä",
+          "gl": ""
+        },
+        {
+          "g": "ምግባሪከ",
+          "t": "məgəbarikä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኀደገኒ",
+          "t": "ḫädägäni",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The Lord send upon thee want, and famine, and consumption on all things on which thou shalt put thy hand, until he shall have utterly destroyed thee, and until he shall have consumed thee quickly because of thine evil devices, because thou hast forsaken me.",
+        "kjv": "The LORD shall send upon thee cursing, vexation, and rebuke, in all that thou settest thine hand unto for to do, until thou be destroyed, and until thou perish quickly; because of the wickedness of thy doings, whereby thou hast forsaken me."
+      }
+    },
+    {
+      "num": 21,
+      "geez": "ወያተሉ ፡ እግዚአብሔር ፡ ሞተ ፡ ላዕሌከ ፡ እስከ ፡ ያጠፍአከ ፡ እምነ ፡ ምድር ፡ እንተ ፡ ውስቴታ ፡ ትበውእ ፡ ህየ ፡\n                  ከመ ፡ ትትወረሳ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያተሉ",
+          "t": "wäyatälu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ሞተ",
+          "t": "motä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌከ",
+          "t": "laʿəlekä",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ያጠፍአከ",
+          "t": "yaṭäfəʾäkä",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ውስቴታ",
+          "t": "wəsəteta",
+          "gl": ""
+        },
+        {
+          "g": "ትበውእ",
+          "t": "təbäwəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ህየ",
+          "t": "həyä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ትትወረሳ",
+          "t": "tətəwäräsa",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The Lord cause the pestilence to cleave to thee, until he shall have consumed thee off the land into which thou goest to inherit it.",
+        "kjv": "The LORD shall make the pestilence cleave unto thee, until he have consumed thee from off the land, whither thou goest to possess it."
+      }
+    },
+    {
+      "num": 22,
+      "geez": "ወይቀሥፈከ ፡ እግዚአብሔር ፡ በደዌ ፡ ሲሕ ፡ ወበፈጸንት ፡ ወበአስፈር ፡ ወበፍርሃት ፡ ወበድንጋፄ ፡ ወበዐባር ፡ ወበኀጣእ\n                  ፡ ወይሰድዱከ ፡ እስከ ፡ ያጠፍኡከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቀሥፈከ",
+          "t": "wäyəqäśəfäkä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "በደዌ",
+          "t": "bädäwe",
+          "gl": ""
+        },
+        {
+          "g": "ሲሕ",
+          "t": "siḥə",
+          "gl": ""
+        },
+        {
+          "g": "ወበፈጸንት",
+          "t": "wäbäfäṣänətə",
+          "gl": ""
+        },
+        {
+          "g": "ወበአስፈር",
+          "t": "wäbäʾäsəfärə",
+          "gl": ""
+        },
+        {
+          "g": "ወበፍርሃት",
+          "t": "wäbäfərəhatə",
+          "gl": ""
+        },
+        {
+          "g": "ወበድንጋፄ",
+          "t": "wäbädənəgaṣ́e",
+          "gl": ""
+        },
+        {
+          "g": "ወበዐባር",
+          "t": "wäbäʿäbarə",
+          "gl": ""
+        },
+        {
+          "g": "ወበኀጣእ",
+          "t": "wäbäḫäṭaʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወይሰድዱከ",
+          "t": "wäyəsädədukä",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ያጠፍኡከ",
+          "t": "yaṭäfəʾukä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The Lord smite thee with distress, and fever, and cold, and inflammation, and blighting, and paleness, and they shall pursue thee until they have destroyed thee.",
+        "kjv": "The LORD shall smite thee with a consumption, and with a fever, and with an inflammation, and with an extreme burning, and with the sword, and with blasting, and with mildew; and they shall pursue thee until thou perish."
+      }
+    },
+    {
+      "num": 23,
+      "geez": "ወትከውነከ ፡ ሰማይ ፡ በመልዕልተ ፡ ርእስከ ፡ ብርተ ፡ ወምድርኒ ፡ በመትሕቴከ ፡ ሐፂነ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትከውነከ",
+          "t": "wätəkäwənäkä",
+          "gl": ""
+        },
+        {
+          "g": "ሰማይ",
+          "t": "sämayə",
+          "gl": ""
+        },
+        {
+          "g": "በመልዕልተ",
+          "t": "bämäləʿələtä",
+          "gl": ""
+        },
+        {
+          "g": "ርእስከ",
+          "t": "rəʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ብርተ",
+          "t": "bərətä",
+          "gl": ""
+        },
+        {
+          "g": "ወምድርኒ",
+          "t": "wämədərəni",
+          "gl": ""
+        },
+        {
+          "g": "በመትሕቴከ",
+          "t": "bämätəḥətekä",
+          "gl": ""
+        },
+        {
+          "g": "ሐፂነ",
+          "t": "ḥäṣ́inä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And thou shalt have over thine head a sky of brass, and the earth under thee shall be iron.",
+        "kjv": "And thy heaven that is over thy head shall be brass, and the earth that is under thee shall be iron."
+      }
+    },
+    {
+      "num": 24,
+      "geez": "ወይሬስዮ ፡ እግዚአብሔር ፡ ለዝናመ ፡ ምድርከ ፡ ቆባረ ፡ ወመሬት ፡ ይወርድ ፡ እምሰማይ ፡ ላዕሌከ ፡ እስከ ፡ ይቀጠቅጠከ\n                  ፡ ወእስከ ፡ ያጠፍአከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይሬስዮ",
+          "t": "wäyəresəyo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለዝናመ",
+          "t": "läzənamä",
+          "gl": ""
+        },
+        {
+          "g": "ምድርከ",
+          "t": "mədərəkä",
+          "gl": ""
+        },
+        {
+          "g": "ቆባረ",
+          "t": "qobarä",
+          "gl": ""
+        },
+        {
+          "g": "ወመሬት",
+          "t": "wämäretə",
+          "gl": ""
+        },
+        {
+          "g": "ይወርድ",
+          "t": "yəwärədə",
+          "gl": ""
+        },
+        {
+          "g": "እምሰማይ",
+          "t": "ʾəməsämayə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌከ",
+          "t": "laʿəlekä",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ይቀጠቅጠከ",
+          "t": "yəqäṭäqəṭäkä",
+          "gl": ""
+        },
+        {
+          "g": "ወእስከ",
+          "t": "wäʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ያጠፍአከ",
+          "t": "yaṭäfəʾäkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The Lord thy God make the rain of thy land dust; and dust shall come down from heaven, until it shall have destroyed thee, and until it shall have quickly consumed thee.",
+        "kjv": "The LORD shall make the rain of thy land powder and dust: from heaven shall it come down upon thee, until thou be destroyed."
+      }
+    },
+    {
+      "num": 25,
+      "geez": "ወይገብረከ ፡ እግዚአብሔር ፡ ከመ ፡ ትትቀተል ፡ በቅድመ ፡ ፀርከ ፡ በአሐቲ ፡ ፍኖት ፡ ትወፅእ ፡ ኀቤሆሙ ፡ ወበሰብዑ ፡\n                  ፍናዌ ፡ ትነትዕ ፡ እምቅድመ ፡ ገጾሙ ፡ ወትከውን ፡ ዝርወ ፡ ውስተ ፡ ኵሉ ፡ መንግሥታተ ፡ ምድር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይገብረከ",
+          "t": "wäyəgäbəräkä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ትትቀተል",
+          "t": "tətəqätälə",
+          "gl": ""
+        },
+        {
+          "g": "በቅድመ",
+          "t": "bäqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ፀርከ",
+          "t": "ṣ́ärəkä",
+          "gl": ""
+        },
+        {
+          "g": "በአሐቲ",
+          "t": "bäʾäḥäti",
+          "gl": ""
+        },
+        {
+          "g": "ፍኖት",
+          "t": "fənotə",
+          "gl": ""
+        },
+        {
+          "g": "ትወፅእ",
+          "t": "təwäṣ́əʾə",
+          "gl": ""
+        },
+        {
+          "g": "ኀቤሆሙ",
+          "t": "ḫäbehomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበሰብዑ",
+          "t": "wäbäsäbəʿu",
+          "gl": ""
+        },
+        {
+          "g": "ፍናዌ",
+          "t": "fənawe",
+          "gl": ""
+        },
+        {
+          "g": "ትነትዕ",
+          "t": "tənätəʿə",
+          "gl": ""
+        },
+        {
+          "g": "እምቅድመ",
+          "t": "ʾəməqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ገጾሙ",
+          "t": "gäṣomu",
+          "gl": ""
+        },
+        {
+          "g": "ወትከውን",
+          "t": "wätəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ዝርወ",
+          "t": "zərəwä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "መንግሥታተ",
+          "t": "mänəgəśətatä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The Lord give thee up for slaughter before thine enemies: thou shalt go out against them one way, and flee from their face seven ways; and thou shalt be a dispersion in all the kingdoms of the earth.",
+        "kjv": "The LORD shall cause thee to be smitten before thine enemies: thou shalt go out one way against them, and flee seven ways before them: and shalt be removed into all the kingdoms of the earth."
+      }
+    },
+    {
+      "num": 26,
+      "geez": "ወይከውን ፡ አብድንቲክሙ ፡ መብልዐ ፡ ለአዕዋፈ ፡ ሰማይ ፡ ወኢትረክቡ ፡ ዘይቀብረክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይከውን",
+          "t": "wäyəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "አብድንቲክሙ",
+          "t": "ʾäbədənətikəmu",
+          "gl": ""
+        },
+        {
+          "g": "መብልዐ",
+          "t": "mäbələʿä",
+          "gl": ""
+        },
+        {
+          "g": "ለአዕዋፈ",
+          "t": "läʾäʿəwafä",
+          "gl": ""
+        },
+        {
+          "g": "ሰማይ",
+          "t": "sämayə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢትረክቡ",
+          "t": "wäʾitəräkəbu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይቀብረክሙ",
+          "t": "zäyəqäbəräkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And your dead men shall be food to the birds of the sky, and to the beasts of the earth; and there shall be none to scare them away.",
+        "kjv": "And thy carcase shall be meat unto all fowls of the air, and unto the beasts of the earth, and no man shall fray them away."
+      }
+    },
+    {
+      "num": 27,
+      "geez": "ወይቀሥፈከ ፡ እግዚአብሔር ፡ በመቅሠፍተ ፡ ግብጽ ፡ በዐበቅ ፡ እኩይ ፡ ውስተ ፡ ነፍስትከ ፡ ወበሕከክ ፡ ዘአልቦ ፡ ፈውሰ\n                  ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቀሥፈከ",
+          "t": "wäyəqäśəfäkä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "በመቅሠፍተ",
+          "t": "bämäqəśäfətä",
+          "gl": ""
+        },
+        {
+          "g": "ግብጽ",
+          "t": "gəbəṣə",
+          "gl": ""
+        },
+        {
+          "g": "በዐበቅ",
+          "t": "bäʿäbäqə",
+          "gl": ""
+        },
+        {
+          "g": "እኩይ",
+          "t": "ʾəkuyə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ነፍስትከ",
+          "t": "näfəsətəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወበሕከክ",
+          "t": "wäbäḥəkäkə",
+          "gl": ""
+        },
+        {
+          "g": "ዘአልቦ",
+          "t": "zäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ፈውሰ",
+          "t": "fäwəsä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The Lord smite thee with the botch of Egypt in the seat, and with a malignant scab, and itch, so that thou canst not be healed.",
+        "kjv": "The LORD will smite thee with the botch of Egypt, and with the emerods, and with the scab, and with the itch, whereof thou canst not be healed."
+      }
+    },
+    {
+      "num": 28,
+      "geez": "ወይቀሥፈከ ፡ እግዚአብሔር ፡ በድቀት ፡ ወበዕወር ፡ ወበድንጋፄ ፡ ልብ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቀሥፈከ",
+          "t": "wäyəqäśəfäkä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "በድቀት",
+          "t": "bädəqätə",
+          "gl": ""
+        },
+        {
+          "g": "ወበዕወር",
+          "t": "wäbäʿəwärə",
+          "gl": ""
+        },
+        {
+          "g": "ወበድንጋፄ",
+          "t": "wäbädənəgaṣ́e",
+          "gl": ""
+        },
+        {
+          "g": "ልብ",
+          "t": "ləbə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The Lord smite thee with insanity, and blindness, and astonishment of mind.",
+        "kjv": "The LORD shall smite thee with madness, and blindness, and astonishment of heart:"
+      }
+    },
+    {
+      "num": 29,
+      "geez": "ወትገብእ ፡ ትመረስስ ፡ መዐልተ ፡ ከመ ፡ ይመረስስ ፡ ዕውር ፡ በውስተ ፡ ጽልመት ፡ ወኢትረክብ ፡ ፍኖተ ፡ ወትትገፋዕ ፡\n                  ወትትበረበር ፡ በኵሉ ፡ መዋዕሊከ ፡ ወኢትረክብ ፡ ዘይረድአከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትገብእ",
+          "t": "wätəgäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ትመረስስ",
+          "t": "təmäräsəsə",
+          "gl": ""
+        },
+        {
+          "g": "መዐልተ",
+          "t": "mäʿälətä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይመረስስ",
+          "t": "yəmäräsəsə",
+          "gl": ""
+        },
+        {
+          "g": "ዕውር",
+          "t": "ʿəwərə",
+          "gl": ""
+        },
+        {
+          "g": "በውስተ",
+          "t": "bäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ጽልመት",
+          "t": "ṣələmätə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢትረክብ",
+          "t": "wäʾitəräkəbə",
+          "gl": ""
+        },
+        {
+          "g": "ፍኖተ",
+          "t": "fənotä",
+          "gl": ""
+        },
+        {
+          "g": "ወትትገፋዕ",
+          "t": "wätətəgäfaʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወትትበረበር",
+          "t": "wätətəbäräbärə",
+          "gl": ""
+        },
+        {
+          "g": "በኵሉ",
+          "t": "bäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕሊከ",
+          "t": "mäwaʿəlikä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢትረክብ",
+          "t": "wäʾitəräkəbə",
+          "gl": ""
+        },
+        {
+          "g": "ዘይረድአከ",
+          "t": "zäyərädəʾäkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And thou shalt grope at mid-day, as a blind man would grope in the darkness, and thou shalt not prosper in thy ways; and then thou shalt be unjustly treated, and plundered continually, and there shall be no helper.",
+        "kjv": "And thou shalt grope at noonday, as the blind gropeth in darkness, and thou shalt not prosper in thy ways: and thou shalt be only oppressed and spoiled evermore, and no man shall save thee."
+      }
+    },
+    {
+      "num": 30,
+      "geez": "ወታወስብ ፡ ብእሲተ ፡ ወየሀይደካሃ ፡ ካልእ ፡ ብእሲ ፡ ወትነድቅ ፡ ቤተ ፡ ወኢትነብር ፡ ውስቴቱ ፡ ወትተክል ፡ ወይነ ፡\n                  ወኢትቀሥሞ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወታወስብ",
+          "t": "wätawäsəbə",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲተ",
+          "t": "bəʾəsitä",
+          "gl": ""
+        },
+        {
+          "g": "ወየሀይደካሃ",
+          "t": "wäyähäyədäkaha",
+          "gl": ""
+        },
+        {
+          "g": "ካልእ",
+          "t": "kaləʾə",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ወትነድቅ",
+          "t": "wätənädəqə",
+          "gl": ""
+        },
+        {
+          "g": "ቤተ",
+          "t": "betä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢትነብር",
+          "t": "wäʾitənäbərə",
+          "gl": ""
+        },
+        {
+          "g": "ውስቴቱ",
+          "t": "wəsətetu",
+          "gl": ""
+        },
+        {
+          "g": "ወትተክል",
+          "t": "wätətäkələ",
+          "gl": ""
+        },
+        {
+          "g": "ወይነ",
+          "t": "wäyənä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢትቀሥሞ",
+          "t": "wäʾitəqäśəmo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Thou shalt take a wife, and another man shall have her; thou shalt build a house, and thou shalt not dwell in it; thou shalt plant a vineyard, and shalt not gather the grapes of it.",
+        "kjv": "Thou shalt betroth a wife, and another man shall lie with her: thou shalt build an house, and thou shalt not dwell therein: thou shalt plant a vineyard, and shalt not gather the grapes thereof."
+      }
+    },
+    {
+      "num": 31,
+      "geez": "ወይጠብኁ ፡ ላህመከ ፡ ወኢትበልዕ ፡ እምኔሁ ፡ ወየሀይዱከ ፡ አድገከ ፡ ወኢያገብኡ ፡ ለከ ፡ ወይገብእ ፡ አባግዒከ ፡\n                  (ለአግብርት ፡ ወ)ለፀርከ ፡ ወኢትረክብ ፡ ዘይረድእከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይጠብኁ",
+          "t": "wäyəṭäbəḫu",
+          "gl": ""
+        },
+        {
+          "g": "ላህመከ",
+          "t": "lahəmäkä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢትበልዕ",
+          "t": "wäʾitəbäləʿə",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "ወየሀይዱከ",
+          "t": "wäyähäyədukä",
+          "gl": ""
+        },
+        {
+          "g": "አድገከ",
+          "t": "ʾädəgäkä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢያገብኡ",
+          "t": "wäʾiyagäbəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ለከ",
+          "t": "läkä",
+          "gl": ""
+        },
+        {
+          "g": "ወይገብእ",
+          "t": "wäyəgäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "አባግዒከ",
+          "t": "ʾäbagəʿikä",
+          "gl": ""
+        },
+        {
+          "g": "ለአግብርት",
+          "t": "läʾägəbərətə",
+          "gl": ""
+        },
+        {
+          "g": "ወለፀርከ",
+          "t": "wäläṣ́ärəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢትረክብ",
+          "t": "wäʾitəräkəbə",
+          "gl": ""
+        },
+        {
+          "g": "ዘይረድእከ",
+          "t": "zäyərädəʾəkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Thy calf shall be slain before thee, and thou shalt not eat of it; thine ass shall be violently taken away from thee, and shall not be restored to thee: thy sheep shall be given to thine enemies, and thou shalt have no helper.",
+        "kjv": "Thine ox shall be slain before thine eyes, and thou shalt not eat thereof: thine ass shall be violently taken away from before thy face, and shall not be restored to thee: thy sheep shall be given unto thine enemies, and thou shalt have none to rescue them."
+      }
+    },
+    {
+      "num": 32,
+      "geez": "ወይገብኡ ፡ ደቂቅከ ፡ ወአዋልዲከ ፡ ለካልእ ፡ ሕዝብ ፡ ወትሬኢ ፡ በአዕይንቲከ ፡ እንዘ ፡ ይኰርዕዎሙ ፡ ወአልቦ ፡\n                  ዘትክል ፡ ገቢረ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይገብኡ",
+          "t": "wäyəgäbəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቅከ",
+          "t": "däqiqəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወአዋልዲከ",
+          "t": "wäʾäwalədikä",
+          "gl": ""
+        },
+        {
+          "g": "ለካልእ",
+          "t": "läkaləʾə",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ወትሬኢ",
+          "t": "wätəreʾi",
+          "gl": ""
+        },
+        {
+          "g": "በአዕይንቲከ",
+          "t": "bäʾäʿəyənətikä",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ይኰርዕዎሙ",
+          "t": "yəkwärəʿəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ወአልቦ",
+          "t": "wäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘትክል",
+          "t": "zätəkələ",
+          "gl": ""
+        },
+        {
+          "g": "ገቢረ",
+          "t": "gäbirä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Thy sons and thy daughters shall be given to another nation, and thine eyes wasting away shall look for them: thine hand shall have no strength.",
+        "kjv": "Thy sons and thy daughters shall be given unto another people, and thine eyes shall look, and fail with longing for them all the day long: and there shall be no might in thine hand:"
+      }
+    },
+    {
+      "num": 33,
+      "geez": "ወይበልዕ ፡ ሕዝብ ፡ ዘኢታአምር ፡ እክለ ፡ ምድርከ ፡ ወጻማከ ፡ ወትከውን ፡ ጽዑረ ፡ ወሥቁየ ፡ በኵሉ ፡ መዋዕል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይበልዕ",
+          "t": "wäyəbäləʿə",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ዘኢታአምር",
+          "t": "zäʾitaʾämərə",
+          "gl": ""
+        },
+        {
+          "g": "እክለ",
+          "t": "ʾəkəlä",
+          "gl": ""
+        },
+        {
+          "g": "ምድርከ",
+          "t": "mədərəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወጻማከ",
+          "t": "wäṣamakä",
+          "gl": ""
+        },
+        {
+          "g": "ወትከውን",
+          "t": "wätəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ጽዑረ",
+          "t": "ṣəʿurä",
+          "gl": ""
+        },
+        {
+          "g": "ወሥቁየ",
+          "t": "wäśəquyä",
+          "gl": ""
+        },
+        {
+          "g": "በኵሉ",
+          "t": "bäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕል",
+          "t": "mäwaʿələ",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "A nation which thou knowest not shall eat the produce of thy land, and all thy labours; and thou shalt be injured and crushed always.",
+        "kjv": "The fruit of thy land, and all thy labours, shall a nation which thou knowest not eat up; and thou shalt be only oppressed and crushed alway:"
+      }
+    },
+    {
+      "num": 34,
+      "geez": "ወትከውን ፡ ምሑፀ ፡ በምርኣየ ፡ አዕይንቲከ ፡ ወኢትሬኢ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትከውን",
+          "t": "wätəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ምሑፀ",
+          "t": "məḥuṣ́ä",
+          "gl": ""
+        },
+        {
+          "g": "በምርኣየ",
+          "t": "bämərəʾayä",
+          "gl": ""
+        },
+        {
+          "g": "አዕይንቲከ",
+          "t": "ʾäʿəyənətikä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢትሬኢ",
+          "t": "wäʾitəreʾi",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And thou shalt be distracted, because of the sights of thine eyes which thou shalt see.",
+        "kjv": "So that thou shalt be mad for the sight of thine eyes which thou shalt see."
+      }
+    },
+    {
+      "num": 35,
+      "geez": "ወይቀሥፈከ ፡ እግዚአብሔር ፡ በደዌ ፡ እኩይ ፡ ውስተ ፡ ብረኪከ ፡ ወውስተ ፡ አቍያጺከ ፡ ወውስተ ፡ አዕማደ ፡ እገሪከ ፡\n                  በዘ ፡ ኢትክል ፡ ሐይወ ፡ እምነ ፡ ሰኰና ፡ እገሪከ ፡ እስከ ፡ ርእስከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቀሥፈከ",
+          "t": "wäyəqäśəfäkä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "በደዌ",
+          "t": "bädäwe",
+          "gl": ""
+        },
+        {
+          "g": "እኩይ",
+          "t": "ʾəkuyə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ብረኪከ",
+          "t": "bəräkikä",
+          "gl": ""
+        },
+        {
+          "g": "ወውስተ",
+          "t": "wäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አቍያጺከ",
+          "t": "ʾäqwəyaṣikä",
+          "gl": ""
+        },
+        {
+          "g": "ወውስተ",
+          "t": "wäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አዕማደ",
+          "t": "ʾäʿəmadä",
+          "gl": ""
+        },
+        {
+          "g": "እገሪከ",
+          "t": "ʾəgärikä",
+          "gl": ""
+        },
+        {
+          "g": "በዘ",
+          "t": "bäzä",
+          "gl": ""
+        },
+        {
+          "g": "ኢትክል",
+          "t": "ʾitəkələ",
+          "gl": ""
+        },
+        {
+          "g": "ሐይወ",
+          "t": "ḥäyəwä",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ሰኰና",
+          "t": "säkwäna",
+          "gl": ""
+        },
+        {
+          "g": "እገሪከ",
+          "t": "ʾəgärikä",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ርእስከ",
+          "t": "rəʾəsəkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The Lord smite thee with an evil sore, on the knees and the legs, so that thou shalt not be able to be healed from the sole of thy foot to the crown of thy head.",
+        "kjv": "The LORD shall smite thee in the knees, and in the legs, with a sore botch that cannot be healed, from the sole of thy foot unto the top of thy head."
+      }
+    },
+    {
+      "num": 36,
+      "geez": "ወይወስደከ ፡ እግዚአብሔር ፡ ኪያከኒ ፡ ወመላእክቲከኒ ፡ እለ ፡ ሤምከ ፡ ለከ ፡ ውስተ ፡ ሕዝብ ፡ (ዐቢይ ፡) ዘኢታአምር\n                  ፡ ኢአንተ ፡ ወኢአበዊከ ፡ ወታመልክ ፡ በህየ ፡ ባዕደ ፡ አማልክተ ፡ ወዕፀወ ፡ ወእበነ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይወስደከ",
+          "t": "wäyəwäsədäkä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ኪያከኒ",
+          "t": "kiyakäni",
+          "gl": ""
+        },
+        {
+          "g": "ወመላእክቲከኒ",
+          "t": "wämälaʾəkətikäni",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሤምከ",
+          "t": "śeməkä",
+          "gl": ""
+        },
+        {
+          "g": "ለከ",
+          "t": "läkä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ዐቢይ",
+          "t": "ʿäbiyə",
+          "gl": ""
+        },
+        {
+          "g": "ዘኢታአምር",
+          "t": "zäʾitaʾämərə",
+          "gl": ""
+        },
+        {
+          "g": "ኢአንተ",
+          "t": "ʾiʾänətä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢአበዊከ",
+          "t": "wäʾiʾäbäwikä",
+          "gl": ""
+        },
+        {
+          "g": "ወታመልክ",
+          "t": "wätamäləkə",
+          "gl": ""
+        },
+        {
+          "g": "በህየ",
+          "t": "bähəyä",
+          "gl": ""
+        },
+        {
+          "g": "ባዕደ",
+          "t": "baʿədä",
+          "gl": ""
+        },
+        {
+          "g": "አማልክተ",
+          "t": "ʾämaləkətä",
+          "gl": ""
+        },
+        {
+          "g": "ወዕፀወ",
+          "t": "wäʿəṣ́äwä",
+          "gl": ""
+        },
+        {
+          "g": "ወእበነ",
+          "t": "wäʾəbänä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The Lord carry away thee and thy princes, whom thou shalt set over thee, to a nation which neither thou nor thy fathers know; and thou shalt there serve other gods, wood and stone.",
+        "kjv": "The LORD shall bring thee, and thy king which thou shalt set over thee, unto a nation which neither thou nor thy fathers have known; and there shalt thou serve other gods, wood and stone."
+      }
+    },
+    {
+      "num": 37,
+      "geez": "ወትከውን ፡ በህየ ፡ ድንጉፀ ፡ ወትከውን ፡ አምሳለ ፡ ወነገረ ፡ ለኵሉ ፡ አሕዛብ ፡ እለ ፡ ውስቴቶሙ ፡ (ወእለ ፡\n                  ኀቤሆሙ ፡) ይወስደከ ፡ እግዚአብሔር ፡ ህየ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትከውን",
+          "t": "wätəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "በህየ",
+          "t": "bähəyä",
+          "gl": ""
+        },
+        {
+          "g": "ድንጉፀ",
+          "t": "dənəguṣ́ä",
+          "gl": ""
+        },
+        {
+          "g": "ወትከውን",
+          "t": "wätəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "አምሳለ",
+          "t": "ʾäməsalä",
+          "gl": ""
+        },
+        {
+          "g": "ወነገረ",
+          "t": "wänägärä",
+          "gl": ""
+        },
+        {
+          "g": "ለኵሉ",
+          "t": "läkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "አሕዛብ",
+          "t": "ʾäḥəzabə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ውስቴቶሙ",
+          "t": "wəsətetomu",
+          "gl": ""
+        },
+        {
+          "g": "ወእለ",
+          "t": "wäʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኀቤሆሙ",
+          "t": "ḫäbehomu",
+          "gl": ""
+        },
+        {
+          "g": "ይወስደከ",
+          "t": "yəwäsədäkä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ህየ",
+          "t": "həyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And thou shalt be there for a wonder, and a parable, and a tale, among all the nations, to which the Lord thy God shall carry thee away.",
+        "kjv": "And thou shalt become an astonishment, a proverb, and a byword, among all nations whither the LORD shall lead thee."
+      }
+    },
+    {
+      "num": 38,
+      "geez": "ወታወጽእ ፡ ብዙኀ ፡ ዘርዐ ፡ ውስተ ፡ ገራህትከ ፡ ወታበውእ ፡ ውሑደ ፡ እስመ ፡ አንበጣ ፡ በልዖ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወታወጽእ",
+          "t": "wätawäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ብዙኀ",
+          "t": "bəzuḫä",
+          "gl": ""
+        },
+        {
+          "g": "ዘርዐ",
+          "t": "zärəʿä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ገራህትከ",
+          "t": "gärahətəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወታበውእ",
+          "t": "wätabäwəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ውሑደ",
+          "t": "wəḥudä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አንበጣ",
+          "t": "ʾänəbäṭa",
+          "gl": ""
+        },
+        {
+          "g": "በልዖ",
+          "t": "bäləʿo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Thou shalt carry forth much seed into the field, and thou shalt bring in little, because the locust shall devour it.",
+        "kjv": "Thou shalt carry much seed out into the field, and shalt gather but little in; for the locust shall consume it."
+      }
+    },
+    {
+      "num": 39,
+      "geez": "ወትተክል ፡ ዐጸደ ፡ ወይን ፡ ወትትጌበሮ ፡ ወኢትሰቲ ፡ እምነ ፡ ወይኑ ፡ ወኢትትፌሣሕ ፡ እምኔሁ ፡ እስመ ፡ ዕፄ ፡\n                  በልዖ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትተክል",
+          "t": "wätətäkələ",
+          "gl": ""
+        },
+        {
+          "g": "ዐጸደ",
+          "t": "ʿäṣädä",
+          "gl": ""
+        },
+        {
+          "g": "ወይን",
+          "t": "wäyənə",
+          "gl": ""
+        },
+        {
+          "g": "ወትትጌበሮ",
+          "t": "wätətəgebäro",
+          "gl": ""
+        },
+        {
+          "g": "ወኢትሰቲ",
+          "t": "wäʾitəsäti",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ወይኑ",
+          "t": "wäyənu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢትትፌሣሕ",
+          "t": "wäʾitətəfeśaḥə",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ዕፄ",
+          "t": "ʿəṣ́e",
+          "gl": ""
+        },
+        {
+          "g": "በልዖ",
+          "t": "bäləʿo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Thou shalt plant a vineyard, and dress it, and shalt not drink the wine, neither shalt thou delight thyself with it, because the worm shall devour it.",
+        "kjv": "Thou shalt plant vineyards, and dress them, but shalt neither drink of the wine, nor gather the grapes; for the worms shall eat them."
+      }
+    },
+    {
+      "num": 40,
+      "geez": "ወታጠሪ ፡ ዕፀዋተ ፡ ዘይት ፡ ውስተ ፡ ኵሉ ፡ ደወልከ ፡ ወኢትትቀባእ ፡ ቅብአ ፡ እምኔሁ ፡ እስመ ፡ ተነግፈ ፡ ፍሬሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወታጠሪ",
+          "t": "wätaṭäri",
+          "gl": ""
+        },
+        {
+          "g": "ዕፀዋተ",
+          "t": "ʿəṣ́äwatä",
+          "gl": ""
+        },
+        {
+          "g": "ዘይት",
+          "t": "zäyətə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ደወልከ",
+          "t": "däwäləkä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢትትቀባእ",
+          "t": "wäʾitətəqäbaʾə",
+          "gl": ""
+        },
+        {
+          "g": "ቅብአ",
+          "t": "qəbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ተነግፈ",
+          "t": "tänägəfä",
+          "gl": ""
+        },
+        {
+          "g": "ፍሬሁ",
+          "t": "fərehu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Thou shalt have olive trees in all thy borders, and thou shalt not anoint thee with oil, because thine olive shall utterly cast its fruit.",
+        "kjv": "Thou shalt have olive trees throughout all thy coasts, but thou shalt not anoint thyself with the oil; for thine olive shall cast his fruit."
+      }
+    },
+    {
+      "num": 41,
+      "geez": "ወትወልድ ፡ ደቂቀ ፡ ወአዋልደ ፡ ወኢያተርፍዎሙ ፡ ለከ ፡ እስመ ፡ ይነሥእዎሙ ፡ ወይፄውዎሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትወልድ",
+          "t": "wätəwälədə",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ወአዋልደ",
+          "t": "wäʾäwalədä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢያተርፍዎሙ",
+          "t": "wäʾiyatärəfəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለከ",
+          "t": "läkä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ይነሥእዎሙ",
+          "t": "yənäśəʾəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ወይፄውዎሙ",
+          "t": "wäyəṣ́ewəwomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Thou shalt beget sons and daughters, and they shall not be thine, for they shall depart into captivity.",
+        "kjv": "Thou shalt beget sons and daughters, but thou shalt not enjoy them; for they shall go into captivity."
+      }
+    },
+    {
+      "num": 42,
+      "geez": "ወኵሎ ፡ እክለ ፡ ምድርከ ፡ ወኵሎ ፡ ተክለ ፡ ዕፀዋቲከ ፡ አናኵዕ ፡ ያጠፍኦ ፡ ለከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "እክለ",
+          "t": "ʾəkəlä",
+          "gl": ""
+        },
+        {
+          "g": "ምድርከ",
+          "t": "mədərəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ተክለ",
+          "t": "täkəlä",
+          "gl": ""
+        },
+        {
+          "g": "ዕፀዋቲከ",
+          "t": "ʿəṣ́äwatikä",
+          "gl": ""
+        },
+        {
+          "g": "አናኵዕ",
+          "t": "ʾänakwəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ያጠፍኦ",
+          "t": "yaṭäfəʾo",
+          "gl": ""
+        },
+        {
+          "g": "ለከ",
+          "t": "läkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "All thy trees and the fruits of thy land shall the blight consume.",
+        "kjv": "All thy trees and fruit of thy land shall the locust consume."
+      }
+    },
+    {
+      "num": 43,
+      "geez": "ወፈላሲ ፡ ዘሀለወ ፡ ኀቤከ ፡ የዐርግ ፡ መልዕልቴከ ፡ ወላዕሌከ ፡ ወአንተሰ ፡ ትከውን ፡ መትሕቶ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወፈላሲ",
+          "t": "wäfälasi",
+          "gl": ""
+        },
+        {
+          "g": "ዘሀለወ",
+          "t": "zähäläwä",
+          "gl": ""
+        },
+        {
+          "g": "ኀቤከ",
+          "t": "ḫäbekä",
+          "gl": ""
+        },
+        {
+          "g": "የዐርግ",
+          "t": "yäʿärəgə",
+          "gl": ""
+        },
+        {
+          "g": "መልዕልቴከ",
+          "t": "mäləʿələtekä",
+          "gl": ""
+        },
+        {
+          "g": "ወላዕሌከ",
+          "t": "wälaʿəlekä",
+          "gl": ""
+        },
+        {
+          "g": "ወአንተሰ",
+          "t": "wäʾänətäsä",
+          "gl": ""
+        },
+        {
+          "g": "ትከውን",
+          "t": "təkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "መትሕቶ",
+          "t": "mätəḥəto",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The stranger that is within thee shall get up very high, and thou shalt come down very low.",
+        "kjv": "The stranger that is within thee shall get up above thee very high; and thou shalt come down very low."
+      }
+    },
+    {
+      "num": 44,
+      "geez": "ወውእቱ ፡ ይሌቅሐከ ፡ ወአንተሰ ፡ ኢትሌቅሖ ፡ ውእቱ ፡ ይከውነከ ፡ ርእሰ ፡ ወአንተ ፡ ትከውኖ ፡ ዘነበ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወውእቱ",
+          "t": "wäwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ይሌቅሐከ",
+          "t": "yəleqəḥäkä",
+          "gl": ""
+        },
+        {
+          "g": "ወአንተሰ",
+          "t": "wäʾänətäsä",
+          "gl": ""
+        },
+        {
+          "g": "ኢትሌቅሖ",
+          "t": "ʾitəleqəḥo",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ይከውነከ",
+          "t": "yəkäwənäkä",
+          "gl": ""
+        },
+        {
+          "g": "ርእሰ",
+          "t": "rəʾəsä",
+          "gl": ""
+        },
+        {
+          "g": "ወአንተ",
+          "t": "wäʾänətä",
+          "gl": ""
+        },
+        {
+          "g": "ትከውኖ",
+          "t": "təkäwəno",
+          "gl": ""
+        },
+        {
+          "g": "ዘነበ",
+          "t": "zänäbä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "He shall lend to thee, and thou shalt not lend to him: he shall be the head, and thou shalt be the tail.",
+        "kjv": "He shall lend to thee, and thou shalt not lend to him: he shall be the head, and thou shalt be the tail."
+      }
+    },
+    {
+      "num": 45,
+      "geez": "ወይመጽእ ፡ ላዕሌከ ፡ ዝንቱ ፡ ኵሉ ፡ መርገም ፡ ወይዴግነከ ፡ ወይረክበከ ፡ እስከ ፡ ያጠፍአከ ፡ ወእስከ ፡ ይደመስሰከ\n                  ፡ እስመ ፡ ኢሰማዕከ ፡ ቃለ ፡ እግዚአብሔር ፡ አምላክከ ፡ ከመ ፡ ትዕቀብ ፡ ትእዛዞ ፡ ወኵነኔሁ ፡ ኵሎ ፡ ዘአዘዘከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይመጽእ",
+          "t": "wäyəmäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌከ",
+          "t": "laʿəlekä",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "መርገም",
+          "t": "märəgämə",
+          "gl": ""
+        },
+        {
+          "g": "ወይዴግነከ",
+          "t": "wäyədegənäkä",
+          "gl": ""
+        },
+        {
+          "g": "ወይረክበከ",
+          "t": "wäyəräkəbäkä",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ያጠፍአከ",
+          "t": "yaṭäfəʾäkä",
+          "gl": ""
+        },
+        {
+          "g": "ወእስከ",
+          "t": "wäʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ይደመስሰከ",
+          "t": "yədämäsəsäkä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኢሰማዕከ",
+          "t": "ʾisämaʿəkä",
+          "gl": ""
+        },
+        {
+          "g": "ቃለ",
+          "t": "qalä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላክከ",
+          "t": "ʾäməlakəkä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ትዕቀብ",
+          "t": "təʿəqäbə",
+          "gl": ""
+        },
+        {
+          "g": "ትእዛዞ",
+          "t": "təʾəzazo",
+          "gl": ""
+        },
+        {
+          "g": "ወኵነኔሁ",
+          "t": "wäkwənänehu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ዘአዘዘከ",
+          "t": "zäʾäzäzäkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And all these curses shall come upon thee, and shall pursue thee, and shall overtake thee, until he shall have consumed thee, and until he shall have destroyed thee; because thou didst not hearken to the voice of the Lord thy God, to keep his commands, and his ordinances which he has commanded thee.",
+        "kjv": "Moreover all these curses shall come upon thee, and shall pursue thee, and overtake thee, till thou be destroyed; because thou hearkenedst not unto the voice of the LORD thy God, to keep his commandments and his statutes which he commanded thee:"
+      }
+    },
+    {
+      "num": 46,
+      "geez": "ወይከውን ፡ ተአምር ፡ ላዕሌከ ፡ ወመድምም ፡ ወላዕለ ፡ ዘርእከ ፡ እስከ ፡ ለዓለም ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይከውን",
+          "t": "wäyəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ተአምር",
+          "t": "täʾämərə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌከ",
+          "t": "laʿəlekä",
+          "gl": ""
+        },
+        {
+          "g": "ወመድምም",
+          "t": "wämädəməmə",
+          "gl": ""
+        },
+        {
+          "g": "ወላዕለ",
+          "t": "wälaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ዘርእከ",
+          "t": "zärəʾəkä",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ለዓለም",
+          "t": "läʿalämə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And these things shall be signs in thee, and wonders among thy seed for ever;",
+        "kjv": "And they shall be upon thee for a sign and for a wonder, and upon thy seed for ever."
+      }
+    },
+    {
+      "num": 47,
+      "geez": "እስመ ፡ ኢያምለካሁ ፡ ለእግዚአብሔር ፡ አምላክከ ፡ በትፍሥሕት ፡ ወበሠናይ ፡ ልብ ፡ ወበብዝኀ ፡ ኵሉ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኢያምለካሁ",
+          "t": "ʾiyaməläkahu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላክከ",
+          "t": "ʾäməlakəkä",
+          "gl": ""
+        },
+        {
+          "g": "በትፍሥሕት",
+          "t": "bätəfəśəḥətə",
+          "gl": ""
+        },
+        {
+          "g": "ወበሠናይ",
+          "t": "wäbäśänayə",
+          "gl": ""
+        },
+        {
+          "g": "ልብ",
+          "t": "ləbə",
+          "gl": ""
+        },
+        {
+          "g": "ወበብዝኀ",
+          "t": "wäbäbəzəḫä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "because thou didst not serve the Lord thy God with gladness and a good heart, because of the abundance of all things.",
+        "kjv": "Because thou servedst not the LORD thy God with joyfulness, and with gladness of heart, for the abundance of all things;"
+      }
+    },
+    {
+      "num": 48,
+      "geez": "ወትትቀነይ ፡ ለጸላእትከ ፡ እለ ፡ ይፌኑ ፡ እግዚአብሔር ፡ ላዕሌከ ፡ በረኃብ ፡ ወበጽምእ ፡ ወበዕርቅና ፡ ወበኀጣአ ፡\n                  ኵሉ ፡ ወይወዲ ፡ ለከ ፡ ጋጋ ፡ ዘኀፂን ፡ ውስተ ፡ ክሳድከ ፡ እስከ ፡ ያጠፍአከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትትቀነይ",
+          "t": "wätətəqänäyə",
+          "gl": ""
+        },
+        {
+          "g": "ለጸላእትከ",
+          "t": "läṣälaʾətəkä",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይፌኑ",
+          "t": "yəfenu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌከ",
+          "t": "laʿəlekä",
+          "gl": ""
+        },
+        {
+          "g": "በረኃብ",
+          "t": "bäräḫabə",
+          "gl": ""
+        },
+        {
+          "g": "ወበጽምእ",
+          "t": "wäbäṣəməʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወበዕርቅና",
+          "t": "wäbäʿərəqəna",
+          "gl": ""
+        },
+        {
+          "g": "ወበኀጣአ",
+          "t": "wäbäḫäṭaʾä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ወይወዲ",
+          "t": "wäyəwädi",
+          "gl": ""
+        },
+        {
+          "g": "ለከ",
+          "t": "läkä",
+          "gl": ""
+        },
+        {
+          "g": "ጋጋ",
+          "t": "gaga",
+          "gl": ""
+        },
+        {
+          "g": "ዘኀፂን",
+          "t": "zäḫäṣ́inə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ክሳድከ",
+          "t": "kəsadəkä",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ያጠፍአከ",
+          "t": "yaṭäfəʾäkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And thou shalt serve thine enemies, which the Lord will send forth against thee, in hunger, and in thirst, and in nakedness, and in the want of all things; and thou shalt wear upon thy neck a yoke of iron until he shall have destroyed thee.",
+        "kjv": "Therefore shalt thou serve thine enemies which the LORD shall send against thee, in hunger, and in thirst, and in nakedness, and in want of all things: and he shall put a yoke of iron upon thy neck, until he have destroyed thee."
+      }
+    },
+    {
+      "num": 49,
+      "geez": "ወያመጽእ ፡ እግዚአብሔር ፡ ሕዝበ ፡ እምርሑቅ ፡ ላዕሌከ ፡ እምአጽናፈ ፡ ምድር ፡ ከመ ፡ ርደተ ፡ ንስር ፡ ሕዝብ ፡ እለ\n                  ፡ ኢትሰምዕ ፡ ነገሮሙ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያመጽእ",
+          "t": "wäyamäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝበ",
+          "t": "ḥəzəbä",
+          "gl": ""
+        },
+        {
+          "g": "እምርሑቅ",
+          "t": "ʾəmərəḥuqə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌከ",
+          "t": "laʿəlekä",
+          "gl": ""
+        },
+        {
+          "g": "እምአጽናፈ",
+          "t": "ʾəməʾäṣənafä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ርደተ",
+          "t": "rədätä",
+          "gl": ""
+        },
+        {
+          "g": "ንስር",
+          "t": "nəsərə",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኢትሰምዕ",
+          "t": "ʾitəsäməʿə",
+          "gl": ""
+        },
+        {
+          "g": "ነገሮሙ",
+          "t": "nägäromu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The Lord shall bring upon thee a nation from the extremity of the earth, like the swift flying of an eagle, a nation whose voice thou shalt not understand;",
+        "kjv": "The LORD shall bring a nation against thee from far, from the end of the earth, as swift as the eagle flieth; a nation whose tongue thou shalt not understand;"
+      }
+    },
+    {
+      "num": 50,
+      "geez": "ሕዝብ ፡ ግሩመ ፡ ገጽ ፡ ዘኢያከብር ፡ ገጸ ፡ ልሂቅ ፡ ወኢይምሕር ፡ ንዑሰ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ግሩመ",
+          "t": "gərumä",
+          "gl": ""
+        },
+        {
+          "g": "ገጽ",
+          "t": "gäṣə",
+          "gl": ""
+        },
+        {
+          "g": "ዘኢያከብር",
+          "t": "zäʾiyakäbərə",
+          "gl": ""
+        },
+        {
+          "g": "ገጸ",
+          "t": "gäṣä",
+          "gl": ""
+        },
+        {
+          "g": "ልሂቅ",
+          "t": "ləhiqə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይምሕር",
+          "t": "wäʾiyəməḥərə",
+          "gl": ""
+        },
+        {
+          "g": "ንዑሰ",
+          "t": "nəʿusä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "a nation bold in countenance, which shall not respect the person of the aged and shall not pity the young.",
+        "kjv": "A nation of fierce countenance, which shall not regard the person of the old, nor shew favour to the young:"
+      }
+    },
+    {
+      "num": 51,
+      "geez": "ወያጠፍእ ፡ እጕለ ፡ መራዕይከ ፡ ወእክለ ፡ ምድርከ ፡ እስከ ፡ ኢያተርፍ ፡ ለከ ፡ ኢእክለ ፡ ወኢወይነ ፡ ወኢቅብአ ፡\n                  ወኢአዕጻዳተ ፡ ላህምከ ፡ ወኢመራዕየ ፡ አባግዒከ ፡ እስከ ፡ ያጠፍአከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያጠፍእ",
+          "t": "wäyaṭäfəʾə",
+          "gl": ""
+        },
+        {
+          "g": "እጕለ",
+          "t": "ʾəgwəlä",
+          "gl": ""
+        },
+        {
+          "g": "መራዕይከ",
+          "t": "märaʿəyəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወእክለ",
+          "t": "wäʾəkəlä",
+          "gl": ""
+        },
+        {
+          "g": "ምድርከ",
+          "t": "mədərəkä",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ኢያተርፍ",
+          "t": "ʾiyatärəfə",
+          "gl": ""
+        },
+        {
+          "g": "ለከ",
+          "t": "läkä",
+          "gl": ""
+        },
+        {
+          "g": "ኢእክለ",
+          "t": "ʾiʾəkəlä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢወይነ",
+          "t": "wäʾiwäyənä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢቅብአ",
+          "t": "wäʾiqəbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢአዕጻዳተ",
+          "t": "wäʾiʾäʿəṣadatä",
+          "gl": ""
+        },
+        {
+          "g": "ላህምከ",
+          "t": "lahəməkä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢመራዕየ",
+          "t": "wäʾimäraʿəyä",
+          "gl": ""
+        },
+        {
+          "g": "አባግዒከ",
+          "t": "ʾäbagəʿikä",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ያጠፍአከ",
+          "t": "yaṭäfəʾäkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it shall eat up the young of thy cattle, and the fruits of thy land, so as not to leave to thee corn, wine, oil, the herds of thine oxen, and the flocks of thy sheep, until it shall have destroyed thee;",
+        "kjv": "And he shall eat the fruit of thy cattle, and the fruit of thy land, until thou be destroyed: which also shall not leave thee either corn, wine, or oil, or the increase of thy kine, or flocks of thy sheep, until he have destroyed thee."
+      }
+    },
+    {
+      "num": 52,
+      "geez": "ወይደመስሰከ ፡ እምውስተ ፡ ኵሉ ፡ አህጉሪከ ፡ እስከ ፡ ያወድቅ ፡ አረፋቲከ ፡ ዐበይተ ፡ ወአጽዋኒከ ፡ ዘቦቱ ፡ ትትአመን\n                  ፡ ዘውስተ ፡ ኵሉ ፡ በሓውርቲከ ፡ ወይሣቅየከ ፡ በውስተ ፡ ኵሉ ፡ አህጉሪከ ፡ ዘወሀበከ ፡ እግዚአብሔር ፡ አምላክከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይደመስሰከ",
+          "t": "wäyədämäsəsäkä",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "አህጉሪከ",
+          "t": "ʾähəgurikä",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ያወድቅ",
+          "t": "yawädəqə",
+          "gl": ""
+        },
+        {
+          "g": "አረፋቲከ",
+          "t": "ʾäräfatikä",
+          "gl": ""
+        },
+        {
+          "g": "ዐበይተ",
+          "t": "ʿäbäyətä",
+          "gl": ""
+        },
+        {
+          "g": "ወአጽዋኒከ",
+          "t": "wäʾäṣəwanikä",
+          "gl": ""
+        },
+        {
+          "g": "ዘቦቱ",
+          "t": "zäbotu",
+          "gl": ""
+        },
+        {
+          "g": "ትትአመን",
+          "t": "tətəʾämänə",
+          "gl": ""
+        },
+        {
+          "g": "ዘውስተ",
+          "t": "zäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "በሓውርቲከ",
+          "t": "bäḥawərətikä",
+          "gl": ""
+        },
+        {
+          "g": "ወይሣቅየከ",
+          "t": "wäyəśaqəyäkä",
+          "gl": ""
+        },
+        {
+          "g": "በውስተ",
+          "t": "bäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "አህጉሪከ",
+          "t": "ʾähəgurikä",
+          "gl": ""
+        },
+        {
+          "g": "ዘወሀበከ",
+          "t": "zäwähäbäkä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላክከ",
+          "t": "ʾäməlakəkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and have utterly crushed thee in thy cities, until the high and strong walls be destroyed, in which thou trustest, in all thy land; and it shall afflict thee in thy cities, which he has given to thee.",
+        "kjv": "And he shall besiege thee in all thy gates, until thy high and fenced walls come down, wherein thou trustedst, throughout all thy land: and he shall besiege thee in all thy gates throughout all thy land, which the LORD thy God hath given thee."
+      }
+    },
+    {
+      "num": 53,
+      "geez": "ወ[ትበልዕ]፡ ውሉደ ፡ ከርሥከ ፡ ሥጋ ፡ ደቂቅከ ፡ ወአዋልዲከ ፡ ዘወሀበከ ፡ በምንዳቤከ ፡ ወበሥቃይከ ፡ ዘሣቀየከ ፡\n                  ጸላኢከ ፡ በውስተ ፡ አህጉሪከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትበልዕ",
+          "t": "wätəbäləʿə",
+          "gl": ""
+        },
+        {
+          "g": "ውሉደ",
+          "t": "wəludä",
+          "gl": ""
+        },
+        {
+          "g": "ከርሥከ",
+          "t": "kärəśəkä",
+          "gl": ""
+        },
+        {
+          "g": "ሥጋ",
+          "t": "śəga",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቅከ",
+          "t": "däqiqəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወአዋልዲከ",
+          "t": "wäʾäwalədikä",
+          "gl": ""
+        },
+        {
+          "g": "ዘወሀበከ",
+          "t": "zäwähäbäkä",
+          "gl": ""
+        },
+        {
+          "g": "በምንዳቤከ",
+          "t": "bämənədabekä",
+          "gl": ""
+        },
+        {
+          "g": "ወበሥቃይከ",
+          "t": "wäbäśəqayəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዘሣቀየከ",
+          "t": "zäśaqäyäkä",
+          "gl": ""
+        },
+        {
+          "g": "ጸላኢከ",
+          "t": "ṣälaʾikä",
+          "gl": ""
+        },
+        {
+          "g": "በውስተ",
+          "t": "bäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አህጉሪከ",
+          "t": "ʾähəgurikä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And thou shalt eat the fruit of thy body, the flesh of thy sons and of thy daughters, all that he has given thee, in thy straitness and thy affliction, with which thine enemy shall afflict thee.",
+        "kjv": "And thou shalt eat the fruit of thine own body, the flesh of thy sons and of thy daughters, which the LORD thy God hath given thee, in the siege, and in the straitness, wherewith thine enemies shall distress thee:"
+      }
+    },
+    {
+      "num": 54,
+      "geez": "ረኀጽከሂ ፡ ወለምለምከሂ ፡ ወትደነፁ ፡ ዐይኑ ፡ ለእኁሁ ፡ ወለብእሲቱ ፡ እንተ ፡ ውስተ ፡ ሕፅኑ ፡ ወዘተርፈ ፡ ውሉድ ፡\n                  ዘአትረፉ ፡ ሎሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ረኀጽከሂ",
+          "t": "räḫäṣəkähi",
+          "gl": ""
+        },
+        {
+          "g": "ወለምለምከሂ",
+          "t": "wäläməläməkähi",
+          "gl": ""
+        },
+        {
+          "g": "ወትደነፁ",
+          "t": "wätədänäṣ́u",
+          "gl": ""
+        },
+        {
+          "g": "ዐይኑ",
+          "t": "ʿäyənu",
+          "gl": ""
+        },
+        {
+          "g": "ለእኁሁ",
+          "t": "läʾəḫuhu",
+          "gl": ""
+        },
+        {
+          "g": "ወለብእሲቱ",
+          "t": "wäläbəʾəsitu",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሕፅኑ",
+          "t": "ḥəṣ́ənu",
+          "gl": ""
+        },
+        {
+          "g": "ወዘተርፈ",
+          "t": "wäzätärəfä",
+          "gl": ""
+        },
+        {
+          "g": "ውሉድ",
+          "t": "wəludə",
+          "gl": ""
+        },
+        {
+          "g": "ዘአትረፉ",
+          "t": "zäʾätəräfu",
+          "gl": ""
+        },
+        {
+          "g": "ሎሙ",
+          "t": "lomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "He that is tender and very delicate within thee shall look with an evil eye upon his brother, and the wife in his bosom, and the children that are left, which may have been left to him;",
+        "kjv": "So that the man that is tender among you, and very delicate, his eye shall be evil toward his brother, and toward the wife of his bosom, and toward the remnant of his children which he shall leave:"
+      }
+    },
+    {
+      "num": 55,
+      "geez": "ይሁብዎሙ ፡ ለለ ፡ አሐዱ ፡ እምኔሆሙ ፡ ሥጋ ፡ ውሉዶሙ ፡ ይሴሰዩ ፡ እስመ ፡ ኢያትረፉ ፡ ሎሙ ፡ ወኢምንተ ፡ በሥቃይ ፡\n                  ወበምንዳቤ ፡ ዘይሣቅዩከ ፡ ጸላእትከ ፡ በኵሉ ፡ አህጉሪከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ይሁብዎሙ",
+          "t": "yəhubəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለለ",
+          "t": "lälä",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሆሙ",
+          "t": "ʾəmənehomu",
+          "gl": ""
+        },
+        {
+          "g": "ሥጋ",
+          "t": "śəga",
+          "gl": ""
+        },
+        {
+          "g": "ውሉዶሙ",
+          "t": "wəludomu",
+          "gl": ""
+        },
+        {
+          "g": "ይሴሰዩ",
+          "t": "yəsesäyu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኢያትረፉ",
+          "t": "ʾiyatəräfu",
+          "gl": ""
+        },
+        {
+          "g": "ሎሙ",
+          "t": "lomu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢምንተ",
+          "t": "wäʾimənətä",
+          "gl": ""
+        },
+        {
+          "g": "በሥቃይ",
+          "t": "bäśəqayə",
+          "gl": ""
+        },
+        {
+          "g": "ወበምንዳቤ",
+          "t": "wäbämənədabe",
+          "gl": ""
+        },
+        {
+          "g": "ዘይሣቅዩከ",
+          "t": "zäyəśaqəyukä",
+          "gl": ""
+        },
+        {
+          "g": "ጸላእትከ",
+          "t": "ṣälaʾətəkä",
+          "gl": ""
+        },
+        {
+          "g": "በኵሉ",
+          "t": "bäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "አህጉሪከ",
+          "t": "ʾähəgurikä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "so as not to give to one of them of the flesh of his children, whom he shall eat, because of his having nothing left him in thy straitness, and in thy affliction, with which thine enemies shall afflict thee in all thy cities.",
+        "kjv": "So that he will not give to any of them of the flesh of his children whom he shall eat: because he hath nothing left him in the siege, and in the straitness, wherewith thine enemies shall distress thee in all thy gates."
+      }
+    },
+    {
+      "num": 56,
+      "geez": "ወእንተ ፡ ረኃጽኒ ፡ ይእቲ ፡ እምኔክሙ ፡ ወእንተሂ ፡ ድክምት ፡ ይእቲ ፡ ትሜህር ፡ እገሪሃ ፡ ሐዊረ ፡ ውስተ ፡ ምድር\n                  ፡ ወእስመ ፡ ረኃፅ ፡ ይእቲ ፡ ወድክምት ፡ ትደነጽዎ ፡ ዐይና ፡ ለምታ ፡ ዘዲበ ፡ ሕፅና ፡ ወለወልዳ ፡ ወለወለታ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእንተ",
+          "t": "wäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ረኃጽኒ",
+          "t": "räḫaṣəni",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "እምኔክሙ",
+          "t": "ʾəmənekəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወእንተሂ",
+          "t": "wäʾənətähi",
+          "gl": ""
+        },
+        {
+          "g": "ድክምት",
+          "t": "dəkəmətə",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ትሜህር",
+          "t": "təmehərə",
+          "gl": ""
+        },
+        {
+          "g": "እገሪሃ",
+          "t": "ʾəgäriha",
+          "gl": ""
+        },
+        {
+          "g": "ሐዊረ",
+          "t": "ḥäwirä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ወእስመ",
+          "t": "wäʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ረኃፅ",
+          "t": "räḫaṣ́ə",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ወድክምት",
+          "t": "wädəkəmətə",
+          "gl": ""
+        },
+        {
+          "g": "ትደነጽዎ",
+          "t": "tədänäṣəwo",
+          "gl": ""
+        },
+        {
+          "g": "ዐይና",
+          "t": "ʿäyəna",
+          "gl": ""
+        },
+        {
+          "g": "ለምታ",
+          "t": "läməta",
+          "gl": ""
+        },
+        {
+          "g": "ዘዲበ",
+          "t": "zädibä",
+          "gl": ""
+        },
+        {
+          "g": "ሕፅና",
+          "t": "ḥəṣ́əna",
+          "gl": ""
+        },
+        {
+          "g": "ወለወልዳ",
+          "t": "wäläwäləda",
+          "gl": ""
+        },
+        {
+          "g": "ወለወለታ",
+          "t": "wäläwäläta",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And she that is tender and delicate among you, whose foot has not assayed to go upon the earth for delicacy and tenderness, shall look with an evil eye on her husband in her bosom, and her son and her daughter,",
+        "kjv": "The tender and delicate woman among you, which would not adventure to set the sole of her foot upon the ground for delicateness and tenderness, her eye shall be evil toward the husband of her bosom, and toward her son, and toward her daughter,"
+      }
+    },
+    {
+      "num": 57,
+      "geez": "ወለሥጋሃ ፡ ዘእምውስተ ፡ አባላ ፡ ውእቱ ፡ ወሕፃናሂ ፡ ዘወለደት ፡ ትበልዕ ፡ ጽምሚተ ፡ ሶበ ፡ ኀጥአት ፡ ኵሎ ፡\n                  በምንዳቤ ፡ ወበሥቃይ ፡ ዘይሣቅየከ ፡ ጸላኢከ ፡ በውስተ ፡ አህጉሪከ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለሥጋሃ",
+          "t": "wäläśəgaha",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምውስተ",
+          "t": "zäʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አባላ",
+          "t": "ʾäbala",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ወሕፃናሂ",
+          "t": "wäḥəṣ́anahi",
+          "gl": ""
+        },
+        {
+          "g": "ዘወለደት",
+          "t": "zäwälädätə",
+          "gl": ""
+        },
+        {
+          "g": "ትበልዕ",
+          "t": "təbäləʿə",
+          "gl": ""
+        },
+        {
+          "g": "ጽምሚተ",
+          "t": "ṣəməmitä",
+          "gl": ""
+        },
+        {
+          "g": "ሶበ",
+          "t": "sobä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጥአት",
+          "t": "ḫäṭəʾätə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "በምንዳቤ",
+          "t": "bämənədabe",
+          "gl": ""
+        },
+        {
+          "g": "ወበሥቃይ",
+          "t": "wäbäśəqayə",
+          "gl": ""
+        },
+        {
+          "g": "ዘይሣቅየከ",
+          "t": "zäyəśaqəyäkä",
+          "gl": ""
+        },
+        {
+          "g": "ጸላኢከ",
+          "t": "ṣälaʾikä",
+          "gl": ""
+        },
+        {
+          "g": "በውስተ",
+          "t": "bäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አህጉሪከ",
+          "t": "ʾähəgurikä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and her offspring that comes out between her feet, and the child which she shall bear; for she shall eat them because of the want of all things, secretly in thy straitness, and in thy affliction, with which thine enemy shall afflict thee in thy cities.",
+        "kjv": "And toward her young one that cometh out from between her feet, and toward her children which she shall bear: for she shall eat them for want of all things secretly in the siege and straitness, wherewith thine enemy shall distress thee in thy gates."
+      }
+    },
+    {
+      "num": 58,
+      "geez": "ለእመ ፡ ኢሰማዕከ ፡ ከመ ፡ ትግበር ፡ ኵሎ ፡ ዘንተ ፡ ነገሮ ፡ ለዝንቱ ፡ ሕግ ፡ ዘጽሑፍ ፡ ውስተ ፡ ዝንቱ ፡ መጽሐፍ\n                  ፡ ከመ ፡ ትፍራህ ፡ ስመ ፡ ክቡር ፡ ወስቡሕ ፡ ዝንቱ ፡ ዘእግዚአብሔር ፡ አምላክከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ለእመ",
+          "t": "läʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኢሰማዕከ",
+          "t": "ʾisämaʿəkä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ትግበር",
+          "t": "təgəbärə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ዘንተ",
+          "t": "zänətä",
+          "gl": ""
+        },
+        {
+          "g": "ነገሮ",
+          "t": "nägäro",
+          "gl": ""
+        },
+        {
+          "g": "ለዝንቱ",
+          "t": "läzənətu",
+          "gl": ""
+        },
+        {
+          "g": "ሕግ",
+          "t": "ḥəgə",
+          "gl": ""
+        },
+        {
+          "g": "ዘጽሑፍ",
+          "t": "zäṣəḥufə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "መጽሐፍ",
+          "t": "mäṣəḥäfə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ትፍራህ",
+          "t": "təfərahə",
+          "gl": ""
+        },
+        {
+          "g": "ስመ",
+          "t": "səmä",
+          "gl": ""
+        },
+        {
+          "g": "ክቡር",
+          "t": "kəburə",
+          "gl": ""
+        },
+        {
+          "g": "ወስቡሕ",
+          "t": "wäsəbuḥə",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘእግዚአብሔር",
+          "t": "zäʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላክከ",
+          "t": "ʾäməlakəkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "If thou wilt not hearken to do all the words of this law, which have been written in this book, to fear this glorious and wonderful name, the Lord thy God;",
+        "kjv": "If thou wilt not observe to do all the words of this law that are written in this book, that thou mayest fear this glorious and fearful name, THE LORD THY GOD;"
+      }
+    },
+    {
+      "num": 59,
+      "geez": "ወይገብር ፡ እግዚአብሔር ፡ ነኪረ ፡ መቅሠፍተከ ፡ ወመቅሠፍተ ፡ ዘርእከ ፡ መቅሠፍተ ፡ ዐቢየ ፡ ወመድምመ ፡ ወደዌ ፡\n                  እኩየ ፡ ወሕማመ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይገብር",
+          "t": "wäyəgäbərə",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ነኪረ",
+          "t": "näkirä",
+          "gl": ""
+        },
+        {
+          "g": "መቅሠፍተከ",
+          "t": "mäqəśäfətäkä",
+          "gl": ""
+        },
+        {
+          "g": "ወመቅሠፍተ",
+          "t": "wämäqəśäfətä",
+          "gl": ""
+        },
+        {
+          "g": "ዘርእከ",
+          "t": "zärəʾəkä",
+          "gl": ""
+        },
+        {
+          "g": "መቅሠፍተ",
+          "t": "mäqəśäfətä",
+          "gl": ""
+        },
+        {
+          "g": "ዐቢየ",
+          "t": "ʿäbiyä",
+          "gl": ""
+        },
+        {
+          "g": "ወመድምመ",
+          "t": "wämädəməmä",
+          "gl": ""
+        },
+        {
+          "g": "ወደዌ",
+          "t": "wädäwe",
+          "gl": ""
+        },
+        {
+          "g": "እኩየ",
+          "t": "ʾəkuyä",
+          "gl": ""
+        },
+        {
+          "g": "ወሕማመ",
+          "t": "wäḥəmamä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "then the Lord shall magnify thy plagues, and the plagues of thy seed, great and wonderful plagues, and evil and abiding diseases.",
+        "kjv": "Then the LORD will make thy plagues wonderful, and the plagues of thy seed, even great plagues, and of long continuance, and sore sicknesses, and of long continuance."
+      }
+    },
+    {
+      "num": 60,
+      "geez": "ወይገብእ ፡ ላዕሌሆሙ ፡ ኵሉ ፡ ደዌሆሙ ፡ ለግብጽ ፡ እኩይ ፡ ዝክቱ ፡ ዘኢፈራህከ ፡ (እምኔሁ ፡ ወኢፈራህከ ፡) እምቅድመ\n                  ፡ ገጾሙ ፡ ወይተሉ ፡ ዲቤከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይገብእ",
+          "t": "wäyəgäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሆሙ",
+          "t": "laʿəlehomu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ደዌሆሙ",
+          "t": "däwehomu",
+          "gl": ""
+        },
+        {
+          "g": "ለግብጽ",
+          "t": "lägəbəṣə",
+          "gl": ""
+        },
+        {
+          "g": "እኩይ",
+          "t": "ʾəkuyə",
+          "gl": ""
+        },
+        {
+          "g": "ዝክቱ",
+          "t": "zəkətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘኢፈራህከ",
+          "t": "zäʾifärahəkä",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢፈራህከ",
+          "t": "wäʾifärahəkä",
+          "gl": ""
+        },
+        {
+          "g": "እምቅድመ",
+          "t": "ʾəməqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ገጾሙ",
+          "t": "gäṣomu",
+          "gl": ""
+        },
+        {
+          "g": "ወይተሉ",
+          "t": "wäyətälu",
+          "gl": ""
+        },
+        {
+          "g": "ዲቤከ",
+          "t": "dibekä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he shall bring upon thee all the evil pain of Egypt, of which thou wast afraid, and they shall cleave to thee.",
+        "kjv": "Moreover he will bring upon thee all the diseases of Egypt, which thou wast afraid of; and they shall cleave unto thee."
+      }
+    },
+    {
+      "num": 61,
+      "geez": "ወኵሉ ፡ ደዌ ፡ ወኵሉ ፡ መቅሠፍት ፡ ዘኢኮነ ፡ ጽሑፈ ፡ ውስተ ፡ ዝንቱ ፡ መጽሐፈ ፡ ሕግ ፡ ያመጽእ ፡ እግዚአብሔር ፡\n                  ላዕሌከ ፡ እስከ ፡ ያጠፍአከ ፡ ወእስከ ፡ ትደመሰሱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ደዌ",
+          "t": "däwe",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "መቅሠፍት",
+          "t": "mäqəśäfətə",
+          "gl": ""
+        },
+        {
+          "g": "ዘኢኮነ",
+          "t": "zäʾikonä",
+          "gl": ""
+        },
+        {
+          "g": "ጽሑፈ",
+          "t": "ṣəḥufä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "መጽሐፈ",
+          "t": "mäṣəḥäfä",
+          "gl": ""
+        },
+        {
+          "g": "ሕግ",
+          "t": "ḥəgə",
+          "gl": ""
+        },
+        {
+          "g": "ያመጽእ",
+          "t": "yamäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌከ",
+          "t": "laʿəlekä",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ያጠፍአከ",
+          "t": "yaṭäfəʾäkä",
+          "gl": ""
+        },
+        {
+          "g": "ወእስከ",
+          "t": "wäʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ትደመሰሱ",
+          "t": "tədämäsäsu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord shall bring upon thee every sickness, and every plague that is not written, and every one that is written in the book of this law, until he shall have destroyed thee.",
+        "kjv": "Also every sickness, and every plague, which is not written in the book of this law, them will the LORD bring upon thee, until thou be destroyed."
+      }
+    },
+    {
+      "num": 62,
+      "geez": "ወትተርፉ ፡ ኅዳጠ ፡ በኍልቍ ፡ እምድኅረ ፡ ከመ ፡ ከዋክብተ ፡ ሰማይ ፡ አንትሙ ፡ ብዝኅክሙ ፡ እስመ ፡ ኢሰማዕክሙ ፡\n                  ቃለ ፡ እግዚአብሔር ፡ አምላክክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትተርፉ",
+          "t": "wätətärəfu",
+          "gl": ""
+        },
+        {
+          "g": "ኅዳጠ",
+          "t": "ḫədaṭä",
+          "gl": ""
+        },
+        {
+          "g": "በኍልቍ",
+          "t": "bäḫwələqwə",
+          "gl": ""
+        },
+        {
+          "g": "እምድኅረ",
+          "t": "ʾəmədəḫərä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ከዋክብተ",
+          "t": "käwakəbətä",
+          "gl": ""
+        },
+        {
+          "g": "ሰማይ",
+          "t": "sämayə",
+          "gl": ""
+        },
+        {
+          "g": "አንትሙ",
+          "t": "ʾänətəmu",
+          "gl": ""
+        },
+        {
+          "g": "ብዝኅክሙ",
+          "t": "bəzəḫəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኢሰማዕክሙ",
+          "t": "ʾisämaʿəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ቃለ",
+          "t": "qalä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላክክሙ",
+          "t": "ʾäməlakəkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And ye shall be left few in number, whereas ye were as the stars of the sky in multitude; because thou didst not hearken to the voice of the Lord thy God.",
+        "kjv": "And ye shall be left few in number, whereas ye were as the stars of heaven for multitude; because thou wouldest not obey the voice of the LORD thy God."
+      }
+    },
+    {
+      "num": 63,
+      "geez": "ወበከመ ፡ ተፈሥሐ ፡ እግዚአብሔር ፡ ላዕሌክሙ ፡ ከመ ፡ ይግበር ፡ ሠናይተ ፡ ዲቤክሙ ፡ ወአብዝኀክሙ ፡ ከማሁ ፡ ይትፌሣሕ\n                  ፡ እግዚአብሔር ፡ ዲቤክሙ ፡ ከመ ፡ ይሤርወክሙ ፡ ወትጠፍኡ ፡ እምነ ፡ ምድር ፡ እንተ ፡ ውስቴታ ፡ ትበውኡ ፡ ህየ ፡ ከመ ፡\n                  ትትወረስዋ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበከመ",
+          "t": "wäbäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ተፈሥሐ",
+          "t": "täfäśəḥä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌክሙ",
+          "t": "laʿəlekəmu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይግበር",
+          "t": "yəgəbärə",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይተ",
+          "t": "śänayətä",
+          "gl": ""
+        },
+        {
+          "g": "ዲቤክሙ",
+          "t": "dibekəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወአብዝኀክሙ",
+          "t": "wäʾäbəzəḫäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ከማሁ",
+          "t": "kämahu",
+          "gl": ""
+        },
+        {
+          "g": "ይትፌሣሕ",
+          "t": "yətəfeśaḥə",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ዲቤክሙ",
+          "t": "dibekəmu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይሤርወክሙ",
+          "t": "yəśerəwäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወትጠፍኡ",
+          "t": "wätəṭäfəʾu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ውስቴታ",
+          "t": "wəsəteta",
+          "gl": ""
+        },
+        {
+          "g": "ትበውኡ",
+          "t": "təbäwəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ህየ",
+          "t": "həyä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ትትወረስዋ",
+          "t": "tətəwäräsəwa",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it shall come to pass that as the Lord rejoiced over you to do you good, and to multiply you, so the Lord will rejoice over you to destroy you; and ye shall be quickly removed from the land, into which ye go to inherit it.",
+        "kjv": "And it shall come to pass, that as the LORD rejoiced over you to do you good, and to multiply you; so the LORD will rejoice over you to destroy you, and to bring you to nought; and ye shall be plucked from off the land whither thou goest to possess it."
+      }
+    },
+    {
+      "num": 64,
+      "geez": "ወይዘርወከ ፡ እግዚአብሔር ፡ ውስተ ፡ ኵሉ ፡ አሕዛብ ፡ እምነ ፡ አጽናፈ ፡ ምድር ፡ እስከ ፡ አጽናፈ ፡ ምድር ፡\n                  ወትትቀነይ ፡ በህየ ፡ ለባዕድ ፡ አማልክት ፡ ለእበን ፡ ወለዕፀው ፡ ለዘ ፡ ኢታአምር ፡ አንተ ፡ ወአበዊከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይዘርወከ",
+          "t": "wäyəzärəwäkä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "አሕዛብ",
+          "t": "ʾäḥəzabə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "አጽናፈ",
+          "t": "ʾäṣənafä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "አጽናፈ",
+          "t": "ʾäṣənafä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ወትትቀነይ",
+          "t": "wätətəqänäyə",
+          "gl": ""
+        },
+        {
+          "g": "በህየ",
+          "t": "bähəyä",
+          "gl": ""
+        },
+        {
+          "g": "ለባዕድ",
+          "t": "läbaʿədə",
+          "gl": ""
+        },
+        {
+          "g": "አማልክት",
+          "t": "ʾämaləkətə",
+          "gl": ""
+        },
+        {
+          "g": "ለእበን",
+          "t": "läʾəbänə",
+          "gl": ""
+        },
+        {
+          "g": "ወለዕፀው",
+          "t": "wäläʿəṣ́äwə",
+          "gl": ""
+        },
+        {
+          "g": "ለዘ",
+          "t": "läzä",
+          "gl": ""
+        },
+        {
+          "g": "ኢታአምር",
+          "t": "ʾitaʾämərə",
+          "gl": ""
+        },
+        {
+          "g": "አንተ",
+          "t": "ʾänətä",
+          "gl": ""
+        },
+        {
+          "g": "ወአበዊከ",
+          "t": "wäʾäbäwikä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord thy God shall scatter thee among all nations, from one end of the earth to the other; and thou shalt there serve other gods, wood and stone, which thou hast not known, nor thy fathers.",
+        "kjv": "And the LORD shall scatter thee among all people, from the one end of the earth even unto the other; and there thou shalt serve other gods, which neither thou nor thy fathers have known, even wood and stone."
+      }
+    },
+    {
+      "num": 65,
+      "geez": "ወበህየኒ ፡ በውስተ ፡ ውእቱ ፡ አሕዛብ ፡ ኢያዐርፈከ ፡ ወኢያበውሐከ ፡ ትቁም ፡ እግርከ ፡ ወይሁበከ ፡ በህየ ፡\n                  እግዚአብሔር ፡ ልበ ፡ ሕዙነ ፡ ወአዕይንተ ፡ ጥፉኣተ ፡ ወነፍሰ ፡ ምንሱተ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበህየኒ",
+          "t": "wäbähəyäni",
+          "gl": ""
+        },
+        {
+          "g": "በውስተ",
+          "t": "bäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "አሕዛብ",
+          "t": "ʾäḥəzabə",
+          "gl": ""
+        },
+        {
+          "g": "ኢያዐርፈከ",
+          "t": "ʾiyaʿärəfäkä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢያበውሐከ",
+          "t": "wäʾiyabäwəḥäkä",
+          "gl": ""
+        },
+        {
+          "g": "ትቁም",
+          "t": "təqumə",
+          "gl": ""
+        },
+        {
+          "g": "እግርከ",
+          "t": "ʾəgərəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወይሁበከ",
+          "t": "wäyəhubäkä",
+          "gl": ""
+        },
+        {
+          "g": "በህየ",
+          "t": "bähəyä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ልበ",
+          "t": "ləbä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዙነ",
+          "t": "ḥəzunä",
+          "gl": ""
+        },
+        {
+          "g": "ወአዕይንተ",
+          "t": "wäʾäʿəyənətä",
+          "gl": ""
+        },
+        {
+          "g": "ጥፉኣተ",
+          "t": "ṭəfuʾatä",
+          "gl": ""
+        },
+        {
+          "g": "ወነፍሰ",
+          "t": "wänäfəsä",
+          "gl": ""
+        },
+        {
+          "g": "ምንሱተ",
+          "t": "mənəsutä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Moreover among those nations he will not give thee quiet, neither by any means shall the sole of thy foot have rest; and the Lord shall give thee there another and a misgiving heart, and failing eyes, and a wasting soul.",
+        "kjv": "And among these nations shalt thou find no ease, neither shall the sole of thy foot have rest: but the LORD shall give thee there a trembling heart, and failing of eyes, and sorrow of mind:"
+      }
+    },
+    {
+      "num": 66,
+      "geez": "ወትከውን ፡ ሕይወትከ ፡ ስቅልተ ፡ ቅድመ ፡ አዕይንቲከ ፡ ወትደነግፅ ፡ ለሊከ ፡ መዐልተ ፡ [ወሌሊተ ፡] ወኢትትአመን ፡\n                  በሕይወትከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትከውን",
+          "t": "wätəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ሕይወትከ",
+          "t": "ḥəyəwätəkä",
+          "gl": ""
+        },
+        {
+          "g": "ስቅልተ",
+          "t": "səqələtä",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "አዕይንቲከ",
+          "t": "ʾäʿəyənətikä",
+          "gl": ""
+        },
+        {
+          "g": "ወትደነግፅ",
+          "t": "wätədänägəṣ́ə",
+          "gl": ""
+        },
+        {
+          "g": "ለሊከ",
+          "t": "lälikä",
+          "gl": ""
+        },
+        {
+          "g": "መዐልተ",
+          "t": "mäʿälətä",
+          "gl": ""
+        },
+        {
+          "g": "ወሌሊተ",
+          "t": "wälelitä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢትትአመን",
+          "t": "wäʾitətəʾämänə",
+          "gl": ""
+        },
+        {
+          "g": "በሕይወትከ",
+          "t": "bäḥəyəwätəkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And thy life shall be in suspense before thine eyes; and thou shalt be afraid by day and by night, and thou shalt have no assurance of thy life.",
+        "kjv": "And thy life shall hang in doubt before thee; and thou shalt fear day and night, and shalt have none assurance of thy life:"
+      }
+    },
+    {
+      "num": 67,
+      "geez": "ለእመ ፡ ጸብሐ ፡ ትብል ፡ እፎ ፡ እንጋ ፡ ይመሲ ፡ ወለእመ ፡ መስየ ፡ ትብል ፡ እፎ ፡ ይጸብሕ ፡ እምነ ፡ ፍርሀተ ፡\n                  ልብ ፡ ዘትደነግፅ ፡ ወእምነ ፡ ዘያስተርእየከ ፡ ውስተ ፡ አዕይንቲከ ፡ ወዘትሬኢ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ለእመ",
+          "t": "läʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ጸብሐ",
+          "t": "ṣäbəḥä",
+          "gl": ""
+        },
+        {
+          "g": "ትብል",
+          "t": "təbələ",
+          "gl": ""
+        },
+        {
+          "g": "እፎ",
+          "t": "ʾəfo",
+          "gl": ""
+        },
+        {
+          "g": "እንጋ",
+          "t": "ʾənəga",
+          "gl": ""
+        },
+        {
+          "g": "ይመሲ",
+          "t": "yəmäsi",
+          "gl": ""
+        },
+        {
+          "g": "ወለእመ",
+          "t": "wäläʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "መስየ",
+          "t": "mäsəyä",
+          "gl": ""
+        },
+        {
+          "g": "ትብል",
+          "t": "təbələ",
+          "gl": ""
+        },
+        {
+          "g": "እፎ",
+          "t": "ʾəfo",
+          "gl": ""
+        },
+        {
+          "g": "ይጸብሕ",
+          "t": "yəṣäbəḥə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ፍርሀተ",
+          "t": "fərəhätä",
+          "gl": ""
+        },
+        {
+          "g": "ልብ",
+          "t": "ləbə",
+          "gl": ""
+        },
+        {
+          "g": "ዘትደነግፅ",
+          "t": "zätədänägəṣ́ə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ዘያስተርእየከ",
+          "t": "zäyasətärəʾəyäkä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አዕይንቲከ",
+          "t": "ʾäʿəyənətikä",
+          "gl": ""
+        },
+        {
+          "g": "ወዘትሬኢ",
+          "t": "wäzätəreʾi",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "In the morning thou shalt say, Would it were evening! and in the evening thou shalt say, Would it were morning! for the fear of thine heart with which thou shalt fear, and for the sights of thine eyes which thou shalt see.",
+        "kjv": "In the morning thou shalt say, Would God it were even! and at even thou shalt say, Would God it were morning! for the fear of thine heart wherewith thou shalt fear, and for the sight of thine eyes which thou shalt see."
+      }
+    },
+    {
+      "num": 68,
+      "geez": "ወያገብአከ ፡ እግዚአብሔር ፡ ውስተ ፡ ግብጽ ፡ በአሕማር ፡ ወእንተ ፡ ምድርኒ ፡ በእግር ፡ ዝንቱ ፡ ዘአቤ ፡ ኢትደግሙ ፡\n                  እንከ ፡ ርእዮታ ፡ ዓዲ ፡ ወትከውኑ ፡ በህየ ፡ አግብርተ ፡ ወአእማተ ፡ ለፀርክሙ ፡ ወአልቦ ፡ ዘያስተምሕረክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያገብአከ",
+          "t": "wäyagäbəʾäkä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ግብጽ",
+          "t": "gəbəṣə",
+          "gl": ""
+        },
+        {
+          "g": "በአሕማር",
+          "t": "bäʾäḥəmarə",
+          "gl": ""
+        },
+        {
+          "g": "ወእንተ",
+          "t": "wäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድርኒ",
+          "t": "mədərəni",
+          "gl": ""
+        },
+        {
+          "g": "በእግር",
+          "t": "bäʾəgərə",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘአቤ",
+          "t": "zäʾäbe",
+          "gl": ""
+        },
+        {
+          "g": "ኢትደግሙ",
+          "t": "ʾitədägəmu",
+          "gl": ""
+        },
+        {
+          "g": "እንከ",
+          "t": "ʾənəkä",
+          "gl": ""
+        },
+        {
+          "g": "ርእዮታ",
+          "t": "rəʾəyota",
+          "gl": ""
+        },
+        {
+          "g": "ዓዲ",
+          "t": "ʿadi",
+          "gl": ""
+        },
+        {
+          "g": "ወትከውኑ",
+          "t": "wätəkäwənu",
+          "gl": ""
+        },
+        {
+          "g": "በህየ",
+          "t": "bähəyä",
+          "gl": ""
+        },
+        {
+          "g": "አግብርተ",
+          "t": "ʾägəbərətä",
+          "gl": ""
+        },
+        {
+          "g": "ወአእማተ",
+          "t": "wäʾäʾəmatä",
+          "gl": ""
+        },
+        {
+          "g": "ለፀርክሙ",
+          "t": "läṣ́ärəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወአልቦ",
+          "t": "wäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘያስተምሕረክሙ",
+          "t": "zäyasətäməḥəräkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord shall bring thee back to Egypt in ships, by the way of which I said, Thou shalt not see it again; and ye shall be sold there to your enemies for bondmen and bondwomen, and none shall buy you.",
+        "kjv": "And the LORD shall bring thee into Egypt again with ships, by the way whereof I spake unto thee, Thou shalt see it no more again: and there ye shall be sold unto your enemies for bondmen and bondwomen, and no man shall buy you."
+      }
+    },
+    {
+      "num": 69,
+      "geez": "ወዝንቱ ፡ ውእቱ ፡ ነገረ ፡ ኪዳን ፡ ዘአዘዞ ፡ እግዚአብሔር ፡ ለሙሴ ፡ ከመ ፡ ይትካየዶሙ ፡ ለደቂቀ ፡ እስራኤል ፡\n                  በምድረ ፡ ሞአብ ፡ ዘእንበለ ፡ ዝክቱ ፡ ኪዳን ፡ ዘተካየዶሙ ፡ በኮሬብ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዝንቱ",
+          "t": "wäzənətu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ነገረ",
+          "t": "nägärä",
+          "gl": ""
+        },
+        {
+          "g": "ኪዳን",
+          "t": "kidanə",
+          "gl": ""
+        },
+        {
+          "g": "ዘአዘዞ",
+          "t": "zäʾäzäzo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይትካየዶሙ",
+          "t": "yətəkayädomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "በምድረ",
+          "t": "bämədərä",
+          "gl": ""
+        },
+        {
+          "g": "ሞአብ",
+          "t": "moʾäbə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእንበለ",
+          "t": "zäʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "ዝክቱ",
+          "t": "zəkətu",
+          "gl": ""
+        },
+        {
+          "g": "ኪዳን",
+          "t": "kidanə",
+          "gl": ""
+        },
+        {
+          "g": "ዘተካየዶሙ",
+          "t": "zätäkayädomu",
+          "gl": ""
+        },
+        {
+          "g": "በኮሬብ",
+          "t": "bäkorebə",
+          "gl": ""
+        }
+      ]
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

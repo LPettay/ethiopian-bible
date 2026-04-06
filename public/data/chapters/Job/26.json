@@ -1,0 +1,762 @@
+{
+  "book": "Job",
+  "chapter": 26,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ኀበ፡ ተናገረ፡ ኢዮብ፡ አውሥአ፡ ወይቤ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ተናገረ",
+          "t": "tänagärä",
+          "gl": ""
+        },
+        {
+          "g": "ኢዮብ",
+          "t": "ʾiyobə",
+          "gl": ""
+        },
+        {
+          "g": "አውሥአ",
+          "t": "ʾäwəśəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But Job answered and said,",
+        "kjv": "But Job answered and said,"
+      }
+    },
+    {
+      "num": 2,
+      "geez": "መነ፡ ትሠውቅ፡ ወመነ፡ ትፈቅድ፡ ትርዳእ፡ ቅድሜሁ፡ አኮኑ፡ ዘብዙኅ፡ ኃይሉ፡ ወብዙኅ፡ መዝታዕቱ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "መነ",
+          "t": "mänä",
+          "gl": ""
+        },
+        {
+          "g": "ትሠውቅ",
+          "t": "təśäwəqə",
+          "gl": ""
+        },
+        {
+          "g": "ወመነ",
+          "t": "wämänä",
+          "gl": ""
+        },
+        {
+          "g": "ትፈቅድ",
+          "t": "təfäqədə",
+          "gl": ""
+        },
+        {
+          "g": "ትርዳእ",
+          "t": "tərədaʾə",
+          "gl": ""
+        },
+        {
+          "g": "ቅድሜሁ",
+          "t": "qədəmehu",
+          "gl": ""
+        },
+        {
+          "g": "አኮኑ",
+          "t": "ʾäkonu",
+          "gl": ""
+        },
+        {
+          "g": "ዘብዙኅ",
+          "t": "zäbəzuḫə",
+          "gl": ""
+        },
+        {
+          "g": "ኃይሉ",
+          "t": "ḫayəlu",
+          "gl": ""
+        },
+        {
+          "g": "ወብዙኅ",
+          "t": "wäbəzuḫə",
+          "gl": ""
+        },
+        {
+          "g": "መዝታዕቱ",
+          "t": "mäzətaʿətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "To whom dost thou attach thyself, or whom art thou going to assist? is it not he that has much strength, and he who has a strong arm?",
+        "kjv": "How hast thou helped him that is without power? how savest thou the arm that hath no strength?"
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወለመኑ፡ ትመክር፡ እኮኑ፡ ዘሎቱ፡ ጥበብ፡ ወለመኑ፡ ትትኃሠሥ፡ አኮኑ፡ ዘጽኑዕ፡ ኃይሉ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለመኑ",
+          "t": "wälämänu",
+          "gl": ""
+        },
+        {
+          "g": "ትመክር",
+          "t": "təmäkərə",
+          "gl": ""
+        },
+        {
+          "g": "እኮኑ",
+          "t": "ʾəkonu",
+          "gl": ""
+        },
+        {
+          "g": "ዘሎቱ",
+          "t": "zälotu",
+          "gl": ""
+        },
+        {
+          "g": "ጥበብ",
+          "t": "ṭəbäbə",
+          "gl": ""
+        },
+        {
+          "g": "ወለመኑ",
+          "t": "wälämänu",
+          "gl": ""
+        },
+        {
+          "g": "ትትኃሠሥ",
+          "t": "tətəḫaśäśə",
+          "gl": ""
+        },
+        {
+          "g": "አኮኑ",
+          "t": "ʾäkonu",
+          "gl": ""
+        },
+        {
+          "g": "ዘጽኑዕ",
+          "t": "zäṣənuʿə",
+          "gl": ""
+        },
+        {
+          "g": "ኃይሉ",
+          "t": "ḫayəlu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "To whom hast thou given counsel? is it not to him who has all wisdom? whom wilt thou follow? is it not one who has the greatest power?",
+        "kjv": "How hast thou counselled him that hath no wisdom? and how hast thou plentifully declared the thing as it is?"
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወለመኑ፡ ታየድዕ፡ ነገረ፡ መንፈስ፡ ወመኑ፡ መንፈስ፡ ዘይወፅእ፡ እምኔከ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለመኑ",
+          "t": "wälämänu",
+          "gl": ""
+        },
+        {
+          "g": "ታየድዕ",
+          "t": "tayädəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ነገረ",
+          "t": "nägärä",
+          "gl": ""
+        },
+        {
+          "g": "መንፈስ",
+          "t": "mänəfäsə",
+          "gl": ""
+        },
+        {
+          "g": "ወመኑ",
+          "t": "wämänu",
+          "gl": ""
+        },
+        {
+          "g": "መንፈስ",
+          "t": "mänəfäsə",
+          "gl": ""
+        },
+        {
+          "g": "ዘይወፅእ",
+          "t": "zäyəwäṣ́əʾə",
+          "gl": ""
+        },
+        {
+          "g": "እምኔከ",
+          "t": "ʾəmənekä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "To whom hast thou uttered words? and whose breath is it that has come forth from thee?",
+        "kjv": "To whom hast thou uttered words? and whose spirit came from thee?"
+      }
+    },
+    {
+      "num": 5,
+      "geez": "እለ፡ ያርብኅኑ፡ ገፍዑኒ፡ ማይ፡ ዘመተሕቱ፡ ወዘውስቴቱ፡ እኮኑ፡ እግዚአብሔር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ያርብኅኑ",
+          "t": "yarəbəḫənu",
+          "gl": ""
+        },
+        {
+          "g": "ገፍዑኒ",
+          "t": "gäfəʿuni",
+          "gl": ""
+        },
+        {
+          "g": "ማይ",
+          "t": "mayə",
+          "gl": ""
+        },
+        {
+          "g": "ዘመተሕቱ",
+          "t": "zämätäḥətu",
+          "gl": ""
+        },
+        {
+          "g": "ወዘውስቴቱ",
+          "t": "wäzäwəsətetu",
+          "gl": ""
+        },
+        {
+          "g": "እኮኑ",
+          "t": "ʾəkonu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Shall giants be born from under the water and the inhabitants thereof?",
+        "kjv": "Dead things are formed from under the waters, and the inhabitants thereof."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ክሡት፡ ሲኦል፡ በቅድሜሁ፡ ወአልቦ፡ ምንትኒ፡ ዘይሤወሮ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ክሡት",
+          "t": "kəśutə",
+          "gl": ""
+        },
+        {
+          "g": "ሲኦል",
+          "t": "siʾolə",
+          "gl": ""
+        },
+        {
+          "g": "በቅድሜሁ",
+          "t": "bäqədəmehu",
+          "gl": ""
+        },
+        {
+          "g": "ወአልቦ",
+          "t": "wäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ምንትኒ",
+          "t": "mənətəni",
+          "gl": ""
+        },
+        {
+          "g": "ዘይሤወሮ",
+          "t": "zäyəśewäro",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Hell is naked before him, and destruction has no covering.",
+        "kjv": "Hell is naked before him, and destruction hath no covering."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ዘሰፍሖ፡ ለሰማይ፡ ዲበ፡ ወኢምንት፡ ወሰቀላ፡ ለምድር፡ ዲበ፡ ዕራቁ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዘሰፍሖ",
+          "t": "zäsäfəḥo",
+          "gl": ""
+        },
+        {
+          "g": "ለሰማይ",
+          "t": "läsämayə",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢምንት",
+          "t": "wäʾimənətə",
+          "gl": ""
+        },
+        {
+          "g": "ወሰቀላ",
+          "t": "wäsäqäla",
+          "gl": ""
+        },
+        {
+          "g": "ለምድር",
+          "t": "lämədərə",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "ዕራቁ",
+          "t": "ʿəraqu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "He stretches out the north wind upon nothing, and he upon nothing hangs the earth;",
+        "kjv": "He stretcheth out the north over the empty place, and hangeth the earth upon nothing."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወየጫቊሮ፡ ለማይ፡ ዲበ፡ ደመና፡ ወኢይሠጠጥ፡ ደመናሁ፡ በታግቴሁ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወየጫቊሮ",
+          "t": "wäyäč̣aqwiro",
+          "gl": ""
+        },
+        {
+          "g": "ለማይ",
+          "t": "lämayə",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "ደመና",
+          "t": "dämäna",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይሠጠጥ",
+          "t": "wäʾiyəśäṭäṭə",
+          "gl": ""
+        },
+        {
+          "g": "ደመናሁ",
+          "t": "dämänahu",
+          "gl": ""
+        },
+        {
+          "g": "በታግቴሁ",
+          "t": "bätagətehu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "binding water in his clouds, and the cloud is not rent under it.",
+        "kjv": "He bindeth up the waters in his thick clouds; and the cloud is not rent under them."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ዘውእቱ፡ ብውሕ፡ ሎቱ፡ ይብበር፡ ዲበ፡ መንበሩ፡ ወይሠይም፡ ላዕሌሁ፡ ግብተ፡ ለለሰዓቱ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዘውእቱ",
+          "t": "zäwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ብውሕ",
+          "t": "bəwəḥə",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ይብበር",
+          "t": "yəbəbärə",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "መንበሩ",
+          "t": "mänəbäru",
+          "gl": ""
+        },
+        {
+          "g": "ወይሠይም",
+          "t": "wäyəśäyəmə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ግብተ",
+          "t": "gəbətä",
+          "gl": ""
+        },
+        {
+          "g": "ለለሰዓቱ",
+          "t": "läläsäʿatu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "He keeps back the face of his throne, stretching out his cloud upon it.",
+        "kjv": "He holdeth back the face of his throne, and spreadeth his cloud upon it."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወሐፀሮ፡ ሰማይ፡ በትእዛዙ፡ ወእስከ፡ አመ፡ የኃልቅ፡ ይትባረይ፡ ብርሃን፡ ምስለ፡ ሰድልመት።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሐፀሮ",
+          "t": "wäḥäṣ́äro",
+          "gl": ""
+        },
+        {
+          "g": "ሰማይ",
+          "t": "sämayə",
+          "gl": ""
+        },
+        {
+          "g": "በትእዛዙ",
+          "t": "bätəʾəzazu",
+          "gl": ""
+        },
+        {
+          "g": "ወእስከ",
+          "t": "wäʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "የኃልቅ",
+          "t": "yäḫaləqə",
+          "gl": ""
+        },
+        {
+          "g": "ይትባረይ",
+          "t": "yətəbaräyə",
+          "gl": ""
+        },
+        {
+          "g": "ብርሃን",
+          "t": "bərəhanə",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሰድልመት",
+          "t": "sädələmätə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "He has encompassed the face of the water by an appointed ordinance, until the end of light and darkness.",
+        "kjv": "He hath compassed the waters with bounds, until the day and night come to an end."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወሣረረ፡ አዕማደ፡ ሰማይ፡ ወኢድኅፀ፡ እምተእዛዙ፡ ወይገነግፁ፡ እምተግሣፁ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሣረረ",
+          "t": "wäśarärä",
+          "gl": ""
+        },
+        {
+          "g": "አዕማደ",
+          "t": "ʾäʿəmadä",
+          "gl": ""
+        },
+        {
+          "g": "ሰማይ",
+          "t": "sämayə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢድኅፀ",
+          "t": "wäʾidəḫəṣ́ä",
+          "gl": ""
+        },
+        {
+          "g": "እምተእዛዙ",
+          "t": "ʾəmətäʾəzazu",
+          "gl": ""
+        },
+        {
+          "g": "ወይገነግፁ",
+          "t": "wäyəgänägəṣ́u",
+          "gl": ""
+        },
+        {
+          "g": "እምተግሣፁ",
+          "t": "ʾəmətägəśaṣ́u",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The pillars of heaven are prostrate and astonished at his rebuke.",
+        "kjv": "The pillars of heaven tremble and are astonished at his reproof."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወበኃይሉ፡ እኅድአ፡ ለባሕር፡ ወነጽሖ፡ ለአንበሪ፡ በተግሣፁ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበኃይሉ",
+          "t": "wäbäḫayəlu",
+          "gl": ""
+        },
+        {
+          "g": "እኅድአ",
+          "t": "ʾəḫədəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ለባሕር",
+          "t": "läbaḥərə",
+          "gl": ""
+        },
+        {
+          "g": "ወነጽሖ",
+          "t": "wänäṣəḥo",
+          "gl": ""
+        },
+        {
+          "g": "ለአንበሪ",
+          "t": "läʾänəbäri",
+          "gl": ""
+        },
+        {
+          "g": "በተግሣፁ",
+          "t": "bätägəśaṣ́u",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "He has calmed the sea with his might, and by his wisdom the whale has been overthrown.",
+        "kjv": "He divideth the sea with his power, and by his understanding he smiteth through the proud."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "መዓፀውተ፡ ሲኦልኒ፡ አድረዉ፡ ሎቱ፡ ወቀተሎ፡ ለከይሲ፡ ዓላዊ፡ በተግሣፁ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "መዓፀውተ",
+          "t": "mäʿaṣ́äwətä",
+          "gl": ""
+        },
+        {
+          "g": "ሲኦልኒ",
+          "t": "siʾoləni",
+          "gl": ""
+        },
+        {
+          "g": "አድረዉ",
+          "t": "ʾädəräwu",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ወቀተሎ",
+          "t": "wäqätälo",
+          "gl": ""
+        },
+        {
+          "g": "ለከይሲ",
+          "t": "läkäyəsi",
+          "gl": ""
+        },
+        {
+          "g": "ዓላዊ",
+          "t": "ʿalawi",
+          "gl": ""
+        },
+        {
+          "g": "በተግሣፁ",
+          "t": "bätägəśaṣ́u",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the barriers of heaven fear him, and by a command he has slain the apostate dragon.",
+        "kjv": "By his spirit he hath garnished the heavens; his hand hath formed the crooked serpent."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ናሁ፡ ዝ፡ መክፈልተ፡ ፍኖቱ፡ ወናጸምእ፡ ነገራቶሂ፡ እለ፡ ተርፉ፡ ወድምፀ፡ ፀዓዑ፡ መኑ፡ የአምር፡ ጊዜ፡ ይገብር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ናሁ",
+          "t": "nahu",
+          "gl": ""
+        },
+        {
+          "g": "ዝ",
+          "t": "zə",
+          "gl": ""
+        },
+        {
+          "g": "መክፈልተ",
+          "t": "mäkəfälətä",
+          "gl": ""
+        },
+        {
+          "g": "ፍኖቱ",
+          "t": "fənotu",
+          "gl": ""
+        },
+        {
+          "g": "ወናጸምእ",
+          "t": "wänaṣäməʾə",
+          "gl": ""
+        },
+        {
+          "g": "ነገራቶሂ",
+          "t": "nägäratohi",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ተርፉ",
+          "t": "tärəfu",
+          "gl": ""
+        },
+        {
+          "g": "ወድምፀ",
+          "t": "wädəməṣ́ä",
+          "gl": ""
+        },
+        {
+          "g": "ፀዓዑ",
+          "t": "ṣ́äʿaʿu",
+          "gl": ""
+        },
+        {
+          "g": "መኑ",
+          "t": "mänu",
+          "gl": ""
+        },
+        {
+          "g": "የአምር",
+          "t": "yäʾämərə",
+          "gl": ""
+        },
+        {
+          "g": "ጊዜ",
+          "t": "gize",
+          "gl": ""
+        },
+        {
+          "g": "ይገብር",
+          "t": "yəgäbərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Behold, these are parts of his way; and we will hearken to him at the least intimation of his word: but the strength of his thunder who knows, when he shall employ it?",
+        "kjv": "Lo, these are parts of his ways: but how little a portion is heard of him? but the thunder of his power who can understand?"
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

@@ -1,0 +1,3708 @@
+{
+  "book": "Judg",
+  "chapter": 11,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወይፍታሔ ፡ ገለአዳዊ ፡ ጽኑዕ ፡ ወኀያል ፡ ወወልደ ፡ ብእሲት ፡ ዘማ ፡ ውእቱ ፡ ወወለደቶ ፡ ለይፍታሔ ፡ ለገላአድ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይፍታሔ",
+          "t": "wäyəfətaḥe",
+          "gl": ""
+        },
+        {
+          "g": "ገለአዳዊ",
+          "t": "gäläʾädawi",
+          "gl": ""
+        },
+        {
+          "g": "ጽኑዕ",
+          "t": "ṣənuʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወኀያል",
+          "t": "wäḫäyalə",
+          "gl": ""
+        },
+        {
+          "g": "ወወልደ",
+          "t": "wäwälədä",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲት",
+          "t": "bəʾəsitə",
+          "gl": ""
+        },
+        {
+          "g": "ዘማ",
+          "t": "zäma",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ወወለደቶ",
+          "t": "wäwälädäto",
+          "gl": ""
+        },
+        {
+          "g": "ለይፍታሔ",
+          "t": "läyəfətaḥe",
+          "gl": ""
+        },
+        {
+          "g": "ለገላአድ",
+          "t": "lägälaʾädə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Jephthae the Galaadite was a mighty man; and he was the son of a harlot, who bore Jephthae to Galaad.",
+        "kjv": "Now Jephthah the Gileadite was a mighty man of valour, and he was the son of an harlot: and Gilead begat Jephthah."
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ወወለደት ፡ ሎቱ ፡ ለገላአድ ፡ ደቂቀ ፡ [ብእሲቱ ፡ አግዓዚት ፡] ወልህቁ ፡ ደቂቃ ፡ ለይእቲ ፡ ብእሲት ፡ ወአውፅእዎ ፡\n                  ለይፍታሔ ፡ ወይቤልዎ ፡ ኢትወርስ ፡ ውስተ ፡ ቤተ ፡ አቡነ ፡ እስመ ፡ ወልደ ፡ ካልእት ፡ ብእሲት ፡ አንተ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወወለደት",
+          "t": "wäwälädätə",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ለገላአድ",
+          "t": "lägälaʾädə",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲቱ",
+          "t": "bəʾəsitu",
+          "gl": ""
+        },
+        {
+          "g": "አግዓዚት",
+          "t": "ʾägəʿazitə",
+          "gl": ""
+        },
+        {
+          "g": "ወልህቁ",
+          "t": "wäləhəqu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቃ",
+          "t": "däqiqa",
+          "gl": ""
+        },
+        {
+          "g": "ለይእቲ",
+          "t": "läyəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲት",
+          "t": "bəʾəsitə",
+          "gl": ""
+        },
+        {
+          "g": "ወአውፅእዎ",
+          "t": "wäʾäwəṣ́əʾəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለይፍታሔ",
+          "t": "läyəfətaḥe",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤልዎ",
+          "t": "wäyəbeləwo",
+          "gl": ""
+        },
+        {
+          "g": "ኢትወርስ",
+          "t": "ʾitəwärəsə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ቤተ",
+          "t": "betä",
+          "gl": ""
+        },
+        {
+          "g": "አቡነ",
+          "t": "ʾäbunä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ካልእት",
+          "t": "kaləʾətə",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲት",
+          "t": "bəʾəsitə",
+          "gl": ""
+        },
+        {
+          "g": "አንተ",
+          "t": "ʾänətä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the wife of Galaad bore him sons; and the sons of his wife grew up, and they cast out Jephthae, and said to him, Thou shalt not inherit in the house of our father, for thou art the son of a concubine.",
+        "kjv": "And Gilead’s wife bare him sons; and his wife’s sons grew up, and they thrust out Jephthah, and said unto him, Thou shalt not inherit in our father’s house; for thou art the son of a strange woman."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወሖረ ፡ ይፍታሔ ፡ እምነ ፡ ገጸ ፡ አኀዊሁ ፡ ወነበረ ፡ ውስተ ፡ ምድረ ፡ ጦፍ ፡ ወይፀመድዎ ፡ ለይፍታሔ ፡ ሰብእ ፡\n                  ነዳያን ፡ ወየሐውሩ ፡ ምስሌሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሖረ",
+          "t": "wäḥorä",
+          "gl": ""
+        },
+        {
+          "g": "ይፍታሔ",
+          "t": "yəfətaḥe",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ገጸ",
+          "t": "gäṣä",
+          "gl": ""
+        },
+        {
+          "g": "አኀዊሁ",
+          "t": "ʾäḫäwihu",
+          "gl": ""
+        },
+        {
+          "g": "ወነበረ",
+          "t": "wänäbärä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድረ",
+          "t": "mədərä",
+          "gl": ""
+        },
+        {
+          "g": "ጦፍ",
+          "t": "ṭofə",
+          "gl": ""
+        },
+        {
+          "g": "ወይፀመድዎ",
+          "t": "wäyəṣ́ämädəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለይፍታሔ",
+          "t": "läyəfətaḥe",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ነዳያን",
+          "t": "nädayanə",
+          "gl": ""
+        },
+        {
+          "g": "ወየሐውሩ",
+          "t": "wäyäḥäwəru",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሁ",
+          "t": "məsəlehu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Jephthae fled from the face of his brethren, and dwelt in the land of Tob; and vain men gathered to Jephthae, and went out with him.",
+        "kjv": "Then Jephthah fled from his brethren, and dwelt in the land of Tob: and there were gathered vain men to Jephthah, and went out with him."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወእምድኅረ ፡ መዋዕል ፡ ተቃተልዎሙ ፡ ደቂቀ ፡ ዐሞን ፡ ለእስራኤል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእምድኅረ",
+          "t": "wäʾəmədəḫərä",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕል",
+          "t": "mäwaʿələ",
+          "gl": ""
+        },
+        {
+          "g": "ተቃተልዎሙ",
+          "t": "täqatäləwomu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ዐሞን",
+          "t": "ʿämonə",
+          "gl": ""
+        },
+        {
+          "g": "ለእስራኤል",
+          "t": "läʾəsəraʾelə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it came to pass when the children of Ammon prepared to fight with Israel,",
+        "kjv": "And it came to pass in process of time, that the children of Ammon made war against Israel."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወሖሩ ፡ ሊቃናተ ፡ ገላአድ ፡ ይንሥእዎ ፡ ለይፍታሔ ፡ እምድረ ፡ ጦፍ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሖሩ",
+          "t": "wäḥoru",
+          "gl": ""
+        },
+        {
+          "g": "ሊቃናተ",
+          "t": "liqanatä",
+          "gl": ""
+        },
+        {
+          "g": "ገላአድ",
+          "t": "gälaʾädə",
+          "gl": ""
+        },
+        {
+          "g": "ይንሥእዎ",
+          "t": "yənəśəʾəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለይፍታሔ",
+          "t": "läyəfətaḥe",
+          "gl": ""
+        },
+        {
+          "g": "እምድረ",
+          "t": "ʾəmədərä",
+          "gl": ""
+        },
+        {
+          "g": "ጦፍ",
+          "t": "ṭofə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "that the elders of Galaad went to fetch Jephthae from the land of Tob.",
+        "kjv": "And it was so, that when the children of Ammon made war against Israel, the elders of Gilead went to fetch Jephthah out of the land of Tob:"
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወይቤልዎ ፡ ለይፍታሔ ፡ ነዐ ፡ ወትኩነነ ፡ መስፍነ ፡ ወንትቃተሎሙ ፡ ለደቂቀ ፡ ዐሞን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤልዎ",
+          "t": "wäyəbeləwo",
+          "gl": ""
+        },
+        {
+          "g": "ለይፍታሔ",
+          "t": "läyəfətaḥe",
+          "gl": ""
+        },
+        {
+          "g": "ነዐ",
+          "t": "näʿä",
+          "gl": ""
+        },
+        {
+          "g": "ወትኩነነ",
+          "t": "wätəkunänä",
+          "gl": ""
+        },
+        {
+          "g": "መስፍነ",
+          "t": "mäsəfənä",
+          "gl": ""
+        },
+        {
+          "g": "ወንትቃተሎሙ",
+          "t": "wänətəqatälomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ዐሞን",
+          "t": "ʿämonə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they said to Jephthae, Come, and be our head, and we will fight with the sons of Ammon.",
+        "kjv": "And they said unto Jephthah, Come, and be our captain, that we may fight with the children of Ammon."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወይቤሎሙ ፡ ይፍታሔ ፡ ለሊቃናተ ፡ ገላአድ ፡ አኮኑ ፡ አንትሙ ፡ ጸላእክሙኒ ፡ ወአውፃእክሙኒ ፡ እምነ ፡ ቤተ ፡ አቡየ ፡\n                  ወአውፃእክሙኒ ፡ እምኀቤክሙ ፡ ለምንት ፡ እንከ ፡ መጻእክሙ ፡ ኀቤየ ፡ ይእዜ ፡ ሶበ ፡ ተመንደብክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎሙ",
+          "t": "wäyəbelomu",
+          "gl": ""
+        },
+        {
+          "g": "ይፍታሔ",
+          "t": "yəfətaḥe",
+          "gl": ""
+        },
+        {
+          "g": "ለሊቃናተ",
+          "t": "läliqanatä",
+          "gl": ""
+        },
+        {
+          "g": "ገላአድ",
+          "t": "gälaʾädə",
+          "gl": ""
+        },
+        {
+          "g": "አኮኑ",
+          "t": "ʾäkonu",
+          "gl": ""
+        },
+        {
+          "g": "አንትሙ",
+          "t": "ʾänətəmu",
+          "gl": ""
+        },
+        {
+          "g": "ጸላእክሙኒ",
+          "t": "ṣälaʾəkəmuni",
+          "gl": ""
+        },
+        {
+          "g": "ወአውፃእክሙኒ",
+          "t": "wäʾäwəṣ́aʾəkəmuni",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ቤተ",
+          "t": "betä",
+          "gl": ""
+        },
+        {
+          "g": "አቡየ",
+          "t": "ʾäbuyä",
+          "gl": ""
+        },
+        {
+          "g": "ወአውፃእክሙኒ",
+          "t": "wäʾäwəṣ́aʾəkəmuni",
+          "gl": ""
+        },
+        {
+          "g": "እምኀቤክሙ",
+          "t": "ʾəməḫäbekəmu",
+          "gl": ""
+        },
+        {
+          "g": "ለምንት",
+          "t": "lämənətə",
+          "gl": ""
+        },
+        {
+          "g": "እንከ",
+          "t": "ʾənəkä",
+          "gl": ""
+        },
+        {
+          "g": "መጻእክሙ",
+          "t": "mäṣaʾəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ኀቤየ",
+          "t": "ḫäbeyä",
+          "gl": ""
+        },
+        {
+          "g": "ይእዜ",
+          "t": "yəʾəze",
+          "gl": ""
+        },
+        {
+          "g": "ሶበ",
+          "t": "sobä",
+          "gl": ""
+        },
+        {
+          "g": "ተመንደብክሙ",
+          "t": "tämänədäbəkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Jephthae said to the elders of Galaad, Did ye not hate me, and cast me out of my father's house, and banish me from you? and wherefore are ye come to me now when ye want me?",
+        "kjv": "And Jephthah said unto the elders of Gilead, Did not ye hate me, and expel me out of my father’s house? and why are ye come unto me now when ye are in distress?"
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወይቤልዎ ፡ ሊቃናተ ፡ ገላአድ ፡ ለይፍታሔ ፡ አኮ ፡ ከመዝ ፤ መጻእነ ፡ ኀቤከ ፡ ከመ ፡ ትሑር ፡ ምስሌነ ፡ ወትትቃተል\n                  ፡ ለነ ፡ ምስለ ፡ ደቂቀ ፡ ዐሞን ፡ ወትኩነነ ፡ ርእሰ ፡ ለኵሉ ፡ እለ ፡ ይነብሩ ፡ ውስተ ፡ ገላአድ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤልዎ",
+          "t": "wäyəbeləwo",
+          "gl": ""
+        },
+        {
+          "g": "ሊቃናተ",
+          "t": "liqanatä",
+          "gl": ""
+        },
+        {
+          "g": "ገላአድ",
+          "t": "gälaʾädə",
+          "gl": ""
+        },
+        {
+          "g": "ለይፍታሔ",
+          "t": "läyəfətaḥe",
+          "gl": ""
+        },
+        {
+          "g": "አኮ",
+          "t": "ʾäko",
+          "gl": ""
+        },
+        {
+          "g": "ከመዝ  መጻእነ",
+          "t": "kämäzə  mäṣaʾənä",
+          "gl": ""
+        },
+        {
+          "g": "ኀቤከ",
+          "t": "ḫäbekä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ትሑር",
+          "t": "təḥurə",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌነ",
+          "t": "məsəlenä",
+          "gl": ""
+        },
+        {
+          "g": "ወትትቃተል",
+          "t": "wätətəqatälə",
+          "gl": ""
+        },
+        {
+          "g": "ለነ",
+          "t": "länä",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ዐሞን",
+          "t": "ʿämonə",
+          "gl": ""
+        },
+        {
+          "g": "ወትኩነነ",
+          "t": "wätəkunänä",
+          "gl": ""
+        },
+        {
+          "g": "ርእሰ",
+          "t": "rəʾəsä",
+          "gl": ""
+        },
+        {
+          "g": "ለኵሉ",
+          "t": "läkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ገላአድ",
+          "t": "gälaʾädə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the elders of Galaad said to Jephthae, Therefore have we now turned to thee, that thou shouldest go with us, and fight against the sons of Ammon, and be our head over all the inhabitants of Galaad.",
+        "kjv": "And the elders of Gilead said unto Jephthah, Therefore we turn again to thee now, that thou mayest go with us, and fight against the children of Ammon, and be our head over all the inhabitants of Gilead."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወይቤሎሙ ፡ ይፍታሔ ፡ ለሊቃናተ ፡ ገላአድ ፡ እመ ፡ ትነሥኡኒ ፡ አንትሙ ፡ ከመ ፡ እትቃተሎሙ ፡ ለደቂቀ ፡ ዐሞን ፡\n                  እምከመ ፡ አግብኦሙ ፡ እግዚአብሔር ፡ ቅድሜየ ፡ አነ ፡ እከውነክሙ ፡ ርእሰ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎሙ",
+          "t": "wäyəbelomu",
+          "gl": ""
+        },
+        {
+          "g": "ይፍታሔ",
+          "t": "yəfətaḥe",
+          "gl": ""
+        },
+        {
+          "g": "ለሊቃናተ",
+          "t": "läliqanatä",
+          "gl": ""
+        },
+        {
+          "g": "ገላአድ",
+          "t": "gälaʾädə",
+          "gl": ""
+        },
+        {
+          "g": "እመ",
+          "t": "ʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ትነሥኡኒ",
+          "t": "tənäśəʾuni",
+          "gl": ""
+        },
+        {
+          "g": "አንትሙ",
+          "t": "ʾänətəmu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "እትቃተሎሙ",
+          "t": "ʾətəqatälomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ዐሞን",
+          "t": "ʿämonə",
+          "gl": ""
+        },
+        {
+          "g": "እምከመ",
+          "t": "ʾəməkämä",
+          "gl": ""
+        },
+        {
+          "g": "አግብኦሙ",
+          "t": "ʾägəbəʾomu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ቅድሜየ",
+          "t": "qədəmeyä",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "እከውነክሙ",
+          "t": "ʾəkäwənäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ርእሰ",
+          "t": "rəʾəsä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Jephthae said to the elders of Galaad, If ye turn me back to fight with the children of Ammon, and the Lord should deliver them before me, then will I be your head.",
+        "kjv": "And Jephthah said unto the elders of Gilead, If ye bring me home again to fight against the children of Ammon, and the LORD deliver them before me, shall I be your head?"
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወይቤልዎ ፡ ሊቃናተ ፡ ገላአድ ፡ ለይፍታሔ ፡ እግዚአብሔር ፡ ስምዕነ ፡ በማእከሌነ ፡ ከመ ፡ በከመ ፡ ትቤ ፡ ከማሁ ፡\n                  ንገብር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤልዎ",
+          "t": "wäyəbeləwo",
+          "gl": ""
+        },
+        {
+          "g": "ሊቃናተ",
+          "t": "liqanatä",
+          "gl": ""
+        },
+        {
+          "g": "ገላአድ",
+          "t": "gälaʾädə",
+          "gl": ""
+        },
+        {
+          "g": "ለይፍታሔ",
+          "t": "läyəfətaḥe",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ስምዕነ",
+          "t": "səməʿənä",
+          "gl": ""
+        },
+        {
+          "g": "በማእከሌነ",
+          "t": "bämaʾəkälenä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ትቤ",
+          "t": "təbe",
+          "gl": ""
+        },
+        {
+          "g": "ከማሁ",
+          "t": "kämahu",
+          "gl": ""
+        },
+        {
+          "g": "ንገብር",
+          "t": "nəgäbərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the elders of Galaad said to Jephthae, The Lord be witness between us, if we shall not do according to thy word.",
+        "kjv": "And the elders of Gilead said unto Jephthah, The LORD be witness between us, if we do not so according to thy words."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወሖረ ፡ ይፍታሔ ፡ ምስለ ፡ ሊቃናተ ፡ ገላአድ ፡ ወሤምዎ ፡ ሕዝብ ፡ ሎሙ ፡ ርእሰ ፡ ከመ ፡ ይኩኖሙ ፡ መስፍነ ፡\n                  ወነገረ ፡ ይፍታሔ ፡ ኵሎ ፡ ቃሎ ፡ ቅድመ ፡ እግዚአብሔር ፡ በመሴፋ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሖረ",
+          "t": "wäḥorä",
+          "gl": ""
+        },
+        {
+          "g": "ይፍታሔ",
+          "t": "yəfətaḥe",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሊቃናተ",
+          "t": "liqanatä",
+          "gl": ""
+        },
+        {
+          "g": "ገላአድ",
+          "t": "gälaʾädə",
+          "gl": ""
+        },
+        {
+          "g": "ወሤምዎ",
+          "t": "wäśeməwo",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ሎሙ",
+          "t": "lomu",
+          "gl": ""
+        },
+        {
+          "g": "ርእሰ",
+          "t": "rəʾəsä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይኩኖሙ",
+          "t": "yəkunomu",
+          "gl": ""
+        },
+        {
+          "g": "መስፍነ",
+          "t": "mäsəfənä",
+          "gl": ""
+        },
+        {
+          "g": "ወነገረ",
+          "t": "wänägärä",
+          "gl": ""
+        },
+        {
+          "g": "ይፍታሔ",
+          "t": "yəfətaḥe",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ቃሎ",
+          "t": "qalo",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "በመሴፋ",
+          "t": "bämäsefa",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Jephthae went with the elders of Galaad, and the people made him head and ruler over them: and Jephthae spoke all his words before the Lord in Massepha.",
+        "kjv": "Then Jephthah went with the elders of Gilead, and the people made him head and captain over them: and Jephthah uttered all his words before the LORD in Mizpeh."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወፈነወ ፡ ይፍታሔ ፡ መ[ላ]እክተ ፡ ኀበ ፡ ንጉሦሙ ፡ ለደቂቀ ፡ ዐሞን ፡ እንዘ ፡ ይብል ፡ ምንትአ ፡ ብከአ ፡ ምስሌየአ\n                  ፡ ከመአ ፡ ትምጻእአ ፡ ትትቃተለኒአ ፡ ውስተአ ፡ ብሔርየአ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወፈነወ",
+          "t": "wäfänäwä",
+          "gl": ""
+        },
+        {
+          "g": "ይፍታሔ",
+          "t": "yəfətaḥe",
+          "gl": ""
+        },
+        {
+          "g": "መላእክተ",
+          "t": "mälaʾəkətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ንጉሦሙ",
+          "t": "nəguśomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ዐሞን",
+          "t": "ʿämonə",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ይብል",
+          "t": "yəbələ",
+          "gl": ""
+        },
+        {
+          "g": "ምንትአ",
+          "t": "mənətəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ብከአ",
+          "t": "bəkäʾä",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌየአ",
+          "t": "məsəleyäʾä",
+          "gl": ""
+        },
+        {
+          "g": "ከመአ",
+          "t": "kämäʾä",
+          "gl": ""
+        },
+        {
+          "g": "ትምጻእአ",
+          "t": "təməṣaʾəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ትትቃተለኒአ",
+          "t": "tətəqatäläniʾä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተአ",
+          "t": "wəsətäʾä",
+          "gl": ""
+        },
+        {
+          "g": "ብሔርየአ",
+          "t": "bəḥerəyäʾä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Jephthae sent messengers to the king of the children of Ammon, saying, What have I to do with thee, that thou hast come against me to fight in my land?",
+        "kjv": "And Jephthah sent messengers unto the king of the children of Ammon, saying, What hast thou to do with me, that thou art come against me to fight in my land?"
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወይቤ ፡ ንጉሦሙ ፡ ለደቂቀ ፡ ዐሞን ፡ ለእለ ፡ ለአከ ፡ ይፍታሔ ፡ እስመአ ፡ ነሥኡአ ፡ እስራኤል ፡ ምድርየ ፡ አመ ፡\n                  የዐርጉ ፡ እምነ ፡ ግብጽ ፡ እምነ ፡ ዐርኖን ፡ እስከ ፡ ኢያቦቅ ፡ ወእስከ ፡ ዮርዳንስ ፡ ወይእዜኒ ፡ አግብእአ ፡ ሊተአ ፡\n                  በሰላምአ ፡ ወገብኡ ፡ እለ ፡ ለአከ ፡ ይፍታሔ ፡ ኀቤሁ ፡ ለይፍታሔ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "ንጉሦሙ",
+          "t": "nəguśomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ዐሞን",
+          "t": "ʿämonə",
+          "gl": ""
+        },
+        {
+          "g": "ለእለ",
+          "t": "läʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ለአከ",
+          "t": "läʾäkä",
+          "gl": ""
+        },
+        {
+          "g": "ይፍታሔ",
+          "t": "yəfətaḥe",
+          "gl": ""
+        },
+        {
+          "g": "እስመአ",
+          "t": "ʾəsəmäʾä",
+          "gl": ""
+        },
+        {
+          "g": "ነሥኡአ",
+          "t": "näśəʾuʾä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ምድርየ",
+          "t": "mədərəyä",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "የዐርጉ",
+          "t": "yäʿärəgu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ግብጽ",
+          "t": "gəbəṣə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ዐርኖን",
+          "t": "ʿärənonə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ኢያቦቅ",
+          "t": "ʾiyaboqə",
+          "gl": ""
+        },
+        {
+          "g": "ወእስከ",
+          "t": "wäʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዮርዳንስ",
+          "t": "yorədanəsə",
+          "gl": ""
+        },
+        {
+          "g": "ወይእዜኒ",
+          "t": "wäyəʾəzeni",
+          "gl": ""
+        },
+        {
+          "g": "አግብእአ",
+          "t": "ʾägəbəʾəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሊተአ",
+          "t": "litäʾä",
+          "gl": ""
+        },
+        {
+          "g": "በሰላምአ",
+          "t": "bäsälaməʾä",
+          "gl": ""
+        },
+        {
+          "g": "ወገብኡ",
+          "t": "wägäbəʾu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ለአከ",
+          "t": "läʾäkä",
+          "gl": ""
+        },
+        {
+          "g": "ይፍታሔ",
+          "t": "yəfətaḥe",
+          "gl": ""
+        },
+        {
+          "g": "ኀቤሁ",
+          "t": "ḫäbehu",
+          "gl": ""
+        },
+        {
+          "g": "ለይፍታሔ",
+          "t": "läyəfətaḥe",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the king of the children of Ammon said to the messengers of Jephthae, Because Israel took my land when he went up out of Egypt, from Arnon to Jaboc, and to Jordan: now then return them peaceably and I will depart.",
+        "kjv": "And the king of the children of Ammon answered unto the messengers of Jephthah, Because Israel took away my land, when they came up out of Egypt, from Arnon even unto Jabbok, and unto Jordan: now therefore restore those lands again peaceably."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወፈነወ ፡ [ዓዲ ፡] ይፍታሔ ፡ ሐዋርያተ ፡ ኀበ ፡ ንጉሦሙ ፡ ለደቂቀ ፡ ዐሞን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወፈነወ",
+          "t": "wäfänäwä",
+          "gl": ""
+        },
+        {
+          "g": "ዓዲ",
+          "t": "ʿadi",
+          "gl": ""
+        },
+        {
+          "g": "ይፍታሔ",
+          "t": "yəfətaḥe",
+          "gl": ""
+        },
+        {
+          "g": "ሐዋርያተ",
+          "t": "ḥäwarəyatä",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ንጉሦሙ",
+          "t": "nəguśomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ዐሞን",
+          "t": "ʿämonə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Jephthae again sent messengers to the king of the children of Ammon,",
+        "kjv": "And Jephthah sent messengers again unto the king of the children of Ammon:"
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ወይቤሎ ፡ ከመዝ ፡ ይፍታሔ ፡ ይቤ ፡ ኢነሥአአ ፡ እስራኤልአ ፡ ምድረከ ፡ ዘሞአብ ፡ ወምድረ ፡ ደቂቀ ፡ ዐሞን ፡ አመ ፡\n                  ዐርጉ ፡ እምነ ፡ ግብጽ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ከመዝ",
+          "t": "kämäzə",
+          "gl": ""
+        },
+        {
+          "g": "ይፍታሔ",
+          "t": "yəfətaḥe",
+          "gl": ""
+        },
+        {
+          "g": "ይቤ",
+          "t": "yəbe",
+          "gl": ""
+        },
+        {
+          "g": "ኢነሥአአ",
+          "t": "ʾinäśəʾäʾä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤልአ",
+          "t": "ʾəsəraʾeləʾä",
+          "gl": ""
+        },
+        {
+          "g": "ምድረከ",
+          "t": "mədəräkä",
+          "gl": ""
+        },
+        {
+          "g": "ዘሞአብ",
+          "t": "zämoʾäbə",
+          "gl": ""
+        },
+        {
+          "g": "ወምድረ",
+          "t": "wämədərä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ዐሞን",
+          "t": "ʿämonə",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ዐርጉ",
+          "t": "ʿärəgu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ግብጽ",
+          "t": "gəbəṣə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and said to him, Thus says Jephthae, Israel took not the land of Moab, nor the land of the children of Ammon;",
+        "kjv": "And said unto him, Thus saith Jephthah, Israel took not away the land of Moab, nor the land of the children of Ammon:"
+      }
+    },
+    {
+      "num": 16,
+      "geez": "አላ ፡ ሖሩ ፡ እስራኤል ፡ ውስተ ፡ ገዳም ፡ እስከ ፡ ባሕረ ፡ ኤርትራ ፡ ወበጽሑ ፡ እስከ ፡ ቃዴስ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "አላ",
+          "t": "ʾäla",
+          "gl": ""
+        },
+        {
+          "g": "ሖሩ",
+          "t": "ḥoru",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ገዳም",
+          "t": "gädamə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ባሕረ",
+          "t": "baḥərä",
+          "gl": ""
+        },
+        {
+          "g": "ኤርትራ",
+          "t": "ʾerətəra",
+          "gl": ""
+        },
+        {
+          "g": "ወበጽሑ",
+          "t": "wäbäṣəḥu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ቃዴስ",
+          "t": "qadesə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "for in their going up out of Egypt Israel went in the wilderness as far as the sea of Siph, and came to Cades.",
+        "kjv": "But when Israel came up from Egypt, and walked through the wilderness unto the Red sea, and came to Kadesh;"
+      }
+    },
+    {
+      "num": 17,
+      "geez": "ወፈነወ ፡ እስራኤል ፡ ሐዋርያተ ፡ ኀበ ፡ ንጉሠ ፡ ኤዶም ፡ እንዘ ፡ ይብል ፡ አኅልፈኒአ ፡ እንተአ ፡ ምድርከአ ፡\n                  ወአበየ ፡ ንጉሠ ፡ ኤዶም ፡ ወኀበኒ ፡ ንጉሠ ፡ ሞአብ ፡ ለአከ ፡ ወአበየ ፡ ወነበረ ፡ እስራኤል ፡ ውስተ ፡ ቃዴስ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወፈነወ",
+          "t": "wäfänäwä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ሐዋርያተ",
+          "t": "ḥäwarəyatä",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ንጉሠ",
+          "t": "nəguśä",
+          "gl": ""
+        },
+        {
+          "g": "ኤዶም",
+          "t": "ʾedomə",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ይብል",
+          "t": "yəbələ",
+          "gl": ""
+        },
+        {
+          "g": "አኅልፈኒአ",
+          "t": "ʾäḫələfäniʾä",
+          "gl": ""
+        },
+        {
+          "g": "እንተአ",
+          "t": "ʾənətäʾä",
+          "gl": ""
+        },
+        {
+          "g": "ምድርከአ",
+          "t": "mədərəkäʾä",
+          "gl": ""
+        },
+        {
+          "g": "ወአበየ",
+          "t": "wäʾäbäyä",
+          "gl": ""
+        },
+        {
+          "g": "ንጉሠ",
+          "t": "nəguśä",
+          "gl": ""
+        },
+        {
+          "g": "ኤዶም",
+          "t": "ʾedomə",
+          "gl": ""
+        },
+        {
+          "g": "ወኀበኒ",
+          "t": "wäḫäbäni",
+          "gl": ""
+        },
+        {
+          "g": "ንጉሠ",
+          "t": "nəguśä",
+          "gl": ""
+        },
+        {
+          "g": "ሞአብ",
+          "t": "moʾäbə",
+          "gl": ""
+        },
+        {
+          "g": "ለአከ",
+          "t": "läʾäkä",
+          "gl": ""
+        },
+        {
+          "g": "ወአበየ",
+          "t": "wäʾäbäyä",
+          "gl": ""
+        },
+        {
+          "g": "ወነበረ",
+          "t": "wänäbärä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ቃዴስ",
+          "t": "qadesə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Israel sent messengers to the king of Edom, saying, I will pass, if it please thee, by thy land: and the king of Edom complied not: and Israel also sent to the king of Moab, and he did not consent; and Israel sojourned in Cades.",
+        "kjv": "Then Israel sent messengers unto the king of Edom, saying, Let me, I pray thee, pass through thy land: but the king of Edom would not hearken thereto. And in like manner they sent unto the king of Moab: but he would not consent: and Israel abode in Kadesh."
+      }
+    },
+    {
+      "num": 18,
+      "geez": "ወኀለፈ ፡ እንተ ፡ ገዳም ፡ ወዖዱ ፡ ምድረ ፡ ኤደም ፡ ወምድረ ፡ ሞአብ ፡ ወበጽሑ ፡ መንገለ ፡ ጽባሒሁ ፡ ለምድረ ፡\n                  ሞአብ ፡ ወኀደሩ ፡ ውስተ ፡ ማዕዶተ ፡ አርኖን ፡ ወኢቦኡ ፡ ውስተ ፡ ደወለ ፡ ሞአብ ፡ እስመ ፡ አርኖን ፡ ይእቲ ፡ ደወሎሙ\n                  ፡ ለሞአብ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኀለፈ",
+          "t": "wäḫäläfä",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ገዳም",
+          "t": "gädamə",
+          "gl": ""
+        },
+        {
+          "g": "ወዖዱ",
+          "t": "wäʿodu",
+          "gl": ""
+        },
+        {
+          "g": "ምድረ",
+          "t": "mədərä",
+          "gl": ""
+        },
+        {
+          "g": "ኤደም",
+          "t": "ʾedämə",
+          "gl": ""
+        },
+        {
+          "g": "ወምድረ",
+          "t": "wämədərä",
+          "gl": ""
+        },
+        {
+          "g": "ሞአብ",
+          "t": "moʾäbə",
+          "gl": ""
+        },
+        {
+          "g": "ወበጽሑ",
+          "t": "wäbäṣəḥu",
+          "gl": ""
+        },
+        {
+          "g": "መንገለ",
+          "t": "mänəgälä",
+          "gl": ""
+        },
+        {
+          "g": "ጽባሒሁ",
+          "t": "ṣəbaḥihu",
+          "gl": ""
+        },
+        {
+          "g": "ለምድረ",
+          "t": "lämədərä",
+          "gl": ""
+        },
+        {
+          "g": "ሞአብ",
+          "t": "moʾäbə",
+          "gl": ""
+        },
+        {
+          "g": "ወኀደሩ",
+          "t": "wäḫädäru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ማዕዶተ",
+          "t": "maʿədotä",
+          "gl": ""
+        },
+        {
+          "g": "አርኖን",
+          "t": "ʾärənonə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢቦኡ",
+          "t": "wäʾiboʾu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ደወለ",
+          "t": "däwälä",
+          "gl": ""
+        },
+        {
+          "g": "ሞአብ",
+          "t": "moʾäbə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አርኖን",
+          "t": "ʾärənonə",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ደወሎሙ",
+          "t": "däwälomu",
+          "gl": ""
+        },
+        {
+          "g": "ለሞአብ",
+          "t": "lämoʾäbə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they journeyed in the wilderness, and compassed the land of Edom and the land of Moab: and they came by the east of the land of Moab, and encamped in the country beyond Arnon, and came not within the borders of Moab, for Arnon is the border of Moab.",
+        "kjv": "Then they went along through the wilderness, and compassed the land of Edom, and the land of Moab, and came by the east side of the land of Moab, and pitched on the other side of Arnon, but came not within the border of Moab: for Arnon was the border of Moab."
+      }
+    },
+    {
+      "num": 19,
+      "geez": "ወፈነወ ፡ እስራኤል ፡ ሐዋርያተ ፡ ኀበ ፡ ሴዎን ፡ ንጉሠ ፡ ሔሴቦን ፡ አሞራዊ ፡ ወይቤሎ ፡ እስራኤል ፡ አኅልፈኒአ ፡\n                  እንተአ ፡ ምድርከአ ፡ እስከአ ፡ ብሔርየአ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወፈነወ",
+          "t": "wäfänäwä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ሐዋርያተ",
+          "t": "ḥäwarəyatä",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ሴዎን",
+          "t": "sewonə",
+          "gl": ""
+        },
+        {
+          "g": "ንጉሠ",
+          "t": "nəguśä",
+          "gl": ""
+        },
+        {
+          "g": "ሔሴቦን",
+          "t": "ḥesebonə",
+          "gl": ""
+        },
+        {
+          "g": "አሞራዊ",
+          "t": "ʾämorawi",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "አኅልፈኒአ",
+          "t": "ʾäḫələfäniʾä",
+          "gl": ""
+        },
+        {
+          "g": "እንተአ",
+          "t": "ʾənətäʾä",
+          "gl": ""
+        },
+        {
+          "g": "ምድርከአ",
+          "t": "mədərəkäʾä",
+          "gl": ""
+        },
+        {
+          "g": "እስከአ",
+          "t": "ʾəsəkäʾä",
+          "gl": ""
+        },
+        {
+          "g": "ብሔርየአ",
+          "t": "bəḥerəyäʾä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Israel sent messengers to Seon king of the Amorite, king of Esebon, and Israel said to him, Let us pass, we pray thee, by thy land to our place.",
+        "kjv": "And Israel sent messengers unto Sihon king of the Amorites, the king of Heshbon; and Israel said unto him, Let us pass, we pray thee, through thy land into my place."
+      }
+    },
+    {
+      "num": 20,
+      "geez": "ወአበየ ፡ ሴዎን ፡ አኅልፎቶሙ ፡ ለእስራኤል ፡ እንተ ፡ ደወሉ ፡ ወአስተጋብአ ፡ ሴዎን ፡ ሕዝቦ ፡ ወኀደረ ፡ ውስተ ፡\n                  ኢያሴር ፡ ወተቃተሎሙ ፡ ለእስራኤል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአበየ",
+          "t": "wäʾäbäyä",
+          "gl": ""
+        },
+        {
+          "g": "ሴዎን",
+          "t": "sewonə",
+          "gl": ""
+        },
+        {
+          "g": "አኅልፎቶሙ",
+          "t": "ʾäḫələfotomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእስራኤል",
+          "t": "läʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ደወሉ",
+          "t": "däwälu",
+          "gl": ""
+        },
+        {
+          "g": "ወአስተጋብአ",
+          "t": "wäʾäsətägabəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሴዎን",
+          "t": "sewonə",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝቦ",
+          "t": "ḥəzəbo",
+          "gl": ""
+        },
+        {
+          "g": "ወኀደረ",
+          "t": "wäḫädärä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኢያሴር",
+          "t": "ʾiyaserə",
+          "gl": ""
+        },
+        {
+          "g": "ወተቃተሎሙ",
+          "t": "wätäqatälomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእስራኤል",
+          "t": "läʾəsəraʾelə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Seon did not trust Israel to pass by his coast; and Seon gathered all his people, and they encamped at Jasa; and he set the battle in array against Israel.",
+        "kjv": "But Sihon trusted not Israel to pass through his coast: but Sihon gathered all his people together, and pitched in Jahaz, and fought against Israel."
+      }
+    },
+    {
+      "num": 21,
+      "geez": "ወአግብኦሙ ፡ እግዚአብሔር ፡ አምላከ ፡ እስራኤል ፡ ለሴዎን ፡ ወለኵሉ ፡ ሕዝቡ ፡ ውስተ ፡ እዴሆሙ ፡ ለእስራኤል ፡\n                  ወቀተልዎሙ ፡ ወተወርስዎሙ ፡ እስራኤል ፡ ኵሎ ፡ ምድሮሙ ፡ ለአሞሬዎን ፡ እለ ፡ ይነብሩ ፡ ውስተ ፡ ይእቲ ፡ ምድር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአግብኦሙ",
+          "t": "wäʾägəbəʾomu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላከ",
+          "t": "ʾäməlakä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ለሴዎን",
+          "t": "läsewonə",
+          "gl": ""
+        },
+        {
+          "g": "ወለኵሉ",
+          "t": "wäläkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝቡ",
+          "t": "ḥəzəbu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሆሙ",
+          "t": "ʾədehomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእስራኤል",
+          "t": "läʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወቀተልዎሙ",
+          "t": "wäqätäləwomu",
+          "gl": ""
+        },
+        {
+          "g": "ወተወርስዎሙ",
+          "t": "wätäwärəsəwomu",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ምድሮሙ",
+          "t": "mədəromu",
+          "gl": ""
+        },
+        {
+          "g": "ለአሞሬዎን",
+          "t": "läʾämorewonə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord God of Israel delivered Seon and all his people into the hand of Israel, and they smote him; and Israel inherited all the land of the Amorite who dwelt in that land,",
+        "kjv": "And the LORD God of Israel delivered Sihon and all his people into the hand of Israel, and they smote them: so Israel possessed all the land of the Amorites, the inhabitants of that country."
+      }
+    },
+    {
+      "num": 22,
+      "geez": "ወተወርሱ ፡ ኵሎ ፡ ደወሎሙ ፡ ለአሞሬዎን ፡ እምነ ፡ አርኖን ፡ እስከ ፡ ኢያቦቅ ፡ ወእምነ ፡ ገዳም ፡ እስከ ፡ ዮርዳንስ\n                  ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተወርሱ",
+          "t": "wätäwärəsu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ደወሎሙ",
+          "t": "däwälomu",
+          "gl": ""
+        },
+        {
+          "g": "ለአሞሬዎን",
+          "t": "läʾämorewonə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "አርኖን",
+          "t": "ʾärənonə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ኢያቦቅ",
+          "t": "ʾiyaboqə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ገዳም",
+          "t": "gädamə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዮርዳንስ",
+          "t": "yorədanəsə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "from Arnon and to Jaboc, and from the wilderness to Jordan.",
+        "kjv": "And they possessed all the coasts of the Amorites, from Arnon even unto Jabbok, and from the wilderness even unto Jordan."
+      }
+    },
+    {
+      "num": 23,
+      "geez": "ወይእዜኒ ፡ እግዚአብሔር ፡ አምላከ ፡ እስራኤል ፡ አሰሰሎሙ ፡ ለአሞሬዎን ፡ እምነ ፡ ቅድመ ፡ ገጾሙ ፡ ለእስራኤል ፡\n                  ወአንተኑ ፡ ትትወረስ ፡ በእብሬትከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይእዜኒ",
+          "t": "wäyəʾəzeni",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላከ",
+          "t": "ʾäməlakä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "አሰሰሎሙ",
+          "t": "ʾäsäsälomu",
+          "gl": ""
+        },
+        {
+          "g": "ለአሞሬዎን",
+          "t": "läʾämorewonə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ገጾሙ",
+          "t": "gäṣomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእስራኤል",
+          "t": "läʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወአንተኑ",
+          "t": "wäʾänətänu",
+          "gl": ""
+        },
+        {
+          "g": "ትትወረስ",
+          "t": "tətəwäräsə",
+          "gl": ""
+        },
+        {
+          "g": "በእብሬትከ",
+          "t": "bäʾəbəretəkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And now the Lord God of Israel has removed the Amorite from before his people Israel, and shalt thou inherit his land?",
+        "kjv": "So now the LORD God of Israel hath dispossessed the Amorites from before his people Israel, and shouldest thou possess it?"
+      }
+    },
+    {
+      "num": 24,
+      "geez": "አኮኑ ፡ ዘአውረሰከ ፡ ከሞስ ፡ አምላክከ ፡ ኪያሁ ፡ ዳእሙ ፡ ትትወረስ ፡ ወኵሎ ፡ ዘአውረሰነ ፡ እግዚአብሔር ፡ አምላክነ\n                  ፡ ቅድሜነ ፡ ኪያሁ ፡ ንትዋረስ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "አኮኑ",
+          "t": "ʾäkonu",
+          "gl": ""
+        },
+        {
+          "g": "ዘአውረሰከ",
+          "t": "zäʾäwəräsäkä",
+          "gl": ""
+        },
+        {
+          "g": "ከሞስ",
+          "t": "kämosə",
+          "gl": ""
+        },
+        {
+          "g": "አምላክከ",
+          "t": "ʾäməlakəkä",
+          "gl": ""
+        },
+        {
+          "g": "ኪያሁ",
+          "t": "kiyahu",
+          "gl": ""
+        },
+        {
+          "g": "ዳእሙ",
+          "t": "daʾəmu",
+          "gl": ""
+        },
+        {
+          "g": "ትትወረስ",
+          "t": "tətəwäräsə",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ዘአውረሰነ",
+          "t": "zäʾäwəräsänä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላክነ",
+          "t": "ʾäməlakənä",
+          "gl": ""
+        },
+        {
+          "g": "ቅድሜነ",
+          "t": "qədəmenä",
+          "gl": ""
+        },
+        {
+          "g": "ኪያሁ",
+          "t": "kiyahu",
+          "gl": ""
+        },
+        {
+          "g": "ንትዋረስ",
+          "t": "nətəwaräsə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Wilt thou not inherit those possessions which Chamos thy god shall cause thee to inherit; and shall not we inherit the land of all those whom the Lord our God has removed from before you?",
+        "kjv": "Wilt not thou possess that which Chemosh thy god giveth thee to possess? So whomsoever the LORD our God shall drive out from before us, them will we possess."
+      }
+    },
+    {
+      "num": 25,
+      "geez": "ወይእዜኒ ፡ ቦኑ ፡ አንተ ፡ ትኄይስ ፡ ለበላቅ ፡ ወልደ ፡ ሴፓር ፡ ንጉሠ ፡ ሞአብ ፡ ቦኑ ፡ ባእሰ ፡ ተበአሰ ፡ ምስለ\n                  ፡ እስራኤል ፡ አው ፡ ፀብአ ፡ ተፃብኦሙ ፡ ለቤተ ፡ እስራኤል ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይእዜኒ",
+          "t": "wäyəʾəzeni",
+          "gl": ""
+        },
+        {
+          "g": "ቦኑ",
+          "t": "bonu",
+          "gl": ""
+        },
+        {
+          "g": "አንተ",
+          "t": "ʾänətä",
+          "gl": ""
+        },
+        {
+          "g": "ትኄይስ",
+          "t": "təḫeyəsə",
+          "gl": ""
+        },
+        {
+          "g": "ለበላቅ",
+          "t": "läbälaqə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ሴፓር",
+          "t": "separə",
+          "gl": ""
+        },
+        {
+          "g": "ንጉሠ",
+          "t": "nəguśä",
+          "gl": ""
+        },
+        {
+          "g": "ሞአብ",
+          "t": "moʾäbə",
+          "gl": ""
+        },
+        {
+          "g": "ቦኑ",
+          "t": "bonu",
+          "gl": ""
+        },
+        {
+          "g": "ባእሰ",
+          "t": "baʾəsä",
+          "gl": ""
+        },
+        {
+          "g": "ተበአሰ",
+          "t": "täbäʾäsä",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "አው",
+          "t": "ʾäwə",
+          "gl": ""
+        },
+        {
+          "g": "ፀብአ",
+          "t": "ṣ́äbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ተፃብኦሙ",
+          "t": "täṣ́abəʾomu",
+          "gl": ""
+        },
+        {
+          "g": "ለቤተ",
+          "t": "läbetä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And now art thou any better than Balac son of Sepphor, king of Moab? Did he indeed fight with Israel, or indeed make war with him,",
+        "kjv": "And now art thou any thing better than Balak the son of Zippor, king of Moab? did he ever strive against Israel, or did he ever fight against them,"
+      }
+    },
+    {
+      "num": 26,
+      "geez": "በሔሴቦን ፡ ወበአዋልዲሃ ፡ ወበኢያዜር ፡ ወበአዋልዲሃ ፡ ወበኵሉ ፡ አህጉር ፡ ዘኀበ ፡ ዮርዳንስ ፡ ፫፻ዓመተ ፤ ለምንት ፡\n                  ኢያድኀንዎሙ ፡ በዝንቱ ፡ መዋዕል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "በሔሴቦን",
+          "t": "bäḥesebonə",
+          "gl": ""
+        },
+        {
+          "g": "ወበአዋልዲሃ",
+          "t": "wäbäʾäwalədiha",
+          "gl": ""
+        },
+        {
+          "g": "ወበኢያዜር",
+          "t": "wäbäʾiyazerə",
+          "gl": ""
+        },
+        {
+          "g": "ወበአዋልዲሃ",
+          "t": "wäbäʾäwalədiha",
+          "gl": ""
+        },
+        {
+          "g": "ወበኵሉ",
+          "t": "wäbäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "አህጉር",
+          "t": "ʾähəgurə",
+          "gl": ""
+        },
+        {
+          "g": "ዘኀበ",
+          "t": "zäḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ዮርዳንስ",
+          "t": "yorədanəsə",
+          "gl": ""
+        },
+        {
+          "g": "፫፻ዓመተ  ለምንት",
+          "t": "3100ʿamätä  lämənətə",
+          "gl": ""
+        },
+        {
+          "g": "ኢያድኀንዎሙ",
+          "t": "ʾiyadəḫänəwomu",
+          "gl": ""
+        },
+        {
+          "g": "በዝንቱ",
+          "t": "bäzənətu",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕል",
+          "t": "mäwaʿələ",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "when Israel dwelt in Esebon and in its coasts, and in the land of Aroer and in its coasts, and in all the cities by Jordan, three hundred years? and wherefore didst thou not recover them in that time?",
+        "kjv": "While Israel dwelt in Heshbon and her towns, and in Aroer and her towns, and in all the cities that be along by the coasts of Arnon, three hundred years? why therefore did ye not recover them within that time?"
+      }
+    },
+    {
+      "num": 27,
+      "geez": "ወአነኒ ፡ ኢአበስኩከ ፡ ለከ ፡ ወአንተሰ ፡ ትገብር ፡ እኪተ ፡ ምስሌየ ፡ ከመ ፡ ትትቃተለኒ ፡ ወይፍታሕ ፡ እግዚአብሔር\n                  ፡ ዘውእቱአ ፡ ይፈትሕአ ፡ ዮምአ ፡ ማእከለአ ፡ ደቂቀ ፡ እስራኤልአ ፡ ወማእከለ ፡ ደቂቀአ ፡ ዐሞንአ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአነኒ",
+          "t": "wäʾänäni",
+          "gl": ""
+        },
+        {
+          "g": "ኢአበስኩከ",
+          "t": "ʾiʾäbäsəkukä",
+          "gl": ""
+        },
+        {
+          "g": "ለከ",
+          "t": "läkä",
+          "gl": ""
+        },
+        {
+          "g": "ወአንተሰ",
+          "t": "wäʾänətäsä",
+          "gl": ""
+        },
+        {
+          "g": "ትገብር",
+          "t": "təgäbərə",
+          "gl": ""
+        },
+        {
+          "g": "እኪተ",
+          "t": "ʾəkitä",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌየ",
+          "t": "məsəleyä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ትትቃተለኒ",
+          "t": "tətəqatäläni",
+          "gl": ""
+        },
+        {
+          "g": "ወይፍታሕ",
+          "t": "wäyəfətaḥə",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ዘውእቱአ",
+          "t": "zäwəʾətuʾä",
+          "gl": ""
+        },
+        {
+          "g": "ይፈትሕአ",
+          "t": "yəfätəḥəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ዮምአ",
+          "t": "yoməʾä",
+          "gl": ""
+        },
+        {
+          "g": "ማእከለአ",
+          "t": "maʾəkäläʾä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤልአ",
+          "t": "ʾəsəraʾeləʾä",
+          "gl": ""
+        },
+        {
+          "g": "ወማእከለ",
+          "t": "wämaʾəkälä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀአ",
+          "t": "däqiqäʾä",
+          "gl": ""
+        },
+        {
+          "g": "ዐሞንአ",
+          "t": "ʿämonəʾä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And now I have not sinned against thee, but thou wrongest me in preparing war against me: may the Lord the Judge judge this day between the children of Israel and the children of Ammon.",
+        "kjv": "Wherefore I have not sinned against thee, but thou doest me wrong to war against me: the LORD the Judge be judge this day between the children of Israel and the children of Ammon."
+      }
+    },
+    {
+      "num": 28,
+      "geez": "ወአበዮሙ ፡ ንጉሠ ፡ ደቂቀ ፡ ዐሞን ፡ ወኢሰምዐ ፡ ቃለ ፡ ይፍታሔ ፡ ዘለአከ ፡ ሎቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአበዮሙ",
+          "t": "wäʾäbäyomu",
+          "gl": ""
+        },
+        {
+          "g": "ንጉሠ",
+          "t": "nəguśä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ዐሞን",
+          "t": "ʿämonə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢሰምዐ",
+          "t": "wäʾisäməʿä",
+          "gl": ""
+        },
+        {
+          "g": "ቃለ",
+          "t": "qalä",
+          "gl": ""
+        },
+        {
+          "g": "ይፍታሔ",
+          "t": "yəfətaḥe",
+          "gl": ""
+        },
+        {
+          "g": "ዘለአከ",
+          "t": "zäläʾäkä",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But the king of the children of Ammon hearkened not to the words of Jephthae, which he sent to him.",
+        "kjv": "Howbeit the king of the children of Ammon hearkened not unto the words of Jephthah which he sent him."
+      }
+    },
+    {
+      "num": 29,
+      "geez": "ወመጽአ ፡ መንፈሰ ፡ እግዚአብሔር ፡ ላዕለ ፡ ይፍታሔ ፡ ወዐደወ ፡ እምነ ፡ ምድረ ፡ ገላአድ ፡ ወዘምናሴ ፡ ወዐደወ ፡\n                  እምነ ፡ ደወለ ፡ ገላአድ ፡ ወእምነ ፡ ደወለ ፡ ገላአድ ፡ ውስተ ፡ ማዕዶቶሙ ፡ ለደቂቀ ፡ ዐሞን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወመጽአ",
+          "t": "wämäṣəʾä",
+          "gl": ""
+        },
+        {
+          "g": "መንፈሰ",
+          "t": "mänəfäsä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይፍታሔ",
+          "t": "yəfətaḥe",
+          "gl": ""
+        },
+        {
+          "g": "ወዐደወ",
+          "t": "wäʿädäwä",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ምድረ",
+          "t": "mədərä",
+          "gl": ""
+        },
+        {
+          "g": "ገላአድ",
+          "t": "gälaʾädə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘምናሴ",
+          "t": "wäzämənase",
+          "gl": ""
+        },
+        {
+          "g": "ወዐደወ",
+          "t": "wäʿädäwä",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ደወለ",
+          "t": "däwälä",
+          "gl": ""
+        },
+        {
+          "g": "ገላአድ",
+          "t": "gälaʾädə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ደወለ",
+          "t": "däwälä",
+          "gl": ""
+        },
+        {
+          "g": "ገላአድ",
+          "t": "gälaʾädə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ማዕዶቶሙ",
+          "t": "maʿədotomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ዐሞን",
+          "t": "ʿämonə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Spirit of the Lord came upon Jephthae, and he passed over Galaad, and Manasse, and passed by the watch-tower of Galaad to the other side of the children of Ammon.",
+        "kjv": "Then the Spirit of the LORD came upon Jephthah, and he passed over Gilead, and Manasseh, and passed over Mizpeh of Gilead, and from Mizpeh of Gilead he passed over unto the children of Ammon."
+      }
+    },
+    {
+      "num": 30,
+      "geez": "ወበፅዐ ፡ ይፍታሔ ፡ ብፅዓተ ፡ ለእግዚአብሔር ፡ ወይቤ ፡ ለእመ ፡ አግብኦሙ ፡ ለደቂቀ ፡ ዐሞን ፡ ውስተ ፡ እዴየ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበፅዐ",
+          "t": "wäbäṣ́əʿä",
+          "gl": ""
+        },
+        {
+          "g": "ይፍታሔ",
+          "t": "yəfətaḥe",
+          "gl": ""
+        },
+        {
+          "g": "ብፅዓተ",
+          "t": "bəṣ́əʿatä",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "ለእመ",
+          "t": "läʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "አግብኦሙ",
+          "t": "ʾägəbəʾomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ዐሞን",
+          "t": "ʿämonə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴየ",
+          "t": "ʾədeyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Jephthae vowed a vow to the Lord, and said, If thou wilt indeed deliver the children of Ammon into my hand,",
+        "kjv": "And Jephthah vowed a vow unto the LORD, and said, If thou shalt without fail deliver the children of Ammon into mine hands,"
+      }
+    },
+    {
+      "num": 31,
+      "geez": "ዘመጽአ ፡ ወወፅአ ፡ እምነ ፡ ኆኅተ ፡ ቤትየ ፡ ወተቀበለኒ ፡ ሶበ ፡ ገባእኩ ፡ በዳኅን ፡ እምነ ፡ ኀበ ፡ ደቂቅ ፡\n                  ዐሞን ፡ ለእግዚአብሔር ፡ እሬስዮ ፡ መሥዋዕተ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዘመጽአ",
+          "t": "zämäṣəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ወወፅአ",
+          "t": "wäwäṣ́əʾä",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ኆኅተ",
+          "t": "ḫoḫətä",
+          "gl": ""
+        },
+        {
+          "g": "ቤትየ",
+          "t": "betəyä",
+          "gl": ""
+        },
+        {
+          "g": "ወተቀበለኒ",
+          "t": "wätäqäbäläni",
+          "gl": ""
+        },
+        {
+          "g": "ሶበ",
+          "t": "sobä",
+          "gl": ""
+        },
+        {
+          "g": "ገባእኩ",
+          "t": "gäbaʾəku",
+          "gl": ""
+        },
+        {
+          "g": "በዳኅን",
+          "t": "bädaḫənə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቅ",
+          "t": "däqiqə",
+          "gl": ""
+        },
+        {
+          "g": "ዐሞን",
+          "t": "ʿämonə",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "እሬስዮ",
+          "t": "ʾəresəyo",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕተ",
+          "t": "mäśəwaʿətä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "then it shall come to pass that whosoever shall first come out of the door of my house to meet me when I return in peace from the children of Ammon, he shall be the Lord's: I will offer him up for a whole-burnt-offering.",
+        "kjv": "Then it shall be, that whatsoever cometh forth of the doors of my house to meet me, when I return in peace from the children of Ammon, shall surely be the LORD’s, and I will offer it up for a burnt offering."
+      }
+    },
+    {
+      "num": 32,
+      "geez": "ወዐደወ ፡ ይፍታሔ ፡ ኀበ ፡ ደቂቀ ፡ ዐሞን ፡ ከመ ፡ ይትቃተሎሙ ፡ ወአግብኦሙ ፡ እግዚአብሔር ፡ ውስተ ፡ እዴሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዐደወ",
+          "t": "wäʿädäwä",
+          "gl": ""
+        },
+        {
+          "g": "ይፍታሔ",
+          "t": "yəfətaḥe",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ዐሞን",
+          "t": "ʿämonə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይትቃተሎሙ",
+          "t": "yətəqatälomu",
+          "gl": ""
+        },
+        {
+          "g": "ወአግብኦሙ",
+          "t": "wäʾägəbəʾomu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Jephthae advanced to meet the sons of Ammon to fight against them; and the Lord delivered them into his hand.",
+        "kjv": "So Jephthah passed over unto the children of Ammon to fight against them; and the LORD delivered them into his hands."
+      }
+    },
+    {
+      "num": 33,
+      "geez": "ወቀተሎሙ ፡ እምነ ፡ አሮኤር ፡ እስከ ፡ ይበጽሕ ፡ ውስተ ፡ ኤሞይት ፡ ፳አህጉረ ፡ እስከ ፡ አቤል ፡ አዕጻደ ፡ ወይን ፤\n                  ዐቢይ ፡ ቀትል ፡ ጥቀ ፤ ወገረሩ ፡ ደቂቀ ፡ ዐሞን ፡ ቅድመ ፡ ደቂቀ ፡ እስራኤል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወቀተሎሙ",
+          "t": "wäqätälomu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "አሮኤር",
+          "t": "ʾäroʾerə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ይበጽሕ",
+          "t": "yəbäṣəḥə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኤሞይት",
+          "t": "ʾemoyətə",
+          "gl": ""
+        },
+        {
+          "g": "፳አህጉረ",
+          "t": "20ʾähəgurä",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "አቤል",
+          "t": "ʾäbelə",
+          "gl": ""
+        },
+        {
+          "g": "አዕጻደ",
+          "t": "ʾäʿəṣadä",
+          "gl": ""
+        },
+        {
+          "g": "ወይን \n                  ዐቢይ",
+          "t": "wäyənə \n                  ʿäbiyə",
+          "gl": ""
+        },
+        {
+          "g": "ቀትል",
+          "t": "qätələ",
+          "gl": ""
+        },
+        {
+          "g": "ጥቀ  ወገረሩ",
+          "t": "ṭəqä  wägäräru",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ዐሞን",
+          "t": "ʿämonə",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he smote them from Aroer till one comes to Arnon, in number twenty cities, and as far as Ebelcharmim, with a very great destruction: and the children of Ammon were straitened before the children of Israel.",
+        "kjv": "And he smote them from Aroer, even till thou come to Minnith, even twenty cities, and unto the plain of the vineyards, with a very great slaughter. Thus the children of Ammon were subdued before the children of Israel."
+      }
+    },
+    {
+      "num": 34,
+      "geez": "ወአተወ ፡ ይፍታሔ ፡ ውስተ ፡ መሴፋ ፡ ውስተ ፡ ቤቱ ፡ ወናሁ ፡ ወለቱ ፡ ወፅአት ፡ ወተቀበለቶ ፡ ምስለ ፡ ከበሮ ፡\n                  ወመሰንቆ ፡ ወይእቲ ፡ ባሕቲታ ፡ ሎቱ ፡ እንተ ፡ ያፈቅር ፡ ወአልቦ ፡ ባዕደ ፡ ውሉደ ፡ እንበሌሃ ፡ ኢወልደ ፡ ወኢወለተ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአተወ",
+          "t": "wäʾätäwä",
+          "gl": ""
+        },
+        {
+          "g": "ይፍታሔ",
+          "t": "yəfətaḥe",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "መሴፋ",
+          "t": "mäsefa",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ቤቱ",
+          "t": "betu",
+          "gl": ""
+        },
+        {
+          "g": "ወናሁ",
+          "t": "wänahu",
+          "gl": ""
+        },
+        {
+          "g": "ወለቱ",
+          "t": "wälätu",
+          "gl": ""
+        },
+        {
+          "g": "ወፅአት",
+          "t": "wäṣ́əʾätə",
+          "gl": ""
+        },
+        {
+          "g": "ወተቀበለቶ",
+          "t": "wätäqäbäläto",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ከበሮ",
+          "t": "käbäro",
+          "gl": ""
+        },
+        {
+          "g": "ወመሰንቆ",
+          "t": "wämäsänəqo",
+          "gl": ""
+        },
+        {
+          "g": "ወይእቲ",
+          "t": "wäyəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ባሕቲታ",
+          "t": "baḥətita",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ያፈቅር",
+          "t": "yafäqərə",
+          "gl": ""
+        },
+        {
+          "g": "ወአልቦ",
+          "t": "wäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ባዕደ",
+          "t": "baʿədä",
+          "gl": ""
+        },
+        {
+          "g": "ውሉደ",
+          "t": "wəludä",
+          "gl": ""
+        },
+        {
+          "g": "እንበሌሃ",
+          "t": "ʾənəbäleha",
+          "gl": ""
+        },
+        {
+          "g": "ኢወልደ",
+          "t": "ʾiwälədä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢወለተ",
+          "t": "wäʾiwälätä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Jephthae came to Massepha to his house; and behold, his daughter came forth to meet him with timbrels and dances; and she was his only child, he had not another son or daughter.",
+        "kjv": "And Jephthah came to Mizpeh unto his house, and, behold, his daughter came out to meet him with timbrels and with dances: and she was his only child; beside her he had neither son nor daughter."
+      }
+    },
+    {
+      "num": 35,
+      "geez": "ወሶበ ፡ ርእያ ፡ ሰጠጠ ፡ አልባሲሁ ፡ ወይቤ ፡ አሌ ፡ ሊተ ፡ ወለትየ ፡ ዐቀጽክኒ ፡ ወለዕጹብ ፡ ኮንክኒ ፡ ውስተ ፡\n                  አዕይንትየ ፡ ወአንሰ ፡ ፈታሕኩ ፡ አፉየ ፡ ኀበ ፡ እግዚአብሔር ፡ በእንቲአኪ ፡ ወኢይክል ፡ ዐሊዎቶ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሶበ",
+          "t": "wäsobä",
+          "gl": ""
+        },
+        {
+          "g": "ርእያ",
+          "t": "rəʾəya",
+          "gl": ""
+        },
+        {
+          "g": "ሰጠጠ",
+          "t": "säṭäṭä",
+          "gl": ""
+        },
+        {
+          "g": "አልባሲሁ",
+          "t": "ʾäləbasihu",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "አሌ",
+          "t": "ʾäle",
+          "gl": ""
+        },
+        {
+          "g": "ሊተ",
+          "t": "litä",
+          "gl": ""
+        },
+        {
+          "g": "ወለትየ",
+          "t": "wälätəyä",
+          "gl": ""
+        },
+        {
+          "g": "ዐቀጽክኒ",
+          "t": "ʿäqäṣəkəni",
+          "gl": ""
+        },
+        {
+          "g": "ወለዕጹብ",
+          "t": "wäläʿəṣubə",
+          "gl": ""
+        },
+        {
+          "g": "ኮንክኒ",
+          "t": "konəkəni",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አዕይንትየ",
+          "t": "ʾäʿəyənətəyä",
+          "gl": ""
+        },
+        {
+          "g": "ወአንሰ",
+          "t": "wäʾänəsä",
+          "gl": ""
+        },
+        {
+          "g": "ፈታሕኩ",
+          "t": "fätaḥəku",
+          "gl": ""
+        },
+        {
+          "g": "አፉየ",
+          "t": "ʾäfuyä",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "በእንቲአኪ",
+          "t": "bäʾənətiʾäki",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይክል",
+          "t": "wäʾiyəkələ",
+          "gl": ""
+        },
+        {
+          "g": "ዐሊዎቶ",
+          "t": "ʿäliwoto",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it came to pass when he saw her, that he rent his garments, and said, Ah, ah, my daughter, thou hast indeed troubled me, and thou wast the cause of my trouble; and I have opened my mouth against thee to the Lord, and I shall not be able to return from it.",
+        "kjv": "And it came to pass, when he saw her, that he rent his clothes, and said, Alas, my daughter! thou hast brought me very low, and thou art one of them that trouble me: for I have opened my mouth unto the LORD, and I cannot go back."
+      }
+    },
+    {
+      "num": 36,
+      "geez": "ወትቤሎ ፡ አባ ፡ ለእመ ፡ በእንቲአየ ፡ ፈትሕከ ፡ አፉከ ፡ ኀበ ፡ እግዚአብሔር ፡ ረስየኒ ፡ ከመ ፡ ወፅአ ፡ እምነ ፡\n                  አፉከ ፡ እስመ ፡ ገብረ ፡ ለከ ፡ እግዚአብሔር ፡ በቀለ ፡ እምነ ፡ ፀርከ ፡ እምነ ፡ ደቂቀ ፡ ዐሞን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትቤሎ",
+          "t": "wätəbelo",
+          "gl": ""
+        },
+        {
+          "g": "አባ",
+          "t": "ʾäba",
+          "gl": ""
+        },
+        {
+          "g": "ለእመ",
+          "t": "läʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "በእንቲአየ",
+          "t": "bäʾənətiʾäyä",
+          "gl": ""
+        },
+        {
+          "g": "ፈትሕከ",
+          "t": "fätəḥəkä",
+          "gl": ""
+        },
+        {
+          "g": "አፉከ",
+          "t": "ʾäfukä",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ረስየኒ",
+          "t": "räsəyäni",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ወፅአ",
+          "t": "wäṣ́əʾä",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "አፉከ",
+          "t": "ʾäfukä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ገብረ",
+          "t": "gäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ለከ",
+          "t": "läkä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "በቀለ",
+          "t": "bäqälä",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ፀርከ",
+          "t": "ṣ́ärəkä",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ዐሞን",
+          "t": "ʿämonə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And she said to him, Father, hast thou opened thy mouth to the Lord? Do to me accordingly as the word went out of thy mouth, in that the Lord has wrought vengeance for thee on thine enemies of the children of Ammon.",
+        "kjv": "And she said unto him, My father, if thou hast opened thy mouth unto the LORD, do to me according to that which hath proceeded out of thy mouth; forasmuch as the LORD hath taken vengeance for thee of thine enemies, even of the children of Ammon."
+      }
+    },
+    {
+      "num": 37,
+      "geez": "ወትቤሎ ፡ ለአቡሃ ፡ ረሲ ፡ ሊተ ፡ ዛተ ፡ ቃለ ፡ አብሐኒ ፡ ክልኤተ ፡ አውራኅ ፡ እሑር ፡ ወእዕረግ ፡ ውስተ ፡ አድባር\n                  ፡ ወእብኪ ፡ ላዕለ ፡ ድንግልናየ ፡ ምስለ ፡ ካልኣትየ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትቤሎ",
+          "t": "wätəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ለአቡሃ",
+          "t": "läʾäbuha",
+          "gl": ""
+        },
+        {
+          "g": "ረሲ",
+          "t": "räsi",
+          "gl": ""
+        },
+        {
+          "g": "ሊተ",
+          "t": "litä",
+          "gl": ""
+        },
+        {
+          "g": "ዛተ",
+          "t": "zatä",
+          "gl": ""
+        },
+        {
+          "g": "ቃለ",
+          "t": "qalä",
+          "gl": ""
+        },
+        {
+          "g": "አብሐኒ",
+          "t": "ʾäbəḥäni",
+          "gl": ""
+        },
+        {
+          "g": "ክልኤተ",
+          "t": "kələʾetä",
+          "gl": ""
+        },
+        {
+          "g": "አውራኅ",
+          "t": "ʾäwəraḫə",
+          "gl": ""
+        },
+        {
+          "g": "እሑር",
+          "t": "ʾəḥurə",
+          "gl": ""
+        },
+        {
+          "g": "ወእዕረግ",
+          "t": "wäʾəʿərägə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አድባር",
+          "t": "ʾädəbarə",
+          "gl": ""
+        },
+        {
+          "g": "ወእብኪ",
+          "t": "wäʾəbəki",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ድንግልናየ",
+          "t": "dənəgələnayä",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ካልኣትየ",
+          "t": "kaləʾatəyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And she said to her father, Let my father now do this thing: let me alone for two months, and I will go up and down on the mountains, and I will bewail my virginity, I and my companions.",
+        "kjv": "And she said unto her father, Let this thing be done for me: let me alone two months, that I may go up and down upon the mountains, and bewail my virginity, I and my fellows."
+      }
+    },
+    {
+      "num": 38,
+      "geez": "ወይቤላ ፡ ሑሪ ፡ ወፈነዋ ፡ ክልኤተ ፡ አውራኀ ፡ ወሖረት ፡ ይእቲ ፡ ወካልኣቲሃ ፡ ወበከየት ፡ ላዕለ ፡ ድንግልናሃ ፡\n                  ምስለ ፡ ካልኣቲሃ ፡ በውስተ ፡ አድባር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤላ",
+          "t": "wäyəbela",
+          "gl": ""
+        },
+        {
+          "g": "ሑሪ",
+          "t": "ḥuri",
+          "gl": ""
+        },
+        {
+          "g": "ወፈነዋ",
+          "t": "wäfänäwa",
+          "gl": ""
+        },
+        {
+          "g": "ክልኤተ",
+          "t": "kələʾetä",
+          "gl": ""
+        },
+        {
+          "g": "አውራኀ",
+          "t": "ʾäwəraḫä",
+          "gl": ""
+        },
+        {
+          "g": "ወሖረት",
+          "t": "wäḥorätə",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ወካልኣቲሃ",
+          "t": "wäkaləʾatiha",
+          "gl": ""
+        },
+        {
+          "g": "ወበከየት",
+          "t": "wäbäkäyätə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ድንግልናሃ",
+          "t": "dənəgələnaha",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ካልኣቲሃ",
+          "t": "kaləʾatiha",
+          "gl": ""
+        },
+        {
+          "g": "በውስተ",
+          "t": "bäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አድባር",
+          "t": "ʾädəbarə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he said, Go: and he sent her away for two months; and she went, and her companions, and she bewailed her virginity on the mountains.",
+        "kjv": "And he said, Go. And he sent her away for two months: and she went with her companions, and bewailed her virginity upon the mountains."
+      }
+    },
+    {
+      "num": 39,
+      "geez": "ወእምድኅረ ፡ ኀልቀ ፡ ክልኤቱ ፡ አውራኅ ፡ ገብአት ፡ ኀበ ፡ አቡሃ ፡ ወገብረ ፡ ይፍታሔ ፡ ብፅዓቲሁ ፡ ዘበፅዐ ፡\n                  ወይእቲሰ ፡ ኢታአምር ፡ ብእሴ ፡ ወኮነ ፡ ሕግ ፡ ውስተ ፡ እስራኤል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእምድኅረ",
+          "t": "wäʾəmədəḫərä",
+          "gl": ""
+        },
+        {
+          "g": "ኀልቀ",
+          "t": "ḫäləqä",
+          "gl": ""
+        },
+        {
+          "g": "ክልኤቱ",
+          "t": "kələʾetu",
+          "gl": ""
+        },
+        {
+          "g": "አውራኅ",
+          "t": "ʾäwəraḫə",
+          "gl": ""
+        },
+        {
+          "g": "ገብአት",
+          "t": "gäbəʾätə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "አቡሃ",
+          "t": "ʾäbuha",
+          "gl": ""
+        },
+        {
+          "g": "ወገብረ",
+          "t": "wägäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ይፍታሔ",
+          "t": "yəfətaḥe",
+          "gl": ""
+        },
+        {
+          "g": "ብፅዓቲሁ",
+          "t": "bəṣ́əʿatihu",
+          "gl": ""
+        },
+        {
+          "g": "ዘበፅዐ",
+          "t": "zäbäṣ́əʿä",
+          "gl": ""
+        },
+        {
+          "g": "ወይእቲሰ",
+          "t": "wäyəʾətisä",
+          "gl": ""
+        },
+        {
+          "g": "ኢታአምር",
+          "t": "ʾitaʾämərə",
+          "gl": ""
+        },
+        {
+          "g": "ብእሴ",
+          "t": "bəʾəse",
+          "gl": ""
+        },
+        {
+          "g": "ወኮነ",
+          "t": "wäkonä",
+          "gl": ""
+        },
+        {
+          "g": "ሕግ",
+          "t": "ḥəgə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it came to pass at the end of the two months that she returned to her father; and he performed upon her his vow which he vowed; and she knew no man:",
+        "kjv": "And it came to pass at the end of two months, that she returned unto her father, who did with her according to his vow which he had vowed: and she knew no man. And it was a custom in Israel,"
+      }
+    },
+    {
+      "num": 40,
+      "geez": "በበ ፡ መዋዕለ ፡ ዕለታ ፡ የሐውራ ፡ አዋልደ ፡ እስራኤል ፡ ይበክያሃ ፡ ለወለተ ፡ ይፍታሔ ፡ ገለአዳዊ ፡ ረቡዐ ፡\n                  መዋዕለ ፡ ለለዓመት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "በበ",
+          "t": "bäbä",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕለ",
+          "t": "mäwaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ዕለታ",
+          "t": "ʿəläta",
+          "gl": ""
+        },
+        {
+          "g": "የሐውራ",
+          "t": "yäḥäwəra",
+          "gl": ""
+        },
+        {
+          "g": "አዋልደ",
+          "t": "ʾäwalədä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ይበክያሃ",
+          "t": "yəbäkəyaha",
+          "gl": ""
+        },
+        {
+          "g": "ለወለተ",
+          "t": "läwälätä",
+          "gl": ""
+        },
+        {
+          "g": "ይፍታሔ",
+          "t": "yəfətaḥe",
+          "gl": ""
+        },
+        {
+          "g": "ገለአዳዊ",
+          "t": "gäläʾädawi",
+          "gl": ""
+        },
+        {
+          "g": "ረቡዐ",
+          "t": "räbuʿä",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕለ",
+          "t": "mäwaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ለለዓመት",
+          "t": "läläʿamätə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and it was an ordinance in Israel, That the daughters of Israel went from year to year to bewail the daughter of Jephthae the Galaadite for four days in a year.",
+        "kjv": "That the daughters of Israel went yearly to lament the daughter of Jephthah the Gileadite four days in a year."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

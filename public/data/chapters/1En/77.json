@@ -1,0 +1,707 @@
+{
+  "book": "1En",
+  "chapter": 77,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ይጼውዕዎ፡ ለነፋስ፡ ቀዳማዊ፡ ጽባሓዊ፡ እስመ፡ ቀዳማዊ፡ ውእቱ፡ ወይጼውዕዎ፡ ለካልእ፡ አዜብ፡ እስመ፡ ልዑል፡ ህየ፡ ይወርድ፡ ወፈድፋደ፡ ህየ፡ ይወርድ፡ ቡሩክ፡ ዘለዓለም።",
+      "translation": "And the first quarter is called the east, because it is the first: and the second, the south, because the Most High will descend there, yea, there in quite a special sense will He who is blessed for ever descend.",
+      "words": [
+        {
+          "g": "ይጼውዕዎ",
+          "t": "yəṣewəʿəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለነፋስ",
+          "t": "länäfasə",
+          "gl": ""
+        },
+        {
+          "g": "ቀዳማዊ",
+          "t": "qädamawi",
+          "gl": ""
+        },
+        {
+          "g": "ጽባሓዊ",
+          "t": "ṣəbaḥawi",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ቀዳማዊ",
+          "t": "qädamawi",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ወይጼውዕዎ",
+          "t": "wäyəṣewəʿəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለካልእ",
+          "t": "läkaləʾə",
+          "gl": ""
+        },
+        {
+          "g": "አዜብ",
+          "t": "ʾäzebə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ልዑል",
+          "t": "ləʿulə",
+          "gl": ""
+        },
+        {
+          "g": "ህየ",
+          "t": "həyä",
+          "gl": ""
+        },
+        {
+          "g": "ይወርድ",
+          "t": "yəwärədə",
+          "gl": ""
+        },
+        {
+          "g": "ወፈድፋደ",
+          "t": "wäfädəfadä",
+          "gl": ""
+        },
+        {
+          "g": "ህየ",
+          "t": "həyä",
+          "gl": ""
+        },
+        {
+          "g": "ይወርድ",
+          "t": "yəwärədə",
+          "gl": ""
+        },
+        {
+          "g": "ቡሩክ",
+          "t": "burukə",
+          "gl": ""
+        },
+        {
+          "g": "ዘለዓለም",
+          "t": "zäläʿalämə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "geez": "ወለነፋስ፡ ዘእምዕራብ፡ ስሙ፡ ንቱግ፡ እስመ፡ በህየ፡ የሐጽጹ፡ ኵሉ፡ ብርሃናተ፡ ሰማይ፡ ወይወርዱ።",
+      "translation": "And the west quarter is named the diminished, because there all the luminaries of the heaven wane and go down.",
+      "words": [
+        {
+          "g": "ወለነፋስ",
+          "t": "wälänäfasə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምዕራብ",
+          "t": "zäʾəməʿərabə",
+          "gl": ""
+        },
+        {
+          "g": "ስሙ",
+          "t": "səmu",
+          "gl": ""
+        },
+        {
+          "g": "ንቱግ",
+          "t": "nətugə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "በህየ",
+          "t": "bähəyä",
+          "gl": ""
+        },
+        {
+          "g": "የሐጽጹ",
+          "t": "yäḥäṣəṣu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ብርሃናተ",
+          "t": "bərəhanatä",
+          "gl": ""
+        },
+        {
+          "g": "ሰማይ",
+          "t": "sämayə",
+          "gl": ""
+        },
+        {
+          "g": "ወይወርዱ",
+          "t": "wäyəwärədu",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "geez": "ወራብዕ፡ ነፋስ፡ ዘስሙ፡ መስዕ፡ ይትከፈል፡ ሠለስተ፡ ክፍለ፡ ወአሐዱ፡ እምኔሆሙ፡ ማኅደር፡ ለሰብእ፡ ወካልእ፡ በአብሕርተ፡ ማያት፡ ወበቀላያት፡ ወበዖም፡ ወበአፍላግ፡ ወበጽልመት፡ ወበጊሜ፡ ወሣልስ፡ ክፍል፡ በገነተ፡ ጽድቅ።",
+      "translation": "And the fourth quarter, named the north, is divided into three parts: the first of them is for the dwelling of men: and the second contains seas of water, and the abysses and forests and rivers, and darkness and clouds; and the third part contains the garden of righteousness.",
+      "words": [
+        {
+          "g": "ወራብዕ",
+          "t": "wärabəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ነፋስ",
+          "t": "näfasə",
+          "gl": ""
+        },
+        {
+          "g": "ዘስሙ",
+          "t": "zäsəmu",
+          "gl": ""
+        },
+        {
+          "g": "መስዕ",
+          "t": "mäsəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ይትከፈል",
+          "t": "yətəkäfälə",
+          "gl": ""
+        },
+        {
+          "g": "ሠለስተ",
+          "t": "śäläsətä",
+          "gl": ""
+        },
+        {
+          "g": "ክፍለ",
+          "t": "kəfəlä",
+          "gl": ""
+        },
+        {
+          "g": "ወአሐዱ",
+          "t": "wäʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሆሙ",
+          "t": "ʾəmənehomu",
+          "gl": ""
+        },
+        {
+          "g": "ማኅደር",
+          "t": "maḫədärə",
+          "gl": ""
+        },
+        {
+          "g": "ለሰብእ",
+          "t": "läsäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወካልእ",
+          "t": "wäkaləʾə",
+          "gl": ""
+        },
+        {
+          "g": "በአብሕርተ",
+          "t": "bäʾäbəḥərətä",
+          "gl": ""
+        },
+        {
+          "g": "ማያት",
+          "t": "mayatə",
+          "gl": ""
+        },
+        {
+          "g": "ወበቀላያት",
+          "t": "wäbäqälayatə",
+          "gl": ""
+        },
+        {
+          "g": "ወበዖም",
+          "t": "wäbäʿomə",
+          "gl": ""
+        },
+        {
+          "g": "ወበአፍላግ",
+          "t": "wäbäʾäfəlagə",
+          "gl": ""
+        },
+        {
+          "g": "ወበጽልመት",
+          "t": "wäbäṣələmätə",
+          "gl": ""
+        },
+        {
+          "g": "ወበጊሜ",
+          "t": "wäbägime",
+          "gl": ""
+        },
+        {
+          "g": "ወሣልስ",
+          "t": "wäśaləsə",
+          "gl": ""
+        },
+        {
+          "g": "ክፍል",
+          "t": "kəfələ",
+          "gl": ""
+        },
+        {
+          "g": "በገነተ",
+          "t": "bägänätä",
+          "gl": ""
+        },
+        {
+          "g": "ጽድቅ",
+          "t": "ṣədəqə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 4,
+      "geez": "ወሰብዐተ፡ አድባረ፡ ነዊኀነ፡ ርኢኩ፡ እለ፡ ይነውኁ፡ እምኵሉ፡ አድባር፡ እለ፡ ውስተ፡ ምድር፡ ወእምኔሆሙ፡ ይወፅእ፡ አስሐትያ፡ ወየኀልፍ፡ ወየሐውር፡ መዋዕል፡ ወዘመን፡ ወዓመት።",
+      "translation": "I saw seven high mountains, higher than all the mountains which are on the earth: and thence comes forth hoar-frost, and days, seasons, and years pass away.",
+      "words": [
+        {
+          "g": "ወሰብዐተ",
+          "t": "wäsäbəʿätä",
+          "gl": ""
+        },
+        {
+          "g": "አድባረ",
+          "t": "ʾädəbarä",
+          "gl": ""
+        },
+        {
+          "g": "ነዊኀነ",
+          "t": "näwiḫänä",
+          "gl": ""
+        },
+        {
+          "g": "ርኢኩ",
+          "t": "rəʾiku",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነውኁ",
+          "t": "yənäwəḫu",
+          "gl": ""
+        },
+        {
+          "g": "እምኵሉ",
+          "t": "ʾəməkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "አድባር",
+          "t": "ʾädəbarə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምኔሆሙ",
+          "t": "wäʾəmənehomu",
+          "gl": ""
+        },
+        {
+          "g": "ይወፅእ",
+          "t": "yəwäṣ́əʾə",
+          "gl": ""
+        },
+        {
+          "g": "አስሐትያ",
+          "t": "ʾäsəḥätəya",
+          "gl": ""
+        },
+        {
+          "g": "ወየኀልፍ",
+          "t": "wäyäḫäləfə",
+          "gl": ""
+        },
+        {
+          "g": "ወየሐውር",
+          "t": "wäyäḥäwərə",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕል",
+          "t": "mäwaʿələ",
+          "gl": ""
+        },
+        {
+          "g": "ወዘመን",
+          "t": "wäzämänə",
+          "gl": ""
+        },
+        {
+          "g": "ወዓመት",
+          "t": "wäʿamätə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 5,
+      "geez": "ወሰብዐተ፡ አፍላገ፡ ዲበ፡ ምድር፡ ርኢኩ፡ ዐበይት፡ እምኵሎሙ፡ አፍላግ፡ አሐዱ፡ እምኔሆሙ፡ ይመጽእ፡ እምዐረብ፡ ወውስተ፡ ባሕር፡ ዐቢይ፡ ይክዑ፡ ማዮ።",
+      "translation": "I saw seven rivers on the earth larger than all the rivers: one of them coming from the †west† pours its waters into the Great Sea.",
+      "words": [
+        {
+          "g": "ወሰብዐተ",
+          "t": "wäsäbəʿätä",
+          "gl": ""
+        },
+        {
+          "g": "አፍላገ",
+          "t": "ʾäfəlagä",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ርኢኩ",
+          "t": "rəʾiku",
+          "gl": ""
+        },
+        {
+          "g": "ዐበይት",
+          "t": "ʿäbäyətə",
+          "gl": ""
+        },
+        {
+          "g": "እምኵሎሙ",
+          "t": "ʾəməkwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "አፍላግ",
+          "t": "ʾäfəlagə",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሆሙ",
+          "t": "ʾəmənehomu",
+          "gl": ""
+        },
+        {
+          "g": "ይመጽእ",
+          "t": "yəmäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "እምዐረብ",
+          "t": "ʾəməʿäräbə",
+          "gl": ""
+        },
+        {
+          "g": "ወውስተ",
+          "t": "wäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ባሕር",
+          "t": "baḥərə",
+          "gl": ""
+        },
+        {
+          "g": "ዐቢይ",
+          "t": "ʿäbiyə",
+          "gl": ""
+        },
+        {
+          "g": "ይክዑ",
+          "t": "yəkəʿu",
+          "gl": ""
+        },
+        {
+          "g": "ማዮ",
+          "t": "mayo",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 6,
+      "geez": "ወእልክቱ፡ ክልኤቱ፡ ይመጽኡ፡ እመስዕ፡ እስከ፡ ባሕር፡ ወይክዕዉ፡ ማዮሙ፡ በባሕረ፡ ኤርትራ፡ እምሥራቅ።",
+      "translation": "And these two come from the north to the sea and pour their waters into the Erythraean Sea in the east.",
+      "words": [
+        {
+          "g": "ወእልክቱ",
+          "t": "wäʾələkətu",
+          "gl": ""
+        },
+        {
+          "g": "ክልኤቱ",
+          "t": "kələʾetu",
+          "gl": ""
+        },
+        {
+          "g": "ይመጽኡ",
+          "t": "yəmäṣəʾu",
+          "gl": ""
+        },
+        {
+          "g": "እመስዕ",
+          "t": "ʾəmäsəʿə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ባሕር",
+          "t": "baḥərə",
+          "gl": ""
+        },
+        {
+          "g": "ወይክዕዉ",
+          "t": "wäyəkəʿəwu",
+          "gl": ""
+        },
+        {
+          "g": "ማዮሙ",
+          "t": "mayomu",
+          "gl": ""
+        },
+        {
+          "g": "በባሕረ",
+          "t": "bäbaḥərä",
+          "gl": ""
+        },
+        {
+          "g": "ኤርትራ",
+          "t": "ʾerətəra",
+          "gl": ""
+        },
+        {
+          "g": "እምሥራቅ",
+          "t": "ʾəməśəraqə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 7,
+      "geez": "ወእለ፡ ተርፉ፡ አርባዕቱ፡ ይወፅኡ፡ በገቦ፡ መስዕ፡ እስከ፡ ባሕረ፡ ዚኣሆሙ፡ ባሕረ፡ ኤርትራ፡ ወክልኤቱ፡ በባሕር፡ ዐቢይ፡ ይሠወጡ፡ ወበህየ፡ ይቤሉ፡ መድበራ።",
+      "translation": "And the remaining four come forth on the side of the north to their own sea, two of them to the Erythraean Sea, and two into the Great Sea and discharge themselves there [and some say: into the desert].",
+      "words": [
+        {
+          "g": "ወእለ",
+          "t": "wäʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ተርፉ",
+          "t": "tärəfu",
+          "gl": ""
+        },
+        {
+          "g": "አርባዕቱ",
+          "t": "ʾärəbaʿətu",
+          "gl": ""
+        },
+        {
+          "g": "ይወፅኡ",
+          "t": "yəwäṣ́əʾu",
+          "gl": ""
+        },
+        {
+          "g": "በገቦ",
+          "t": "bägäbo",
+          "gl": ""
+        },
+        {
+          "g": "መስዕ",
+          "t": "mäsəʿə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ባሕረ",
+          "t": "baḥərä",
+          "gl": ""
+        },
+        {
+          "g": "ዚኣሆሙ",
+          "t": "ziʾahomu",
+          "gl": ""
+        },
+        {
+          "g": "ባሕረ",
+          "t": "baḥərä",
+          "gl": ""
+        },
+        {
+          "g": "ኤርትራ",
+          "t": "ʾerətəra",
+          "gl": ""
+        },
+        {
+          "g": "ወክልኤቱ",
+          "t": "wäkələʾetu",
+          "gl": ""
+        },
+        {
+          "g": "በባሕር",
+          "t": "bäbaḥərə",
+          "gl": ""
+        },
+        {
+          "g": "ዐቢይ",
+          "t": "ʿäbiyə",
+          "gl": ""
+        },
+        {
+          "g": "ይሠወጡ",
+          "t": "yəśäwäṭu",
+          "gl": ""
+        },
+        {
+          "g": "ወበህየ",
+          "t": "wäbähəyä",
+          "gl": ""
+        },
+        {
+          "g": "ይቤሉ",
+          "t": "yəbelu",
+          "gl": ""
+        },
+        {
+          "g": "መድበራ",
+          "t": "mädəbära",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 8,
+      "geez": "ሰብዐ፡ ደሰያተ፡ ዐበይተ፡ ርኢኩ፡ በባሕር፡ ወበምድር፡ ክልኤቱ፡ በምድር፡ ወኀምስቱ፡ በባሕር፡ ዐቢይ።",
+      "translation": "Seven great islands I saw in the sea and in the mainland: two in the mainland and five in the Great Sea.",
+      "words": [
+        {
+          "g": "ሰብዐ",
+          "t": "säbəʿä",
+          "gl": ""
+        },
+        {
+          "g": "ደሰያተ",
+          "t": "däsäyatä",
+          "gl": ""
+        },
+        {
+          "g": "ዐበይተ",
+          "t": "ʿäbäyətä",
+          "gl": ""
+        },
+        {
+          "g": "ርኢኩ",
+          "t": "rəʾiku",
+          "gl": ""
+        },
+        {
+          "g": "በባሕር",
+          "t": "bäbaḥərə",
+          "gl": ""
+        },
+        {
+          "g": "ወበምድር",
+          "t": "wäbämədərə",
+          "gl": ""
+        },
+        {
+          "g": "ክልኤቱ",
+          "t": "kələʾetu",
+          "gl": ""
+        },
+        {
+          "g": "በምድር",
+          "t": "bämədərə",
+          "gl": ""
+        },
+        {
+          "g": "ወኀምስቱ",
+          "t": "wäḫäməsətu",
+          "gl": ""
+        },
+        {
+          "g": "በባሕር",
+          "t": "bäbaḥərə",
+          "gl": ""
+        },
+        {
+          "g": "ዐቢይ",
+          "t": "ʿäbiyə",
+          "gl": ""
+        }
+      ]
+    }
+  ]
+}

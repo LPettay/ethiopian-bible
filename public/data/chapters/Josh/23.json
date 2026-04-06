@@ -1,0 +1,1639 @@
+{
+  "book": "Josh",
+  "chapter": 23,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወእምዝ ፡ እምድኅረ ፡ ብዙኅ ፡ መዋዕል ፡ እምድኅረ ፡ አዕረፎሙ ፡ እግዚአብሔር ፡ አምላከ ፡ እስራኤል ፡ እምነ ፡ ኵሉ ፡\n                  ፀሮሙ ፡ ዘአውደሙ ፡ ወልህቀ ፡ ኢየሱስ ፡ ወኀለፈ ፡ መዋዕሊሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእምዝ",
+          "t": "wäʾəməzə",
+          "gl": ""
+        },
+        {
+          "g": "እምድኅረ",
+          "t": "ʾəmədəḫərä",
+          "gl": ""
+        },
+        {
+          "g": "ብዙኅ",
+          "t": "bəzuḫə",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕል",
+          "t": "mäwaʿələ",
+          "gl": ""
+        },
+        {
+          "g": "እምድኅረ",
+          "t": "ʾəmədəḫərä",
+          "gl": ""
+        },
+        {
+          "g": "አዕረፎሙ",
+          "t": "ʾäʿəräfomu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላከ",
+          "t": "ʾäməlakä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ፀሮሙ",
+          "t": "ṣ́äromu",
+          "gl": ""
+        },
+        {
+          "g": "ዘአውደሙ",
+          "t": "zäʾäwədämu",
+          "gl": ""
+        },
+        {
+          "g": "ወልህቀ",
+          "t": "wäləhəqä",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሱስ",
+          "t": "ʾiyäsusə",
+          "gl": ""
+        },
+        {
+          "g": "ወኀለፈ",
+          "t": "wäḫäläfä",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕሊሁ",
+          "t": "mäwaʿəlihu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it came to pass after many days after the Lord had given Israel rest from all his enemies round about, that Joshua was old and advanced in years.",
+        "kjv": "And it came to pass a long time after that the LORD had given rest unto Israel from all their enemies round about, that Joshua waxed old and stricken in age."
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ወጸውዐ ፡ ኵሎ ፡ ደቂቀ ፡ እስራኤል ፡ ወሊቃናቲሆሙ ፡ ወመላእክቲሆሙ ፡ ወጸሐፍቶሙ ፡ ወመኳንንቲሆሙ ፡ ወይቤሎሙ ፡ ናሁ ፡\n                  ረሣእኩ ፡ አንሰ ፡ ወኀለፈ ፡ መዋዕልየ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወጸውዐ",
+          "t": "wäṣäwəʿä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወሊቃናቲሆሙ",
+          "t": "wäliqanatihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወመላእክቲሆሙ",
+          "t": "wämälaʾəkətihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወጸሐፍቶሙ",
+          "t": "wäṣäḥäfətomu",
+          "gl": ""
+        },
+        {
+          "g": "ወመኳንንቲሆሙ",
+          "t": "wämäkwanənətihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎሙ",
+          "t": "wäyəbelomu",
+          "gl": ""
+        },
+        {
+          "g": "ናሁ",
+          "t": "nahu",
+          "gl": ""
+        },
+        {
+          "g": "ረሣእኩ",
+          "t": "räśaʾəku",
+          "gl": ""
+        },
+        {
+          "g": "አንሰ",
+          "t": "ʾänəsä",
+          "gl": ""
+        },
+        {
+          "g": "ወኀለፈ",
+          "t": "wäḫäläfä",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕልየ",
+          "t": "mäwaʿələyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Joshua called together all the children of Israel, and their elders, and their chiefs, and their judges, and their officers; and said to them, I am old and advanced in years.",
+        "kjv": "And Joshua called for all Israel, and for their elders, and for their heads, and for their judges, and for their officers, and said unto them, I am old and stricken in age:"
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወለሊክሙ ፡ ርኢክሙ ፡ ኵሎ ፡ ዘገብረ ፡ እግዚአብሔር ፡ አምላክነ ፡ ላዕለ ፡ ሕዝብ ፡ እለ ፡ ቅድመ ፡ ገጽነ ፡ ከመ ፡\n                  እግዚአብሔር ፡ አምላክነ ፡ ፀብኦሙ ፡ ለነ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለሊክሙ",
+          "t": "wälälikəmu",
+          "gl": ""
+        },
+        {
+          "g": "ርኢክሙ",
+          "t": "rəʾikəmu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ዘገብረ",
+          "t": "zägäbərä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላክነ",
+          "t": "ʾäməlakənä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ገጽነ",
+          "t": "gäṣənä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላክነ",
+          "t": "ʾäməlakənä",
+          "gl": ""
+        },
+        {
+          "g": "ፀብኦሙ",
+          "t": "ṣ́äbəʾomu",
+          "gl": ""
+        },
+        {
+          "g": "ለነ",
+          "t": "länä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And ye have seen all that the Lord our God has done to all these nations before us; for it is the Lord our God who has fought for you.",
+        "kjv": "And ye have seen all that the LORD your God hath done unto all these nations because of you; for the LORD your God is he that hath fought for you."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወናሁ ፡ ርእዩ ፡ ኀደጉ ፡ ለክሙ ፡ አሕዛብ ፡ እለ ፡ ተርፉ ፡ ውስተ ፡ አድዋሊክሙ ፡ ዘዘ ፡ ሕዘቢክሙ ፡ ወዘእምነ ፡\n                  ዮርዳንስ ፡ ኵሎ ፡ አሕዛበ ፡ ሠሮክዎሙ ፡ ወእምነ ፡ ባሕር ፡ ዐቢይ ፡ ወሰንክሙ ፡ [ምዕራበ ፡ ፀሐይ ።]",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወናሁ",
+          "t": "wänahu",
+          "gl": ""
+        },
+        {
+          "g": "ርእዩ",
+          "t": "rəʾəyu",
+          "gl": ""
+        },
+        {
+          "g": "ኀደጉ",
+          "t": "ḫädägu",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        },
+        {
+          "g": "አሕዛብ",
+          "t": "ʾäḥəzabə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ተርፉ",
+          "t": "tärəfu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አድዋሊክሙ",
+          "t": "ʾädəwalikəmu",
+          "gl": ""
+        },
+        {
+          "g": "ዘዘ",
+          "t": "zäzä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዘቢክሙ",
+          "t": "ḥəzäbikəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወዘእምነ",
+          "t": "wäzäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ዮርዳንስ",
+          "t": "yorədanəsə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "አሕዛበ",
+          "t": "ʾäḥəzabä",
+          "gl": ""
+        },
+        {
+          "g": "ሠሮክዎሙ",
+          "t": "śärokəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ባሕር",
+          "t": "baḥərə",
+          "gl": ""
+        },
+        {
+          "g": "ዐቢይ",
+          "t": "ʿäbiyə",
+          "gl": ""
+        },
+        {
+          "g": "ወሰንክሙ",
+          "t": "wäsänəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ምዕራበ",
+          "t": "məʿərabä",
+          "gl": ""
+        },
+        {
+          "g": "ፀሐይ",
+          "t": "ṣ́äḥäyə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "See, that I have given to you these nations that are left to you by lots to your tribes, all the nations beginning at Jordan; and some I have destroyed; and the boundaries shall be at the great sea westward.",
+        "kjv": "Behold, I have divided unto you by lot these nations that remain, to be an inheritance for your tribes, from Jordan, with all the nations that I have cut off, even unto the great sea westward."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወእግዚአብሔር ፡ አምላክክሙ ፡ ውእቱ ፡ ያጠፍኦሙ ፡ ለክሙ ፡ እምቅድመ ፡ ገጽክሙ ፡ እስከ ፡ ይደመሰሱ ፡ ወይፌኑ ፡\n                  ላዕሌሆሙ ፡ አራዊተ ፡ ሐቅል ፡ እስከ ፡ ያጠፍኦሙ ፡ ወለነገሥቶሙ ፡ እምነ ፡ ቅድሜክሙ ፡ ወትወርሱ ፡ ምድሮሙ ፡ በከመ ፡\n                  ይቤለነ ፡ እግዚአብሔር ፡ አምላክነ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእግዚአብሔር",
+          "t": "wäʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላክክሙ",
+          "t": "ʾäməlakəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ያጠፍኦሙ",
+          "t": "yaṭäfəʾomu",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እምቅድመ",
+          "t": "ʾəməqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ገጽክሙ",
+          "t": "gäṣəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ይደመሰሱ",
+          "t": "yədämäsäsu",
+          "gl": ""
+        },
+        {
+          "g": "ወይፌኑ",
+          "t": "wäyəfenu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሆሙ",
+          "t": "laʿəlehomu",
+          "gl": ""
+        },
+        {
+          "g": "አራዊተ",
+          "t": "ʾärawitä",
+          "gl": ""
+        },
+        {
+          "g": "ሐቅል",
+          "t": "ḥäqələ",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ያጠፍኦሙ",
+          "t": "yaṭäfəʾomu",
+          "gl": ""
+        },
+        {
+          "g": "ወለነገሥቶሙ",
+          "t": "wälänägäśətomu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ቅድሜክሙ",
+          "t": "qədəmekəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወትወርሱ",
+          "t": "wätəwärəsu",
+          "gl": ""
+        },
+        {
+          "g": "ምድሮሙ",
+          "t": "mədəromu",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ይቤለነ",
+          "t": "yəbelänä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላክነ",
+          "t": "ʾäməlakənä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord our God, he shall destroy them before us, until they utterly perish; and he shall send against them the wild beasts, until he shall have utterly destroyed them and their kings from before you; and ye shall inherit their land, as the Lord our God said to you.",
+        "kjv": "And the LORD your God, he shall expel them from before you, and drive them from out of your sight; and ye shall possess their land, as the LORD your God hath promised unto you."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወአጽንዑ ፡ ጥቀ ፡ ከመ ፡ ትዕቀቡ ፡ ወከመ ፡ ትግበሩ ፡ ኵሉ ፡ ዘጽሑፍ ፡ ውስተ ፡ መጽሐፈ ፡ ሕጉ ፡ ለሙሴ ፡ ከመ ፡\n                  ኢትትገሐሡ ፡ እምኔሁ ፡ ኢለፀጋም ፡ ወኢለየማን ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአጽንዑ",
+          "t": "wäʾäṣənəʿu",
+          "gl": ""
+        },
+        {
+          "g": "ጥቀ",
+          "t": "ṭəqä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ትዕቀቡ",
+          "t": "təʿəqäbu",
+          "gl": ""
+        },
+        {
+          "g": "ወከመ",
+          "t": "wäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ትግበሩ",
+          "t": "təgəbäru",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘጽሑፍ",
+          "t": "zäṣəḥufə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "መጽሐፈ",
+          "t": "mäṣəḥäfä",
+          "gl": ""
+        },
+        {
+          "g": "ሕጉ",
+          "t": "ḥəgu",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ኢትትገሐሡ",
+          "t": "ʾitətəgäḥäśu",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "ኢለፀጋም",
+          "t": "ʾiläṣ́ägamə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢለየማን",
+          "t": "wäʾiläyämanə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Do ye therefore strive diligently to observe and do all things written in the book of the law of Moses, that ye turn not to the right hand or to the left;",
+        "kjv": "Be ye therefore very courageous to keep and to do all that is written in the book of the law of Moses, that ye turn not aside therefrom to the right hand or to the left;"
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ከመ ፡ ኢትባኡ ፡ ውስተ ፡ እሉ ፡ አሕዛብ ፡ እለ ፡ ተርፉ ፡ ምስሌክሙ ፡ ወአስማተ ፡ አማልክቲሆሙ ፡ ኢይሰመይ ፡\n                  በውስቴትክሙ ፡ ወኢትምሐሉ ፡ ቦሙ ፡ ወኢትስግዱ ፡ ሎሙ ፡ ወኢታምልክዎሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ኢትባኡ",
+          "t": "ʾitəbaʾu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እሉ",
+          "t": "ʾəlu",
+          "gl": ""
+        },
+        {
+          "g": "አሕዛብ",
+          "t": "ʾäḥəzabə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ተርፉ",
+          "t": "tärəfu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌክሙ",
+          "t": "məsəlekəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወአስማተ",
+          "t": "wäʾäsəmatä",
+          "gl": ""
+        },
+        {
+          "g": "አማልክቲሆሙ",
+          "t": "ʾämaləkətihomu",
+          "gl": ""
+        },
+        {
+          "g": "ኢይሰመይ",
+          "t": "ʾiyəsämäyə",
+          "gl": ""
+        },
+        {
+          "g": "በውስቴትክሙ",
+          "t": "bäwəsətetəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢትምሐሉ",
+          "t": "wäʾitəməḥälu",
+          "gl": ""
+        },
+        {
+          "g": "ቦሙ",
+          "t": "bomu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢትስግዱ",
+          "t": "wäʾitəsəgədu",
+          "gl": ""
+        },
+        {
+          "g": "ሎሙ",
+          "t": "lomu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢታምልክዎሙ",
+          "t": "wäʾitamələkəwomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "that ye go not in among these nations that are left; and the names of their gods shall not be named among you, neither shall ye serve them, neither shall ye bow down to them.",
+        "kjv": "That ye come not among these nations, these that remain among you; neither make mention of the name of their gods, nor cause to swear by them, neither serve them, nor bow yourselves unto them:"
+      }
+    },
+    {
+      "num": 8,
+      "geez": "አላ ፡ ለእግዚአብሔር ፡ አምላክክሙ ፡ ትልውዎ ፡ በከመ ፡ ገበርክሙ ፡ እስከ ፡ ዛቲ ፡ ዕለት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "አላ",
+          "t": "ʾäla",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላክክሙ",
+          "t": "ʾäməlakəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ትልውዎ",
+          "t": "tələwəwo",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ገበርክሙ",
+          "t": "gäbärəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዛቲ",
+          "t": "zati",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But ye shall cleave to the Lord our God, as ye have done until this day.",
+        "kjv": "But cleave unto the LORD your God, as ye have done unto this day."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወውእቱ ፡ እግዚአብሔር ፡ ያጠፍኦሙ ፡ እምቅድሙ ፡ ገጽክሙ ፡ ለአሕዛብ ፡ ዐበይት ፡ ወጽኑዓን ፡ ወአንትሙሰ ፡ አልቦ ፡\n                  ዘይትቃወመክሙ ፡ ቅድሜክሙ ፡ እስከ ፡ ዛቲ ፡ ዕለት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወውእቱ",
+          "t": "wäwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ያጠፍኦሙ",
+          "t": "yaṭäfəʾomu",
+          "gl": ""
+        },
+        {
+          "g": "እምቅድሙ",
+          "t": "ʾəməqədəmu",
+          "gl": ""
+        },
+        {
+          "g": "ገጽክሙ",
+          "t": "gäṣəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ለአሕዛብ",
+          "t": "läʾäḥəzabə",
+          "gl": ""
+        },
+        {
+          "g": "ዐበይት",
+          "t": "ʿäbäyətə",
+          "gl": ""
+        },
+        {
+          "g": "ወጽኑዓን",
+          "t": "wäṣənuʿanə",
+          "gl": ""
+        },
+        {
+          "g": "ወአንትሙሰ",
+          "t": "wäʾänətəmusä",
+          "gl": ""
+        },
+        {
+          "g": "አልቦ",
+          "t": "ʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘይትቃወመክሙ",
+          "t": "zäyətəqawämäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ቅድሜክሙ",
+          "t": "qədəmekəmu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዛቲ",
+          "t": "zati",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord shall destroy them before you, even great and strong nations; and no one has stood before us until this day.",
+        "kjv": "For the LORD hath driven out from before you great nations and strong: but as for you, no man hath been able to stand before you unto this day."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "አሐዱ ፡ ብእሲ ፡ እምኔክሙ ፡ ይሰድድ ፡ ዐሠርተ ፡ ምእተ ፡ እስመ ፡ እግዚአብሔር ፡ አምላክነ ፡ ይፀብእ ፡ ለነ ፡ በከመ\n                  ፡ ይቤለነ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "እምኔክሙ",
+          "t": "ʾəmənekəmu",
+          "gl": ""
+        },
+        {
+          "g": "ይሰድድ",
+          "t": "yəsädədə",
+          "gl": ""
+        },
+        {
+          "g": "ዐሠርተ",
+          "t": "ʿäśärətä",
+          "gl": ""
+        },
+        {
+          "g": "ምእተ",
+          "t": "məʾətä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላክነ",
+          "t": "ʾäməlakənä",
+          "gl": ""
+        },
+        {
+          "g": "ይፀብእ",
+          "t": "yəṣ́äbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ለነ",
+          "t": "länä",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ይቤለነ",
+          "t": "yəbelänä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "One of you has chased a thousand, for the Lord our God, he fought for you, as he said to you.",
+        "kjv": "One man of you shall chase a thousand: for the LORD your God, he it is that fighteth for you, as he hath promised you."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወተዓቀቡ ፡ ጥቀ ፡ ነፍስክሙ ፡ ከመ ፡ ታፍቅርዎ ፡ ለእግዚአብሔር ፡ አምላክነ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተዓቀቡ",
+          "t": "wätäʿaqäbu",
+          "gl": ""
+        },
+        {
+          "g": "ጥቀ",
+          "t": "ṭəqä",
+          "gl": ""
+        },
+        {
+          "g": "ነፍስክሙ",
+          "t": "näfəsəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ታፍቅርዎ",
+          "t": "tafəqərəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላክነ",
+          "t": "ʾäməlakənä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And take ye great heed to love the Lord our God.",
+        "kjv": "Take good heed therefore unto yourselves, that ye love the LORD your God."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወእመሰ ፡ ተመየጥክሙ ፡ ወኀደግምዎ ፡ ትገብኡ ፡ ውስተ ፡ እሉ ፡ አሕዛብ ፡ እለ ፡ ተርፉ ፡ ምስሌክሙ ፡ ወትትዋሰቡ ፡\n                  ምስሌሆሙ ፡ ወትዴመሩ ፡ ውስቴቶሙ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "ተመየጥክሙ",
+          "t": "tämäyäṭəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወኀደግምዎ",
+          "t": "wäḫädägəməwo",
+          "gl": ""
+        },
+        {
+          "g": "ትገብኡ",
+          "t": "təgäbəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እሉ",
+          "t": "ʾəlu",
+          "gl": ""
+        },
+        {
+          "g": "አሕዛብ",
+          "t": "ʾäḥəzabə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ተርፉ",
+          "t": "tärəfu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌክሙ",
+          "t": "məsəlekəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወትትዋሰቡ",
+          "t": "wätətəwasäbu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሆሙ",
+          "t": "məsəlehomu",
+          "gl": ""
+        },
+        {
+          "g": "ወትዴመሩ",
+          "t": "wätədemäru",
+          "gl": ""
+        },
+        {
+          "g": "ውስቴቶሙ",
+          "t": "wəsətetomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For if ye shall turn aside and attach yourselves to these nations that are left with you, and make marriages with them, and become mingled with them and they with you,",
+        "kjv": "Else if ye do in any wise go back, and cleave unto the remnant of these nations, even these that remain among you, and shall make marriages with them, and go in unto them, and they to you:"
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወለሊክሙ ፡ አእምሩ ፡ ከመ ፡ ኢያጠፍኦሙ ፡ እንከ ፡ እግዚአብሔር ፡ ለእሉ ፡ አሕዛብ ፡ እምቅድሜክሙ ፡ ወይከውኑክሙ ፡\n                  መሥገርተ ፡ ወዕቅፍተ ፡ ወቀኖታተ ፡ ውስተ ፡ ሰኰናክሙ ፡ ወይዴጕጹክሙ ፡ ውስተ ፡ አዕይንቲክሙ ፡ እስከ ፡ ትጠፍኡ ፡ እምነ ፡\n                  ምድር ፡ ቡርክት ፡ እንተ ፡ ወሀበክሙ ፡ እግዚአብሔር ፡ አምላክክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለሊክሙ",
+          "t": "wälälikəmu",
+          "gl": ""
+        },
+        {
+          "g": "አእምሩ",
+          "t": "ʾäʾəməru",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ኢያጠፍኦሙ",
+          "t": "ʾiyaṭäfəʾomu",
+          "gl": ""
+        },
+        {
+          "g": "እንከ",
+          "t": "ʾənəkä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለእሉ",
+          "t": "läʾəlu",
+          "gl": ""
+        },
+        {
+          "g": "አሕዛብ",
+          "t": "ʾäḥəzabə",
+          "gl": ""
+        },
+        {
+          "g": "እምቅድሜክሙ",
+          "t": "ʾəməqədəmekəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወይከውኑክሙ",
+          "t": "wäyəkäwənukəmu",
+          "gl": ""
+        },
+        {
+          "g": "መሥገርተ",
+          "t": "mäśəgärətä",
+          "gl": ""
+        },
+        {
+          "g": "ወዕቅፍተ",
+          "t": "wäʿəqəfətä",
+          "gl": ""
+        },
+        {
+          "g": "ወቀኖታተ",
+          "t": "wäqänotatä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሰኰናክሙ",
+          "t": "säkwänakəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወይዴጕጹክሙ",
+          "t": "wäyədegwəṣukəmu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አዕይንቲክሙ",
+          "t": "ʾäʿəyənətikəmu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ትጠፍኡ",
+          "t": "təṭäfəʾu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ቡርክት",
+          "t": "burəkətə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ወሀበክሙ",
+          "t": "wähäbäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላክክሙ",
+          "t": "ʾäməlakəkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "know that the Lord will no more destroy these nations from before you; and they will be to you snares and stumbling-blocks, and nails in your heels, and darts in your eyes, until ye be destroyed from off this good land, which the Lord your God has given you.",
+        "kjv": "Know for a certainty that the LORD your God will no more drive out any of these nations from before you; but they shall be snares and traps unto you, and scourges in your sides, and thorns in your eyes, until ye perish from off this good land which the LORD your God hath given you."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወአንሰ ፡ አሐውር ፡ ውስተ ፡ ፍኖት ፡ ከመ ፡ ኵሉ ፡ እለ ፡ ውስተ ፡ ምድር ፡ ወአእምሩ ፡ በኵሉ ፡ ልብክሙ ፡ ወበኵሉ\n                  ፡ ነፍስክሙ ፡ ከመ ፡ ኢተኀድገት ፡ ወኢአሐቲ ፡ ቃል ፡ እምነ ፡ ኵሉ ፡ ሠናይት ፡ እንተ ፡ ይቤለክሙ ፡ እግዚአብሔር ፡\n                  አምላክነ ፡ ወኵሉ ፡ በጽሐነ ፡ ወአልቦ ፡ ዘኢረከበነ ፡ እምኔሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአንሰ",
+          "t": "wäʾänəsä",
+          "gl": ""
+        },
+        {
+          "g": "አሐውር",
+          "t": "ʾäḥäwərə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ፍኖት",
+          "t": "fənotə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ወአእምሩ",
+          "t": "wäʾäʾəməru",
+          "gl": ""
+        },
+        {
+          "g": "በኵሉ",
+          "t": "bäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ልብክሙ",
+          "t": "ləbəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወበኵሉ",
+          "t": "wäbäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ነፍስክሙ",
+          "t": "näfəsəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ኢተኀድገት",
+          "t": "ʾitäḫädəgätə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢአሐቲ",
+          "t": "wäʾiʾäḥäti",
+          "gl": ""
+        },
+        {
+          "g": "ቃል",
+          "t": "qalə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይት",
+          "t": "śänayətə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ይቤለክሙ",
+          "t": "yəbeläkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላክነ",
+          "t": "ʾäməlakənä",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "በጽሐነ",
+          "t": "bäṣəḥänä",
+          "gl": ""
+        },
+        {
+          "g": "ወአልቦ",
+          "t": "wäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘኢረከበነ",
+          "t": "zäʾiräkäbänä",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But I hasten to go the way of death, as all that are upon the earth also do: and know ye in your heart and in your soul, that not one word has fallen to the ground of all the words which the Lord our God has spoken respecting all that concerns us; there has not one of them failed.",
+        "kjv": "And, behold, this day I am going the way of all the earth: and ye know in all your hearts and in all your souls, that not one thing hath failed of all the good things which the LORD your God spake concerning you; all are come to pass unto you, and not one thing hath failed thereof."
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ወበከመ ፡ በጽሐክሙ ፡ ኵሉ ፡ ቃል ፡ ሠናይ ፡ ዘይቤለክሙ ፡ እግዚአብሔር ፡ አምላክክሙ ፡ ከማሁ ፡ ያመጽእ ፡ እግዚአብሔር\n                  ፡ አምላክክሙ ፡ ላዕሌክሙ ፡ ኵሎ ፡ ቃለ ፡ እኩየ ፡ እስከ ፡ ያጠፍአክሙ ፡ እምነ ፡ ዛቲ ፡ ምድር ፡ ቡርክት ፡ እንተ ፡\n                  ወሀበክሙ ፡ እግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበከመ",
+          "t": "wäbäkämä",
+          "gl": ""
+        },
+        {
+          "g": "በጽሐክሙ",
+          "t": "bäṣəḥäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ቃል",
+          "t": "qalə",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይ",
+          "t": "śänayə",
+          "gl": ""
+        },
+        {
+          "g": "ዘይቤለክሙ",
+          "t": "zäyəbeläkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላክክሙ",
+          "t": "ʾäməlakəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ከማሁ",
+          "t": "kämahu",
+          "gl": ""
+        },
+        {
+          "g": "ያመጽእ",
+          "t": "yamäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላክክሙ",
+          "t": "ʾäməlakəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌክሙ",
+          "t": "laʿəlekəmu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ቃለ",
+          "t": "qalä",
+          "gl": ""
+        },
+        {
+          "g": "እኩየ",
+          "t": "ʾəkuyä",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ያጠፍአክሙ",
+          "t": "yaṭäfəʾäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ዛቲ",
+          "t": "zati",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ቡርክት",
+          "t": "burəkətə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ወሀበክሙ",
+          "t": "wähäbäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it shall come to pass, that as all the good things are come upon us which the Lord spoke concerning you, so the Lord God will bring upon you all the evil things, until he shall have destroyed you from off this good land, which the Lord has given you,",
+        "kjv": "Therefore it shall come to pass, that as all good things are come upon you, which the LORD your God promised you; so shall the LORD bring upon you all evil things, until he have destroyed you from off this good land which the LORD your God hath given you."
+      }
+    },
+    {
+      "num": 16,
+      "geez": "እምከመ ፡ ኀደግሙ ፡ ኪዳኖ ፡ ለአምላክክሙ ፡ ዘአዘዘክሙ ፡ እመ ፡ ሖርክሙ ፡ ወአምለክሙ ፡ አማልክተ ፡ ባዕድ ፡\n                  ወሰገድክሙ ፡ ሎሙ ፡ ወይትመዓዕ ፡ በመዐት ፡ እግዚአብሔር ፡ ላዕሌክሙ ፡ ወፍጡነ ፡ ያጠፍአክሙ ፡ እምነ ፡ ምድር ፡ እንተ ፡\n                  ወሀበክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እምከመ",
+          "t": "ʾəməkämä",
+          "gl": ""
+        },
+        {
+          "g": "ኀደግሙ",
+          "t": "ḫädägəmu",
+          "gl": ""
+        },
+        {
+          "g": "ኪዳኖ",
+          "t": "kidano",
+          "gl": ""
+        },
+        {
+          "g": "ለአምላክክሙ",
+          "t": "läʾäməlakəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ዘአዘዘክሙ",
+          "t": "zäʾäzäzäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እመ",
+          "t": "ʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ሖርክሙ",
+          "t": "ḥorəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወአምለክሙ",
+          "t": "wäʾäməläkəmu",
+          "gl": ""
+        },
+        {
+          "g": "አማልክተ",
+          "t": "ʾämaləkətä",
+          "gl": ""
+        },
+        {
+          "g": "ባዕድ",
+          "t": "baʿədə",
+          "gl": ""
+        },
+        {
+          "g": "ወሰገድክሙ",
+          "t": "wäsägädəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ሎሙ",
+          "t": "lomu",
+          "gl": ""
+        },
+        {
+          "g": "ወይትመዓዕ",
+          "t": "wäyətəmäʿaʿə",
+          "gl": ""
+        },
+        {
+          "g": "በመዐት",
+          "t": "bämäʿätə",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌክሙ",
+          "t": "laʿəlekəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወፍጡነ",
+          "t": "wäfəṭunä",
+          "gl": ""
+        },
+        {
+          "g": "ያጠፍአክሙ",
+          "t": "yaṭäfəʾäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ወሀበክሙ",
+          "t": "wähäbäkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "when ye transgress the covenant of the Lord our God, which he has charged us, and go and serve other gods, and bow down to them.",
+        "kjv": "When ye have transgressed the covenant of the LORD your God, which he commanded you, and have gone and served other gods, and bowed yourselves to them; then shall the anger of the LORD be kindled against you, and ye shall perish quickly from off the good land which he hath given unto you."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

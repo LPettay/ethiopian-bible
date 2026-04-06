@@ -1,0 +1,1344 @@
+{
+  "book": "Exod",
+  "chapter": 17,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወአንሥአ ፡ ትዕይንቶሙ ፡ ኵሉ ፡ ውሉደ ፡ እስራኤል ፡ እምገዳም ፡ ዘ[ሲ]ን ፡ በበ ፡ ትዕይንቶሙ ፡ በቃለ ፡ እግዚአብሔር\n                  ፡ ወበጽሑ ፡ ራፊድ ፡ ወአልቦ ፡ ህየ ፡ ዘይሰቲ ፡ ማየ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአንሥአ",
+          "t": "wäʾänəśəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ትዕይንቶሙ",
+          "t": "təʿəyənətomu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ውሉደ",
+          "t": "wəludä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "እምገዳም",
+          "t": "ʾəməgädamə",
+          "gl": ""
+        },
+        {
+          "g": "ዘሲን",
+          "t": "zäsinə",
+          "gl": ""
+        },
+        {
+          "g": "በበ",
+          "t": "bäbä",
+          "gl": ""
+        },
+        {
+          "g": "ትዕይንቶሙ",
+          "t": "təʿəyənətomu",
+          "gl": ""
+        },
+        {
+          "g": "በቃለ",
+          "t": "bäqalä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወበጽሑ",
+          "t": "wäbäṣəḥu",
+          "gl": ""
+        },
+        {
+          "g": "ራፊድ",
+          "t": "rafidə",
+          "gl": ""
+        },
+        {
+          "g": "ወአልቦ",
+          "t": "wäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ህየ",
+          "t": "həyä",
+          "gl": ""
+        },
+        {
+          "g": "ዘይሰቲ",
+          "t": "zäyəsäti",
+          "gl": ""
+        },
+        {
+          "g": "ማየ",
+          "t": "mayä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And all the congregation of the children of Israel departed from the wilderness of Sin, according to their encampments, by the word of the Lord; and they encamped in Raphidin: and there was no water for the people to drink.",
+        "kjv": "And all the congregation of the children of Israel journeyed from the wilderness of Sin, after their journeys, according to the commandment of the LORD, and pitched in Rephidim: and there was no water for the people to drink."
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ወግእዞ ፡ ሕዝብ ፡ ለሙሴ ፡ ወይቤልዎ ፡ ሀበነ ፡ ማየ ፡ ዘንሰቲ ፡ ወይቤሎሙ ፡ ሙሴ ፡ ምንተ ፡ ትግእዙ ፡ ኪያየ ፡\n                  ወታሜክርዎ ፡ ለእግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወግእዞ",
+          "t": "wägəʾəzo",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤልዎ",
+          "t": "wäyəbeləwo",
+          "gl": ""
+        },
+        {
+          "g": "ሀበነ",
+          "t": "häbänä",
+          "gl": ""
+        },
+        {
+          "g": "ማየ",
+          "t": "mayä",
+          "gl": ""
+        },
+        {
+          "g": "ዘንሰቲ",
+          "t": "zänəsäti",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎሙ",
+          "t": "wäyəbelomu",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ምንተ",
+          "t": "mənətä",
+          "gl": ""
+        },
+        {
+          "g": "ትግእዙ",
+          "t": "təgəʾəzu",
+          "gl": ""
+        },
+        {
+          "g": "ኪያየ",
+          "t": "kiyayä",
+          "gl": ""
+        },
+        {
+          "g": "ወታሜክርዎ",
+          "t": "wätamekərəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the people reviled Moses, saying, Give us water, that we may drink; and Moses said to them, Why do ye revile me, and why tempt ye the Lord?",
+        "kjv": "Wherefore the people did chide with Moses, and said, Give us water that we may drink. And Moses said unto them, Why chide ye with me? wherefore do ye tempt the LORD?"
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወጸምኡ ፡ በህየ ፡ ሕዝብ ፡ ማየ ፡ ወአጐርጐርዎ ፡ ለሙሴ ፡ ወይቤልዎ ፡ ለምንት ፡ አውጻእከነ ፡ እምግብጽ ፡ ከመ ፡\n                  ትቅትለነ ፡ ምስለ ፡ ውሉድነ ፡ ወምስለ ፡ እንስሳነ ፡ በጽምእ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወጸምኡ",
+          "t": "wäṣäməʾu",
+          "gl": ""
+        },
+        {
+          "g": "በህየ",
+          "t": "bähəyä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ማየ",
+          "t": "mayä",
+          "gl": ""
+        },
+        {
+          "g": "ወአጐርጐርዎ",
+          "t": "wäʾägwärəgwärəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤልዎ",
+          "t": "wäyəbeləwo",
+          "gl": ""
+        },
+        {
+          "g": "ለምንት",
+          "t": "lämənətə",
+          "gl": ""
+        },
+        {
+          "g": "አውጻእከነ",
+          "t": "ʾäwəṣaʾəkänä",
+          "gl": ""
+        },
+        {
+          "g": "እምግብጽ",
+          "t": "ʾəməgəbəṣə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ትቅትለነ",
+          "t": "təqətəlänä",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ውሉድነ",
+          "t": "wəludənä",
+          "gl": ""
+        },
+        {
+          "g": "ወምስለ",
+          "t": "wäməsəlä",
+          "gl": ""
+        },
+        {
+          "g": "እንስሳነ",
+          "t": "ʾənəsəsanä",
+          "gl": ""
+        },
+        {
+          "g": "በጽምእ",
+          "t": "bäṣəməʾə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the people thirsted there for water, and there the people murmured against Moses, saying, Why is this? hast thou brought us up out of Egypt to slay us and our children and our cattle with thirst?",
+        "kjv": "And the people thirsted there for water; and the people murmured against Moses, and said, Wherefore is this that thou hast brought us up out of Egypt, to kill us and our children and our cattle with thirst?"
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወጸርኀ ፡ ሙሴ ፡ ኀበ ፡ እግዚአብሔር ፡ ወይቤ ፡ ሚእገብሮ ፡ ለዝ ፡ ሕዝብ ፡ ንስቲተ ፡ ክመ ፡ ተርፎሙ ፡ ወይዌግሩኒ ፡\n                  በእብን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወጸርኀ",
+          "t": "wäṣärəḫä",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "ሚእገብሮ",
+          "t": "miʾəgäbəro",
+          "gl": ""
+        },
+        {
+          "g": "ለዝ",
+          "t": "läzə",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ንስቲተ",
+          "t": "nəsətitä",
+          "gl": ""
+        },
+        {
+          "g": "ክመ",
+          "t": "kəmä",
+          "gl": ""
+        },
+        {
+          "g": "ተርፎሙ",
+          "t": "tärəfomu",
+          "gl": ""
+        },
+        {
+          "g": "ወይዌግሩኒ",
+          "t": "wäyəwegəruni",
+          "gl": ""
+        },
+        {
+          "g": "በእብን",
+          "t": "bäʾəbənə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Moses cried to the Lord, saying, What shall I do to this people? yet a little while and they will stone me.",
+        "kjv": "And Moses cried unto the LORD, saying, What shall I do unto this people? they be almost ready to stone me."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወይቤሎ ፡ እግዚአብሔር ፡ ለሙሴ ፡ ቅድሜሆሙ ፡ ሑር ፡ ለሕዝብ ፡ ወንሣእ ፡ ምስሌከ ፡ መላህቅተ ፡ ሕዝብ ፡ ወበትረከ ፡\n                  በዘ ፡ ቦቱ ፡ ዘበጥከ ፡ ፈለገ ፡ ፅብጥ ፡ በእዴከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ቅድሜሆሙ",
+          "t": "qədəmehomu",
+          "gl": ""
+        },
+        {
+          "g": "ሑር",
+          "t": "ḥurə",
+          "gl": ""
+        },
+        {
+          "g": "ለሕዝብ",
+          "t": "läḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ወንሣእ",
+          "t": "wänəśaʾə",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌከ",
+          "t": "məsəlekä",
+          "gl": ""
+        },
+        {
+          "g": "መላህቅተ",
+          "t": "mälahəqətä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ወበትረከ",
+          "t": "wäbätəräkä",
+          "gl": ""
+        },
+        {
+          "g": "በዘ",
+          "t": "bäzä",
+          "gl": ""
+        },
+        {
+          "g": "ቦቱ",
+          "t": "botu",
+          "gl": ""
+        },
+        {
+          "g": "ዘበጥከ",
+          "t": "zäbäṭəkä",
+          "gl": ""
+        },
+        {
+          "g": "ፈለገ",
+          "t": "fälägä",
+          "gl": ""
+        },
+        {
+          "g": "ፅብጥ",
+          "t": "ṣ́əbəṭə",
+          "gl": ""
+        },
+        {
+          "g": "በእዴከ",
+          "t": "bäʾədekä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord said to Moses, Go before this people, and take to thyself of the elders of the people; and the rod with which thou smotest the river, take in thine hand, and thou shalt go.",
+        "kjv": "And the LORD said unto Moses, Go on before the people, and take with thee of the elders of Israel; and thy rod, wherewith thou smotest the river, take in thine hand, and go."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወትመጽእ ፡ ለፌ ፡ ኀበ ፡ አነ ፡ እቀውም ፡ ለፌ ፡ መንገለ ፡ ኰኵሕ ፡ ዘኮሬብ ፡ ወትዘብጦ ፡ ለኰኵሕ ፡ ወይወፅእ ፡\n                  በውስቴቱ ፡ ማይ ፡ ወይስተይ ፡ ሕዝብ ፤ ወገብረ ፡ ሙሴ ፡ በከመ ፡ አዘዞ ፡ እግዚአብሔር ፡ በቅድሜሆሙ ፡ ለውሉደ ፡ እስራኤል\n                  ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትመጽእ",
+          "t": "wätəmäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ለፌ",
+          "t": "läfe",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "እቀውም",
+          "t": "ʾəqäwəmə",
+          "gl": ""
+        },
+        {
+          "g": "ለፌ",
+          "t": "läfe",
+          "gl": ""
+        },
+        {
+          "g": "መንገለ",
+          "t": "mänəgälä",
+          "gl": ""
+        },
+        {
+          "g": "ኰኵሕ",
+          "t": "kwäkwəḥə",
+          "gl": ""
+        },
+        {
+          "g": "ዘኮሬብ",
+          "t": "zäkorebə",
+          "gl": ""
+        },
+        {
+          "g": "ወትዘብጦ",
+          "t": "wätəzäbəṭo",
+          "gl": ""
+        },
+        {
+          "g": "ለኰኵሕ",
+          "t": "läkwäkwəḥə",
+          "gl": ""
+        },
+        {
+          "g": "ወይወፅእ",
+          "t": "wäyəwäṣ́əʾə",
+          "gl": ""
+        },
+        {
+          "g": "በውስቴቱ",
+          "t": "bäwəsətetu",
+          "gl": ""
+        },
+        {
+          "g": "ማይ",
+          "t": "mayə",
+          "gl": ""
+        },
+        {
+          "g": "ወይስተይ",
+          "t": "wäyəsətäyə",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ  ወገብረ",
+          "t": "ḥəzəbə  wägäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "አዘዞ",
+          "t": "ʾäzäzo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "በቅድሜሆሙ",
+          "t": "bäqədəmehomu",
+          "gl": ""
+        },
+        {
+          "g": "ለውሉደ",
+          "t": "läwəludä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Behold, I stand there before thou come, on the rock in Choreb, and thou shalt smite the rock, and water shall come out from it, and the people shall drink. And Moses did so before the sons of Israel.",
+        "kjv": "Behold, I will stand before thee there upon the rock in Horeb; and thou shalt smite the rock, and there shall come water out of it, that the people may drink. And Moses did so in the sight of the elders of Israel."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወሰመዮ ፡ ለውእቱ ፡ ፍና ፡ መንሱት ፡ ወጋእዝ ፡ በእንተ ፡ ግእዘት ፡ ዘግእዝዎ ፡ ውሉደ ፡ እስራኤል ፡ ወአመከሩ ፡\n                  ፈጣሬ ፡ ኵሉ ፡ ወይቤሉ ፡ ለእመ ፡ ሀሎ ፡ እግዚአብሔር ፡ ወለእመ ፡ ኢሀሎ ፡ ምስሌነ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሰመዮ",
+          "t": "wäsämäyo",
+          "gl": ""
+        },
+        {
+          "g": "ለውእቱ",
+          "t": "läwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ፍና",
+          "t": "fəna",
+          "gl": ""
+        },
+        {
+          "g": "መንሱት",
+          "t": "mänəsutə",
+          "gl": ""
+        },
+        {
+          "g": "ወጋእዝ",
+          "t": "wägaʾəzə",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ግእዘት",
+          "t": "gəʾəzätə",
+          "gl": ""
+        },
+        {
+          "g": "ዘግእዝዎ",
+          "t": "zägəʾəzəwo",
+          "gl": ""
+        },
+        {
+          "g": "ውሉደ",
+          "t": "wəludä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወአመከሩ",
+          "t": "wäʾämäkäru",
+          "gl": ""
+        },
+        {
+          "g": "ፈጣሬ",
+          "t": "fäṭare",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሉ",
+          "t": "wäyəbelu",
+          "gl": ""
+        },
+        {
+          "g": "ለእመ",
+          "t": "läʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ሀሎ",
+          "t": "hälo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወለእመ",
+          "t": "wäläʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኢሀሎ",
+          "t": "ʾihälo",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌነ",
+          "t": "məsəlenä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he called the name of that place, Temptation, and Reviling, because of the reviling of the children of Israel, and because they tempted the Lord, saying, Is the Lord among us or not?",
+        "kjv": "And he called the name of the place Massah, and Meribah, because of the chiding of the children of Israel, and because they tempted the LORD, saying, Is the LORD among us, or not?"
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወመጽአ ፡ ዐማሌቅ ፡ ወይትቃተል ፡ በራፊድ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወመጽአ",
+          "t": "wämäṣəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ዐማሌቅ",
+          "t": "ʿämaleqə",
+          "gl": ""
+        },
+        {
+          "g": "ወይትቃተል",
+          "t": "wäyətəqatälə",
+          "gl": ""
+        },
+        {
+          "g": "በራፊድ",
+          "t": "bärafidə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Amalec came and fought with Israel in Raphidin.",
+        "kjv": "Then came Amalek, and fought with Israel in Rephidim."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወይቤ ፡ ሙሴ ፡ ለኢየሱስ ፡ ኅረይ ፡ ለከ ፡ ዕደወ ፡ ወፃእ ፡ ወተአኀዞ ፡ ለዐማሌቅ ፡ ጌሠመ ፡ ወናሁ ፡ አነ ፡ እቀውም\n                  ፡ ዲበ ፡ ርእሰ ፡ ወግር ፡ ወበትር ፡ ዘእግዚአብሔር ፡ ውስተ ፡ እዴየ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ለኢየሱስ",
+          "t": "läʾiyäsusə",
+          "gl": ""
+        },
+        {
+          "g": "ኅረይ",
+          "t": "ḫəräyə",
+          "gl": ""
+        },
+        {
+          "g": "ለከ",
+          "t": "läkä",
+          "gl": ""
+        },
+        {
+          "g": "ዕደወ",
+          "t": "ʿədäwä",
+          "gl": ""
+        },
+        {
+          "g": "ወፃእ",
+          "t": "wäṣ́aʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወተአኀዞ",
+          "t": "wätäʾäḫäzo",
+          "gl": ""
+        },
+        {
+          "g": "ለዐማሌቅ",
+          "t": "läʿämaleqə",
+          "gl": ""
+        },
+        {
+          "g": "ጌሠመ",
+          "t": "geśämä",
+          "gl": ""
+        },
+        {
+          "g": "ወናሁ",
+          "t": "wänahu",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "እቀውም",
+          "t": "ʾəqäwəmə",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "ርእሰ",
+          "t": "rəʾəsä",
+          "gl": ""
+        },
+        {
+          "g": "ወግር",
+          "t": "wägərə",
+          "gl": ""
+        },
+        {
+          "g": "ወበትር",
+          "t": "wäbätərə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእግዚአብሔር",
+          "t": "zäʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴየ",
+          "t": "ʾədeyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Moses said to Joshua, Choose out for thyself mighty men, and go forth and set the army in array against Amalec to-morrow; and, behold, I shall stand on the top of the hill, and the rod of God will be in my hand.",
+        "kjv": "And Moses said unto Joshua, Choose us out men, and go out, fight with Amalek: to morrow I will stand on the top of the hill with the rod of God in mine hand."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወገብረ ፡ ኢየሱስ ፡ በከመ ፡ አዘዞ ፡ ሙሴ ፡ ወተራከቦ ፡ ለዐማሌቅ ፡ ወሙሴ ፡ ወአሮን ፡ ወሆር ፡ ዐርጉ ፡ ውስተ ፡\n                  ርእሳ ፡ ለወግር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወገብረ",
+          "t": "wägäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሱስ",
+          "t": "ʾiyäsusə",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "አዘዞ",
+          "t": "ʾäzäzo",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ወተራከቦ",
+          "t": "wätärakäbo",
+          "gl": ""
+        },
+        {
+          "g": "ለዐማሌቅ",
+          "t": "läʿämaleqə",
+          "gl": ""
+        },
+        {
+          "g": "ወሙሴ",
+          "t": "wämuse",
+          "gl": ""
+        },
+        {
+          "g": "ወአሮን",
+          "t": "wäʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ወሆር",
+          "t": "wähorə",
+          "gl": ""
+        },
+        {
+          "g": "ዐርጉ",
+          "t": "ʿärəgu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ርእሳ",
+          "t": "rəʾəsa",
+          "gl": ""
+        },
+        {
+          "g": "ለወግር",
+          "t": "läwägərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Joshua did as Moses said to him, and he went out and set the army in array against Amalec, and Moses and Aaron and Or went up to the top of the hill.",
+        "kjv": "So Joshua did as Moses had said to him, and fought with Amalek: and Moses, Aaron, and Hur went up to the top of the hill."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወሶበ ፡ ያነሥእ ፡ ሙሴ ፡ እደዊሁ ፡ ይወፅእ ፡ እስራኤል ፡ ወሶበ ፡ የዐጽብ ፡ ሙሴ ፡ ያወርድ ፡ እደዊሁ ፡ ወይትወፅኡ\n                  ፡ እስራኤል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሶበ",
+          "t": "wäsobä",
+          "gl": ""
+        },
+        {
+          "g": "ያነሥእ",
+          "t": "yanäśəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "እደዊሁ",
+          "t": "ʾədäwihu",
+          "gl": ""
+        },
+        {
+          "g": "ይወፅእ",
+          "t": "yəwäṣ́əʾə",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወሶበ",
+          "t": "wäsobä",
+          "gl": ""
+        },
+        {
+          "g": "የዐጽብ",
+          "t": "yäʿäṣəbə",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ያወርድ",
+          "t": "yawärədə",
+          "gl": ""
+        },
+        {
+          "g": "እደዊሁ",
+          "t": "ʾədäwihu",
+          "gl": ""
+        },
+        {
+          "g": "ወይትወፅኡ",
+          "t": "wäyətəwäṣ́əʾu",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it came to pass, when Moses lifted up his hands, Israel prevailed; and when he let down his hands, Amalec prevailed.",
+        "kjv": "And it came to pass, when Moses held up his hand, that Israel prevailed: and when he let down his hand, Amalek prevailed."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወእደዊሁ ፡ ለሙሴ ፡ ክቡድ ፡ ወአንበሩ ፡ እብነ ፡ ሎቱ ፡ ወይነብሩ ፡ ላዕሌሆን ፡ አሮን ፡ ወሆር ፡ ወይጸውሩ ፡ እደዊሁ\n                  ፡ ለሙሴ ፡ አሐዱ ፡ በለፌ ፡ ወአሐዱ ፡ በለፌ ፡ ወቆማ ፡ እደዊሁ ፡ ለሙሴ ፡ ርቡባቲሆን ፡ እስከ ፡ ዕርበተ ፡ ፀሐይ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእደዊሁ",
+          "t": "wäʾədäwihu",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ክቡድ",
+          "t": "kəbudə",
+          "gl": ""
+        },
+        {
+          "g": "ወአንበሩ",
+          "t": "wäʾänəbäru",
+          "gl": ""
+        },
+        {
+          "g": "እብነ",
+          "t": "ʾəbənä",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ወይነብሩ",
+          "t": "wäyənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሆን",
+          "t": "laʿəlehonə",
+          "gl": ""
+        },
+        {
+          "g": "አሮን",
+          "t": "ʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ወሆር",
+          "t": "wähorə",
+          "gl": ""
+        },
+        {
+          "g": "ወይጸውሩ",
+          "t": "wäyəṣäwəru",
+          "gl": ""
+        },
+        {
+          "g": "እደዊሁ",
+          "t": "ʾədäwihu",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "በለፌ",
+          "t": "bäläfe",
+          "gl": ""
+        },
+        {
+          "g": "ወአሐዱ",
+          "t": "wäʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "በለፌ",
+          "t": "bäläfe",
+          "gl": ""
+        },
+        {
+          "g": "ወቆማ",
+          "t": "wäqoma",
+          "gl": ""
+        },
+        {
+          "g": "እደዊሁ",
+          "t": "ʾədäwihu",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ርቡባቲሆን",
+          "t": "rəbubatihonə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዕርበተ",
+          "t": "ʿərəbätä",
+          "gl": ""
+        },
+        {
+          "g": "ፀሐይ",
+          "t": "ṣ́äḥäyə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But the hands of Moses were heavy, and they took a stone and put it under him, and he sat upon it; and Aaron and Or supported his hands one on this side and the other on that, and the hands of Moses were supported till the going down of the sun.",
+        "kjv": "But Moses’ hands were heavy; and they took a stone, and put it under him, and he sat thereon; and Aaron and Hur stayed up his hands, the one on the one side, and the other on the other side; and his hands were steady until the going down of the sun."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወሜጦሙ ፡ ኢየሱስ ፡ ለዐማሌቅ ፡ ምሰለ ፡ ሕዝቡ ፡ ወቀተሎሙ ፡ በኅፂን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሜጦሙ",
+          "t": "wämeṭomu",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሱስ",
+          "t": "ʾiyäsusə",
+          "gl": ""
+        },
+        {
+          "g": "ለዐማሌቅ",
+          "t": "läʿämaleqə",
+          "gl": ""
+        },
+        {
+          "g": "ምሰለ",
+          "t": "məsälä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝቡ",
+          "t": "ḥəzəbu",
+          "gl": ""
+        },
+        {
+          "g": "ወቀተሎሙ",
+          "t": "wäqätälomu",
+          "gl": ""
+        },
+        {
+          "g": "በኅፂን",
+          "t": "bäḫəṣ́inə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Joshua routed Amalec and all his people with the slaughter of the sword.",
+        "kjv": "And Joshua discomfited Amalek and his people with the edge of the sword."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወይቤሎ ፡ እግዚአብሔር ፡ ለሙሴ ፡ ጸሐፍዛ ፡ ለተዝካር ፡ ወአይድዖ ፡ ለኢየሱስ ፡ ድምሳሴ ፡ እደመስሶሙ ፡ ለዐማሌቅ ፡\n                  እምታሕተ ፡ ሰማይ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ጸሐፍዛ",
+          "t": "ṣäḥäfəza",
+          "gl": ""
+        },
+        {
+          "g": "ለተዝካር",
+          "t": "lätäzəkarə",
+          "gl": ""
+        },
+        {
+          "g": "ወአይድዖ",
+          "t": "wäʾäyədəʿo",
+          "gl": ""
+        },
+        {
+          "g": "ለኢየሱስ",
+          "t": "läʾiyäsusə",
+          "gl": ""
+        },
+        {
+          "g": "ድምሳሴ",
+          "t": "dəməsase",
+          "gl": ""
+        },
+        {
+          "g": "እደመስሶሙ",
+          "t": "ʾədämäsəsomu",
+          "gl": ""
+        },
+        {
+          "g": "ለዐማሌቅ",
+          "t": "läʿämaleqə",
+          "gl": ""
+        },
+        {
+          "g": "እምታሕተ",
+          "t": "ʾəmətaḥətä",
+          "gl": ""
+        },
+        {
+          "g": "ሰማይ",
+          "t": "sämayə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord said to Moses, Write this for a memorial in a book, and speak this in the ears of Joshua; for I will utterly blot out the memorial of Amalec from under heaven.",
+        "kjv": "And the LORD said unto Moses, Write this for a memorial in a book, and rehearse it in the ears of Joshua: for I will utterly put out the remembrance of Amalek from under heaven."
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ወአሕነጸ ፡ ሙሴ ፡ ምሥዋዐ ፡ ለእግዚአብሔር ፡ ወሰመዮ ፡ ስሞ ፡ ምምሕፃን ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአሕነጸ",
+          "t": "wäʾäḥənäṣä",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ምሥዋዐ",
+          "t": "məśəwaʿä",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወሰመዮ",
+          "t": "wäsämäyo",
+          "gl": ""
+        },
+        {
+          "g": "ስሞ",
+          "t": "səmo",
+          "gl": ""
+        },
+        {
+          "g": "ምምሕፃን",
+          "t": "məməḥəṣ́anə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Moses built an altar to the Lord, and called the name of it, The Lord my Refuge.",
+        "kjv": "And Moses built an altar, and called the name of it Jehovahnissi:"
+      }
+    },
+    {
+      "num": 16,
+      "geez": "እስመ ፡ በእድ ፡ ኅብእት ፡ ይፀብኦሙ ፡ እግዚአብሔር ፡ ለዐማሌቅ ፡ ለዘመደ ፡ ዘመድ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "በእድ",
+          "t": "bäʾədə",
+          "gl": ""
+        },
+        {
+          "g": "ኅብእት",
+          "t": "ḫəbəʾətə",
+          "gl": ""
+        },
+        {
+          "g": "ይፀብኦሙ",
+          "t": "yəṣ́äbəʾomu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለዐማሌቅ",
+          "t": "läʿämaleqə",
+          "gl": ""
+        },
+        {
+          "g": "ለዘመደ",
+          "t": "läzämädä",
+          "gl": ""
+        },
+        {
+          "g": "ዘመድ",
+          "t": "zämädə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For with a secret hand the Lord wages war upon Amalec to all generations.",
+        "kjv": "For he said, Because the LORD hath sworn that the LORD will have war with Amalek from generation to generation."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

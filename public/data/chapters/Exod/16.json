@@ -1,0 +1,2784 @@
+{
+  "book": "Exod",
+  "chapter": 16,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወግዕዙ ፡ እምኤ[ሌም] ፡ ወመጽኡ ፡ ኵሉ ፡ ደቂቀ ፡ እስራኤል ፡ ውስተ ፡ ገዳም ፡ ዘሲ[ን] ፡ ወውእቱ ፡ ማእከለ ፡\n                  ኤ[ሌ]ም ፡ ወሲና ፡ አመ ፡ ዐሡር ፡ ወኀሙስ ፡ ዕለት ፡ ለካልእ ፡ ወርኅ ፡ [እምዘ ፡] ወፅኡ ፡ እምድረ ፡ ግብጽ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወግዕዙ",
+          "t": "wägəʿəzu",
+          "gl": ""
+        },
+        {
+          "g": "እምኤሌም",
+          "t": "ʾəməʾelemə",
+          "gl": ""
+        },
+        {
+          "g": "ወመጽኡ",
+          "t": "wämäṣəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ገዳም",
+          "t": "gädamə",
+          "gl": ""
+        },
+        {
+          "g": "ዘሲን",
+          "t": "zäsinə",
+          "gl": ""
+        },
+        {
+          "g": "ወውእቱ",
+          "t": "wäwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ማእከለ",
+          "t": "maʾəkälä",
+          "gl": ""
+        },
+        {
+          "g": "ኤሌም",
+          "t": "ʾelemə",
+          "gl": ""
+        },
+        {
+          "g": "ወሲና",
+          "t": "wäsina",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ዐሡር",
+          "t": "ʿäśurə",
+          "gl": ""
+        },
+        {
+          "g": "ወኀሙስ",
+          "t": "wäḫämusə",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "ለካልእ",
+          "t": "läkaləʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወርኅ",
+          "t": "wärəḫə",
+          "gl": ""
+        },
+        {
+          "g": "እምዘ",
+          "t": "ʾəməzä",
+          "gl": ""
+        },
+        {
+          "g": "ወፅኡ",
+          "t": "wäṣ́əʾu",
+          "gl": ""
+        },
+        {
+          "g": "እምድረ",
+          "t": "ʾəmədərä",
+          "gl": ""
+        },
+        {
+          "g": "ግብጽ",
+          "t": "gəbəṣə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they departed from Ælim, and all the congregation of the children of Israel came to the wilderness of Sin, which is between Ælim and Sina; and on the fifteenth day, in the second month after their departure from the land of Egypt,",
+        "kjv": "And they took their journey from Elim, and all the congregation of the children of Israel came unto the wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after their departing out of the land of Egypt."
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ወአንጐርጐረ ፡ ኵሉ ፡ ሕዝብ ፡ ውሉደ ፡ እስራኤል ፡ በላዕለ ፡ ሙሴ ፡ ወአሮን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአንጐርጐረ",
+          "t": "wäʾänəgwärəgwärä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ውሉደ",
+          "t": "wəludä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "በላዕለ",
+          "t": "bälaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ወአሮን",
+          "t": "wäʾäronə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "all the congregation of the children of Israel murmured against Moses and Aaron.",
+        "kjv": "And the whole congregation of the children of Israel murmured against Moses and Aaron in the wilderness:"
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወይቤልዎሙ ፡ ውሉደ ፡ እስራኤል ፡ ሶበ ፡ ሞትነ ፡ በመቅሠፍተ ፡ እግዚአብሔር ፡ በምድረ ፡ ግብጽ ፡ አመ ፡ ንነብር ፡\n                  ጠቃ ፡ ጸሀርት ፡ ዘሥጋ ፡ ወንበልዕ ፡ ኅብስተ ፡ እስከ ፡ ንጸግብ ፤ አምጻእከነ ፡ አንተ ፡ ውስተዝ ፡ ገዳም ፡ ከመ ፡\n                  ትቅትል ፡ ኵለነ ፡ በኀበ ፡ ተጋባእነ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤልዎሙ",
+          "t": "wäyəbeləwomu",
+          "gl": ""
+        },
+        {
+          "g": "ውሉደ",
+          "t": "wəludä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ሶበ",
+          "t": "sobä",
+          "gl": ""
+        },
+        {
+          "g": "ሞትነ",
+          "t": "motənä",
+          "gl": ""
+        },
+        {
+          "g": "በመቅሠፍተ",
+          "t": "bämäqəśäfətä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "በምድረ",
+          "t": "bämədərä",
+          "gl": ""
+        },
+        {
+          "g": "ግብጽ",
+          "t": "gəbəṣə",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ንነብር",
+          "t": "nənäbərə",
+          "gl": ""
+        },
+        {
+          "g": "ጠቃ",
+          "t": "ṭäqa",
+          "gl": ""
+        },
+        {
+          "g": "ጸሀርት",
+          "t": "ṣähärətə",
+          "gl": ""
+        },
+        {
+          "g": "ዘሥጋ",
+          "t": "zäśəga",
+          "gl": ""
+        },
+        {
+          "g": "ወንበልዕ",
+          "t": "wänəbäləʿə",
+          "gl": ""
+        },
+        {
+          "g": "ኅብስተ",
+          "t": "ḫəbəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ንጸግብ  አምጻእከነ",
+          "t": "nəṣägəbə  ʾäməṣaʾəkänä",
+          "gl": ""
+        },
+        {
+          "g": "አንተ",
+          "t": "ʾänətä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተዝ",
+          "t": "wəsətäzə",
+          "gl": ""
+        },
+        {
+          "g": "ገዳም",
+          "t": "gädamə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ትቅትል",
+          "t": "təqətələ",
+          "gl": ""
+        },
+        {
+          "g": "ኵለነ",
+          "t": "kwəlänä",
+          "gl": ""
+        },
+        {
+          "g": "በኀበ",
+          "t": "bäḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ተጋባእነ",
+          "t": "tägabaʾənä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the children of Israel said to them, Would we had died smitten by the Lord in the land of Egypt, when we sat by the flesh-pots, and ate bread to satiety! for ye have brought us out into this wilderness, to slay all this congregation with hunger.",
+        "kjv": "And the children of Israel said unto them, Would to God we had died by the hand of the LORD in the land of Egypt, when we sat by the flesh pots, and when we did eat bread to the full; for ye have brought us forth into this wilderness, to kill this whole assembly with hunger."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወይቤሎ ፡ እግዚአብሔር ፡ ለሙሴ ፡ ናሁ ፡ አነ ፡ ኣወርድ ፡ ለክሙ ፡ ኅብስተ ፡ እምሰማይ ፡ ወይምጻእ ፡ ሕዝብ ፡\n                  ወያስተጋብእ ፡ ለለ ፡ ዕለት ፡ ከመ ፡ አመክሮሙ ፡ ለእመ ፡ የሐውሩ ፡ በሕግየ ፡ ወእመ ፡ አልቦ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ናሁ",
+          "t": "nahu",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "ኣወርድ",
+          "t": "ʾawärədə",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ኅብስተ",
+          "t": "ḫəbəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እምሰማይ",
+          "t": "ʾəməsämayə",
+          "gl": ""
+        },
+        {
+          "g": "ወይምጻእ",
+          "t": "wäyəməṣaʾə",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ወያስተጋብእ",
+          "t": "wäyasətägabəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ለለ",
+          "t": "lälä",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "አመክሮሙ",
+          "t": "ʾämäkəromu",
+          "gl": ""
+        },
+        {
+          "g": "ለእመ",
+          "t": "läʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "የሐውሩ",
+          "t": "yäḥäwəru",
+          "gl": ""
+        },
+        {
+          "g": "በሕግየ",
+          "t": "bäḥəgəyä",
+          "gl": ""
+        },
+        {
+          "g": "ወእመ",
+          "t": "wäʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "አልቦ",
+          "t": "ʾäləbo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord said to Moses, Behold, I will rain bread upon you out of heaven: and the people shall go forth, and they shall gather their daily portion for the day, that I may try them whether they will walk in my law or not.",
+        "kjv": "Then said the LORD unto Moses, Behold, I will rain bread from heaven for you; and the people shall go out and gather a certain rate every day, that I may prove them, whether they will walk in my law, or no."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወአመ ፡ ዕለተ ፡ ዐርብ ፡ ያስተዳልዉ ፡ ዘአብኡ ፡ ይኩኖሙ ፡ ካዕበተ ፡ ለለዕለት ፡ ወዘአስተጋብ[ኡ ፡] ዘልፈ ፡\n                  ለለዕለቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአመ",
+          "t": "wäʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ዕለተ",
+          "t": "ʿəlätä",
+          "gl": ""
+        },
+        {
+          "g": "ዐርብ",
+          "t": "ʿärəbə",
+          "gl": ""
+        },
+        {
+          "g": "ያስተዳልዉ",
+          "t": "yasətädaləwu",
+          "gl": ""
+        },
+        {
+          "g": "ዘአብኡ",
+          "t": "zäʾäbəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ይኩኖሙ",
+          "t": "yəkunomu",
+          "gl": ""
+        },
+        {
+          "g": "ካዕበተ",
+          "t": "kaʿəbätä",
+          "gl": ""
+        },
+        {
+          "g": "ለለዕለት",
+          "t": "läläʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘአስተጋብኡ",
+          "t": "wäzäʾäsətägabəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ዘልፈ",
+          "t": "zäləfä",
+          "gl": ""
+        },
+        {
+          "g": "ለለዕለቱ",
+          "t": "läläʿəlätu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it shall come to pass on the sixth day that they shall prepare whatsoever they have brought in, and it shall be double of what they shall have gathered for the day, daily.",
+        "kjv": "And it shall come to pass, that on the sixth day they shall prepare that which they bring in; and it shall be twice as much as they gather daily."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወይቤሉ ፡ ሙሴ ፡ ወአሮን ፡ ለኵሉ ፡ ሕዝበ ፡ እስራኤል ፡ እምሰርክ ፡ ታአምሩ ፡ ከመ ፡ እግዚአብሔር ፡ አውፅአክሙ ፡\n                  እምድረ ፡ ግብጽ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሉ",
+          "t": "wäyəbelu",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ወአሮን",
+          "t": "wäʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ለኵሉ",
+          "t": "läkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝበ",
+          "t": "ḥəzəbä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "እምሰርክ",
+          "t": "ʾəməsärəkə",
+          "gl": ""
+        },
+        {
+          "g": "ታአምሩ",
+          "t": "taʾäməru",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አውፅአክሙ",
+          "t": "ʾäwəṣ́əʾäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እምድረ",
+          "t": "ʾəmədərä",
+          "gl": ""
+        },
+        {
+          "g": "ግብጽ",
+          "t": "gəbəṣə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Moses and Aaron said to all the congregation of the children of Israel, At even ye shall know that the Lord has brought you out of the land of Egypt;",
+        "kjv": "And Moses and Aaron said unto all the children of Israel, At even, then ye shall know that the LORD hath brought you out from the land of Egypt:"
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወነግህ ፡ ትሬእዩ ፡ ኀይለ ፡ እግዚአብሔር ፡ ሰሚዖ ፡ ነጐርጓረክሙ ፡ እግዚአብሔር ፡ ወንሕነ ፡ ምንት ፡ ንሕነ ፡\n                  ዘታንጐረጕሩ ፡ በላዕሌነ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነግህ",
+          "t": "wänägəhə",
+          "gl": ""
+        },
+        {
+          "g": "ትሬእዩ",
+          "t": "təreʾəyu",
+          "gl": ""
+        },
+        {
+          "g": "ኀይለ",
+          "t": "ḫäyəlä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ሰሚዖ",
+          "t": "sämiʿo",
+          "gl": ""
+        },
+        {
+          "g": "ነጐርጓረክሙ",
+          "t": "nägwärəgwaräkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወንሕነ",
+          "t": "wänəḥənä",
+          "gl": ""
+        },
+        {
+          "g": "ምንት",
+          "t": "mənətə",
+          "gl": ""
+        },
+        {
+          "g": "ንሕነ",
+          "t": "nəḥənä",
+          "gl": ""
+        },
+        {
+          "g": "ዘታንጐረጕሩ",
+          "t": "zätanəgwärägwəru",
+          "gl": ""
+        },
+        {
+          "g": "በላዕሌነ",
+          "t": "bälaʿəlenä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and in the morning ye shall see the glory of the Lord, inasmuch as he hears your murmuring against God; and who are we, that ye continue to murmur against us?",
+        "kjv": "And in the morning, then ye shall see the glory of the LORD; for that he heareth your murmurings against the LORD: and what are we, that ye murmur against us?"
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወይቤ ፡ ሙሴ ፡ ሰርከ ፡ ይሁበክሙ ፡ እግዚአብሔር ፡ ሥጋ ፡ ትብልዑ ፡ ወነግህ ፡ ኅብስተ ፡ እስከ ፡ ትጸግቡ ፡ እስመ ፡\n                  ሰምዐ ፡ እግዚአብሔር ፡ ነጐርጓረክሙ ፡ ነጐርጓር ፡ ዘታንጐረጕሩ ፡ አንትሙ ፡ በላዕሌነ ፡ ወንሕነ ፡ ምንት ፡ ንሕነ ፡ ወዝ ፡\n                  ነጐርጓርክሙ ፡ አኮ ፡ በላዕሌነ ፡ ዘታንጐረጕሩ ፡ [አላ ፡ በ]ላዕለ ፡ ፈጣሪ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ሰርከ",
+          "t": "särəkä",
+          "gl": ""
+        },
+        {
+          "g": "ይሁበክሙ",
+          "t": "yəhubäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ሥጋ",
+          "t": "śəga",
+          "gl": ""
+        },
+        {
+          "g": "ትብልዑ",
+          "t": "təbələʿu",
+          "gl": ""
+        },
+        {
+          "g": "ወነግህ",
+          "t": "wänägəhə",
+          "gl": ""
+        },
+        {
+          "g": "ኅብስተ",
+          "t": "ḫəbəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ትጸግቡ",
+          "t": "təṣägəbu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ሰምዐ",
+          "t": "säməʿä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ነጐርጓረክሙ",
+          "t": "nägwärəgwaräkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ነጐርጓር",
+          "t": "nägwärəgwarə",
+          "gl": ""
+        },
+        {
+          "g": "ዘታንጐረጕሩ",
+          "t": "zätanəgwärägwəru",
+          "gl": ""
+        },
+        {
+          "g": "አንትሙ",
+          "t": "ʾänətəmu",
+          "gl": ""
+        },
+        {
+          "g": "በላዕሌነ",
+          "t": "bälaʿəlenä",
+          "gl": ""
+        },
+        {
+          "g": "ወንሕነ",
+          "t": "wänəḥənä",
+          "gl": ""
+        },
+        {
+          "g": "ምንት",
+          "t": "mənətə",
+          "gl": ""
+        },
+        {
+          "g": "ንሕነ",
+          "t": "nəḥənä",
+          "gl": ""
+        },
+        {
+          "g": "ወዝ",
+          "t": "wäzə",
+          "gl": ""
+        },
+        {
+          "g": "ነጐርጓርክሙ",
+          "t": "nägwärəgwarəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "አኮ",
+          "t": "ʾäko",
+          "gl": ""
+        },
+        {
+          "g": "በላዕሌነ",
+          "t": "bälaʿəlenä",
+          "gl": ""
+        },
+        {
+          "g": "ዘታንጐረጕሩ",
+          "t": "zätanəgwärägwəru",
+          "gl": ""
+        },
+        {
+          "g": "አላ",
+          "t": "ʾäla",
+          "gl": ""
+        },
+        {
+          "g": "በላዕለ",
+          "t": "bälaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ፈጣሪ",
+          "t": "fäṭari",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Moses said, This shall be when the Lord gives you in the evening flesh to eat, and bread in the morning to satiety, because the Lord has heard your murmuring, which ye murmur against us: and what are we? for your murmuring is not against us, but against God.",
+        "kjv": "And Moses said, This shall be, when the LORD shall give you in the evening flesh to eat, and in the morning bread to the full; for that the LORD heareth your murmurings which ye murmur against him: and what are we? your murmurings are not against us, but against the LORD."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወይቤ ፡ ሙሴ ፡ ለአሮን ፡ በል ፡ ለኵሉ ፡ ኀበ ፡ ተጋብኡ ፡ ውሉደ ፡ እስራኤል ፡ ቅረቡ ፡ ቅድመ ፡ ፈጣሪ ፡ እስመ ፡\n                  ሰምዐ ፡ ነጐርጓረክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ለአሮን",
+          "t": "läʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "በል",
+          "t": "bälə",
+          "gl": ""
+        },
+        {
+          "g": "ለኵሉ",
+          "t": "läkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ተጋብኡ",
+          "t": "tägabəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ውሉደ",
+          "t": "wəludä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ቅረቡ",
+          "t": "qəräbu",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ፈጣሪ",
+          "t": "fäṭari",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ሰምዐ",
+          "t": "säməʿä",
+          "gl": ""
+        },
+        {
+          "g": "ነጐርጓረክሙ",
+          "t": "nägwärəgwaräkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Moses said to Aaron, Say to all the congregation of the children of Israel, Come near before God; for he has heard your murmuring.",
+        "kjv": "And Moses spake unto Aaron, Say unto all the congregation of the children of Israel, Come near before the LORD: for he hath heard your murmurings."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወሶበ ፡ ይትናገር ፡ አሮን ፡ ለኵሉ ፡ ኀበ ፡ ተጋብኡ ፡ ውሉደ ፡ እስራኤል ፡ ወተመይጡ ፡ ውስተ ፡ ገዳም ፡ ወሠርሐ ፡\n                  እግዚአብሔር ፡ ተርእ[የ ፡] በደመና ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሶበ",
+          "t": "wäsobä",
+          "gl": ""
+        },
+        {
+          "g": "ይትናገር",
+          "t": "yətənagärə",
+          "gl": ""
+        },
+        {
+          "g": "አሮን",
+          "t": "ʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ለኵሉ",
+          "t": "läkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ተጋብኡ",
+          "t": "tägabəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ውሉደ",
+          "t": "wəludä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወተመይጡ",
+          "t": "wätämäyəṭu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ገዳም",
+          "t": "gädamə",
+          "gl": ""
+        },
+        {
+          "g": "ወሠርሐ",
+          "t": "wäśärəḥä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ተርእየ",
+          "t": "tärəʾəyä",
+          "gl": ""
+        },
+        {
+          "g": "በደመና",
+          "t": "bädämäna",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And when Aaron spoke to all the congregation of the children of Israel, and they turned toward the wilderness, then the glory of the Lord appeared in a cloud.",
+        "kjv": "And it came to pass, as Aaron spake unto the whole congregation of the children of Israel, that they looked toward the wilderness, and, behold, the glory of the LORD appeared in the cloud."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወይቤ ፡ እግዚአብሔር ፡ ለሙሴ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord spoke to Moses, saying,",
+        "kjv": "And the LORD spake unto Moses, saying,"
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ሰማዕኩ ፡ ነጐርጓሮሙ ፡ ለውሉደ ፡ እስራኤል ፡ ወበሎሙ ፡ ሰርከ ፡ ትበልዑ ፡ ሥጋ ፡ ወጸቢሖ ፡ ትጸግቡ ፡ ኅብስተ ፡\n                  ወታአምሩ ፡ ከመ ፡ አነ ፡ እግዚአብሔር ፡ ፈጣሬ ፡ ዚአክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ሰማዕኩ",
+          "t": "sämaʿəku",
+          "gl": ""
+        },
+        {
+          "g": "ነጐርጓሮሙ",
+          "t": "nägwärəgwaromu",
+          "gl": ""
+        },
+        {
+          "g": "ለውሉደ",
+          "t": "läwəludä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወበሎሙ",
+          "t": "wäbälomu",
+          "gl": ""
+        },
+        {
+          "g": "ሰርከ",
+          "t": "särəkä",
+          "gl": ""
+        },
+        {
+          "g": "ትበልዑ",
+          "t": "təbäləʿu",
+          "gl": ""
+        },
+        {
+          "g": "ሥጋ",
+          "t": "śəga",
+          "gl": ""
+        },
+        {
+          "g": "ወጸቢሖ",
+          "t": "wäṣäbiḥo",
+          "gl": ""
+        },
+        {
+          "g": "ትጸግቡ",
+          "t": "təṣägəbu",
+          "gl": ""
+        },
+        {
+          "g": "ኅብስተ",
+          "t": "ḫəbəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ወታአምሩ",
+          "t": "wätaʾäməru",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ፈጣሬ",
+          "t": "fäṭare",
+          "gl": ""
+        },
+        {
+          "g": "ዚአክሙ",
+          "t": "ziʾäkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "I have heard the murmuring of the children of Israel: speak to them, saying, Towards evening ye shall eat flesh, and in the morning ye shall be satisfied with bread; and ye shall know that I am the Lord your God.",
+        "kjv": "I have heard the murmurings of the children of Israel: speak unto them, saying, At even ye shall eat flesh, and in the morning ye shall be filled with bread; and ye shall know that I am the LORD your God."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወመስየ ፡ ወመጽአ ፡ ፍርፍርት ፡ ወከደነ ፡ ኵሎ ፡ ትዕይንቶሙ ፡ ወነግሀ ፡ እንዘ ፡ የኀድግ ፡ ህቦ ፡ በኵርጓኔ ፡\n                  ትዕይንቶሙ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወመስየ",
+          "t": "wämäsəyä",
+          "gl": ""
+        },
+        {
+          "g": "ወመጽአ",
+          "t": "wämäṣəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ፍርፍርት",
+          "t": "fərəfərətə",
+          "gl": ""
+        },
+        {
+          "g": "ወከደነ",
+          "t": "wäkädänä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ትዕይንቶሙ",
+          "t": "təʿəyənətomu",
+          "gl": ""
+        },
+        {
+          "g": "ወነግሀ",
+          "t": "wänägəhä",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "የኀድግ",
+          "t": "yäḫädəgə",
+          "gl": ""
+        },
+        {
+          "g": "ህቦ",
+          "t": "həbo",
+          "gl": ""
+        },
+        {
+          "g": "በኵርጓኔ",
+          "t": "bäkwərəgwane",
+          "gl": ""
+        },
+        {
+          "g": "ትዕይንቶሙ",
+          "t": "təʿəyənətomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it was evening, and quails came up and covered the camp:",
+        "kjv": "And it came to pass, that at even the quails came up, and covered the camp: and in the morning the dew lay round about the host."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "እምፍጽመ ፡ ገዳም ፡ ድቁቅ ፡ ከመ ፡ ተቅዳ ፡ ወጸዐዳ ፡ ከመ ፡ አስሐትያ ፡ ውስተ ፡ ምድር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እምፍጽመ",
+          "t": "ʾəməfəṣəmä",
+          "gl": ""
+        },
+        {
+          "g": "ገዳም",
+          "t": "gädamə",
+          "gl": ""
+        },
+        {
+          "g": "ድቁቅ",
+          "t": "dəquqə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ተቅዳ",
+          "t": "täqəda",
+          "gl": ""
+        },
+        {
+          "g": "ወጸዐዳ",
+          "t": "wäṣäʿäda",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "አስሐትያ",
+          "t": "ʾäsəḥätəya",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "in the morning it came to pass as the dew ceased round about the camp, that, behold, on the face of the wilderness was a small thing like white coriander seed, as frost upon the earth.",
+        "kjv": "And when the dew that lay was gone up, behold, upon the face of the wilderness there lay a small round thing, as small as the hoar frost on the ground."
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ወርእዩ ፡ ውሉደ ፡ እስራኤል ፡ ወይቤ ፡ ብእሲ ፡ ለካልኡ ፡ ምንት ፡ ውእቱዝ ፡ እስመ ፡ ኢያአምሩ ፡ ወይቤሎሙ ፡ ሙሴ ፡\n                  ዝውእቱ ፡ ኅብስት ፡ ዘወሀበክሙ ፡ እግዚአብሔር ፡ ከመ ፡ ትብልዑ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወርእዩ",
+          "t": "wärəʾəyu",
+          "gl": ""
+        },
+        {
+          "g": "ውሉደ",
+          "t": "wəludä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ለካልኡ",
+          "t": "läkaləʾu",
+          "gl": ""
+        },
+        {
+          "g": "ምንት",
+          "t": "mənətə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱዝ",
+          "t": "wəʾətuzə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኢያአምሩ",
+          "t": "ʾiyaʾäməru",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎሙ",
+          "t": "wäyəbelomu",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ዝውእቱ",
+          "t": "zəwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ኅብስት",
+          "t": "ḫəbəsətə",
+          "gl": ""
+        },
+        {
+          "g": "ዘወሀበክሙ",
+          "t": "zäwähäbäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ትብልዑ",
+          "t": "təbələʿu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And when the children of Israel saw it, they said one to another, What is this? for they knew not what it was; and Moses said to them,",
+        "kjv": "And when the children of Israel saw it, they said one to another, It is manna: for they wist not what it was. And Moses said unto them, This is the bread which the LORD hath given you to eat."
+      }
+    },
+    {
+      "num": 16,
+      "geez": "ዝውእቱ ፡ ቃል ፡ ዘይቤ ፡ እግዚአብሔር ፡ አስተጋብኡ ፡ እምውስቴቱ ፡ በንዋይክሙ ፡ ለለ ፡ ብእሲ ፡ በበ ፡ ኍልቈ ፡\n                  ሰብኡ ፡ ለለርእሱ ፡ በንዋዩ ፡ ለያስተጋብእ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዝውእቱ",
+          "t": "zəwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ቃል",
+          "t": "qalə",
+          "gl": ""
+        },
+        {
+          "g": "ዘይቤ",
+          "t": "zäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አስተጋብኡ",
+          "t": "ʾäsətägabəʾu",
+          "gl": ""
+        },
+        {
+          "g": "እምውስቴቱ",
+          "t": "ʾəməwəsətetu",
+          "gl": ""
+        },
+        {
+          "g": "በንዋይክሙ",
+          "t": "bänəwayəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ለለ",
+          "t": "lälä",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "በበ",
+          "t": "bäbä",
+          "gl": ""
+        },
+        {
+          "g": "ኍልቈ",
+          "t": "ḫwələqwä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብኡ",
+          "t": "säbəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ለለርእሱ",
+          "t": "lälärəʾəsu",
+          "gl": ""
+        },
+        {
+          "g": "በንዋዩ",
+          "t": "bänəwayu",
+          "gl": ""
+        },
+        {
+          "g": "ለያስተጋብእ",
+          "t": "läyasətägabəʾə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "This is the bread which the Lord has given you to eat. This is that which the Lord has appointed: gather of it each man for his family, a homer for each person, according to the number of your souls, gather each of you with his fellow-lodgers.",
+        "kjv": "This is the thing which the LORD hath commanded, Gather of it every man according to his eating, an omer for every man, according to the number of your persons; take ye every man for them which are in his tents."
+      }
+    },
+    {
+      "num": 17,
+      "geez": "ወገብሩ ፡ ከማሁ ፡ ውሉደ ፡ እስራኤል ፤ አስተጋብኡ ፡ ዘብዙኅኒ ፡ ወዘሕዳጥኒ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወገብሩ",
+          "t": "wägäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ከማሁ",
+          "t": "kämahu",
+          "gl": ""
+        },
+        {
+          "g": "ውሉደ",
+          "t": "wəludä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል  አስተጋብኡ",
+          "t": "ʾəsəraʾelə  ʾäsətägabəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ዘብዙኅኒ",
+          "t": "zäbəzuḫəni",
+          "gl": ""
+        },
+        {
+          "g": "ወዘሕዳጥኒ",
+          "t": "wäzäḥədaṭəni",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the children of Israel did so, and gathered some much and some less.",
+        "kjv": "And the children of Israel did so, and gathered, some more, some less."
+      }
+    },
+    {
+      "num": 18,
+      "geez": "ወሰፈሩ ፡ በጎሞር ፡ ወኢፈድፈደ ፡ ለዘ ፡ ብዙኀ ፡ አስተጋብአ ፡ ወኢኀጸጸ ፡ ለዘ ፡ ኅዳጠ ፡ አስተጋብአ ፤ ብእሲ ፡\n                  ብእሲ ፡ ለለማኅደሩ ፡ አስቲጋብአ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሰፈሩ",
+          "t": "wäsäfäru",
+          "gl": ""
+        },
+        {
+          "g": "በጎሞር",
+          "t": "bägomorə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢፈድፈደ",
+          "t": "wäʾifädəfädä",
+          "gl": ""
+        },
+        {
+          "g": "ለዘ",
+          "t": "läzä",
+          "gl": ""
+        },
+        {
+          "g": "ብዙኀ",
+          "t": "bəzuḫä",
+          "gl": ""
+        },
+        {
+          "g": "አስተጋብአ",
+          "t": "ʾäsətägabəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢኀጸጸ",
+          "t": "wäʾiḫäṣäṣä",
+          "gl": ""
+        },
+        {
+          "g": "ለዘ",
+          "t": "läzä",
+          "gl": ""
+        },
+        {
+          "g": "ኅዳጠ",
+          "t": "ḫədaṭä",
+          "gl": ""
+        },
+        {
+          "g": "አስተጋብአ  ብእሲ",
+          "t": "ʾäsətägabəʾä  bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ለለማኅደሩ",
+          "t": "lälämaḫədäru",
+          "gl": ""
+        },
+        {
+          "g": "አስቲጋብአ",
+          "t": "ʾäsətigabəʾä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And having measured the homer full, he that had gathered much had nothing over, and he that had gathered less had no lack; each gathered according to the need of those who belonged to him.",
+        "kjv": "And when they did mete it with an omer, he that gathered much had nothing over, and he that gathered little had no lack; they gathered every man according to his eating."
+      }
+    },
+    {
+      "num": 19,
+      "geez": "ወይቤሎሙ ፡ ሙሴ ፡ ለደቂቀ ፡ እስራኤል ፡ ወኢታትርፉ ፡ ለጌሠም ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎሙ",
+          "t": "wäyəbelomu",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢታትርፉ",
+          "t": "wäʾitatərəfu",
+          "gl": ""
+        },
+        {
+          "g": "ለጌሠም",
+          "t": "lägeśämə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Moses said to them, Let no man leave of it till the morning.",
+        "kjv": "And Moses said, Let no man leave of it till the morning."
+      }
+    },
+    {
+      "num": 20,
+      "geez": "ወኢሰምዕዎ ፡ ለሙሴ ፡ ወአቤቱ ፡ ለነግህ ፡ ወዐጽየ ፡ ወጼአ ፡ ወተምዐ ፡ ሙሴ ፡ በላዕሌሆሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኢሰምዕዎ",
+          "t": "wäʾisäməʿəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ወአቤቱ",
+          "t": "wäʾäbetu",
+          "gl": ""
+        },
+        {
+          "g": "ለነግህ",
+          "t": "länägəhə",
+          "gl": ""
+        },
+        {
+          "g": "ወዐጽየ",
+          "t": "wäʿäṣəyä",
+          "gl": ""
+        },
+        {
+          "g": "ወጼአ",
+          "t": "wäṣeʾä",
+          "gl": ""
+        },
+        {
+          "g": "ወተምዐ",
+          "t": "wätäməʿä",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "በላዕሌሆሙ",
+          "t": "bälaʿəlehomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But they did not hearken to Moses, but some left of it till the morning; and it bred worms and stank: and Moses was irritated with them.",
+        "kjv": "Notwithstanding they hearkened not unto Moses; but some of them left of it until the morning, and it bred worms, and stank: and Moses was wroth with them."
+      }
+    },
+    {
+      "num": 21,
+      "geez": "ወአስተጋብኡ ፡ በበነግህ ፡ ለለርእሱ ፡ ወእምከመ ፡ ሞቀ ፡ ፀሐይ ፡ ይምሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአስተጋብኡ",
+          "t": "wäʾäsətägabəʾu",
+          "gl": ""
+        },
+        {
+          "g": "በበነግህ",
+          "t": "bäbänägəhə",
+          "gl": ""
+        },
+        {
+          "g": "ለለርእሱ",
+          "t": "lälärəʾəsu",
+          "gl": ""
+        },
+        {
+          "g": "ወእምከመ",
+          "t": "wäʾəməkämä",
+          "gl": ""
+        },
+        {
+          "g": "ሞቀ",
+          "t": "moqä",
+          "gl": ""
+        },
+        {
+          "g": "ፀሐይ",
+          "t": "ṣ́äḥäyə",
+          "gl": ""
+        },
+        {
+          "g": "ይምሁ",
+          "t": "yəməhu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they gathered it every morning, each man what he needed, and when the sun waxed hot it melted.",
+        "kjv": "And they gathered it every morning, every man according to his eating: and when the sun waxed hot, it melted."
+      }
+    },
+    {
+      "num": 22,
+      "geez": "ወበዕለተ ፡ ዐርብ ፡ ያስተጋብኡ ፡ ካዕበተ ፡ ጎሞር ፡ ለለአሐዱ ፡ ወቦአ ፡ ኵሉ ፡ መኳንንተ ፡ ማኅበር ፡ ወይቤልዎ ፡\n                  ለሙሴ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበዕለተ",
+          "t": "wäbäʿəlätä",
+          "gl": ""
+        },
+        {
+          "g": "ዐርብ",
+          "t": "ʿärəbə",
+          "gl": ""
+        },
+        {
+          "g": "ያስተጋብኡ",
+          "t": "yasətägabəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ካዕበተ",
+          "t": "kaʿəbätä",
+          "gl": ""
+        },
+        {
+          "g": "ጎሞር",
+          "t": "gomorə",
+          "gl": ""
+        },
+        {
+          "g": "ለለአሐዱ",
+          "t": "läläʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "ወቦአ",
+          "t": "wäboʾä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "መኳንንተ",
+          "t": "mäkwanənətä",
+          "gl": ""
+        },
+        {
+          "g": "ማኅበር",
+          "t": "maḫəbärə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤልዎ",
+          "t": "wäyəbeləwo",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it came to pass on the sixth day, they gathered double what was needed, two homers for one man; and all the chiefs of the synagogue went in and reported it to Moses.",
+        "kjv": "And it came to pass, that on the sixth day they gathered twice as much bread, two omers for one man: and all the rulers of the congregation came and told Moses."
+      }
+    },
+    {
+      "num": 23,
+      "geez": "ወይቤሎሙ ፡ ሙሴ ፡ ዝውእቱ ፡ ዘይቤሎሙ ፡ ሙሴ ፡ ሰንበተ ፡ ዕረፍት ፡ ወቡርክት ፡ ለእግዚአብሔር ፡ ጌሠመ ፤ ዘትግበሩ ፡\n                  ሀለወክሙ ፡ ግበሩ ፤ ወዘታብስሉ ፡ ሀለወክሙ ፡ አብስሉ ፤ ወዘተርፈ ፡ አትርፉ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎሙ",
+          "t": "wäyəbelomu",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ዝውእቱ",
+          "t": "zəwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይቤሎሙ",
+          "t": "zäyəbelomu",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ሰንበተ",
+          "t": "sänəbätä",
+          "gl": ""
+        },
+        {
+          "g": "ዕረፍት",
+          "t": "ʿəräfətə",
+          "gl": ""
+        },
+        {
+          "g": "ወቡርክት",
+          "t": "wäburəkətə",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ጌሠመ  ዘትግበሩ",
+          "t": "geśämä  zätəgəbäru",
+          "gl": ""
+        },
+        {
+          "g": "ሀለወክሙ",
+          "t": "häläwäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ግበሩ  ወዘታብስሉ",
+          "t": "gəbäru  wäzätabəsəlu",
+          "gl": ""
+        },
+        {
+          "g": "ሀለወክሙ",
+          "t": "häläwäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "አብስሉ  ወዘተርፈ",
+          "t": "ʾäbəsəlu  wäzätärəfä",
+          "gl": ""
+        },
+        {
+          "g": "አትርፉ",
+          "t": "ʾätərəfu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Moses said to them, Is not this the word which the Lord spoke? To-morrow is the sabbath, a holy rest to the Lord: bake that ye will bake, and seethe that ye will seethe, and all that is over leave to be laid by for the morrow.",
+        "kjv": "And he said unto them, This is that which the LORD hath said, To morrow is the rest of the holy sabbath unto the LORD: bake that which ye will bake to day, and seethe that ye will seethe; and that which remaineth over lay up for you to be kept until the morning."
+      }
+    },
+    {
+      "num": 24,
+      "geez": "ወአትረፉ ፡ ለነግህ ፡ በከመ ፡ አዘዘ ፡ ሙሴ ፡ ወኢጼአ ፡ ወዕጼሂ ፡ ኢተፈጥረ ፡ በላዕሌሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአትረፉ",
+          "t": "wäʾätəräfu",
+          "gl": ""
+        },
+        {
+          "g": "ለነግህ",
+          "t": "länägəhə",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "አዘዘ",
+          "t": "ʾäzäzä",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ወኢጼአ",
+          "t": "wäʾiṣeʾä",
+          "gl": ""
+        },
+        {
+          "g": "ወዕጼሂ",
+          "t": "wäʿəṣehi",
+          "gl": ""
+        },
+        {
+          "g": "ኢተፈጥረ",
+          "t": "ʾitäfäṭərä",
+          "gl": ""
+        },
+        {
+          "g": "በላዕሌሁ",
+          "t": "bälaʿəlehu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they left of it till the morning, as Moses commanded them; and it stank not, neither was there a worm in it.",
+        "kjv": "And they laid it up till the morning, as Moses bade: and it did not stink, neither was there any worm therein."
+      }
+    },
+    {
+      "num": 25,
+      "geez": "ወይቤሎሙ ፡ ሙሴ ፡ ብልዑ ፡ ዮም ፡ እስመ ፡ ዮም ፡ ሰንበት ፡ ዘእግዚአብሔር ፡ ኢትረክቡ ፡ በገዳም ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎሙ",
+          "t": "wäyəbelomu",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ብልዑ",
+          "t": "bələʿu",
+          "gl": ""
+        },
+        {
+          "g": "ዮም",
+          "t": "yomə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ዮም",
+          "t": "yomə",
+          "gl": ""
+        },
+        {
+          "g": "ሰንበት",
+          "t": "sänəbätə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእግዚአብሔር",
+          "t": "zäʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ኢትረክቡ",
+          "t": "ʾitəräkəbu",
+          "gl": ""
+        },
+        {
+          "g": "በገዳም",
+          "t": "bägädamə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Moses said, Eat that to-day, for to-day is a sabbath to the Lord: it shall not be found in the plain.",
+        "kjv": "And Moses said, Eat that to day; for to day is a sabbath unto the LORD: to day ye shall not find it in the field."
+      }
+    },
+    {
+      "num": 26,
+      "geez": "ሰዱሰ ፡ ዕለተ ፡ ታስተጋብኡ ፡ ወአመ ፡ ሳብዕት ፡ ዕለት ፡ ሰንበት ፡ አሜሃ ፡ ኢትረክቡ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ሰዱሰ",
+          "t": "sädusä",
+          "gl": ""
+        },
+        {
+          "g": "ዕለተ",
+          "t": "ʿəlätä",
+          "gl": ""
+        },
+        {
+          "g": "ታስተጋብኡ",
+          "t": "tasətägabəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ወአመ",
+          "t": "wäʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ሳብዕት",
+          "t": "sabəʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "ሰንበት",
+          "t": "sänəbätə",
+          "gl": ""
+        },
+        {
+          "g": "አሜሃ",
+          "t": "ʾämeha",
+          "gl": ""
+        },
+        {
+          "g": "ኢትረክቡ",
+          "t": "ʾitəräkəbu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Six days ye shall gather it, and on the seventh day is a sabbath, for there shall be none on that day.",
+        "kjv": "Six days ye shall gather it; but on the seventh day, which is the sabbath, in it there shall be none."
+      }
+    },
+    {
+      "num": 27,
+      "geez": "ወአመ ፡ ሳብዕት ፡ ዕለት ፡ ቦዘወፅአ ፡ እምውስተ ፡ ሕዝብ ፡ ከመ ፡ ያስተጋብእ ፡ ወኢረከበ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአመ",
+          "t": "wäʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ሳብዕት",
+          "t": "sabəʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "ቦዘወፅአ",
+          "t": "bozäwäṣ́əʾä",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ያስተጋብእ",
+          "t": "yasətägabəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢረከበ",
+          "t": "wäʾiräkäbä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it came to pass on the seventh day that some of the people went forth to gather, and found none.",
+        "kjv": "And it came to pass, that there went out some of the people on the seventh day for to gather, and they found none."
+      }
+    },
+    {
+      "num": 28,
+      "geez": "ወይቤሎ ፡ እግዚአብሔር ፡ ለሙሴ ፡ እስከ ፡ ማእዜ ፡ ተአብዩ ፡ ትእዛዝየ ፡ ሰሚዐ ፡ ወሕግየ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ማእዜ",
+          "t": "maʾəze",
+          "gl": ""
+        },
+        {
+          "g": "ተአብዩ",
+          "t": "täʾäbəyu",
+          "gl": ""
+        },
+        {
+          "g": "ትእዛዝየ",
+          "t": "təʾəzazəyä",
+          "gl": ""
+        },
+        {
+          "g": "ሰሚዐ",
+          "t": "sämiʿä",
+          "gl": ""
+        },
+        {
+          "g": "ወሕግየ",
+          "t": "wäḥəgəyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord said to Moses, How long are ye unwilling to hearken to my commands and my law?",
+        "kjv": "And the LORD said unto Moses, How long refuse ye to keep my commandments and my laws?"
+      }
+    },
+    {
+      "num": 29,
+      "geez": "ርእዩ ፡ እግዚአብሔር ፡ ወሀበክሙ ፡ ዘዕለተ ፡ ሰንበት ፡ በእንተዝ ፡ ወሀበክሙ ፡ በዕለተ ፡ ዐርብ ፡ ምሳሐ ፡ ለክልኤ ፡\n                  ዕለት ፡ ወይንበር ፡ ብእሲ ፡ ብእሲ ፡ ውስተ ፡ ማኅደሩ ፡ ወኢይፃእ ፡ እምንባሪሁ ፡ አመ ፡ ዕለተ ፡ ሰንበት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ርእዩ",
+          "t": "rəʾəyu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወሀበክሙ",
+          "t": "wähäbäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ዘዕለተ",
+          "t": "zäʿəlätä",
+          "gl": ""
+        },
+        {
+          "g": "ሰንበት",
+          "t": "sänəbätə",
+          "gl": ""
+        },
+        {
+          "g": "በእንተዝ",
+          "t": "bäʾənətäzə",
+          "gl": ""
+        },
+        {
+          "g": "ወሀበክሙ",
+          "t": "wähäbäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "በዕለተ",
+          "t": "bäʿəlätä",
+          "gl": ""
+        },
+        {
+          "g": "ዐርብ",
+          "t": "ʿärəbə",
+          "gl": ""
+        },
+        {
+          "g": "ምሳሐ",
+          "t": "məsaḥä",
+          "gl": ""
+        },
+        {
+          "g": "ለክልኤ",
+          "t": "läkələʾe",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "ወይንበር",
+          "t": "wäyənəbärə",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ማኅደሩ",
+          "t": "maḫədäru",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይፃእ",
+          "t": "wäʾiyəṣ́aʾə",
+          "gl": ""
+        },
+        {
+          "g": "እምንባሪሁ",
+          "t": "ʾəmənəbarihu",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ዕለተ",
+          "t": "ʿəlätä",
+          "gl": ""
+        },
+        {
+          "g": "ሰንበት",
+          "t": "sänəbätə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "See, for the Lord has given you this day as the sabbath, therefore he has given you on the sixth day the bread of two days: ye shall sit each of you in your houses; let no one go forth from his place on the seventh day.",
+        "kjv": "See, for that the LORD hath given you the sabbath, therefore he giveth you on the sixth day the bread of two days; abide ye every man in his place, let no man go out of his place on the seventh day."
+      }
+    },
+    {
+      "num": 30,
+      "geez": "ወአሰንበተ ፡ ሕዝብ ፡ በዕለተ ፡ ሰንበት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአሰንበተ",
+          "t": "wäʾäsänəbätä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "በዕለተ",
+          "t": "bäʿəlätä",
+          "gl": ""
+        },
+        {
+          "g": "ሰንበት",
+          "t": "sänəbätə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the people kept sabbath on the seventh day.",
+        "kjv": "So the people rested on the seventh day."
+      }
+    },
+    {
+      "num": 31,
+      "geez": "ወሰመይዎ ፡ ውሉደ ፡ እስራኤል ፡ መና ፡ ወከመ ፡ ፍሬ ፡ ተቅዳ ፡ ጸዐዳ ፡ ወጣዕሙ ፡ ከመ ፡ ኢያተ ፡ መዓር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሰመይዎ",
+          "t": "wäsämäyəwo",
+          "gl": ""
+        },
+        {
+          "g": "ውሉደ",
+          "t": "wəludä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "መና",
+          "t": "mäna",
+          "gl": ""
+        },
+        {
+          "g": "ወከመ",
+          "t": "wäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ፍሬ",
+          "t": "fəre",
+          "gl": ""
+        },
+        {
+          "g": "ተቅዳ",
+          "t": "täqəda",
+          "gl": ""
+        },
+        {
+          "g": "ጸዐዳ",
+          "t": "ṣäʿäda",
+          "gl": ""
+        },
+        {
+          "g": "ወጣዕሙ",
+          "t": "wäṭaʿəmu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ኢያተ",
+          "t": "ʾiyatä",
+          "gl": ""
+        },
+        {
+          "g": "መዓር",
+          "t": "mäʿarə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the children of Israel called the name of it Man; and it was as white coriander seed, and the taste of it as a wafer with honey.",
+        "kjv": "And the house of Israel called the name thereof Manna: and it was like coriander seed, white; and the taste of it was like wafers made with honey."
+      }
+    },
+    {
+      "num": 32,
+      "geez": "ወይቤ ፡ ሙሴ ፡ ዝቃል ፡ ዘአዘዘ ፡ እግዚአብሔር ፡ ከመ ፡ ትምልኡ ፡ ጎሞር ፡ መና ፡ ውስተ ፡ መሣይምቲክሙ ፡ ለዘመድክሙ\n                  ፡ ከመ ፡ ይርአዩ ፡ ኅብስተ ፡ ዘበላዕክሙ ፡ አንትሙ ፡ በገዳም ፡ አመ ፡ አውፅአክሙ ፡ እግዚአብሔር ፡ እምድረ ፡ ግብጽ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ዝቃል",
+          "t": "zəqalə",
+          "gl": ""
+        },
+        {
+          "g": "ዘአዘዘ",
+          "t": "zäʾäzäzä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ትምልኡ",
+          "t": "təmələʾu",
+          "gl": ""
+        },
+        {
+          "g": "ጎሞር",
+          "t": "gomorə",
+          "gl": ""
+        },
+        {
+          "g": "መና",
+          "t": "mäna",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "መሣይምቲክሙ",
+          "t": "mäśayəmətikəmu",
+          "gl": ""
+        },
+        {
+          "g": "ለዘመድክሙ",
+          "t": "läzämädəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይርአዩ",
+          "t": "yərəʾäyu",
+          "gl": ""
+        },
+        {
+          "g": "ኅብስተ",
+          "t": "ḫəbəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዘበላዕክሙ",
+          "t": "zäbälaʿəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "አንትሙ",
+          "t": "ʾänətəmu",
+          "gl": ""
+        },
+        {
+          "g": "በገዳም",
+          "t": "bägädamə",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "አውፅአክሙ",
+          "t": "ʾäwəṣ́əʾäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "እምድረ",
+          "t": "ʾəmədərä",
+          "gl": ""
+        },
+        {
+          "g": "ግብጽ",
+          "t": "gəbəṣə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Moses said, This is the thing which the Lord hath commanded, Fill an homer with manna, to be laid up for your generations; that they may see the bread which ye ate in the wilderness, when the Lord led you forth out of the land of Egypt.",
+        "kjv": "And Moses said, This is the thing which the LORD commandeth, Fill an omer of it to be kept for your generations; that they may see the bread wherewith I have fed you in the wilderness, when I brought you forth from the land of Egypt."
+      }
+    },
+    {
+      "num": 33,
+      "geez": "ወይቤሎ ፡ ሙሴ ፡ ለአሮን ፡ ንሣእ ፡ ቈጽለ ፡ ወርቅ ፡ አሐተ ፡ ረቃቀ ፡ ወግሉ ፡ ባቲ ፡ ጎሞር ፡ ዘመና ፡ ወታነብራ ፡\n                  ቅድመ ፡ እግዚአብሔር ፡ ለደኃሪ ፡ መዋዕል ፡ ለአዝማዲክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ለአሮን",
+          "t": "läʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ንሣእ",
+          "t": "nəśaʾə",
+          "gl": ""
+        },
+        {
+          "g": "ቈጽለ",
+          "t": "qwäṣəlä",
+          "gl": ""
+        },
+        {
+          "g": "ወርቅ",
+          "t": "wärəqə",
+          "gl": ""
+        },
+        {
+          "g": "አሐተ",
+          "t": "ʾäḥätä",
+          "gl": ""
+        },
+        {
+          "g": "ረቃቀ",
+          "t": "räqaqä",
+          "gl": ""
+        },
+        {
+          "g": "ወግሉ",
+          "t": "wägəlu",
+          "gl": ""
+        },
+        {
+          "g": "ባቲ",
+          "t": "bati",
+          "gl": ""
+        },
+        {
+          "g": "ጎሞር",
+          "t": "gomorə",
+          "gl": ""
+        },
+        {
+          "g": "ዘመና",
+          "t": "zämäna",
+          "gl": ""
+        },
+        {
+          "g": "ወታነብራ",
+          "t": "wätanäbəra",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለደኃሪ",
+          "t": "lädäḫari",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕል",
+          "t": "mäwaʿələ",
+          "gl": ""
+        },
+        {
+          "g": "ለአዝማዲክሙ",
+          "t": "läʾäzəmadikəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Moses said to Aaron, Take a golden pot, and cast into it one full homer of manna; and thou shalt lay it up before God, to be kept for your generations,",
+        "kjv": "And Moses said unto Aaron, Take a pot, and put an omer full of manna therein, and lay it up before the LORD, to be kept for your generations."
+      }
+    },
+    {
+      "num": 34,
+      "geez": "እስመ ፡ ከመዝ ፡ አዘዞ ፡ እግዚአብሔር ፡ ለሙሴ ፡ [ወአንበሮ ፡ አሮን ፡] በቅድመ ፡ መርጡል ፡ ከመ ፡ ይትዐቀብ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ከመዝ",
+          "t": "kämäzə",
+          "gl": ""
+        },
+        {
+          "g": "አዘዞ",
+          "t": "ʾäzäzo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ወአንበሮ",
+          "t": "wäʾänəbäro",
+          "gl": ""
+        },
+        {
+          "g": "አሮን",
+          "t": "ʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "በቅድመ",
+          "t": "bäqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "መርጡል",
+          "t": "märəṭulə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይትዐቀብ",
+          "t": "yətəʿäqäbə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "as the Lord commanded Moses: and Aaron laid it up before the testimony to be kept.",
+        "kjv": "As the LORD commanded Moses, so Aaron laid it up before the Testimony, to be kept."
+      }
+    },
+    {
+      "num": 35,
+      "geez": "[ወ]ውሉደ ፡ እስራኤል ፡ በልዑ ፡ መና ፡ ፴ክረምተ ፡ እስከ ፡ ይበጽሑ ፡ ምድረ ፡ ኀበ ፡ ያነብሮሙ ፡ በልዑ ፡ መና ፡\n                  እስከ ፡ ይበጽሑ ፡ ደወለ ፡ ፊኒቅ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወውሉደ",
+          "t": "wäwəludä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "በልዑ",
+          "t": "bäləʿu",
+          "gl": ""
+        },
+        {
+          "g": "መና",
+          "t": "mäna",
+          "gl": ""
+        },
+        {
+          "g": "፴ክረምተ",
+          "t": "30kərämətä",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ይበጽሑ",
+          "t": "yəbäṣəḥu",
+          "gl": ""
+        },
+        {
+          "g": "ምድረ",
+          "t": "mədərä",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ያነብሮሙ",
+          "t": "yanäbəromu",
+          "gl": ""
+        },
+        {
+          "g": "በልዑ",
+          "t": "bäləʿu",
+          "gl": ""
+        },
+        {
+          "g": "መና",
+          "t": "mäna",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ይበጽሑ",
+          "t": "yəbäṣəḥu",
+          "gl": ""
+        },
+        {
+          "g": "ደወለ",
+          "t": "däwälä",
+          "gl": ""
+        },
+        {
+          "g": "ፊኒቅ",
+          "t": "finiqə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the children of Israel ate manna forty years, until they came to the land they ate the manna, until they came to the region of Phœnicia.",
+        "kjv": "And the children of Israel did eat manna forty years, until they came to a land inhabited; they did eat manna, until they came unto the borders of the land of Canaan."
+      }
+    },
+    {
+      "num": 36,
+      "geez": "ወጎሞር ፡ ዐሠርቱ ፡ እድ ፡ ዘ፫መስፈርት ፡ ይእቲ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወጎሞር",
+          "t": "wägomorə",
+          "gl": ""
+        },
+        {
+          "g": "ዐሠርቱ",
+          "t": "ʿäśärətu",
+          "gl": ""
+        },
+        {
+          "g": "እድ",
+          "t": "ʾədə",
+          "gl": ""
+        },
+        {
+          "g": "ዘ፫መስፈርት",
+          "t": "zä3mäsəfärətə",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Now the homer was the tenth part of three measures.",
+        "kjv": "Now an omer is the tenth part of an ephah."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

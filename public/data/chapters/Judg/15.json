@@ -1,0 +1,1988 @@
+{
+  "book": "Judg",
+  "chapter": 15,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወእምድኅረ ፡ መዋዕል ፡ አመ ፡ ማአረረ ፡ ስርናይ ፡ ኀወጻ ፡ ሶምሶን ፡ ለብእሲቱ ፡ ወአምጽኣ ፡ ላቲ ፡ ማሕሥአ ፡ ጠሊ\n                  ፡ ወይቤ ፡ እባእ ፡ ኀበ ፡ ብእሲትየ ፡ ውስተ ፡ ጽርሕ ፡ ወከልኦ ፡ አቡሃ ፡ በዊአ ፡ ኀቤሃ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእምድኅረ",
+          "t": "wäʾəmədəḫərä",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕል",
+          "t": "mäwaʿələ",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ማአረረ",
+          "t": "maʾärärä",
+          "gl": ""
+        },
+        {
+          "g": "ስርናይ",
+          "t": "sərənayə",
+          "gl": ""
+        },
+        {
+          "g": "ኀወጻ",
+          "t": "ḫäwäṣa",
+          "gl": ""
+        },
+        {
+          "g": "ሶምሶን",
+          "t": "soməsonə",
+          "gl": ""
+        },
+        {
+          "g": "ለብእሲቱ",
+          "t": "läbəʾəsitu",
+          "gl": ""
+        },
+        {
+          "g": "ወአምጽኣ",
+          "t": "wäʾäməṣəʾa",
+          "gl": ""
+        },
+        {
+          "g": "ላቲ",
+          "t": "lati",
+          "gl": ""
+        },
+        {
+          "g": "ማሕሥአ",
+          "t": "maḥəśəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ጠሊ",
+          "t": "ṭäli",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "እባእ",
+          "t": "ʾəbaʾə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲትየ",
+          "t": "bəʾəsitəyä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ጽርሕ",
+          "t": "ṣərəḥə",
+          "gl": ""
+        },
+        {
+          "g": "ወከልኦ",
+          "t": "wäkäləʾo",
+          "gl": ""
+        },
+        {
+          "g": "አቡሃ",
+          "t": "ʾäbuha",
+          "gl": ""
+        },
+        {
+          "g": "በዊአ",
+          "t": "bäwiʾä",
+          "gl": ""
+        },
+        {
+          "g": "ኀቤሃ",
+          "t": "ḫäbeha",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it came to pass after a time, in the days of wheat harvest, that Sampson visited his wife with a kid, and said, I will go in to my wife even into the chamber: but her father did not suffer him to go in.",
+        "kjv": "But it came to pass within a while after, in the time of wheat harvest, that Samson visited his wife with a kid; and he said, I will go in to my wife into the chamber. But her father would not suffer him to go in."
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ወይቤሎ ፡ አቡሃ ፡ እስመ ፡ ትቤ ፡ ጸላእክዋ ፡ ወሀብክዎ ፡ ለካልእከ ፡ ወባሕቱ ፡ [ነያ ፡] እኅታ ፡ እንተ ፡ ትንእሳ\n                  ፡ ወትሤንያ ፡ ወትኩንከ ፡ ህየንቴሃ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "አቡሃ",
+          "t": "ʾäbuha",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ትቤ",
+          "t": "təbe",
+          "gl": ""
+        },
+        {
+          "g": "ጸላእክዋ",
+          "t": "ṣälaʾəkəwa",
+          "gl": ""
+        },
+        {
+          "g": "ወሀብክዎ",
+          "t": "wähäbəkəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለካልእከ",
+          "t": "läkaləʾəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወባሕቱ",
+          "t": "wäbaḥətu",
+          "gl": ""
+        },
+        {
+          "g": "ነያ",
+          "t": "näya",
+          "gl": ""
+        },
+        {
+          "g": "እኅታ",
+          "t": "ʾəḫəta",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ትንእሳ",
+          "t": "tənəʾəsa",
+          "gl": ""
+        },
+        {
+          "g": "ወትሤንያ",
+          "t": "wätəśenəya",
+          "gl": ""
+        },
+        {
+          "g": "ወትኩንከ",
+          "t": "wätəkunəkä",
+          "gl": ""
+        },
+        {
+          "g": "ህየንቴሃ",
+          "t": "həyänəteha",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And her father spoke, saying, I said that thou didst surely hate her, and I gave her to one of thy friends: is not her younger sister better than she? let her be to thee instead of her.",
+        "kjv": "And her father said, I verily thought that thou hadst utterly hated her; therefore I gave her to thy companion: is not her younger sister fairer than she? take her, I pray thee, instead of her."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወይቤ ፡ ሶምሶን ፡ ንጹሕ ፡ አነ ፡ ምዕረ ፡ እምነ ፡ አሎፍል ፡ እስመ ፡ አነ ፡ እገብር ፡ እኪተ ፡ ምስሌክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "ሶምሶን",
+          "t": "soməsonə",
+          "gl": ""
+        },
+        {
+          "g": "ንጹሕ",
+          "t": "nəṣuḥə",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "ምዕረ",
+          "t": "məʿərä",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "አሎፍል",
+          "t": "ʾälofələ",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "እገብር",
+          "t": "ʾəgäbərə",
+          "gl": ""
+        },
+        {
+          "g": "እኪተ",
+          "t": "ʾəkitä",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌክሙ",
+          "t": "məsəlekəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Sampson said to them, Even for once am I guiltless with regard to the Philistines, in that I do mischief among them.",
+        "kjv": "And Samson said concerning them, Now shall I be more blameless than the Philistines, though I do them a displeasure."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወሖረ ፡ ሶምሶን ፡ ወአኀዘ ፡ ሠለስተ ፡ ምእተ ፡ ቈናጽለ ፡ ወነሥአ ፡ መኃትወ ፡ ወአሰረ ፡ ውስተ ፡ አዝናቢሆሙ ፡\n                  ወወደየ ፡ አሐተ ፡ ማኅቶተ ፡ ማእከለ ፡ ክልኤቱ ፡ አዝናቢሆሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሖረ",
+          "t": "wäḥorä",
+          "gl": ""
+        },
+        {
+          "g": "ሶምሶን",
+          "t": "soməsonə",
+          "gl": ""
+        },
+        {
+          "g": "ወአኀዘ",
+          "t": "wäʾäḫäzä",
+          "gl": ""
+        },
+        {
+          "g": "ሠለስተ",
+          "t": "śäläsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምእተ",
+          "t": "məʾətä",
+          "gl": ""
+        },
+        {
+          "g": "ቈናጽለ",
+          "t": "qwänaṣəlä",
+          "gl": ""
+        },
+        {
+          "g": "ወነሥአ",
+          "t": "wänäśəʾä",
+          "gl": ""
+        },
+        {
+          "g": "መኃትወ",
+          "t": "mäḫatəwä",
+          "gl": ""
+        },
+        {
+          "g": "ወአሰረ",
+          "t": "wäʾäsärä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አዝናቢሆሙ",
+          "t": "ʾäzənabihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወወደየ",
+          "t": "wäwädäyä",
+          "gl": ""
+        },
+        {
+          "g": "አሐተ",
+          "t": "ʾäḥätä",
+          "gl": ""
+        },
+        {
+          "g": "ማኅቶተ",
+          "t": "maḫətotä",
+          "gl": ""
+        },
+        {
+          "g": "ማእከለ",
+          "t": "maʾəkälä",
+          "gl": ""
+        },
+        {
+          "g": "ክልኤቱ",
+          "t": "kələʾetu",
+          "gl": ""
+        },
+        {
+          "g": "አዝናቢሆሙ",
+          "t": "ʾäzənabihomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Sampson went and caught three hundred foxes, and took torches, and turned tail to tail, and put a torch between two tails, and fastened it.",
+        "kjv": "And Samson went and caught three hundred foxes, and took firebrands, and turned tail to tail, and put a firebrand in the midst between two tails."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወአኅተወ ፡ እሳተ ፡ ውስተ ፡ ውእቱ ፡ መኃትው ፡ ወፈነዎሙ ፡ ውስተ ፡ ክልስስታት ፡ ዘአሎፍል ፡ ወአውዐዩ ፡ ሠዊተ ፡\n                  ወክምረ ፡ ዘተዐፅደ ፡ ወዘይቀውም ፡ ወዘውጡሕ ፡ ወአዕጻዳተ ፡ ወይን ፡ ወዘዘይት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአኅተወ",
+          "t": "wäʾäḫətäwä",
+          "gl": ""
+        },
+        {
+          "g": "እሳተ",
+          "t": "ʾəsatä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "መኃትው",
+          "t": "mäḫatəwə",
+          "gl": ""
+        },
+        {
+          "g": "ወፈነዎሙ",
+          "t": "wäfänäwomu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ክልስስታት",
+          "t": "kələsəsətatə",
+          "gl": ""
+        },
+        {
+          "g": "ዘአሎፍል",
+          "t": "zäʾälofələ",
+          "gl": ""
+        },
+        {
+          "g": "ወአውዐዩ",
+          "t": "wäʾäwəʿäyu",
+          "gl": ""
+        },
+        {
+          "g": "ሠዊተ",
+          "t": "śäwitä",
+          "gl": ""
+        },
+        {
+          "g": "ወክምረ",
+          "t": "wäkəmərä",
+          "gl": ""
+        },
+        {
+          "g": "ዘተዐፅደ",
+          "t": "zätäʿäṣ́ədä",
+          "gl": ""
+        },
+        {
+          "g": "ወዘይቀውም",
+          "t": "wäzäyəqäwəmə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘውጡሕ",
+          "t": "wäzäwəṭuḥə",
+          "gl": ""
+        },
+        {
+          "g": "ወአዕጻዳተ",
+          "t": "wäʾäʿəṣadatä",
+          "gl": ""
+        },
+        {
+          "g": "ወይን",
+          "t": "wäyənə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘዘይት",
+          "t": "wäzäzäyətə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he set fire to the torches, and sent the foxes into the corn of the Philistines; and every thing was burnt from the threshing floor to the standing corn, and even to the vineyard and olives.",
+        "kjv": "And when he had set the brands on fire, he let them go into the standing corn of the Philistines, and burnt up both the shocks, and also the standing corn, with the vineyards and olives."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወይቤሉ ፡ አሎፍል ፡ መኑ ፡ ገብረ ፡ ዘንተ ፡ ወይቤልዎሙ ፡ ሶምሶን ፡ ሐሙሁ ፡ ለተምናታዊ ፡ እስመ ፡ ሄድዎ ፡ ብእሲቶ\n                  ፡ ወወሀብዋ ፡ ለካልኡ ፡ ወዐርጉ ፡ አሎፍል ፡ ወአውዐዩ ፡ ቤተ ፡ አቡሃ ፡ ወኪያሃኒ ፡ ወአቡሃኒ ፡ በእሳት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሉ",
+          "t": "wäyəbelu",
+          "gl": ""
+        },
+        {
+          "g": "አሎፍል",
+          "t": "ʾälofələ",
+          "gl": ""
+        },
+        {
+          "g": "መኑ",
+          "t": "mänu",
+          "gl": ""
+        },
+        {
+          "g": "ገብረ",
+          "t": "gäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ዘንተ",
+          "t": "zänətä",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤልዎሙ",
+          "t": "wäyəbeləwomu",
+          "gl": ""
+        },
+        {
+          "g": "ሶምሶን",
+          "t": "soməsonə",
+          "gl": ""
+        },
+        {
+          "g": "ሐሙሁ",
+          "t": "ḥämuhu",
+          "gl": ""
+        },
+        {
+          "g": "ለተምናታዊ",
+          "t": "lätämənatawi",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ሄድዎ",
+          "t": "hedəwo",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲቶ",
+          "t": "bəʾəsito",
+          "gl": ""
+        },
+        {
+          "g": "ወወሀብዋ",
+          "t": "wäwähäbəwa",
+          "gl": ""
+        },
+        {
+          "g": "ለካልኡ",
+          "t": "läkaləʾu",
+          "gl": ""
+        },
+        {
+          "g": "ወዐርጉ",
+          "t": "wäʿärəgu",
+          "gl": ""
+        },
+        {
+          "g": "አሎፍል",
+          "t": "ʾälofələ",
+          "gl": ""
+        },
+        {
+          "g": "ወአውዐዩ",
+          "t": "wäʾäwəʿäyu",
+          "gl": ""
+        },
+        {
+          "g": "ቤተ",
+          "t": "betä",
+          "gl": ""
+        },
+        {
+          "g": "አቡሃ",
+          "t": "ʾäbuha",
+          "gl": ""
+        },
+        {
+          "g": "ወኪያሃኒ",
+          "t": "wäkiyahani",
+          "gl": ""
+        },
+        {
+          "g": "ወአቡሃኒ",
+          "t": "wäʾäbuhani",
+          "gl": ""
+        },
+        {
+          "g": "በእሳት",
+          "t": "bäʾəsatə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Philistines said, Who has done these things? and they said, Sampson the son-in-law of the Thamnite, because he has taken his wife, and given her to one of his friends; and the Philistines went up, and burnt her and her father's house with fire.",
+        "kjv": "Then the Philistines said, Who hath done this? And they answered, Samson, the son in law of the Timnite, because he had taken his wife, and given her to his companion. And the Philistines came up, and burnt her and her father with fire."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወይቤሎሙ ፡ ሶምሶን ፡ እመሰ ፡ ገበርክሙ ፡ [ዘንተ ፡] ኢይፈቅድ ፤ በቀልየሰ ፡ እምነ ፡ አሐዱ ፡ ወለኵልክሙ ፡\n                  እምረሰይኩ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎሙ",
+          "t": "wäyəbelomu",
+          "gl": ""
+        },
+        {
+          "g": "ሶምሶን",
+          "t": "soməsonə",
+          "gl": ""
+        },
+        {
+          "g": "እመሰ",
+          "t": "ʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "ገበርክሙ",
+          "t": "gäbärəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ዘንተ",
+          "t": "zänətä",
+          "gl": ""
+        },
+        {
+          "g": "ኢይፈቅድ  በቀልየሰ",
+          "t": "ʾiyəfäqədə  bäqäləyäsä",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "ወለኵልክሙ",
+          "t": "wäläkwələkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እምረሰይኩ",
+          "t": "ʾəməräsäyəku",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Sampson said to them, Though ye may have dealt thus with her, verily I will be avenged of you, and afterwards I will cease.",
+        "kjv": "And Samson said unto them, Though ye have done this, yet will I be avenged of you, and after that I will cease."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወዘበጦሙ ፡ ሶምሶን ፡ ውስተ ፡ አቍያጸ ፡ እገሪሆሙ ፡ ወኮነ ፡ ዐቢይ ፡ ቀትል ፡ ወወረደ ፡ ሶምሶን ፡ ወነበረ ፡ ውስተ\n                  ፡ ፈለግ ፡ ውስተ ፡ በአተ ፡ ኤጣም ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዘበጦሙ",
+          "t": "wäzäbäṭomu",
+          "gl": ""
+        },
+        {
+          "g": "ሶምሶን",
+          "t": "soməsonə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አቍያጸ",
+          "t": "ʾäqwəyaṣä",
+          "gl": ""
+        },
+        {
+          "g": "እገሪሆሙ",
+          "t": "ʾəgärihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወኮነ",
+          "t": "wäkonä",
+          "gl": ""
+        },
+        {
+          "g": "ዐቢይ",
+          "t": "ʿäbiyə",
+          "gl": ""
+        },
+        {
+          "g": "ቀትል",
+          "t": "qätələ",
+          "gl": ""
+        },
+        {
+          "g": "ወወረደ",
+          "t": "wäwärädä",
+          "gl": ""
+        },
+        {
+          "g": "ሶምሶን",
+          "t": "soməsonə",
+          "gl": ""
+        },
+        {
+          "g": "ወነበረ",
+          "t": "wänäbärä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ፈለግ",
+          "t": "fälägə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "በአተ",
+          "t": "bäʾätä",
+          "gl": ""
+        },
+        {
+          "g": "ኤጣም",
+          "t": "ʾeṭamə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he smote them leg on thigh with a great overthrow; and went down and dwelt in a cave of the rock Etam.",
+        "kjv": "And he smote them hip and thigh with a great slaughter: and he went down and dwelt in the top of the rock Etam."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወዐርጉ ፡ አሎፍል ፡ ወኀደሩ ፡ ላዕለ ፡ ይሁዳ ፡ ወተዐዝሩ ፡ ላዕለ ፡ ሌ[ሒ] ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዐርጉ",
+          "t": "wäʿärəgu",
+          "gl": ""
+        },
+        {
+          "g": "አሎፍል",
+          "t": "ʾälofələ",
+          "gl": ""
+        },
+        {
+          "g": "ወኀደሩ",
+          "t": "wäḫädäru",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይሁዳ",
+          "t": "yəhuda",
+          "gl": ""
+        },
+        {
+          "g": "ወተዐዝሩ",
+          "t": "wätäʿäzəru",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሌሒ",
+          "t": "leḥi",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Philistines went up, and encamped in Juda, and spread themselves abroad in Lechi.",
+        "kjv": "Then the Philistines went up, and pitched in Judah, and spread themselves in Lehi."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወይቤልዎሙ ፡ ኵሉ ፡ ሰብአ ፡ ይሁዳ ፡ ለምንት ፡ ዐረግሙ ፡ ላዕሌነ ፡ ወይቤሉ ፡ አሎፍል ፡ ከመ ፡ ንእስሮ ፡ ለሶምሶን\n                  ፡ ዐረግነ ፡ ወንግበሮ ፡ በከመ ፡ ገብረነ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤልዎሙ",
+          "t": "wäyəbeləwomu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ሰብአ",
+          "t": "säbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ይሁዳ",
+          "t": "yəhuda",
+          "gl": ""
+        },
+        {
+          "g": "ለምንት",
+          "t": "lämənətə",
+          "gl": ""
+        },
+        {
+          "g": "ዐረግሙ",
+          "t": "ʿärägəmu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌነ",
+          "t": "laʿəlenä",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሉ",
+          "t": "wäyəbelu",
+          "gl": ""
+        },
+        {
+          "g": "አሎፍል",
+          "t": "ʾälofələ",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ንእስሮ",
+          "t": "nəʾəsəro",
+          "gl": ""
+        },
+        {
+          "g": "ለሶምሶን",
+          "t": "läsoməsonə",
+          "gl": ""
+        },
+        {
+          "g": "ዐረግነ",
+          "t": "ʿärägənä",
+          "gl": ""
+        },
+        {
+          "g": "ወንግበሮ",
+          "t": "wänəgəbäro",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ገብረነ",
+          "t": "gäbəränä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the men of Juda said, Why are ye come up against us? and the Philistines said, We are come up to bind Sampson, and to do to him as he has done to us.",
+        "kjv": "And the men of Judah said, Why are ye come up against us? And they answered, To bind Samson are we come up, to do to him as he hath done to us."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወወረዱ ፡ ሠላሳ ፡ ምእት ፡ ብእሲ ፡ እምነ ፡ ይሁዳ ፡ ኀበ ፡ በአተ ፡ ኰኵሕ ፡ ዘኤጣም ፡ ወይቤልዎ ፡ ለሶምሶን ፡\n                  ኢታአምርኑ ፡ ከመ ፡ አሎፍል ፡ ይኴንኑነ ፡ ለምንት ፡ ከመዝ ፡ ገበርከ ፡ ላዕሌነ ፡ ወይቤሎሙ ፡ ሶምሶን ፡ በከመ ፡ ገብሩ ፡\n                  ላዕሌክሙ ፡ ከማሁ ፡ ገበርኩ ፡ ላዕሌሆሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወወረዱ",
+          "t": "wäwärädu",
+          "gl": ""
+        },
+        {
+          "g": "ሠላሳ",
+          "t": "śälasa",
+          "gl": ""
+        },
+        {
+          "g": "ምእት",
+          "t": "məʾətə",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ይሁዳ",
+          "t": "yəhuda",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "በአተ",
+          "t": "bäʾätä",
+          "gl": ""
+        },
+        {
+          "g": "ኰኵሕ",
+          "t": "kwäkwəḥə",
+          "gl": ""
+        },
+        {
+          "g": "ዘኤጣም",
+          "t": "zäʾeṭamə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤልዎ",
+          "t": "wäyəbeləwo",
+          "gl": ""
+        },
+        {
+          "g": "ለሶምሶን",
+          "t": "läsoməsonə",
+          "gl": ""
+        },
+        {
+          "g": "ኢታአምርኑ",
+          "t": "ʾitaʾämərənu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "አሎፍል",
+          "t": "ʾälofələ",
+          "gl": ""
+        },
+        {
+          "g": "ይኴንኑነ",
+          "t": "yəkwenənunä",
+          "gl": ""
+        },
+        {
+          "g": "ለምንት",
+          "t": "lämənətə",
+          "gl": ""
+        },
+        {
+          "g": "ከመዝ",
+          "t": "kämäzə",
+          "gl": ""
+        },
+        {
+          "g": "ገበርከ",
+          "t": "gäbärəkä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌነ",
+          "t": "laʿəlenä",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎሙ",
+          "t": "wäyəbelomu",
+          "gl": ""
+        },
+        {
+          "g": "ሶምሶን",
+          "t": "soməsonə",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ገብሩ",
+          "t": "gäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌክሙ",
+          "t": "laʿəlekəmu",
+          "gl": ""
+        },
+        {
+          "g": "ከማሁ",
+          "t": "kämahu",
+          "gl": ""
+        },
+        {
+          "g": "ገበርኩ",
+          "t": "gäbärəku",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሆሙ",
+          "t": "laʿəlehomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the three thousand men of Juda went down to the hole of the rock Etam, and they said to Sampson, Knowest thou not that the Philistines rule over us? and what is this that thou hast done to us? and Sampson said to them, As they did to me, so have I done to them.",
+        "kjv": "Then three thousand men of Judah went to the top of the rock Etam, and said to Samson, Knowest thou not that the Philistines are rulers over us? what is this that thou hast done unto us? And he said unto them, As they did unto me, so have I done unto them."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወይቤልዎ ፡ ከመ ፡ ንእስርከ ፡ ወረድነ ፡ ወናግብእከ ፡ ውስተ ፡ እዴሆሙ ፡ ለአሎፍል ፡ ወይቤሎሙ ፡ ሶምሶን ፡ መሐሉ ፡\n                  ሊተ ፡ አንትሙ ፡ ከመ ፡ ኢትቅትሉኒ ፡ አንትሙ ፡ ወአግብኡኒ ፡ ሎሙ ፡ ወአንትሙሰ ፡ ኢትትራከቡ ፡ ምስሌየ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤልዎ",
+          "t": "wäyəbeləwo",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ንእስርከ",
+          "t": "nəʾəsərəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወረድነ",
+          "t": "wärädənä",
+          "gl": ""
+        },
+        {
+          "g": "ወናግብእከ",
+          "t": "wänagəbəʾəkä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሆሙ",
+          "t": "ʾədehomu",
+          "gl": ""
+        },
+        {
+          "g": "ለአሎፍል",
+          "t": "läʾälofələ",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎሙ",
+          "t": "wäyəbelomu",
+          "gl": ""
+        },
+        {
+          "g": "ሶምሶን",
+          "t": "soməsonə",
+          "gl": ""
+        },
+        {
+          "g": "መሐሉ",
+          "t": "mäḥälu",
+          "gl": ""
+        },
+        {
+          "g": "ሊተ",
+          "t": "litä",
+          "gl": ""
+        },
+        {
+          "g": "አንትሙ",
+          "t": "ʾänətəmu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ኢትቅትሉኒ",
+          "t": "ʾitəqətəluni",
+          "gl": ""
+        },
+        {
+          "g": "አንትሙ",
+          "t": "ʾänətəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወአግብኡኒ",
+          "t": "wäʾägəbəʾuni",
+          "gl": ""
+        },
+        {
+          "g": "ሎሙ",
+          "t": "lomu",
+          "gl": ""
+        },
+        {
+          "g": "ወአንትሙሰ",
+          "t": "wäʾänətəmusä",
+          "gl": ""
+        },
+        {
+          "g": "ኢትትራከቡ",
+          "t": "ʾitətərakäbu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌየ",
+          "t": "məsəleyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they said to him, We are come down to bind thee to deliver thee into the hand of the Philistines: and Sampson said to them, Swear to me that ye will not fall upon me yourselves.",
+        "kjv": "And they said unto him, We are come down to bind thee, that we may deliver thee into the hand of the Philistines. And Samson said unto them, Swear unto me, that ye will not fall upon me yourselves."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወመሐሉ ፡ ሎቱ ፡ ወይቤልዎ ፡ አልቦ ፡ ዳእሙ ፡ ነአስረከ ፡ በማእስር ፡ ወናገብአከ ፡ ውስተ ፡ እዴሆሙ ፡ ወቀቲለሰ ፡\n                  ኢንቀትለከ ፡ ወአሰርዎ ፡ በክልኤቱ ፡ መፃምድ ፡ ሐደስት ፡ ወአውፅአዎ ፡ እምነ ፡ ይእቲ ፡ ኰኵሕ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወመሐሉ",
+          "t": "wämäḥälu",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤልዎ",
+          "t": "wäyəbeləwo",
+          "gl": ""
+        },
+        {
+          "g": "አልቦ",
+          "t": "ʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ዳእሙ",
+          "t": "daʾəmu",
+          "gl": ""
+        },
+        {
+          "g": "ነአስረከ",
+          "t": "näʾäsəräkä",
+          "gl": ""
+        },
+        {
+          "g": "በማእስር",
+          "t": "bämaʾəsərə",
+          "gl": ""
+        },
+        {
+          "g": "ወናገብአከ",
+          "t": "wänagäbəʾäkä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሆሙ",
+          "t": "ʾədehomu",
+          "gl": ""
+        },
+        {
+          "g": "ወቀቲለሰ",
+          "t": "wäqätiläsä",
+          "gl": ""
+        },
+        {
+          "g": "ኢንቀትለከ",
+          "t": "ʾinəqätəläkä",
+          "gl": ""
+        },
+        {
+          "g": "ወአሰርዎ",
+          "t": "wäʾäsärəwo",
+          "gl": ""
+        },
+        {
+          "g": "በክልኤቱ",
+          "t": "bäkələʾetu",
+          "gl": ""
+        },
+        {
+          "g": "መፃምድ",
+          "t": "mäṣ́amədə",
+          "gl": ""
+        },
+        {
+          "g": "ሐደስት",
+          "t": "ḥädäsətə",
+          "gl": ""
+        },
+        {
+          "g": "ወአውፅአዎ",
+          "t": "wäʾäwəṣ́əʾäwo",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ኰኵሕ",
+          "t": "kwäkwəḥə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they spoke to him, saying, Nay, but we will only bind thee fast, and deliver thee into their hand, and will by no means slay thee: and they bound him with two new ropes, and brought him from that rock.",
+        "kjv": "And they spake unto him, saying, No; but we will bind thee fast, and deliver thee into their hand: but surely we will not kill thee. And they bound him with two new cords, and brought him up from the rock."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወበጽሐ ፡ እስከነ ፡ ኀበ ፡ ዐጽመ ፡ መንከስ ፡ ወወውዑ ፡ አሎፍል ፡ ወተቀበልዎ ፡ ወሮጹ ፡ ላዕሌሁ ፡ ወመጽአ ፡ ላዕሌሁ\n                  ፡ መንፈሰ ፡ እግዚአብሔር ፡ ወኮኑ ፡ እልክቱ ፡ መፃምድ ፡ እለ ፡ ውስተ ፡ መዝራእቱ ፡ ከመ ፡ ሶበ ፡ ያጼኑ ፡ እሳተ ፡\n                  ኀሠር ፡ ወተፈትሐ ፡ ማኅሜሁ ፡ እምነ ፡ መዝራእቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበጽሐ",
+          "t": "wäbäṣəḥä",
+          "gl": ""
+        },
+        {
+          "g": "እስከነ",
+          "t": "ʾəsəkänä",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ዐጽመ",
+          "t": "ʿäṣəmä",
+          "gl": ""
+        },
+        {
+          "g": "መንከስ",
+          "t": "mänəkäsə",
+          "gl": ""
+        },
+        {
+          "g": "ወወውዑ",
+          "t": "wäwäwəʿu",
+          "gl": ""
+        },
+        {
+          "g": "አሎፍል",
+          "t": "ʾälofələ",
+          "gl": ""
+        },
+        {
+          "g": "ወተቀበልዎ",
+          "t": "wätäqäbäləwo",
+          "gl": ""
+        },
+        {
+          "g": "ወሮጹ",
+          "t": "wäroṣu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ወመጽአ",
+          "t": "wämäṣəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "መንፈሰ",
+          "t": "mänəfäsä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወኮኑ",
+          "t": "wäkonu",
+          "gl": ""
+        },
+        {
+          "g": "እልክቱ",
+          "t": "ʾələkətu",
+          "gl": ""
+        },
+        {
+          "g": "መፃምድ",
+          "t": "mäṣ́amədə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "መዝራእቱ",
+          "t": "mäzəraʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ሶበ",
+          "t": "sobä",
+          "gl": ""
+        },
+        {
+          "g": "ያጼኑ",
+          "t": "yaṣenu",
+          "gl": ""
+        },
+        {
+          "g": "እሳተ",
+          "t": "ʾəsatä",
+          "gl": ""
+        },
+        {
+          "g": "ኀሠር",
+          "t": "ḫäśärə",
+          "gl": ""
+        },
+        {
+          "g": "ወተፈትሐ",
+          "t": "wätäfätəḥä",
+          "gl": ""
+        },
+        {
+          "g": "ማኅሜሁ",
+          "t": "maḫəmehu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "መዝራእቱ",
+          "t": "mäzəraʾətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they came to Lechi: and the Philistines shouted, and ran to meet him: and the Spirit of the Lord came mightily upon him, and the ropes that were upon his arms became as tow which is burnt with fire; and his bonds were consumed from off his hands.",
+        "kjv": "And when he came unto Lehi, the Philistines shouted against him: and the Spirit of the LORD came mightily upon him, and the cords that were upon his arms became as flax that was burnt with fire, and his bands loosed from off his hands."
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ወረከበ ፡ ዐጽመ ፡ መንከስ ፡ ዘአድግ ፡ ግዱፈ ፡ ውስተ ፡ ፍኖት ፡ ወአትሐተ ፡ እዴሁ ፡ ወተመጠዋ ፡ ወቀተለ ፡ ባቲ ፡\n                  ዐሠርተ ፡ ምእተ ፡ ብእሴ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወረከበ",
+          "t": "wäräkäbä",
+          "gl": ""
+        },
+        {
+          "g": "ዐጽመ",
+          "t": "ʿäṣəmä",
+          "gl": ""
+        },
+        {
+          "g": "መንከስ",
+          "t": "mänəkäsə",
+          "gl": ""
+        },
+        {
+          "g": "ዘአድግ",
+          "t": "zäʾädəgə",
+          "gl": ""
+        },
+        {
+          "g": "ግዱፈ",
+          "t": "gədufä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ፍኖት",
+          "t": "fənotə",
+          "gl": ""
+        },
+        {
+          "g": "ወአትሐተ",
+          "t": "wäʾätəḥätä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        },
+        {
+          "g": "ወተመጠዋ",
+          "t": "wätämäṭäwa",
+          "gl": ""
+        },
+        {
+          "g": "ወቀተለ",
+          "t": "wäqätälä",
+          "gl": ""
+        },
+        {
+          "g": "ባቲ",
+          "t": "bati",
+          "gl": ""
+        },
+        {
+          "g": "ዐሠርተ",
+          "t": "ʿäśärətä",
+          "gl": ""
+        },
+        {
+          "g": "ምእተ",
+          "t": "məʾətä",
+          "gl": ""
+        },
+        {
+          "g": "ብእሴ",
+          "t": "bəʾəse",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he found the jaw-bone of an ass that had been cast away, and he put forth his hand and took it, and smote with it a thousand men.",
+        "kjv": "And he found a new jawbone of an ass, and put forth his hand, and took it, and slew a thousand men therewith."
+      }
+    },
+    {
+      "num": 16,
+      "geez": "ወይቤ ፡ ሶምሶን ፡ በዐጽመ ፡ መንከሰ ፡ አድግ ፡ ደምስሶ ፡ ደምሰስክዎሙ ፡ እስመ ፡ በዐጽመ ፡ መንከሰ ፡ አድግ ፡\n                  ቀተልኩ ፡ ዐሠርተ ፡ ምእተ ፡ ብእሴ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "ሶምሶን",
+          "t": "soməsonə",
+          "gl": ""
+        },
+        {
+          "g": "በዐጽመ",
+          "t": "bäʿäṣəmä",
+          "gl": ""
+        },
+        {
+          "g": "መንከሰ",
+          "t": "mänəkäsä",
+          "gl": ""
+        },
+        {
+          "g": "አድግ",
+          "t": "ʾädəgə",
+          "gl": ""
+        },
+        {
+          "g": "ደምስሶ",
+          "t": "däməsəso",
+          "gl": ""
+        },
+        {
+          "g": "ደምሰስክዎሙ",
+          "t": "däməsäsəkəwomu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "በዐጽመ",
+          "t": "bäʿäṣəmä",
+          "gl": ""
+        },
+        {
+          "g": "መንከሰ",
+          "t": "mänəkäsä",
+          "gl": ""
+        },
+        {
+          "g": "አድግ",
+          "t": "ʾädəgə",
+          "gl": ""
+        },
+        {
+          "g": "ቀተልኩ",
+          "t": "qätäləku",
+          "gl": ""
+        },
+        {
+          "g": "ዐሠርተ",
+          "t": "ʿäśärətä",
+          "gl": ""
+        },
+        {
+          "g": "ምእተ",
+          "t": "məʾətä",
+          "gl": ""
+        },
+        {
+          "g": "ብእሴ",
+          "t": "bəʾəse",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Sampson said, With the jaw-bone of an ass I have utterly destroyed them, for with the jaw-bone of an ass I have smitten a thousand men.",
+        "kjv": "And Samson said, With the jawbone of an ass, heaps upon heaps, with the jaw of an ass have I slain a thousand men."
+      }
+    },
+    {
+      "num": 17,
+      "geez": "ወእምዝ ፡ ሶበ ፡ አኅለቀ ፡ ነቢበ ፡ ገደፋ ፡ ለይእቲ ፡ ዐጽመ ፡ መንከስ ፡ እምነ ፡ እዴሁ ፡ ወሰመዮ ፡ ለውእቱ ፡\n                  መካን ፡ ቀትለ ፡ ዐጽመ ፡ መንከስ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእምዝ",
+          "t": "wäʾəməzə",
+          "gl": ""
+        },
+        {
+          "g": "ሶበ",
+          "t": "sobä",
+          "gl": ""
+        },
+        {
+          "g": "አኅለቀ",
+          "t": "ʾäḫəläqä",
+          "gl": ""
+        },
+        {
+          "g": "ነቢበ",
+          "t": "näbibä",
+          "gl": ""
+        },
+        {
+          "g": "ገደፋ",
+          "t": "gädäfa",
+          "gl": ""
+        },
+        {
+          "g": "ለይእቲ",
+          "t": "läyəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ዐጽመ",
+          "t": "ʿäṣəmä",
+          "gl": ""
+        },
+        {
+          "g": "መንከስ",
+          "t": "mänəkäsə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        },
+        {
+          "g": "ወሰመዮ",
+          "t": "wäsämäyo",
+          "gl": ""
+        },
+        {
+          "g": "ለውእቱ",
+          "t": "läwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "መካን",
+          "t": "mäkanə",
+          "gl": ""
+        },
+        {
+          "g": "ቀትለ",
+          "t": "qätəlä",
+          "gl": ""
+        },
+        {
+          "g": "ዐጽመ",
+          "t": "ʿäṣəmä",
+          "gl": ""
+        },
+        {
+          "g": "መንከስ",
+          "t": "mänəkäsə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it came to pass when he ceased speaking, that he cast the jaw-bone out of his hand; and he called that place the Lifting of the jaw-bone.",
+        "kjv": "And it came to pass, when he had made an end of speaking, that he cast away the jawbone out of his hand, and called that place Ramathlehi."
+      }
+    },
+    {
+      "num": 18,
+      "geez": "ወጸምአ ፡ ጥቀ ፡ ወጸርኀ ፡ ኀበ ፡ እግዚአብሔር ፡ ወይቤ ፡ አንተ ፡ አግባእከ ፡ ውስተ ፡ እደ ፡ ገብርከ ፡ ዛተ ፡\n                  ሕይወተ ፡ ዐባየ ፡ ወይእዜሰ ፡ እመውት ፡ በጽምእ ፡ ወእወድቅ ፡ ውስተ ፡ እዴሆሙ ፡ ለቈላፍያን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወጸምአ",
+          "t": "wäṣäməʾä",
+          "gl": ""
+        },
+        {
+          "g": "ጥቀ",
+          "t": "ṭəqä",
+          "gl": ""
+        },
+        {
+          "g": "ወጸርኀ",
+          "t": "wäṣärəḫä",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "አንተ",
+          "t": "ʾänətä",
+          "gl": ""
+        },
+        {
+          "g": "አግባእከ",
+          "t": "ʾägəbaʾəkä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እደ",
+          "t": "ʾədä",
+          "gl": ""
+        },
+        {
+          "g": "ገብርከ",
+          "t": "gäbərəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዛተ",
+          "t": "zatä",
+          "gl": ""
+        },
+        {
+          "g": "ሕይወተ",
+          "t": "ḥəyəwätä",
+          "gl": ""
+        },
+        {
+          "g": "ዐባየ",
+          "t": "ʿäbayä",
+          "gl": ""
+        },
+        {
+          "g": "ወይእዜሰ",
+          "t": "wäyəʾəzesä",
+          "gl": ""
+        },
+        {
+          "g": "እመውት",
+          "t": "ʾəmäwətə",
+          "gl": ""
+        },
+        {
+          "g": "በጽምእ",
+          "t": "bäṣəməʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወእወድቅ",
+          "t": "wäʾəwädəqə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሆሙ",
+          "t": "ʾədehomu",
+          "gl": ""
+        },
+        {
+          "g": "ለቈላፍያን",
+          "t": "läqwälafəyanə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he was very thirsty, and wept before the Lord, and said, Thou hast been well pleased to grant this great deliverance by the hand of thy servant, and now shall I die for thirst, and fall into the hand of the uncircumcised?",
+        "kjv": "And he was sore athirst, and called on the LORD, and said, Thou hast given this great deliverance into the hand of thy servant: and now shall I die for thirst, and fall into the hand of the uncircumcised?"
+      }
+    },
+    {
+      "num": 19,
+      "geez": "ወአርኀወ ፡ እግዚአብሔር ፡ ንቅዐታ ፡ ለይእቲ ፡ ዐጽመ ፡ መንከስ ፡ ወወፅአ ፡ እምኔሃ ፡ ማይ ፡ ወሰትየ ፡ ወገብአት ፡\n                  ነፍሱ ፡ ወአዕረፈ ፡ በበይነ ፡ ዝንቱ ፡ ተሰምየ ፡ ስሙ ፡ ለውእቱ ፡ መካን ፡ ነቅዐ ፡ ዐጽመ ፡ መንከስ ፡ እስከ ፡ ዮም ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአርኀወ",
+          "t": "wäʾärəḫäwä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ንቅዐታ",
+          "t": "nəqəʿäta",
+          "gl": ""
+        },
+        {
+          "g": "ለይእቲ",
+          "t": "läyəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ዐጽመ",
+          "t": "ʿäṣəmä",
+          "gl": ""
+        },
+        {
+          "g": "መንከስ",
+          "t": "mänəkäsə",
+          "gl": ""
+        },
+        {
+          "g": "ወወፅአ",
+          "t": "wäwäṣ́əʾä",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሃ",
+          "t": "ʾəməneha",
+          "gl": ""
+        },
+        {
+          "g": "ማይ",
+          "t": "mayə",
+          "gl": ""
+        },
+        {
+          "g": "ወሰትየ",
+          "t": "wäsätəyä",
+          "gl": ""
+        },
+        {
+          "g": "ወገብአት",
+          "t": "wägäbəʾätə",
+          "gl": ""
+        },
+        {
+          "g": "ነፍሱ",
+          "t": "näfəsu",
+          "gl": ""
+        },
+        {
+          "g": "ወአዕረፈ",
+          "t": "wäʾäʿəräfä",
+          "gl": ""
+        },
+        {
+          "g": "በበይነ",
+          "t": "bäbäyənä",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ተሰምየ",
+          "t": "täsäməyä",
+          "gl": ""
+        },
+        {
+          "g": "ስሙ",
+          "t": "səmu",
+          "gl": ""
+        },
+        {
+          "g": "ለውእቱ",
+          "t": "läwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "መካን",
+          "t": "mäkanə",
+          "gl": ""
+        },
+        {
+          "g": "ነቅዐ",
+          "t": "näqəʿä",
+          "gl": ""
+        },
+        {
+          "g": "ዐጽመ",
+          "t": "ʿäṣəmä",
+          "gl": ""
+        },
+        {
+          "g": "መንከስ",
+          "t": "mänəkäsə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዮም",
+          "t": "yomə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And God broke open a hollow place in the jaw, and there came thence water, and he drank; and his spirit returned and he revived: therefore the name of the fountain was called ‘The well of the invoker,’ which is in Lechi, until this day.",
+        "kjv": "But God clave an hollow place that was in the jaw, and there came water thereout; and when he had drunk, his spirit came again, and he revived: wherefore he called the name thereof Enhakkore, which is in Lehi unto this day."
+      }
+    },
+    {
+      "num": 20,
+      "geez": "ወኰነኖሙ ፡ ለእስራኤል ፡ በመዋዕለ ፡ አሎፍል ፡ ፳ዓመተ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኰነኖሙ",
+          "t": "wäkwänänomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእስራኤል",
+          "t": "läʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "በመዋዕለ",
+          "t": "bämäwaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "አሎፍል",
+          "t": "ʾälofələ",
+          "gl": ""
+        },
+        {
+          "g": "፳ዓመተ",
+          "t": "20ʿamätä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he judged Israel in the days of the Philistines twenty years.",
+        "kjv": "And he judged Israel in the days of the Philistines twenty years."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

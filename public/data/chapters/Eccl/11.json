@@ -1,0 +1,808 @@
+{
+  "book": "Eccl",
+  "chapter": 11,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ፈኑ፡ ኅብስተከ፡ ውስተ፡ ገጸ፡ ማይ፡ እስመ፡ በብዙኅ፡ መዋዕል፡ ትረክቦ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ፈኑ",
+          "t": "fänu",
+          "gl": ""
+        },
+        {
+          "g": "ኅብስተከ",
+          "t": "ḫəbəsətäkä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ገጸ",
+          "t": "gäṣä",
+          "gl": ""
+        },
+        {
+          "g": "ማይ",
+          "t": "mayə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "በብዙኅ",
+          "t": "bäbəzuḫə",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕል",
+          "t": "mäwaʿələ",
+          "gl": ""
+        },
+        {
+          "g": "ትረክቦ",
+          "t": "təräkəbo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Send forth thy bread upon the face of the water: for thou shalt find it after many days.",
+        "kjv": "Cast thy bread upon the waters: for thou shalt find it after many days."
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ሀብ፡ መክፈልተከ፡ ለሰብዓቱ፡ ወለሰመንቱ፡ እስመ፡ ኢተአምር፡ ዘይከውን፡ እኩየ፡ ውስተ፡ ምድር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ሀብ",
+          "t": "häbə",
+          "gl": ""
+        },
+        {
+          "g": "መክፈልተከ",
+          "t": "mäkəfälətäkä",
+          "gl": ""
+        },
+        {
+          "g": "ለሰብዓቱ",
+          "t": "läsäbəʿatu",
+          "gl": ""
+        },
+        {
+          "g": "ወለሰመንቱ",
+          "t": "wäläsämänətu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኢተአምር",
+          "t": "ʾitäʾämərə",
+          "gl": ""
+        },
+        {
+          "g": "ዘይከውን",
+          "t": "zäyəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "እኩየ",
+          "t": "ʾəkuyä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Give a portion to seven, and also to eight; for thou knowest not what evil there shall be upon the earth.",
+        "kjv": "Give a portion to seven, and also to eight; for thou knowest not what evil shall be upon the earth."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "እመ፡ መልአ፡ ደመና፡ ይክዑ፡ ዝናመ፡ ውስተ፡ ምድር፡ ወለእመ፡ ወድቀ፡ ዕፅ፡ ደቡበ፡ ወእመኒ፡ ሰሜነ፡ ወእደ፡ ወድቀ፡ ዕፅ፡ ህየ፡ ይሄሉ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እመ",
+          "t": "ʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "መልአ",
+          "t": "mäləʾä",
+          "gl": ""
+        },
+        {
+          "g": "ደመና",
+          "t": "dämäna",
+          "gl": ""
+        },
+        {
+          "g": "ይክዑ",
+          "t": "yəkəʿu",
+          "gl": ""
+        },
+        {
+          "g": "ዝናመ",
+          "t": "zənamä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ወለእመ",
+          "t": "wäläʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ወድቀ",
+          "t": "wädəqä",
+          "gl": ""
+        },
+        {
+          "g": "ዕፅ",
+          "t": "ʿəṣ́ə",
+          "gl": ""
+        },
+        {
+          "g": "ደቡበ",
+          "t": "däbubä",
+          "gl": ""
+        },
+        {
+          "g": "ወእመኒ",
+          "t": "wäʾəmäni",
+          "gl": ""
+        },
+        {
+          "g": "ሰሜነ",
+          "t": "sämenä",
+          "gl": ""
+        },
+        {
+          "g": "ወእደ",
+          "t": "wäʾədä",
+          "gl": ""
+        },
+        {
+          "g": "ወድቀ",
+          "t": "wädəqä",
+          "gl": ""
+        },
+        {
+          "g": "ዕፅ",
+          "t": "ʿəṣ́ə",
+          "gl": ""
+        },
+        {
+          "g": "ህየ",
+          "t": "həyä",
+          "gl": ""
+        },
+        {
+          "g": "ይሄሉ",
+          "t": "yəhelu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "If the clouds be filled with rain, they pour it out upon the earth: and if a tree fall southward, or if it fall northward, in the place where the tree shall fall, there it shall be.",
+        "kjv": "If the clouds be full of rain, they empty themselves upon the earth: and if the tree fall toward the south, or toward the north, in the place where the tree falleth, there it shall be."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ዘየዓቅብ፡ ነፋሰ፡ ኢይዘርእ፡ ወዘይኔጽር፡ ደመናተ፡ ኢየዓፅድ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዘየዓቅብ",
+          "t": "zäyäʿaqəbə",
+          "gl": ""
+        },
+        {
+          "g": "ነፋሰ",
+          "t": "näfasä",
+          "gl": ""
+        },
+        {
+          "g": "ኢይዘርእ",
+          "t": "ʾiyəzärəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘይኔጽር",
+          "t": "wäzäyəneṣərə",
+          "gl": ""
+        },
+        {
+          "g": "ደመናተ",
+          "t": "dämänatä",
+          "gl": ""
+        },
+        {
+          "g": "ኢየዓፅድ",
+          "t": "ʾiyäʿaṣ́ədə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "He that observes the wind sows not; and he that looks at the clouds will not reap.",
+        "kjv": "He that observeth the wind shall not sow; and he that regardeth the clouds shall not reap."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "እስመ፡ አልቦ፡ ዘየአምር፡ ምንት፡ ውእቱ፡ ፍኖተ፡ መንፈስ፡ ከመ፡ አዕፅምት፡ ውስተ፡ ከርሠ፡ ጽንስት፡ ከማሁ፡ ኢይትአመር፡ ግበሩ፡ ለእግዚአብሔር፡ መጠነ፡ ገብረ፡ ኵሎ፡ ኅቡረ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አልቦ",
+          "t": "ʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘየአምር",
+          "t": "zäyäʾämərə",
+          "gl": ""
+        },
+        {
+          "g": "ምንት",
+          "t": "mənətə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ፍኖተ",
+          "t": "fənotä",
+          "gl": ""
+        },
+        {
+          "g": "መንፈስ",
+          "t": "mänəfäsə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "አዕፅምት",
+          "t": "ʾäʿəṣ́əmətə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ከርሠ",
+          "t": "kärəśä",
+          "gl": ""
+        },
+        {
+          "g": "ጽንስት",
+          "t": "ṣənəsətə",
+          "gl": ""
+        },
+        {
+          "g": "ከማሁ",
+          "t": "kämahu",
+          "gl": ""
+        },
+        {
+          "g": "ኢይትአመር",
+          "t": "ʾiyətəʾämärə",
+          "gl": ""
+        },
+        {
+          "g": "ግበሩ",
+          "t": "gəbäru",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "መጠነ",
+          "t": "mäṭänä",
+          "gl": ""
+        },
+        {
+          "g": "ገብረ",
+          "t": "gäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ኅቡረ",
+          "t": "ḫəburä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Among whom none knows what is the way of the wind: as the bones are hid in the womb of a pregnant woman, so thou shalt not know the works of God, even all things whatsoever he shall do.",
+        "kjv": "As thou knowest not what is the way of the spirit, nor how the bones do grow in the womb of her that is with child: even so thou knowest not the works of God who maketh all."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "በነግህ፡ ዝራእ፡ ዘርአከ፡ ወበምሴትኒ፡ ኢትኅድግ፡ እዴከ፡ እስመ፡ ኢተአምር፡ አይ፡ ዘይከውን፡ እምዝ፡ ወእምዝ፡ ወእመ፡ ክልኤሆሙሰ፡ ኅቡረ፡ ሠናይ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "በነግህ",
+          "t": "bänägəhə",
+          "gl": ""
+        },
+        {
+          "g": "ዝራእ",
+          "t": "zəraʾə",
+          "gl": ""
+        },
+        {
+          "g": "ዘርአከ",
+          "t": "zärəʾäkä",
+          "gl": ""
+        },
+        {
+          "g": "ወበምሴትኒ",
+          "t": "wäbäməsetəni",
+          "gl": ""
+        },
+        {
+          "g": "ኢትኅድግ",
+          "t": "ʾitəḫədəgə",
+          "gl": ""
+        },
+        {
+          "g": "እዴከ",
+          "t": "ʾədekä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኢተአምር",
+          "t": "ʾitäʾämərə",
+          "gl": ""
+        },
+        {
+          "g": "አይ",
+          "t": "ʾäyə",
+          "gl": ""
+        },
+        {
+          "g": "ዘይከውን",
+          "t": "zäyəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "እምዝ",
+          "t": "ʾəməzə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምዝ",
+          "t": "wäʾəməzə",
+          "gl": ""
+        },
+        {
+          "g": "ወእመ",
+          "t": "wäʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ክልኤሆሙሰ",
+          "t": "kələʾehomusä",
+          "gl": ""
+        },
+        {
+          "g": "ኅቡረ",
+          "t": "ḫəburä",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይ",
+          "t": "śänayə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "In the morning sow thy seed, and in the evening let not thine hand be slack: for thou knowest not what sort shall prosper, whether this or that, or whether both shall be good alike.",
+        "kjv": "In the morning sow thy seed, and in the evening withhold not thine hand: for thou knowest not whether shall prosper, either this or that, or whether they both shall be alike good."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ጥዑም፡ ብርሃን፡ ወሠናይ፡ ለአዕይንት፡ ለርእየ፡ ኅብረ፡ ፀሐይ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ጥዑም",
+          "t": "ṭəʿumə",
+          "gl": ""
+        },
+        {
+          "g": "ብርሃን",
+          "t": "bərəhanə",
+          "gl": ""
+        },
+        {
+          "g": "ወሠናይ",
+          "t": "wäśänayə",
+          "gl": ""
+        },
+        {
+          "g": "ለአዕይንት",
+          "t": "läʾäʿəyənətə",
+          "gl": ""
+        },
+        {
+          "g": "ለርእየ",
+          "t": "lärəʾəyä",
+          "gl": ""
+        },
+        {
+          "g": "ኅብረ",
+          "t": "ḫəbərä",
+          "gl": ""
+        },
+        {
+          "g": "ፀሐይ",
+          "t": "ṣ́äḥäyə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Moreover the light is sweet, and it is good for the eyes to see the sun.",
+        "kjv": "Truly the light is sweet, and a pleasant thing it is for the eyes to behold the sun:"
+      }
+    },
+    {
+      "num": 8,
+      "geez": "እስመ፡ እመኒ፡ ዓመታተ፡ ብዙኀ፡ ሐይወ፡ ሰብእ፡ ወበኵሎን፡ ይትፌሣሕ፡ ወኢይዜከር፡ መዋዕለ፡ ጽልመት፡ ከመ፡ ብዙኃተ፡ ይከውና፡ ኵሉ፡ ዘይመጽእ፡ ከንቱ፡ ተፈሣሕ፡ ኦ፡ ብእሲ፡ በውርዙትከ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "እመኒ",
+          "t": "ʾəmäni",
+          "gl": ""
+        },
+        {
+          "g": "ዓመታተ",
+          "t": "ʿamätatä",
+          "gl": ""
+        },
+        {
+          "g": "ብዙኀ",
+          "t": "bəzuḫä",
+          "gl": ""
+        },
+        {
+          "g": "ሐይወ",
+          "t": "ḥäyəwä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወበኵሎን",
+          "t": "wäbäkwəlonə",
+          "gl": ""
+        },
+        {
+          "g": "ይትፌሣሕ",
+          "t": "yətəfeśaḥə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይዜከር",
+          "t": "wäʾiyəzekärə",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕለ",
+          "t": "mäwaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ጽልመት",
+          "t": "ṣələmätə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ብዙኃተ",
+          "t": "bəzuḫatä",
+          "gl": ""
+        },
+        {
+          "g": "ይከውና",
+          "t": "yəkäwəna",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይመጽእ",
+          "t": "zäyəmäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ከንቱ",
+          "t": "känətu",
+          "gl": ""
+        },
+        {
+          "g": "ተፈሣሕ",
+          "t": "täfäśaḥə",
+          "gl": ""
+        },
+        {
+          "g": "ኦ",
+          "t": "ʾo",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "በውርዙትከ",
+          "t": "bäwərəzutəkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For even if a man should live many years, and rejoice in them all; yet let him remember the days of darkness; for they shall be many. All that comes is vanity.",
+        "kjv": "But if a man live many years, and rejoice in them all; yet let him remember the days of darkness; for they shall be many. All that cometh is vanity."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወትሠኒ፡ ልብከ፡ በመዋዕለ፡ ውርዙትከ፡ ወሑር፡ በፍኖተ፡ ልብከ፡ ዘበንጽሕ፡ ወኢበርእየ፡ ዓይንከወአእምር፡ ከመ፡ በእንተዝ፡ ኵሉ፡ ያቀርበከ፡ እግዚአብሔር፡ ለኵነኔ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትሠኒ",
+          "t": "wätəśäni",
+          "gl": ""
+        },
+        {
+          "g": "ልብከ",
+          "t": "ləbəkä",
+          "gl": ""
+        },
+        {
+          "g": "በመዋዕለ",
+          "t": "bämäwaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ውርዙትከ",
+          "t": "wərəzutəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወሑር",
+          "t": "wäḥurə",
+          "gl": ""
+        },
+        {
+          "g": "በፍኖተ",
+          "t": "bäfənotä",
+          "gl": ""
+        },
+        {
+          "g": "ልብከ",
+          "t": "ləbəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዘበንጽሕ",
+          "t": "zäbänəṣəḥə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢበርእየ",
+          "t": "wäʾibärəʾəyä",
+          "gl": ""
+        },
+        {
+          "g": "ዓይንከወአእምር",
+          "t": "ʿayənəkäwäʾäʾəmərə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "በእንተዝ",
+          "t": "bäʾənətäzə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ያቀርበከ",
+          "t": "yaqärəbäkä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለኵነኔ",
+          "t": "läkwənäne",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Rejoice, O young man, in thy youth; and let thy heart cheer thee in the days of thy youth, and walk in the ways of thy heart blameless, but not in the sight of thine eyes: yet know that for all these things God will bring thee into judgment.",
+        "kjv": "Rejoice, O young man, in thy youth; and let thy heart cheer thee in the days of thy youth, and walk in the ways of thine heart, and in the sight of thine eyes: but know thou, that for all these things God will bring thee into judgment."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወአርኅቅ፡ መዓተ፡ እምልብከ፡ ወአግኅሥ፡ እከየ፡ እምሥጋከ፡ እስመ፡ ውርዙት፡ ወጸሊመ፡ ሥሥዕርት፡ በኢያእምሮ፡ ከንቱ፡ ውእቱ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአርኅቅ",
+          "t": "wäʾärəḫəqə",
+          "gl": ""
+        },
+        {
+          "g": "መዓተ",
+          "t": "mäʿatä",
+          "gl": ""
+        },
+        {
+          "g": "እምልብከ",
+          "t": "ʾəmələbəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወአግኅሥ",
+          "t": "wäʾägəḫəśə",
+          "gl": ""
+        },
+        {
+          "g": "እከየ",
+          "t": "ʾəkäyä",
+          "gl": ""
+        },
+        {
+          "g": "እምሥጋከ",
+          "t": "ʾəməśəgakä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ውርዙት",
+          "t": "wərəzutə",
+          "gl": ""
+        },
+        {
+          "g": "ወጸሊመ",
+          "t": "wäṣälimä",
+          "gl": ""
+        },
+        {
+          "g": "ሥሥዕርት",
+          "t": "śəśəʿərətə",
+          "gl": ""
+        },
+        {
+          "g": "በኢያእምሮ",
+          "t": "bäʾiyaʾəməro",
+          "gl": ""
+        },
+        {
+          "g": "ከንቱ",
+          "t": "känətu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Therefore remove sorrow from thy heart, and put away evil from thy flesh: for youth and folly are vanity.",
+        "kjv": "Therefore remove sorrow from thy heart, and put away evil from thy flesh: for childhood and youth are vanity."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

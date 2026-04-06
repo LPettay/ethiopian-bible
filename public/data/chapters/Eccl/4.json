@@ -1,0 +1,1194 @@
+{
+  "book": "Eccl",
+  "chapter": 4,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወተመየጥኩ፡ አነ፡ ወርኢኩ፡ ኵሎ፡ ኅቡረ፡ ትዕግልተ፡ ዘይትገበር፡ እምታሕተ፡ ሰማይ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተመየጥኩ",
+          "t": "wätämäyäṭəku",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "ወርኢኩ",
+          "t": "wärəʾiku",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ኅቡረ",
+          "t": "ḫəburä",
+          "gl": ""
+        },
+        {
+          "g": "ትዕግልተ",
+          "t": "təʿəgələtä",
+          "gl": ""
+        },
+        {
+          "g": "ዘይትገበር",
+          "t": "zäyətəgäbärə",
+          "gl": ""
+        },
+        {
+          "g": "እምታሕተ",
+          "t": "ʾəmətaḥətä",
+          "gl": ""
+        },
+        {
+          "g": "ሰማይ",
+          "t": "sämayə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "So I returned, and saw all the oppressions that were done under the sun: and behold the tear of the oppressed, and they had no comforter; and on the side of them that oppressed them was power; but they had no comforter:",
+        "kjv": "So I returned, and considered all the oppressions that are done under the sun: and behold the tears of such as were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter."
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ወናሁ፡ አንብዕ፡ ላዕለ፡ እለ፡ ይትዔገልዎሙ፡ ወአልቦ፡ ዘይናዝዞሙ፡ እምእለ፡ ይትዔገልዎሙ፡ በኃይል።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወናሁ",
+          "t": "wänahu",
+          "gl": ""
+        },
+        {
+          "g": "አንብዕ",
+          "t": "ʾänəbəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይትዔገልዎሙ",
+          "t": "yətəʿegäləwomu",
+          "gl": ""
+        },
+        {
+          "g": "ወአልቦ",
+          "t": "wäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘይናዝዞሙ",
+          "t": "zäyənazəzomu",
+          "gl": ""
+        },
+        {
+          "g": "እምእለ",
+          "t": "ʾəməʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይትዔገልዎሙ",
+          "t": "yətəʿegäləwomu",
+          "gl": ""
+        },
+        {
+          "g": "በኃይል",
+          "t": "bäḫayələ",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and I praised all the dead that had already died more than the living, as many as are alive until now.",
+        "kjv": "Wherefore I praised the dead which are already dead more than the living which are yet alive."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወአስተኃየስክዎሙ፡ አነ፡ ለእለ፡ ሞቱ፡ ኅቡረ፡ እለ፡ ወድኡ፡ ሞተ፡ እምሕያዋን፡ ወእለ፡ እሙንቱ፡ ሕያዋን፡ እስከ፡ ይእዜ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአስተኃየስክዎሙ",
+          "t": "wäʾäsətäḫayäsəkəwomu",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "ለእለ",
+          "t": "läʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሞቱ",
+          "t": "motu",
+          "gl": ""
+        },
+        {
+          "g": "ኅቡረ",
+          "t": "ḫəburä",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ወድኡ",
+          "t": "wädəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ሞተ",
+          "t": "motä",
+          "gl": ""
+        },
+        {
+          "g": "እምሕያዋን",
+          "t": "ʾəməḥəyawanə",
+          "gl": ""
+        },
+        {
+          "g": "ወእለ",
+          "t": "wäʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "እሙንቱ",
+          "t": "ʾəmunətu",
+          "gl": ""
+        },
+        {
+          "g": "ሕያዋን",
+          "t": "ḥəyawanə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ይእዜ",
+          "t": "yəʾəze",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Better also than both these is he who has not yet been, who has not seen all the evil work that is done under the sun.",
+        "kjv": "Yea, better is he than both they, which hath not yet been, who hath not seen the evil work that is done under the sun."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወእምክልኤሆሙ፡ ይኄይስ፡ ዳሕፅ፡ ወዓዲ፡ ኢተፈጥሮ፡ ዘኢየአምር፡ ኵሎ፡ ገቢረ፡ እከይ፡ ዘተገብረ፡ መትሕተ፡ ፀሐይ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእምክልኤሆሙ",
+          "t": "wäʾəməkələʾehomu",
+          "gl": ""
+        },
+        {
+          "g": "ይኄይስ",
+          "t": "yəḫeyəsə",
+          "gl": ""
+        },
+        {
+          "g": "ዳሕፅ",
+          "t": "daḥəṣ́ə",
+          "gl": ""
+        },
+        {
+          "g": "ወዓዲ",
+          "t": "wäʿadi",
+          "gl": ""
+        },
+        {
+          "g": "ኢተፈጥሮ",
+          "t": "ʾitäfäṭəro",
+          "gl": ""
+        },
+        {
+          "g": "ዘኢየአምር",
+          "t": "zäʾiyäʾämərə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ገቢረ",
+          "t": "gäbirä",
+          "gl": ""
+        },
+        {
+          "g": "እከይ",
+          "t": "ʾəkäyə",
+          "gl": ""
+        },
+        {
+          "g": "ዘተገብረ",
+          "t": "zätägäbərä",
+          "gl": ""
+        },
+        {
+          "g": "መትሕተ",
+          "t": "mätəḥətä",
+          "gl": ""
+        },
+        {
+          "g": "ፀሐይ",
+          "t": "ṣ́äḥäyə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And I saw all labour, and all the diligent work, that this is a man's envy from his neighbour. This is also vanity and waywardness of spirit.",
+        "kjv": "Again, I considered all travail, and every right work, that for this a man is envied of his neighbour. This is also vanity and vexation of spirit."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወርኢኩ፡ አነ፡ ኵሎ፡ ሥራኀ፡ ኅቡረ፡ ወኵሎ፡ ኃይለ፡ ምግባር፡ ከመ፡ ውእቱ፡ ቅንእ፡ ለብእሲ፡ እምኀበ፡ ቢጹ፡ ወዝኒ፡ ከንቱ፡ ወፍትወተ፡ መንፈስ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወርኢኩ",
+          "t": "wärəʾiku",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ሥራኀ",
+          "t": "śəraḫä",
+          "gl": ""
+        },
+        {
+          "g": "ኅቡረ",
+          "t": "ḫəburä",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ኃይለ",
+          "t": "ḫayəlä",
+          "gl": ""
+        },
+        {
+          "g": "ምግባር",
+          "t": "məgəbarə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ቅንእ",
+          "t": "qənəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ለብእሲ",
+          "t": "läbəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "እምኀበ",
+          "t": "ʾəməḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ቢጹ",
+          "t": "biṣu",
+          "gl": ""
+        },
+        {
+          "g": "ወዝኒ",
+          "t": "wäzəni",
+          "gl": ""
+        },
+        {
+          "g": "ከንቱ",
+          "t": "känətu",
+          "gl": ""
+        },
+        {
+          "g": "ወፍትወተ",
+          "t": "wäfətəwätä",
+          "gl": ""
+        },
+        {
+          "g": "መንፈስ",
+          "t": "mänəfäsə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The fool folds his hands together, and eats his own flesh.",
+        "kjv": "The fool foldeth his hands together, and eateth his own flesh."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ዐብድ፡ ሐቀፈ፡ እዴሁ፡ ወበልዐ፡ ሥጋሁ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዐብድ",
+          "t": "ʿäbədə",
+          "gl": ""
+        },
+        {
+          "g": "ሐቀፈ",
+          "t": "ḥäqäfä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        },
+        {
+          "g": "ወበልዐ",
+          "t": "wäbäləʿä",
+          "gl": ""
+        },
+        {
+          "g": "ሥጋሁ",
+          "t": "śəgahu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Better is a handful of rest than two handfuls of trouble and waywardness of spirit.",
+        "kjv": "Better is an handful with quietness, than both the hands full with travail and vexation of spirit."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ሠናይ፡ ምልአ፡ እደ፡ በጽድቅ፡ እምነ፡ ክልኤቱ፡ ሕፍን፡ ዘበዓመፃ፡ ወዝኒ፡ ከንቱ፡ ወፍትወተ፡ መንፈስ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ሠናይ",
+          "t": "śänayə",
+          "gl": ""
+        },
+        {
+          "g": "ምልአ",
+          "t": "mələʾä",
+          "gl": ""
+        },
+        {
+          "g": "እደ",
+          "t": "ʾədä",
+          "gl": ""
+        },
+        {
+          "g": "በጽድቅ",
+          "t": "bäṣədəqə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ክልኤቱ",
+          "t": "kələʾetu",
+          "gl": ""
+        },
+        {
+          "g": "ሕፍን",
+          "t": "ḥəfənə",
+          "gl": ""
+        },
+        {
+          "g": "ዘበዓመፃ",
+          "t": "zäbäʿamäṣ́a",
+          "gl": ""
+        },
+        {
+          "g": "ወዝኒ",
+          "t": "wäzəni",
+          "gl": ""
+        },
+        {
+          "g": "ከንቱ",
+          "t": "känətu",
+          "gl": ""
+        },
+        {
+          "g": "ወፍትወተ",
+          "t": "wäfətəwätä",
+          "gl": ""
+        },
+        {
+          "g": "መንፈስ",
+          "t": "mänəfäsə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "So I returned, and saw vanity under the sun.",
+        "kjv": "Then I returned, and I saw vanity under the sun."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወተመየጥኩ፡ አነ፡ ወርኢኩ፡ ከንቶ፡ መትሕተ፡ ፀሐይ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተመየጥኩ",
+          "t": "wätämäyäṭəku",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "ወርኢኩ",
+          "t": "wärəʾiku",
+          "gl": ""
+        },
+        {
+          "g": "ከንቶ",
+          "t": "känəto",
+          "gl": ""
+        },
+        {
+          "g": "መትሕተ",
+          "t": "mätəḥətä",
+          "gl": ""
+        },
+        {
+          "g": "ፀሐይ",
+          "t": "ṣ́äḥäyə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "There is one alone, and there is not a second; yea, he has neither son nor brother: yet there is no end to all his labour; neither is his eye satisfied with wealth; and for whom do I labour, and deprive my soul of good? this is also vanity, and an evil trouble.",
+        "kjv": "There is one alone, and there is not a second; yea, he hath neither child nor brother: yet is there no end of all his labour; neither is his eye satisfied with riches; neither saith he, For whom do I labour, and bereave my soul of good? This is also vanity, yea, it is a sore travail."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወሀሎ፡ አሐዱ፡ ወአልቦ፡ ካልእ፡ ወልድ፡ ወእኊ፡ አልቦ፡ ወአልቦ፡ ፍጻሜ፡ ለኵሉ፡ ሥራሑ፡ ወዓይኑሂ፡ ኢይመልእ፡ ብዕለ፡ ወኢይቤ፡ ለመኑ፡ እሠርኅ፡ አነ፡ ወእቄቅያ፡ ለነፍስየ፡ እምብዕል፡ ወዝኒ፡ ከንቱ፡ ወሥራኅ፡ እኩይ፡ ውእቱ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሀሎ",
+          "t": "wähälo",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "ወአልቦ",
+          "t": "wäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ካልእ",
+          "t": "kaləʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወልድ",
+          "t": "wälədə",
+          "gl": ""
+        },
+        {
+          "g": "ወእኊ",
+          "t": "wäʾəḫwi",
+          "gl": ""
+        },
+        {
+          "g": "አልቦ",
+          "t": "ʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ወአልቦ",
+          "t": "wäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ፍጻሜ",
+          "t": "fəṣame",
+          "gl": ""
+        },
+        {
+          "g": "ለኵሉ",
+          "t": "läkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ሥራሑ",
+          "t": "śəraḥu",
+          "gl": ""
+        },
+        {
+          "g": "ወዓይኑሂ",
+          "t": "wäʿayənuhi",
+          "gl": ""
+        },
+        {
+          "g": "ኢይመልእ",
+          "t": "ʾiyəmäləʾə",
+          "gl": ""
+        },
+        {
+          "g": "ብዕለ",
+          "t": "bəʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይቤ",
+          "t": "wäʾiyəbe",
+          "gl": ""
+        },
+        {
+          "g": "ለመኑ",
+          "t": "lämänu",
+          "gl": ""
+        },
+        {
+          "g": "እሠርኅ",
+          "t": "ʾəśärəḫə",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "ወእቄቅያ",
+          "t": "wäʾəqeqəya",
+          "gl": ""
+        },
+        {
+          "g": "ለነፍስየ",
+          "t": "länäfəsəyä",
+          "gl": ""
+        },
+        {
+          "g": "እምብዕል",
+          "t": "ʾəməbəʿələ",
+          "gl": ""
+        },
+        {
+          "g": "ወዝኒ",
+          "t": "wäzəni",
+          "gl": ""
+        },
+        {
+          "g": "ከንቱ",
+          "t": "känətu",
+          "gl": ""
+        },
+        {
+          "g": "ወሥራኅ",
+          "t": "wäśəraḫə",
+          "gl": ""
+        },
+        {
+          "g": "እኩይ",
+          "t": "ʾəkuyə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Two are better than one, seeing they have a good reward for their labour.",
+        "kjv": "Two are better than one; because they have a good reward for their labour."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ይኄይሱ፡ ክልኤቱ፡ እምአሐዱ፡ እለ፡ ቦሙ፡ ዐስብ፡ ሠናይ፡ በፃማሆሙ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ይኄይሱ",
+          "t": "yəḫeyəsu",
+          "gl": ""
+        },
+        {
+          "g": "ክልኤቱ",
+          "t": "kələʾetu",
+          "gl": ""
+        },
+        {
+          "g": "እምአሐዱ",
+          "t": "ʾəməʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ቦሙ",
+          "t": "bomu",
+          "gl": ""
+        },
+        {
+          "g": "ዐስብ",
+          "t": "ʿäsəbə",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይ",
+          "t": "śänayə",
+          "gl": ""
+        },
+        {
+          "g": "በፃማሆሙ",
+          "t": "bäṣ́amahomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For if they fall, the one will lift up his fellow: but woe to him that is alone when he falls, and there is not a second to lift him up.",
+        "kjv": "For if they fall, the one will lift up his fellow: but woe to him that is alone when he falleth; for he hath not another to help him up."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "እስመ፡ እመ፡ ወድቀ፡ አሐዱ፡ ያነሥኦ፡ ካልኡ፡ አሌ፡ ሎቱ፡ ለአሐዱ፡ እመ፡ ወድቀ፡ አልቦ፡ ካልእ፡ ዘያነሥኦ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "እመ",
+          "t": "ʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ወድቀ",
+          "t": "wädəqä",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "ያነሥኦ",
+          "t": "yanäśəʾo",
+          "gl": ""
+        },
+        {
+          "g": "ካልኡ",
+          "t": "kaləʾu",
+          "gl": ""
+        },
+        {
+          "g": "አሌ",
+          "t": "ʾäle",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ለአሐዱ",
+          "t": "läʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "እመ",
+          "t": "ʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ወድቀ",
+          "t": "wädəqä",
+          "gl": ""
+        },
+        {
+          "g": "አልቦ",
+          "t": "ʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ካልእ",
+          "t": "kaləʾə",
+          "gl": ""
+        },
+        {
+          "g": "ዘያነሥኦ",
+          "t": "zäyanäśəʾo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Also if two should lie together, they also get heat: but how shall one be warmed alone?",
+        "kjv": "Again, if two lie together, then they have heat: but how can one be warm alone?"
+      }
+    },
+    {
+      "num": 12,
+      "geez": "እስመ፡ እመ፡ ኖሙ፡ ክልኤሆሙ፡ ይትማወቁ፡ ወአሐዱሰ፡ እፎ፡ ይትማወቅ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "እመ",
+          "t": "ʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኖሙ",
+          "t": "nomu",
+          "gl": ""
+        },
+        {
+          "g": "ክልኤሆሙ",
+          "t": "kələʾehomu",
+          "gl": ""
+        },
+        {
+          "g": "ይትማወቁ",
+          "t": "yətəmawäqu",
+          "gl": ""
+        },
+        {
+          "g": "ወአሐዱሰ",
+          "t": "wäʾäḥädusä",
+          "gl": ""
+        },
+        {
+          "g": "እፎ",
+          "t": "ʾəfo",
+          "gl": ""
+        },
+        {
+          "g": "ይትማወቅ",
+          "t": "yətəmawäqə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if one should prevail against him, the two shall withstand him; and a threefold cord shall not be quickly broken.",
+        "kjv": "And if one prevail against him, two shall withstand him; and a threefold cord is not quickly broken."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወእመ፡ ፀንዐ፡ ክልኤሆሙ፡ ይትቃወምዎ፡ ወፈትል፡ ሥሉስ፡ ፍጡነ፡ ኢይትበተክ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመ",
+          "t": "wäʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ፀንዐ",
+          "t": "ṣ́änəʿä",
+          "gl": ""
+        },
+        {
+          "g": "ክልኤሆሙ",
+          "t": "kələʾehomu",
+          "gl": ""
+        },
+        {
+          "g": "ይትቃወምዎ",
+          "t": "yətəqawäməwo",
+          "gl": ""
+        },
+        {
+          "g": "ወፈትል",
+          "t": "wäfätələ",
+          "gl": ""
+        },
+        {
+          "g": "ሥሉስ",
+          "t": "śəlusə",
+          "gl": ""
+        },
+        {
+          "g": "ፍጡነ",
+          "t": "fəṭunä",
+          "gl": ""
+        },
+        {
+          "g": "ኢይትበተክ",
+          "t": "ʾiyətəbätäkə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Better is a poor and wise child than an old and foolish king, who knows not how to take heed any longer.",
+        "kjv": "Better is a poor and a wise child than an old and foolish king, who will no more be admonished."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ይኄይስ፡ ቅኑይ፡ ነዳይ፡ ወጠቢብ፡ እምንጉሥ፡ ልሂቅ፡ ወዐብድ፡ ዘኢየአምር፡ ለነጽሮ፡ ከመ፡ እምቤተ፡ ሞቅሕ፡ ይወጽእ፡ ለነጊሥ፡ እስመ፡ በመንግሥቱ፡ ኮነ፡ ነዳየ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ይኄይስ",
+          "t": "yəḫeyəsə",
+          "gl": ""
+        },
+        {
+          "g": "ቅኑይ",
+          "t": "qənuyə",
+          "gl": ""
+        },
+        {
+          "g": "ነዳይ",
+          "t": "nädayə",
+          "gl": ""
+        },
+        {
+          "g": "ወጠቢብ",
+          "t": "wäṭäbibə",
+          "gl": ""
+        },
+        {
+          "g": "እምንጉሥ",
+          "t": "ʾəmənəguśə",
+          "gl": ""
+        },
+        {
+          "g": "ልሂቅ",
+          "t": "ləhiqə",
+          "gl": ""
+        },
+        {
+          "g": "ወዐብድ",
+          "t": "wäʿäbədə",
+          "gl": ""
+        },
+        {
+          "g": "ዘኢየአምር",
+          "t": "zäʾiyäʾämərə",
+          "gl": ""
+        },
+        {
+          "g": "ለነጽሮ",
+          "t": "länäṣəro",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "እምቤተ",
+          "t": "ʾəməbetä",
+          "gl": ""
+        },
+        {
+          "g": "ሞቅሕ",
+          "t": "moqəḥə",
+          "gl": ""
+        },
+        {
+          "g": "ይወጽእ",
+          "t": "yəwäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ለነጊሥ",
+          "t": "länägiśə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "በመንግሥቱ",
+          "t": "bämänəgəśətu",
+          "gl": ""
+        },
+        {
+          "g": "ኮነ",
+          "t": "konä",
+          "gl": ""
+        },
+        {
+          "g": "ነዳየ",
+          "t": "nädayä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For he shall come forth out of the house of the prisoners to reign, because he also that was in his kingdom has become poor.",
+        "kjv": "For out of prison he cometh to reign; whereas also he that is born in his kingdom becometh poor."
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ወርኢኩ፡ አነ፡ ኵሎ፡ ኅቡረ፡ እለ፡ ሕያዋን፡ እለ፡ ያንሶስዉ፡ መትሕተ፡ ፀሐይ፡ ምሳሌ፡ ወሬዛ፡ ካልእ፡ ህየንቴሁ፡ ይትነሣእ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወርኢኩ",
+          "t": "wärəʾiku",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ኅቡረ",
+          "t": "ḫəburä",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሕያዋን",
+          "t": "ḥəyawanə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ያንሶስዉ",
+          "t": "yanəsosəwu",
+          "gl": ""
+        },
+        {
+          "g": "መትሕተ",
+          "t": "mätəḥətä",
+          "gl": ""
+        },
+        {
+          "g": "ፀሐይ",
+          "t": "ṣ́äḥäyə",
+          "gl": ""
+        },
+        {
+          "g": "ምሳሌ",
+          "t": "məsale",
+          "gl": ""
+        },
+        {
+          "g": "ወሬዛ",
+          "t": "wäreza",
+          "gl": ""
+        },
+        {
+          "g": "ካልእ",
+          "t": "kaləʾə",
+          "gl": ""
+        },
+        {
+          "g": "ህየንቴሁ",
+          "t": "həyänətehu",
+          "gl": ""
+        },
+        {
+          "g": "ይትነሣእ",
+          "t": "yətənäśaʾə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "I beheld all the living who were walking under the sun, with the second youth who shall stand up in each one's place.",
+        "kjv": "I considered all the living which walk under the sun, with the second child that shall stand up in his stead."
+      }
+    },
+    {
+      "num": 16,
+      "geez": "ወአልቦ፡ ፍጻሜ፡ ለኵሉ፡ ሕዝብ፡ ለኵሎሙ፡ እለ፡ ኮኑ፡ እምቅድሜሁ፡ እስመ፡ ደኃርትኒ፡ ኢይትፌሥሑ፡ ቦቱ፡ እስመ፡ ዝኒ፡ ከንቱ፡ ወፍትወተ፡ መንፈስ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአልቦ",
+          "t": "wäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ፍጻሜ",
+          "t": "fəṣame",
+          "gl": ""
+        },
+        {
+          "g": "ለኵሉ",
+          "t": "läkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ለኵሎሙ",
+          "t": "läkwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኮኑ",
+          "t": "konu",
+          "gl": ""
+        },
+        {
+          "g": "እምቅድሜሁ",
+          "t": "ʾəməqədəmehu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ደኃርትኒ",
+          "t": "däḫarətəni",
+          "gl": ""
+        },
+        {
+          "g": "ኢይትፌሥሑ",
+          "t": "ʾiyətəfeśəḥu",
+          "gl": ""
+        },
+        {
+          "g": "ቦቱ",
+          "t": "botu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ዝኒ",
+          "t": "zəni",
+          "gl": ""
+        },
+        {
+          "g": "ከንቱ",
+          "t": "känətu",
+          "gl": ""
+        },
+        {
+          "g": "ወፍትወተ",
+          "t": "wäfətəwätä",
+          "gl": ""
+        },
+        {
+          "g": "መንፈስ",
+          "t": "mänəfäsə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "There is no end to all the people, to all who were before them: and the last shall not rejoice in him: for this also is vanity and waywardness of spirit.",
+        "kjv": "There is no end of all the people, even of all that have been before them: they also that come after shall not rejoice in him. Surely this also is vanity and vexation of spirit."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

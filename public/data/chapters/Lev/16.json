@@ -1,0 +1,3192 @@
+{
+  "book": "Lev",
+  "chapter": 16,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወነበቦ ፡ እግዚአብሔር ፡ ለሙሴ ፡ እምድኅረ ፡ ሞተ ፡ ክልኤሆሙ ፡ ደቂቀ ፡ አሮን ፡ በእንተ ፡ ዘአምጽኡ ፡ እሳተ ፡\n                  እምባዕድ ፡ ቅድመ ፡ እግዚአብሔር ፡ ወሞቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነበቦ",
+          "t": "wänäbäbo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "እምድኅረ",
+          "t": "ʾəmədəḫərä",
+          "gl": ""
+        },
+        {
+          "g": "ሞተ",
+          "t": "motä",
+          "gl": ""
+        },
+        {
+          "g": "ክልኤሆሙ",
+          "t": "kələʾehomu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "አሮን",
+          "t": "ʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ዘአምጽኡ",
+          "t": "zäʾäməṣəʾu",
+          "gl": ""
+        },
+        {
+          "g": "እሳተ",
+          "t": "ʾəsatä",
+          "gl": ""
+        },
+        {
+          "g": "እምባዕድ",
+          "t": "ʾəməbaʿədə",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወሞቱ",
+          "t": "wämotu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord spoke to Moses after the two sons of Aaron died in bringing strange fire before the Lord, so they died.",
+        "kjv": "And the LORD spake unto Moses after the death of the two sons of Aaron, when they offered before the LORD, and died;"
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ወይቤሎ ፡ እግዚአብሔር ፡ ለሙሴ ፡ እንዘ ፡ ይብል ፡ በሎ ፡ ለአሮን ፡ እኁከ ፡ ኢይባእ ፡ በኵሉ ፡ ሰዓት ፡ ውስተ ፡\n                  ቅድሳት ፡ ውስተ ፡ ውስጡ ፡ ለመንጦላዕት ፡ ቅድመ ፡ ምሥሃል ፡ ዘመልዕልተ ፡ ታቦት ፡ ወኢይመውት ፡ እምከመ ፡ ባሕቱ ፡\n                  በደመና ፡ አስተርአይኩ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ይብል",
+          "t": "yəbələ",
+          "gl": ""
+        },
+        {
+          "g": "በሎ",
+          "t": "bälo",
+          "gl": ""
+        },
+        {
+          "g": "ለአሮን",
+          "t": "läʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "እኁከ",
+          "t": "ʾəḫukä",
+          "gl": ""
+        },
+        {
+          "g": "ኢይባእ",
+          "t": "ʾiyəbaʾə",
+          "gl": ""
+        },
+        {
+          "g": "በኵሉ",
+          "t": "bäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ሰዓት",
+          "t": "säʿatə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ቅድሳት",
+          "t": "qədəsatə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ውስጡ",
+          "t": "wəsəṭu",
+          "gl": ""
+        },
+        {
+          "g": "ለመንጦላዕት",
+          "t": "lämänəṭolaʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ምሥሃል",
+          "t": "məśəhalə",
+          "gl": ""
+        },
+        {
+          "g": "ዘመልዕልተ",
+          "t": "zämäləʿələtä",
+          "gl": ""
+        },
+        {
+          "g": "ታቦት",
+          "t": "tabotə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይመውት",
+          "t": "wäʾiyəmäwətə",
+          "gl": ""
+        },
+        {
+          "g": "እምከመ",
+          "t": "ʾəməkämä",
+          "gl": ""
+        },
+        {
+          "g": "ባሕቱ",
+          "t": "baḥətu",
+          "gl": ""
+        },
+        {
+          "g": "በደመና",
+          "t": "bädämäna",
+          "gl": ""
+        },
+        {
+          "g": "አስተርአይኩ",
+          "t": "ʾäsətärəʾäyəku",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord said to Moses, Speak to Aaron thy brother, and let him not come in at all times into the holy place within the veil before the propitiatory, which is upon the ark of the testimony, and he shall not die; for I will appear in a cloud on the propitiatory.",
+        "kjv": "And the LORD said unto Moses, Speak unto Aaron thy brother, that he come not at all times into the holy place within the vail before the mercy seat, which is upon the ark; that he die not: for I will appear in the cloud upon the mercy seat."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "እምዝ ፡ ይባእ ፡ አሮን ፡ ውስተ ፡ ቅድሳት ፡ ምስለ ፡ ላህም ፡ ዘእምውስተ ፡ አልህምት ፡ ዘበእንተ ፡ ኀጢአት ፡ ወበግዕ\n                  ፡ ለ[መሥዋዕት] ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እምዝ",
+          "t": "ʾəməzə",
+          "gl": ""
+        },
+        {
+          "g": "ይባእ",
+          "t": "yəbaʾə",
+          "gl": ""
+        },
+        {
+          "g": "አሮን",
+          "t": "ʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ቅድሳት",
+          "t": "qədəsatə",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ላህም",
+          "t": "lahəmə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምውስተ",
+          "t": "zäʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አልህምት",
+          "t": "ʾäləhəmətə",
+          "gl": ""
+        },
+        {
+          "g": "ዘበእንተ",
+          "t": "zäbäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአት",
+          "t": "ḫäṭiʾätə",
+          "gl": ""
+        },
+        {
+          "g": "ወበግዕ",
+          "t": "wäbägəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ለመሥዋዕት",
+          "t": "lämäśəwaʿətə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Thus shall Aaron enter into the holy place; with a calf of the herd for a sin-offering, and having a ram for a whole-burnt-offering.",
+        "kjv": "Thus shall Aaron come into the holy place: with a young bullock for a sin offering, and a ram for a burnt offering."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወልብሰ ፡ ዐጌ ፡ ቅዱሰ ፡ ይልበስ ፡ ወቃሰ ፡ ዘዐጌ ፡ ይደይ ፡ ውስተ ፡ ሥጋሁ ፡ ወቅናተ ፡ ዘዐጌ ፡ ይቅነት ፡ ወልብሰ\n                  ፡ ዐጌ ፡ ዘቂዳርን ፡ ይልበስ ፡ እስመ ፡ አልባስ ፡ ቅዱስ ፡ ውእቱ ፡ ወተኀፂቦ ፡ በማይ ፡ ኵሎ ፡ ሥጋሁ ፡ ይልበሶሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወልብሰ",
+          "t": "wäləbəsä",
+          "gl": ""
+        },
+        {
+          "g": "ዐጌ",
+          "t": "ʿäge",
+          "gl": ""
+        },
+        {
+          "g": "ቅዱሰ",
+          "t": "qədusä",
+          "gl": ""
+        },
+        {
+          "g": "ይልበስ",
+          "t": "yələbäsə",
+          "gl": ""
+        },
+        {
+          "g": "ወቃሰ",
+          "t": "wäqasä",
+          "gl": ""
+        },
+        {
+          "g": "ዘዐጌ",
+          "t": "zäʿäge",
+          "gl": ""
+        },
+        {
+          "g": "ይደይ",
+          "t": "yədäyə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሥጋሁ",
+          "t": "śəgahu",
+          "gl": ""
+        },
+        {
+          "g": "ወቅናተ",
+          "t": "wäqənatä",
+          "gl": ""
+        },
+        {
+          "g": "ዘዐጌ",
+          "t": "zäʿäge",
+          "gl": ""
+        },
+        {
+          "g": "ይቅነት",
+          "t": "yəqənätə",
+          "gl": ""
+        },
+        {
+          "g": "ወልብሰ",
+          "t": "wäləbəsä",
+          "gl": ""
+        },
+        {
+          "g": "ዐጌ",
+          "t": "ʿäge",
+          "gl": ""
+        },
+        {
+          "g": "ዘቂዳርን",
+          "t": "zäqidarənə",
+          "gl": ""
+        },
+        {
+          "g": "ይልበስ",
+          "t": "yələbäsə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አልባስ",
+          "t": "ʾäləbasə",
+          "gl": ""
+        },
+        {
+          "g": "ቅዱስ",
+          "t": "qədusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ወተኀፂቦ",
+          "t": "wätäḫäṣ́ibo",
+          "gl": ""
+        },
+        {
+          "g": "በማይ",
+          "t": "bämayə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ሥጋሁ",
+          "t": "śəgahu",
+          "gl": ""
+        },
+        {
+          "g": "ይልበሶሙ",
+          "t": "yələbäsomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he shall put on the consecrated linen tunic, and he shall have on his flesh the linen drawers, and shall gird himself with a linen girdle, and shall put on the linen cap, they are holy garments; and he shall bathe all his body in water, and shall put them on.",
+        "kjv": "He shall put on the holy linen coat, and he shall have the linen breeches upon his flesh, and shall be girded with a linen girdle, and with the linen mitre shall he be attired: these are holy garments; therefore shall he wash his flesh in water, and so put them on."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "እምውስተ ፡ ተዓይኖሙ ፡ ለደቂቀ ፡ እስራኤል ፡ ይንሣእ ፡ ክልኤተ ፡ ሐራጊተ ፡ እምውስተ ፡ አጣሊ ፡ በእንተ ፡ ኀጢአት ፡\n                  ወበግዐ ፡ አሐደ ፡ ለመሥዋዕት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ተዓይኖሙ",
+          "t": "täʿayənomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ይንሣእ",
+          "t": "yənəśaʾə",
+          "gl": ""
+        },
+        {
+          "g": "ክልኤተ",
+          "t": "kələʾetä",
+          "gl": ""
+        },
+        {
+          "g": "ሐራጊተ",
+          "t": "ḥäragitä",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አጣሊ",
+          "t": "ʾäṭali",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአት",
+          "t": "ḫäṭiʾätə",
+          "gl": ""
+        },
+        {
+          "g": "ወበግዐ",
+          "t": "wäbägəʿä",
+          "gl": ""
+        },
+        {
+          "g": "አሐደ",
+          "t": "ʾäḥädä",
+          "gl": ""
+        },
+        {
+          "g": "ለመሥዋዕት",
+          "t": "lämäśəwaʿətə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he shall take of the congregation of the children of Israel two kids of the goats for a sin-offering, and one lamb for a whole-burnt-offering.",
+        "kjv": "And he shall take of the congregation of the children of Israel two kids of the goats for a sin offering, and one ram for a burnt offering."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወያበውእ ፡ አሮን ፡ ላህመ ፡ ዘበእንተ ፡ ኀጢአቱ ፡ ወያስተሰሪ ፡ ለርእሱ ፡ ወለቤቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያበውእ",
+          "t": "wäyabäwəʾə",
+          "gl": ""
+        },
+        {
+          "g": "አሮን",
+          "t": "ʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ላህመ",
+          "t": "lahəmä",
+          "gl": ""
+        },
+        {
+          "g": "ዘበእንተ",
+          "t": "zäbäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአቱ",
+          "t": "ḫäṭiʾätu",
+          "gl": ""
+        },
+        {
+          "g": "ወያስተሰሪ",
+          "t": "wäyasətäsäri",
+          "gl": ""
+        },
+        {
+          "g": "ለርእሱ",
+          "t": "lärəʾəsu",
+          "gl": ""
+        },
+        {
+          "g": "ወለቤቱ",
+          "t": "wäläbetu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Aaron shall bring the calf for his own sin-offering, and shall make atonement for himself and for his house.",
+        "kjv": "And Aaron shall offer his bullock of the sin offering, which is for himself, and make an atonement for himself, and for his house."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወእምዝ ፡ ያስተሰሪ ፡ በእልክቱ ፡ ክልኤቱ ፡ ሐራጊት ፡ ወያቀውሞሙ ፡ ቅድመ ፡ እግዚአብሔር ፡ ኀበ ፡ ኆኅተ ፡ ደብተራ ፡\n                  ዘመርጡል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእምዝ",
+          "t": "wäʾəməzə",
+          "gl": ""
+        },
+        {
+          "g": "ያስተሰሪ",
+          "t": "yasətäsäri",
+          "gl": ""
+        },
+        {
+          "g": "በእልክቱ",
+          "t": "bäʾələkətu",
+          "gl": ""
+        },
+        {
+          "g": "ክልኤቱ",
+          "t": "kələʾetu",
+          "gl": ""
+        },
+        {
+          "g": "ሐራጊት",
+          "t": "ḥäragitə",
+          "gl": ""
+        },
+        {
+          "g": "ወያቀውሞሙ",
+          "t": "wäyaqäwəmomu",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ኆኅተ",
+          "t": "ḫoḫətä",
+          "gl": ""
+        },
+        {
+          "g": "ደብተራ",
+          "t": "däbətära",
+          "gl": ""
+        },
+        {
+          "g": "ዘመርጡል",
+          "t": "zämärəṭulə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he shall take the two goats, and place them before the Lord by the door of the tabernacle of witness.",
+        "kjv": "And he shall take the two goats, and present them before the LORD at the door of the tabernacle of the congregation."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወይወዲ ፡ አሮን ፡ ላዕለ ፡ ክልኤሆሙ ፡ ሐራጊት ፡ ዕፀወ ፡ ዘቦቱ ፡ ያስተዓፁ ፡ አሐዱ ፡ ዕፅ ፡ ዘእግዚአብሔር ፡\n                  ወአሐዱ ፡ ዕፅ ፡ ለዘ ፡ አብአ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይወዲ",
+          "t": "wäyəwädi",
+          "gl": ""
+        },
+        {
+          "g": "አሮን",
+          "t": "ʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ክልኤሆሙ",
+          "t": "kələʾehomu",
+          "gl": ""
+        },
+        {
+          "g": "ሐራጊት",
+          "t": "ḥäragitə",
+          "gl": ""
+        },
+        {
+          "g": "ዕፀወ",
+          "t": "ʿəṣ́äwä",
+          "gl": ""
+        },
+        {
+          "g": "ዘቦቱ",
+          "t": "zäbotu",
+          "gl": ""
+        },
+        {
+          "g": "ያስተዓፁ",
+          "t": "yasətäʿaṣ́u",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "ዕፅ",
+          "t": "ʿəṣ́ə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእግዚአብሔር",
+          "t": "zäʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወአሐዱ",
+          "t": "wäʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "ዕፅ",
+          "t": "ʿəṣ́ə",
+          "gl": ""
+        },
+        {
+          "g": "ለዘ",
+          "t": "läzä",
+          "gl": ""
+        },
+        {
+          "g": "አብአ",
+          "t": "ʾäbəʾä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Aaron shall cast lots upon the two goats, one lot for the Lord, and the other for the scape-goat.",
+        "kjv": "And Aaron shall cast lots upon the two goats; one lot for the LORD, and the other lot for the scapegoat."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወያመጽኦ ፡ አሮን ፡ ለሐርጌ ፡ ዘወድቀ ፡ ላዕሌሁ ፡ ዕፀ ፡ እግዚአብሔር ፡ ወያበውኦ ፡ በእንተ ፡ ኀጢአት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያመጽኦ",
+          "t": "wäyamäṣəʾo",
+          "gl": ""
+        },
+        {
+          "g": "አሮን",
+          "t": "ʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ለሐርጌ",
+          "t": "läḥärəge",
+          "gl": ""
+        },
+        {
+          "g": "ዘወድቀ",
+          "t": "zäwädəqä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ዕፀ",
+          "t": "ʿəṣ́ä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወያበውኦ",
+          "t": "wäyabäwəʾo",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአት",
+          "t": "ḫäṭiʾätə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Aaron shall bring forward the goat on which the lot for the Lord fell, and shall offer him for a sin-offering.",
+        "kjv": "And Aaron shall bring the goat upon which the LORD’s lot fell, and offer him for a sin offering."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወሐርጌሰ ፡ ዘወድቀ ፡ ላዕሌሁ ፡ ዕፀ ፡ ዘአምጽአ ፡ ያቀውሞ ፡ ሕያዎ ፡ ቅድመ ፡ እግዚአብሔር ፡ ከመ ፡ ያስተስሪ ፡ ቦቱ\n                  ፡ ወከመ ፡ ይፈንዎ ፡ ኀበ ፡ ያግዕዝዎ ፡ ወየኀድግዎ ፡ ውስተ ፡ ገዳም ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሐርጌሰ",
+          "t": "wäḥärəgesä",
+          "gl": ""
+        },
+        {
+          "g": "ዘወድቀ",
+          "t": "zäwädəqä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ዕፀ",
+          "t": "ʿəṣ́ä",
+          "gl": ""
+        },
+        {
+          "g": "ዘአምጽአ",
+          "t": "zäʾäməṣəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ያቀውሞ",
+          "t": "yaqäwəmo",
+          "gl": ""
+        },
+        {
+          "g": "ሕያዎ",
+          "t": "ḥəyawo",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ያስተስሪ",
+          "t": "yasətäsəri",
+          "gl": ""
+        },
+        {
+          "g": "ቦቱ",
+          "t": "botu",
+          "gl": ""
+        },
+        {
+          "g": "ወከመ",
+          "t": "wäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ይፈንዎ",
+          "t": "yəfänəwo",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ያግዕዝዎ",
+          "t": "yagəʿəzəwo",
+          "gl": ""
+        },
+        {
+          "g": "ወየኀድግዎ",
+          "t": "wäyäḫädəgəwo",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ገዳም",
+          "t": "gädamə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the goat upon which the lot of the scape-goat came, he shall present alive before the Lord, to make atonement upon him, so as to send him away as a scape-goat, and he shall send him into the wilderness.",
+        "kjv": "But the goat, on which the lot fell to be the scapegoat, shall be presented alive before the LORD, to make an atonement with him, and to let him go for a scapegoat into the wilderness."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወያበውእ ፡ አሮን ፡ ላህመ ፡ ዘበእንተ ፡ ኀጢአቱ ፡ ወያስተሰሪ ፡ ሎቱ ፡ ወለቤቱ ፡ ወይጠብሖ ፡ ለውእቱ ፡ ላህም ፡\n                  ዘበእንተ ፡ ኀጢአቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያበውእ",
+          "t": "wäyabäwəʾə",
+          "gl": ""
+        },
+        {
+          "g": "አሮን",
+          "t": "ʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ላህመ",
+          "t": "lahəmä",
+          "gl": ""
+        },
+        {
+          "g": "ዘበእንተ",
+          "t": "zäbäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአቱ",
+          "t": "ḫäṭiʾätu",
+          "gl": ""
+        },
+        {
+          "g": "ወያስተሰሪ",
+          "t": "wäyasətäsäri",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ወለቤቱ",
+          "t": "wäläbetu",
+          "gl": ""
+        },
+        {
+          "g": "ወይጠብሖ",
+          "t": "wäyəṭäbəḥo",
+          "gl": ""
+        },
+        {
+          "g": "ለውእቱ",
+          "t": "läwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ላህም",
+          "t": "lahəmə",
+          "gl": ""
+        },
+        {
+          "g": "ዘበእንተ",
+          "t": "zäbäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአቱ",
+          "t": "ḫäṭiʾätu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Aaron shall bring the calf for his sin, and he shall make atonement for himself and for his house, and he shall kill the calf for his sin-offering.",
+        "kjv": "And Aaron shall bring the bullock of the sin offering, which is for himself, and shall make an atonement for himself, and for his house, and shall kill the bullock of the sin offering which is for himself:"
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወይነሥእ ፡ ማዕጠንተ ፡ ወይመልእ ፡ እሳተ ፡ እምፍሕም ፡ ዘውስተ ፡ ምሥዋዕ ፡ ዘቅድመ ፡ እግዚአብሔር ፡ ወይመልእ ፡\n                  እዴሁ ፡ እምነ ፡ ዕጣን ፡ ዘዕዩን ፡ ዘድቁቅ ፡ ወያበውእ ፡ ውስጠ ፡ እምነ ፡ መንጦላዕት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይነሥእ",
+          "t": "wäyənäśəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ማዕጠንተ",
+          "t": "maʿəṭänətä",
+          "gl": ""
+        },
+        {
+          "g": "ወይመልእ",
+          "t": "wäyəmäləʾə",
+          "gl": ""
+        },
+        {
+          "g": "እሳተ",
+          "t": "ʾəsatä",
+          "gl": ""
+        },
+        {
+          "g": "እምፍሕም",
+          "t": "ʾəməfəḥəmə",
+          "gl": ""
+        },
+        {
+          "g": "ዘውስተ",
+          "t": "zäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምሥዋዕ",
+          "t": "məśəwaʿə",
+          "gl": ""
+        },
+        {
+          "g": "ዘቅድመ",
+          "t": "zäqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወይመልእ",
+          "t": "wäyəmäləʾə",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ዕጣን",
+          "t": "ʿəṭanə",
+          "gl": ""
+        },
+        {
+          "g": "ዘዕዩን",
+          "t": "zäʿəyunə",
+          "gl": ""
+        },
+        {
+          "g": "ዘድቁቅ",
+          "t": "zädəquqə",
+          "gl": ""
+        },
+        {
+          "g": "ወያበውእ",
+          "t": "wäyabäwəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ውስጠ",
+          "t": "wəsəṭä",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "መንጦላዕት",
+          "t": "mänəṭolaʿətə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he shall take his censer full of coals of fire off the altar, which is before the Lord; and he shall fill his hands with fine compound incense, and shall bring it within the veil.",
+        "kjv": "And he shall take a censer full of burning coals of fire from off the altar before the LORD, and his hands full of sweet incense beaten small, and bring it within the vail:"
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወይወዲ ፡ ውእተ ፡ ዕጣነ ፡ ውስተ ፡ [ማዕጠንት ፡] ቅድመ ፡ እግዚአብሔር ፡ ወይከድን ፡ ጢሱ ፡ ለውእቱ ፡ ምሥሃለ ፡\n                  ዘዲበ ፡ ታቦት ፡ ወኢይመውት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይወዲ",
+          "t": "wäyəwädi",
+          "gl": ""
+        },
+        {
+          "g": "ውእተ",
+          "t": "wəʾətä",
+          "gl": ""
+        },
+        {
+          "g": "ዕጣነ",
+          "t": "ʿəṭanä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ማዕጠንት",
+          "t": "maʿəṭänətə",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወይከድን",
+          "t": "wäyəkädənə",
+          "gl": ""
+        },
+        {
+          "g": "ጢሱ",
+          "t": "ṭisu",
+          "gl": ""
+        },
+        {
+          "g": "ለውእቱ",
+          "t": "läwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ምሥሃለ",
+          "t": "məśəhalä",
+          "gl": ""
+        },
+        {
+          "g": "ዘዲበ",
+          "t": "zädibä",
+          "gl": ""
+        },
+        {
+          "g": "ታቦት",
+          "t": "tabotə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይመውት",
+          "t": "wäʾiyəmäwətə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he shall put the incense on the fire before the Lord, and the smoke of the incense shall cover the mercy-seat over the tables of testimony, and he shall not die.",
+        "kjv": "And he shall put the incense upon the fire before the LORD, that the cloud of the incense may cover the mercy seat that is upon the testimony, that he die not:"
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወይነሥእ ፡ እምውስተ ፡ ደሙ ፡ ለውእቱ ፡ ላህም ፡ ወይነዝኅ ፡ ውስተ ፡ ምሥሃል ፡ ለመንገለ ፡ ሠርቁ ፡ ውስተ ፡ ገጹ ፡\n                  ለምሥሃል ፡ ይነዝኅ ፡ ስብዕ ፡ እምውስተ ፡ ውእቱ ፡ ደም ፡ በአጽባዕቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይነሥእ",
+          "t": "wäyənäśəʾə",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ደሙ",
+          "t": "dämu",
+          "gl": ""
+        },
+        {
+          "g": "ለውእቱ",
+          "t": "läwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ላህም",
+          "t": "lahəmə",
+          "gl": ""
+        },
+        {
+          "g": "ወይነዝኅ",
+          "t": "wäyənäzəḫə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምሥሃል",
+          "t": "məśəhalə",
+          "gl": ""
+        },
+        {
+          "g": "ለመንገለ",
+          "t": "lämänəgälä",
+          "gl": ""
+        },
+        {
+          "g": "ሠርቁ",
+          "t": "śärəqu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ገጹ",
+          "t": "gäṣu",
+          "gl": ""
+        },
+        {
+          "g": "ለምሥሃል",
+          "t": "läməśəhalə",
+          "gl": ""
+        },
+        {
+          "g": "ይነዝኅ",
+          "t": "yənäzəḫə",
+          "gl": ""
+        },
+        {
+          "g": "ስብዕ",
+          "t": "səbəʿə",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ደም",
+          "t": "dämə",
+          "gl": ""
+        },
+        {
+          "g": "በአጽባዕቱ",
+          "t": "bäʾäṣəbaʿətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he shall take of the blood of the calf, and sprinkle with his finger on the mercy-seat eastward: before the mercy-seat shall he sprinkle seven times of the blood with his finger.",
+        "kjv": "And he shall take of the blood of the bullock, and sprinkle it with his finger upon the mercy seat eastward; and before the mercy seat shall he sprinkle of the blood with his finger seven times."
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ወይጠብሕ ፡ ሐርጌ ፡ ዘበእንተ ፡ ኀጢአተ ፡ ዘእምኀበ ፡ ሕዝብ ፡ ቅድመ ፡ እግዚአብሔር ፡ ወያበውእ ፡ እምነ ፡ ደሙ ፡\n                  ውስጠ ፡ እምነ ፡ መንጦላዕት ፡ ወይገብሮ ፡ ለደሙ ፡ በከመ ፡ ገብረ ፡ ደመ ፡ ላህም ፡ ወይነዝኅ ፡ እምነ ፡ ደሙ ፡ ውስተ ፡\n                  ምሥሃል ፡ መንገለ ፡ ገጹ ፡ ለምሥሃል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይጠብሕ",
+          "t": "wäyəṭäbəḥə",
+          "gl": ""
+        },
+        {
+          "g": "ሐርጌ",
+          "t": "ḥärəge",
+          "gl": ""
+        },
+        {
+          "g": "ዘበእንተ",
+          "t": "zäbäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአተ",
+          "t": "ḫäṭiʾätä",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምኀበ",
+          "t": "zäʾəməḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወያበውእ",
+          "t": "wäyabäwəʾə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ደሙ",
+          "t": "dämu",
+          "gl": ""
+        },
+        {
+          "g": "ውስጠ",
+          "t": "wəsəṭä",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "መንጦላዕት",
+          "t": "mänəṭolaʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ወይገብሮ",
+          "t": "wäyəgäbəro",
+          "gl": ""
+        },
+        {
+          "g": "ለደሙ",
+          "t": "lädämu",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ገብረ",
+          "t": "gäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ደመ",
+          "t": "dämä",
+          "gl": ""
+        },
+        {
+          "g": "ላህም",
+          "t": "lahəmə",
+          "gl": ""
+        },
+        {
+          "g": "ወይነዝኅ",
+          "t": "wäyənäzəḫə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ደሙ",
+          "t": "dämu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምሥሃል",
+          "t": "məśəhalə",
+          "gl": ""
+        },
+        {
+          "g": "መንገለ",
+          "t": "mänəgälä",
+          "gl": ""
+        },
+        {
+          "g": "ገጹ",
+          "t": "gäṣu",
+          "gl": ""
+        },
+        {
+          "g": "ለምሥሃል",
+          "t": "läməśəhalə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he shall kill the goat for the sin-offering that is for the people, before the Lord; and he shall bring in of its blood within the veil, and shall do with its blood as he did with the blood of the calf, and shall sprinkle its blood on the mercy-seat, in front of the mercy-seat.",
+        "kjv": "Then shall he kill the goat of the sin offering, that is for the people, and bring his blood within the vail, and do with that blood as he did with the blood of the bullock, and sprinkle it upon the mercy seat, and before the mercy seat:"
+      }
+    },
+    {
+      "num": 16,
+      "geez": "ወያስተሰሪ ፡ በቅዱስ ፡ እምነ ፡ ርኵሶሙ ፡ ለደቂቀ ፡ እስራኤል ፡ ወበእንተ ፡ ዐመፃሆሙ ፡ ወበእንተ ፡ ኵሉ ፡ ኀጣይኢሆሙ\n                  ፡ ወከመዝ ፡ ይገብር ፡ ለደብተራ ፡ ዘመርጡል ፡ እንተ ፡ ተገብረት ፡ ውስቴቶሙ ፡ ውስተ ፡ ማእከለ ፡ ርኵሶሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያስተሰሪ",
+          "t": "wäyasətäsäri",
+          "gl": ""
+        },
+        {
+          "g": "በቅዱስ",
+          "t": "bäqədusə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ርኵሶሙ",
+          "t": "rəkwəsomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወበእንተ",
+          "t": "wäbäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ዐመፃሆሙ",
+          "t": "ʿämäṣ́ahomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበእንተ",
+          "t": "wäbäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ኀጣይኢሆሙ",
+          "t": "ḫäṭayəʾihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወከመዝ",
+          "t": "wäkämäzə",
+          "gl": ""
+        },
+        {
+          "g": "ይገብር",
+          "t": "yəgäbərə",
+          "gl": ""
+        },
+        {
+          "g": "ለደብተራ",
+          "t": "lädäbətära",
+          "gl": ""
+        },
+        {
+          "g": "ዘመርጡል",
+          "t": "zämärəṭulə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ተገብረት",
+          "t": "tägäbərätə",
+          "gl": ""
+        },
+        {
+          "g": "ውስቴቶሙ",
+          "t": "wəsətetomu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ማእከለ",
+          "t": "maʾəkälä",
+          "gl": ""
+        },
+        {
+          "g": "ርኵሶሙ",
+          "t": "rəkwəsomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he shall make atonement for the sanctuary on account of the uncleanness of the children of Israel, and for their trespasses in the matter of all their sins; and thus shall he do to the tabernacle of witness established among them in the midst of their uncleanness.",
+        "kjv": "And he shall make an atonement for the holy place, because of the uncleanness of the children of Israel, and because of their transgressions in all their sins: and so shall he do for the tabernacle of the congregation, that remaineth among them in the midst of their uncleanness."
+      }
+    },
+    {
+      "num": 17,
+      "geez": "ወአልቦ ፡ ዘየሀሉ ፡ ሰብእ ፡ ወኢመኑ ፡ ሶበ ፡ ይበውእ ፡ ውስተ ፡ ውእቱ ፡ ቅድሳት ፡ ከመ ፡ ያስተስሪ ፡ ወአልቦ ፡\n                  ዘየሀሉ ፡ እስከ ፡ ይወፅእ ፡ ወያስተሰሪ ፡ ለርእሱ ፡ ወለቤቱ ፡ ወለኵሉ ፡ ተዓይኖሙ ፡ ለእስራኤል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአልቦ",
+          "t": "wäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘየሀሉ",
+          "t": "zäyähälu",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢመኑ",
+          "t": "wäʾimänu",
+          "gl": ""
+        },
+        {
+          "g": "ሶበ",
+          "t": "sobä",
+          "gl": ""
+        },
+        {
+          "g": "ይበውእ",
+          "t": "yəbäwəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ቅድሳት",
+          "t": "qədəsatə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ያስተስሪ",
+          "t": "yasətäsəri",
+          "gl": ""
+        },
+        {
+          "g": "ወአልቦ",
+          "t": "wäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘየሀሉ",
+          "t": "zäyähälu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ይወፅእ",
+          "t": "yəwäṣ́əʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወያስተሰሪ",
+          "t": "wäyasətäsäri",
+          "gl": ""
+        },
+        {
+          "g": "ለርእሱ",
+          "t": "lärəʾəsu",
+          "gl": ""
+        },
+        {
+          "g": "ወለቤቱ",
+          "t": "wäläbetu",
+          "gl": ""
+        },
+        {
+          "g": "ወለኵሉ",
+          "t": "wäläkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ተዓይኖሙ",
+          "t": "täʿayənomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእስራኤል",
+          "t": "läʾəsəraʾelə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And there shall be no man in the tabernacle of witness, when he goes in to make atonement in the holy place, until he shall have come out; and he shall make atonement for himself, and for his house, and for all the congregation of the children of Israel.",
+        "kjv": "And there shall be no man in the tabernacle of the congregation when he goeth in to make an atonement in the holy place, until he come out, and have made an atonement for himself, and for his household, and for all the congregation of Israel."
+      }
+    },
+    {
+      "num": 18,
+      "geez": "ወይወፅእ ፡ ኀበ ፡ ምሥዋዕ ፡ ዘሀለወ ፡ ቅድመ ፡ እግዚአብሔር ፡ ወያስተሰሪ ፡ ቦቱ ፡ ወይነሥእ ፡ እምነ ፡ ደም ፡\n                  ዘላህም ፡ ወእምነ ፡ ደም ፡ ዘሐርጌ ፡ ወይወዲ ፡ ውስተ ፡ አቅርንቲሁ ፡ ለምሥዋዕ ፡ ውስተ ፡ ዐውዶሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይወፅእ",
+          "t": "wäyəwäṣ́əʾə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ምሥዋዕ",
+          "t": "məśəwaʿə",
+          "gl": ""
+        },
+        {
+          "g": "ዘሀለወ",
+          "t": "zähäläwä",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወያስተሰሪ",
+          "t": "wäyasətäsäri",
+          "gl": ""
+        },
+        {
+          "g": "ቦቱ",
+          "t": "botu",
+          "gl": ""
+        },
+        {
+          "g": "ወይነሥእ",
+          "t": "wäyənäśəʾə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ደም",
+          "t": "dämə",
+          "gl": ""
+        },
+        {
+          "g": "ዘላህም",
+          "t": "zälahəmə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ደም",
+          "t": "dämə",
+          "gl": ""
+        },
+        {
+          "g": "ዘሐርጌ",
+          "t": "zäḥärəge",
+          "gl": ""
+        },
+        {
+          "g": "ወይወዲ",
+          "t": "wäyəwädi",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አቅርንቲሁ",
+          "t": "ʾäqərənətihu",
+          "gl": ""
+        },
+        {
+          "g": "ለምሥዋዕ",
+          "t": "läməśəwaʿə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዐውዶሙ",
+          "t": "ʿäwədomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he shall come forth to the altar that is before the Lord, and he shall make atonement upon it; and he shall take of the blood of the calf, and of the blood of the goat, and shall put it on the horns of the altar round about.",
+        "kjv": "And he shall go out unto the altar that is before the LORD, and make an atonement for it; and shall take of the blood of the bullock, and of the blood of the goat, and put it upon the horns of the altar round about."
+      }
+    },
+    {
+      "num": 19,
+      "geez": "ወይነዝኅ ፡ ላዕሌሁ ፡ እምውስተ ፡ ውእቱ ፡ ደም ፡ በአጽባዕቱ ፡ ስብዕ ፡ ወያነጽሕ ፡ ወይቄድስ ፡ እምነ ፡ ኵሉ ፡\n                  ርኵሶሙ ፡ ለደቂቀ ፡ እስራኤል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይነዝኅ",
+          "t": "wäyənäzəḫə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ደም",
+          "t": "dämə",
+          "gl": ""
+        },
+        {
+          "g": "በአጽባዕቱ",
+          "t": "bäʾäṣəbaʿətu",
+          "gl": ""
+        },
+        {
+          "g": "ስብዕ",
+          "t": "səbəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወያነጽሕ",
+          "t": "wäyanäṣəḥə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቄድስ",
+          "t": "wäyəqedəsə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ርኵሶሙ",
+          "t": "rəkwəsomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he shall sprinkle some of the blood upon it seven times with his finger, and shall purge it, and hallow it from the uncleanness of the children of Israel.",
+        "kjv": "And he shall sprinkle of the blood upon it with his finger seven times, and cleanse it, and hallow it from the uncleanness of the children of Israel."
+      }
+    },
+    {
+      "num": 20,
+      "geez": "ወይፌጽም ፡ አስተስርዮ ፡ በቅዱስ ፡ ወበደብተራ ፡ ዘመርጡል ፡ ወበምሥዋዕ ፡ ወያነጽሕ ፡ በእንተ ፡ ካህናትኒ ፡ ወያመጽእ\n                  ፡ ሐርጌ ፡ ዘሕያው ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይፌጽም",
+          "t": "wäyəfeṣəmə",
+          "gl": ""
+        },
+        {
+          "g": "አስተስርዮ",
+          "t": "ʾäsətäsərəyo",
+          "gl": ""
+        },
+        {
+          "g": "በቅዱስ",
+          "t": "bäqədusə",
+          "gl": ""
+        },
+        {
+          "g": "ወበደብተራ",
+          "t": "wäbädäbətära",
+          "gl": ""
+        },
+        {
+          "g": "ዘመርጡል",
+          "t": "zämärəṭulə",
+          "gl": ""
+        },
+        {
+          "g": "ወበምሥዋዕ",
+          "t": "wäbäməśəwaʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወያነጽሕ",
+          "t": "wäyanäṣəḥə",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ካህናትኒ",
+          "t": "kahənatəni",
+          "gl": ""
+        },
+        {
+          "g": "ወያመጽእ",
+          "t": "wäyamäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ሐርጌ",
+          "t": "ḥärəge",
+          "gl": ""
+        },
+        {
+          "g": "ዘሕያው",
+          "t": "zäḥəyawə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he shall finish making atonement for the sanctuary and for the tabernacle of witness, and for the altar; and he shall make a cleansing for the priests, and he shall bring the living goat;",
+        "kjv": "And when he hath made an end of reconciling the holy place, and the tabernacle of the congregation, and the altar, he shall bring the live goat:"
+      }
+    },
+    {
+      "num": 21,
+      "geez": "ወይወዲ ፡ አሮን ፡ ክልኤሆን ፡ እደዊሁ ፡ ላዕለ ፡ ርእሱ ፡ ለውእቱ ፡ ሐርጌ ፡ ዘሕያው ፡ ወይትናሐይ ፡ በላዕሌሁ ፡ ኵሎ\n                  ፡ ኀጣይኦሙ ፡ ለደቂቀ ፡ እስራኤል ፡ ወኵሎ ፡ ዐመፃሆሙ ፡ ወኵሎ ፡ አበሳሆሙ ፡ ወይወዲ ፡ (እደዊሁ ፡) ላዕለ ፡ ርእሱ ፡\n                  ለውእቱ ፡ ሐርጌ ፡ ዘሕያው ፡ ወይፌንዎ ፡ ሐቅለ ፡ ምስለ ፡ ብእሲ ፡ ዘተረስየ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይወዲ",
+          "t": "wäyəwädi",
+          "gl": ""
+        },
+        {
+          "g": "አሮን",
+          "t": "ʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ክልኤሆን",
+          "t": "kələʾehonə",
+          "gl": ""
+        },
+        {
+          "g": "እደዊሁ",
+          "t": "ʾədäwihu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ርእሱ",
+          "t": "rəʾəsu",
+          "gl": ""
+        },
+        {
+          "g": "ለውእቱ",
+          "t": "läwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ሐርጌ",
+          "t": "ḥärəge",
+          "gl": ""
+        },
+        {
+          "g": "ዘሕያው",
+          "t": "zäḥəyawə",
+          "gl": ""
+        },
+        {
+          "g": "ወይትናሐይ",
+          "t": "wäyətənaḥäyə",
+          "gl": ""
+        },
+        {
+          "g": "በላዕሌሁ",
+          "t": "bälaʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ኀጣይኦሙ",
+          "t": "ḫäṭayəʾomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ዐመፃሆሙ",
+          "t": "ʿämäṣ́ahomu",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "አበሳሆሙ",
+          "t": "ʾäbäsahomu",
+          "gl": ""
+        },
+        {
+          "g": "ወይወዲ",
+          "t": "wäyəwädi",
+          "gl": ""
+        },
+        {
+          "g": "እደዊሁ",
+          "t": "ʾədäwihu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ርእሱ",
+          "t": "rəʾəsu",
+          "gl": ""
+        },
+        {
+          "g": "ለውእቱ",
+          "t": "läwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ሐርጌ",
+          "t": "ḥärəge",
+          "gl": ""
+        },
+        {
+          "g": "ዘሕያው",
+          "t": "zäḥəyawə",
+          "gl": ""
+        },
+        {
+          "g": "ወይፌንዎ",
+          "t": "wäyəfenəwo",
+          "gl": ""
+        },
+        {
+          "g": "ሐቅለ",
+          "t": "ḥäqəlä",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ዘተረስየ",
+          "t": "zätäräsəyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and Aaron shall lay his hands on the head of the live goat, and he shall declare over him all the iniquities of the children of Israel, and all their unrighteousnesses, and all their sins; and he shall lay them upon the head of the live goat, and shall send him by the hand of a ready man into the wilderness.",
+        "kjv": "And Aaron shall lay both his hands upon the head of the live goat, and confess over him all the iniquities of the children of Israel, and all their transgressions in all their sins, putting them upon the head of the goat, and shall send him away by the hand of a fit man into the wilderness:"
+      }
+    },
+    {
+      "num": 22,
+      "geez": "ወይነሥእ ፡ ዝክቱ ፡ ሐርጌ ፡ ላዕለ ፡ ርእሱ ፡ ኀጣይኦሙ ፡ ወየኀድጎ ፡ ለውእቱ ፡ ሐርጌ ፡ ውስተ ፡ ምድረ ፡ በድው ፡\n                  ኀበ ፡ አልቦ ፡ ዕፀ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይነሥእ",
+          "t": "wäyənäśəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ዝክቱ",
+          "t": "zəkətu",
+          "gl": ""
+        },
+        {
+          "g": "ሐርጌ",
+          "t": "ḥärəge",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ርእሱ",
+          "t": "rəʾəsu",
+          "gl": ""
+        },
+        {
+          "g": "ኀጣይኦሙ",
+          "t": "ḫäṭayəʾomu",
+          "gl": ""
+        },
+        {
+          "g": "ወየኀድጎ",
+          "t": "wäyäḫädəgo",
+          "gl": ""
+        },
+        {
+          "g": "ለውእቱ",
+          "t": "läwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ሐርጌ",
+          "t": "ḥärəge",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድረ",
+          "t": "mədərä",
+          "gl": ""
+        },
+        {
+          "g": "በድው",
+          "t": "bädəwə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "አልቦ",
+          "t": "ʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ዕፀ",
+          "t": "ʿəṣ́ä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the goat shall bear their unrighteousnesses upon him into a desert land; and Aaron shall send away the goat into the wilderness.",
+        "kjv": "And the goat shall bear upon him all their iniquities unto a land not inhabited: and he shall let go the goat in the wilderness."
+      }
+    },
+    {
+      "num": 23,
+      "geez": "ወይበውእ ፡ አሮን ፡ ውስተ ፡ ደብተራ ፡ ዘመርጡል ፡ ወያነብር ፡ አልባሰ ፡ ዘላዕሌሁ ፡ ዘዐጌ ፡ ዘለብሰ ፡ ሶበ ፡\n                  ለበዊእ ፡ ውስተ ፡ ቅድሳት ፡ ወያነብሮ ፡ ህየ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይበውእ",
+          "t": "wäyəbäwəʾə",
+          "gl": ""
+        },
+        {
+          "g": "አሮን",
+          "t": "ʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ደብተራ",
+          "t": "däbətära",
+          "gl": ""
+        },
+        {
+          "g": "ዘመርጡል",
+          "t": "zämärəṭulə",
+          "gl": ""
+        },
+        {
+          "g": "ወያነብር",
+          "t": "wäyanäbərə",
+          "gl": ""
+        },
+        {
+          "g": "አልባሰ",
+          "t": "ʾäləbasä",
+          "gl": ""
+        },
+        {
+          "g": "ዘላዕሌሁ",
+          "t": "zälaʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ዘዐጌ",
+          "t": "zäʿäge",
+          "gl": ""
+        },
+        {
+          "g": "ዘለብሰ",
+          "t": "zäläbəsä",
+          "gl": ""
+        },
+        {
+          "g": "ሶበ",
+          "t": "sobä",
+          "gl": ""
+        },
+        {
+          "g": "ለበዊእ",
+          "t": "läbäwiʾə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ቅድሳት",
+          "t": "qədəsatə",
+          "gl": ""
+        },
+        {
+          "g": "ወያነብሮ",
+          "t": "wäyanäbəro",
+          "gl": ""
+        },
+        {
+          "g": "ህየ",
+          "t": "həyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Aaron shall enter into the tabernacle of witness, and shall put off the linen garment, which he had put on, as he entered into the holy place, and shall lay it by there.",
+        "kjv": "And Aaron shall come into the tabernacle of the congregation, and shall put off the linen garments, which he put on when he went into the holy place, and shall leave them there:"
+      }
+    },
+    {
+      "num": 24,
+      "geez": "ወይትኀፀብ ፡ ሥጋሁ ፡ በማይ ፡ በመካን ፡ ቅዱስ ፡ ወይለብስ ፡ አልባሲሁ ፡ ወወፂኦ ፡ ይገብር ፡ መሥዋዕቶ ፡ ወመሥዋዕተ\n                  ፡ ሕዝብኒ ፡ ወያስተሰሪ ፡ ለርእሱ ፡ ወለቤቱ ፡ ወለሕዝብኒ ፡ በከመ ፡ በእንተ ፡ ካህናት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይትኀፀብ",
+          "t": "wäyətəḫäṣ́äbə",
+          "gl": ""
+        },
+        {
+          "g": "ሥጋሁ",
+          "t": "śəgahu",
+          "gl": ""
+        },
+        {
+          "g": "በማይ",
+          "t": "bämayə",
+          "gl": ""
+        },
+        {
+          "g": "በመካን",
+          "t": "bämäkanə",
+          "gl": ""
+        },
+        {
+          "g": "ቅዱስ",
+          "t": "qədusə",
+          "gl": ""
+        },
+        {
+          "g": "ወይለብስ",
+          "t": "wäyəläbəsə",
+          "gl": ""
+        },
+        {
+          "g": "አልባሲሁ",
+          "t": "ʾäləbasihu",
+          "gl": ""
+        },
+        {
+          "g": "ወወፂኦ",
+          "t": "wäwäṣ́iʾo",
+          "gl": ""
+        },
+        {
+          "g": "ይገብር",
+          "t": "yəgäbərə",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕቶ",
+          "t": "mäśəwaʿəto",
+          "gl": ""
+        },
+        {
+          "g": "ወመሥዋዕተ",
+          "t": "wämäśəwaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብኒ",
+          "t": "ḥəzəbəni",
+          "gl": ""
+        },
+        {
+          "g": "ወያስተሰሪ",
+          "t": "wäyasətäsäri",
+          "gl": ""
+        },
+        {
+          "g": "ለርእሱ",
+          "t": "lärəʾəsu",
+          "gl": ""
+        },
+        {
+          "g": "ወለቤቱ",
+          "t": "wäläbetu",
+          "gl": ""
+        },
+        {
+          "g": "ወለሕዝብኒ",
+          "t": "wäläḥəzəbəni",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ካህናት",
+          "t": "kahənatə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he shall bathe his body in water in the holy place, and shall put on his raiment, and shall go out and offer the whole-burnt-offering for himself and the whole-burnt-offering for the people: and shall make atonement for himself and for his house, and for the people, as for the priests.",
+        "kjv": "And he shall wash his flesh with water in the holy place, and put on his garments, and come forth, and offer his burnt offering, and the burnt offering of the people, and make an atonement for himself, and for the people."
+      }
+    },
+    {
+      "num": 25,
+      "geez": "ወሥብሐ ፡ ዘበእንተ ፡ ኀጢአት ፡ ይወድዮ ፡ ውስተ ፡ ምሥዋዕ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሥብሐ",
+          "t": "wäśəbəḥä",
+          "gl": ""
+        },
+        {
+          "g": "ዘበእንተ",
+          "t": "zäbäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአት",
+          "t": "ḫäṭiʾätə",
+          "gl": ""
+        },
+        {
+          "g": "ይወድዮ",
+          "t": "yəwädəyo",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምሥዋዕ",
+          "t": "məśəwaʿə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he shall offer the fat for the sin-offering on the altar.",
+        "kjv": "And the fat of the sin offering shall he burn upon the altar."
+      }
+    },
+    {
+      "num": 26,
+      "geez": "ወዝክቱ ፡ ዘአውፅኦ ፡ ለሐርጌ ፡ ዘፈለጡ ፡ ከመ ፡ ያግዕዙ ፡ የኀፅብ ፡ አልባሰሁ ፡ ወይትኀፀብ ፡ ሥጋሁ ፡ በማይ ፡\n                  ወእምዝ ፡ ይበውእ ፡ ውስተ ፡ ትዕይንት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዝክቱ",
+          "t": "wäzəkətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘአውፅኦ",
+          "t": "zäʾäwəṣ́əʾo",
+          "gl": ""
+        },
+        {
+          "g": "ለሐርጌ",
+          "t": "läḥärəge",
+          "gl": ""
+        },
+        {
+          "g": "ዘፈለጡ",
+          "t": "zäfäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ያግዕዙ",
+          "t": "yagəʿəzu",
+          "gl": ""
+        },
+        {
+          "g": "የኀፅብ",
+          "t": "yäḫäṣ́əbə",
+          "gl": ""
+        },
+        {
+          "g": "አልባሰሁ",
+          "t": "ʾäləbasähu",
+          "gl": ""
+        },
+        {
+          "g": "ወይትኀፀብ",
+          "t": "wäyətəḫäṣ́äbə",
+          "gl": ""
+        },
+        {
+          "g": "ሥጋሁ",
+          "t": "śəgahu",
+          "gl": ""
+        },
+        {
+          "g": "በማይ",
+          "t": "bämayə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምዝ",
+          "t": "wäʾəməzə",
+          "gl": ""
+        },
+        {
+          "g": "ይበውእ",
+          "t": "yəbäwəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ትዕይንት",
+          "t": "təʿəyənətə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he that sends forth the goat that has been set apart to be let go, shall wash his garments, and bathe his body in water, and afterwards shall enter into the camp.",
+        "kjv": "And he that let go the goat for the scapegoat shall wash his clothes, and bathe his flesh in water, and afterward come into the camp."
+      }
+    },
+    {
+      "num": 27,
+      "geez": "ወላህምኒ ፡ ዘበእንተ ፡ ኀጢአት ፡ ወሐርጌኒ ፡ ዘበእንተ ፡ ኀጢአትኒ ፡ ዘአብኡ ፡ ደሞሙ ፡ ከመ ፡ ያስተስርዩ ፡ ቦቱ ፡\n                  በውስተ ፡ ቅድሳት ፡ ያወፅእዎሙ ፡ አፍአ ፡ እምትዕይንት ፡ ወያውዕይዎሙ ፡ በእሳት ፡ ወአምእስቲሆሙኒ ፡ ወሥጋሆሙኒ ፡\n                  ወካዕሴሆሙኒ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወላህምኒ",
+          "t": "wälahəməni",
+          "gl": ""
+        },
+        {
+          "g": "ዘበእንተ",
+          "t": "zäbäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአት",
+          "t": "ḫäṭiʾätə",
+          "gl": ""
+        },
+        {
+          "g": "ወሐርጌኒ",
+          "t": "wäḥärəgeni",
+          "gl": ""
+        },
+        {
+          "g": "ዘበእንተ",
+          "t": "zäbäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአትኒ",
+          "t": "ḫäṭiʾätəni",
+          "gl": ""
+        },
+        {
+          "g": "ዘአብኡ",
+          "t": "zäʾäbəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ደሞሙ",
+          "t": "dämomu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ያስተስርዩ",
+          "t": "yasətäsərəyu",
+          "gl": ""
+        },
+        {
+          "g": "ቦቱ",
+          "t": "botu",
+          "gl": ""
+        },
+        {
+          "g": "በውስተ",
+          "t": "bäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ቅድሳት",
+          "t": "qədəsatə",
+          "gl": ""
+        },
+        {
+          "g": "ያወፅእዎሙ",
+          "t": "yawäṣ́əʾəwomu",
+          "gl": ""
+        },
+        {
+          "g": "አፍአ",
+          "t": "ʾäfəʾä",
+          "gl": ""
+        },
+        {
+          "g": "እምትዕይንት",
+          "t": "ʾəmətəʿəyənətə",
+          "gl": ""
+        },
+        {
+          "g": "ወያውዕይዎሙ",
+          "t": "wäyawəʿəyəwomu",
+          "gl": ""
+        },
+        {
+          "g": "በእሳት",
+          "t": "bäʾəsatə",
+          "gl": ""
+        },
+        {
+          "g": "ወአምእስቲሆሙኒ",
+          "t": "wäʾäməʾəsətihomuni",
+          "gl": ""
+        },
+        {
+          "g": "ወሥጋሆሙኒ",
+          "t": "wäśəgahomuni",
+          "gl": ""
+        },
+        {
+          "g": "ወካዕሴሆሙኒ",
+          "t": "wäkaʿəsehomuni",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the calf for the sin-offering, and the goat for the sin-offering, whose blood was brought in to make atonement in the holy place, they shall carry forth out of the camp, and burn them with fire, even their skins and their flesh and their dung.",
+        "kjv": "And the bullock for the sin offering, and the goat for the sin offering, whose blood was brought in to make atonement in the holy place, shall one carry forth without the camp; and they shall burn in the fire their skins, and their flesh, and their dung."
+      }
+    },
+    {
+      "num": 28,
+      "geez": "ወዝክቱ ፡ ዘአውዐዮሙ ፡ የኀፅብ ፡ አልባሲሁ ፡ ወይትኀፀብ ፡ ሥጋሁ ፡ በማይ ፡ ወእምዝ ፡ ይበውእ ፡ ውስተ ፡ ትዕይንት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዝክቱ",
+          "t": "wäzəkətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘአውዐዮሙ",
+          "t": "zäʾäwəʿäyomu",
+          "gl": ""
+        },
+        {
+          "g": "የኀፅብ",
+          "t": "yäḫäṣ́əbə",
+          "gl": ""
+        },
+        {
+          "g": "አልባሲሁ",
+          "t": "ʾäləbasihu",
+          "gl": ""
+        },
+        {
+          "g": "ወይትኀፀብ",
+          "t": "wäyətəḫäṣ́äbə",
+          "gl": ""
+        },
+        {
+          "g": "ሥጋሁ",
+          "t": "śəgahu",
+          "gl": ""
+        },
+        {
+          "g": "በማይ",
+          "t": "bämayə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምዝ",
+          "t": "wäʾəməzə",
+          "gl": ""
+        },
+        {
+          "g": "ይበውእ",
+          "t": "yəbäwəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ትዕይንት",
+          "t": "təʿəyənətə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he that burns them shall wash his garments, and bathe his body in water, and afterwards he shall enter into the camp.",
+        "kjv": "And he that burneth them shall wash his clothes, and bathe his flesh in water, and afterward he shall come into the camp."
+      }
+    },
+    {
+      "num": 29,
+      "geez": "ወዝንቱ ፡ ሕገ ፡ ይኩንክሙ ፡ ለዓለም ፡ ወበሳብዕ ፡ ወርኅ ፡ አመ ፡ ዐሡሩ ፡ ለሠርቅ ፡ አሕምምዋ ፡ ለነፍስክሙ ፡ ወኵሎ\n                  ፡ ግብረ ፡ ኢትግበሩ ፡ ዘእምፍጥረቱኒ ፡ ወዘግዩርኒ ፡ ወዘሀለወኒ ፡ ኀቤክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዝንቱ",
+          "t": "wäzənətu",
+          "gl": ""
+        },
+        {
+          "g": "ሕገ",
+          "t": "ḥəgä",
+          "gl": ""
+        },
+        {
+          "g": "ይኩንክሙ",
+          "t": "yəkunəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ለዓለም",
+          "t": "läʿalämə",
+          "gl": ""
+        },
+        {
+          "g": "ወበሳብዕ",
+          "t": "wäbäsabəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወርኅ",
+          "t": "wärəḫə",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ዐሡሩ",
+          "t": "ʿäśuru",
+          "gl": ""
+        },
+        {
+          "g": "ለሠርቅ",
+          "t": "läśärəqə",
+          "gl": ""
+        },
+        {
+          "g": "አሕምምዋ",
+          "t": "ʾäḥəməməwa",
+          "gl": ""
+        },
+        {
+          "g": "ለነፍስክሙ",
+          "t": "länäfəsəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ግብረ",
+          "t": "gəbərä",
+          "gl": ""
+        },
+        {
+          "g": "ኢትግበሩ",
+          "t": "ʾitəgəbäru",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምፍጥረቱኒ",
+          "t": "zäʾəməfəṭərätuni",
+          "gl": ""
+        },
+        {
+          "g": "ወዘግዩርኒ",
+          "t": "wäzägəyurəni",
+          "gl": ""
+        },
+        {
+          "g": "ወዘሀለወኒ",
+          "t": "wäzähäläwäni",
+          "gl": ""
+        },
+        {
+          "g": "ኀቤክሙ",
+          "t": "ḫäbekəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And this shall be a perpetual statute for you; in the seventh month, on the tenth day of the month, ye shall humble your souls, and shall do no work, the native and the stranger who abides among you.",
+        "kjv": "And this shall be a statute for ever unto you: that in the seventh month, on the tenth day of the month, ye shall afflict your souls, and do no work at all, whether it be one of your own country, or a stranger that sojourneth among you:"
+      }
+    },
+    {
+      "num": 30,
+      "geez": "እስመ ፡ በይእቲ ፡ ዕለት ፡ ያስተሰሪ ፡ በእንቲአክሙ ፡ ከመ ፡ ያንጽሕክሙ ፡ እምኵሉ ፡ ኀጣይእክሙ ፡ ቅድመ ፡\n                  እግዚአብሔር ፡ ወትነጽሑ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "በይእቲ",
+          "t": "bäyəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "ያስተሰሪ",
+          "t": "yasətäsäri",
+          "gl": ""
+        },
+        {
+          "g": "በእንቲአክሙ",
+          "t": "bäʾənətiʾäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ያንጽሕክሙ",
+          "t": "yanəṣəḥəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እምኵሉ",
+          "t": "ʾəməkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ኀጣይእክሙ",
+          "t": "ḫäṭayəʾəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወትነጽሑ",
+          "t": "wätənäṣəḥu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For in this day he shall make an atonement for you, to cleanse you from all your sins before the Lord, and ye shall be purged.",
+        "kjv": "For on that day shall the priest make an atonement for you, to cleanse you, that ye may be clean from all your sins before the LORD."
+      }
+    },
+    {
+      "num": 31,
+      "geez": "እስመ ፡ ሰንበተ ፡ ሰናብት ፡ ይእቲ ፡ ለክሙ ፡ ወአሕምምዋ ፡ ለነፍስክሙ ፡ ወሕግ ፡ ውእቱ ፡ ለክሙ ፡ ዘለዓለም ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ሰንበተ",
+          "t": "sänəbätä",
+          "gl": ""
+        },
+        {
+          "g": "ሰናብት",
+          "t": "sänabətə",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወአሕምምዋ",
+          "t": "wäʾäḥəməməwa",
+          "gl": ""
+        },
+        {
+          "g": "ለነፍስክሙ",
+          "t": "länäfəsəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወሕግ",
+          "t": "wäḥəgə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ዘለዓለም",
+          "t": "zäläʿalämə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "This shall be to you a most holy sabbath, a rest, and ye shall humble your souls; it is a perpetual ordinance.",
+        "kjv": "It shall be a sabbath of rest unto you, and ye shall afflict your souls, by a statute for ever."
+      }
+    },
+    {
+      "num": 32,
+      "geez": "ወያስተሰሪ ፡ ካህን ፡ ዘቀብእዎ ፡ ወዘፈጸሙ ፡ እደዊሁ ፡ ከመ ፡ ይኩን ፡ ካህነ ፡ እምድኅረ ፡ አቡሁ ፡ ወይለብስ ፡\n                  አልባሰ ፡ ዐጌ ፡ አልባሰ ፡ ቅድሳት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያስተሰሪ",
+          "t": "wäyasətäsäri",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ዘቀብእዎ",
+          "t": "zäqäbəʾəwo",
+          "gl": ""
+        },
+        {
+          "g": "ወዘፈጸሙ",
+          "t": "wäzäfäṣämu",
+          "gl": ""
+        },
+        {
+          "g": "እደዊሁ",
+          "t": "ʾədäwihu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይኩን",
+          "t": "yəkunə",
+          "gl": ""
+        },
+        {
+          "g": "ካህነ",
+          "t": "kahənä",
+          "gl": ""
+        },
+        {
+          "g": "እምድኅረ",
+          "t": "ʾəmədəḫərä",
+          "gl": ""
+        },
+        {
+          "g": "አቡሁ",
+          "t": "ʾäbuhu",
+          "gl": ""
+        },
+        {
+          "g": "ወይለብስ",
+          "t": "wäyəläbəsə",
+          "gl": ""
+        },
+        {
+          "g": "አልባሰ",
+          "t": "ʾäləbasä",
+          "gl": ""
+        },
+        {
+          "g": "ዐጌ",
+          "t": "ʿäge",
+          "gl": ""
+        },
+        {
+          "g": "አልባሰ",
+          "t": "ʾäləbasä",
+          "gl": ""
+        },
+        {
+          "g": "ቅድሳት",
+          "t": "qədəsatə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The priest whomsoever they shall anoint shall make atonement, and whomsoever they shall consecrate to exercise the priestly office after his father; and he shall put on the linen robe, the holy garment.",
+        "kjv": "And the priest, whom he shall anoint, and whom he shall consecrate to minister in the priest’s office in his father’s stead, shall make the atonement, and shall put on the linen clothes, even the holy garments:"
+      }
+    },
+    {
+      "num": 33,
+      "geez": "ወያስተሰሪ ፡ በቅዱሰ ፡ ቅዱሳን ፡ ወበደብተራ ፡ ዘመርጡል ፡ ወበምሥዋዕ ፡ ያስተሰሪ ፡ ወበእንተ ፡ ካህናትኒ ፡ ወበእንተ\n                  ፡ ኵሉ ፡ ተዓይን ፡ ያስተሰሪ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያስተሰሪ",
+          "t": "wäyasətäsäri",
+          "gl": ""
+        },
+        {
+          "g": "በቅዱሰ",
+          "t": "bäqədusä",
+          "gl": ""
+        },
+        {
+          "g": "ቅዱሳን",
+          "t": "qədusanə",
+          "gl": ""
+        },
+        {
+          "g": "ወበደብተራ",
+          "t": "wäbädäbətära",
+          "gl": ""
+        },
+        {
+          "g": "ዘመርጡል",
+          "t": "zämärəṭulə",
+          "gl": ""
+        },
+        {
+          "g": "ወበምሥዋዕ",
+          "t": "wäbäməśəwaʿə",
+          "gl": ""
+        },
+        {
+          "g": "ያስተሰሪ",
+          "t": "yasətäsäri",
+          "gl": ""
+        },
+        {
+          "g": "ወበእንተ",
+          "t": "wäbäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ካህናትኒ",
+          "t": "kahənatəni",
+          "gl": ""
+        },
+        {
+          "g": "ወበእንተ",
+          "t": "wäbäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ተዓይን",
+          "t": "täʿayənə",
+          "gl": ""
+        },
+        {
+          "g": "ያስተሰሪ",
+          "t": "yasətäsäri",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he shall make atonement for the most holy place, and the tabernacle of witness; and he shall make atonement for the altar, and for the priests; and he shall make atonement for all the congregation.",
+        "kjv": "And he shall make an atonement for the holy sanctuary, and he shall make an atonement for the tabernacle of the congregation, and for the altar, and he shall make an atonement for the priests, and for all the people of the congregation."
+      }
+    },
+    {
+      "num": 34,
+      "geez": "ወዝንቱ ፡ ሕግ ፡ ይኩንክሙ ፡ ዘለዓለም ፡ ከመ ፡ ያስተስሪ ፡ በእንተ ፡ ደቂቀ ፡ እስራኤል ፡ እምነ ፡ ኵሉ ፡ ኀጣይኢሆሙ\n                  ፡ ወምዕረ ፡ ለዓመት ፡ ይገብሮ ፡ በከመ ፡ አዘዞ ፡ እግዚአብሔር ፡ ለሙሴ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዝንቱ",
+          "t": "wäzənətu",
+          "gl": ""
+        },
+        {
+          "g": "ሕግ",
+          "t": "ḥəgə",
+          "gl": ""
+        },
+        {
+          "g": "ይኩንክሙ",
+          "t": "yəkunəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ዘለዓለም",
+          "t": "zäläʿalämə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ያስተስሪ",
+          "t": "yasətäsəri",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ኀጣይኢሆሙ",
+          "t": "ḫäṭayəʾihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወምዕረ",
+          "t": "wäməʿərä",
+          "gl": ""
+        },
+        {
+          "g": "ለዓመት",
+          "t": "läʿamätə",
+          "gl": ""
+        },
+        {
+          "g": "ይገብሮ",
+          "t": "yəgäbəro",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "አዘዞ",
+          "t": "ʾäzäzo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And this shall be to you a perpetual statute to make atonement for the children of Israel for all their sins: it shall be done once in the year, as the Lord commanded Moses.",
+        "kjv": "And this shall be an everlasting statute unto you, to make an atonement for the children of Israel for all their sins once a year. And he did as the LORD commanded Moses."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

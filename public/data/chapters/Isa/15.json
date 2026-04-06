@@ -1,0 +1,617 @@
+{
+  "book": "Isa",
+  "chapter": 15,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "በሌሊት፡ ያጠፍእዋ፡ ለሞአብ፡ ወበሌሊት፡ ያንኅልዋ፡ ለጥቅመ፡ ሞአብ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "በሌሊት",
+          "t": "bälelitə",
+          "gl": ""
+        },
+        {
+          "g": "ያጠፍእዋ",
+          "t": "yaṭäfəʾəwa",
+          "gl": ""
+        },
+        {
+          "g": "ለሞአብ",
+          "t": "lämoʾäbə",
+          "gl": ""
+        },
+        {
+          "g": "ወበሌሊት",
+          "t": "wäbälelitə",
+          "gl": ""
+        },
+        {
+          "g": "ያንኅልዋ",
+          "t": "yanəḫələwa",
+          "gl": ""
+        },
+        {
+          "g": "ለጥቅመ",
+          "t": "läṭəqəmä",
+          "gl": ""
+        },
+        {
+          "g": "ሞአብ",
+          "t": "moʾäbə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The Word against the Land of Moab. By night the land of Moab shall be destroyed; for by night the wall of the land of Moab shall be destroyed.",
+        "kjv": "The burden of Moab. Because in the night Ar of Moab is laid waste, and brought to silence; because in the night Kir of Moab is laid waste, and brought to silence;"
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ተክዙ፡ ለርእስክሙ፡ እስመ፡ ተሐጕለት፡ ዴቦን፡ ኀበ፡ ይነብር፡ ጣዖትክሙ፡ ወኀበ፡ ሀሎ፡ ምሥዋዓቲክሙ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ተክዙ",
+          "t": "täkəzu",
+          "gl": ""
+        },
+        {
+          "g": "ለርእስክሙ",
+          "t": "lärəʾəsəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ተሐጕለት",
+          "t": "täḥägwəlätə",
+          "gl": ""
+        },
+        {
+          "g": "ዴቦን",
+          "t": "debonə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብር",
+          "t": "yənäbərə",
+          "gl": ""
+        },
+        {
+          "g": "ጣዖትክሙ",
+          "t": "ṭaʿotəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወኀበ",
+          "t": "wäḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ሀሎ",
+          "t": "hälo",
+          "gl": ""
+        },
+        {
+          "g": "ምሥዋዓቲክሙ",
+          "t": "məśəwaʿatikəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Grieve for yourselves; for even Debon, where your altar is, shall be destroyed: thither shall ye go up to weep, over Nabau of the land of Moab: howl ye: baldness shall be on every head, and all arms shall be wounded.",
+        "kjv": "He is gone up to Bajith, and to Dibon, the high places, to weep: Moab shall howl over Nebo, and over Medeba: on all their heads shall be baldness, and every beard cut off."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "በውስተ፡ መርሕባ፡ ቅንቱ፡ ሠቀ፡ ወብክዩ፡ በውስተ፡ አንሕስቲሃ፡ ወአውይዉ፡ ውስተ፡ አስኳቲሃ፡ እንዘ፡ ትበክዩ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "በውስተ",
+          "t": "bäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "መርሕባ",
+          "t": "märəḥəba",
+          "gl": ""
+        },
+        {
+          "g": "ቅንቱ",
+          "t": "qənətu",
+          "gl": ""
+        },
+        {
+          "g": "ሠቀ",
+          "t": "śäqä",
+          "gl": ""
+        },
+        {
+          "g": "ወብክዩ",
+          "t": "wäbəkəyu",
+          "gl": ""
+        },
+        {
+          "g": "በውስተ",
+          "t": "bäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አንሕስቲሃ",
+          "t": "ʾänəḥəsətiha",
+          "gl": ""
+        },
+        {
+          "g": "ወአውይዉ",
+          "t": "wäʾäwəyəwu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አስኳቲሃ",
+          "t": "ʾäsəkwatiha",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ትበክዩ",
+          "t": "təbäkəyu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Gird yourselves with sackcloth in her streets: and lament upon her roofs, and in her streets, and in her ways; howl all of you with weeping.",
+        "kjv": "In their streets they shall gird themselves with sackcloth: on the tops of their houses, and in their streets, every one shall howl, weeping abundantly."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "እስመ፡ አውየወት፡ ሐሴቦን፡ ወነገረት፡ እስከ፡ ኢያሳ፡ ወተሰምዐ፡ ቃሎሙ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አውየወት",
+          "t": "ʾäwəyäwätə",
+          "gl": ""
+        },
+        {
+          "g": "ሐሴቦን",
+          "t": "ḥäsebonə",
+          "gl": ""
+        },
+        {
+          "g": "ወነገረት",
+          "t": "wänägärätə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ኢያሳ",
+          "t": "ʾiyasa",
+          "gl": ""
+        },
+        {
+          "g": "ወተሰምዐ",
+          "t": "wätäsäməʿä",
+          "gl": ""
+        },
+        {
+          "g": "ቃሎሙ",
+          "t": "qalomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For Esebon and Eleale have cried: their voice was heard to Jassa: therefore the loins of the region of Moab cry aloud; her soul shall know.",
+        "kjv": "And Heshbon shall cry, and Elealeh: their voice shall be heard even unto Jahaz: therefore the armed soldiers of Moab shall cry out; his life shall be grievous unto him."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ልባ፡ ለሞአብ፡ ተአወዩ፡ ባሕቲታ፡ እስከ፡ ሴጎር፤ እስመ፡ እጓለ፡ እጐልት፡ ይእቲ፡ ዘሠለስቱ፡ ክረምታ፤ በውስተ፡ ዐቀባ፡ ለሉዊት፡ ይበክዩ፡ ኀቤከ፡ ወየዐርጉ፡ ፍኖተ፡ አሮሜን።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ልባ",
+          "t": "ləba",
+          "gl": ""
+        },
+        {
+          "g": "ለሞአብ",
+          "t": "lämoʾäbə",
+          "gl": ""
+        },
+        {
+          "g": "ተአወዩ",
+          "t": "täʾäwäyu",
+          "gl": ""
+        },
+        {
+          "g": "ባሕቲታ",
+          "t": "baḥətita",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ሴጎር እስመ",
+          "t": "segorə ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "እጓለ",
+          "t": "ʾəgwalä",
+          "gl": ""
+        },
+        {
+          "g": "እጐልት",
+          "t": "ʾəgwälətə",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ዘሠለስቱ",
+          "t": "zäśäläsətu",
+          "gl": ""
+        },
+        {
+          "g": "ክረምታ በውስተ",
+          "t": "kəräməta bäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዐቀባ",
+          "t": "ʿäqäba",
+          "gl": ""
+        },
+        {
+          "g": "ለሉዊት",
+          "t": "läluwitə",
+          "gl": ""
+        },
+        {
+          "g": "ይበክዩ",
+          "t": "yəbäkəyu",
+          "gl": ""
+        },
+        {
+          "g": "ኀቤከ",
+          "t": "ḫäbekä",
+          "gl": ""
+        },
+        {
+          "g": "ወየዐርጉ",
+          "t": "wäyäʿärəgu",
+          "gl": ""
+        },
+        {
+          "g": "ፍኖተ",
+          "t": "fənotä",
+          "gl": ""
+        },
+        {
+          "g": "አሮሜን",
+          "t": "ʾäromenə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The heart of the region of Moab cries within her to Segor; for it is as a heifer of three years old: and on the ascent of Luith they shall go up to thee weeping by the way of Aroniim: she cries, Destruction, and trembling.",
+        "kjv": "My heart shall cry out for Moab; his fugitives shall flee unto Zoar, an heifer of three years old: for by the mounting up of Luhith with weeping shall they go it up; for in the way of Horonaim they shall raise up a cry of destruction."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወይነፅፍ፡ ማየ፡ ኔምሬም፡ ወየኀልቅ፡ ሣዕራ፤ ወኢይትረከብ፡ ሐመልማል፡ በውስቴታ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይነፅፍ",
+          "t": "wäyənäṣ́əfə",
+          "gl": ""
+        },
+        {
+          "g": "ማየ",
+          "t": "mayä",
+          "gl": ""
+        },
+        {
+          "g": "ኔምሬም",
+          "t": "neməremə",
+          "gl": ""
+        },
+        {
+          "g": "ወየኀልቅ",
+          "t": "wäyäḫäləqə",
+          "gl": ""
+        },
+        {
+          "g": "ሣዕራ ወኢይትረከብ",
+          "t": "śaʿəra wäʾiyətəräkäbə",
+          "gl": ""
+        },
+        {
+          "g": "ሐመልማል",
+          "t": "ḥämäləmalə",
+          "gl": ""
+        },
+        {
+          "g": "በውስቴታ",
+          "t": "bäwəsəteta",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The water of Nemerim shall be desolate, and the grass thereof shall fail: for there shall be no green grass.",
+        "kjv": "For the waters of Nimrim shall be desolate: for the hay is withered away, the grass faileth, there is no green thing."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወምስለ፡ ከመዝ፡ ሀለወከ፡ ከመ፡ ኢትድኅን፤ እስመ፡ አመጽእ፡ ውስተ፡ ቈላተ፡ ዐረባስ፡ ወይነሥኣ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወምስለ",
+          "t": "wäməsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ከመዝ",
+          "t": "kämäzə",
+          "gl": ""
+        },
+        {
+          "g": "ሀለወከ",
+          "t": "häläwäkä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ኢትድኅን እስመ",
+          "t": "ʾitədəḫənə ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አመጽእ",
+          "t": "ʾämäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ቈላተ",
+          "t": "qwälatä",
+          "gl": ""
+        },
+        {
+          "g": "ዐረባስ",
+          "t": "ʿäräbasə",
+          "gl": ""
+        },
+        {
+          "g": "ወይነሥኣ",
+          "t": "wäyənäśəʾa",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Shall Moab even thus be delivered? for I will bring the Arabians upon the valley, and they shall take it.",
+        "kjv": "Therefore the abundance they have gotten, and that which they have laid up, shall they carry away to the brook of the willows."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "እስመ፡ ኀብረ፡ አውያታ፡ ምስለ፡ በሐውርተ፡ ሞአብ፡ ዘአጋሌም፡ ወወውዑ፡ እስከ፡ ዐዘቅተ፡ ኤሌም።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኀብረ",
+          "t": "ḫäbərä",
+          "gl": ""
+        },
+        {
+          "g": "አውያታ",
+          "t": "ʾäwəyata",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "በሐውርተ",
+          "t": "bäḥäwərətä",
+          "gl": ""
+        },
+        {
+          "g": "ሞአብ",
+          "t": "moʾäbə",
+          "gl": ""
+        },
+        {
+          "g": "ዘአጋሌም",
+          "t": "zäʾägalemə",
+          "gl": ""
+        },
+        {
+          "g": "ወወውዑ",
+          "t": "wäwäwəʿu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዐዘቅተ",
+          "t": "ʿäzäqətä",
+          "gl": ""
+        },
+        {
+          "g": "ኤሌም",
+          "t": "ʾelemə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For the cry has reached the border of the region of Moab, even of Agalim; and her howling has gone as far as the well of Ælim.",
+        "kjv": "For the cry is gone round about the borders of Moab; the howling thereof unto Eglaim, and the howling thereof unto Beerelim."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወይመልእ፡ ደም፡ ውስተ፡ ማየ፡ ሮሞን፤ እስመ፡ አመጽእ፡ ላዕለ፡ ሮሞን፡ ዐረባስ፡ ወአነሥእ፡ ዘርአ፡ ሞአብ፡ ወአርያል፡ ወእለ፡ ተርፉ፡ እምአደማ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይመልእ",
+          "t": "wäyəmäləʾə",
+          "gl": ""
+        },
+        {
+          "g": "ደም",
+          "t": "dämə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ማየ",
+          "t": "mayä",
+          "gl": ""
+        },
+        {
+          "g": "ሮሞን እስመ",
+          "t": "romonə ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አመጽእ",
+          "t": "ʾämäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሮሞን",
+          "t": "romonə",
+          "gl": ""
+        },
+        {
+          "g": "ዐረባስ",
+          "t": "ʿäräbasə",
+          "gl": ""
+        },
+        {
+          "g": "ወአነሥእ",
+          "t": "wäʾänäśəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ዘርአ",
+          "t": "zärəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሞአብ",
+          "t": "moʾäbə",
+          "gl": ""
+        },
+        {
+          "g": "ወአርያል",
+          "t": "wäʾärəyalə",
+          "gl": ""
+        },
+        {
+          "g": "ወእለ",
+          "t": "wäʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ተርፉ",
+          "t": "tärəfu",
+          "gl": ""
+        },
+        {
+          "g": "እምአደማ",
+          "t": "ʾəməʾädäma",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the water of Dimon shall be filled with blood: for I will bring Arabians upon Dimon, and I will take away the seed of Moab, and Ariel, and the remnant of Adama.",
+        "kjv": "For the waters of Dimon shall be full of blood: for I will bring more upon Dimon, lions upon him that escapeth of Moab, and upon the remnant of the land."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

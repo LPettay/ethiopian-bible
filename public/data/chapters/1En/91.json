@@ -1,0 +1,1825 @@
+{
+  "book": "1En",
+  "chapter": 91,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወይእዜኒ፡ ወልድየ፡ ማቱሳላ፡ ጸውዕ፡ ሊተ፡ ኵሎሙ፡ አኀዊከ፡ ወአስተጋብእ፡ ሊተ፡ ኵሎ፡ ደቂቀ፡ እምከ፡ እስመ፡ ቃል፡ ይጼውዐኒ፡ ወመንፈስ፡ ተክዕወ፡ በላዕሌየ፡ ከመ፡ አርእይክሙ፡ ኵሎ፡ ዘይበጽሐክሙ፡ እስከ፡ ለዓለም።",
+      "translation": "‘And now, my son Methuselah, call to me all thy brothers And gather together to me all the sons of thy mother; For the word calls me, And the spirit is poured out upon me, That I may show you everything That shall befall you for ever.’",
+      "words": [
+        {
+          "g": "ወይእዜኒ",
+          "t": "wäyəʾəzeni",
+          "gl": ""
+        },
+        {
+          "g": "ወልድየ",
+          "t": "wälədəyä",
+          "gl": ""
+        },
+        {
+          "g": "ማቱሳላ",
+          "t": "matusala",
+          "gl": ""
+        },
+        {
+          "g": "ጸውዕ",
+          "t": "ṣäwəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ሊተ",
+          "t": "litä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "አኀዊከ",
+          "t": "ʾäḫäwikä",
+          "gl": ""
+        },
+        {
+          "g": "ወአስተጋብእ",
+          "t": "wäʾäsətägabəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ሊተ",
+          "t": "litä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እምከ",
+          "t": "ʾəməkä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ቃል",
+          "t": "qalə",
+          "gl": ""
+        },
+        {
+          "g": "ይጼውዐኒ",
+          "t": "yəṣewəʿäni",
+          "gl": ""
+        },
+        {
+          "g": "ወመንፈስ",
+          "t": "wämänəfäsə",
+          "gl": ""
+        },
+        {
+          "g": "ተክዕወ",
+          "t": "täkəʿəwä",
+          "gl": ""
+        },
+        {
+          "g": "በላዕሌየ",
+          "t": "bälaʿəleyä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "አርእይክሙ",
+          "t": "ʾärəʾəyəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ዘይበጽሐክሙ",
+          "t": "zäyəbäṣəḥäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ለዓለም",
+          "t": "läʿalämə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "geez": "ወእምኔሁ፡ ሖረ፡ ማቱሳላ፡ ወጸውዖሙ፡ ለኵሎሙ፡ አኀዊሁ፡ ኀቤሁ፡ ወአስተጋብኦሙ፡ ለአዝማደ፡ ዚኣሁ።",
+      "translation": "And thereupon Methuselah went and summoned to him all his brothers and assembled his relatives.",
+      "words": [
+        {
+          "g": "ወእምኔሁ",
+          "t": "wäʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "ሖረ",
+          "t": "ḥorä",
+          "gl": ""
+        },
+        {
+          "g": "ማቱሳላ",
+          "t": "matusala",
+          "gl": ""
+        },
+        {
+          "g": "ወጸውዖሙ",
+          "t": "wäṣäwəʿomu",
+          "gl": ""
+        },
+        {
+          "g": "ለኵሎሙ",
+          "t": "läkwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "አኀዊሁ",
+          "t": "ʾäḫäwihu",
+          "gl": ""
+        },
+        {
+          "g": "ኀቤሁ",
+          "t": "ḫäbehu",
+          "gl": ""
+        },
+        {
+          "g": "ወአስተጋብኦሙ",
+          "t": "wäʾäsətägabəʾomu",
+          "gl": ""
+        },
+        {
+          "g": "ለአዝማደ",
+          "t": "läʾäzəmadä",
+          "gl": ""
+        },
+        {
+          "g": "ዚኣሁ",
+          "t": "ziʾahu",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "geez": "ወተናገሮሙ፡ ለኵሎሙ፡ ውሉዱ፡ ጽድቅ፡ ወይቤ፡ ስምዑ፡ ደቂቅየ፡ ኵሎ፡ ነገረ፡ አቡክሙ፡ ወአጽምኡ፡ በርትዕ፡ ቃለ፡ አፉየ፡ እስመ፡ ኣሰምዕ፡ ዲቤክሙ፡ ወእነግረክሙ፡ ፍቁራንየ፡ አፍቅርዋ፡ ለርትዕ፡ ወባቲ፡ ሑሩ።",
+      "translation": "And he spake unto all the children of righteousness and said: ‘Hear, ye sons of Enoch, all the words of your father, And hearken aright to the voice of my mouth; For I exhort you and say unto you, beloved:",
+      "words": [
+        {
+          "g": "ወተናገሮሙ",
+          "t": "wätänagäromu",
+          "gl": ""
+        },
+        {
+          "g": "ለኵሎሙ",
+          "t": "läkwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ውሉዱ",
+          "t": "wəludu",
+          "gl": ""
+        },
+        {
+          "g": "ጽድቅ",
+          "t": "ṣədəqə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "ስምዑ",
+          "t": "səməʿu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቅየ",
+          "t": "däqiqəyä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ነገረ",
+          "t": "nägärä",
+          "gl": ""
+        },
+        {
+          "g": "አቡክሙ",
+          "t": "ʾäbukəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወአጽምኡ",
+          "t": "wäʾäṣəməʾu",
+          "gl": ""
+        },
+        {
+          "g": "በርትዕ",
+          "t": "bärətəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ቃለ",
+          "t": "qalä",
+          "gl": ""
+        },
+        {
+          "g": "አፉየ",
+          "t": "ʾäfuyä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኣሰምዕ",
+          "t": "ʾasäməʿə",
+          "gl": ""
+        },
+        {
+          "g": "ዲቤክሙ",
+          "t": "dibekəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወእነግረክሙ",
+          "t": "wäʾənägəräkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ፍቁራንየ",
+          "t": "fəquranəyä",
+          "gl": ""
+        },
+        {
+          "g": "አፍቅርዋ",
+          "t": "ʾäfəqərəwa",
+          "gl": ""
+        },
+        {
+          "g": "ለርትዕ",
+          "t": "lärətəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወባቲ",
+          "t": "wäbati",
+          "gl": ""
+        },
+        {
+          "g": "ሑሩ",
+          "t": "ḥuru",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 4,
+      "geez": "ወኢትቅረቡ፡ ኀበ፡ ርትዕ፡ በክልኤ፡ ልብ፡ ወኢትኅበሩ፡ ምስለ፡ እለ፡ ክልኤ፡ ልብ፡ አላ፡ ሑሩ፡ በጽድቅ፡ ደቂቅየ፡ ወይእቲ፡ ትመርሐክሙ፡ በፍናዋት፡ ኄራት፡ ወጽድቅ፡ ይከውን፡ ለክሙ፡ ሱታፌ።",
+      "translation": "Love uprightness and walk therein. And draw not nigh to uprightness with a double heart, And associate not with those of a double heart, But walk in righteousness, my sons. And it shall guide you on good paths, And righteousness shall be your companion.",
+      "words": [
+        {
+          "g": "ወኢትቅረቡ",
+          "t": "wäʾitəqəräbu",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ርትዕ",
+          "t": "rətəʿə",
+          "gl": ""
+        },
+        {
+          "g": "በክልኤ",
+          "t": "bäkələʾe",
+          "gl": ""
+        },
+        {
+          "g": "ልብ",
+          "t": "ləbə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢትኅበሩ",
+          "t": "wäʾitəḫəbäru",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ክልኤ",
+          "t": "kələʾe",
+          "gl": ""
+        },
+        {
+          "g": "ልብ",
+          "t": "ləbə",
+          "gl": ""
+        },
+        {
+          "g": "አላ",
+          "t": "ʾäla",
+          "gl": ""
+        },
+        {
+          "g": "ሑሩ",
+          "t": "ḥuru",
+          "gl": ""
+        },
+        {
+          "g": "በጽድቅ",
+          "t": "bäṣədəqə",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቅየ",
+          "t": "däqiqəyä",
+          "gl": ""
+        },
+        {
+          "g": "ወይእቲ",
+          "t": "wäyəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ትመርሐክሙ",
+          "t": "təmärəḥäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "በፍናዋት",
+          "t": "bäfənawatə",
+          "gl": ""
+        },
+        {
+          "g": "ኄራት",
+          "t": "ḫeratə",
+          "gl": ""
+        },
+        {
+          "g": "ወጽድቅ",
+          "t": "wäṣədəqə",
+          "gl": ""
+        },
+        {
+          "g": "ይከውን",
+          "t": "yəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ሱታፌ",
+          "t": "sutafe",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 5,
+      "geez": "እስመ፡ ኣአምር፡ ከመ፡ ይጸንዕ፡ ህላዌ፡ ግፍዕ፡ ዲበ፡ ምድር፡ ወይትፌጸም፡ መቅሠፍት፡ ዐቢይ፡ ዲበ፡ ምድር፡ ወትትፌጸም፡ ኵላ፡ ዐመፃ፡ ወትትገዘም፡ እምሥረዊሃ፡ ወኵሉ፡ ሕንጻ፡ የኀልፍ።",
+      "translation": "For I know that violence must increase on the earth, And a great chastisement be executed on the earth, And all unrighteousness come to an end: Yea, it shall be cut off from its roots, And its whole structure be destroyed.",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኣአምር",
+          "t": "ʾaʾämərə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይጸንዕ",
+          "t": "yəṣänəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ህላዌ",
+          "t": "həlawe",
+          "gl": ""
+        },
+        {
+          "g": "ግፍዕ",
+          "t": "gəfəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ወይትፌጸም",
+          "t": "wäyətəfeṣämə",
+          "gl": ""
+        },
+        {
+          "g": "መቅሠፍት",
+          "t": "mäqəśäfətə",
+          "gl": ""
+        },
+        {
+          "g": "ዐቢይ",
+          "t": "ʿäbiyə",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ወትትፌጸም",
+          "t": "wätətəfeṣämə",
+          "gl": ""
+        },
+        {
+          "g": "ኵላ",
+          "t": "kwəla",
+          "gl": ""
+        },
+        {
+          "g": "ዐመፃ",
+          "t": "ʿämäṣ́a",
+          "gl": ""
+        },
+        {
+          "g": "ወትትገዘም",
+          "t": "wätətəgäzämə",
+          "gl": ""
+        },
+        {
+          "g": "እምሥረዊሃ",
+          "t": "ʾəməśəräwiha",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ሕንጻ",
+          "t": "ḥənəṣa",
+          "gl": ""
+        },
+        {
+          "g": "የኀልፍ",
+          "t": "yäḫäləfə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 6,
+      "geez": "ወትደግም፡ ካዕበ፡ ዐመፃ፡ ወትትፌጸም፡ ዲበ፡ ምድር፡ ወትትአኀዝ፡ ኵላ፡ ግብረ፡ ዐመፃ፡ ወግብረ፡ ግፍዕ፡ ወአበሳ፡ ካዕበተ።",
+      "translation": "And unrighteousness shall again be consummated on the earth, And all the deeds of unrighteousness and of violence And transgression shall prevail in a twofold degree.",
+      "words": [
+        {
+          "g": "ወትደግም",
+          "t": "wätədägəmə",
+          "gl": ""
+        },
+        {
+          "g": "ካዕበ",
+          "t": "kaʿəbä",
+          "gl": ""
+        },
+        {
+          "g": "ዐመፃ",
+          "t": "ʿämäṣ́a",
+          "gl": ""
+        },
+        {
+          "g": "ወትትፌጸም",
+          "t": "wätətəfeṣämə",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ወትትአኀዝ",
+          "t": "wätətəʾäḫäzə",
+          "gl": ""
+        },
+        {
+          "g": "ኵላ",
+          "t": "kwəla",
+          "gl": ""
+        },
+        {
+          "g": "ግብረ",
+          "t": "gəbərä",
+          "gl": ""
+        },
+        {
+          "g": "ዐመፃ",
+          "t": "ʿämäṣ́a",
+          "gl": ""
+        },
+        {
+          "g": "ወግብረ",
+          "t": "wägəbərä",
+          "gl": ""
+        },
+        {
+          "g": "ግፍዕ",
+          "t": "gəfəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወአበሳ",
+          "t": "wäʾäbäsa",
+          "gl": ""
+        },
+        {
+          "g": "ካዕበተ",
+          "t": "kaʿəbätä",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 7,
+      "geez": "ወእመኒ፡ ትልህቅ፡ ዐመፃ፡ ወኀጢአት፡ ወፅርፈት፡ ወግፍዕ፡ ወኵሉ፡ ግብር፡ ወትልህቅ፡ ዕልወት፡ ወአበሳ፡ ወርኵስ፡ መቅሠፍት፡ ዐቢይ፡ ይከውን፡ እምሰማይ፡ ዲበ፡ እሉ፡ ኵሎሙ፡ ወይወፅእ፡ እግዚእ፡ ቅዱስ፡ በመዓት፡ ወመቅሠፍት፡ ዐቢይ፡ ከመ፡ ይግበር፡ ኵነኔ፡ ዲበ፡ ምድር።",
+      "translation": "And when sin and unrighteousness and blasphemy And violence in all kinds of deeds increase, And apostasy and transgression and uncleanness increase, A great chastisement shall come from heaven upon all these, And the holy Lord will come forth with wrath and chastisement To execute judgement on earth.",
+      "words": [
+        {
+          "g": "ወእመኒ",
+          "t": "wäʾəmäni",
+          "gl": ""
+        },
+        {
+          "g": "ትልህቅ",
+          "t": "tələhəqə",
+          "gl": ""
+        },
+        {
+          "g": "ዐመፃ",
+          "t": "ʿämäṣ́a",
+          "gl": ""
+        },
+        {
+          "g": "ወኀጢአት",
+          "t": "wäḫäṭiʾätə",
+          "gl": ""
+        },
+        {
+          "g": "ወፅርፈት",
+          "t": "wäṣ́ərəfätə",
+          "gl": ""
+        },
+        {
+          "g": "ወግፍዕ",
+          "t": "wägəfəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ግብር",
+          "t": "gəbərə",
+          "gl": ""
+        },
+        {
+          "g": "ወትልህቅ",
+          "t": "wätələhəqə",
+          "gl": ""
+        },
+        {
+          "g": "ዕልወት",
+          "t": "ʿələwätə",
+          "gl": ""
+        },
+        {
+          "g": "ወአበሳ",
+          "t": "wäʾäbäsa",
+          "gl": ""
+        },
+        {
+          "g": "ወርኵስ",
+          "t": "wärəkwəsə",
+          "gl": ""
+        },
+        {
+          "g": "መቅሠፍት",
+          "t": "mäqəśäfətə",
+          "gl": ""
+        },
+        {
+          "g": "ዐቢይ",
+          "t": "ʿäbiyə",
+          "gl": ""
+        },
+        {
+          "g": "ይከውን",
+          "t": "yəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "እምሰማይ",
+          "t": "ʾəməsämayə",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "እሉ",
+          "t": "ʾəlu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ወይወፅእ",
+          "t": "wäyəwäṣ́əʾə",
+          "gl": ""
+        },
+        {
+          "g": "እግዚእ",
+          "t": "ʾəgəziʾə",
+          "gl": ""
+        },
+        {
+          "g": "ቅዱስ",
+          "t": "qədusə",
+          "gl": ""
+        },
+        {
+          "g": "በመዓት",
+          "t": "bämäʿatə",
+          "gl": ""
+        },
+        {
+          "g": "ወመቅሠፍት",
+          "t": "wämäqəśäfətə",
+          "gl": ""
+        },
+        {
+          "g": "ዐቢይ",
+          "t": "ʿäbiyə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይግበር",
+          "t": "yəgəbärə",
+          "gl": ""
+        },
+        {
+          "g": "ኵነኔ",
+          "t": "kwənäne",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 8,
+      "geez": "ወበእማንቱ፡ መዋዕል፡ ትትገዘም፡ ግፍዕ፡ እምነ፡ ሥረዊሃ፡ ወአሥራወ፡ ዐመፃ፡ ምስለ፡ ጕሕሉት፡ ወይትሀጐሉ፡ እምታሕተ፡ ሰማይ።",
+      "translation": "In those days violence shall be cut off from its roots, And the roots of unrighteousness together with deceit, And they shall be destroyed from under heaven.",
+      "words": [
+        {
+          "g": "ወበእማንቱ",
+          "t": "wäbäʾəmanətu",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕል",
+          "t": "mäwaʿələ",
+          "gl": ""
+        },
+        {
+          "g": "ትትገዘም",
+          "t": "tətəgäzämə",
+          "gl": ""
+        },
+        {
+          "g": "ግፍዕ",
+          "t": "gəfəʿə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ሥረዊሃ",
+          "t": "śəräwiha",
+          "gl": ""
+        },
+        {
+          "g": "ወአሥራወ",
+          "t": "wäʾäśərawä",
+          "gl": ""
+        },
+        {
+          "g": "ዐመፃ",
+          "t": "ʿämäṣ́a",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ጕሕሉት",
+          "t": "gwəḥəlutə",
+          "gl": ""
+        },
+        {
+          "g": "ወይትሀጐሉ",
+          "t": "wäyətəhägwälu",
+          "gl": ""
+        },
+        {
+          "g": "እምታሕተ",
+          "t": "ʾəmətaḥətä",
+          "gl": ""
+        },
+        {
+          "g": "ሰማይ",
+          "t": "sämayə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 9,
+      "geez": "ወኵሉ፡ ይትወሀብ፡ ምስለ፡ አሕዛብ፡ ወማኅፈድ፡ በእሳት፡ ትነድድ፡ ወያወፅእዎሙ፡ እምኵሉ፡ ምድር፡ ወይትገደፉ፡ በኵነኔ፡ እሳት፡ ወይትሀጐሉ፡ በመዓት፡ ወበኵነኔ፡ ኀያል፡ እንተ፡ ለዓለም።",
+      "translation": "And all the idols of the heathen shall be abandoned, And the temples burned with fire, And they shall remove them from the whole earth, And they (i.e. the heathen) shall be cast into the judgement of fire, And shall perish in wrath and in grievous judgement for ever.",
+      "words": [
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ይትወሀብ",
+          "t": "yətəwähäbə",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "አሕዛብ",
+          "t": "ʾäḥəzabə",
+          "gl": ""
+        },
+        {
+          "g": "ወማኅፈድ",
+          "t": "wämaḫəfädə",
+          "gl": ""
+        },
+        {
+          "g": "በእሳት",
+          "t": "bäʾəsatə",
+          "gl": ""
+        },
+        {
+          "g": "ትነድድ",
+          "t": "tənädədə",
+          "gl": ""
+        },
+        {
+          "g": "ወያወፅእዎሙ",
+          "t": "wäyawäṣ́əʾəwomu",
+          "gl": ""
+        },
+        {
+          "g": "እምኵሉ",
+          "t": "ʾəməkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ወይትገደፉ",
+          "t": "wäyətəgädäfu",
+          "gl": ""
+        },
+        {
+          "g": "በኵነኔ",
+          "t": "bäkwənäne",
+          "gl": ""
+        },
+        {
+          "g": "እሳት",
+          "t": "ʾəsatə",
+          "gl": ""
+        },
+        {
+          "g": "ወይትሀጐሉ",
+          "t": "wäyətəhägwälu",
+          "gl": ""
+        },
+        {
+          "g": "በመዓት",
+          "t": "bämäʿatə",
+          "gl": ""
+        },
+        {
+          "g": "ወበኵነኔ",
+          "t": "wäbäkwənäne",
+          "gl": ""
+        },
+        {
+          "g": "ኀያል",
+          "t": "ḫäyalə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ለዓለም",
+          "t": "läʿalämə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 10,
+      "geez": "ወይትነሣእ፡ ጻድቅ፡ እምንዋም፡ ወይትነሣእ፡ ጥበብ፡ ወይትወሀብ፡ ሎሙ።",
+      "translation": "And the righteous shall arise from their sleep, And wisdom shall arise and be given unto them.",
+      "words": [
+        {
+          "g": "ወይትነሣእ",
+          "t": "wäyətənäśaʾə",
+          "gl": ""
+        },
+        {
+          "g": "ጻድቅ",
+          "t": "ṣadəqə",
+          "gl": ""
+        },
+        {
+          "g": "እምንዋም",
+          "t": "ʾəmənəwamə",
+          "gl": ""
+        },
+        {
+          "g": "ወይትነሣእ",
+          "t": "wäyətənäśaʾə",
+          "gl": ""
+        },
+        {
+          "g": "ጥበብ",
+          "t": "ṭəbäbə",
+          "gl": ""
+        },
+        {
+          "g": "ወይትወሀብ",
+          "t": "wäyətəwähäbə",
+          "gl": ""
+        },
+        {
+          "g": "ሎሙ",
+          "t": "lomu",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 11,
+      "geez": "ወእምኔሁ፡ ይትገዘሙ፡ አሥራወ፡ ዐመፃ፡ ወኃጥኣን፡ ይትሀጐሉ፡ በሰይፍ፡ ወእምነ፡ ፅሩፋን፡ ይትገዘሙ፡ በኵሉ፡ መካን፡ ወእለ፡ ይኄልይዋ፡ ለግፍዕ፡ ወእለ፡ ይገብርዋ፡ ለፅርፈት፡ ይትሀጐሉ፡ በመጥባሕት።",
+      "translation": "[And after that the roots of unrighteousness shall be cut off, and the sinners shall be destroyed by the sword ... shall be cut off from the blasphemers in every place, and those who plan violence and those who commit blasphemy shall perish by the sword.]",
+      "words": [
+        {
+          "g": "ወእምኔሁ",
+          "t": "wäʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "ይትገዘሙ",
+          "t": "yətəgäzämu",
+          "gl": ""
+        },
+        {
+          "g": "አሥራወ",
+          "t": "ʾäśərawä",
+          "gl": ""
+        },
+        {
+          "g": "ዐመፃ",
+          "t": "ʿämäṣ́a",
+          "gl": ""
+        },
+        {
+          "g": "ወኃጥኣን",
+          "t": "wäḫaṭəʾanə",
+          "gl": ""
+        },
+        {
+          "g": "ይትሀጐሉ",
+          "t": "yətəhägwälu",
+          "gl": ""
+        },
+        {
+          "g": "በሰይፍ",
+          "t": "bäsäyəfə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ፅሩፋን",
+          "t": "ṣ́ərufanə",
+          "gl": ""
+        },
+        {
+          "g": "ይትገዘሙ",
+          "t": "yətəgäzämu",
+          "gl": ""
+        },
+        {
+          "g": "በኵሉ",
+          "t": "bäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "መካን",
+          "t": "mäkanə",
+          "gl": ""
+        },
+        {
+          "g": "ወእለ",
+          "t": "wäʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይኄልይዋ",
+          "t": "yəḫeləyəwa",
+          "gl": ""
+        },
+        {
+          "g": "ለግፍዕ",
+          "t": "lägəfəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወእለ",
+          "t": "wäʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይገብርዋ",
+          "t": "yəgäbərəwa",
+          "gl": ""
+        },
+        {
+          "g": "ለፅርፈት",
+          "t": "läṣ́ərəfätə",
+          "gl": ""
+        },
+        {
+          "g": "ይትሀጐሉ",
+          "t": "yətəhägwälu",
+          "gl": ""
+        },
+        {
+          "g": "በመጥባሕት",
+          "t": "bämäṭəbaḥətə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 12,
+      "geez": "ወእምድኅረ፡ ዝ፡ ትከውን፡ ካልእት፡ ሰንበት፡ ሳምኒት፡ እንተ፡ ጽድቅ፡ ወይትወሀብ፡ ላቲ፡ ሰይፍ፡ ከመ፡ ይትገበር፡ ኵነኔ፡ ጽድቅ፡ እምእለ፡ ይገፍዑ፡ ወይትመጠዉ፡ ኃጥኣን፡ ለጻድቃን።",
+      "translation": "And after that there shall be another, the eighth week, that of righteousness, And a sword shall be given to it that a righteous judgement may be executed on the oppressors, And sinners shall be delivered into the hands of the righteous.",
+      "words": [
+        {
+          "g": "ወእምድኅረ",
+          "t": "wäʾəmədəḫərä",
+          "gl": ""
+        },
+        {
+          "g": "ዝ",
+          "t": "zə",
+          "gl": ""
+        },
+        {
+          "g": "ትከውን",
+          "t": "təkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ካልእት",
+          "t": "kaləʾətə",
+          "gl": ""
+        },
+        {
+          "g": "ሰንበት",
+          "t": "sänəbätə",
+          "gl": ""
+        },
+        {
+          "g": "ሳምኒት",
+          "t": "samənitə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ጽድቅ",
+          "t": "ṣədəqə",
+          "gl": ""
+        },
+        {
+          "g": "ወይትወሀብ",
+          "t": "wäyətəwähäbə",
+          "gl": ""
+        },
+        {
+          "g": "ላቲ",
+          "t": "lati",
+          "gl": ""
+        },
+        {
+          "g": "ሰይፍ",
+          "t": "säyəfə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይትገበር",
+          "t": "yətəgäbärə",
+          "gl": ""
+        },
+        {
+          "g": "ኵነኔ",
+          "t": "kwənäne",
+          "gl": ""
+        },
+        {
+          "g": "ጽድቅ",
+          "t": "ṣədəqə",
+          "gl": ""
+        },
+        {
+          "g": "እምእለ",
+          "t": "ʾəməʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይገፍዑ",
+          "t": "yəgäfəʿu",
+          "gl": ""
+        },
+        {
+          "g": "ወይትመጠዉ",
+          "t": "wäyətəmäṭäwu",
+          "gl": ""
+        },
+        {
+          "g": "ኃጥኣን",
+          "t": "ḫaṭəʾanə",
+          "gl": ""
+        },
+        {
+          "g": "ለጻድቃን",
+          "t": "läṣadəqanə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 13,
+      "geez": "በተፍጻሜታ፡ ያጠርዩ፡ አብያተ፡ እምጽድቀ፡ ዚኣሆሙ፡ ወይትሐነጽ፡ ቤት፡ ለንጉሥ፡ ዐቢይ፡ በስብሐት፡ እስከ፡ ለዓለም።",
+      "translation": "And at its close they shall acquire houses through their righteousness, And a house shall be built for the Great King in glory for evermore, 14d. And all mankind shall look to the path of uprightness. 14a. And after that, in the ninth week, the righteous judgement shall be revealed to the whole world, b. And all the works of the godless shall vanish from all the earth, c. And the world shall be written down for destruction.",
+      "words": [
+        {
+          "g": "በተፍጻሜታ",
+          "t": "bätäfəṣameta",
+          "gl": ""
+        },
+        {
+          "g": "ያጠርዩ",
+          "t": "yaṭärəyu",
+          "gl": ""
+        },
+        {
+          "g": "አብያተ",
+          "t": "ʾäbəyatä",
+          "gl": ""
+        },
+        {
+          "g": "እምጽድቀ",
+          "t": "ʾəməṣədəqä",
+          "gl": ""
+        },
+        {
+          "g": "ዚኣሆሙ",
+          "t": "ziʾahomu",
+          "gl": ""
+        },
+        {
+          "g": "ወይትሐነጽ",
+          "t": "wäyətəḥänäṣə",
+          "gl": ""
+        },
+        {
+          "g": "ቤት",
+          "t": "betə",
+          "gl": ""
+        },
+        {
+          "g": "ለንጉሥ",
+          "t": "länəguśə",
+          "gl": ""
+        },
+        {
+          "g": "ዐቢይ",
+          "t": "ʿäbiyə",
+          "gl": ""
+        },
+        {
+          "g": "በስብሐት",
+          "t": "bäsəbəḥätə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ለዓለም",
+          "t": "läʿalämə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 14,
+      "geez": "ወእምድኅረ፡ ዝ፡ በሰንበት፡ ታስዕት፡ ባቲ፡ ኵነኔ፡ ጽድቅ፡ ትትከሠት፡ ለኵሉ፡ ዓለም፡ ወኵሉ፡ ተግባረ፡ ረሲዓን፡ ይወፅእ፡ እምዲበ፡ ምድር፡ ወይጸሐፍ፡ ዓለም፡ ለሀጕል፡ ወኵሉ፡ ሰብእ፡ ይኔጽሩ፡ ለፍኖተ፡ ርትዕ።",
+      "translation": "And all mankind shall look to the path of uprightness. a And after that, in the ninth week, the righteous judgement shall be revealed to the whole world, And all the works of the godless shall vanish from all the earth, And the world shall be written down for destruction.",
+      "words": [
+        {
+          "g": "ወእምድኅረ",
+          "t": "wäʾəmədəḫərä",
+          "gl": ""
+        },
+        {
+          "g": "ዝ",
+          "t": "zə",
+          "gl": ""
+        },
+        {
+          "g": "በሰንበት",
+          "t": "bäsänəbätə",
+          "gl": ""
+        },
+        {
+          "g": "ታስዕት",
+          "t": "tasəʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ባቲ",
+          "t": "bati",
+          "gl": ""
+        },
+        {
+          "g": "ኵነኔ",
+          "t": "kwənäne",
+          "gl": ""
+        },
+        {
+          "g": "ጽድቅ",
+          "t": "ṣədəqə",
+          "gl": ""
+        },
+        {
+          "g": "ትትከሠት",
+          "t": "tətəkäśätə",
+          "gl": ""
+        },
+        {
+          "g": "ለኵሉ",
+          "t": "läkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዓለም",
+          "t": "ʿalämə",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ተግባረ",
+          "t": "tägəbarä",
+          "gl": ""
+        },
+        {
+          "g": "ረሲዓን",
+          "t": "räsiʿanə",
+          "gl": ""
+        },
+        {
+          "g": "ይወፅእ",
+          "t": "yəwäṣ́əʾə",
+          "gl": ""
+        },
+        {
+          "g": "እምዲበ",
+          "t": "ʾəmədibä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ወይጸሐፍ",
+          "t": "wäyəṣäḥäfə",
+          "gl": ""
+        },
+        {
+          "g": "ዓለም",
+          "t": "ʿalämə",
+          "gl": ""
+        },
+        {
+          "g": "ለሀጕል",
+          "t": "lähägwələ",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ይኔጽሩ",
+          "t": "yəneṣəru",
+          "gl": ""
+        },
+        {
+          "g": "ለፍኖተ",
+          "t": "läfənotä",
+          "gl": ""
+        },
+        {
+          "g": "ርትዕ",
+          "t": "rətəʿə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 15,
+      "geez": "ወእምድኅረ፡ ዝንቱ፡ በሰንበት፡ ዐሥርት፡ ሳብዓቱ፡ እድ፡ ባቲ፡ ኵነኔ፡ እንተ፡ ለዓለም፡ ወትትገበር፡ እምትጉሃን፡ ወሰማይ፡ ዘለዓለም፡ ዐቢይ፡ ዘይበቊል፡ እማእከሎሙ፡ ለመላእክት።",
+      "translation": "And after this, in the tenth week in the seventh part, There shall be the great eternal judgement, In which He will execute vengeance amongst the angels.",
+      "words": [
+        {
+          "g": "ወእምድኅረ",
+          "t": "wäʾəmədəḫərä",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "በሰንበት",
+          "t": "bäsänəbätə",
+          "gl": ""
+        },
+        {
+          "g": "ዐሥርት",
+          "t": "ʿäśərətə",
+          "gl": ""
+        },
+        {
+          "g": "ሳብዓቱ",
+          "t": "sabəʿatu",
+          "gl": ""
+        },
+        {
+          "g": "እድ",
+          "t": "ʾədə",
+          "gl": ""
+        },
+        {
+          "g": "ባቲ",
+          "t": "bati",
+          "gl": ""
+        },
+        {
+          "g": "ኵነኔ",
+          "t": "kwənäne",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ለዓለም",
+          "t": "läʿalämə",
+          "gl": ""
+        },
+        {
+          "g": "ወትትገበር",
+          "t": "wätətəgäbärə",
+          "gl": ""
+        },
+        {
+          "g": "እምትጉሃን",
+          "t": "ʾəmətəguhanə",
+          "gl": ""
+        },
+        {
+          "g": "ወሰማይ",
+          "t": "wäsämayə",
+          "gl": ""
+        },
+        {
+          "g": "ዘለዓለም",
+          "t": "zäläʿalämə",
+          "gl": ""
+        },
+        {
+          "g": "ዐቢይ",
+          "t": "ʿäbiyə",
+          "gl": ""
+        },
+        {
+          "g": "ዘይበቊል",
+          "t": "zäyəbäqwilə",
+          "gl": ""
+        },
+        {
+          "g": "እማእከሎሙ",
+          "t": "ʾəmaʾəkälomu",
+          "gl": ""
+        },
+        {
+          "g": "ለመላእክት",
+          "t": "lämälaʾəkətə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 16,
+      "geez": "ወሰማይ፡ ቀዳማይ፡ ይወፅእ፡ ወየኀልፍ፡ ወሰማይ፡ ሐዲስ፡ ይትረአይ፡ ወኵሉ፡ ኀይላተ፡ ሰማያት፡ ያበርሁ፡ ለዓለም፡ ሰብዐተ፡ ምክዕቢተ።",
+      "translation": "And the first heaven shall depart and pass away, And a new heaven shall appear, And all the powers of the heavens shall give sevenfold light.",
+      "words": [
+        {
+          "g": "ወሰማይ",
+          "t": "wäsämayə",
+          "gl": ""
+        },
+        {
+          "g": "ቀዳማይ",
+          "t": "qädamayə",
+          "gl": ""
+        },
+        {
+          "g": "ይወፅእ",
+          "t": "yəwäṣ́əʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወየኀልፍ",
+          "t": "wäyäḫäləfə",
+          "gl": ""
+        },
+        {
+          "g": "ወሰማይ",
+          "t": "wäsämayə",
+          "gl": ""
+        },
+        {
+          "g": "ሐዲስ",
+          "t": "ḥädisə",
+          "gl": ""
+        },
+        {
+          "g": "ይትረአይ",
+          "t": "yətəräʾäyə",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ኀይላተ",
+          "t": "ḫäyəlatä",
+          "gl": ""
+        },
+        {
+          "g": "ሰማያት",
+          "t": "sämayatə",
+          "gl": ""
+        },
+        {
+          "g": "ያበርሁ",
+          "t": "yabärəhu",
+          "gl": ""
+        },
+        {
+          "g": "ለዓለም",
+          "t": "läʿalämə",
+          "gl": ""
+        },
+        {
+          "g": "ሰብዐተ",
+          "t": "säbəʿätä",
+          "gl": ""
+        },
+        {
+          "g": "ምክዕቢተ",
+          "t": "məkəʿəbitä",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 17,
+      "geez": "ወእምድኅረ፡ ዝ፡ ብዙኃን፡ ሰንበታት፡ እለ፡ አልቦሙ፡ ኍልቊ፡ ለዓለም፡ በኂሩት፡ ወበጽድቅ፡ ይከውኑ፡ ወኀጢአት፡ እምህየ፡ ኢትትበሃል፡ እስከ፡ ለዓለም።",
+      "translation": "And after that there will be many weeks without number for ever, And all shall be in goodness and righteousness, And sin shall no more be mentioned for ever.",
+      "words": [
+        {
+          "g": "ወእምድኅረ",
+          "t": "wäʾəmədəḫərä",
+          "gl": ""
+        },
+        {
+          "g": "ዝ",
+          "t": "zə",
+          "gl": ""
+        },
+        {
+          "g": "ብዙኃን",
+          "t": "bəzuḫanə",
+          "gl": ""
+        },
+        {
+          "g": "ሰንበታት",
+          "t": "sänəbätatə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "አልቦሙ",
+          "t": "ʾäləbomu",
+          "gl": ""
+        },
+        {
+          "g": "ኍልቊ",
+          "t": "ḫwələqwi",
+          "gl": ""
+        },
+        {
+          "g": "ለዓለም",
+          "t": "läʿalämə",
+          "gl": ""
+        },
+        {
+          "g": "በኂሩት",
+          "t": "bäḫirutə",
+          "gl": ""
+        },
+        {
+          "g": "ወበጽድቅ",
+          "t": "wäbäṣədəqə",
+          "gl": ""
+        },
+        {
+          "g": "ይከውኑ",
+          "t": "yəkäwənu",
+          "gl": ""
+        },
+        {
+          "g": "ወኀጢአት",
+          "t": "wäḫäṭiʾätə",
+          "gl": ""
+        },
+        {
+          "g": "እምህየ",
+          "t": "ʾəməhəyä",
+          "gl": ""
+        },
+        {
+          "g": "ኢትትበሃል",
+          "t": "ʾitətəbähalə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ለዓለም",
+          "t": "läʿalämə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 18,
+      "geez": "ወይእዜኒ፡ እብለክሙ፡ ደቂቅየ፡ ወኣርእየክሙ፡ ፍናዋተ፡ ጽድቅ፡ ወፍናዋተ፡ ግፍዕ፡ ወኣርእየክሙ፡ ካዕበ፡ ከመ፡ ታእምሩ፡ ዘይመጽእ።",
+      "translation": "And now I tell you, my sons, and show you The paths of righteousness and the paths of violence. Yea, I will show them to you again That ye may know what will come to pass.",
+      "words": [
+        {
+          "g": "ወይእዜኒ",
+          "t": "wäyəʾəzeni",
+          "gl": ""
+        },
+        {
+          "g": "እብለክሙ",
+          "t": "ʾəbəläkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቅየ",
+          "t": "däqiqəyä",
+          "gl": ""
+        },
+        {
+          "g": "ወኣርእየክሙ",
+          "t": "wäʾarəʾəyäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ፍናዋተ",
+          "t": "fənawatä",
+          "gl": ""
+        },
+        {
+          "g": "ጽድቅ",
+          "t": "ṣədəqə",
+          "gl": ""
+        },
+        {
+          "g": "ወፍናዋተ",
+          "t": "wäfənawatä",
+          "gl": ""
+        },
+        {
+          "g": "ግፍዕ",
+          "t": "gəfəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወኣርእየክሙ",
+          "t": "wäʾarəʾəyäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ካዕበ",
+          "t": "kaʿəbä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ታእምሩ",
+          "t": "taʾəməru",
+          "gl": ""
+        },
+        {
+          "g": "ዘይመጽእ",
+          "t": "zäyəmäṣəʾə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 19,
+      "geez": "ወይእዜኒ፡ ስምዑኒ፡ ደቂቅየ፡ ወሑሩ፡ በፍናዋተ፡ ጽድቅ፡ ወኢትሑሩ፡ በፍናዋተ፡ ግፍዕ፡ እስመ፡ ይትሀጐሉ፡ ለዓለም፡ ኵሎሙ፡ እለ፡ የሐውሩ፡ በፍኖተ፡ ዐመፃ።",
+      "translation": "And now, hearken unto me, my sons, And walk in the paths of righteousness, And walk not in the paths of violence; For all who walk in the paths of unrighteousness shall perish for ever.’",
+      "words": [
+        {
+          "g": "ወይእዜኒ",
+          "t": "wäyəʾəzeni",
+          "gl": ""
+        },
+        {
+          "g": "ስምዑኒ",
+          "t": "səməʿuni",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቅየ",
+          "t": "däqiqəyä",
+          "gl": ""
+        },
+        {
+          "g": "ወሑሩ",
+          "t": "wäḥuru",
+          "gl": ""
+        },
+        {
+          "g": "በፍናዋተ",
+          "t": "bäfənawatä",
+          "gl": ""
+        },
+        {
+          "g": "ጽድቅ",
+          "t": "ṣədəqə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢትሑሩ",
+          "t": "wäʾitəḥuru",
+          "gl": ""
+        },
+        {
+          "g": "በፍናዋተ",
+          "t": "bäfənawatä",
+          "gl": ""
+        },
+        {
+          "g": "ግፍዕ",
+          "t": "gəfəʿə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ይትሀጐሉ",
+          "t": "yətəhägwälu",
+          "gl": ""
+        },
+        {
+          "g": "ለዓለም",
+          "t": "läʿalämə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "የሐውሩ",
+          "t": "yäḥäwəru",
+          "gl": ""
+        },
+        {
+          "g": "በፍኖተ",
+          "t": "bäfənotä",
+          "gl": ""
+        },
+        {
+          "g": "ዐመፃ",
+          "t": "ʿämäṣ́a",
+          "gl": ""
+        }
+      ]
+    }
+  ],
+  "note": "The Apocalypse of Weeks begins (91:11-17 + chapter 93). All of history divided into ten 'weeks.' Scholars note the text was originally disordered — the end of the apocalypse is in chapter 91, the beginning in chapter 93."
+}

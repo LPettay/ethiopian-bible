@@ -1,0 +1,2136 @@
+{
+  "book": "Josh",
+  "chapter": 11,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወሶበ ፡ ሰምዐ ፡ ኢያቢስ ፡ ንጉሠ ፡ አ[ሶ]ር ፡ ለአከ ፡ ኀበ ፡ ኢዮባብ ፡ ንጉሠ ፡ አመሮን ፡ ወኀበ ፡ ንጉሠ ፡\n                  ሰሞኣን ፡ ወኀበ ፡ ንጉሠ ፡ አዚፍ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሶበ",
+          "t": "wäsobä",
+          "gl": ""
+        },
+        {
+          "g": "ሰምዐ",
+          "t": "säməʿä",
+          "gl": ""
+        },
+        {
+          "g": "ኢያቢስ",
+          "t": "ʾiyabisə",
+          "gl": ""
+        },
+        {
+          "g": "ንጉሠ",
+          "t": "nəguśä",
+          "gl": ""
+        },
+        {
+          "g": "አሶር",
+          "t": "ʾäsorə",
+          "gl": ""
+        },
+        {
+          "g": "ለአከ",
+          "t": "läʾäkä",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ኢዮባብ",
+          "t": "ʾiyobabə",
+          "gl": ""
+        },
+        {
+          "g": "ንጉሠ",
+          "t": "nəguśä",
+          "gl": ""
+        },
+        {
+          "g": "አመሮን",
+          "t": "ʾämäronə",
+          "gl": ""
+        },
+        {
+          "g": "ወኀበ",
+          "t": "wäḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ንጉሠ",
+          "t": "nəguśä",
+          "gl": ""
+        },
+        {
+          "g": "ሰሞኣን",
+          "t": "sämoʾanə",
+          "gl": ""
+        },
+        {
+          "g": "ወኀበ",
+          "t": "wäḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ንጉሠ",
+          "t": "nəguśä",
+          "gl": ""
+        },
+        {
+          "g": "አዚፍ",
+          "t": "ʾäzifə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And when Jabis the king of Asor heard, he sent to Jobab king of Maron, and to the king of Symoön, and to the king of Aziph,",
+        "kjv": "And it came to pass, when Jabin king of Hazor had heard those things, that he sent to Jobab king of Madon, and to the king of Shimron, and to the king of Achshaph,"
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ወኀበ ፡ ነገሥት ፡ እለ ፡ መንገለ ፡ ሲዶና ፡ እንተ ፡ ተዐቢ ፡ (እንተ ፡) ውስተ ፡ አድባር ፡ ወውስተ ፡ አራባ ፡\n                  እንተ ፡ ቅድመ ፡ ኬኔሬት ፡ ወውስተ ፡ አሕቅልት ፡ ወውስተ ፡ ፌናዶር ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኀበ",
+          "t": "wäḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ነገሥት",
+          "t": "nägäśətə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "መንገለ",
+          "t": "mänəgälä",
+          "gl": ""
+        },
+        {
+          "g": "ሲዶና",
+          "t": "sidona",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ተዐቢ",
+          "t": "täʿäbi",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አድባር",
+          "t": "ʾädəbarə",
+          "gl": ""
+        },
+        {
+          "g": "ወውስተ",
+          "t": "wäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አራባ",
+          "t": "ʾäraba",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኬኔሬት",
+          "t": "keneretə",
+          "gl": ""
+        },
+        {
+          "g": "ወውስተ",
+          "t": "wäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አሕቅልት",
+          "t": "ʾäḥəqələtə",
+          "gl": ""
+        },
+        {
+          "g": "ወውስተ",
+          "t": "wäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ፌናዶር",
+          "t": "fenadorə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and to the kings who were by the great Sidon, to the hill country and to Araba opposite Keneroth, and to the plain, and to Phenaeddor,",
+        "kjv": "And to the kings that were on the north of the mountains, and of the plains south of Chinneroth, and in the valley, and in the borders of Dor on the west,"
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወውስተ ፡ ጰራሊያ ፡ ዘከናአን ፡ ዘመንገለ ፡ ጽባሕ ፡ ወውስተ ፡ ጰራሊያ ፡ ዘአሞሬዎን ፡ ወኤዌዎን ፡ ወኢየቡሴዎን ፡\n                  ወፌሬዜዎን ፡ እለ ፡ ውስተ ፡ አድባር ፡ ወኬጤዎን ፡ እለ ፡ ውስተ ፡ አሕቅልት ፡ ወውስተ ፡ መሴውመን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወውስተ",
+          "t": "wäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ጰራሊያ",
+          "t": "ṗäraliya",
+          "gl": ""
+        },
+        {
+          "g": "ዘከናአን",
+          "t": "zäkänaʾänə",
+          "gl": ""
+        },
+        {
+          "g": "ዘመንገለ",
+          "t": "zämänəgälä",
+          "gl": ""
+        },
+        {
+          "g": "ጽባሕ",
+          "t": "ṣəbaḥə",
+          "gl": ""
+        },
+        {
+          "g": "ወውስተ",
+          "t": "wäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ጰራሊያ",
+          "t": "ṗäraliya",
+          "gl": ""
+        },
+        {
+          "g": "ዘአሞሬዎን",
+          "t": "zäʾämorewonə",
+          "gl": ""
+        },
+        {
+          "g": "ወኤዌዎን",
+          "t": "wäʾewewonə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢየቡሴዎን",
+          "t": "wäʾiyäbusewonə",
+          "gl": ""
+        },
+        {
+          "g": "ወፌሬዜዎን",
+          "t": "wäferezewonə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አድባር",
+          "t": "ʾädəbarə",
+          "gl": ""
+        },
+        {
+          "g": "ወኬጤዎን",
+          "t": "wäkeṭewonə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አሕቅልት",
+          "t": "ʾäḥəqələtə",
+          "gl": ""
+        },
+        {
+          "g": "ወውስተ",
+          "t": "wäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "መሴውመን",
+          "t": "mäsewəmänə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and to the Chananites on the coast eastward, and to the Amorites on the coast, and the Chettites, and the Pherezites, and the Jebusites in the mountain, and the Evites, and those dwelling under mount Aermon in the land Massyma.",
+        "kjv": "And to the Canaanite on the east and on the west, and to the Amorite, and the Hittite, and the Perizzite, and the Jebusite in the mountains, and to the Hivite under Hermon in the land of Mizpeh."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወወፅኡ ፡ እሙንቱኒ ፡ ወነገሥቶሙኒ ፡ ምስሌሆሙ ፡ ከመ ፡ ኆጻ ፡ ባሕር ፡ ብዝኆሙ ፡ [ወአፍራስ ፡ ወሰረገላት ፡ ብዙኅ ፡\n                  ጥቀ ፡]፡",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወወፅኡ",
+          "t": "wäwäṣ́əʾu",
+          "gl": ""
+        },
+        {
+          "g": "እሙንቱኒ",
+          "t": "ʾəmunətuni",
+          "gl": ""
+        },
+        {
+          "g": "ወነገሥቶሙኒ",
+          "t": "wänägäśətomuni",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሆሙ",
+          "t": "məsəlehomu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ኆጻ",
+          "t": "ḫoṣa",
+          "gl": ""
+        },
+        {
+          "g": "ባሕር",
+          "t": "baḥərə",
+          "gl": ""
+        },
+        {
+          "g": "ብዝኆሙ",
+          "t": "bəzəḫomu",
+          "gl": ""
+        },
+        {
+          "g": "ወአፍራስ",
+          "t": "wäʾäfərasə",
+          "gl": ""
+        },
+        {
+          "g": "ወሰረገላት",
+          "t": "wäsärägälatə",
+          "gl": ""
+        },
+        {
+          "g": "ብዙኅ",
+          "t": "bəzuḫə",
+          "gl": ""
+        },
+        {
+          "g": "ጥቀ",
+          "t": "ṭəqä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they and their kings with them went forth, as the sand of the sea in multitude, and horses, and very many chariots.",
+        "kjv": "And they went out, they and all their hosts with them, much people, even as the sand that is upon the sea shore in multitude, with horses and chariots very many."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወተጋብኡ ፡ ኵሎሙ ፡ ነገሥቶሙ ፡ ወመጽኡ ፡ ኅቡረ ፡ ወተአኅዝዎሙ ፡ ይትቃተልዎሙ ፡ ለእስራኤል ፡ በኀበ ፡ ማየ ፡ መሮን\n                  ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተጋብኡ",
+          "t": "wätägabəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ነገሥቶሙ",
+          "t": "nägäśətomu",
+          "gl": ""
+        },
+        {
+          "g": "ወመጽኡ",
+          "t": "wämäṣəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ኅቡረ",
+          "t": "ḫəburä",
+          "gl": ""
+        },
+        {
+          "g": "ወተአኅዝዎሙ",
+          "t": "wätäʾäḫəzəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ይትቃተልዎሙ",
+          "t": "yətəqatäləwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእስራኤል",
+          "t": "läʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "በኀበ",
+          "t": "bäḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ማየ",
+          "t": "mayä",
+          "gl": ""
+        },
+        {
+          "g": "መሮን",
+          "t": "märonə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And all the kings assembled in person, and came to the same place, and encamped at the waters of Maron to war with Israel.",
+        "kjv": "And when all these kings were met together, they came and pitched together at the waters of Merom, to fight against Israel."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወይቤሎ ፡ እግዚአብሔር ፡ ለኢየሱስ ፡ ኢትፍራህ ፡ እምቅድመ ፡ ገጾሙ ፡ እስመ ፡ ጌሠመ ፡ በዛቲ ፡ [ጊዜ ፡] አነ ፡\n                  ኣገብኦሙ ፡ ከመ ፡ ይትቀተሉ ፡ በቅድመ ፡ እስራኤል ፡ ወለአፍራሲሆሙኒ ፡ ምትርዎን ፡ ሥረዊሆን ፡ ወሰረገላቲሆሙኒ ፡ አውዕዩ ፡\n                  በእሳት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለኢየሱስ",
+          "t": "läʾiyäsusə",
+          "gl": ""
+        },
+        {
+          "g": "ኢትፍራህ",
+          "t": "ʾitəfərahə",
+          "gl": ""
+        },
+        {
+          "g": "እምቅድመ",
+          "t": "ʾəməqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ገጾሙ",
+          "t": "gäṣomu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ጌሠመ",
+          "t": "geśämä",
+          "gl": ""
+        },
+        {
+          "g": "በዛቲ",
+          "t": "bäzati",
+          "gl": ""
+        },
+        {
+          "g": "ጊዜ",
+          "t": "gize",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "ኣገብኦሙ",
+          "t": "ʾagäbəʾomu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይትቀተሉ",
+          "t": "yətəqätälu",
+          "gl": ""
+        },
+        {
+          "g": "በቅድመ",
+          "t": "bäqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወለአፍራሲሆሙኒ",
+          "t": "wäläʾäfərasihomuni",
+          "gl": ""
+        },
+        {
+          "g": "ምትርዎን",
+          "t": "mətərəwonə",
+          "gl": ""
+        },
+        {
+          "g": "ሥረዊሆን",
+          "t": "śəräwihonə",
+          "gl": ""
+        },
+        {
+          "g": "ወሰረገላቲሆሙኒ",
+          "t": "wäsärägälatihomuni",
+          "gl": ""
+        },
+        {
+          "g": "አውዕዩ",
+          "t": "ʾäwəʿəyu",
+          "gl": ""
+        },
+        {
+          "g": "በእሳት",
+          "t": "bäʾəsatə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord said to Joshua, Be not afraid of them, for to-morrow at this time I will put them to flight before Israel: thou shalt hough their horses, and burn their chariots with fire.",
+        "kjv": "And the LORD said unto Joshua, Be not afraid because of them: for to morrow about this time will I deliver them up all slain before Israel: thou shalt hough their horses, and burn their chariots with fire."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወሖሩ ፡ ኢየሱስ ፡ ወኵሉ ፡ ሕዝብ ፡ መስተቃትላን ፡ ላዕሌሆሙ ፡ ኀበ ፡ ማየ ፡ መሮን ፡ ወአውገብዎሙ ፡ ወወረዱ ፡\n                  ላዕሌሆሙ ፡ እምነ ፡ አድባር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሖሩ",
+          "t": "wäḥoru",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሱስ",
+          "t": "ʾiyäsusə",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "መስተቃትላን",
+          "t": "mäsətäqatəlanə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሆሙ",
+          "t": "laʿəlehomu",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ማየ",
+          "t": "mayä",
+          "gl": ""
+        },
+        {
+          "g": "መሮን",
+          "t": "märonə",
+          "gl": ""
+        },
+        {
+          "g": "ወአውገብዎሙ",
+          "t": "wäʾäwəgäbəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ወወረዱ",
+          "t": "wäwärädu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሆሙ",
+          "t": "laʿəlehomu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "አድባር",
+          "t": "ʾädəbarə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Joshua and all the men of war came upon them at the water of Maron suddenly; and they attacked them in the hill country.",
+        "kjv": "So Joshua came, and all the people of war with him, against them by the waters of Merom suddenly; and they fell upon them."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወአግብኦሙ ፡ እግዚአብሔር ፡ ውስተ ፡ እዴሆሙ ፡ ለእስራኤል ፡ ወዴገንዎሙ ፡ (ወ)እንዘ ፡ ይቀትልዎሙ ፡ እስከ ፡ ሲዶና ፡\n                  ዐቢይ ፡ ወእስከ ፡ መሴሮን ፡ ወእስከ ፡ አሕቅልተ ፡ መሶኅ ፡ በመንገለ ፡ ጽባሒሁ ፡ ወቀተልዎሙ ፡ ኢያትረፉ ፡ እምኔሆሙ ፡\n                  ነፋጺተ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአግብኦሙ",
+          "t": "wäʾägəbəʾomu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሆሙ",
+          "t": "ʾədehomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእስራኤል",
+          "t": "läʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወዴገንዎሙ",
+          "t": "wädegänəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ወእንዘ",
+          "t": "wäʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ይቀትልዎሙ",
+          "t": "yəqätələwomu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ሲዶና",
+          "t": "sidona",
+          "gl": ""
+        },
+        {
+          "g": "ዐቢይ",
+          "t": "ʿäbiyə",
+          "gl": ""
+        },
+        {
+          "g": "ወእስከ",
+          "t": "wäʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "መሴሮን",
+          "t": "mäseronə",
+          "gl": ""
+        },
+        {
+          "g": "ወእስከ",
+          "t": "wäʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "አሕቅልተ",
+          "t": "ʾäḥəqələtä",
+          "gl": ""
+        },
+        {
+          "g": "መሶኅ",
+          "t": "mäsoḫə",
+          "gl": ""
+        },
+        {
+          "g": "በመንገለ",
+          "t": "bämänəgälä",
+          "gl": ""
+        },
+        {
+          "g": "ጽባሒሁ",
+          "t": "ṣəbaḥihu",
+          "gl": ""
+        },
+        {
+          "g": "ወቀተልዎሙ",
+          "t": "wäqätäləwomu",
+          "gl": ""
+        },
+        {
+          "g": "ኢያትረፉ",
+          "t": "ʾiyatəräfu",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሆሙ",
+          "t": "ʾəmənehomu",
+          "gl": ""
+        },
+        {
+          "g": "ነፋጺተ",
+          "t": "näfaṣitä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord delivered them into the power of Israel; and they smote them and pursued them to great Sidon, and to Maseron, and to the plains of Massoch eastward; and they destroyed them till there was not one of them left that survived.",
+        "kjv": "And the LORD delivered them into the hand of Israel, who smote them, and chased them unto great Zidon, and unto Misrephothmaim, and unto the valley of Mizpeh eastward; and they smote them, until they left them none remaining."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወገብሮሙ ፡ ኢየሱስ ፡ በከመ ፡ አዘዞ ፡ እግዚአብሔር ፡ መተረ ፡ ሥረዊሆን ፡ ለአፍራሲሆሙ ፡ ወሰረገላቲሆሙኒ ፡ አውዐየ ፡\n                  በእሳት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወገብሮሙ",
+          "t": "wägäbəromu",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሱስ",
+          "t": "ʾiyäsusə",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "አዘዞ",
+          "t": "ʾäzäzo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "መተረ",
+          "t": "mätärä",
+          "gl": ""
+        },
+        {
+          "g": "ሥረዊሆን",
+          "t": "śəräwihonə",
+          "gl": ""
+        },
+        {
+          "g": "ለአፍራሲሆሙ",
+          "t": "läʾäfərasihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወሰረገላቲሆሙኒ",
+          "t": "wäsärägälatihomuni",
+          "gl": ""
+        },
+        {
+          "g": "አውዐየ",
+          "t": "ʾäwəʿäyä",
+          "gl": ""
+        },
+        {
+          "g": "በእሳት",
+          "t": "bäʾəsatə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Joshua did to them, as the Lord commanded him: he houghed their horses, and burned their chariots with fire.",
+        "kjv": "And Joshua did unto them as the LORD bade him: he houghed their horses, and burnt their chariots with fire."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወተመይጠ ፡ ኢየሱስ ፡ በእማንቱ ፡ መዋዕል ፡ ወነሥኣ ፡ ለአሶር ፡ ወለንጉሣ ፡ እስመ ፡ አሶር ፡ ቀዲሙ ፡ ምኵናኒሆሙ ፡\n                  ይእቲ ፡ ለኵሎሙ ፡ እሉ ፡ ነገሥት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተመይጠ",
+          "t": "wätämäyəṭä",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሱስ",
+          "t": "ʾiyäsusə",
+          "gl": ""
+        },
+        {
+          "g": "በእማንቱ",
+          "t": "bäʾəmanətu",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕል",
+          "t": "mäwaʿələ",
+          "gl": ""
+        },
+        {
+          "g": "ወነሥኣ",
+          "t": "wänäśəʾa",
+          "gl": ""
+        },
+        {
+          "g": "ለአሶር",
+          "t": "läʾäsorə",
+          "gl": ""
+        },
+        {
+          "g": "ወለንጉሣ",
+          "t": "wälänəguśa",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አሶር",
+          "t": "ʾäsorə",
+          "gl": ""
+        },
+        {
+          "g": "ቀዲሙ",
+          "t": "qädimu",
+          "gl": ""
+        },
+        {
+          "g": "ምኵናኒሆሙ",
+          "t": "məkwənanihomu",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ለኵሎሙ",
+          "t": "läkwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "እሉ",
+          "t": "ʾəlu",
+          "gl": ""
+        },
+        {
+          "g": "ነገሥት",
+          "t": "nägäśətə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Joshua returned at that time, and took Asor and her king; now Asor in former time was the chief of these kingdoms.",
+        "kjv": "And Joshua at that time turned back, and took Hazor, and smote the king thereof with the sword: for Hazor beforetime was the head of all those kingdoms."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወቀተሉ ፡ ኵሎ ፡ ዘመንፈስ ፡ ዘውስቴታ ፡ በኀፂን ፡ ወአጥፍእዎሙ ፡ ለኵሎሙ ፡ እስከ ፡ ኢያትረፉ ፡ ውስቴታ ፡ ዘመንፈስ\n                  ፡ ወአውዐያ ፡ ለአሶር ፡ በእሳት ፡ ወለኵሉ ፡ አህጉረ ፡ ነገሥት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወቀተሉ",
+          "t": "wäqätälu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ዘመንፈስ",
+          "t": "zämänəfäsə",
+          "gl": ""
+        },
+        {
+          "g": "ዘውስቴታ",
+          "t": "zäwəsəteta",
+          "gl": ""
+        },
+        {
+          "g": "በኀፂን",
+          "t": "bäḫäṣ́inə",
+          "gl": ""
+        },
+        {
+          "g": "ወአጥፍእዎሙ",
+          "t": "wäʾäṭəfəʾəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለኵሎሙ",
+          "t": "läkwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ኢያትረፉ",
+          "t": "ʾiyatəräfu",
+          "gl": ""
+        },
+        {
+          "g": "ውስቴታ",
+          "t": "wəsəteta",
+          "gl": ""
+        },
+        {
+          "g": "ዘመንፈስ",
+          "t": "zämänəfäsə",
+          "gl": ""
+        },
+        {
+          "g": "ወአውዐያ",
+          "t": "wäʾäwəʿäya",
+          "gl": ""
+        },
+        {
+          "g": "ለአሶር",
+          "t": "läʾäsorə",
+          "gl": ""
+        },
+        {
+          "g": "በእሳት",
+          "t": "bäʾəsatə",
+          "gl": ""
+        },
+        {
+          "g": "ወለኵሉ",
+          "t": "wäläkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "አህጉረ",
+          "t": "ʾähəgurä",
+          "gl": ""
+        },
+        {
+          "g": "ነገሥት",
+          "t": "nägäśətə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they slew with the sword all that breathed in it, and utterly destroyed them all, and there was no living thing left in it; and they burnt Asor with fire.",
+        "kjv": "And they smote all the souls that were therein with the edge of the sword, utterly destroying them: there was not any left to breathe: and he burnt Hazor with fire."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወነሥኦሙ ፡ ኢየሱስ ፡ ለነገሥቶሙ ፡ ወቀተሎሙ ፡ በኀፂን ፡ ወሠረዎሙ ፡ በከመ ፡ አዘዞ ፡ ሙሴ ፡ ቍልዔሁ ፡ ለእግዚአብሔር\n                  ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነሥኦሙ",
+          "t": "wänäśəʾomu",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሱስ",
+          "t": "ʾiyäsusə",
+          "gl": ""
+        },
+        {
+          "g": "ለነገሥቶሙ",
+          "t": "länägäśətomu",
+          "gl": ""
+        },
+        {
+          "g": "ወቀተሎሙ",
+          "t": "wäqätälomu",
+          "gl": ""
+        },
+        {
+          "g": "በኀፂን",
+          "t": "bäḫäṣ́inə",
+          "gl": ""
+        },
+        {
+          "g": "ወሠረዎሙ",
+          "t": "wäśäräwomu",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "አዘዞ",
+          "t": "ʾäzäzo",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ቍልዔሁ",
+          "t": "qwələʿehu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Joshua took all the cities of the kingdoms, and their kings, and slew them with the edge of the sword; and utterly slew them, as Moses the servant of the Lord commanded.",
+        "kjv": "And all the cities of those kings, and all the kings of them, did Joshua take, and smote them with the edge of the sword, and he utterly destroyed them, as Moses the servant of the LORD commanded."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወባዕደሰ ፡ አህጉረ ፡ ኵሎ ፡ ዘአድያም ፡ ኢያውዐዩ ፡ እስራኤል ፡ እንበለ ፡ አሶር ፡ ባሕቲታ ፡ ዘአውዐዩ ፡ እስራኤል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወባዕደሰ",
+          "t": "wäbaʿədäsä",
+          "gl": ""
+        },
+        {
+          "g": "አህጉረ",
+          "t": "ʾähəgurä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ዘአድያም",
+          "t": "zäʾädəyamə",
+          "gl": ""
+        },
+        {
+          "g": "ኢያውዐዩ",
+          "t": "ʾiyawəʿäyu",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "እንበለ",
+          "t": "ʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "አሶር",
+          "t": "ʾäsorə",
+          "gl": ""
+        },
+        {
+          "g": "ባሕቲታ",
+          "t": "baḥətita",
+          "gl": ""
+        },
+        {
+          "g": "ዘአውዐዩ",
+          "t": "zäʾäwəʿäyu",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But all the walled cities Israel burnt not; but Israel burnt Asor only.",
+        "kjv": "But as for the cities that stood still in their strength, Israel burned none of them, save Hazor only; that did Joshua burn."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወበርበርዋ ፡ ደቂቀ ፡ እስራኤል ፡ ለርእሶሙ ፡ ኵሎ ፡ በርበራ ፡ ወሎሙሰ ፡ ሠረውዎሙ ፡ ለኵሎሙ ፡ እስከ ፡ አጥፍእዎሙ ፡\n                  በአፈ ፡ ኀፂን ፡ ወኢያትረፉ ፡ እምኔሆሙ ፡ ወኢአሐደ ፡ ዘመንፈስ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበርበርዋ",
+          "t": "wäbärəbärəwa",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ለርእሶሙ",
+          "t": "lärəʾəsomu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "በርበራ",
+          "t": "bärəbära",
+          "gl": ""
+        },
+        {
+          "g": "ወሎሙሰ",
+          "t": "wälomusä",
+          "gl": ""
+        },
+        {
+          "g": "ሠረውዎሙ",
+          "t": "śäräwəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለኵሎሙ",
+          "t": "läkwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "አጥፍእዎሙ",
+          "t": "ʾäṭəfəʾəwomu",
+          "gl": ""
+        },
+        {
+          "g": "በአፈ",
+          "t": "bäʾäfä",
+          "gl": ""
+        },
+        {
+          "g": "ኀፂን",
+          "t": "ḫäṣ́inə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢያትረፉ",
+          "t": "wäʾiyatəräfu",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሆሙ",
+          "t": "ʾəmənehomu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢአሐደ",
+          "t": "wäʾiʾäḥädä",
+          "gl": ""
+        },
+        {
+          "g": "ዘመንፈስ",
+          "t": "zämänəfäsə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the children of Israel took all its spoils to themselves; and they slew all the men with the edge of the sword, until he destroyed them; they left not one of them breathing.",
+        "kjv": "And all the spoil of these cities, and the cattle, the children of Israel took for a prey unto themselves; but every man they smote with the edge of the sword, until they had destroyed them, neither left they any to breathe."
+      }
+    },
+    {
+      "num": 15,
+      "geez": "በከመ ፡ አዘዞ ፡ እግዚአብሔር ፡ ለሙሴ ፡ ቍልዔሁ ፡ ወሙሴ ፡ አዘዞ ፡ ለኢየሱስ ፡ ወከማሁ ፡ ገብረ ፡ ኢየሱስ ፡\n                  ወኢኀደገ ፡ ወኢምንተ ፡ እምነ ፡ ኵሉ ፡ ዘአዘዞ ፡ ሙሴ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "አዘዞ",
+          "t": "ʾäzäzo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ቍልዔሁ",
+          "t": "qwələʿehu",
+          "gl": ""
+        },
+        {
+          "g": "ወሙሴ",
+          "t": "wämuse",
+          "gl": ""
+        },
+        {
+          "g": "አዘዞ",
+          "t": "ʾäzäzo",
+          "gl": ""
+        },
+        {
+          "g": "ለኢየሱስ",
+          "t": "läʾiyäsusə",
+          "gl": ""
+        },
+        {
+          "g": "ወከማሁ",
+          "t": "wäkämahu",
+          "gl": ""
+        },
+        {
+          "g": "ገብረ",
+          "t": "gäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሱስ",
+          "t": "ʾiyäsusə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢኀደገ",
+          "t": "wäʾiḫädägä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢምንተ",
+          "t": "wäʾimənətä",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘአዘዞ",
+          "t": "zäʾäzäzo",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "As the Lord commanded his servant Moses, even so Moses commanded Joshua; and so Joshua did, he transgressed no precept of all that Moses commanded him.",
+        "kjv": "As the LORD commanded Moses his servant, so did Moses command Joshua, and so did Joshua; he left nothing undone of all that the LORD commanded Moses."
+      }
+    },
+    {
+      "num": 16,
+      "geez": "ወነሥአ ፡ ኢየሱስ ፡ ኵሎ ፡ ደወለ ፡ ምድሮሙ ፡ ዘመንገለ ፡ አድባር ፡ ወኵሎ ፡ ምድረ ፡ አዴብ ፡ ወኵሎ ፡ ምድረ ፡\n                  ጎሶም ፡ ወአሕቅልቲሃ ፡ ወዘመንገለ ፡ ዐረቢሃ ፡ ወደብረ ፡ እስራኤል ፡ ወታሕትየኒ ፡ ደወሎሙ ፡ ዘመንገለ ፡ ደብር ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነሥአ",
+          "t": "wänäśəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሱስ",
+          "t": "ʾiyäsusə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ደወለ",
+          "t": "däwälä",
+          "gl": ""
+        },
+        {
+          "g": "ምድሮሙ",
+          "t": "mədəromu",
+          "gl": ""
+        },
+        {
+          "g": "ዘመንገለ",
+          "t": "zämänəgälä",
+          "gl": ""
+        },
+        {
+          "g": "አድባር",
+          "t": "ʾädəbarə",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ምድረ",
+          "t": "mədərä",
+          "gl": ""
+        },
+        {
+          "g": "አዴብ",
+          "t": "ʾädebə",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ምድረ",
+          "t": "mədərä",
+          "gl": ""
+        },
+        {
+          "g": "ጎሶም",
+          "t": "gosomə",
+          "gl": ""
+        },
+        {
+          "g": "ወአሕቅልቲሃ",
+          "t": "wäʾäḥəqələtiha",
+          "gl": ""
+        },
+        {
+          "g": "ወዘመንገለ",
+          "t": "wäzämänəgälä",
+          "gl": ""
+        },
+        {
+          "g": "ዐረቢሃ",
+          "t": "ʿäräbiha",
+          "gl": ""
+        },
+        {
+          "g": "ወደብረ",
+          "t": "wädäbərä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወታሕትየኒ",
+          "t": "wätaḥətəyäni",
+          "gl": ""
+        },
+        {
+          "g": "ደወሎሙ",
+          "t": "däwälomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘመንገለ",
+          "t": "zämänəgälä",
+          "gl": ""
+        },
+        {
+          "g": "ደብር",
+          "t": "däbərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Joshua took all the hill country, and all the land of Nageb, and all the land of Gosom, and the plain country, and that toward the west, and the mountain of Israel and the low country by the mountain;",
+        "kjv": "So Joshua took all that land, the hills, and all the south country, and all the land of Goshen, and the valley, and the plain, and the mountain of Israel, and the valley of the same;"
+      }
+    },
+    {
+      "num": 17,
+      "geez": "እምነ ፡ ደብረ ፡ ኤኬል ፡ ወየዐርግ ፡ እስከ ፡ ሴይር ፡ ወእስከ ፡ በለገድ ፡ ወአሕቅልተ ፡ ሊባኖስ ፡ ዘመንገለ ፡ ደብረ\n                  ፡ አኤርሞን ፡ ወአኀዞሙ ፡ ለኵሎሙ ፡ ነገሥቶሙ ፡ ወቀተሎሙ ፡ ወአጥፍኦሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ደብረ",
+          "t": "däbərä",
+          "gl": ""
+        },
+        {
+          "g": "ኤኬል",
+          "t": "ʾekelə",
+          "gl": ""
+        },
+        {
+          "g": "ወየዐርግ",
+          "t": "wäyäʿärəgə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ሴይር",
+          "t": "seyərə",
+          "gl": ""
+        },
+        {
+          "g": "ወእስከ",
+          "t": "wäʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "በለገድ",
+          "t": "bälägädə",
+          "gl": ""
+        },
+        {
+          "g": "ወአሕቅልተ",
+          "t": "wäʾäḥəqələtä",
+          "gl": ""
+        },
+        {
+          "g": "ሊባኖስ",
+          "t": "libanosə",
+          "gl": ""
+        },
+        {
+          "g": "ዘመንገለ",
+          "t": "zämänəgälä",
+          "gl": ""
+        },
+        {
+          "g": "ደብረ",
+          "t": "däbərä",
+          "gl": ""
+        },
+        {
+          "g": "አኤርሞን",
+          "t": "ʾäʾerəmonə",
+          "gl": ""
+        },
+        {
+          "g": "ወአኀዞሙ",
+          "t": "wäʾäḫäzomu",
+          "gl": ""
+        },
+        {
+          "g": "ለኵሎሙ",
+          "t": "läkwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ነገሥቶሙ",
+          "t": "nägäśətomu",
+          "gl": ""
+        },
+        {
+          "g": "ወቀተሎሙ",
+          "t": "wäqätälomu",
+          "gl": ""
+        },
+        {
+          "g": "ወአጥፍኦሙ",
+          "t": "wäʾäṭəfəʾomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "from the mountain of Chelcha, and that which goes up to Seir, and as far as Balagad, and the plains of Libanus, under mount Aermon; and he took all their kings, and destroyed, and slew them.",
+        "kjv": "Even from the mount Halak, that goeth up to Seir, even unto Baalgad in the valley of Lebanon under mount Hermon: and all their kings he took, and smote them, and slew them."
+      }
+    },
+    {
+      "num": 18,
+      "geez": "ወጕንዱየ ፡ መዋዕለ ፡ ነበረ ፡ ኢየሱስ ፡ ኀበ ፡ እሉ ፡ ነገሥት ፡ እንዘ ፡ ይትቃተሎሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወጕንዱየ",
+          "t": "wägwənəduyä",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕለ",
+          "t": "mäwaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ነበረ",
+          "t": "näbärä",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሱስ",
+          "t": "ʾiyäsusə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "እሉ",
+          "t": "ʾəlu",
+          "gl": ""
+        },
+        {
+          "g": "ነገሥት",
+          "t": "nägäśətə",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ይትቃተሎሙ",
+          "t": "yətəqatälomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And for many days Joshua waged war with these kings.",
+        "kjv": "Joshua made war a long time with all those kings."
+      }
+    },
+    {
+      "num": 19,
+      "geez": "ወአልቦ ፡ ሀገረ ፡ እንተ ፡ ኢነሥኡ ፡ እስራኤል ፡ ኵሎን ፡ ነሥእዎን ፡ በቀትል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአልቦ",
+          "t": "wäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ሀገረ",
+          "t": "hägärä",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኢነሥኡ",
+          "t": "ʾinäśəʾu",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎን",
+          "t": "kwəlonə",
+          "gl": ""
+        },
+        {
+          "g": "ነሥእዎን",
+          "t": "näśəʾəwonə",
+          "gl": ""
+        },
+        {
+          "g": "በቀትል",
+          "t": "bäqätələ",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And there was no city which Israel took not; they took all in war.",
+        "kjv": "There was not a city that made peace with the children of Israel, save the Hivites the inhabitants of Gibeon: all other they took in battle."
+      }
+    },
+    {
+      "num": 20,
+      "geez": "እስመ ፡ እግዚአብሔር ፡ አጽንዖሙ ፡ ልቦሙ ፡ ውስተ ፡ ቀትል ፡ ለእስራኤል ፡ ከመ ፡ ይሠርውዎሙ ፡ ወከመ ፡ ኢይምሐርዎሙ\n                  ፡ አላ ፡ ከመ ፡ ያጥፍእዎሙ ፡ ቦከመ ፡ አዘዞ ፡ እግዚአብሔር ፡ ለሙሴ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አጽንዖሙ",
+          "t": "ʾäṣənəʿomu",
+          "gl": ""
+        },
+        {
+          "g": "ልቦሙ",
+          "t": "ləbomu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ቀትል",
+          "t": "qätələ",
+          "gl": ""
+        },
+        {
+          "g": "ለእስራኤል",
+          "t": "läʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይሠርውዎሙ",
+          "t": "yəśärəwəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ወከመ",
+          "t": "wäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ኢይምሐርዎሙ",
+          "t": "ʾiyəməḥärəwomu",
+          "gl": ""
+        },
+        {
+          "g": "አላ",
+          "t": "ʾäla",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ያጥፍእዎሙ",
+          "t": "yaṭəfəʾəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ቦከመ",
+          "t": "bokämä",
+          "gl": ""
+        },
+        {
+          "g": "አዘዞ",
+          "t": "ʾäzäzo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For it was of the Lord to harden their hearts to go forth to war against Israel, that they might be utterly destroyed, that mercy should not be granted to them, but that they should be utterly destroyed, as the Lord said to Moses.",
+        "kjv": "For it was of the LORD to harden their hearts, that they should come against Israel in battle, that he might destroy them utterly, and that they might have no favour, but that he might destroy them, as the LORD commanded Moses."
+      }
+    },
+    {
+      "num": 21,
+      "geez": "ወሖረ ፡ ኢየሱስ ፡ በእማንቱ ፡ መዋዕል ፡ ወአጥፍኦሙ ፡ ለእለ ፡ ውስተ ፡ አቂም ፡ እለ ፡ ውስተ ፡ አድባር ፡ እምነ ፡\n                  ኬብሮን ፡ ወእምነ ፡ ዳቤር ፡ ወእምነ ፡ አናቦት ፡ ወእምውስተ ፡ ኵሉ ፡ ደወሎሙ ፡ ለእስራኤል ፡ ወእምነ ፡ አድባረ ፡ ይሁዳ\n                  ፡ ምስለ ፡ አህጉሮሙ ፡ ወአጥፍኦሙ ፡ ኢየሱስ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሖረ",
+          "t": "wäḥorä",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሱስ",
+          "t": "ʾiyäsusə",
+          "gl": ""
+        },
+        {
+          "g": "በእማንቱ",
+          "t": "bäʾəmanətu",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕል",
+          "t": "mäwaʿələ",
+          "gl": ""
+        },
+        {
+          "g": "ወአጥፍኦሙ",
+          "t": "wäʾäṭəfəʾomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእለ",
+          "t": "läʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አቂም",
+          "t": "ʾäqimə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አድባር",
+          "t": "ʾädəbarə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ኬብሮን",
+          "t": "kebəronə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ዳቤር",
+          "t": "daberə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "አናቦት",
+          "t": "ʾänabotə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምውስተ",
+          "t": "wäʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ደወሎሙ",
+          "t": "däwälomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእስራኤል",
+          "t": "läʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "አድባረ",
+          "t": "ʾädəbarä",
+          "gl": ""
+        },
+        {
+          "g": "ይሁዳ",
+          "t": "yəhuda",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "አህጉሮሙ",
+          "t": "ʾähəguromu",
+          "gl": ""
+        },
+        {
+          "g": "ወአጥፍኦሙ",
+          "t": "wäʾäṭəfəʾomu",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሱስ",
+          "t": "ʾiyäsusə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Joshua came at that time, and utterly destroyed the Enakim out of the hill country, from Chebron and from Dabir, and from Anaboth, and from all the race of Israel, and from all the mountain of Juda with their cities; and Joshua utterly destroyed them.",
+        "kjv": "And at that time came Joshua, and cut off the Anakims from the mountains, from Hebron, from Debir, from Anab, and from all the mountains of Judah, and from all the mountains of Israel: Joshua destroyed them utterly with their cities."
+      }
+    },
+    {
+      "num": 22,
+      "geez": "ወኢያትረፈ ፡ እምኔሆሙ ፡ ለእለ ፡ ውስተ ፡ አቂም ፡ እምውስተ ፡ እስራኤል ፡ እንበለ ፡ ውስተ ፡ ጋዜ ፡ ወውስተ ፡ [ጌት\n                  ፡ ወ]አሴዶ ፡ ዘተርፉ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኢያትረፈ",
+          "t": "wäʾiyatəräfä",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሆሙ",
+          "t": "ʾəmənehomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእለ",
+          "t": "läʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አቂም",
+          "t": "ʾäqimə",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "እንበለ",
+          "t": "ʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ጋዜ",
+          "t": "gaze",
+          "gl": ""
+        },
+        {
+          "g": "ወውስተ",
+          "t": "wäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ጌት",
+          "t": "getə",
+          "gl": ""
+        },
+        {
+          "g": "ወአሴዶ",
+          "t": "wäʾäsedo",
+          "gl": ""
+        },
+        {
+          "g": "ዘተርፉ",
+          "t": "zätärəfu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "There was not any one left of the Enakim by the children of Israel, only there was left of them in Gaza, and in Gath, and in Aseldo.",
+        "kjv": "There was none of the Anakims left in the land of the children of Israel: only in Gaza, in Gath, and in Ashdod, there remained."
+      }
+    },
+    {
+      "num": 23,
+      "geez": "ወነሥአ ፡ ኢየሱስ ፡ ኵሎ ፡ ምድሮሙ ፡ በከመ ፡ አዘዞ ፡ እግዚአብሔር ፡ ለሙሴ ፡ ወወሀቦሙ ፡ ኢየሱስ ፡ ርስቶሙ ፡\n                  [ለእስራኤል ፡ ዘከመ ፡] ከፈሎሙ ፡ በበ ፡ ነገዶሙ ፡ ወአዕረፈት ፡ እንከ ፡ ምድር ፡ እምነ ፡ ቀትል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነሥአ",
+          "t": "wänäśəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሱስ",
+          "t": "ʾiyäsusə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ምድሮሙ",
+          "t": "mədəromu",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "አዘዞ",
+          "t": "ʾäzäzo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ወወሀቦሙ",
+          "t": "wäwähäbomu",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሱስ",
+          "t": "ʾiyäsusə",
+          "gl": ""
+        },
+        {
+          "g": "ርስቶሙ",
+          "t": "rəsətomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእስራኤል",
+          "t": "läʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ዘከመ",
+          "t": "zäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ከፈሎሙ",
+          "t": "käfälomu",
+          "gl": ""
+        },
+        {
+          "g": "በበ",
+          "t": "bäbä",
+          "gl": ""
+        },
+        {
+          "g": "ነገዶሙ",
+          "t": "nägädomu",
+          "gl": ""
+        },
+        {
+          "g": "ወአዕረፈት",
+          "t": "wäʾäʿəräfätə",
+          "gl": ""
+        },
+        {
+          "g": "እንከ",
+          "t": "ʾənəkä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ቀትል",
+          "t": "qätələ",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Joshua took all the land, as the Lord commanded Moses; and Joshua gave them for an inheritance to Israel by division according to their tribes; and the land ceased from war.",
+        "kjv": "So Joshua took the whole land, according to all that the LORD said unto Moses; and Joshua gave it for an inheritance unto Israel according to their divisions by their tribes. And the land rested from war."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

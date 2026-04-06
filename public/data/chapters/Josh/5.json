@@ -1,0 +1,1783 @@
+{
+  "book": "Josh",
+  "chapter": 5,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወእምዝ ፡ ሶበ ፡ ሰምዑ ፡ ኵሉ ፡ ነገሥተ ፡ አሞሬዎን ፡ እለ ፡ ሀለዉ ፡ ማዕዶተ ፡ ዮርዳንስ ፡ መንገለ ፡ ባሕር ፡\n                  ወኵሉ ፡ ነገሥተ ፡ ፊንቄስ ፡ እለ ፡ መንገለ ፡ ባሕር ፡ ከመ ፡ አይበሶ ፡ እግዚአብሔር ፡ ለተከዜ ፡ ዮርዳንስ ፡ እምቅድሜሆሙ\n                  ፡ ለደቂቀ ፡ እስራኤል ፡ ከመ ፡ ይዕድዉ ፡ እሙንቱ ፡ ተመስወ ፡ ልቦሙ ፡ ወተሰጥየ ፡ ወኀጥኡ ፡ እንተ ፡ ይሔልዩ ፡ እምቅድመ\n                  ፡ ገጾሙ ፡ ለደቂቀ ፡ እስራኤል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእምዝ",
+          "t": "wäʾəməzə",
+          "gl": ""
+        },
+        {
+          "g": "ሶበ",
+          "t": "sobä",
+          "gl": ""
+        },
+        {
+          "g": "ሰምዑ",
+          "t": "säməʿu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ነገሥተ",
+          "t": "nägäśətä",
+          "gl": ""
+        },
+        {
+          "g": "አሞሬዎን",
+          "t": "ʾämorewonə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሀለዉ",
+          "t": "häläwu",
+          "gl": ""
+        },
+        {
+          "g": "ማዕዶተ",
+          "t": "maʿədotä",
+          "gl": ""
+        },
+        {
+          "g": "ዮርዳንስ",
+          "t": "yorədanəsə",
+          "gl": ""
+        },
+        {
+          "g": "መንገለ",
+          "t": "mänəgälä",
+          "gl": ""
+        },
+        {
+          "g": "ባሕር",
+          "t": "baḥərə",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ነገሥተ",
+          "t": "nägäśətä",
+          "gl": ""
+        },
+        {
+          "g": "ፊንቄስ",
+          "t": "finəqesə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "መንገለ",
+          "t": "mänəgälä",
+          "gl": ""
+        },
+        {
+          "g": "ባሕር",
+          "t": "baḥərə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "አይበሶ",
+          "t": "ʾäyəbäso",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለተከዜ",
+          "t": "lätäkäze",
+          "gl": ""
+        },
+        {
+          "g": "ዮርዳንስ",
+          "t": "yorədanəsə",
+          "gl": ""
+        },
+        {
+          "g": "እምቅድሜሆሙ",
+          "t": "ʾəməqədəmehomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይዕድዉ",
+          "t": "yəʿədəwu",
+          "gl": ""
+        },
+        {
+          "g": "እሙንቱ",
+          "t": "ʾəmunətu",
+          "gl": ""
+        },
+        {
+          "g": "ተመስወ",
+          "t": "tämäsəwä",
+          "gl": ""
+        },
+        {
+          "g": "ልቦሙ",
+          "t": "ləbomu",
+          "gl": ""
+        },
+        {
+          "g": "ወተሰጥየ",
+          "t": "wätäsäṭəyä",
+          "gl": ""
+        },
+        {
+          "g": "ወኀጥኡ",
+          "t": "wäḫäṭəʾu",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ይሔልዩ",
+          "t": "yəḥeləyu",
+          "gl": ""
+        },
+        {
+          "g": "እምቅድመ",
+          "t": "ʾəməqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ገጾሙ",
+          "t": "gäṣomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it came to pass when the kings of the Amorites who were beyond Jordan heard, and the kings of Phœnicia by the sea, that the Lord God had dried up the river Jordan from before the children of Israel when they passed over, that their hearts failed, and they were terror-stricken, and there was no sense in them because of the children of Israel.",
+        "kjv": "And it came to pass, when all the kings of the Amorites, which were on the side of Jordan westward, and all the kings of the Canaanites, which were by the sea, heard that the LORD had dried up the waters of Jordan from before the children of Israel, until we were passed over, that their heart melted, neither was there spirit in them any more, because of the children of Israel."
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ወእምድኅረ ፡ እማንቱ ፡ መዋዕል ፡ ይቤሎ ፡ እግዚአብሔር ፡ ለኢየሱስ ፡ ግበር ፡ ለከ ፡ መጣብኀ ፡ ዘእብን ፡ እምውስተ ፡\n                  እብነ ፡ እዝሕ ፡ ወንበር ፡ ወግዝሮሙ ፡ ለደቂቀ ፡ እስራኤል ፡ ዳግመ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእምድኅረ",
+          "t": "wäʾəmədəḫərä",
+          "gl": ""
+        },
+        {
+          "g": "እማንቱ",
+          "t": "ʾəmanətu",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕል",
+          "t": "mäwaʿələ",
+          "gl": ""
+        },
+        {
+          "g": "ይቤሎ",
+          "t": "yəbelo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለኢየሱስ",
+          "t": "läʾiyäsusə",
+          "gl": ""
+        },
+        {
+          "g": "ግበር",
+          "t": "gəbärə",
+          "gl": ""
+        },
+        {
+          "g": "ለከ",
+          "t": "läkä",
+          "gl": ""
+        },
+        {
+          "g": "መጣብኀ",
+          "t": "mäṭabəḫä",
+          "gl": ""
+        },
+        {
+          "g": "ዘእብን",
+          "t": "zäʾəbənə",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እብነ",
+          "t": "ʾəbənä",
+          "gl": ""
+        },
+        {
+          "g": "እዝሕ",
+          "t": "ʾəzəḥə",
+          "gl": ""
+        },
+        {
+          "g": "ወንበር",
+          "t": "wänəbärə",
+          "gl": ""
+        },
+        {
+          "g": "ወግዝሮሙ",
+          "t": "wägəzəromu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ዳግመ",
+          "t": "dagəmä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And about this time the Lord said to Joshua, Make thee stone knives of sharp stone, and sit down and circumcise the children of Israel the second time.",
+        "kjv": "At that time the LORD said unto Joshua, Make thee sharp knives, and circumcise again the children of Israel the second time."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወገብረ ፡ ሎቱ ፡ ኢየሱስ ፡ መጣብኀ ፡ ዘእብነ ፡ እዝኅ ፡ ወገዘሮሙ ፡ ለደቂቀ ፡ እስራኤል ፡ በውስተ ፡ መካን ፡ ዘስሙ\n                  ፡ ወግረ ፡ ቍልፈታት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወገብረ",
+          "t": "wägäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሱስ",
+          "t": "ʾiyäsusə",
+          "gl": ""
+        },
+        {
+          "g": "መጣብኀ",
+          "t": "mäṭabəḫä",
+          "gl": ""
+        },
+        {
+          "g": "ዘእብነ",
+          "t": "zäʾəbənä",
+          "gl": ""
+        },
+        {
+          "g": "እዝኅ",
+          "t": "ʾəzəḫə",
+          "gl": ""
+        },
+        {
+          "g": "ወገዘሮሙ",
+          "t": "wägäzäromu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "በውስተ",
+          "t": "bäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "መካን",
+          "t": "mäkanə",
+          "gl": ""
+        },
+        {
+          "g": "ዘስሙ",
+          "t": "zäsəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወግረ",
+          "t": "wägərä",
+          "gl": ""
+        },
+        {
+          "g": "ቍልፈታት",
+          "t": "qwələfätatə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Joshua made sharp knives of stone, and circumcised the children of Israel at the place called the “Hill of Foreskins.”",
+        "kjv": "And Joshua made him sharp knives, and circumcised the children of Israel at the hill of the foreskins."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወበበይነ ፡ ዝንቱ ፡ ገዘሮሙ ፡ ኢየሱስ ፤ (ለ)ኵሉ ፡ ሕዝብ ፡ እለ ፡ ወፅኡ ፡ እምነ ፡ ግብጽ ፡ ኵ[ሉ] ፡ ተባዕቶሙ ፡\n                  ዕደው ፡ መስተቃትላን ፡ እለ ፡ ሞቱ ፡ በገዳም ፡ በፍኖት ፡ ወፂኦሙ ፡ እምነ ፡ ግብጽ ፡ [ኮኑ ፡ ግዙራነ ፡] ፡ ወኵሉ ፡\n                  ሕዝብ ፡ እለ ፡ ተወልዱ ፡ በፍኖት ፡ በገዳም ፡ ወፂኦሙ ፡ እምነ ፡ ምድረ ፡ ግብጽ ፡ እስመ ፡ ኢኮነት ፡ ግዝረቶሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበበይነ",
+          "t": "wäbäbäyənä",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ገዘሮሙ",
+          "t": "gäzäromu",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሱስ  ለኵሉ",
+          "t": "ʾiyäsusə  läkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ወፅኡ",
+          "t": "wäṣ́əʾu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ግብጽ",
+          "t": "gəbəṣə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ተባዕቶሙ",
+          "t": "täbaʿətomu",
+          "gl": ""
+        },
+        {
+          "g": "ዕደው",
+          "t": "ʿədäwə",
+          "gl": ""
+        },
+        {
+          "g": "መስተቃትላን",
+          "t": "mäsətäqatəlanə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሞቱ",
+          "t": "motu",
+          "gl": ""
+        },
+        {
+          "g": "በገዳም",
+          "t": "bägädamə",
+          "gl": ""
+        },
+        {
+          "g": "በፍኖት",
+          "t": "bäfənotə",
+          "gl": ""
+        },
+        {
+          "g": "ወፂኦሙ",
+          "t": "wäṣ́iʾomu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ግብጽ",
+          "t": "gəbəṣə",
+          "gl": ""
+        },
+        {
+          "g": "ኮኑ",
+          "t": "konu",
+          "gl": ""
+        },
+        {
+          "g": "ግዙራነ",
+          "t": "gəzuranä",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ተወልዱ",
+          "t": "täwälədu",
+          "gl": ""
+        },
+        {
+          "g": "በፍኖት",
+          "t": "bäfənotə",
+          "gl": ""
+        },
+        {
+          "g": "በገዳም",
+          "t": "bägädamə",
+          "gl": ""
+        },
+        {
+          "g": "ወፂኦሙ",
+          "t": "wäṣ́iʾomu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ምድረ",
+          "t": "mədərä",
+          "gl": ""
+        },
+        {
+          "g": "ግብጽ",
+          "t": "gəbəṣə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኢኮነት",
+          "t": "ʾikonätə",
+          "gl": ""
+        },
+        {
+          "g": "ግዝረቶሙ",
+          "t": "gəzərätomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And this is the way in which Joshua purified the children of Israel; as many as were born in the way, and as many as were uncircumcised of them that came out of Egypt,",
+        "kjv": "And this is the cause why Joshua did circumcise: All the people that came out of Egypt, that were males, even all the men of war, died in the wilderness by the way, after they came out of Egypt."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "በከመ ፡ ያነጽሖሙ ፡ ኢየሱስ ፡ ለደቂቀ ፡ እስራኤል ፡ ለኵሎሙ ፡ እለ ፡ ተወልዱ ፡ በፍኖት ፡ ወለኵሎሙ ፡ እለ ፡ ኢኮኑ\n                  ፡ ግዙራነ ፡ አመ ፡ ወፅኡ ፡ እምነ ፡ ግብጽ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ያነጽሖሙ",
+          "t": "yanäṣəḥomu",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሱስ",
+          "t": "ʾiyäsusə",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ለኵሎሙ",
+          "t": "läkwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ተወልዱ",
+          "t": "täwälədu",
+          "gl": ""
+        },
+        {
+          "g": "በፍኖት",
+          "t": "bäfənotə",
+          "gl": ""
+        },
+        {
+          "g": "ወለኵሎሙ",
+          "t": "wäläkwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኢኮኑ",
+          "t": "ʾikonu",
+          "gl": ""
+        },
+        {
+          "g": "ግዙራነ",
+          "t": "gəzuranä",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ወፅኡ",
+          "t": "wäṣ́əʾu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ግብጽ",
+          "t": "gəbəṣə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "all these Joshua circumcised; for forty and two years Israel wandered in the wilderness of Mabdaris—",
+        "kjv": "Now all the people that came out were circumcised: but all the people that were born in the wilderness by the way as they came forth out of Egypt, them they had not circumcised."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወገዘሮሙ ፡ ኢየሱስ ፡ ለኵሎሙ ፡ እሉ ፡ እስመ ፡ አርብዓ ፡ ዓመ ፡ ኦዱ ፡ እስራኤል ፡ ውስተ ፡ ገዳም ፡ ዘመድብራ ፤\n                  ወመብዝኅቶሙ ፡ ኢኮኑ ፡ ግዙራነ ፡ እምውስተ ፡ መስተቃትላን ፡ እለ ፡ ወፅኡ ፡ እምነ ፡ ምድረ ፡ ግብጽ ፡ እለ ፡ ክህዱ ፡\n                  በትእዛዘ ፡ እግዚአብሔር ፡ ወይቤሎሙ ፡ እግዚአብሔር ፡ ከመ ፡ ኢትሬእይዋ ፡ ለይእቲ ፡ ምድር ፡ እንተ ፡ መሐለ ፡ እግዚአብሔር\n                  ፡ ለአበዊነ ፡ ከመ ፡ የሀበነ ፡ ምድረ ፡ እንተ ፡ ትውሕዝ ፡ ሐሊበ ፡ ወመዓረ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወገዘሮሙ",
+          "t": "wägäzäromu",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሱስ",
+          "t": "ʾiyäsusə",
+          "gl": ""
+        },
+        {
+          "g": "ለኵሎሙ",
+          "t": "läkwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "እሉ",
+          "t": "ʾəlu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አርብዓ",
+          "t": "ʾärəbəʿa",
+          "gl": ""
+        },
+        {
+          "g": "ዓመ",
+          "t": "ʿamä",
+          "gl": ""
+        },
+        {
+          "g": "ኦዱ",
+          "t": "ʾodu",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ገዳም",
+          "t": "gädamə",
+          "gl": ""
+        },
+        {
+          "g": "ዘመድብራ \n                  ወመብዝኅቶሙ",
+          "t": "zämädəbəra \n                  wämäbəzəḫətomu",
+          "gl": ""
+        },
+        {
+          "g": "ኢኮኑ",
+          "t": "ʾikonu",
+          "gl": ""
+        },
+        {
+          "g": "ግዙራነ",
+          "t": "gəzuranä",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "መስተቃትላን",
+          "t": "mäsətäqatəlanə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ወፅኡ",
+          "t": "wäṣ́əʾu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ምድረ",
+          "t": "mədərä",
+          "gl": ""
+        },
+        {
+          "g": "ግብጽ",
+          "t": "gəbəṣə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ክህዱ",
+          "t": "kəhədu",
+          "gl": ""
+        },
+        {
+          "g": "በትእዛዘ",
+          "t": "bätəʾəzazä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎሙ",
+          "t": "wäyəbelomu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ኢትሬእይዋ",
+          "t": "ʾitəreʾəyəwa",
+          "gl": ""
+        },
+        {
+          "g": "ለይእቲ",
+          "t": "läyəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "መሐለ",
+          "t": "mäḥälä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለአበዊነ",
+          "t": "läʾäbäwinä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "የሀበነ",
+          "t": "yähäbänä",
+          "gl": ""
+        },
+        {
+          "g": "ምድረ",
+          "t": "mədərä",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ትውሕዝ",
+          "t": "təwəḥəzə",
+          "gl": ""
+        },
+        {
+          "g": "ሐሊበ",
+          "t": "ḥälibä",
+          "gl": ""
+        },
+        {
+          "g": "ወመዓረ",
+          "t": "wämäʿarä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Wherefore most of the fighting men that came out of the land of Egypt, were uncircumcised, who disobeyed the commands of God; concerning whom also he determined that they should not see the land, which the Lord sware to give to their fathers, even a land flowing with milk and honey.",
+        "kjv": "For the children of Israel walked forty years in the wilderness, till all the people that were men of war, which came out of Egypt, were consumed, because they obeyed not the voice of the LORD: unto whom the LORD sware that he would not shew them the land, which the LORD sware unto their fathers that he would give us, a land that floweth with milk and honey."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወህየንተ ፡ ዚአሆሙ ፡ አቀመ ፡ ውሉዶሙ ፡ እለ ፡ ገዘሮሙ ፡ ኢየሱስ ፡ እስመ ፡ ኢኮኑ ፡ ግዙራነ ፡ እስመ ፡ በፍኖት ፡\n                  ተወልዱ ፡ ወኢተገዝሩ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወህየንተ",
+          "t": "wähəyänətä",
+          "gl": ""
+        },
+        {
+          "g": "ዚአሆሙ",
+          "t": "ziʾähomu",
+          "gl": ""
+        },
+        {
+          "g": "አቀመ",
+          "t": "ʾäqämä",
+          "gl": ""
+        },
+        {
+          "g": "ውሉዶሙ",
+          "t": "wəludomu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ገዘሮሙ",
+          "t": "gäzäromu",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሱስ",
+          "t": "ʾiyäsusə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኢኮኑ",
+          "t": "ʾikonu",
+          "gl": ""
+        },
+        {
+          "g": "ግዙራነ",
+          "t": "gəzuranä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "በፍኖት",
+          "t": "bäfənotə",
+          "gl": ""
+        },
+        {
+          "g": "ተወልዱ",
+          "t": "täwälədu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢተገዝሩ",
+          "t": "wäʾitägäzəru",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And in their place he raised up their sons, whom Joshua circumcised, because they were uncircumcised, having been born by the way.",
+        "kjv": "And their children, whom he raised up in their stead, them Joshua circumcised: for they were uncircumcised, because they had not circumcised them by the way."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወአመ ፡ ተገዝሩ ፡ ነበረ ፡ ትዕይንት ፡ ውዑል ፡ እስከ ፡ አመ ፡ ሐይዉ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአመ",
+          "t": "wäʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ተገዝሩ",
+          "t": "tägäzəru",
+          "gl": ""
+        },
+        {
+          "g": "ነበረ",
+          "t": "näbärä",
+          "gl": ""
+        },
+        {
+          "g": "ትዕይንት",
+          "t": "təʿəyənətə",
+          "gl": ""
+        },
+        {
+          "g": "ውዑል",
+          "t": "wəʿulə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ሐይዉ",
+          "t": "ḥäyəwu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And when they had been circumcised they rested continuing there in the camp till they were healed.",
+        "kjv": "And it came to pass, when they had done circumcising all the people, that they abode in their places in the camp, till they were whole."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወይቤሎ ፡ እግዚአብሔር ፡ ለኢየሱስ ፡ ናሁ ፡ ዮም ፡ በዛቲ ፡ ዕለት ፡ አውፃእ[ኩ] ፡ ትዕይርቶሙ ፡ ለግብጽ ፡ እምኔክሙ\n                  ፡ ወሰመየ ፡ ስሞ ፡ ለውእቱ ፡ መካን ፡ ገልጋላ ፡ እስከ ፡ ዮም ፡ ወእስከ ፡ ዛቲ ፡ ዕለት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለኢየሱስ",
+          "t": "läʾiyäsusə",
+          "gl": ""
+        },
+        {
+          "g": "ናሁ",
+          "t": "nahu",
+          "gl": ""
+        },
+        {
+          "g": "ዮም",
+          "t": "yomə",
+          "gl": ""
+        },
+        {
+          "g": "በዛቲ",
+          "t": "bäzati",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "አውፃእኩ",
+          "t": "ʾäwəṣ́aʾəku",
+          "gl": ""
+        },
+        {
+          "g": "ትዕይርቶሙ",
+          "t": "təʿəyərətomu",
+          "gl": ""
+        },
+        {
+          "g": "ለግብጽ",
+          "t": "lägəbəṣə",
+          "gl": ""
+        },
+        {
+          "g": "እምኔክሙ",
+          "t": "ʾəmənekəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወሰመየ",
+          "t": "wäsämäyä",
+          "gl": ""
+        },
+        {
+          "g": "ስሞ",
+          "t": "səmo",
+          "gl": ""
+        },
+        {
+          "g": "ለውእቱ",
+          "t": "läwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "መካን",
+          "t": "mäkanə",
+          "gl": ""
+        },
+        {
+          "g": "ገልጋላ",
+          "t": "gäləgala",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዮም",
+          "t": "yomə",
+          "gl": ""
+        },
+        {
+          "g": "ወእስከ",
+          "t": "wäʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዛቲ",
+          "t": "zati",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord said to Joshua the son of Naue, On this day have I removed the reproach of Egypt from you: and he called the name of that place Galgala.",
+        "kjv": "And the LORD said unto Joshua, This day have I rolled away the reproach of Egypt from off you. Wherefore the name of the place is called Gilgal unto this day."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወኀደሩ ፡ ደቂቀ ፡ እስራኤል ፡ [ውስተ ፡] ገልጋላ ፡ ወገብሩ ፡ ደቂቀ ፡ እስራኤል ፡ ፋስካ ፡ አመ ፡ ዐሡሩ ፡ ወረቡዑ\n                  ፡ ለሠርቀ ፡ ወርኅ ፡ እምነ ፡ ሰርክ ፡ በዐረቢሃ ፡ ለኢያሪኮ ፡ በማዕዶተ ፡ ዮርዳንስ ፡ በውስተ ፡ ገዳም ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኀደሩ",
+          "t": "wäḫädäru",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ገልጋላ",
+          "t": "gäləgala",
+          "gl": ""
+        },
+        {
+          "g": "ወገብሩ",
+          "t": "wägäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ፋስካ",
+          "t": "fasəka",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ዐሡሩ",
+          "t": "ʿäśuru",
+          "gl": ""
+        },
+        {
+          "g": "ወረቡዑ",
+          "t": "wäräbuʿu",
+          "gl": ""
+        },
+        {
+          "g": "ለሠርቀ",
+          "t": "läśärəqä",
+          "gl": ""
+        },
+        {
+          "g": "ወርኅ",
+          "t": "wärəḫə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ሰርክ",
+          "t": "särəkə",
+          "gl": ""
+        },
+        {
+          "g": "በዐረቢሃ",
+          "t": "bäʿäräbiha",
+          "gl": ""
+        },
+        {
+          "g": "ለኢያሪኮ",
+          "t": "läʾiyariko",
+          "gl": ""
+        },
+        {
+          "g": "በማዕዶተ",
+          "t": "bämaʿədotä",
+          "gl": ""
+        },
+        {
+          "g": "ዮርዳንስ",
+          "t": "yorədanəsə",
+          "gl": ""
+        },
+        {
+          "g": "በውስተ",
+          "t": "bäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ገዳም",
+          "t": "gädamə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the children of Israel kept the passover on the fourteenth day of the month at evening, to the westward of Jericho on the opposite side of the Jordan in the plain.",
+        "kjv": "And the children of Israel encamped in Gilgal, and kept the passover on the fourteenth day of the month at even in the plains of Jericho."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወበልዑ ፡ እምውስተ ፡ እክ[ለ ፡ ምድር ፡] ናእተ ፡ ወሐዲሰ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበልዑ",
+          "t": "wäbäləʿu",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እክለ",
+          "t": "ʾəkəlä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ናእተ",
+          "t": "naʾətä",
+          "gl": ""
+        },
+        {
+          "g": "ወሐዲሰ",
+          "t": "wäḥädisä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they ate of the grain of the earth unleavened and new corn.",
+        "kjv": "And they did eat of the old corn of the land on the morrow after the passover, unleavened cakes, and parched corn in the selfsame day."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወበይእቲ ፡ ዕለት ፡ ኀልቀ ፡ መና ፡ በሳኒተ ፡ በልዑ ፡ እክለ ፡ ምድር ፡ ወኢረከቡ ፡ እንከ ፡ መና ፡ ደቂቀ ፡\n                  እስራኤል ፡ ዳግመ ፡ እስመ ፡ አረሩ ፡ ብሔረ ፡ ፊንቆን ፡ በውእቱ ፡ ዓመት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበይእቲ",
+          "t": "wäbäyəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "ኀልቀ",
+          "t": "ḫäləqä",
+          "gl": ""
+        },
+        {
+          "g": "መና",
+          "t": "mäna",
+          "gl": ""
+        },
+        {
+          "g": "በሳኒተ",
+          "t": "bäsanitä",
+          "gl": ""
+        },
+        {
+          "g": "በልዑ",
+          "t": "bäləʿu",
+          "gl": ""
+        },
+        {
+          "g": "እክለ",
+          "t": "ʾəkəlä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢረከቡ",
+          "t": "wäʾiräkäbu",
+          "gl": ""
+        },
+        {
+          "g": "እንከ",
+          "t": "ʾənəkä",
+          "gl": ""
+        },
+        {
+          "g": "መና",
+          "t": "mäna",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ዳግመ",
+          "t": "dagəmä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አረሩ",
+          "t": "ʾäräru",
+          "gl": ""
+        },
+        {
+          "g": "ብሔረ",
+          "t": "bəḥerä",
+          "gl": ""
+        },
+        {
+          "g": "ፊንቆን",
+          "t": "finəqonə",
+          "gl": ""
+        },
+        {
+          "g": "በውእቱ",
+          "t": "bäwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዓመት",
+          "t": "ʿamätə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "In this day the manna failed, after they had eaten of the corn of the land, and the children of Israel no longer had manna; and they took the fruits of the land of the Phœnicians in that year.",
+        "kjv": "And the manna ceased on the morrow after they had eaten of the old corn of the land; neither had the children of Israel manna any more; but they did eat of the fruit of the land of Canaan that year."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወኮነ ፡ እንዘ ፡ ሀለወ ፡ ኢየሱስ ፡ ውስተ ፡ ኢያሪኮ ፡ ወነጸረ ፡ በአዕይንቲሁ ፡ ወርእየ ፡ ብእሲ ፡ ይቀውም ፡ ቅድሜሁ\n                  ፡ ወሰይፍ ፡ ምሉኅ ፡ ውስተ ፡ እዴሁ ፡ ወቀርቦ ፡ ኢየሱስ ፡ ወይቤሎ ፡ እምነ ፡ ሰብአ ፡ ዚአነኑ ፡ አንተ ፡ አው ፡ እምነ\n                  ፡ ፀርነ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኮነ",
+          "t": "wäkonä",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ሀለወ",
+          "t": "häläwä",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሱስ",
+          "t": "ʾiyäsusə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኢያሪኮ",
+          "t": "ʾiyariko",
+          "gl": ""
+        },
+        {
+          "g": "ወነጸረ",
+          "t": "wänäṣärä",
+          "gl": ""
+        },
+        {
+          "g": "በአዕይንቲሁ",
+          "t": "bäʾäʿəyənətihu",
+          "gl": ""
+        },
+        {
+          "g": "ወርእየ",
+          "t": "wärəʾəyä",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ይቀውም",
+          "t": "yəqäwəmə",
+          "gl": ""
+        },
+        {
+          "g": "ቅድሜሁ",
+          "t": "qədəmehu",
+          "gl": ""
+        },
+        {
+          "g": "ወሰይፍ",
+          "t": "wäsäyəfə",
+          "gl": ""
+        },
+        {
+          "g": "ምሉኅ",
+          "t": "məluḫə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        },
+        {
+          "g": "ወቀርቦ",
+          "t": "wäqärəbo",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሱስ",
+          "t": "ʾiyäsusə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብአ",
+          "t": "säbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ዚአነኑ",
+          "t": "ziʾänänu",
+          "gl": ""
+        },
+        {
+          "g": "አንተ",
+          "t": "ʾänətä",
+          "gl": ""
+        },
+        {
+          "g": "አው",
+          "t": "ʾäwə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ፀርነ",
+          "t": "ṣ́ärənä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it came to pass when Joshua was in Jericho, that he looked up with his eyes and saw a man standing before him, and there was a drawn sword in his hand; and Joshua drew near and said to him, Art thou for us or on the side of our enemies?",
+        "kjv": "And it came to pass, when Joshua was by Jericho, that he lifted up his eyes and looked, and, behold, there stood a man over against him with his sword drawn in his hand: and Joshua went unto him, and said unto him, Art thou for us, or for our adversaries?"
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወይቤሎ ፡ አንሰ ፡ መልአከ ፡ ኀይሉ ፡ ለእግዚአብሔር ፡ ወይእዜ ፡ በጻሕኩ ፡ ወወድቀ ፡ ኢየሱስ ፡ በገጹ ፡ ወሰገደ ፡\n                  ሎቱ ፡ ውስተ ፡ ምድር ፡ ወይቤሎ ፡ ምንተ ፡ ቆምከ ፡ ኀበ ፡ ገብርከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "አንሰ",
+          "t": "ʾänəsä",
+          "gl": ""
+        },
+        {
+          "g": "መልአከ",
+          "t": "mäləʾäkä",
+          "gl": ""
+        },
+        {
+          "g": "ኀይሉ",
+          "t": "ḫäyəlu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወይእዜ",
+          "t": "wäyəʾəze",
+          "gl": ""
+        },
+        {
+          "g": "በጻሕኩ",
+          "t": "bäṣaḥəku",
+          "gl": ""
+        },
+        {
+          "g": "ወወድቀ",
+          "t": "wäwädəqä",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሱስ",
+          "t": "ʾiyäsusə",
+          "gl": ""
+        },
+        {
+          "g": "በገጹ",
+          "t": "bägäṣu",
+          "gl": ""
+        },
+        {
+          "g": "ወሰገደ",
+          "t": "wäsägädä",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ምንተ",
+          "t": "mənətä",
+          "gl": ""
+        },
+        {
+          "g": "ቆምከ",
+          "t": "qoməkä",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ገብርከ",
+          "t": "gäbərəkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he said to him, I am now come, the chief captain of the host of the Lord. And Joshua fell on his face upon the earth, and said to him, Lord, what commandest thou thy servant?",
+        "kjv": "And he said, Nay; but as captain of the host of the LORD am I now come. And Joshua fell on his face to the earth, and did worship, and said unto him, What saith my lord unto his servant?"
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ወይቤሎ ፡ መልአከ ፡ ኀይሉ ፡ ለእግዚአብሔር ፡ ለኢየሱስ ፡ ፍታሕ ፡ አሣእኒከ ፡ እምውስተ ፡ እገሪከ ፡ እስመ ፡ መካን ፡\n                  ኀበ ፡ ትቀውም ፡ ምድር ፡ ቅድስት ፡ ይእቲ ፡ ወገብረ ፡ ኢየሱስ ፡ ከማሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "መልአከ",
+          "t": "mäləʾäkä",
+          "gl": ""
+        },
+        {
+          "g": "ኀይሉ",
+          "t": "ḫäyəlu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለኢየሱስ",
+          "t": "läʾiyäsusə",
+          "gl": ""
+        },
+        {
+          "g": "ፍታሕ",
+          "t": "fətaḥə",
+          "gl": ""
+        },
+        {
+          "g": "አሣእኒከ",
+          "t": "ʾäśaʾənikä",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እገሪከ",
+          "t": "ʾəgärikä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "መካን",
+          "t": "mäkanə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ትቀውም",
+          "t": "təqäwəmə",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ቅድስት",
+          "t": "qədəsətə",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ወገብረ",
+          "t": "wägäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሱስ",
+          "t": "ʾiyäsusə",
+          "gl": ""
+        },
+        {
+          "g": "ከማሁ",
+          "t": "kämahu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the captain of the Lord's host said to Joshua, Loose thy shoe off thy feet, for the place whereon thou now standest is holy.",
+        "kjv": "And the captain of the LORD’s host said unto Joshua, Loose thy shoe from off thy foot; for the place whereon thou standest is holy. And Joshua did so."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

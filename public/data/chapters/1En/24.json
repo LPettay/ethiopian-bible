@@ -1,0 +1,648 @@
+{
+  "book": "1En",
+  "chapter": 24,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወእምህየ፡ ሖርኩ፡ ካልአ፡ መካነ፡ ምድር፡ ወአርአየኒ፡ ደብረ፡ እሳት፡ ዘያንበለብል፡ መዓልተ፡ ወሌሊተ።",
+      "translation": "And from thence I went to another place of the earth, and he showed me a mountain range of fire which burnt day and night.",
+      "words": [
+        {
+          "g": "ወእምህየ",
+          "t": "wäʾəməhəyä",
+          "gl": ""
+        },
+        {
+          "g": "ሖርኩ",
+          "t": "ḥorəku",
+          "gl": ""
+        },
+        {
+          "g": "ካልአ",
+          "t": "kaləʾä",
+          "gl": ""
+        },
+        {
+          "g": "መካነ",
+          "t": "mäkanä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ወአርአየኒ",
+          "t": "wäʾärəʾäyäni",
+          "gl": ""
+        },
+        {
+          "g": "ደብረ",
+          "t": "däbərä",
+          "gl": ""
+        },
+        {
+          "g": "እሳት",
+          "t": "ʾəsatə",
+          "gl": ""
+        },
+        {
+          "g": "ዘያንበለብል",
+          "t": "zäyanəbäläbələ",
+          "gl": ""
+        },
+        {
+          "g": "መዓልተ",
+          "t": "mäʿalətä",
+          "gl": ""
+        },
+        {
+          "g": "ወሌሊተ",
+          "t": "wälelitä",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "geez": "ወሖርኩ፡ መንገሌሁ፡ ወርኢኩ፡ ሰብዓተ፡ አድባረ፡ ክቡራነ፡ ወኵሉ፡ አሐዱ፡ እምነ፡ አሐዱ፡ እንዘ፡ ይትዌለጥ፡ ወአእባነ፡ ክቡራነ፡ ወሠናያነ፡ ወኵሉ፡ ክቡር፡ ወስቡሕ፡ ራእዮሙ፡ ወሠናይ፡ ገጾሙ፡ ሠለስቱ፡ መንገለ፡ ጽባሕ፡ ወጽኑዓን፡ አሐዱ፡ ዲበ፡ አሐዱ፡ ወሠለስቱ፡ መንገለ፡ ሰሜን፡ አሐዱ፡ ዲበ፡ አሐዱ፡ ጽኑዓን፡ ወቈላት፡ ዕሙቃት፡ ወጠዋያት፡ አሐቲ፡ ለአሐቲ፡ ኢይትቃረባ።",
+      "translation": "And I went beyond it and saw seven magnificent mountains all differing each from the other, and the stones (thereof) were magnificent and beautiful, magnificent as a whole, of glorious appearance and fair exterior: three towards the east, one founded on the other, and three towards the south, one upon the other, and deep rough ravines, no one of which joined with any other.",
+      "words": [
+        {
+          "g": "ወሖርኩ",
+          "t": "wäḥorəku",
+          "gl": ""
+        },
+        {
+          "g": "መንገሌሁ",
+          "t": "mänəgälehu",
+          "gl": ""
+        },
+        {
+          "g": "ወርኢኩ",
+          "t": "wärəʾiku",
+          "gl": ""
+        },
+        {
+          "g": "ሰብዓተ",
+          "t": "säbəʿatä",
+          "gl": ""
+        },
+        {
+          "g": "አድባረ",
+          "t": "ʾädəbarä",
+          "gl": ""
+        },
+        {
+          "g": "ክቡራነ",
+          "t": "kəburanä",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ይትዌለጥ",
+          "t": "yətəweläṭə",
+          "gl": ""
+        },
+        {
+          "g": "ወአእባነ",
+          "t": "wäʾäʾəbanä",
+          "gl": ""
+        },
+        {
+          "g": "ክቡራነ",
+          "t": "kəburanä",
+          "gl": ""
+        },
+        {
+          "g": "ወሠናያነ",
+          "t": "wäśänayanä",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ክቡር",
+          "t": "kəburə",
+          "gl": ""
+        },
+        {
+          "g": "ወስቡሕ",
+          "t": "wäsəbuḥə",
+          "gl": ""
+        },
+        {
+          "g": "ራእዮሙ",
+          "t": "raʾəyomu",
+          "gl": ""
+        },
+        {
+          "g": "ወሠናይ",
+          "t": "wäśänayə",
+          "gl": ""
+        },
+        {
+          "g": "ገጾሙ",
+          "t": "gäṣomu",
+          "gl": ""
+        },
+        {
+          "g": "ሠለስቱ",
+          "t": "śäläsətu",
+          "gl": ""
+        },
+        {
+          "g": "መንገለ",
+          "t": "mänəgälä",
+          "gl": ""
+        },
+        {
+          "g": "ጽባሕ",
+          "t": "ṣəbaḥə",
+          "gl": ""
+        },
+        {
+          "g": "ወጽኑዓን",
+          "t": "wäṣənuʿanə",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "ወሠለስቱ",
+          "t": "wäśäläsətu",
+          "gl": ""
+        },
+        {
+          "g": "መንገለ",
+          "t": "mänəgälä",
+          "gl": ""
+        },
+        {
+          "g": "ሰሜን",
+          "t": "sämenə",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "ጽኑዓን",
+          "t": "ṣənuʿanə",
+          "gl": ""
+        },
+        {
+          "g": "ወቈላት",
+          "t": "wäqwälatə",
+          "gl": ""
+        },
+        {
+          "g": "ዕሙቃት",
+          "t": "ʿəmuqatə",
+          "gl": ""
+        },
+        {
+          "g": "ወጠዋያት",
+          "t": "wäṭäwayatə",
+          "gl": ""
+        },
+        {
+          "g": "አሐቲ",
+          "t": "ʾäḥäti",
+          "gl": ""
+        },
+        {
+          "g": "ለአሐቲ",
+          "t": "läʾäḥäti",
+          "gl": ""
+        },
+        {
+          "g": "ኢይትቃረባ",
+          "t": "ʾiyətəqaräba",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "geez": "ወሳብዕ፡ ደብር፡ ማእከሎሙ፡ ለእሎንቱ፡ ወኑኆሙሰ፡ ይትማሰሉ፡ ኵሎሙ፡ ከመ፡ መንበረ፡ አትራኖስ፡ ወየዐውድዎ፡ ዕፀወ፡ መዐዛ።",
+      "translation": "And the seventh mountain was in the midst of these, and it excelled them in height, resembling the seat of a throne: and fragrant trees encircled the throne.",
+      "words": [
+        {
+          "g": "ወሳብዕ",
+          "t": "wäsabəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ደብር",
+          "t": "däbərə",
+          "gl": ""
+        },
+        {
+          "g": "ማእከሎሙ",
+          "t": "maʾəkälomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእሎንቱ",
+          "t": "läʾəlonətu",
+          "gl": ""
+        },
+        {
+          "g": "ወኑኆሙሰ",
+          "t": "wänuḫomusä",
+          "gl": ""
+        },
+        {
+          "g": "ይትማሰሉ",
+          "t": "yətəmasälu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "መንበረ",
+          "t": "mänəbärä",
+          "gl": ""
+        },
+        {
+          "g": "አትራኖስ",
+          "t": "ʾätəranosə",
+          "gl": ""
+        },
+        {
+          "g": "ወየዐውድዎ",
+          "t": "wäyäʿäwədəwo",
+          "gl": ""
+        },
+        {
+          "g": "ዕፀወ",
+          "t": "ʿəṣ́äwä",
+          "gl": ""
+        },
+        {
+          "g": "መዐዛ",
+          "t": "mäʿäza",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 4,
+      "geez": "ወሀሎ፡ ውስቴቶሙ፡ ዕፅ፡ አልቦ፡ ግሙራ፡ አመ፡ ጼነወኒ፡ ወኢ፡ አሐዱ፡ እምውስቴቶሙ፡ ወባዕዳንሂ፡ ዘከማሁ፡ ኢኮነ፡ ዘይምዕዝ፡ እምኵሉ፡ መዐዛ፡ ወቈጽሉሂ፡ ወጽጌሁ፡ ወዕፁ፡ ኢይጸመሒ፡ ለዓለም፡ ወፍሬሁኒ፡ ሠናይ፡ ወፍሬሁሰ፡ ከመ፡ አስካለ፡ በቀልት።",
+      "translation": "And amongst them was a tree such as I had never yet smelt, neither was any amongst them nor were others like it: it had a fragrance beyond all fragrance, and its leaves and blooms and wood wither not for ever: and its fruit is beautiful, and its fruit resembles the dates of a palm.",
+      "words": [
+        {
+          "g": "ወሀሎ",
+          "t": "wähälo",
+          "gl": ""
+        },
+        {
+          "g": "ውስቴቶሙ",
+          "t": "wəsətetomu",
+          "gl": ""
+        },
+        {
+          "g": "ዕፅ",
+          "t": "ʿəṣ́ə",
+          "gl": ""
+        },
+        {
+          "g": "አልቦ",
+          "t": "ʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ግሙራ",
+          "t": "gəmura",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ጼነወኒ",
+          "t": "ṣenäwäni",
+          "gl": ""
+        },
+        {
+          "g": "ወኢ",
+          "t": "wäʾi",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "እምውስቴቶሙ",
+          "t": "ʾəməwəsətetomu",
+          "gl": ""
+        },
+        {
+          "g": "ወባዕዳንሂ",
+          "t": "wäbaʿədanəhi",
+          "gl": ""
+        },
+        {
+          "g": "ዘከማሁ",
+          "t": "zäkämahu",
+          "gl": ""
+        },
+        {
+          "g": "ኢኮነ",
+          "t": "ʾikonä",
+          "gl": ""
+        },
+        {
+          "g": "ዘይምዕዝ",
+          "t": "zäyəməʿəzə",
+          "gl": ""
+        },
+        {
+          "g": "እምኵሉ",
+          "t": "ʾəməkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "መዐዛ",
+          "t": "mäʿäza",
+          "gl": ""
+        },
+        {
+          "g": "ወቈጽሉሂ",
+          "t": "wäqwäṣəluhi",
+          "gl": ""
+        },
+        {
+          "g": "ወጽጌሁ",
+          "t": "wäṣəgehu",
+          "gl": ""
+        },
+        {
+          "g": "ወዕፁ",
+          "t": "wäʿəṣ́u",
+          "gl": ""
+        },
+        {
+          "g": "ኢይጸመሒ",
+          "t": "ʾiyəṣämäḥi",
+          "gl": ""
+        },
+        {
+          "g": "ለዓለም",
+          "t": "läʿalämə",
+          "gl": ""
+        },
+        {
+          "g": "ወፍሬሁኒ",
+          "t": "wäfərehuni",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይ",
+          "t": "śänayə",
+          "gl": ""
+        },
+        {
+          "g": "ወፍሬሁሰ",
+          "t": "wäfərehusä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "አስካለ",
+          "t": "ʾäsəkalä",
+          "gl": ""
+        },
+        {
+          "g": "በቀልት",
+          "t": "bäqälətə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 5,
+      "geez": "ወውእተ፡ ጊዜ፡ እቤ፡ ነዋ፡ ዝንቱ፡ ሠናይ፡ ዕፅ፡ ወሠናይ፡ ለርእይ፡ ወአዳም፡ ቈጽሉ፡ ወፍሬሁኒ፡ ሞገስ፡ ጥቀ፡ ለርእየ፡ ገጽ።",
+      "translation": "Then I said: ‘How beautiful is this tree, and fragrant, and its leaves are fair, and its blooms very delightful in appearance.’",
+      "words": [
+        {
+          "g": "ወውእተ",
+          "t": "wäwəʾətä",
+          "gl": ""
+        },
+        {
+          "g": "ጊዜ",
+          "t": "gize",
+          "gl": ""
+        },
+        {
+          "g": "እቤ",
+          "t": "ʾəbe",
+          "gl": ""
+        },
+        {
+          "g": "ነዋ",
+          "t": "näwa",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይ",
+          "t": "śänayə",
+          "gl": ""
+        },
+        {
+          "g": "ዕፅ",
+          "t": "ʿəṣ́ə",
+          "gl": ""
+        },
+        {
+          "g": "ወሠናይ",
+          "t": "wäśänayə",
+          "gl": ""
+        },
+        {
+          "g": "ለርእይ",
+          "t": "lärəʾəyə",
+          "gl": ""
+        },
+        {
+          "g": "ወአዳም",
+          "t": "wäʾädamə",
+          "gl": ""
+        },
+        {
+          "g": "ቈጽሉ",
+          "t": "qwäṣəlu",
+          "gl": ""
+        },
+        {
+          "g": "ወፍሬሁኒ",
+          "t": "wäfərehuni",
+          "gl": ""
+        },
+        {
+          "g": "ሞገስ",
+          "t": "mogäsə",
+          "gl": ""
+        },
+        {
+          "g": "ጥቀ",
+          "t": "ṭəqä",
+          "gl": ""
+        },
+        {
+          "g": "ለርእየ",
+          "t": "lärəʾəyä",
+          "gl": ""
+        },
+        {
+          "g": "ገጽ",
+          "t": "gäṣə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 6,
+      "geez": "ወውእተ፡ ጊዜ፡ አውሥአኒ፡ ሚካኤል፡ አሐዱ፡ እመላእክት፡ ቅዱሳን፡ ወክቡራን፡ ዘምስሌየ፡ ሀሎ፡ ወውእቱ፡ ዘዲቤሆሙ።",
+      "translation": "Then answered Michael, one of the holy and honoured angels who was with me, and was their leader.",
+      "words": [
+        {
+          "g": "ወውእተ",
+          "t": "wäwəʾətä",
+          "gl": ""
+        },
+        {
+          "g": "ጊዜ",
+          "t": "gize",
+          "gl": ""
+        },
+        {
+          "g": "አውሥአኒ",
+          "t": "ʾäwəśəʾäni",
+          "gl": ""
+        },
+        {
+          "g": "ሚካኤል",
+          "t": "mikaʾelə",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "እመላእክት",
+          "t": "ʾəmälaʾəkətə",
+          "gl": ""
+        },
+        {
+          "g": "ቅዱሳን",
+          "t": "qədusanə",
+          "gl": ""
+        },
+        {
+          "g": "ወክቡራን",
+          "t": "wäkəburanə",
+          "gl": ""
+        },
+        {
+          "g": "ዘምስሌየ",
+          "t": "zäməsəleyä",
+          "gl": ""
+        },
+        {
+          "g": "ሀሎ",
+          "t": "hälo",
+          "gl": ""
+        },
+        {
+          "g": "ወውእቱ",
+          "t": "wäwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘዲቤሆሙ",
+          "t": "zädibehomu",
+          "gl": ""
+        }
+      ]
+    }
+  ]
+}

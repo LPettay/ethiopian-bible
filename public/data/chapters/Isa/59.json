@@ -1,0 +1,1379 @@
+{
+  "book": "Isa",
+  "chapter": 59,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ቦኑ፡ ኢትክል፡ አድኅኖ፡ እዴየ፤ ወቦኑ፡ ኢይሰምዕ፡ በእዝንየ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ቦኑ",
+          "t": "bonu",
+          "gl": ""
+        },
+        {
+          "g": "ኢትክል",
+          "t": "ʾitəkələ",
+          "gl": ""
+        },
+        {
+          "g": "አድኅኖ",
+          "t": "ʾädəḫəno",
+          "gl": ""
+        },
+        {
+          "g": "እዴየ ወቦኑ",
+          "t": "ʾədeyä wäbonu",
+          "gl": ""
+        },
+        {
+          "g": "ኢይሰምዕ",
+          "t": "ʾiyəsäməʿə",
+          "gl": ""
+        },
+        {
+          "g": "በእዝንየ",
+          "t": "bäʾəzənəyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Has the hand of the Lord no power to save? or has he made his ear heavy, so that he should not hear?",
+        "kjv": "Behold, the LORD’s hand is not shortened, that it cannot save; neither his ear heavy, that it cannot hear:"
+      }
+    },
+    {
+      "num": 2,
+      "geez": "አኮኑ፡ ኃጢአትክሙ፡ ይቀውም፡ ማእከሌክመሙ፡ ወማእከለ፡ እግዚአብሔር፤ ወበእንተ፡ ኃጢአትክሙ፡ ሜጥኩ፡ ገጽየ፡ እምነኔክሙ፡ ከመ፡ ኢይሠሀልክሙ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "አኮኑ",
+          "t": "ʾäkonu",
+          "gl": ""
+        },
+        {
+          "g": "ኃጢአትክሙ",
+          "t": "ḫaṭiʾätəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ይቀውም",
+          "t": "yəqäwəmə",
+          "gl": ""
+        },
+        {
+          "g": "ማእከሌክመሙ",
+          "t": "maʾəkälekəmämu",
+          "gl": ""
+        },
+        {
+          "g": "ወማእከለ",
+          "t": "wämaʾəkälä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር ወበእንተ",
+          "t": "ʾəgəziʾäbəḥerə wäbäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኃጢአትክሙ",
+          "t": "ḫaṭiʾätəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ሜጥኩ",
+          "t": "meṭəku",
+          "gl": ""
+        },
+        {
+          "g": "ገጽየ",
+          "t": "gäṣəyä",
+          "gl": ""
+        },
+        {
+          "g": "እምነኔክሙ",
+          "t": "ʾəmənänekəmu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ኢይሠሀልክሙ",
+          "t": "ʾiyəśähäləkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Nay, your iniquities separate between you and God, and because of your sins has he turned away his face from you, so as not to have mercy upon you.",
+        "kjv": "But your iniquities have separated between you and your God, and your sins have hid his face from you, that he will not hear."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "እስመ፡ ደም፡ ምሉእ፡ እደዊክሙ፡ ወአጻብዒክሙ፡ በኃጢአት፤ ወበከናፍሪክሙኒ፡ ነበብክሙ፡ ዓመፃ፡ ወኃጢአተ፡ ተናገረት፡ ልሳንክሙ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ደም",
+          "t": "dämə",
+          "gl": ""
+        },
+        {
+          "g": "ምሉእ",
+          "t": "məluʾə",
+          "gl": ""
+        },
+        {
+          "g": "እደዊክሙ",
+          "t": "ʾədäwikəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወአጻብዒክሙ",
+          "t": "wäʾäṣabəʿikəmu",
+          "gl": ""
+        },
+        {
+          "g": "በኃጢአት ወበከናፍሪክሙኒ",
+          "t": "bäḫaṭiʾätə wäbäkänafərikəmuni",
+          "gl": ""
+        },
+        {
+          "g": "ነበብክሙ",
+          "t": "näbäbəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ዓመፃ",
+          "t": "ʿamäṣ́a",
+          "gl": ""
+        },
+        {
+          "g": "ወኃጢአተ",
+          "t": "wäḫaṭiʾätä",
+          "gl": ""
+        },
+        {
+          "g": "ተናገረት",
+          "t": "tänagärätə",
+          "gl": ""
+        },
+        {
+          "g": "ልሳንክሙ",
+          "t": "ləsanəkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For your hands are defiled with blood, and your fingers with sins; your lips also have spoken iniquity, and your tongue meditates unrighteousness.",
+        "kjv": "For your hands are defiled with blood, and your fingers with iniquity; your lips have spoken lies, your tongue hath muttered perverseness."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወአልቦ፡ ዘይነብብ፡ ጽድቀ፡ ወዘይፈትሕ፡ ጽድቀ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአልቦ",
+          "t": "wäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘይነብብ",
+          "t": "zäyənäbəbə",
+          "gl": ""
+        },
+        {
+          "g": "ጽድቀ",
+          "t": "ṣədəqä",
+          "gl": ""
+        },
+        {
+          "g": "ወዘይፈትሕ",
+          "t": "wäzäyəfätəḥə",
+          "gl": ""
+        },
+        {
+          "g": "ጽድቀ",
+          "t": "ṣədəqä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "None speaks justly, neither is there true judgment: they trust in vanities, and speak empty words; for they conceive trouble, and bring forth iniquity.",
+        "kjv": "None calleth for justice, nor any pleadeth for truth: they trust in vanity, and speak lies; they conceive mischief, and bring forth iniquity."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወያነቅዑ፡ አንቆቅሆ፡ አርዌ፡ ምድር፡ ወየአንሙ፡ ፈትለ፡ ሣሬት፤ እስመ፡ ዘበልዖ፡ ለአንቆቅሆ፡ አርዌ፡ ምድር፡ ይመውት፡ ፍጡነ፣፡ ወእመ፡ አንቃዕከ፡ ይወፅእ፡ ከይሲ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያነቅዑ",
+          "t": "wäyanäqəʿu",
+          "gl": ""
+        },
+        {
+          "g": "አንቆቅሆ",
+          "t": "ʾänəqoqəho",
+          "gl": ""
+        },
+        {
+          "g": "አርዌ",
+          "t": "ʾärəwe",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ወየአንሙ",
+          "t": "wäyäʾänəmu",
+          "gl": ""
+        },
+        {
+          "g": "ፈትለ",
+          "t": "fätəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሣሬት እስመ",
+          "t": "śaretə ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ዘበልዖ",
+          "t": "zäbäləʿo",
+          "gl": ""
+        },
+        {
+          "g": "ለአንቆቅሆ",
+          "t": "läʾänəqoqəho",
+          "gl": ""
+        },
+        {
+          "g": "አርዌ",
+          "t": "ʾärəwe",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ይመውት",
+          "t": "yəmäwətə",
+          "gl": ""
+        },
+        {
+          "g": "ፍጡነ",
+          "t": "fəṭunä",
+          "gl": ""
+        },
+        {
+          "g": "ወእመ",
+          "t": "wäʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "አንቃዕከ",
+          "t": "ʾänəqaʿəkä",
+          "gl": ""
+        },
+        {
+          "g": "ይወፅእ",
+          "t": "yəwäṣ́əʾə",
+          "gl": ""
+        },
+        {
+          "g": "ከይሲ",
+          "t": "käyəsi",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "They have hatched asps' eggs, and weave a spider's web: and he that is going to eat of their eggs, having crushed an addled egg, has found also in it a basilisk.",
+        "kjv": "They hatch cockatrice’ eggs, and weave the spider’s web: he that eateth of their eggs dieth, and that which is crushed breaketh out into a viper."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወፈትለ፡ ሣሬት፡ ኢይበቍዕ፡ ለተዐፅፎ፡ ወኢይትዐፀፉ፡ በምግባሮሙ፤ እስመ፡ ግብረ፡ ዓመፃ፡ ግብሮሙ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወፈትለ",
+          "t": "wäfätəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሣሬት",
+          "t": "śaretə",
+          "gl": ""
+        },
+        {
+          "g": "ኢይበቍዕ",
+          "t": "ʾiyəbäqwəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ለተዐፅፎ",
+          "t": "lätäʿäṣ́əfo",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይትዐፀፉ",
+          "t": "wäʾiyətəʿäṣ́äfu",
+          "gl": ""
+        },
+        {
+          "g": "በምግባሮሙ እስመ",
+          "t": "bäməgəbaromu ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ግብረ",
+          "t": "gəbərä",
+          "gl": ""
+        },
+        {
+          "g": "ዓመፃ",
+          "t": "ʿamäṣ́a",
+          "gl": ""
+        },
+        {
+          "g": "ግብሮሙ",
+          "t": "gəbəromu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Their web shall not become a garment, nor shall they at all clothe themselves with their works; for their works are works of iniquity.",
+        "kjv": "Their webs shall not become garments, neither shall they cover themselves with their works: their works are works of iniquity, and the act of violence is in their hands."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወለኃጢአት፡ ይረውጻ፡ እገሪሆሙ፡ ወያፈጥና፡ ለክዒወ፡ ደም፡ ወይመክሩ፡ ለቀቲል፤ ኃሣር፡ ወቅጥቃጤ፡ ውስተ፡ ፍኖቶሙ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለኃጢአት",
+          "t": "wäläḫaṭiʾätə",
+          "gl": ""
+        },
+        {
+          "g": "ይረውጻ",
+          "t": "yəräwəṣa",
+          "gl": ""
+        },
+        {
+          "g": "እገሪሆሙ",
+          "t": "ʾəgärihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወያፈጥና",
+          "t": "wäyafäṭəna",
+          "gl": ""
+        },
+        {
+          "g": "ለክዒወ",
+          "t": "läkəʿiwä",
+          "gl": ""
+        },
+        {
+          "g": "ደም",
+          "t": "dämə",
+          "gl": ""
+        },
+        {
+          "g": "ወይመክሩ",
+          "t": "wäyəmäkəru",
+          "gl": ""
+        },
+        {
+          "g": "ለቀቲል ኃሣር",
+          "t": "läqätilə ḫaśarə",
+          "gl": ""
+        },
+        {
+          "g": "ወቅጥቃጤ",
+          "t": "wäqəṭəqaṭe",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ፍኖቶሙ",
+          "t": "fənotomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And their feet run to wickedness, swift to shed blood; their thoughts also are thoughts of murder; destruction and misery are in their ways;",
+        "kjv": "Their feet run to evil, and they make haste to shed innocent blood: their thoughts are thoughts of iniquity; wasting and destruction are in their paths."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወኢየአምርዋ፡ ለፍኖተ፡ ሰላም፡ ወአልቦ፡ ጽድቅ፡ ውስተ፡ ፍኖቶሙ፤ እስመ፡ ጠዋይ፡ ፍኖቶሙ፡ ዘየሐውሩ፡ ወኢየአምርዎ፡ ለሰላም።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኢየአምርዋ",
+          "t": "wäʾiyäʾämərəwa",
+          "gl": ""
+        },
+        {
+          "g": "ለፍኖተ",
+          "t": "läfənotä",
+          "gl": ""
+        },
+        {
+          "g": "ሰላም",
+          "t": "sälamə",
+          "gl": ""
+        },
+        {
+          "g": "ወአልቦ",
+          "t": "wäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ጽድቅ",
+          "t": "ṣədəqə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ፍኖቶሙ እስመ",
+          "t": "fənotomu ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ጠዋይ",
+          "t": "ṭäwayə",
+          "gl": ""
+        },
+        {
+          "g": "ፍኖቶሙ",
+          "t": "fənotomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘየሐውሩ",
+          "t": "zäyäḥäwəru",
+          "gl": ""
+        },
+        {
+          "g": "ወኢየአምርዎ",
+          "t": "wäʾiyäʾämərəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለሰላም",
+          "t": "läsälamə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and the way of peace they know not, neither is there judgment in their ways; for their paths by which they go are crooked, and they know not peace.",
+        "kjv": "The way of peace they know not; and there is no judgment in their goings: they have made them crooked paths: whosoever goeth therein shall not know peace."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "በእንተ፡ ዝንቱ፡ ርኅቀ፡ ጽድቅ፡ እምኔሆሙ፡ ወኢትረክቦሙ፡ ርትዕ፤ ወኮኖሙ፡ ጽልመተ፡ ብርሃኖሙ፡ ወእንዘ፡ ይጸንሑ፡ ብርሃነ፡ የሐውሩ፡ ውስተ፡ ጽልመት።",
+      "translation": "",
+      "words": [
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ርኅቀ",
+          "t": "rəḫəqä",
+          "gl": ""
+        },
+        {
+          "g": "ጽድቅ",
+          "t": "ṣədəqə",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሆሙ",
+          "t": "ʾəmənehomu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢትረክቦሙ",
+          "t": "wäʾitəräkəbomu",
+          "gl": ""
+        },
+        {
+          "g": "ርትዕ ወኮኖሙ",
+          "t": "rətəʿə wäkonomu",
+          "gl": ""
+        },
+        {
+          "g": "ጽልመተ",
+          "t": "ṣələmätä",
+          "gl": ""
+        },
+        {
+          "g": "ብርሃኖሙ",
+          "t": "bərəhanomu",
+          "gl": ""
+        },
+        {
+          "g": "ወእንዘ",
+          "t": "wäʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ይጸንሑ",
+          "t": "yəṣänəḥu",
+          "gl": ""
+        },
+        {
+          "g": "ብርሃነ",
+          "t": "bərəhanä",
+          "gl": ""
+        },
+        {
+          "g": "የሐውሩ",
+          "t": "yäḥäwəru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ጽልመት",
+          "t": "ṣələmätə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Therefore has judgment departed from them, and righteousness shall not overtake them: while they waited for light, darkness came upon them; while they waited for brightness, they walked in perplexity.",
+        "kjv": "Therefore is judgment far from us, neither doth justice overtake us: we wait for light, but behold obscurity; for brightness, but we walk in darkness."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወያረመስሱ፡ ውስተ፡ አረፍት፡ ከመ፡ ዕዉር፡ ዘአልቦ፡ ዐይነ፣፡ ወይወድቁ፡ መዓልተ፡ ከመ፡ ዘመንፈቀ፡ ሌሊት፡ ወይትመነደቡ፡ ከመ፡ ዘይመውቱ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያረመስሱ",
+          "t": "wäyarämäsəsu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አረፍት",
+          "t": "ʾäräfətə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ዕዉር",
+          "t": "ʿəwurə",
+          "gl": ""
+        },
+        {
+          "g": "ዘአልቦ",
+          "t": "zäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ዐይነ",
+          "t": "ʿäyənä",
+          "gl": ""
+        },
+        {
+          "g": "ወይወድቁ",
+          "t": "wäyəwädəqu",
+          "gl": ""
+        },
+        {
+          "g": "መዓልተ",
+          "t": "mäʿalətä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ዘመንፈቀ",
+          "t": "zämänəfäqä",
+          "gl": ""
+        },
+        {
+          "g": "ሌሊት",
+          "t": "lelitə",
+          "gl": ""
+        },
+        {
+          "g": "ወይትመነደቡ",
+          "t": "wäyətəmänädäbu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ዘይመውቱ",
+          "t": "zäyəmäwətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "They shall feel for the wall as blind men, and shall feel for it as if they had no eyes: and they shall feel at noon-day as at midnight; they shall groan as dying men.",
+        "kjv": "We grope for the wall like the blind, and we grope as if we had no eyes: we stumble at noon day as in the night; we are in desolate places as dead men."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወየሐውሩ፡ ኅቡረ፡ ከመ፡ ርግብ፡ ወከመ፡ ድብ፡ ጸናሕነ፡ ፍትሐ፡ ወአልቦ፡ ዘያድኅን፣፡ ርኁቀ፡ ቆመ፡ እምኔነ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወየሐውሩ",
+          "t": "wäyäḥäwəru",
+          "gl": ""
+        },
+        {
+          "g": "ኅቡረ",
+          "t": "ḫəburä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ርግብ",
+          "t": "rəgəbə",
+          "gl": ""
+        },
+        {
+          "g": "ወከመ",
+          "t": "wäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ድብ",
+          "t": "dəbə",
+          "gl": ""
+        },
+        {
+          "g": "ጸናሕነ",
+          "t": "ṣänaḥənä",
+          "gl": ""
+        },
+        {
+          "g": "ፍትሐ",
+          "t": "fətəḥä",
+          "gl": ""
+        },
+        {
+          "g": "ወአልቦ",
+          "t": "wäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘያድኅን",
+          "t": "zäyadəḫənə",
+          "gl": ""
+        },
+        {
+          "g": "ርኁቀ",
+          "t": "rəḫuqä",
+          "gl": ""
+        },
+        {
+          "g": "ቆመ",
+          "t": "qomä",
+          "gl": ""
+        },
+        {
+          "g": "እምኔነ",
+          "t": "ʾəmənenä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "They shall proceed together as a bear and as a dove: we have waited for judgment, and there is no salvation, it is gone far from us.",
+        "kjv": "We roar all like bears, and mourn sore like doves: we look for judgment, but there is none; for salvation, but it is far off from us."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "እስመ፡ ብዙኅ፡ ኃጢአትነ፡ በቅድሜከ፡ ወጌጋይነ፡ ተቃወመነ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ብዙኅ",
+          "t": "bəzuḫə",
+          "gl": ""
+        },
+        {
+          "g": "ኃጢአትነ",
+          "t": "ḫaṭiʾätənä",
+          "gl": ""
+        },
+        {
+          "g": "በቅድሜከ",
+          "t": "bäqədəmekä",
+          "gl": ""
+        },
+        {
+          "g": "ወጌጋይነ",
+          "t": "wägegayənä",
+          "gl": ""
+        },
+        {
+          "g": "ተቃወመነ",
+          "t": "täqawämänä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For our iniquity is great before thee, and our sins have risen up against us: for our iniquities are in us, and we know our unrighteous deeds.",
+        "kjv": "For our transgressions are multiplied before thee, and our sins testify against us: for our transgressions are with us; and as for our iniquities, we know them;"
+      }
+    },
+    {
+      "num": 13,
+      "geez": "አበስነ፡ ወሐሰውናከ፡ ወኀደግነ፡ ተሊዎቶ፡ ለአምላክነ፤ ወነበብነ፡ ዓመፃ፡ ወክሕድናከ፤ ወፀነስነ፡ ወሐለይነ፡ በልብነ፡ ነገረ፡ ኃጢአት።",
+      "translation": "",
+      "words": [
+        {
+          "g": "አበስነ",
+          "t": "ʾäbäsənä",
+          "gl": ""
+        },
+        {
+          "g": "ወሐሰውናከ",
+          "t": "wäḥäsäwənakä",
+          "gl": ""
+        },
+        {
+          "g": "ወኀደግነ",
+          "t": "wäḫädägənä",
+          "gl": ""
+        },
+        {
+          "g": "ተሊዎቶ",
+          "t": "täliwoto",
+          "gl": ""
+        },
+        {
+          "g": "ለአምላክነ ወነበብነ",
+          "t": "läʾäməlakənä wänäbäbənä",
+          "gl": ""
+        },
+        {
+          "g": "ዓመፃ",
+          "t": "ʿamäṣ́a",
+          "gl": ""
+        },
+        {
+          "g": "ወክሕድናከ ወፀነስነ",
+          "t": "wäkəḥədənakä wäṣ́änäsənä",
+          "gl": ""
+        },
+        {
+          "g": "ወሐለይነ",
+          "t": "wäḥäläyənä",
+          "gl": ""
+        },
+        {
+          "g": "በልብነ",
+          "t": "bäləbənä",
+          "gl": ""
+        },
+        {
+          "g": "ነገረ",
+          "t": "nägärä",
+          "gl": ""
+        },
+        {
+          "g": "ኃጢአት",
+          "t": "ḫaṭiʾätə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "We have sinned, and dealt falsely, and revolted from our God: we have spoken unrighteous words, and have been disobedient; we have conceived and uttered from our heart unrighteous words.",
+        "kjv": "In transgressing and lying against the LORD, and departing away from our God, speaking oppression and revolt, conceiving and uttering from the heart words of falsehood."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወርኅቅነ፡ እምጽድቅ፡ ወኀደግነ፡ ርትዐ፤ ወተኀጥአት፡ ጽድቅ፡ እምፍኖቶሙ፡ ወስእኑ፡ ሐዊረ፡ በመጽያሕት።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወርኅቅነ",
+          "t": "wärəḫəqənä",
+          "gl": ""
+        },
+        {
+          "g": "እምጽድቅ",
+          "t": "ʾəməṣədəqə",
+          "gl": ""
+        },
+        {
+          "g": "ወኀደግነ",
+          "t": "wäḫädägənä",
+          "gl": ""
+        },
+        {
+          "g": "ርትዐ ወተኀጥአት",
+          "t": "rətəʿä wätäḫäṭəʾätə",
+          "gl": ""
+        },
+        {
+          "g": "ጽድቅ",
+          "t": "ṣədəqə",
+          "gl": ""
+        },
+        {
+          "g": "እምፍኖቶሙ",
+          "t": "ʾəməfənotomu",
+          "gl": ""
+        },
+        {
+          "g": "ወስእኑ",
+          "t": "wäsəʾənu",
+          "gl": ""
+        },
+        {
+          "g": "ሐዊረ",
+          "t": "ḥäwirä",
+          "gl": ""
+        },
+        {
+          "g": "በመጽያሕት",
+          "t": "bämäṣəyaḥətə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And we have turned judgment back, and righteousness has departed afar off: for truth is consumed in their ways, and they could not pass by a straight path.",
+        "kjv": "And judgment is turned away backward, and justice standeth afar off: for truth is fallen in the street, and equity cannot enter."
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ወተአተቱ፡ እምርትዕ፡ ወዐለዉ፡ ልቦሙ፡ ከመ፡ ኢየሐልይዎ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተአተቱ",
+          "t": "wätäʾätätu",
+          "gl": ""
+        },
+        {
+          "g": "እምርትዕ",
+          "t": "ʾəmərətəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወዐለዉ",
+          "t": "wäʿäläwu",
+          "gl": ""
+        },
+        {
+          "g": "ልቦሙ",
+          "t": "ləbomu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሐልይዎ",
+          "t": "ʾiyäḥäləyəwo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And truth has been taken away, and they have turned aside their mind from understanding. And the Lord saw it, and it pleased him not that there was no judgment.",
+        "kjv": "Yea, truth faileth; and he that departeth from evil maketh himself a prey: and the LORD saw it, and it displeased him that there was no judgment."
+      }
+    },
+    {
+      "num": 16,
+      "geez": "ወርእየ፡ ከመ፡ አልቦ፡ ሰብአ፡ ወጠየቀ፡ ከመ፡ አልቦ፡ ዘይሠጠዎ፤ ወኰነኖሙ፡ በመዝራዕቱ፡ ወአጽንዖሙ፡ በምሕረቱ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወርእየ",
+          "t": "wärəʾəyä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "አልቦ",
+          "t": "ʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ሰብአ",
+          "t": "säbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ወጠየቀ",
+          "t": "wäṭäyäqä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "አልቦ",
+          "t": "ʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘይሠጠዎ ወኰነኖሙ",
+          "t": "zäyəśäṭäwo wäkwänänomu",
+          "gl": ""
+        },
+        {
+          "g": "በመዝራዕቱ",
+          "t": "bämäzəraʿətu",
+          "gl": ""
+        },
+        {
+          "g": "ወአጽንዖሙ",
+          "t": "wäʾäṣənəʿomu",
+          "gl": ""
+        },
+        {
+          "g": "በምሕረቱ",
+          "t": "bäməḥərätu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he looked, and there was no man, and he observed, and there was none to help: so he defended them with his arm, and stablished them with his mercy.",
+        "kjv": "And he saw that there was no man, and wondered that there was no intercessor: therefore his arm brought salvation unto him; and his righteousness, it sustained him."
+      }
+    },
+    {
+      "num": 17,
+      "geez": "ወለብሰ፡ ጽድቀ፡ ከመ፡ ልብሰ፡ ኀፂን፡ ወወሰየ፡ ጌራ፡ መድኃኒት፡ ውስተ፡ ርእሱ፡ ወለብሰ፡ ልብሰ፡ በቀል።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለብሰ",
+          "t": "wäläbəsä",
+          "gl": ""
+        },
+        {
+          "g": "ጽድቀ",
+          "t": "ṣədəqä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ልብሰ",
+          "t": "ləbəsä",
+          "gl": ""
+        },
+        {
+          "g": "ኀፂን",
+          "t": "ḫäṣ́inə",
+          "gl": ""
+        },
+        {
+          "g": "ወወሰየ",
+          "t": "wäwäsäyä",
+          "gl": ""
+        },
+        {
+          "g": "ጌራ",
+          "t": "gera",
+          "gl": ""
+        },
+        {
+          "g": "መድኃኒት",
+          "t": "mädəḫanitə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ርእሱ",
+          "t": "rəʾəsu",
+          "gl": ""
+        },
+        {
+          "g": "ወለብሰ",
+          "t": "wäläbəsä",
+          "gl": ""
+        },
+        {
+          "g": "ልብሰ",
+          "t": "ləbəsä",
+          "gl": ""
+        },
+        {
+          "g": "በቀል",
+          "t": "bäqälə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he put on righteousness as a breast-plate, and placed the helmet of salvation on his head; and he clothed himself with the garment of vengeance, and with his cloak,",
+        "kjv": "For he put on righteousness as a breastplate, and an helmet of salvation upon his head; and he put on the garments of vengeance for clothing, and was clad with zeal as a cloak."
+      }
+    },
+    {
+      "num": 18,
+      "geez": "ወተሞጥሐ፡ ሞጣሕተ፡ በቀል፡ ወፍዳ፡ በዘያኀሥሮሙ፡ ለፀር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተሞጥሐ",
+          "t": "wätämoṭəḥä",
+          "gl": ""
+        },
+        {
+          "g": "ሞጣሕተ",
+          "t": "moṭaḥətä",
+          "gl": ""
+        },
+        {
+          "g": "በቀል",
+          "t": "bäqälə",
+          "gl": ""
+        },
+        {
+          "g": "ወፍዳ",
+          "t": "wäfəda",
+          "gl": ""
+        },
+        {
+          "g": "በዘያኀሥሮሙ",
+          "t": "bäzäyaḫäśəromu",
+          "gl": ""
+        },
+        {
+          "g": "ለፀር",
+          "t": "läṣ́ärə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "as one about to render a recompence, even reproach to his adversaries.",
+        "kjv": "According to their deeds, accordingly he will repay, fury to his adversaries, recompence to his enemies; to the islands he will repay recompence."
+      }
+    },
+    {
+      "num": 19,
+      "geez": "ወይፈርሁ፡ ስመ፡ እግዚአብሔር፡ እለ፡ እምዕራብ፡ ወእለ፡ እምሥራቅ፡ ፀሐይ፡ ለስሙ፡ ክቡር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይፈርሁ",
+          "t": "wäyəfärəhu",
+          "gl": ""
+        },
+        {
+          "g": "ስመ",
+          "t": "səmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "እምዕራብ",
+          "t": "ʾəməʿərabə",
+          "gl": ""
+        },
+        {
+          "g": "ወእለ",
+          "t": "wäʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "እምሥራቅ",
+          "t": "ʾəməśəraqə",
+          "gl": ""
+        },
+        {
+          "g": "ፀሐይ",
+          "t": "ṣ́äḥäyə",
+          "gl": ""
+        },
+        {
+          "g": "ለስሙ",
+          "t": "läsəmu",
+          "gl": ""
+        },
+        {
+          "g": "ክቡር",
+          "t": "kəburə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "So shall they of the west fear the name of the Lord, and they that come from the rising of the sun his glorious name: for the wrath of the Lord shall come as a mighty river, it shall come with fury.",
+        "kjv": "So shall they fear the name of the LORD from the west, and his glory from the rising of the sun. When the enemy shall come in like a flood, the Spirit of the LORD shall lift up a standard against him."
+      }
+    },
+    {
+      "num": 20,
+      "geez": "ወይመጽእ፡ እምጽዮን፡ መድኅን፡ ወያአትት፡ ኃጢአተ፡ እምያዕቆብ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይመጽእ",
+          "t": "wäyəmäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "እምጽዮን",
+          "t": "ʾəməṣəyonə",
+          "gl": ""
+        },
+        {
+          "g": "መድኅን",
+          "t": "mädəḫənə",
+          "gl": ""
+        },
+        {
+          "g": "ወያአትት",
+          "t": "wäyaʾätətə",
+          "gl": ""
+        },
+        {
+          "g": "ኃጢአተ",
+          "t": "ḫaṭiʾätä",
+          "gl": ""
+        },
+        {
+          "g": "እምያዕቆብ",
+          "t": "ʾəməyaʿəqobə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the deliverer shall come for Sion's sake, and shall turn away ungodliness from Jacob.",
+        "kjv": "And the Redeemer shall come to Zion, and unto them that turn from transgression in Jacob, saith the LORD."
+      }
+    },
+    {
+      "num": 21,
+      "geez": "ወዛቲ፡ ይእቲ፡ ኪዳኖሙ፡ እንተ፡ እምኀቤየ፡ ይቤ፡ እግዚአብሔር፤ መንፈሰ፡ ዚአየ፡ ውእቱ፡ ዘዲቤከ፡ ወዘወደይኩ፡ ቃልየ፡ ውስተ፡ አፉከ፡ ወኢየኀልቅ፡ እምአፉከ፡ ወእምአፈ፡ ዘርእከ፤ ይቤ፡ እግዚአብሔር፡ እምይእዜ፡ ወእስከ፡ ለዓለም።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዛቲ",
+          "t": "wäzati",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ኪዳኖሙ",
+          "t": "kidanomu",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "እምኀቤየ",
+          "t": "ʾəməḫäbeyä",
+          "gl": ""
+        },
+        {
+          "g": "ይቤ",
+          "t": "yəbe",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር መንፈሰ",
+          "t": "ʾəgəziʾäbəḥerə mänəfäsä",
+          "gl": ""
+        },
+        {
+          "g": "ዚአየ",
+          "t": "ziʾäyä",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘዲቤከ",
+          "t": "zädibekä",
+          "gl": ""
+        },
+        {
+          "g": "ወዘወደይኩ",
+          "t": "wäzäwädäyəku",
+          "gl": ""
+        },
+        {
+          "g": "ቃልየ",
+          "t": "qaləyä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አፉከ",
+          "t": "ʾäfukä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢየኀልቅ",
+          "t": "wäʾiyäḫäləqə",
+          "gl": ""
+        },
+        {
+          "g": "እምአፉከ",
+          "t": "ʾəməʾäfukä",
+          "gl": ""
+        },
+        {
+          "g": "ወእምአፈ",
+          "t": "wäʾəməʾäfä",
+          "gl": ""
+        },
+        {
+          "g": "ዘርእከ ይቤ",
+          "t": "zärəʾəkä yəbe",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "እምይእዜ",
+          "t": "ʾəməyəʾəze",
+          "gl": ""
+        },
+        {
+          "g": "ወእስከ",
+          "t": "wäʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ለዓለም",
+          "t": "läʿalämə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And this shall be my covenant with them, said the Lord; My Spirit which is upon thee, and the words which I have put in thy mouth, shall never fail from thy mouth, nor from the mouth of thy seed, for the Lord has spoken it, henceforth and for ever.",
+        "kjv": "As for me, this is my covenant with them, saith the LORD; My spirit that is upon thee, and my words which I have put in thy mouth, shall not depart out of thy mouth, nor out of the mouth of thy seed, nor out of the mouth of thy seed’s seed, saith the LORD, from henceforth and for ever."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

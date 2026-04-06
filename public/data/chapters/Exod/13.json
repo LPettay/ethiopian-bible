@@ -1,0 +1,1785 @@
+{
+  "book": "Exod",
+  "chapter": 13,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወይቤሎ ፡ እግዚአብሔር ፡ ለሙሴ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord spoke to Moses, saying,",
+        "kjv": "And the LORD spake unto Moses, saying,"
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ቀድስ ፡ ሊተ ፡ ኵሎ ፡ በኵረ ፡ ቀዳሚ ፡ ውሉድ ፡ ዘይፈትሕ ፡ ኵሎ ፡ ሕምሰ ፡ እምደቂቀ ፡ እስራኤል ፡ እምሰብእ ፡\n                  እስከነ ፡ እንስሳ ፡ ሊተ ፡ ውእቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ቀድስ",
+          "t": "qädəsə",
+          "gl": ""
+        },
+        {
+          "g": "ሊተ",
+          "t": "litä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "በኵረ",
+          "t": "bäkwərä",
+          "gl": ""
+        },
+        {
+          "g": "ቀዳሚ",
+          "t": "qädami",
+          "gl": ""
+        },
+        {
+          "g": "ውሉድ",
+          "t": "wəludə",
+          "gl": ""
+        },
+        {
+          "g": "ዘይፈትሕ",
+          "t": "zäyəfätəḥə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ሕምሰ",
+          "t": "ḥəməsä",
+          "gl": ""
+        },
+        {
+          "g": "እምደቂቀ",
+          "t": "ʾəmədäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "እምሰብእ",
+          "t": "ʾəməsäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "እስከነ",
+          "t": "ʾəsəkänä",
+          "gl": ""
+        },
+        {
+          "g": "እንስሳ",
+          "t": "ʾənəsəsa",
+          "gl": ""
+        },
+        {
+          "g": "ሊተ",
+          "t": "litä",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Sanctify to me every first-born, first produced, opening every womb among the children of Israel both of man and beast: it is mine.",
+        "kjv": "Sanctify unto me all the firstborn, whatsoever openeth the womb among the children of Israel, both of man and of beast: it is mine."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወይቤሎሙ ፡ ሙሴ ፡ ለሕዝብ ፡ ተዘከርዋ ፡ ለዛቲ ፡ ዕለት ፡ እንተ ፡ ባቲ ፡ ወፃእክሙ ፡ እምብሔረ ፡ ግብጽ ፡ እምቤት ፡\n                  ቅንየት ፡ እስመ ፡ በእድ ፡ ጽንዕት ፡ አውፅአክሙ ፡ እግዚአብሔር ፡ እምዝየ ፡ ወኢትብልዑ ፡ ብሑአ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎሙ",
+          "t": "wäyəbelomu",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ለሕዝብ",
+          "t": "läḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ተዘከርዋ",
+          "t": "täzäkärəwa",
+          "gl": ""
+        },
+        {
+          "g": "ለዛቲ",
+          "t": "läzati",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ባቲ",
+          "t": "bati",
+          "gl": ""
+        },
+        {
+          "g": "ወፃእክሙ",
+          "t": "wäṣ́aʾəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እምብሔረ",
+          "t": "ʾəməbəḥerä",
+          "gl": ""
+        },
+        {
+          "g": "ግብጽ",
+          "t": "gəbəṣə",
+          "gl": ""
+        },
+        {
+          "g": "እምቤት",
+          "t": "ʾəməbetə",
+          "gl": ""
+        },
+        {
+          "g": "ቅንየት",
+          "t": "qənəyätə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "በእድ",
+          "t": "bäʾədə",
+          "gl": ""
+        },
+        {
+          "g": "ጽንዕት",
+          "t": "ṣənəʿətə",
+          "gl": ""
+        },
+        {
+          "g": "አውፅአክሙ",
+          "t": "ʾäwəṣ́əʾäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "እምዝየ",
+          "t": "ʾəməzəyä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢትብልዑ",
+          "t": "wäʾitəbələʿu",
+          "gl": ""
+        },
+        {
+          "g": "ብሑአ",
+          "t": "bəḥuʾä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Moses said to the people, Remember this day, in which ye came forth out of the land of Egypt, out of the house of bondage, for with a strong hand the Lord brought you forth thence; and leaven shall not be eaten.",
+        "kjv": "And Moses said unto the people, Remember this day, in which ye came out from Egypt, out of the house of bondage; for by strength of hand the LORD brought you out from this place: there shall no leavened bread be eaten."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "እስመ ፡ በዛቲ ፡ ዕለት ፡ ትወጽኡ ፡ አንትሙ ፡ በወርኀ ፡ ሃሌሉያ ፡ (ኔሳን) ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "በዛቲ",
+          "t": "bäzati",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "ትወጽኡ",
+          "t": "təwäṣəʾu",
+          "gl": ""
+        },
+        {
+          "g": "አንትሙ",
+          "t": "ʾänətəmu",
+          "gl": ""
+        },
+        {
+          "g": "በወርኀ",
+          "t": "bäwärəḫä",
+          "gl": ""
+        },
+        {
+          "g": "ሃሌሉያ",
+          "t": "haleluya",
+          "gl": ""
+        },
+        {
+          "g": "ኔሳን",
+          "t": "nesanə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For on this day ye go forth in the month of new corn.",
+        "kjv": "This day came ye out in the month Abib."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወእመ ፡ ወሰደክሙ ፡ እግዚአብሔር ፡ ውስተ ፡ ምድረ ፡ ከናኔዎን ፡ ወኬጤዎን ፡ ወአሞሬዎን ፡ ወኤዌዎን ፡ ወኢያ[ቡ]ሴዎን\n                  ፡ ወጌርጌሴዎን ፡ ወፌሬዜዎን ፡ ዘመሐለ ፡ ከመ ፡ የሀቦሙ ፡ ለአበዊክሙ ፡ ምድረ ፡ እንተ ፡ ትውሕዝ ፡ ሐሊበ ፡ ወመዓረ ፡\n                  ወተዘከርዋ ፡ ለዛቲ ፡ ሥርዐት ፡ በዝ ፡ ወርኅ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመ",
+          "t": "wäʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ወሰደክሙ",
+          "t": "wäsädäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድረ",
+          "t": "mədərä",
+          "gl": ""
+        },
+        {
+          "g": "ከናኔዎን",
+          "t": "känanewonə",
+          "gl": ""
+        },
+        {
+          "g": "ወኬጤዎን",
+          "t": "wäkeṭewonə",
+          "gl": ""
+        },
+        {
+          "g": "ወአሞሬዎን",
+          "t": "wäʾämorewonə",
+          "gl": ""
+        },
+        {
+          "g": "ወኤዌዎን",
+          "t": "wäʾewewonə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢያቡሴዎን",
+          "t": "wäʾiyabusewonə",
+          "gl": ""
+        },
+        {
+          "g": "ወጌርጌሴዎን",
+          "t": "wägerəgesewonə",
+          "gl": ""
+        },
+        {
+          "g": "ወፌሬዜዎን",
+          "t": "wäferezewonə",
+          "gl": ""
+        },
+        {
+          "g": "ዘመሐለ",
+          "t": "zämäḥälä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "የሀቦሙ",
+          "t": "yähäbomu",
+          "gl": ""
+        },
+        {
+          "g": "ለአበዊክሙ",
+          "t": "läʾäbäwikəmu",
+          "gl": ""
+        },
+        {
+          "g": "ምድረ",
+          "t": "mədərä",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ትውሕዝ",
+          "t": "təwəḥəzə",
+          "gl": ""
+        },
+        {
+          "g": "ሐሊበ",
+          "t": "ḥälibä",
+          "gl": ""
+        },
+        {
+          "g": "ወመዓረ",
+          "t": "wämäʿarä",
+          "gl": ""
+        },
+        {
+          "g": "ወተዘከርዋ",
+          "t": "wätäzäkärəwa",
+          "gl": ""
+        },
+        {
+          "g": "ለዛቲ",
+          "t": "läzati",
+          "gl": ""
+        },
+        {
+          "g": "ሥርዐት",
+          "t": "śərəʿätə",
+          "gl": ""
+        },
+        {
+          "g": "በዝ",
+          "t": "bäzə",
+          "gl": ""
+        },
+        {
+          "g": "ወርኅ",
+          "t": "wärəḫə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it shall come to pass when the Lord thy God shall have brought thee into the land of the Chananites, and the Chettites, and Amorites, and Evites, and Jebusites, and Gergesites, and Pherezites, which he sware to thy fathers to give thee, a land flowing with milk and honey, that thou shalt perform this service in this month.",
+        "kjv": "And it shall be when the LORD shall bring thee into the land of the Canaanites, and the Hittites, and the Amorites, and the Hivites, and the Jebusites, which he sware unto thy fathers to give thee, a land flowing with milk and honey, that thou shalt keep this service in this month."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ሰዱሰ ፡ ዕለተ ፡ ትበልዑ ፡ ናእተ ፡ ወሳብዕት ፡ ዕለት ፡ በዓሉ ፡ ለእግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ሰዱሰ",
+          "t": "sädusä",
+          "gl": ""
+        },
+        {
+          "g": "ዕለተ",
+          "t": "ʿəlätä",
+          "gl": ""
+        },
+        {
+          "g": "ትበልዑ",
+          "t": "təbäləʿu",
+          "gl": ""
+        },
+        {
+          "g": "ናእተ",
+          "t": "naʾətä",
+          "gl": ""
+        },
+        {
+          "g": "ወሳብዕት",
+          "t": "wäsabəʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "በዓሉ",
+          "t": "bäʿalu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Six days ye shall eat unleavened bread, and on the seventh day is a feast to the Lord.",
+        "kjv": "Seven days thou shalt eat unleavened bread, and in the seventh day shall be a feast to the LORD."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ናእተ ፡ ትበልዑ ፡ ሰቡዐ ፡ ዕለተ ፡ ወኢያስተርኢክሙ ፡ ብሑእ ፡ ወኢየሀሉ ፡ ብሕእት ፡ ውስተ ፡ ኵሉ ፡ አድባሪክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ናእተ",
+          "t": "naʾətä",
+          "gl": ""
+        },
+        {
+          "g": "ትበልዑ",
+          "t": "təbäləʿu",
+          "gl": ""
+        },
+        {
+          "g": "ሰቡዐ",
+          "t": "säbuʿä",
+          "gl": ""
+        },
+        {
+          "g": "ዕለተ",
+          "t": "ʿəlätä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢያስተርኢክሙ",
+          "t": "wäʾiyasətärəʾikəmu",
+          "gl": ""
+        },
+        {
+          "g": "ብሑእ",
+          "t": "bəḥuʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢየሀሉ",
+          "t": "wäʾiyähälu",
+          "gl": ""
+        },
+        {
+          "g": "ብሕእት",
+          "t": "bəḥəʾətə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "አድባሪክሙ",
+          "t": "ʾädəbarikəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Seven days shall ye eat unleavened bread; nothing leavened shall be seen with thee, neither shalt thou have leaven in all thy borders.",
+        "kjv": "Unleavened bread shall be eaten seven days; and there shall no leavened bread be seen with thee, neither shall there be leaven seen with thee in all thy quarters."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወትዜንዎ ፡ ለወልድከ ፡ በይእቲ ፡ ዕለት ፡ ወትብሎ ፡ በእንተዝ ፡ ገብሮ ፡ እግዚእ ፡ እግዚአብሔር ፡ ገብሮ ፡ ሊተ ፡\n                  አመ ፡ ወፃእኩ ፡ እምብሔረ ፡ ግብጽ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትዜንዎ",
+          "t": "wätəzenəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለወልድከ",
+          "t": "läwälədəkä",
+          "gl": ""
+        },
+        {
+          "g": "በይእቲ",
+          "t": "bäyəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "ወትብሎ",
+          "t": "wätəbəlo",
+          "gl": ""
+        },
+        {
+          "g": "በእንተዝ",
+          "t": "bäʾənətäzə",
+          "gl": ""
+        },
+        {
+          "g": "ገብሮ",
+          "t": "gäbəro",
+          "gl": ""
+        },
+        {
+          "g": "እግዚእ",
+          "t": "ʾəgəziʾə",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ገብሮ",
+          "t": "gäbəro",
+          "gl": ""
+        },
+        {
+          "g": "ሊተ",
+          "t": "litä",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ወፃእኩ",
+          "t": "wäṣ́aʾəku",
+          "gl": ""
+        },
+        {
+          "g": "እምብሔረ",
+          "t": "ʾəməbəḥerä",
+          "gl": ""
+        },
+        {
+          "g": "ግብጽ",
+          "t": "gəbəṣə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And thou shalt tell thy son in that day, saying, Therefore the Lord dealt thus with me, as I was going out of Egypt.",
+        "kjv": "And thou shalt shew thy son in that day, saying, This is done because of that which the LORD did unto me when I came forth out of Egypt."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ከመ ፡ ይኩን ፡ ለከ ፡ ተአምረ ፡ ውስተ ፡ እደዊከ ፡ ወተዝካረ ፡ ቅድመ ፡ አዕይንቲከ ፡ ወከመ ፡ ይኩን ፡ ሕጉ ፡\n                  ለእግዚአብሔር ፡ ውስተ ፡ አፉከ ፡ እስመ ፡ በእድ ፡ ጽንዕት ፡ አውፅአከ ፡ እግዚአብሔር ፡ እምግብጽ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይኩን",
+          "t": "yəkunə",
+          "gl": ""
+        },
+        {
+          "g": "ለከ",
+          "t": "läkä",
+          "gl": ""
+        },
+        {
+          "g": "ተአምረ",
+          "t": "täʾämərä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እደዊከ",
+          "t": "ʾədäwikä",
+          "gl": ""
+        },
+        {
+          "g": "ወተዝካረ",
+          "t": "wätäzəkarä",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "አዕይንቲከ",
+          "t": "ʾäʿəyənətikä",
+          "gl": ""
+        },
+        {
+          "g": "ወከመ",
+          "t": "wäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ይኩን",
+          "t": "yəkunə",
+          "gl": ""
+        },
+        {
+          "g": "ሕጉ",
+          "t": "ḥəgu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አፉከ",
+          "t": "ʾäfukä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "በእድ",
+          "t": "bäʾədə",
+          "gl": ""
+        },
+        {
+          "g": "ጽንዕት",
+          "t": "ṣənəʿətə",
+          "gl": ""
+        },
+        {
+          "g": "አውፅአከ",
+          "t": "ʾäwəṣ́əʾäkä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "እምግብጽ",
+          "t": "ʾəməgəbəṣə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it shall be to thee a sign upon thy hand and a memorial before thine eyes, that the law of the Lord may be in thy mouth, for with a strong hand the Lord God brought thee out of Egypt.",
+        "kjv": "And it shall be for a sign unto thee upon thine hand, and for a memorial between thine eyes, that the LORD’s law may be in thy mouth: for with a strong hand hath the LORD brought thee out of Egypt."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወዕቀብዎ ፡ ለዝንቱ ፡ ሕግ ፡ በበጊዜሁ ፡ እምዕለት ፡ ለዕለት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዕቀብዎ",
+          "t": "wäʿəqäbəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለዝንቱ",
+          "t": "läzənətu",
+          "gl": ""
+        },
+        {
+          "g": "ሕግ",
+          "t": "ḥəgə",
+          "gl": ""
+        },
+        {
+          "g": "በበጊዜሁ",
+          "t": "bäbägizehu",
+          "gl": ""
+        },
+        {
+          "g": "እምዕለት",
+          "t": "ʾəməʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "ለዕለት",
+          "t": "läʿəlätə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And preserve ye this law according to the times of the seasons, from year to year.",
+        "kjv": "Thou shalt therefore keep this ordinance in his season from year to year."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወሶበ ፡ ወሰደከ ፡ እግዚአብሔር ፡ ውስተ ፡ ምድረ ፡ ከናኔዎን ፡ እንተ ፡ መሐለ ፡ ለአበዊከ ፡ ወወሀበካሃ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሶበ",
+          "t": "wäsobä",
+          "gl": ""
+        },
+        {
+          "g": "ወሰደከ",
+          "t": "wäsädäkä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድረ",
+          "t": "mədərä",
+          "gl": ""
+        },
+        {
+          "g": "ከናኔዎን",
+          "t": "känanewonə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "መሐለ",
+          "t": "mäḥälä",
+          "gl": ""
+        },
+        {
+          "g": "ለአበዊከ",
+          "t": "läʾäbäwikä",
+          "gl": ""
+        },
+        {
+          "g": "ወወሀበካሃ",
+          "t": "wäwähäbäkaha",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it shall come to pass when the Lord thy God shall bring thee into the land of the Chananites, as he sware to thy fathers, and shall give it thee,",
+        "kjv": "And it shall be when the LORD shall bring thee into the land of the Canaanites, as he sware unto thee and to thy fathers, and shall give it thee,"
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ትፍልጥ ፡ ኵሎ ፡ ዘይፈትሕ ፡ ሕምሰ ፡ እመራዕይከ ፡ ወእምእንስሳከ ፡ ዘተወልደ ፡ ተባዕተ ፡ ለእግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ትፍልጥ",
+          "t": "təfələṭə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ዘይፈትሕ",
+          "t": "zäyəfätəḥə",
+          "gl": ""
+        },
+        {
+          "g": "ሕምሰ",
+          "t": "ḥəməsä",
+          "gl": ""
+        },
+        {
+          "g": "እመራዕይከ",
+          "t": "ʾəmäraʿəyəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወእምእንስሳከ",
+          "t": "wäʾəməʾənəsəsakä",
+          "gl": ""
+        },
+        {
+          "g": "ዘተወልደ",
+          "t": "zätäwälədä",
+          "gl": ""
+        },
+        {
+          "g": "ተባዕተ",
+          "t": "täbaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "that thou shalt set apart every offspring opening the womb, the males to the Lord, every one that opens the womb out of the herds or among thy cattle, as many as thou shalt have: thou shalt sanctify the males to the Lord.",
+        "kjv": "That thou shalt set apart unto the LORD all that openeth the matrix, and every firstling that cometh of a beast which thou hast; the males shall be the LORD’s."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወኵሉ ፡ ዘይፈትሕ ፡ ሕምሰ ፡ [እድግት] ፡ ትዌልጦ ፡ በበግዕ ፡ ወእመ ፡ ኢወለጥካሁ ፡ ትቤዝዎ ፡ ወኵሎ ፡ በኵረ ፡\n                  ተባዕት ፡ እምውሉድከ ፡ ትቤዝዎ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይፈትሕ",
+          "t": "zäyəfätəḥə",
+          "gl": ""
+        },
+        {
+          "g": "ሕምሰ",
+          "t": "ḥəməsä",
+          "gl": ""
+        },
+        {
+          "g": "እድግት",
+          "t": "ʾədəgətə",
+          "gl": ""
+        },
+        {
+          "g": "ትዌልጦ",
+          "t": "təweləṭo",
+          "gl": ""
+        },
+        {
+          "g": "በበግዕ",
+          "t": "bäbägəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወእመ",
+          "t": "wäʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኢወለጥካሁ",
+          "t": "ʾiwäläṭəkahu",
+          "gl": ""
+        },
+        {
+          "g": "ትቤዝዎ",
+          "t": "təbezəwo",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "በኵረ",
+          "t": "bäkwərä",
+          "gl": ""
+        },
+        {
+          "g": "ተባዕት",
+          "t": "täbaʿətə",
+          "gl": ""
+        },
+        {
+          "g": "እምውሉድከ",
+          "t": "ʾəməwəludəkä",
+          "gl": ""
+        },
+        {
+          "g": "ትቤዝዎ",
+          "t": "təbezəwo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Every offspring opening the womb of the ass thou shalt change for a sheep; and if thou wilt not change it, thou shalt redeem it: every first-born of man of thy sons shalt thou redeem.",
+        "kjv": "And every firstling of an ass thou shalt redeem with a lamb; and if thou wilt not redeem it, then thou shalt break his neck: and all the firstborn of man among thy children shalt thou redeem."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወእመ ፡ ተስእለከ ፡ ወልድከ ፡ እምድኅረዝ ፡ ወይቤለከ ፡ ምንተ ፡ ውእቱዝ ፡ ወትብሎ ፡ እስመ ፡ በእድ ፡ ጽንዕት ፡\n                  አውፅአነ ፡ እግዚአብሔር ፡ እምድረ ፡ ግብጽ ፡ እምቤተ ፡ ቅንየት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመ",
+          "t": "wäʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ተስእለከ",
+          "t": "täsəʾəläkä",
+          "gl": ""
+        },
+        {
+          "g": "ወልድከ",
+          "t": "wälədəkä",
+          "gl": ""
+        },
+        {
+          "g": "እምድኅረዝ",
+          "t": "ʾəmədəḫəräzə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤለከ",
+          "t": "wäyəbeläkä",
+          "gl": ""
+        },
+        {
+          "g": "ምንተ",
+          "t": "mənətä",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱዝ",
+          "t": "wəʾətuzə",
+          "gl": ""
+        },
+        {
+          "g": "ወትብሎ",
+          "t": "wätəbəlo",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "በእድ",
+          "t": "bäʾədə",
+          "gl": ""
+        },
+        {
+          "g": "ጽንዕት",
+          "t": "ṣənəʿətə",
+          "gl": ""
+        },
+        {
+          "g": "አውፅአነ",
+          "t": "ʾäwəṣ́əʾänä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "እምድረ",
+          "t": "ʾəmədərä",
+          "gl": ""
+        },
+        {
+          "g": "ግብጽ",
+          "t": "gəbəṣə",
+          "gl": ""
+        },
+        {
+          "g": "እምቤተ",
+          "t": "ʾəməbetä",
+          "gl": ""
+        },
+        {
+          "g": "ቅንየት",
+          "t": "qənəyätə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if thy son should ask thee hereafter, saying, What is this? then thou shalt say to him, With a strong hand the Lord brought us out of Egypt, out of the house of bondage.",
+        "kjv": "And it shall be when thy son asketh thee in time to come, saying, What is this? that thou shalt say unto him, By strength of hand the LORD brought us out from Egypt, from the house of bondage:"
+      }
+    },
+    {
+      "num": 15,
+      "geez": "አመ ፡ አበየ ፡ ፈርዖን ፡ ፈንዎተነ ፡ ቀተለ ፡ ኵሎ ፡ በኵረ ፡ በምድረ ፡ ግብጽ ፡ እምበኵረ ፡ ሰብእ ፡ እስከ ፡\n                  እንስሳ ፡ ወበእንተዝ ፡ አነ ፡ እሠውዕ ፡ ለእግዚአብሔር ፡ ኵሎ ፡ ተባዕተ ፡ ዘይፈትሕ ፡ ሕምሰ ፡ ወኵሎ ፡ በኵረ ፡ ውሉድየ\n                  ፡ እቤዙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "አበየ",
+          "t": "ʾäbäyä",
+          "gl": ""
+        },
+        {
+          "g": "ፈርዖን",
+          "t": "färəʿonə",
+          "gl": ""
+        },
+        {
+          "g": "ፈንዎተነ",
+          "t": "fänəwotänä",
+          "gl": ""
+        },
+        {
+          "g": "ቀተለ",
+          "t": "qätälä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "በኵረ",
+          "t": "bäkwərä",
+          "gl": ""
+        },
+        {
+          "g": "በምድረ",
+          "t": "bämədərä",
+          "gl": ""
+        },
+        {
+          "g": "ግብጽ",
+          "t": "gəbəṣə",
+          "gl": ""
+        },
+        {
+          "g": "እምበኵረ",
+          "t": "ʾəməbäkwərä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "እንስሳ",
+          "t": "ʾənəsəsa",
+          "gl": ""
+        },
+        {
+          "g": "ወበእንተዝ",
+          "t": "wäbäʾənətäzə",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "እሠውዕ",
+          "t": "ʾəśäwəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ተባዕተ",
+          "t": "täbaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "ዘይፈትሕ",
+          "t": "zäyəfätəḥə",
+          "gl": ""
+        },
+        {
+          "g": "ሕምሰ",
+          "t": "ḥəməsä",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "በኵረ",
+          "t": "bäkwərä",
+          "gl": ""
+        },
+        {
+          "g": "ውሉድየ",
+          "t": "wəludəyä",
+          "gl": ""
+        },
+        {
+          "g": "እቤዙ",
+          "t": "ʾəbezu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And when Pharao hardened his heart so as not to send us away, he slew every first-born in the land of Egypt, both the first-born of man and the first-born of beast; therefore do I sacrifice every offspring that opens the womb, the males to the Lord, and every first-born of my sons I will redeem.",
+        "kjv": "And it came to pass, when Pharaoh would hardly let us go, that the LORD slew all the firstborn in the land of Egypt, both the firstborn of man, and the firstborn of beast: therefore I sacrifice to the LORD all that openeth the matrix, being males; but all the firstborn of my children I redeem."
+      }
+    },
+    {
+      "num": 16,
+      "geez": "ወይኩን ፡ ተአም[ረ] ፡ ውስተ ፡ እዴከ ፡ ወዘኢይሴስል ፡ እምቅድመ ፡ ዐይንከ ፡ እስመ ፡ በእድ ፡ ጽንዕት ፡ አውጽአነ ፡\n                  እግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይኩን",
+          "t": "wäyəkunə",
+          "gl": ""
+        },
+        {
+          "g": "ተአምረ",
+          "t": "täʾämərä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴከ",
+          "t": "ʾədekä",
+          "gl": ""
+        },
+        {
+          "g": "ወዘኢይሴስል",
+          "t": "wäzäʾiyəsesələ",
+          "gl": ""
+        },
+        {
+          "g": "እምቅድመ",
+          "t": "ʾəməqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ዐይንከ",
+          "t": "ʿäyənəkä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "በእድ",
+          "t": "bäʾədə",
+          "gl": ""
+        },
+        {
+          "g": "ጽንዕት",
+          "t": "ṣənəʿətə",
+          "gl": ""
+        },
+        {
+          "g": "አውጽአነ",
+          "t": "ʾäwəṣəʾänä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it shall be for a sign upon thy hand, and immovable before thine eyes, for with a strong hand the Lord brought thee out of Egypt.",
+        "kjv": "And it shall be for a token upon thine hand, and for frontlets between thine eyes: for by strength of hand the LORD brought us forth out of Egypt."
+      }
+    },
+    {
+      "num": 17,
+      "geez": "ወሶበ ፡ ፈነዎሙ ፡ ፈርዖን ፡ ለሕዝብ ፡ ኢመርሖሙ ፡ እግዚአብሔር ፡ ፍኖተ ፡ ፍልስ[ጥኤ]ም ፡ እስመ ፡ ቅርብት ፡ ይእቲ\n                  ፡ እስመ ፡ ይቤ ፡ እግዚአብሔር ፡ ዮጊ ፡ ይኔስሕ ፡ እምከመ ፡ ርእየ ፡ ቀትለ ፡ ወይገብእ ፡ ውስተ ፡ ግብጽ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሶበ",
+          "t": "wäsobä",
+          "gl": ""
+        },
+        {
+          "g": "ፈነዎሙ",
+          "t": "fänäwomu",
+          "gl": ""
+        },
+        {
+          "g": "ፈርዖን",
+          "t": "färəʿonə",
+          "gl": ""
+        },
+        {
+          "g": "ለሕዝብ",
+          "t": "läḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ኢመርሖሙ",
+          "t": "ʾimärəḥomu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ፍኖተ",
+          "t": "fənotä",
+          "gl": ""
+        },
+        {
+          "g": "ፍልስጥኤም",
+          "t": "fələsəṭəʾemə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ቅርብት",
+          "t": "qərəbətə",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ይቤ",
+          "t": "yəbe",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ዮጊ",
+          "t": "yogi",
+          "gl": ""
+        },
+        {
+          "g": "ይኔስሕ",
+          "t": "yənesəḥə",
+          "gl": ""
+        },
+        {
+          "g": "እምከመ",
+          "t": "ʾəməkämä",
+          "gl": ""
+        },
+        {
+          "g": "ርእየ",
+          "t": "rəʾəyä",
+          "gl": ""
+        },
+        {
+          "g": "ቀትለ",
+          "t": "qätəlä",
+          "gl": ""
+        },
+        {
+          "g": "ወይገብእ",
+          "t": "wäyəgäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ግብጽ",
+          "t": "gəbəṣə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And when Pharao sent forth the people, God led them not by the way of the land of the Phylistines, because it was near; for God said, Lest at any time the people repent when they see war, and return to Egypt.",
+        "kjv": "And it came to pass, when Pharaoh had let the people go, that God led them not through the way of the land of the Philistines, although that was near; for God said, Lest peradventure the people repent when they see war, and they return to Egypt:"
+      }
+    },
+    {
+      "num": 18,
+      "geez": "ወዐገቶሙ ፡ እግዚአብሔር ፡ ለሕዝብ ፡ ላዕለ ፡ ፍኖተ ፡ ሐቅለ ፡ ባሕረ ፡ [ኤ]ርትራ ፤ ወበኀምስ ፡ ትውልድ ፡ ዐርጉ ፡\n                  ደቂቀ ፡ እስራኤል ፡ እምድረ ፡ ግብጽ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዐገቶሙ",
+          "t": "wäʿägätomu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሕዝብ",
+          "t": "läḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ፍኖተ",
+          "t": "fənotä",
+          "gl": ""
+        },
+        {
+          "g": "ሐቅለ",
+          "t": "ḥäqəlä",
+          "gl": ""
+        },
+        {
+          "g": "ባሕረ",
+          "t": "baḥərä",
+          "gl": ""
+        },
+        {
+          "g": "ኤርትራ  ወበኀምስ",
+          "t": "ʾerətəra  wäbäḫäməsə",
+          "gl": ""
+        },
+        {
+          "g": "ትውልድ",
+          "t": "təwələdə",
+          "gl": ""
+        },
+        {
+          "g": "ዐርጉ",
+          "t": "ʿärəgu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "እምድረ",
+          "t": "ʾəmədərä",
+          "gl": ""
+        },
+        {
+          "g": "ግብጽ",
+          "t": "gəbəṣə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And God led the people round by the way to the wilderness, to the Red Sea: and in the fifth generation the children of Israel went up out of the land of Egypt.",
+        "kjv": "But God led the people about, through the way of the wilderness of the Red sea: and the children of Israel went up harnessed out of the land of Egypt."
+      }
+    },
+    {
+      "num": 19,
+      "geez": "ወነሥአ ፡ ሙሴ ፡ አዕጽምቲሁ ፡ ለዮሴፍ ፡ ምስሌሁ ፡ እስመ ፡ መሐላ ፡ አምሐሎሙ ፡ ለደቂቀ ፡ እስራኤል ፡ ወይቤሎሙ ፡\n                  አመ ፡ ኀውጾ ፡ ይኄውጸክሙ ፡ እግዚአብሔር ፡ ንሥኡ ፡ አዕጽምትየ ፡ ወአውጽኡ ፡ ምስሌክሙ ፡ እምዝየ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነሥአ",
+          "t": "wänäśəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "አዕጽምቲሁ",
+          "t": "ʾäʿəṣəmətihu",
+          "gl": ""
+        },
+        {
+          "g": "ለዮሴፍ",
+          "t": "läyosefə",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሁ",
+          "t": "məsəlehu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "መሐላ",
+          "t": "mäḥäla",
+          "gl": ""
+        },
+        {
+          "g": "አምሐሎሙ",
+          "t": "ʾäməḥälomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎሙ",
+          "t": "wäyəbelomu",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ኀውጾ",
+          "t": "ḫäwəṣo",
+          "gl": ""
+        },
+        {
+          "g": "ይኄውጸክሙ",
+          "t": "yəḫewəṣäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ንሥኡ",
+          "t": "nəśəʾu",
+          "gl": ""
+        },
+        {
+          "g": "አዕጽምትየ",
+          "t": "ʾäʿəṣəmətəyä",
+          "gl": ""
+        },
+        {
+          "g": "ወአውጽኡ",
+          "t": "wäʾäwəṣəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌክሙ",
+          "t": "məsəlekəmu",
+          "gl": ""
+        },
+        {
+          "g": "እምዝየ",
+          "t": "ʾəməzəyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Moses took the bones of Joseph with him, for he had solemnly adjured the children of Israel, saying, God will surely visit you, and ye shall carry up my bones hence with you.",
+        "kjv": "And Moses took the bones of Joseph with him: for he had straitly sworn the children of Israel, saying, God will surely visit you; and ye shall carry up my bones away hence with you."
+      }
+    },
+    {
+      "num": 20,
+      "geez": "ወግዕዙ ፡ ደቂቀ ፡ እስራኤል ፡ እምሶኮት ፡ ወሐደሩ ፡ ውስተ ፡ ኦቶ[ም] ፡ ዘመንገለ ፡ በድው ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወግዕዙ",
+          "t": "wägəʿəzu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "እምሶኮት",
+          "t": "ʾəməsokotə",
+          "gl": ""
+        },
+        {
+          "g": "ወሐደሩ",
+          "t": "wäḥädäru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኦቶም",
+          "t": "ʾotomə",
+          "gl": ""
+        },
+        {
+          "g": "ዘመንገለ",
+          "t": "zämänəgälä",
+          "gl": ""
+        },
+        {
+          "g": "በድው",
+          "t": "bädəwə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the children of Israel departed from Socchoth, and encamped in Othom by the wilderness.",
+        "kjv": "And they took their journey from Succoth, and encamped in Etham, in the edge of the wilderness."
+      }
+    },
+    {
+      "num": 21,
+      "geez": "ወእግዚአብሔር ፡ ይመርሖሙ ፡ መዓልተ ፡ በዐምደ ፡ ደመና ፡ ወሌሊተ ፡ በዐምደ ፡ እሳት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእግዚአብሔር",
+          "t": "wäʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ይመርሖሙ",
+          "t": "yəmärəḥomu",
+          "gl": ""
+        },
+        {
+          "g": "መዓልተ",
+          "t": "mäʿalətä",
+          "gl": ""
+        },
+        {
+          "g": "በዐምደ",
+          "t": "bäʿämədä",
+          "gl": ""
+        },
+        {
+          "g": "ደመና",
+          "t": "dämäna",
+          "gl": ""
+        },
+        {
+          "g": "ወሌሊተ",
+          "t": "wälelitä",
+          "gl": ""
+        },
+        {
+          "g": "በዐምደ",
+          "t": "bäʿämədä",
+          "gl": ""
+        },
+        {
+          "g": "እሳት",
+          "t": "ʾəsatə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And God led them, in the day by a pillar of cloud, to show them the way, and in the night by a pillar of fire.",
+        "kjv": "And the LORD went before them by day in a pillar of a cloud, to lead them the way; and by night in a pillar of fire, to give them light; to go by day and night:"
+      }
+    },
+    {
+      "num": 22,
+      "geez": "ወኢሰሰለ ፡ ዐምደ ፡ ደመና ፡ መዓልተ ፡ ወኢዐምደ ፡ እሳት ፡ ሌሊተ ፡ እምቅድመ ፡ ኵሉ ፡ ሕዝብ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኢሰሰለ",
+          "t": "wäʾisäsälä",
+          "gl": ""
+        },
+        {
+          "g": "ዐምደ",
+          "t": "ʿämədä",
+          "gl": ""
+        },
+        {
+          "g": "ደመና",
+          "t": "dämäna",
+          "gl": ""
+        },
+        {
+          "g": "መዓልተ",
+          "t": "mäʿalətä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢዐምደ",
+          "t": "wäʾiʿämədä",
+          "gl": ""
+        },
+        {
+          "g": "እሳት",
+          "t": "ʾəsatə",
+          "gl": ""
+        },
+        {
+          "g": "ሌሊተ",
+          "t": "lelitä",
+          "gl": ""
+        },
+        {
+          "g": "እምቅድመ",
+          "t": "ʾəməqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the pillar of cloud failed not by day, nor the pillar of fire by night, before all the people.",
+        "kjv": "He took not away the pillar of the cloud by day, nor the pillar of fire by night, from before the people."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

@@ -1,0 +1,1553 @@
+{
+  "book": "Joel",
+  "chapter": 3,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "እስመ፡ ይእተ፡ አሚረ፡ አነ፡ በእማንቱ፡ መዋዕል፡ እመይጥ፡ ፄዋ፡ ይሁዳ፡ ወኢየሩሳሌም።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ይእተ",
+          "t": "yəʾətä",
+          "gl": ""
+        },
+        {
+          "g": "አሚረ",
+          "t": "ʾämirä",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "በእማንቱ",
+          "t": "bäʾəmanətu",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕል",
+          "t": "mäwaʿələ",
+          "gl": ""
+        },
+        {
+          "g": "እመይጥ",
+          "t": "ʾəmäyəṭə",
+          "gl": ""
+        },
+        {
+          "g": "ፄዋ",
+          "t": "ṣ́ewa",
+          "gl": ""
+        },
+        {
+          "g": "ይሁዳ",
+          "t": "yəhuda",
+          "gl": ""
+        },
+        {
+          "g": "ወኢየሩሳሌም",
+          "t": "wäʾiyärusalemə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it shall come to pass afterward, that I will pour out of my Spirit upon all flesh; and your sons and your daughters shall prophesy, and your old men shall dream dreams, and your young men shall see visions.",
+        "kjv": "For, behold, in those days, and in that time, when I shall bring again the captivity of Judah and Jerusalem,"
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ወአስተጋብኦሙ፡ ለኲሉ፡ አሕዛብ፡ ዋኣዋርዶሙ፡ ቆላት፡ ዩሳፍጥ፡ ወእትዋቀሦሙ፡ በሕየ፡ በእንተ፡ ሕዝብየ፡ ወበእንተ፡ ርስትየ፡ እስራኤል፡ በኀበ፡ ተዘርዉ፡ ውስተ፡ ኣሕዛብ፡ ወተካፈሉ፡ ምድርየ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአስተጋብኦሙ",
+          "t": "wäʾäsətägabəʾomu",
+          "gl": ""
+        },
+        {
+          "g": "ለኲሉ",
+          "t": "läkwilu",
+          "gl": ""
+        },
+        {
+          "g": "አሕዛብ",
+          "t": "ʾäḥəzabə",
+          "gl": ""
+        },
+        {
+          "g": "ዋኣዋርዶሙ",
+          "t": "waʾawarədomu",
+          "gl": ""
+        },
+        {
+          "g": "ቆላት",
+          "t": "qolatə",
+          "gl": ""
+        },
+        {
+          "g": "ዩሳፍጥ",
+          "t": "yusafəṭə",
+          "gl": ""
+        },
+        {
+          "g": "ወእትዋቀሦሙ",
+          "t": "wäʾətəwaqäśomu",
+          "gl": ""
+        },
+        {
+          "g": "በሕየ",
+          "t": "bäḥəyä",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብየ",
+          "t": "ḥəzəbəyä",
+          "gl": ""
+        },
+        {
+          "g": "ወበእንተ",
+          "t": "wäbäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ርስትየ",
+          "t": "rəsətəyä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "በኀበ",
+          "t": "bäḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ተዘርዉ",
+          "t": "täzärəwu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኣሕዛብ",
+          "t": "ʾaḥəzabə",
+          "gl": ""
+        },
+        {
+          "g": "ወተካፈሉ",
+          "t": "wätäkafälu",
+          "gl": ""
+        },
+        {
+          "g": "ምድርየ",
+          "t": "mədərəyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And on my servants and on my handmaids in those days will I pour out of my Spirit.",
+        "kjv": "I will also gather all nations, and will bring them down into the valley of Jehoshaphat, and will plead with them there for my people and for my heritage Israel, whom they have scattered among the nations, and parted my land."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወተዐጸዉ፡ ዲበ፡ ሕዝብየ፡ ወወሀቡ፡ ደቂቆሙ፡ ለዘማት፡ ወሤጡ፡ አዋዲሆሙ፡ ለወይን፡ ወሰትዩ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተዐጸዉ",
+          "t": "wätäʿäṣäwu",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብየ",
+          "t": "ḥəzəbəyä",
+          "gl": ""
+        },
+        {
+          "g": "ወወሀቡ",
+          "t": "wäwähäbu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቆሙ",
+          "t": "däqiqomu",
+          "gl": ""
+        },
+        {
+          "g": "ለዘማት",
+          "t": "läzämatə",
+          "gl": ""
+        },
+        {
+          "g": "ወሤጡ",
+          "t": "wäśeṭu",
+          "gl": ""
+        },
+        {
+          "g": "አዋዲሆሙ",
+          "t": "ʾäwadihomu",
+          "gl": ""
+        },
+        {
+          "g": "ለወይን",
+          "t": "läwäyənə",
+          "gl": ""
+        },
+        {
+          "g": "ወሰትዩ",
+          "t": "wäsätəyu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And I will shew wonders in heaven, and upon the earth, blood, and fire, and vapour of smoke.",
+        "kjv": "And they have cast lots for my people; and have given a boy for an harlot, and sold a girl for wine, that they might drink."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ምንተ፡ ብየ፡ ምስሌክን፡ ጢሮስ፡ ወዲዶና፡ ወኲሉ፡ ገሊላ፡ ዘኢሎፍሊ፡ በቀለኑ፡ ትትቤቀላኒ፡ ወቂመኑ፡ ትትቀየማኒ፡ ፍጡነ፡ ወጉጉአ፡ እፈድየክሙ፡ ርእስክመሙ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ምንተ",
+          "t": "mənətä",
+          "gl": ""
+        },
+        {
+          "g": "ብየ",
+          "t": "bəyä",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌክን",
+          "t": "məsəlekənə",
+          "gl": ""
+        },
+        {
+          "g": "ጢሮስ",
+          "t": "ṭirosə",
+          "gl": ""
+        },
+        {
+          "g": "ወዲዶና",
+          "t": "wädidona",
+          "gl": ""
+        },
+        {
+          "g": "ወኲሉ",
+          "t": "wäkwilu",
+          "gl": ""
+        },
+        {
+          "g": "ገሊላ",
+          "t": "gälila",
+          "gl": ""
+        },
+        {
+          "g": "ዘኢሎፍሊ",
+          "t": "zäʾilofəli",
+          "gl": ""
+        },
+        {
+          "g": "በቀለኑ",
+          "t": "bäqälänu",
+          "gl": ""
+        },
+        {
+          "g": "ትትቤቀላኒ",
+          "t": "tətəbeqälani",
+          "gl": ""
+        },
+        {
+          "g": "ወቂመኑ",
+          "t": "wäqimänu",
+          "gl": ""
+        },
+        {
+          "g": "ትትቀየማኒ",
+          "t": "tətəqäyämani",
+          "gl": ""
+        },
+        {
+          "g": "ፍጡነ",
+          "t": "fəṭunä",
+          "gl": ""
+        },
+        {
+          "g": "ወጉጉአ",
+          "t": "wäguguʾä",
+          "gl": ""
+        },
+        {
+          "g": "እፈድየክሙ",
+          "t": "ʾəfädəyäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ርእስክመሙ",
+          "t": "rəʾəsəkəmämu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The sun shall be turned into darkness, and the moon into blood, before the great and glorious day of the Lord come.",
+        "kjv": "Yea, and what have ye to do with me, O Tyre, and Zidon, and all the coasts of Palestine? will ye render me a recompence? and if ye recompense me, swiftly and speedily will I return your recompence upon your own head;"
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ናሁ፡ ነሳእክሙ፡ ወርቅየ፡ ወብሩርየ፡ ወዓስራትየ፡ ወመሠንዩ፡ አባእክሙ፡ ቤተክሙ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ናሁ",
+          "t": "nahu",
+          "gl": ""
+        },
+        {
+          "g": "ነሳእክሙ",
+          "t": "näsaʾəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወርቅየ",
+          "t": "wärəqəyä",
+          "gl": ""
+        },
+        {
+          "g": "ወብሩርየ",
+          "t": "wäbərurəyä",
+          "gl": ""
+        },
+        {
+          "g": "ወዓስራትየ",
+          "t": "wäʿasəratəyä",
+          "gl": ""
+        },
+        {
+          "g": "ወመሠንዩ",
+          "t": "wämäśänəyu",
+          "gl": ""
+        },
+        {
+          "g": "አባእክሙ",
+          "t": "ʾäbaʾəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ቤተክሙ",
+          "t": "betäkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it shall come to pass that whosoever shall call on the name of the Lord shall be saved: for in mount Sion and in Jerusalem shall the saved one be as the Lord has said, and they that have glad tidings preached to them, whom the Lord has called.",
+        "kjv": "Because ye have taken my silver and my gold, and have carried into your temples my goodly pleasant things:"
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወሤጥክምዎሙ፡ ለደቂቀ፡ ይሁዳ፡ ወለደቂቀ፡ እየሩሳሌም፡ ኀበ፡ ደቂቀ፡ አረሚ፡ ከመ፡ ታጥፍእዎሙ፡ እምብሔሮሙ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሤጥክምዎሙ",
+          "t": "wäśeṭəkəməwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ይሁዳ",
+          "t": "yəhuda",
+          "gl": ""
+        },
+        {
+          "g": "ወለደቂቀ",
+          "t": "wälädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እየሩሳሌም",
+          "t": "ʾəyärusalemə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "አረሚ",
+          "t": "ʾärämi",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ታጥፍእዎሙ",
+          "t": "taṭəfəʾəwomu",
+          "gl": ""
+        },
+        {
+          "g": "እምብሔሮሙ",
+          "t": "ʾəməbəḥeromu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "kjv": "The children also of Judah and the children of Jerusalem have ye sold unto the Grecians, that ye might remove them far from their border."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ናሁ፡ አነ፡ አነስኦሙ፡ እምውእቱ፡ ብሔር፡ ኀበ፡ ሤትክምዎሙ፡ ህየ፡ ወእፈድየክሙ፡ ፍዳክሙ፡ ዲበ፡ ርእስክሙ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ናሁ",
+          "t": "nahu",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "አነስኦሙ",
+          "t": "ʾänäsəʾomu",
+          "gl": ""
+        },
+        {
+          "g": "እምውእቱ",
+          "t": "ʾəməwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ብሔር",
+          "t": "bəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ሤትክምዎሙ",
+          "t": "śetəkəməwomu",
+          "gl": ""
+        },
+        {
+          "g": "ህየ",
+          "t": "həyä",
+          "gl": ""
+        },
+        {
+          "g": "ወእፈድየክሙ",
+          "t": "wäʾəfädəyäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ፍዳክሙ",
+          "t": "fədakəmu",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "ርእስክሙ",
+          "t": "rəʾəsəkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "kjv": "Behold, I will raise them out of the place whither ye have sold them, and will return your recompence upon your own head:"
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወእትቤቀሎሙ፡ ለደቂቅክሙ፡ ወለአዋልዲክሙ፡ በእዴሆሙ፡ ለደቂቀ፡ ይሁዳ፡ ወእትቤቀለክሙ፡ በኀበ፡ ተፄወውክሙ፡ በውስተ፡ አሕዛብ፡ ርኁቃን፡ ነዋኀ፡ እስመ፡ እግዚአብሔር፡ ነበበ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእትቤቀሎሙ",
+          "t": "wäʾətəbeqälomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቅክሙ",
+          "t": "lädäqiqəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወለአዋልዲክሙ",
+          "t": "wäläʾäwalədikəmu",
+          "gl": ""
+        },
+        {
+          "g": "በእዴሆሙ",
+          "t": "bäʾədehomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ይሁዳ",
+          "t": "yəhuda",
+          "gl": ""
+        },
+        {
+          "g": "ወእትቤቀለክሙ",
+          "t": "wäʾətəbeqäläkəmu",
+          "gl": ""
+        },
+        {
+          "g": "በኀበ",
+          "t": "bäḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ተፄወውክሙ",
+          "t": "täṣ́ewäwəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "በውስተ",
+          "t": "bäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አሕዛብ",
+          "t": "ʾäḥəzabə",
+          "gl": ""
+        },
+        {
+          "g": "ርኁቃን",
+          "t": "rəḫuqanə",
+          "gl": ""
+        },
+        {
+          "g": "ነዋኀ",
+          "t": "näwaḫä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ነበበ",
+          "t": "näbäbä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "kjv": "And I will sell your sons and your daughters into the hand of the children of Judah, and they shall sell them to the Sabeans, to a people far off: for the LORD hath spoken it."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ስብኩ፡ ዘንተ፡ ውስተ፡ አሕዛብ፡ ወዐስሩ፡ ጸብአ፡ ወአንስኡ፡ መስተቃትላነ፡ አውፅእዎሙ፡ ወይዕርጉ፡ ኲሉ፡ ዕደው፡ መስተቃትላን።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ስብኩ",
+          "t": "səbəku",
+          "gl": ""
+        },
+        {
+          "g": "ዘንተ",
+          "t": "zänətä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አሕዛብ",
+          "t": "ʾäḥəzabə",
+          "gl": ""
+        },
+        {
+          "g": "ወዐስሩ",
+          "t": "wäʿäsəru",
+          "gl": ""
+        },
+        {
+          "g": "ጸብአ",
+          "t": "ṣäbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ወአንስኡ",
+          "t": "wäʾänəsəʾu",
+          "gl": ""
+        },
+        {
+          "g": "መስተቃትላነ",
+          "t": "mäsətäqatəlanä",
+          "gl": ""
+        },
+        {
+          "g": "አውፅእዎሙ",
+          "t": "ʾäwəṣ́əʾəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ወይዕርጉ",
+          "t": "wäyəʿərəgu",
+          "gl": ""
+        },
+        {
+          "g": "ኲሉ",
+          "t": "kwilu",
+          "gl": ""
+        },
+        {
+          "g": "ዕደው",
+          "t": "ʿədäwə",
+          "gl": ""
+        },
+        {
+          "g": "መስተቃትላን",
+          "t": "mäsətäqatəlanə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "kjv": "Proclaim ye this among the Gentiles; Prepare war, wake up the mighty men, let all the men of war draw near; let them come up:"
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወማሕረሰክሙኒ፡ አግብሩ፡ ኮያንወ፡ ወማዕፅደክመሂ፡ አግብሩ፡ ረምሐ፡ ድኩምኒ፡ ይበል፡ ጽኑዕ፡ አነ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወማሕረሰክሙኒ",
+          "t": "wämaḥəräsäkəmuni",
+          "gl": ""
+        },
+        {
+          "g": "አግብሩ",
+          "t": "ʾägəbəru",
+          "gl": ""
+        },
+        {
+          "g": "ኮያንወ",
+          "t": "koyanəwä",
+          "gl": ""
+        },
+        {
+          "g": "ወማዕፅደክመሂ",
+          "t": "wämaʿəṣ́ədäkəmähi",
+          "gl": ""
+        },
+        {
+          "g": "አግብሩ",
+          "t": "ʾägəbəru",
+          "gl": ""
+        },
+        {
+          "g": "ረምሐ",
+          "t": "räməḥä",
+          "gl": ""
+        },
+        {
+          "g": "ድኩምኒ",
+          "t": "dəkuməni",
+          "gl": ""
+        },
+        {
+          "g": "ይበል",
+          "t": "yəbälə",
+          "gl": ""
+        },
+        {
+          "g": "ጽኑዕ",
+          "t": "ṣənuʿə",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "kjv": "Beat your plowshares into swords, and your pruninghooks into spears: let the weak say, I am strong."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወይትጋብኡ፡ ኲሉ፡ አሕዛብ፡ ወይሖሩ፡ ይዕግቱ፡ መስተባእሳነ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይትጋብኡ",
+          "t": "wäyətəgabəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ኲሉ",
+          "t": "kwilu",
+          "gl": ""
+        },
+        {
+          "g": "አሕዛብ",
+          "t": "ʾäḥəzabə",
+          "gl": ""
+        },
+        {
+          "g": "ወይሖሩ",
+          "t": "wäyəḥoru",
+          "gl": ""
+        },
+        {
+          "g": "ይዕግቱ",
+          "t": "yəʿəgətu",
+          "gl": ""
+        },
+        {
+          "g": "መስተባእሳነ",
+          "t": "mäsətäbaʾəsanä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "kjv": "Assemble yourselves, and come, all ye heathen, and gather yourselves together round about: thither cause thy mighty ones to come down, O LORD."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወይትነስኡ፡ ኩሉ፡ አሕዛብ፡ ወይዕርጉ፡ ቆላተ፡ ዩሳፍጥ፡ ለእስመ፡ ሕየ፡ እነብር፡ ወአስተዋቅሶሙ፡ ለኩሉ፡ አሕዛብ፡ ወእ፡ አድያም።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይትነስኡ",
+          "t": "wäyətənäsəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ኩሉ",
+          "t": "kulu",
+          "gl": ""
+        },
+        {
+          "g": "አሕዛብ",
+          "t": "ʾäḥəzabə",
+          "gl": ""
+        },
+        {
+          "g": "ወይዕርጉ",
+          "t": "wäyəʿərəgu",
+          "gl": ""
+        },
+        {
+          "g": "ቆላተ",
+          "t": "qolatä",
+          "gl": ""
+        },
+        {
+          "g": "ዩሳፍጥ",
+          "t": "yusafəṭə",
+          "gl": ""
+        },
+        {
+          "g": "ለእስመ",
+          "t": "läʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ሕየ",
+          "t": "ḥəyä",
+          "gl": ""
+        },
+        {
+          "g": "እነብር",
+          "t": "ʾənäbərə",
+          "gl": ""
+        },
+        {
+          "g": "ወአስተዋቅሶሙ",
+          "t": "wäʾäsətäwaqəsomu",
+          "gl": ""
+        },
+        {
+          "g": "ለኩሉ",
+          "t": "läkulu",
+          "gl": ""
+        },
+        {
+          "g": "አሕዛብ",
+          "t": "ʾäḥəzabə",
+          "gl": ""
+        },
+        {
+          "g": "ወእ",
+          "t": "wäʾə",
+          "gl": ""
+        },
+        {
+          "g": "አድያም",
+          "t": "ʾädəyamə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "kjv": "Let the heathen be wakened, and come up to the valley of Jehoshaphat: for there will I sit to judge all the heathen round about."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ፈንዉ፡ ማዕፅደ፡ እስመ፡ በጽሐ፡ ማእረር፡ ባኡ፡ ኪዱ፡ እስመ፡ መልአ፡ ምክያድ፡ ወተክዕወ፡ እምነ፡ ምክያዳት፡ ናሁ፡ በዝኀ፡ እከዩሙ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ፈንዉ",
+          "t": "fänəwu",
+          "gl": ""
+        },
+        {
+          "g": "ማዕፅደ",
+          "t": "maʿəṣ́ədä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "በጽሐ",
+          "t": "bäṣəḥä",
+          "gl": ""
+        },
+        {
+          "g": "ማእረር",
+          "t": "maʾərärə",
+          "gl": ""
+        },
+        {
+          "g": "ባኡ",
+          "t": "baʾu",
+          "gl": ""
+        },
+        {
+          "g": "ኪዱ",
+          "t": "kidu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "መልአ",
+          "t": "mäləʾä",
+          "gl": ""
+        },
+        {
+          "g": "ምክያድ",
+          "t": "məkəyadə",
+          "gl": ""
+        },
+        {
+          "g": "ወተክዕወ",
+          "t": "wätäkəʿəwä",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ምክያዳት",
+          "t": "məkəyadatə",
+          "gl": ""
+        },
+        {
+          "g": "ናሁ",
+          "t": "nahu",
+          "gl": ""
+        },
+        {
+          "g": "በዝኀ",
+          "t": "bäzəḫä",
+          "gl": ""
+        },
+        {
+          "g": "እከዩሙ",
+          "t": "ʾəkäyumu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "kjv": "Put ye in the sickle, for the harvest is ripe: come, get you down; for the press is full, the fats overflow; for their wickedness is great."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወውዑ፡ በቆላተ፡ ቅስት፡ ወደምፁ፡ እስመ፡ አልጸቀት፡ ዕለተ፡ እግዚአብሔር፡ በውስተ፡ ቆላተ፡ ቅስት።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወውዑ",
+          "t": "wäwəʿu",
+          "gl": ""
+        },
+        {
+          "g": "በቆላተ",
+          "t": "bäqolatä",
+          "gl": ""
+        },
+        {
+          "g": "ቅስት",
+          "t": "qəsətə",
+          "gl": ""
+        },
+        {
+          "g": "ወደምፁ",
+          "t": "wädäməṣ́u",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አልጸቀት",
+          "t": "ʾäləṣäqätə",
+          "gl": ""
+        },
+        {
+          "g": "ዕለተ",
+          "t": "ʿəlätä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "በውስተ",
+          "t": "bäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ቆላተ",
+          "t": "qolatä",
+          "gl": ""
+        },
+        {
+          "g": "ቅስት",
+          "t": "qəsətə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "kjv": "Multitudes, multitudes in the valley of decision: for the day of the LORD is near in the valley of decision."
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ፀሐይ፡ ወወርኀ፡ ይጸልሙ፡ ወለከዋብትኒ፡ የዐርብ፡ ብርሃኖሙ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ፀሐይ",
+          "t": "ṣ́äḥäyə",
+          "gl": ""
+        },
+        {
+          "g": "ወወርኀ",
+          "t": "wäwärəḫä",
+          "gl": ""
+        },
+        {
+          "g": "ይጸልሙ",
+          "t": "yəṣäləmu",
+          "gl": ""
+        },
+        {
+          "g": "ወለከዋብትኒ",
+          "t": "wäläkäwabətəni",
+          "gl": ""
+        },
+        {
+          "g": "የዐርብ",
+          "t": "yäʿärəbə",
+          "gl": ""
+        },
+        {
+          "g": "ብርሃኖሙ",
+          "t": "bərəhanomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "kjv": "The sun and the moon shall be darkened, and the stars shall withdraw their shining."
+      }
+    },
+    {
+      "num": 16,
+      "geez": "ወይኬልሕ፡ እግዚአብሔር፡ እምጽየን፡ ወእምኢየሩሳም፡ ይሁብ፡ ቃለ፡ ወያድለቀልቅ፡ ሰማይ፡ ወምድር፡ ወእግዚአብሔር፡ ይምሕክ፡ ሕዝቦ፡ ወያጸንዖሙ፡ እግዚአብሔር፡ ለደቂቀ፡ እስራኤል።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይኬልሕ",
+          "t": "wäyəkeləḥə",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "እምጽየን",
+          "t": "ʾəməṣəyänə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምኢየሩሳም",
+          "t": "wäʾəməʾiyärusamə",
+          "gl": ""
+        },
+        {
+          "g": "ይሁብ",
+          "t": "yəhubə",
+          "gl": ""
+        },
+        {
+          "g": "ቃለ",
+          "t": "qalä",
+          "gl": ""
+        },
+        {
+          "g": "ወያድለቀልቅ",
+          "t": "wäyadəläqäləqə",
+          "gl": ""
+        },
+        {
+          "g": "ሰማይ",
+          "t": "sämayə",
+          "gl": ""
+        },
+        {
+          "g": "ወምድር",
+          "t": "wämədərə",
+          "gl": ""
+        },
+        {
+          "g": "ወእግዚአብሔር",
+          "t": "wäʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ይምሕክ",
+          "t": "yəməḥəkə",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝቦ",
+          "t": "ḥəzəbo",
+          "gl": ""
+        },
+        {
+          "g": "ወያጸንዖሙ",
+          "t": "wäyaṣänəʿomu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "kjv": "The LORD also shall roar out of Zion, and utter his voice from Jerusalem; and the heavens and the earth shall shake: but the LORD will be the hope of his people, and the strength of the children of Israel."
+      }
+    },
+    {
+      "num": 17,
+      "geez": "ወተአምሩ፡ እንከ፡ ከመ፡ አነ፡ እግዚአብሔር፡ አምላክሙ፡ ዘአኀድር፡ ውስተ፡ ጽየን፡ በደብረ፡ መቅደስየ፡ ወትከውን፡ ኢየሩሳሌም፡ ሀገረ፡ ቅድስት፡ ወኢየኀልፍ፡ እንከ፡ እንተ፡ ውስቴታ፡ ዝእምካልእ፡ ህዝብ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተአምሩ",
+          "t": "wätäʾäməru",
+          "gl": ""
+        },
+        {
+          "g": "እንከ",
+          "t": "ʾənəkä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላክሙ",
+          "t": "ʾäməlakəmu",
+          "gl": ""
+        },
+        {
+          "g": "ዘአኀድር",
+          "t": "zäʾäḫädərə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ጽየን",
+          "t": "ṣəyänə",
+          "gl": ""
+        },
+        {
+          "g": "በደብረ",
+          "t": "bädäbərä",
+          "gl": ""
+        },
+        {
+          "g": "መቅደስየ",
+          "t": "mäqədäsəyä",
+          "gl": ""
+        },
+        {
+          "g": "ወትከውን",
+          "t": "wätəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሩሳሌም",
+          "t": "ʾiyärusalemə",
+          "gl": ""
+        },
+        {
+          "g": "ሀገረ",
+          "t": "hägärä",
+          "gl": ""
+        },
+        {
+          "g": "ቅድስት",
+          "t": "qədəsətə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢየኀልፍ",
+          "t": "wäʾiyäḫäləfə",
+          "gl": ""
+        },
+        {
+          "g": "እንከ",
+          "t": "ʾənəkä",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ውስቴታ",
+          "t": "wəsəteta",
+          "gl": ""
+        },
+        {
+          "g": "ዝእምካልእ",
+          "t": "zəʾəməkaləʾə",
+          "gl": ""
+        },
+        {
+          "g": "ህዝብ",
+          "t": "həzəbə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "kjv": "So shall ye know that I am the LORD your God dwelling in Zion, my holy mountain: then shall Jerusalem be holy, and there shall no strangers pass through her any more."
+      }
+    },
+    {
+      "num": 18,
+      "geez": "ወይከውን፡ ይእተ፡ አሚረ፡ ያንጸፈጽፍ፡ መዐር፡ እምአድባር፡ ወይውኀዝ፡ ሐሊበ፡ እምአውግር፡ ዋይነቅዕ፡ ማይ፡ በኩሎ፡ በሐውር፡ ይሁዳ፡ ወይፈልፍል፡ ነቅዕ፡ ወይወፅእ፡ ፈለገ፡ ሰኪኖን።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይከውን",
+          "t": "wäyəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ይእተ",
+          "t": "yəʾətä",
+          "gl": ""
+        },
+        {
+          "g": "አሚረ",
+          "t": "ʾämirä",
+          "gl": ""
+        },
+        {
+          "g": "ያንጸፈጽፍ",
+          "t": "yanəṣäfäṣəfə",
+          "gl": ""
+        },
+        {
+          "g": "መዐር",
+          "t": "mäʿärə",
+          "gl": ""
+        },
+        {
+          "g": "እምአድባር",
+          "t": "ʾəməʾädəbarə",
+          "gl": ""
+        },
+        {
+          "g": "ወይውኀዝ",
+          "t": "wäyəwəḫäzə",
+          "gl": ""
+        },
+        {
+          "g": "ሐሊበ",
+          "t": "ḥälibä",
+          "gl": ""
+        },
+        {
+          "g": "እምአውግር",
+          "t": "ʾəməʾäwəgərə",
+          "gl": ""
+        },
+        {
+          "g": "ዋይነቅዕ",
+          "t": "wayənäqəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ማይ",
+          "t": "mayə",
+          "gl": ""
+        },
+        {
+          "g": "በኩሎ",
+          "t": "bäkulo",
+          "gl": ""
+        },
+        {
+          "g": "በሐውር",
+          "t": "bäḥäwərə",
+          "gl": ""
+        },
+        {
+          "g": "ይሁዳ",
+          "t": "yəhuda",
+          "gl": ""
+        },
+        {
+          "g": "ወይፈልፍል",
+          "t": "wäyəfäləfələ",
+          "gl": ""
+        },
+        {
+          "g": "ነቅዕ",
+          "t": "näqəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወይወፅእ",
+          "t": "wäyəwäṣ́əʾə",
+          "gl": ""
+        },
+        {
+          "g": "ፈለገ",
+          "t": "fälägä",
+          "gl": ""
+        },
+        {
+          "g": "ሰኪኖን",
+          "t": "säkinonə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "kjv": "And it shall come to pass in that day, that the mountains shall drop down new wine, and the hills shall flow with milk, and all the rivers of Judah shall flow with waters, and a fountain shall come forth of the house of the LORD, and shall water the valley of Shittim."
+      }
+    },
+    {
+      "num": 19,
+      "geez": "ወይማስን፡ ብሔረ፡ ግብፅ፡ ወይከውን፡ በድወ፡ ኤዶምያስ፡ ወይጠፍኡ፡ በኃጢአቶሙ፡ ለደቂቀ፡ ይሁዳ፡ እስመ፡ ከዐዉ፡ ደመ፡ ጻድቅ፡ ውስተ፡ ምድሮሙ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይማስን",
+          "t": "wäyəmasənə",
+          "gl": ""
+        },
+        {
+          "g": "ብሔረ",
+          "t": "bəḥerä",
+          "gl": ""
+        },
+        {
+          "g": "ግብፅ",
+          "t": "gəbəṣ́ə",
+          "gl": ""
+        },
+        {
+          "g": "ወይከውን",
+          "t": "wäyəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "በድወ",
+          "t": "bädəwä",
+          "gl": ""
+        },
+        {
+          "g": "ኤዶምያስ",
+          "t": "ʾedoməyasə",
+          "gl": ""
+        },
+        {
+          "g": "ወይጠፍኡ",
+          "t": "wäyəṭäfəʾu",
+          "gl": ""
+        },
+        {
+          "g": "በኃጢአቶሙ",
+          "t": "bäḫaṭiʾätomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ይሁዳ",
+          "t": "yəhuda",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ከዐዉ",
+          "t": "käʿäwu",
+          "gl": ""
+        },
+        {
+          "g": "ደመ",
+          "t": "dämä",
+          "gl": ""
+        },
+        {
+          "g": "ጻድቅ",
+          "t": "ṣadəqə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድሮሙ",
+          "t": "mədəromu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "kjv": "Egypt shall be a desolation, and Edom shall be a desolate wilderness, for the violence against the children of Judah, because they have shed innocent blood in their land."
+      }
+    },
+    {
+      "num": 20,
+      "geez": "ወይዳሰ፡ ለዓለም፡ ትነብር፡ ወኢየሩሳምኒ፡ ለትውልደ፡ ትውልድ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይዳሰ",
+          "t": "wäyədasä",
+          "gl": ""
+        },
+        {
+          "g": "ለዓለም",
+          "t": "läʿalämə",
+          "gl": ""
+        },
+        {
+          "g": "ትነብር",
+          "t": "tənäbərə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢየሩሳምኒ",
+          "t": "wäʾiyärusaməni",
+          "gl": ""
+        },
+        {
+          "g": "ለትውልደ",
+          "t": "lätəwələdä",
+          "gl": ""
+        },
+        {
+          "g": "ትውልድ",
+          "t": "təwələdə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "kjv": "But Judah shall dwell for ever, and Jerusalem from generation to generation."
+      }
+    },
+    {
+      "num": 21,
+      "geez": "ወእትቤቀል፡ ደሞሙ፡ ወኢነጽህ፡ እስመ፡ እግዚአብሔር፡ የኀድር፡ ውስተ፡ ጽዩን።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእትቤቀል",
+          "t": "wäʾətəbeqälə",
+          "gl": ""
+        },
+        {
+          "g": "ደሞሙ",
+          "t": "dämomu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢነጽህ",
+          "t": "wäʾinäṣəhə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "የኀድር",
+          "t": "yäḫädərə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ጽዩን",
+          "t": "ṣəyunə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "kjv": "For I will cleanse their blood that I have not cleansed: for the LORD dwelleth in Zion."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

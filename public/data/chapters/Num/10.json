@@ -1,0 +1,2454 @@
+{
+  "book": "Num",
+  "chapter": 10,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወነበቦ ፡ እግዚአብሔር ፡ ለሙሴ ፡ ወይቤሎ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነበቦ",
+          "t": "wänäbäbo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord spoke to Moses, saying,",
+        "kjv": "And the LORD spake unto Moses, saying,"
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ግበር ፡ ለከ ፡ ክልኤተ ፡ መጣቅዕተ ፡ ዘብሩር ፡ ወዘ ፡ ዝብጦ ፡ ትገብሮሙ ፡ ወይከውኑከ ፡ በዘ ፡ ቦቱ ፡ ትጼውዕ ፡\n                  ተዓይነ ፡ ለኅዲር ፡ ወበዘቦቱ ፡ ያነሥእ ፡ ተዓይን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ግበር",
+          "t": "gəbärə",
+          "gl": ""
+        },
+        {
+          "g": "ለከ",
+          "t": "läkä",
+          "gl": ""
+        },
+        {
+          "g": "ክልኤተ",
+          "t": "kələʾetä",
+          "gl": ""
+        },
+        {
+          "g": "መጣቅዕተ",
+          "t": "mäṭaqəʿətä",
+          "gl": ""
+        },
+        {
+          "g": "ዘብሩር",
+          "t": "zäbərurə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘ",
+          "t": "wäzä",
+          "gl": ""
+        },
+        {
+          "g": "ዝብጦ",
+          "t": "zəbəṭo",
+          "gl": ""
+        },
+        {
+          "g": "ትገብሮሙ",
+          "t": "təgäbəromu",
+          "gl": ""
+        },
+        {
+          "g": "ወይከውኑከ",
+          "t": "wäyəkäwənukä",
+          "gl": ""
+        },
+        {
+          "g": "በዘ",
+          "t": "bäzä",
+          "gl": ""
+        },
+        {
+          "g": "ቦቱ",
+          "t": "botu",
+          "gl": ""
+        },
+        {
+          "g": "ትጼውዕ",
+          "t": "təṣewəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ተዓይነ",
+          "t": "täʿayənä",
+          "gl": ""
+        },
+        {
+          "g": "ለኅዲር",
+          "t": "läḫədirə",
+          "gl": ""
+        },
+        {
+          "g": "ወበዘቦቱ",
+          "t": "wäbäzäbotu",
+          "gl": ""
+        },
+        {
+          "g": "ያነሥእ",
+          "t": "yanäśəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ተዓይን",
+          "t": "täʿayənə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Make to thyself two silver trumpets: thou shalt make them of beaten work; and they shall be to thee for the purpose of calling the assembly, and of removing the camps.",
+        "kjv": "Make thee two trumpets of silver; of a whole piece shalt thou make them: that thou mayest use them for the calling of the assembly, and for the journeying of the camps."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወትጠቅዕ ፡ ቦሙ ፡ ወይትጋባእ ፡ ኵሉ ፡ ተዓይን ፡ ኀበ ፡ ኆኅተ ፡ ደብተራ ፡ ዘመርጡል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትጠቅዕ",
+          "t": "wätəṭäqəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ቦሙ",
+          "t": "bomu",
+          "gl": ""
+        },
+        {
+          "g": "ወይትጋባእ",
+          "t": "wäyətəgabaʾə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ተዓይን",
+          "t": "täʿayənə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ኆኅተ",
+          "t": "ḫoḫətä",
+          "gl": ""
+        },
+        {
+          "g": "ደብተራ",
+          "t": "däbətära",
+          "gl": ""
+        },
+        {
+          "g": "ዘመርጡል",
+          "t": "zämärəṭulə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And thou shalt sound with them, and all the congregation shall be gathered to the door of the tabernacle of witness.",
+        "kjv": "And when they shall blow with them, all the assembly shall assemble themselves to thee at the door of the tabernacle of the congregation."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወለእመሰ ፡ በአሐዱ ፡ ጠቃዕክሙ ፡ ይመጽኡ ፡ ኀቤከ ፡ ኵሎሙ ፡ መላእክቲሆሙ ፡ ዘምስፍና ፡ እስራኤል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለእመሰ",
+          "t": "wäläʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "በአሐዱ",
+          "t": "bäʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "ጠቃዕክሙ",
+          "t": "ṭäqaʿəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ይመጽኡ",
+          "t": "yəmäṣəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ኀቤከ",
+          "t": "ḫäbekä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "መላእክቲሆሙ",
+          "t": "mälaʾəkətihomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘምስፍና",
+          "t": "zäməsəfəna",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if they shall sound with one, all the rulers even the princes of Israel shall come to thee.",
+        "kjv": "And if they blow but with one trumpet, then the princes, which are heads of the thousands of Israel, shall gather themselves unto thee."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወትጠቅዑ ፡ በትእምርቲሆሙ ፡ ወይግዕዙ ፡ ተዓይኒሆሙ ፡ ለእለ ፡ ተዓየኑ ፡ መንገለ ፡ ሠረቅ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትጠቅዑ",
+          "t": "wätəṭäqəʿu",
+          "gl": ""
+        },
+        {
+          "g": "በትእምርቲሆሙ",
+          "t": "bätəʾəmərətihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወይግዕዙ",
+          "t": "wäyəgəʿəzu",
+          "gl": ""
+        },
+        {
+          "g": "ተዓይኒሆሙ",
+          "t": "täʿayənihomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእለ",
+          "t": "läʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ተዓየኑ",
+          "t": "täʿayänu",
+          "gl": ""
+        },
+        {
+          "g": "መንገለ",
+          "t": "mänəgälä",
+          "gl": ""
+        },
+        {
+          "g": "ሠረቅ",
+          "t": "śäräqə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And ye shall sound an alarm, and the camps pitched eastward shall begin to move.",
+        "kjv": "When ye blow an alarm, then the camps that lie on the east parts shall go forward."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወትጠቅዑ ፡ በትእምርቲሆሙ ፡ ዳግ[መ] ፡ ወይግዕዙ ፡ ተዓይኒሆሙ ፡ ለእለ ፡ ተዓየኑ ፡ መንገለ ፡ አዜብ ፤ ወትጠቅዑ ፡\n                  በትእምርቲሆሙ ፡ [ሣል]ስተ ፡ ወይግዕዙ ፡ ተዓይኒሆሙ ፡ ለእለ ፡ ተዓየኑ ፡ መንገለ ፡ ገጸ ፡ ባሕር ፤ ወትጠቅዑ ፡\n                  በትእምርቲሆሙ ፡ ራብዕተ ፡ ወይግዕዙ ፡ ተዓይኒሆሙ ፡ ለእለ ፡ ተዓየኑ ፡ መንገለ ፡ መስዕ ፤ ሶበ ፡ ለግዒዝ ፡ በትእምርት ፡\n                  ትጠቅዑ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትጠቅዑ",
+          "t": "wätəṭäqəʿu",
+          "gl": ""
+        },
+        {
+          "g": "በትእምርቲሆሙ",
+          "t": "bätəʾəmərətihomu",
+          "gl": ""
+        },
+        {
+          "g": "ዳግመ",
+          "t": "dagəmä",
+          "gl": ""
+        },
+        {
+          "g": "ወይግዕዙ",
+          "t": "wäyəgəʿəzu",
+          "gl": ""
+        },
+        {
+          "g": "ተዓይኒሆሙ",
+          "t": "täʿayənihomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእለ",
+          "t": "läʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ተዓየኑ",
+          "t": "täʿayänu",
+          "gl": ""
+        },
+        {
+          "g": "መንገለ",
+          "t": "mänəgälä",
+          "gl": ""
+        },
+        {
+          "g": "አዜብ  ወትጠቅዑ",
+          "t": "ʾäzebə  wätəṭäqəʿu",
+          "gl": ""
+        },
+        {
+          "g": "በትእምርቲሆሙ",
+          "t": "bätəʾəmərətihomu",
+          "gl": ""
+        },
+        {
+          "g": "ሣልስተ",
+          "t": "śaləsətä",
+          "gl": ""
+        },
+        {
+          "g": "ወይግዕዙ",
+          "t": "wäyəgəʿəzu",
+          "gl": ""
+        },
+        {
+          "g": "ተዓይኒሆሙ",
+          "t": "täʿayənihomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእለ",
+          "t": "läʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ተዓየኑ",
+          "t": "täʿayänu",
+          "gl": ""
+        },
+        {
+          "g": "መንገለ",
+          "t": "mänəgälä",
+          "gl": ""
+        },
+        {
+          "g": "ገጸ",
+          "t": "gäṣä",
+          "gl": ""
+        },
+        {
+          "g": "ባሕር  ወትጠቅዑ",
+          "t": "baḥərə  wätəṭäqəʿu",
+          "gl": ""
+        },
+        {
+          "g": "በትእምርቲሆሙ",
+          "t": "bätəʾəmərətihomu",
+          "gl": ""
+        },
+        {
+          "g": "ራብዕተ",
+          "t": "rabəʿətä",
+          "gl": ""
+        },
+        {
+          "g": "ወይግዕዙ",
+          "t": "wäyəgəʿəzu",
+          "gl": ""
+        },
+        {
+          "g": "ተዓይኒሆሙ",
+          "t": "täʿayənihomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእለ",
+          "t": "läʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ተዓየኑ",
+          "t": "täʿayänu",
+          "gl": ""
+        },
+        {
+          "g": "መንገለ",
+          "t": "mänəgälä",
+          "gl": ""
+        },
+        {
+          "g": "መስዕ  ሶበ",
+          "t": "mäsəʿə  sobä",
+          "gl": ""
+        },
+        {
+          "g": "ለግዒዝ",
+          "t": "lägəʿizə",
+          "gl": ""
+        },
+        {
+          "g": "በትእምርት",
+          "t": "bätəʾəmərətə",
+          "gl": ""
+        },
+        {
+          "g": "ትጠቅዑ",
+          "t": "təṭäqəʿu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And ye shall sound a second alarm, and the camps pitched southward shall move; and ye shall sound a third alarm, and the camps pitched westward shall move forward; and ye shall sound a fourth alarm, and they that encamp toward the north shall move forward: they shall sound an alarm at their departure.",
+        "kjv": "When ye blow an alarm the second time, then the camps that lie on the south side shall take their journey: they shall blow an alarm for their journeys."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወሶበ ፡ ለአስተጋብኦ ፡ ተዓይን ፡ ትጠቅዑ ፡ ዘእንበለ ፡ ትእምርት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሶበ",
+          "t": "wäsobä",
+          "gl": ""
+        },
+        {
+          "g": "ለአስተጋብኦ",
+          "t": "läʾäsətägabəʾo",
+          "gl": ""
+        },
+        {
+          "g": "ተዓይን",
+          "t": "täʿayənə",
+          "gl": ""
+        },
+        {
+          "g": "ትጠቅዑ",
+          "t": "təṭäqəʿu",
+          "gl": ""
+        },
+        {
+          "g": "ዘእንበለ",
+          "t": "zäʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "ትእምርት",
+          "t": "təʾəmərətə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And whenever ye shall gather the assembly, ye shall sound, but not an alarm.",
+        "kjv": "But when the congregation is to be gathered together, ye shall blow, but ye shall not sound an alarm."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወደቂቀ ፡ አሮን ፡ ካህናት ፡ እሙንቱ ፡ ይጠቅዕዎ ፡ በመጥቃዕት ፡ ወይኩንክሙ ፡ ሕግ ፡ ዘለዓለም ፡ በመዋዕሊክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወደቂቀ",
+          "t": "wädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "አሮን",
+          "t": "ʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ካህናት",
+          "t": "kahənatə",
+          "gl": ""
+        },
+        {
+          "g": "እሙንቱ",
+          "t": "ʾəmunətu",
+          "gl": ""
+        },
+        {
+          "g": "ይጠቅዕዎ",
+          "t": "yəṭäqəʿəwo",
+          "gl": ""
+        },
+        {
+          "g": "በመጥቃዕት",
+          "t": "bämäṭəqaʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ወይኩንክሙ",
+          "t": "wäyəkunəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ሕግ",
+          "t": "ḥəgə",
+          "gl": ""
+        },
+        {
+          "g": "ዘለዓለም",
+          "t": "zäläʿalämə",
+          "gl": ""
+        },
+        {
+          "g": "በመዋዕሊክሙ",
+          "t": "bämäwaʿəlikəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the priests the sons of Aaron shall sound with the trumpets; and it shall be a perpetual ordinance for you throughout your generations.",
+        "kjv": "And the sons of Aaron, the priests, shall blow with the trumpets; and they shall be to you for an ordinance for ever throughout your generations."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወለእመ ፡ ወፃእክሙ ፡ ፀብአ ፡ ላዕለ ፡ ፀርክሙ ፡ እለ ፡ አፅረሩ ፡ እምኔክሙ ፡ ወትትኤመሩ ፡ [በመጥቅዕ ፡ ወትዜከሩ\n                  ፡] በቅድመ ፡ እግዚአብሔር ፡ ወትድኅኑ ፡ እምነ ፡ ፀርክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለእመ",
+          "t": "wäläʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ወፃእክሙ",
+          "t": "wäṣ́aʾəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ፀብአ",
+          "t": "ṣ́äbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ፀርክሙ",
+          "t": "ṣ́ärəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "አፅረሩ",
+          "t": "ʾäṣ́əräru",
+          "gl": ""
+        },
+        {
+          "g": "እምኔክሙ",
+          "t": "ʾəmənekəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወትትኤመሩ",
+          "t": "wätətəʾemäru",
+          "gl": ""
+        },
+        {
+          "g": "በመጥቅዕ",
+          "t": "bämäṭəqəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወትዜከሩ",
+          "t": "wätəzekäru",
+          "gl": ""
+        },
+        {
+          "g": "በቅድመ",
+          "t": "bäqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወትድኅኑ",
+          "t": "wätədəḫənu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ፀርክሙ",
+          "t": "ṣ́ärəkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if ye shall go forth to war in your land against your enemies that are opposed to you, then shall ye sound with the trumpets; and ye shall be had in remembrance before the Lord, and ye shall be saved from your enemies.",
+        "kjv": "And if ye go to war in your land against the enemy that oppresseth you, then ye shall blow an alarm with the trumpets; and ye shall be remembered before the LORD your God, and ye shall be saved from your enemies."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወበመዋዕለ ፡ ትፍሥሕትክሙ ፡ ወበበዓላቲክሙ ፡ ወበአሥህርቲክሙ ፡ ወትጠቅዑ ፡ በመጥቃዕት ፡ ላዕለ ፡ ቍርባንክሙ ፡ ወላዕለ\n                  ፡ መሣውዐ ፡ መድኀኒትክሙ ፡ ወይከውነክሙ ፡ ተዝካረ ፡ ቅድመ ፡ አምላክክሙ ፡ ወአነ ፡ እግዚአብሔር ፡ አምላክክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበመዋዕለ",
+          "t": "wäbämäwaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ትፍሥሕትክሙ",
+          "t": "təfəśəḥətəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበዓላቲክሙ",
+          "t": "wäbäbäʿalatikəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወበአሥህርቲክሙ",
+          "t": "wäbäʾäśəhərətikəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወትጠቅዑ",
+          "t": "wätəṭäqəʿu",
+          "gl": ""
+        },
+        {
+          "g": "በመጥቃዕት",
+          "t": "bämäṭəqaʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ቍርባንክሙ",
+          "t": "qwərəbanəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወላዕለ",
+          "t": "wälaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "መሣውዐ",
+          "t": "mäśawəʿä",
+          "gl": ""
+        },
+        {
+          "g": "መድኀኒትክሙ",
+          "t": "mädəḫänitəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወይከውነክሙ",
+          "t": "wäyəkäwənäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ተዝካረ",
+          "t": "täzəkarä",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "አምላክክሙ",
+          "t": "ʾäməlakəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወአነ",
+          "t": "wäʾänä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላክክሙ",
+          "t": "ʾäməlakəkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And in the days of your gladness, and in your feasts, and in your new moons, ye shall sound with the trumpets at your whole-burnt-offerings, and at the sacrifices of your peace-offerings; and there shall be a memorial for you before your God: I am the Lord your God.",
+        "kjv": "Also in the day of your gladness, and in your solemn days, and in the beginnings of your months, ye shall blow with the trumpets over your burnt offerings, and over the sacrifices of your peace offerings; that they may be to you for a memorial before your God: I am the LORD your God."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወኮነ ፡ በካልእ ፡ ወርኅ ፡ ዘካልእት ፡ ዓመት ፡ አመ ፡ ኀሙሱ ፡ ለጽልመት ፡ ሰሰለ ፡ ደመና ፡ እምነ ፡ ደብተራ ፡\n                  ዘመርጡል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኮነ",
+          "t": "wäkonä",
+          "gl": ""
+        },
+        {
+          "g": "በካልእ",
+          "t": "bäkaləʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወርኅ",
+          "t": "wärəḫə",
+          "gl": ""
+        },
+        {
+          "g": "ዘካልእት",
+          "t": "zäkaləʾətə",
+          "gl": ""
+        },
+        {
+          "g": "ዓመት",
+          "t": "ʿamätə",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ኀሙሱ",
+          "t": "ḫämusu",
+          "gl": ""
+        },
+        {
+          "g": "ለጽልመት",
+          "t": "läṣələmätə",
+          "gl": ""
+        },
+        {
+          "g": "ሰሰለ",
+          "t": "säsälä",
+          "gl": ""
+        },
+        {
+          "g": "ደመና",
+          "t": "dämäna",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ደብተራ",
+          "t": "däbətära",
+          "gl": ""
+        },
+        {
+          "g": "ዘመርጡል",
+          "t": "zämärəṭulə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it came to pass in the second year, in the second month, on the twentieth day of the month, the cloud went up from the tabernacle of witness.",
+        "kjv": "And it came to pass on the twentieth day of the second month, in the second year, that the cloud was taken up from off the tabernacle of the testimony."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወተንሥኡ ፡ ደቂቀ ፡ እስራኤል ፡ ምስለ ፡ ገዓዞሙ ፡ ውስተ ፡ ገዳም ፡ ዘሲና ፡ ወቆመ ፡ ደመና ፡ ውስተ ፡ ገዳም ፡\n                  ዘፋራን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተንሥኡ",
+          "t": "wätänəśəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ገዓዞሙ",
+          "t": "gäʿazomu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ገዳም",
+          "t": "gädamə",
+          "gl": ""
+        },
+        {
+          "g": "ዘሲና",
+          "t": "zäsina",
+          "gl": ""
+        },
+        {
+          "g": "ወቆመ",
+          "t": "wäqomä",
+          "gl": ""
+        },
+        {
+          "g": "ደመና",
+          "t": "dämäna",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ገዳም",
+          "t": "gädamə",
+          "gl": ""
+        },
+        {
+          "g": "ዘፋራን",
+          "t": "zäfaranə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the children of Israel set forward with their baggage in the wilderness of Sina; and the cloud rested in the wilderness of Pharan.",
+        "kjv": "And the children of Israel took their journeys out of the wilderness of Sinai; and the cloud rested in the wilderness of Paran."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወተንሥኡ ፡ እለ ፡ ይቀድሙ ፡ በቃለ ፡ እግዚአብሔር ፡ ወበእደ ፡ ሙሴ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተንሥኡ",
+          "t": "wätänəśəʾu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይቀድሙ",
+          "t": "yəqädəmu",
+          "gl": ""
+        },
+        {
+          "g": "በቃለ",
+          "t": "bäqalä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወበእደ",
+          "t": "wäbäʾədä",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the first rank departed by the word of the Lord by the hand of Moses.",
+        "kjv": "And they first took their journey according to the commandment of the LORD by the hand of Moses."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወአንሥኡ ፡ በሕጎሙ ፡ ትዕይንተ ፡ ደቂቀ ፡ ይሁዳ ፡ ቀደሙ ፡ ምስለ ፡ ኀይሎሙ ፡ ወዘላዕለ ፡ ኀይሎሙ ፡ ነአሶን ፡ ወልደ\n                  ፡ አሚናዳብ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአንሥኡ",
+          "t": "wäʾänəśəʾu",
+          "gl": ""
+        },
+        {
+          "g": "በሕጎሙ",
+          "t": "bäḥəgomu",
+          "gl": ""
+        },
+        {
+          "g": "ትዕይንተ",
+          "t": "təʿəyənətä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ይሁዳ",
+          "t": "yəhuda",
+          "gl": ""
+        },
+        {
+          "g": "ቀደሙ",
+          "t": "qädämu",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኀይሎሙ",
+          "t": "ḫäyəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ወዘላዕለ",
+          "t": "wäzälaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኀይሎሙ",
+          "t": "ḫäyəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ነአሶን",
+          "t": "näʾäsonə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "አሚናዳብ",
+          "t": "ʾäminadabə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they first set in motion the order of the camp of the children of Juda with their host; and over their host was Naasson, son of Aminadab.",
+        "kjv": "In the first place went the standard of the camp of the children of Judah according to their armies: and over his host was Nahshon the son of Amminadab."
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ወዘላዕለ ፡ ኀይሎሙ ፡ ለነገደ ፡ ደቂቀ ፡ ይስካር ፡ ናታናኤል ፡ ወልደ ፡ ሶገር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዘላዕለ",
+          "t": "wäzälaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኀይሎሙ",
+          "t": "ḫäyəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ለነገደ",
+          "t": "länägädä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ይስካር",
+          "t": "yəsəkarə",
+          "gl": ""
+        },
+        {
+          "g": "ናታናኤል",
+          "t": "natanaʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ሶገር",
+          "t": "sogärə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And over the host of the tribe of the sons of Issachar, was Nathanael son of Sogar.",
+        "kjv": "And over the host of the tribe of the children of Issachar was Nethaneel the son of Zuar."
+      }
+    },
+    {
+      "num": 16,
+      "geez": "ወዘላዕለ ፡ ኀይሎሙ ፡ ለነገደ ፡ ደቂቀ ፡ ዛቡሎን ፡ ኤልያብ ፡ ወልደ ፡ ኬሎን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዘላዕለ",
+          "t": "wäzälaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኀይሎሙ",
+          "t": "ḫäyəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ለነገደ",
+          "t": "länägädä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ዛቡሎን",
+          "t": "zabulonə",
+          "gl": ""
+        },
+        {
+          "g": "ኤልያብ",
+          "t": "ʾeləyabə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ኬሎን",
+          "t": "kelonə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And over the host of the tribe of the sons of Zabulon, was Eliab the son of Chælon.",
+        "kjv": "And over the host of the tribe of the children of Zebulun was Eliab the son of Helon."
+      }
+    },
+    {
+      "num": 17,
+      "geez": "ወይነሥትዋ ፡ ለደብተራ ፡ ወያነሥእዋ ፡ ደቂቀ ፡ ጌድሶን ፡ ወደቂቀ ፡ ሜራሪ ፡ ወይጸውርዋ ፡ ለደብተራ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይነሥትዋ",
+          "t": "wäyənäśətəwa",
+          "gl": ""
+        },
+        {
+          "g": "ለደብተራ",
+          "t": "lädäbətära",
+          "gl": ""
+        },
+        {
+          "g": "ወያነሥእዋ",
+          "t": "wäyanäśəʾəwa",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ጌድሶን",
+          "t": "gedəsonə",
+          "gl": ""
+        },
+        {
+          "g": "ወደቂቀ",
+          "t": "wädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ሜራሪ",
+          "t": "merari",
+          "gl": ""
+        },
+        {
+          "g": "ወይጸውርዋ",
+          "t": "wäyəṣäwərəwa",
+          "gl": ""
+        },
+        {
+          "g": "ለደብተራ",
+          "t": "lädäbətära",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they shall take down the tabernacle, and the sons of Gedson shall set forward, and the sons of Merari, who bear the tabernacle.",
+        "kjv": "And the tabernacle was taken down; and the sons of Gershon and the sons of Merari set forward, bearing the tabernacle."
+      }
+    },
+    {
+      "num": 18,
+      "geez": "ወያነሥኡ ፡ በሕጎሙ ፡ ትዕይንተ ፡ ሮቤል ፡ ምስለ ፡ ኀይሎሙ ፡ ወዘላዕለ ፡ ኀይሎሙ ፡ ኤሊሱር ፡ ወልደ ፡ ሴድዩር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያነሥኡ",
+          "t": "wäyanäśəʾu",
+          "gl": ""
+        },
+        {
+          "g": "በሕጎሙ",
+          "t": "bäḥəgomu",
+          "gl": ""
+        },
+        {
+          "g": "ትዕይንተ",
+          "t": "təʿəyənətä",
+          "gl": ""
+        },
+        {
+          "g": "ሮቤል",
+          "t": "robelə",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኀይሎሙ",
+          "t": "ḫäyəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ወዘላዕለ",
+          "t": "wäzälaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኀይሎሙ",
+          "t": "ḫäyəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ኤሊሱር",
+          "t": "ʾelisurə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ሴድዩር",
+          "t": "sedəyurə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the order of the camp of Ruben set forward with their host; and over their host was Elisur the son of Sediur.",
+        "kjv": "And the standard of the camp of Reuben set forward according to their armies: and over his host was Elizur the son of Shedeur."
+      }
+    },
+    {
+      "num": 19,
+      "geez": "ወዘላዕለ ፡ ኀይሎሙ ፡ ለነገደ ፡ ደቂቀ ፡ ስምዖን ፡ ሰላሚየል ፡ ወልደ ፡ ሱሪስዴ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዘላዕለ",
+          "t": "wäzälaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኀይሎሙ",
+          "t": "ḫäyəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ለነገደ",
+          "t": "länägädä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ስምዖን",
+          "t": "səməʿonə",
+          "gl": ""
+        },
+        {
+          "g": "ሰላሚየል",
+          "t": "sälamiyälə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ሱሪስዴ",
+          "t": "surisəde",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And over the host of the tribe of the sons of Symeon, was Salamiel son of Surisadai.",
+        "kjv": "And over the host of the tribe of the children of Simeon was Shelumiel the son of Zurishaddai."
+      }
+    },
+    {
+      "num": 20,
+      "geez": "ወዘላዕለ ፡ ኀይሎሙ ፡ ለነገደ ፡ ደቂቀ ፡ ጋድ ፡ ኤሊሳፍ ፡ ወልደ ፡ ራጕኤል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዘላዕለ",
+          "t": "wäzälaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኀይሎሙ",
+          "t": "ḫäyəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ለነገደ",
+          "t": "länägädä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ጋድ",
+          "t": "gadə",
+          "gl": ""
+        },
+        {
+          "g": "ኤሊሳፍ",
+          "t": "ʾelisafə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ራጕኤል",
+          "t": "ragwəʾelə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And over the host of the tribe of the children of Gad, was Elisaph the son of Raguel.",
+        "kjv": "And over the host of the tribe of the children of Gad was Eliasaph the son of Deuel."
+      }
+    },
+    {
+      "num": 21,
+      "geez": "ወያነሥኡ ፡ ደቂቀ ፡ ቃዓት ፡ ወይጸውሩ ፡ ዘቅድሳት ፡ ወያቀውምዋ ፡ ለደብተራ ፡ እስከ ፡ ይበጽሑ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያነሥኡ",
+          "t": "wäyanäśəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ቃዓት",
+          "t": "qaʿatə",
+          "gl": ""
+        },
+        {
+          "g": "ወይጸውሩ",
+          "t": "wäyəṣäwəru",
+          "gl": ""
+        },
+        {
+          "g": "ዘቅድሳት",
+          "t": "zäqədəsatə",
+          "gl": ""
+        },
+        {
+          "g": "ወያቀውምዋ",
+          "t": "wäyaqäwəməwa",
+          "gl": ""
+        },
+        {
+          "g": "ለደብተራ",
+          "t": "lädäbətära",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ይበጽሑ",
+          "t": "yəbäṣəḥu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the sons of Caath shall set forward bearing the holy things, and the others shall set up the tabernacle until they arrive.",
+        "kjv": "And the Kohathites set forward, bearing the sanctuary: and the other did set up the tabernacle against they came."
+      }
+    },
+    {
+      "num": 22,
+      "geez": "ወያነሥኡ ፡ በሕጎሙ ፡ ተዕይንተ ፡ ኤፍሬም ፡ ምስለ ፡ ኀይሎሙ ፡ ወዘላዕለ ፡ ኀይሎሙ ፡ ኤሊሳማ ፡ ወልደ ፡ ሴምዩድ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያነሥኡ",
+          "t": "wäyanäśəʾu",
+          "gl": ""
+        },
+        {
+          "g": "በሕጎሙ",
+          "t": "bäḥəgomu",
+          "gl": ""
+        },
+        {
+          "g": "ተዕይንተ",
+          "t": "täʿəyənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኤፍሬም",
+          "t": "ʾefəremə",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኀይሎሙ",
+          "t": "ḫäyəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ወዘላዕለ",
+          "t": "wäzälaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኀይሎሙ",
+          "t": "ḫäyəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ኤሊሳማ",
+          "t": "ʾelisama",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ሴምዩድ",
+          "t": "seməyudə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the order of the camp of Ephraim shall set forward with their forces; and over their forces was Elisama the son of Semiud.",
+        "kjv": "And the standard of the camp of the children of Ephraim set forward according to their armies: and over his host was Elishama the son of Ammihud."
+      }
+    },
+    {
+      "num": 23,
+      "geez": "ወዘላዕለ ፡ ኀይሎሙ ፡ ለነገደ ፡ ደቂቀ ፡ መናሴ ፡ ገማሊዬል ፡ ወልደ ፡ ፈዳሱር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዘላዕለ",
+          "t": "wäzälaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኀይሎሙ",
+          "t": "ḫäyəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ለነገደ",
+          "t": "länägädä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "መናሴ",
+          "t": "mänase",
+          "gl": ""
+        },
+        {
+          "g": "ገማሊዬል",
+          "t": "gämaliyelə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ፈዳሱር",
+          "t": "fädasurə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And over the forces of the tribe of the sons of Manasse, was Gamaliel the son of Phadassur.",
+        "kjv": "And over the host of the tribe of the children of Manasseh was Gamaliel the son of Pedahzur."
+      }
+    },
+    {
+      "num": 24,
+      "geez": "ወ[ዘ]ላዕለ ፡ ኀይሎሙ ፡ ለነገደ ፡ ደቂቀ ፡ ብንያሚ ፡ አቢዳን ፡ ወልደ ፡ ጋዴዮን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዘላዕለ",
+          "t": "wäzälaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኀይሎሙ",
+          "t": "ḫäyəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ለነገደ",
+          "t": "länägädä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ብንያሚ",
+          "t": "bənəyami",
+          "gl": ""
+        },
+        {
+          "g": "አቢዳን",
+          "t": "ʾäbidanə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ጋዴዮን",
+          "t": "gadeyonə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And over the forces of the tribe of the children of Benjamin, was Abidan the son of Gadeoni.",
+        "kjv": "And over the host of the tribe of the children of Benjamin was Abidan the son of Gideoni."
+      }
+    },
+    {
+      "num": 25,
+      "geez": "ወያነሥኡ ፡ በሕጎሙ ፡ ትዕይንተ ፡ ደቂቀ ፡ ዳን ፡ ድኅረ ፡ ኵሉ ፡ ተዓይን ፡ ምስለ ፡ ኀይሎሙ ፡ ወዘላዕለ ፡ ኀይሎሙ ፡\n                  አኪዬዜር ፡ ወልደ ፡ አሚስዴ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያነሥኡ",
+          "t": "wäyanäśəʾu",
+          "gl": ""
+        },
+        {
+          "g": "በሕጎሙ",
+          "t": "bäḥəgomu",
+          "gl": ""
+        },
+        {
+          "g": "ትዕይንተ",
+          "t": "təʿəyənətä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ዳን",
+          "t": "danə",
+          "gl": ""
+        },
+        {
+          "g": "ድኅረ",
+          "t": "dəḫərä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ተዓይን",
+          "t": "täʿayənə",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኀይሎሙ",
+          "t": "ḫäyəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ወዘላዕለ",
+          "t": "wäzälaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኀይሎሙ",
+          "t": "ḫäyəlomu",
+          "gl": ""
+        },
+        {
+          "g": "አኪዬዜር",
+          "t": "ʾäkiyezerə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "አሚስዴ",
+          "t": "ʾämisəde",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the order of the camp of the sons of Dan shall set forward the last of all the camps, with their forces: and over their forces was Achiezer the son of Amisadai.",
+        "kjv": "And the standard of the camp of the children of Dan set forward, which was the rereward of all the camps throughout their hosts: and over his host was Ahiezer the son of Ammishaddai."
+      }
+    },
+    {
+      "num": 26,
+      "geez": "ወዘላዕለ ፡ ኀይሎሙ ፡ ለነገደ ፡ ደቂቀ ፡ አሴር ፡ ፋጌሔል ፡ ወልደ ፡ ኤክራን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዘላዕለ",
+          "t": "wäzälaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኀይሎሙ",
+          "t": "ḫäyəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ለነገደ",
+          "t": "länägädä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "አሴር",
+          "t": "ʾäserə",
+          "gl": ""
+        },
+        {
+          "g": "ፋጌሔል",
+          "t": "fageḥelə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ኤክራን",
+          "t": "ʾekəranə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And over the forces of the tribe of the sons of Aser, was Phageel the son of Echran.",
+        "kjv": "And over the host of the tribe of the children of Asher was Pagiel the son of Ocran."
+      }
+    },
+    {
+      "num": 27,
+      "geez": "ወዘላዕለ ፡ ኀይሎሙ ፡ ለነገደ ፡ ደቂቀ ፡ ንፍታሌም ፡ አኪሬ ፡ ወልዶ ፡ ኤናን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዘላዕለ",
+          "t": "wäzälaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኀይሎሙ",
+          "t": "ḫäyəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ለነገደ",
+          "t": "länägädä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ንፍታሌም",
+          "t": "nəfətalemə",
+          "gl": ""
+        },
+        {
+          "g": "አኪሬ",
+          "t": "ʾäkire",
+          "gl": ""
+        },
+        {
+          "g": "ወልዶ",
+          "t": "wälədo",
+          "gl": ""
+        },
+        {
+          "g": "ኤናን",
+          "t": "ʾenanə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And over the forces of the tribe of the sons of Nephthali, was Achire the son of Ænan.",
+        "kjv": "And over the host of the tribe of the children of Naphtali was Ahira the son of Enan."
+      }
+    },
+    {
+      "num": 28,
+      "geez": "ከመዝ ፡ ውእቱ ፡ ሰራዊቶሙ ፡ ለደቂቀ ፡ እስራኤል ፡ ወይግዕዙ ፡ ምስለ ፡ ኀይሎሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ከመዝ",
+          "t": "kämäzə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ሰራዊቶሙ",
+          "t": "särawitomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወይግዕዙ",
+          "t": "wäyəgəʿəzu",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኀይሎሙ",
+          "t": "ḫäyəlomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "These are the armies of the children of Israel; and they set forward with their forces.",
+        "kjv": "Thus were the journeyings of the children of Israel according to their armies, when they set forward."
+      }
+    },
+    {
+      "num": 29,
+      "geez": "ወይቤሎ ፡ ሙሴ ፡ ለኦባብ ፡ ወልደ ፡ ራጕኤል ፡ መድያናዊ ፡ ሐሙሁ ፡ ለሙሴ ፡ ንግዕዝ ፡ ንሕነሰ ፡ ውስተ ፡ መካን ፡\n                  ኀበ ፡ ይቤለነ ፡ እግዚአብሔር ፡ ኪያሁ ፡ እሁበክሙ ፡ ወነዓ ፡ ምስሌነ ፡ ወንገብር ፡ ሠናየ ፡ ላዕሌከ ፡ እስመ ፡\n                  እግዚአብሔር ፡ ነበበ ፡ ሠናይተ ፡ ላዕለ ፡ እስራኤል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ለኦባብ",
+          "t": "läʾobabə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ራጕኤል",
+          "t": "ragwəʾelə",
+          "gl": ""
+        },
+        {
+          "g": "መድያናዊ",
+          "t": "mädəyanawi",
+          "gl": ""
+        },
+        {
+          "g": "ሐሙሁ",
+          "t": "ḥämuhu",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ንግዕዝ",
+          "t": "nəgəʿəzə",
+          "gl": ""
+        },
+        {
+          "g": "ንሕነሰ",
+          "t": "nəḥənäsä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "መካን",
+          "t": "mäkanə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ይቤለነ",
+          "t": "yəbelänä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ኪያሁ",
+          "t": "kiyahu",
+          "gl": ""
+        },
+        {
+          "g": "እሁበክሙ",
+          "t": "ʾəhubäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወነዓ",
+          "t": "wänäʿa",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌነ",
+          "t": "məsəlenä",
+          "gl": ""
+        },
+        {
+          "g": "ወንገብር",
+          "t": "wänəgäbərə",
+          "gl": ""
+        },
+        {
+          "g": "ሠናየ",
+          "t": "śänayä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌከ",
+          "t": "laʿəlekä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ነበበ",
+          "t": "näbäbä",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይተ",
+          "t": "śänayətä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Moses said to Obab the son of Raguel the Madianite, the father-in-law of Moses, We are going forward to the place concerning which the Lord said, This will I give to you: Come with us, and we will do thee good, for the Lord has spoken good concerning Israel.",
+        "kjv": "And Moses said unto Hobab, the son of Raguel the Midianite, Moses’ father in law, We are journeying unto the place of which the LORD said, I will give it you: come thou with us, and we will do thee good: for the LORD hath spoken good concerning Israel."
+      }
+    },
+    {
+      "num": 30,
+      "geez": "ወይቤሎ ፡ ኢየሐውር ፡ አላ ፡ ውስተ ፡ ብሔርየ ፡ ወውስተ ፡ ሙላድየ ፡ እገብእ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሐውር",
+          "t": "ʾiyäḥäwərə",
+          "gl": ""
+        },
+        {
+          "g": "አላ",
+          "t": "ʾäla",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ብሔርየ",
+          "t": "bəḥerəyä",
+          "gl": ""
+        },
+        {
+          "g": "ወውስተ",
+          "t": "wäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሙላድየ",
+          "t": "muladəyä",
+          "gl": ""
+        },
+        {
+          "g": "እገብእ",
+          "t": "ʾəgäbəʾə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he said to him, I will not go, but I will go to my land and to my kindred.",
+        "kjv": "And he said unto him, I will not go; but I will depart to mine own land, and to my kindred."
+      }
+    },
+    {
+      "num": 31,
+      "geez": "ወይቤሎ ፡ ኢትኅድገ[ነ] ፡ እስመ ፡ ነበርከ ፡ ምስሌነ ፡ ውስተ ፡ ገዳም ፡ ወልህቀ ፡ በኀቤነ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ኢትኅድገነ",
+          "t": "ʾitəḫədəgänä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ነበርከ",
+          "t": "näbärəkä",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌነ",
+          "t": "məsəlenä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ገዳም",
+          "t": "gädamə",
+          "gl": ""
+        },
+        {
+          "g": "ወልህቀ",
+          "t": "wäləhəqä",
+          "gl": ""
+        },
+        {
+          "g": "በኀቤነ",
+          "t": "bäḫäbenä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he said, Leave us not, because thou hast been with us in the wilderness, and thou shalt be an elder among us.",
+        "kjv": "And he said, Leave us not, I pray thee; forasmuch as thou knowest how we are to encamp in the wilderness, and thou mayest be to us instead of eyes."
+      }
+    },
+    {
+      "num": 32,
+      "geez": "ወለእመ ፡ ሖርከ ፡ ምስሌነ ፡ እምኵሉ ፡ ዝክቱ ፡ ሠናይ ፡ እንተ ፡ ይገብር ፡ ሠናይተ ፡ እግዚአብሔር ፡ ላዕሌነ ፡\n                  ንገብር ፡ ሠናይተ ፡ ላዕሌከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለእመ",
+          "t": "wäläʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ሖርከ",
+          "t": "ḥorəkä",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌነ",
+          "t": "məsəlenä",
+          "gl": ""
+        },
+        {
+          "g": "እምኵሉ",
+          "t": "ʾəməkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዝክቱ",
+          "t": "zəkətu",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይ",
+          "t": "śänayə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ይገብር",
+          "t": "yəgäbərə",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይተ",
+          "t": "śänayətä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌነ",
+          "t": "laʿəlenä",
+          "gl": ""
+        },
+        {
+          "g": "ንገብር",
+          "t": "nəgäbərə",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይተ",
+          "t": "śänayətä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌከ",
+          "t": "laʿəlekä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it shall come to pass if thou wilt go with us, it shall even come to pass that in whatsoever things the Lord shall do us good, we will also do thee good.",
+        "kjv": "And it shall be, if thou go with us, yea, it shall be, that what goodness the LORD shall do unto us, the same will we do unto thee."
+      }
+    },
+    {
+      "num": 33,
+      "geez": "ወገዐዙ ፡ እምኀበ ፡ ደብሩ ፡ ለእግዚአብሔር ፡ ምሕዋረ ፡ ሠሉስ ፡ መዋዕል ፡ ወታቦተ ፡ ሕጉ ፡ ለእግዚአብሔር ፡ ትቀድም\n                  ፡ ሐዊረ ፡ ቅድሜሆሙ ፡ ምሕዋረ ፡ ሠሉስ ፡ መዋዕል ፡ ከመ ፡ ትርአይ ፡ ሎሙ ፡ ምዕራፈ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወገዐዙ",
+          "t": "wägäʿäzu",
+          "gl": ""
+        },
+        {
+          "g": "እምኀበ",
+          "t": "ʾəməḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ደብሩ",
+          "t": "däbəru",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ምሕዋረ",
+          "t": "məḥəwarä",
+          "gl": ""
+        },
+        {
+          "g": "ሠሉስ",
+          "t": "śälusə",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕል",
+          "t": "mäwaʿələ",
+          "gl": ""
+        },
+        {
+          "g": "ወታቦተ",
+          "t": "wätabotä",
+          "gl": ""
+        },
+        {
+          "g": "ሕጉ",
+          "t": "ḥəgu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ትቀድም",
+          "t": "təqädəmə",
+          "gl": ""
+        },
+        {
+          "g": "ሐዊረ",
+          "t": "ḥäwirä",
+          "gl": ""
+        },
+        {
+          "g": "ቅድሜሆሙ",
+          "t": "qədəmehomu",
+          "gl": ""
+        },
+        {
+          "g": "ምሕዋረ",
+          "t": "məḥəwarä",
+          "gl": ""
+        },
+        {
+          "g": "ሠሉስ",
+          "t": "śälusə",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕል",
+          "t": "mäwaʿələ",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ትርአይ",
+          "t": "tərəʾäyə",
+          "gl": ""
+        },
+        {
+          "g": "ሎሙ",
+          "t": "lomu",
+          "gl": ""
+        },
+        {
+          "g": "ምዕራፈ",
+          "t": "məʿərafä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they departed from the mount of the Lord a three days' journey; and the ark of the covenant of the Lord went before them a three days' journey to provide rest for them.",
+        "kjv": "And they departed from the mount of the LORD three days’ journey: and the ark of the covenant of the LORD went before them in the three days’ journey, to search out a resting place for them."
+      }
+    },
+    {
+      "num": 34,
+      "geez": "ወኮነ ፡ ሶበ ፡ ግዕዘት ፡ ታቦት ፡ ይቤ ፡ ሙሴ ፡ ተንሥእ ፡ እግዚኦ ፡ ወይዘረዉ ፡ ፀርከ ፡ ወይጕይዩ ፡ ኵሎሙ ፡ እለ\n                  ፡ ይጸልኡከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኮነ",
+          "t": "wäkonä",
+          "gl": ""
+        },
+        {
+          "g": "ሶበ",
+          "t": "sobä",
+          "gl": ""
+        },
+        {
+          "g": "ግዕዘት",
+          "t": "gəʿəzätə",
+          "gl": ""
+        },
+        {
+          "g": "ታቦት",
+          "t": "tabotə",
+          "gl": ""
+        },
+        {
+          "g": "ይቤ",
+          "t": "yəbe",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ተንሥእ",
+          "t": "tänəśəʾə",
+          "gl": ""
+        },
+        {
+          "g": "እግዚኦ",
+          "t": "ʾəgəziʾo",
+          "gl": ""
+        },
+        {
+          "g": "ወይዘረዉ",
+          "t": "wäyəzäräwu",
+          "gl": ""
+        },
+        {
+          "g": "ፀርከ",
+          "t": "ṣ́ärəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወይጕይዩ",
+          "t": "wäyəgwəyəyu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይጸልኡከ",
+          "t": "yəṣäləʾukä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it came to pass when the ark set forward, that Moses said, Arise, O Lord, and let thine enemies be scattered: let all that hate thee flee.",
+        "kjv": "And the cloud of the LORD was upon them by day, when they went out of the camp."
+      }
+    },
+    {
+      "num": 35,
+      "geez": "ወበማኅደርኒ ፡ ይቤ ፡ ተመየጥ ፡ እግዚኦ ፡ በእልፍ ፡ ወበአእላፍ ፡ ውስተ ፡ እስራኤል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበማኅደርኒ",
+          "t": "wäbämaḫədärəni",
+          "gl": ""
+        },
+        {
+          "g": "ይቤ",
+          "t": "yəbe",
+          "gl": ""
+        },
+        {
+          "g": "ተመየጥ",
+          "t": "tämäyäṭə",
+          "gl": ""
+        },
+        {
+          "g": "እግዚኦ",
+          "t": "ʾəgəziʾo",
+          "gl": ""
+        },
+        {
+          "g": "በእልፍ",
+          "t": "bäʾələfə",
+          "gl": ""
+        },
+        {
+          "g": "ወበአእላፍ",
+          "t": "wäbäʾäʾəlafə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And in the resting he said, Turn again, O Lord, the thousands and tens of thousands in Israel.",
+        "kjv": "And it came to pass, when the ark set forward, that Moses said, Rise up, LORD, and let thine enemies be scattered; and let them that hate thee flee before thee."
+      }
+    },
+    {
+      "num": 36,
+      "geez": "ወመጽአት ፡ ደመና ፡ ወጸለለቶሙ ፡ መዓልተ ፡ እንዘ ፡ ይግዕዙ ፡ እምነ ፡ ትዕይንት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወመጽአት",
+          "t": "wämäṣəʾätə",
+          "gl": ""
+        },
+        {
+          "g": "ደመና",
+          "t": "dämäna",
+          "gl": ""
+        },
+        {
+          "g": "ወጸለለቶሙ",
+          "t": "wäṣälälätomu",
+          "gl": ""
+        },
+        {
+          "g": "መዓልተ",
+          "t": "mäʿalətä",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ይግዕዙ",
+          "t": "yəgəʿəzu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ትዕይንት",
+          "t": "təʿəyənətə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the cloud overshadowed them by day, when they departed from the camp.",
+        "kjv": "And when it rested, he said, Return, O LORD, unto the many thousands of Israel."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

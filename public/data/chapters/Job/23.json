@@ -1,0 +1,809 @@
+{
+  "book": "Job",
+  "chapter": 23,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወደእደ፡ ተናገረ፡ ኢዮብ፡ ወተሰጥወ፡ ወይቤ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወደእደ",
+          "t": "wädäʾədä",
+          "gl": ""
+        },
+        {
+          "g": "ተናገረ",
+          "t": "tänagärä",
+          "gl": ""
+        },
+        {
+          "g": "ኢዮብ",
+          "t": "ʾiyobə",
+          "gl": ""
+        },
+        {
+          "g": "ወተሰጥወ",
+          "t": "wätäsäṭəwä",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Then Job answered and said,",
+        "kjv": "Then Job answered and said,"
+      }
+    },
+    {
+      "num": 2,
+      "geez": "አእመርኩ፡ ከመ፡ እምእዴየ፡ ውእቱ፡ ዘለፋየ፡ ወአክበደ፡ እዴሁ፡ ላዕሌየ፡ ወአግዐረኒ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "አእመርኩ",
+          "t": "ʾäʾəmärəku",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "እምእዴየ",
+          "t": "ʾəməʾədeyä",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘለፋየ",
+          "t": "zäläfayä",
+          "gl": ""
+        },
+        {
+          "g": "ወአክበደ",
+          "t": "wäʾäkəbädä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌየ",
+          "t": "laʿəleyä",
+          "gl": ""
+        },
+        {
+          "g": "ወአግዐረኒ",
+          "t": "wäʾägəʿäräni",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Yea, I know that pleading is out of my reach; and his hand has been made heavy upon my groaning.",
+        "kjv": "Even to day is my complaint bitter: my stroke is heavier than my groaning."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ምንት፡ ውእቱ፡ ዘኢየአምር፡ ከመ፡ እርከብ፡ ወእብጻሕ፡ እስከ፡ ለዝሉፉ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ምንት",
+          "t": "mənətə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘኢየአምር",
+          "t": "zäʾiyäʾämərə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "እርከብ",
+          "t": "ʾərəkäbə",
+          "gl": ""
+        },
+        {
+          "g": "ወእብጻሕ",
+          "t": "wäʾəbəṣaḥə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ለዝሉፉ",
+          "t": "läzəlufu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Who would then know that I might find him, and come to an end of the matter?",
+        "kjv": "Oh that I knew where I might find him! that I might come even to his seat!"
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወይንግረኒ፡ እመቦ፡ ዘገበርኩ፡ ወኢያረምም፡ አፉየ፡ እንዘ፡ እወቅስ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይንግረኒ",
+          "t": "wäyənəgəräni",
+          "gl": ""
+        },
+        {
+          "g": "እመቦ",
+          "t": "ʾəmäbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘገበርኩ",
+          "t": "zägäbärəku",
+          "gl": ""
+        },
+        {
+          "g": "ወኢያረምም",
+          "t": "wäʾiyaräməmə",
+          "gl": ""
+        },
+        {
+          "g": "አፉየ",
+          "t": "ʾäfuyä",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "እወቅስ",
+          "t": "ʾəwäqəsə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And I would plead my own cause, and he would fill my mouth with arguments.",
+        "kjv": "I would order my cause before him, and fill my mouth with arguments."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወአምር፡ ሊተሂ፡ ከመ፡ ይሁበኒ፡ ፈውሰ፡ ወለበውኩ፡ ዘይሁበኒ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአምር",
+          "t": "wäʾämərə",
+          "gl": ""
+        },
+        {
+          "g": "ሊተሂ",
+          "t": "litähi",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይሁበኒ",
+          "t": "yəhubäni",
+          "gl": ""
+        },
+        {
+          "g": "ፈውሰ",
+          "t": "fäwəsä",
+          "gl": ""
+        },
+        {
+          "g": "ወለበውኩ",
+          "t": "wäläbäwəku",
+          "gl": ""
+        },
+        {
+          "g": "ዘይሁበኒ",
+          "t": "zäyəhubäni",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And I would know the remedies which he would speak to me, and I would perceive what he would tell me.",
+        "kjv": "I would know the words which he would answer me, and understand what he would say unto me."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወእመሂ፡ በብዙኅ፡ ኃይል፡ ይመጽሕ፡ ኢይገብር፡ እንከ፡ በመዓቱ፡ ላዕሌየ፡ እስመ፡ ሣህል፡ ወጻድቅ፡ ኀቤሁ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሂ",
+          "t": "wäʾəmähi",
+          "gl": ""
+        },
+        {
+          "g": "በብዙኅ",
+          "t": "bäbəzuḫə",
+          "gl": ""
+        },
+        {
+          "g": "ኃይል",
+          "t": "ḫayələ",
+          "gl": ""
+        },
+        {
+          "g": "ይመጽሕ",
+          "t": "yəmäṣəḥə",
+          "gl": ""
+        },
+        {
+          "g": "ኢይገብር",
+          "t": "ʾiyəgäbərə",
+          "gl": ""
+        },
+        {
+          "g": "እንከ",
+          "t": "ʾənəkä",
+          "gl": ""
+        },
+        {
+          "g": "በመዓቱ",
+          "t": "bämäʿatu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌየ",
+          "t": "laʿəleyä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ሣህል",
+          "t": "śahələ",
+          "gl": ""
+        },
+        {
+          "g": "ወጻድቅ",
+          "t": "wäṣadəqə",
+          "gl": ""
+        },
+        {
+          "g": "ኀቤሁ",
+          "t": "ḫäbehu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Though he should come on me in his great strength, then he would not threaten me;",
+        "kjv": "Will he plead against me with his great power? No; but he would put strength in me."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወያዐርፈኒ፡ ለዝሉፉ፡ እምኵነኔየ፡ እስመ፡ ኀበ፡ ቀዲሙ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያዐርፈኒ",
+          "t": "wäyaʿärəfäni",
+          "gl": ""
+        },
+        {
+          "g": "ለዝሉፉ",
+          "t": "läzəlufu",
+          "gl": ""
+        },
+        {
+          "g": "እምኵነኔየ",
+          "t": "ʾəməkwənäneyä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ቀዲሙ",
+          "t": "qädimu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "for truth and reproof are from him; and he would bring forth my judgment to an end.",
+        "kjv": "There the righteous might dispute with him; so should I be delivered for ever from my judge."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወኢይሄሉ፡ እንከ፡ ወኢየአምር፡ እንከ፡ ደኃሪታ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኢይሄሉ",
+          "t": "wäʾiyəhelu",
+          "gl": ""
+        },
+        {
+          "g": "እንከ",
+          "t": "ʾənəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢየአምር",
+          "t": "wäʾiyäʾämərə",
+          "gl": ""
+        },
+        {
+          "g": "እንከ",
+          "t": "ʾənəkä",
+          "gl": ""
+        },
+        {
+          "g": "ደኃሪታ",
+          "t": "däḫarita",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For if I shall go first, and exist no longer, still what do I know concerning the latter end?",
+        "kjv": "Behold, I go forward, but he is not there; and backward, but I cannot perceive him:"
+      }
+    },
+    {
+      "num": 9,
+      "geez": "እገብእ፡ እንከ፡ መንገለ፡ ጸጋም፡ ወእትመየጥ፡ መንገለ፡ የማን፡ ወአልቦ፡ ዘእሬኢ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እገብእ",
+          "t": "ʾəgäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "እንከ",
+          "t": "ʾənəkä",
+          "gl": ""
+        },
+        {
+          "g": "መንገለ",
+          "t": "mänəgälä",
+          "gl": ""
+        },
+        {
+          "g": "ጸጋም",
+          "t": "ṣägamə",
+          "gl": ""
+        },
+        {
+          "g": "ወእትመየጥ",
+          "t": "wäʾətəmäyäṭə",
+          "gl": ""
+        },
+        {
+          "g": "መንገለ",
+          "t": "mänəgälä",
+          "gl": ""
+        },
+        {
+          "g": "የማን",
+          "t": "yämanə",
+          "gl": ""
+        },
+        {
+          "g": "ወአልቦ",
+          "t": "wäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘእሬኢ",
+          "t": "zäʾəreʾi",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "When he wrought on the left hand, then I observed it not: his right hand shall encompass me but I shall not see it.",
+        "kjv": "On the left hand, where he doth work, but I cannot behold him: he hideth himself on the right hand, that I cannot see him:"
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወእደ፡ አእምር፡ ፍኖትየ፡ ወፈተነኒ፡ ከመ፡ ወርቅ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእደ",
+          "t": "wäʾədä",
+          "gl": ""
+        },
+        {
+          "g": "አእምር",
+          "t": "ʾäʾəmərə",
+          "gl": ""
+        },
+        {
+          "g": "ፍኖትየ",
+          "t": "fənotəyä",
+          "gl": ""
+        },
+        {
+          "g": "ወፈተነኒ",
+          "t": "wäfätänäni",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ወርቅ",
+          "t": "wärəqə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For he knows already my way; and he has tried me as gold.",
+        "kjv": "But he knoweth the way that I take: when he hath tried me, I shall come forth as gold."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወኢይወጽእ፡ እምተግሣዑ፡ ወዓቀብኩ፡ ፍናዊሁ፡ ወኢተግኅሥኩ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኢይወጽእ",
+          "t": "wäʾiyəwäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "እምተግሣዑ",
+          "t": "ʾəmətägəśaʿu",
+          "gl": ""
+        },
+        {
+          "g": "ወዓቀብኩ",
+          "t": "wäʿaqäbəku",
+          "gl": ""
+        },
+        {
+          "g": "ፍናዊሁ",
+          "t": "fənawihu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢተግኅሥኩ",
+          "t": "wäʾitägəḫəśəku",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And I will go forth according to his commandments, for I have kept his ways; and I shall not turn aside from his commandments,",
+        "kjv": "My foot hath held his steps, his way have I kept, and not declined."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወኢኀለፍኩ፡ እምትእዛዙ፡ ወኀባእኩ፡ ነገሮ፡ ውስተ፡ ሕፅንየ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኢኀለፍኩ",
+          "t": "wäʾiḫäläfəku",
+          "gl": ""
+        },
+        {
+          "g": "እምትእዛዙ",
+          "t": "ʾəmətəʾəzazu",
+          "gl": ""
+        },
+        {
+          "g": "ወኀባእኩ",
+          "t": "wäḫäbaʾəku",
+          "gl": ""
+        },
+        {
+          "g": "ነገሮ",
+          "t": "nägäro",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሕፅንየ",
+          "t": "ḥəṣ́ənəyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "neither shall I transgress; but I have hid his words in my bosom.",
+        "kjv": "Neither have I gone back from the commandment of his lips; I have esteemed the words of his mouth more than my necessary food."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወመኑ፡ ውእቱ፡ ዘይትዋቀሶ፡ በእንተ፡ ኵነኔ፡ እስመ፡ ውእቱ፡ ዘይፈቀደ፡ ይገብር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወመኑ",
+          "t": "wämänu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይትዋቀሶ",
+          "t": "zäyətəwaqäso",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኵነኔ",
+          "t": "kwənäne",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይፈቀደ",
+          "t": "zäyəfäqädä",
+          "gl": ""
+        },
+        {
+          "g": "ይገብር",
+          "t": "yəgäbərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if too he has thus judged, who is he that has contradicted, for he has both willed a thing and done it.",
+        "kjv": "But he is in one mind, and who can turn him? and what his soul desireth, even that he doeth."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወበእንተዝ፡ አነሂ፡ ጐጓእኩ፡ በእንቲአሁ፡ ወተገሢዕየ፡ ሐለይክዎ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበእንተዝ",
+          "t": "wäbäʾənətäzə",
+          "gl": ""
+        },
+        {
+          "g": "አነሂ",
+          "t": "ʾänähi",
+          "gl": ""
+        },
+        {
+          "g": "ጐጓእኩ",
+          "t": "gwägwaʾəku",
+          "gl": ""
+        },
+        {
+          "g": "በእንቲአሁ",
+          "t": "bäʾənətiʾähu",
+          "gl": ""
+        },
+        {
+          "g": "ወተገሢዕየ",
+          "t": "wätägäśiʿəyä",
+          "gl": ""
+        },
+        {
+          "g": "ሐለይክዎ",
+          "t": "ḥäläyəkəwo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "kjv": "For he performeth the thing that is appointed for me: and many such things are with him."
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ወበእንተዝ፡ ደንገፅኩ፡ እምቅድመ፡ ገጹ፡ እሔልዮሂ፡ ወይጌርመኒ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበእንተዝ",
+          "t": "wäbäʾənətäzə",
+          "gl": ""
+        },
+        {
+          "g": "ደንገፅኩ",
+          "t": "dänəgäṣ́əku",
+          "gl": ""
+        },
+        {
+          "g": "እምቅድመ",
+          "t": "ʾəməqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ገጹ",
+          "t": "gäṣu",
+          "gl": ""
+        },
+        {
+          "g": "እሔልዮሂ",
+          "t": "ʾəḥeləyohi",
+          "gl": ""
+        },
+        {
+          "g": "ወይጌርመኒ",
+          "t": "wäyəgerəmäni",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Therefore let me take good heed before him: I will consider, and be afraid of him.",
+        "kjv": "Therefore am I troubled at his presence: when I consider, I am afraid of him."
+      }
+    },
+    {
+      "num": 16,
+      "geez": "ወእግዚአብሔር፡ መሰዎ፡ ለልብየ፡ ወዘኵሎ፡ ይመልከ፡ አጐጕዓኒ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእግዚአብሔር",
+          "t": "wäʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "መሰዎ",
+          "t": "mäsäwo",
+          "gl": ""
+        },
+        {
+          "g": "ለልብየ",
+          "t": "läləbəyä",
+          "gl": ""
+        },
+        {
+          "g": "ወዘኵሎ",
+          "t": "wäzäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ይመልከ",
+          "t": "yəmäləkä",
+          "gl": ""
+        },
+        {
+          "g": "አጐጕዓኒ",
+          "t": "ʾägwägwəʿani",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But the Lord has softened my heart, and the Almighty has troubled me.",
+        "kjv": "For God maketh my heart soft, and the Almighty troubleth me:"
+      }
+    },
+    {
+      "num": 17,
+      "geez": "በእይቴ፡ አእመርኩ፡ ከመ፡ ትመጽአኒ፡ ጽልመት፡ ወደፈነኒ፡ ቆባር፡ ውስተ፡ ገጽየ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "በእይቴ",
+          "t": "bäʾəyəte",
+          "gl": ""
+        },
+        {
+          "g": "አእመርኩ",
+          "t": "ʾäʾəmärəku",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ትመጽአኒ",
+          "t": "təmäṣəʾäni",
+          "gl": ""
+        },
+        {
+          "g": "ጽልመት",
+          "t": "ṣələmätə",
+          "gl": ""
+        },
+        {
+          "g": "ወደፈነኒ",
+          "t": "wädäfänäni",
+          "gl": ""
+        },
+        {
+          "g": "ቆባር",
+          "t": "qobarə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ገጽየ",
+          "t": "gäṣəyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For I knew not that darkness would come upon me, and thick darkness has covered me before my face.",
+        "kjv": "Because I was not cut off before the darkness, neither hath he covered the darkness from my face."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

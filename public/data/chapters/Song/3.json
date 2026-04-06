@@ -1,0 +1,1048 @@
+{
+  "book": "Song",
+  "chapter": 3,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወከመ፡ ወሬዛ፡ ሀየል፡ ውስተ፡ አድባር፡ ድኁኃን። ቅንጽ፡ አንተ፡ ወልድ፡ እኁየ፡ ከመ፡ ወይጠል። በዐራትየ፡ ወበለያልይየ። አኀሥሥ፡ ዘአፍቀረት፡ ነፍስየ። ኀሠሥክዎ፡ ወኢረከብክዎ። ጸዋዕክዎ፡ ወኢተሰጥወኒ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወከመ",
+          "t": "wäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ወሬዛ",
+          "t": "wäreza",
+          "gl": ""
+        },
+        {
+          "g": "ሀየል",
+          "t": "häyälə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አድባር",
+          "t": "ʾädəbarə",
+          "gl": ""
+        },
+        {
+          "g": "ድኁኃን",
+          "t": "dəḫuḫanə",
+          "gl": ""
+        },
+        {
+          "g": "ቅንጽ",
+          "t": "qənəṣə",
+          "gl": ""
+        },
+        {
+          "g": "አንተ",
+          "t": "ʾänətä",
+          "gl": ""
+        },
+        {
+          "g": "ወልድ",
+          "t": "wälədə",
+          "gl": ""
+        },
+        {
+          "g": "እኁየ",
+          "t": "ʾəḫuyä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ወይጠል",
+          "t": "wäyəṭälə",
+          "gl": ""
+        },
+        {
+          "g": "በዐራትየ",
+          "t": "bäʿäratəyä",
+          "gl": ""
+        },
+        {
+          "g": "ወበለያልይየ",
+          "t": "wäbäläyaləyəyä",
+          "gl": ""
+        },
+        {
+          "g": "አኀሥሥ",
+          "t": "ʾäḫäśəśə",
+          "gl": ""
+        },
+        {
+          "g": "ዘአፍቀረት",
+          "t": "zäʾäfəqärätə",
+          "gl": ""
+        },
+        {
+          "g": "ነፍስየ",
+          "t": "näfəsəyä",
+          "gl": ""
+        },
+        {
+          "g": "ኀሠሥክዎ",
+          "t": "ḫäśäśəkəwo",
+          "gl": ""
+        },
+        {
+          "g": "ወኢረከብክዎ",
+          "t": "wäʾiräkäbəkəwo",
+          "gl": ""
+        },
+        {
+          "g": "ጸዋዕክዎ",
+          "t": "ṣäwaʿəkəwo",
+          "gl": ""
+        },
+        {
+          "g": "ወኢተሰጥወኒ",
+          "t": "wäʾitäsäṭəwäni",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "By night on my bed I sought him whom my soul loves: I sought him, but found him not; I called him, but he hearkened not to me.",
+        "kjv": "By night on my bed I sought him whom my soul loveth: I sought him, but I found him not."
+      }
+    },
+    {
+      "num": 2,
+      "geez": "እትነሣእ፡ ወአዐውድ፡ ሀገረ። ውስተ፡ ምሥያጣት፡ ወውስተ፡ መራሕብት። እኅሥሥ፡ ዘአፍቀረት፡ ነፍስየ። ኀሠሥክዎ፡ ወኢረከብክዎ። ጸዋዕክዎ፡ ወኢተሰጥወኒ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እትነሣእ",
+          "t": "ʾətənäśaʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወአዐውድ",
+          "t": "wäʾäʿäwədə",
+          "gl": ""
+        },
+        {
+          "g": "ሀገረ",
+          "t": "hägärä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምሥያጣት",
+          "t": "məśəyaṭatə",
+          "gl": ""
+        },
+        {
+          "g": "ወውስተ",
+          "t": "wäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "መራሕብት",
+          "t": "märaḥəbətə",
+          "gl": ""
+        },
+        {
+          "g": "እኅሥሥ",
+          "t": "ʾəḫəśəśə",
+          "gl": ""
+        },
+        {
+          "g": "ዘአፍቀረት",
+          "t": "zäʾäfəqärätə",
+          "gl": ""
+        },
+        {
+          "g": "ነፍስየ",
+          "t": "näfəsəyä",
+          "gl": ""
+        },
+        {
+          "g": "ኀሠሥክዎ",
+          "t": "ḫäśäśəkəwo",
+          "gl": ""
+        },
+        {
+          "g": "ወኢረከብክዎ",
+          "t": "wäʾiräkäbəkəwo",
+          "gl": ""
+        },
+        {
+          "g": "ጸዋዕክዎ",
+          "t": "ṣäwaʿəkəwo",
+          "gl": ""
+        },
+        {
+          "g": "ወኢተሰጥወኒ",
+          "t": "wäʾitäsäṭəwäni",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "I will rise now, and go about in the city, in the market-places, and in the streets, and I will seek him whom my soul loves: I sought him, but I found him not.",
+        "kjv": "I will rise now, and go about the city in the streets, and in the broad ways I will seek him whom my soul loveth: I sought him, but I found him not."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ረከቡኒ፡ መዓቅብት፡ እለ፡ የዐቅቡ፡ ሀገረ። ርኢክሙኑ፡ ዘአፍቀረት፡ ነፍስየ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ረከቡኒ",
+          "t": "räkäbuni",
+          "gl": ""
+        },
+        {
+          "g": "መዓቅብት",
+          "t": "mäʿaqəbətə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "የዐቅቡ",
+          "t": "yäʿäqəbu",
+          "gl": ""
+        },
+        {
+          "g": "ሀገረ",
+          "t": "hägärä",
+          "gl": ""
+        },
+        {
+          "g": "ርኢክሙኑ",
+          "t": "rəʾikəmunu",
+          "gl": ""
+        },
+        {
+          "g": "ዘአፍቀረት",
+          "t": "zäʾäfəqärätə",
+          "gl": ""
+        },
+        {
+          "g": "ነፍስየ",
+          "t": "näfəsəyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The watchmen who go their rounds in the city found me. I said, Have ye seen him whom my soul loves?",
+        "kjv": "The watchmen that go about the city found me: to whom I said, Saw ye him whom my soul loveth?"
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ንስቲተ፡ ኀሊፍየ፡ እምኔሆሙ። ይእተ፡ ጊዜ፡ ረከብኩ፡ ዘአፍቀረት፡ ነፍስየ። አኀዝክዎ፡ ወኢየኀድጎ። እስከ፡ ሶበ፡ አባእክዎ፡ ውስተ፡ ቤተ፡ እምየ። ወውስተ፡ ውሳጥያቲሃ፡ ለእንተ፡ ሐፀነተኒ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ንስቲተ",
+          "t": "nəsətitä",
+          "gl": ""
+        },
+        {
+          "g": "ኀሊፍየ",
+          "t": "ḫälifəyä",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሆሙ",
+          "t": "ʾəmənehomu",
+          "gl": ""
+        },
+        {
+          "g": "ይእተ",
+          "t": "yəʾətä",
+          "gl": ""
+        },
+        {
+          "g": "ጊዜ",
+          "t": "gize",
+          "gl": ""
+        },
+        {
+          "g": "ረከብኩ",
+          "t": "räkäbəku",
+          "gl": ""
+        },
+        {
+          "g": "ዘአፍቀረት",
+          "t": "zäʾäfəqärätə",
+          "gl": ""
+        },
+        {
+          "g": "ነፍስየ",
+          "t": "näfəsəyä",
+          "gl": ""
+        },
+        {
+          "g": "አኀዝክዎ",
+          "t": "ʾäḫäzəkəwo",
+          "gl": ""
+        },
+        {
+          "g": "ወኢየኀድጎ",
+          "t": "wäʾiyäḫädəgo",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ሶበ",
+          "t": "sobä",
+          "gl": ""
+        },
+        {
+          "g": "አባእክዎ",
+          "t": "ʾäbaʾəkəwo",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ቤተ",
+          "t": "betä",
+          "gl": ""
+        },
+        {
+          "g": "እምየ",
+          "t": "ʾəməyä",
+          "gl": ""
+        },
+        {
+          "g": "ወውስተ",
+          "t": "wäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ውሳጥያቲሃ",
+          "t": "wəsaṭəyatiha",
+          "gl": ""
+        },
+        {
+          "g": "ለእንተ",
+          "t": "läʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ሐፀነተኒ",
+          "t": "ḥäṣ́änätäni",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "It was as a little while after I parted from them, that I found him whom my soul loves: I held him, and did not let him go, until I brought him into my mother's house, and into the chamber of her that conceived me.",
+        "kjv": "It was but a little that I passed from them, but I found him whom my soul loveth: I held him, and would not let him go, until I had brought him into my mother’s house, and into the chamber of her that conceived me."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "አምሐልኩክን፡ አዋልደ፡ ኢየሩሳሌም። በኀይሉ፡ ወበጽንዑ፡ ለገዳም። አመ፡ ተንሥአ፡ ወአንሥአ፡ ኵሎ፡ ሙታነ። ኣፈቅሮ፡ እስከ፡ አመ፡ ፈቀደ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "አምሐልኩክን",
+          "t": "ʾäməḥäləkukənə",
+          "gl": ""
+        },
+        {
+          "g": "አዋልደ",
+          "t": "ʾäwalədä",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሩሳሌም",
+          "t": "ʾiyärusalemə",
+          "gl": ""
+        },
+        {
+          "g": "በኀይሉ",
+          "t": "bäḫäyəlu",
+          "gl": ""
+        },
+        {
+          "g": "ወበጽንዑ",
+          "t": "wäbäṣənəʿu",
+          "gl": ""
+        },
+        {
+          "g": "ለገዳም",
+          "t": "lägädamə",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ተንሥአ",
+          "t": "tänəśəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ወአንሥአ",
+          "t": "wäʾänəśəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ሙታነ",
+          "t": "mutanä",
+          "gl": ""
+        },
+        {
+          "g": "ኣፈቅሮ",
+          "t": "ʾafäqəro",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ፈቀደ",
+          "t": "fäqädä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "I have charged you, O daughters of Jerusalem, by the powers and by the virtues of the field, that ye rouse not nor awake my love, until he please.",
+        "kjv": "I charge you, O ye daughters of Jerusalem, by the roes, and by the hinds of the field, that ye stir not up, nor awake my love, till he please."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "መኑ፡ ይእቲ፡ ዛቲ፡ እንተ፡ ተዐርግ፡ እምገዳም። ከመ፡ ሠርጸ፡ ጢስ፡ ዕጥነታ። ወከመ፡ ደመና፡ ዘጠፈረ፡ ሰማይ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "መኑ",
+          "t": "mänu",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ዛቲ",
+          "t": "zati",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ተዐርግ",
+          "t": "täʿärəgə",
+          "gl": ""
+        },
+        {
+          "g": "እምገዳም",
+          "t": "ʾəməgädamə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ሠርጸ",
+          "t": "śärəṣä",
+          "gl": ""
+        },
+        {
+          "g": "ጢስ",
+          "t": "ṭisə",
+          "gl": ""
+        },
+        {
+          "g": "ዕጥነታ",
+          "t": "ʿəṭənäta",
+          "gl": ""
+        },
+        {
+          "g": "ወከመ",
+          "t": "wäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ደመና",
+          "t": "dämäna",
+          "gl": ""
+        },
+        {
+          "g": "ዘጠፈረ",
+          "t": "zäṭäfärä",
+          "gl": ""
+        },
+        {
+          "g": "ሰማይ",
+          "t": "sämayə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Who is this that comes up from the wilderness as pillars of smoke, perfumed with myrrh and frankincense, with all powders of the perfumer?",
+        "kjv": "Who is this that cometh out of the wilderness like pillars of smoke, perfumed with myrrh and frankincense, with all powders of the merchant?"
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ክልኤ፡ አጥባትኪ፡ ያውኅዛ፡ ሐሊበ። ከርቤ፡ ወስኂን፡ እምኵሉ፡ ጸበለ፡ አፌኔዎስ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ክልኤ",
+          "t": "kələʾe",
+          "gl": ""
+        },
+        {
+          "g": "አጥባትኪ",
+          "t": "ʾäṭəbatəki",
+          "gl": ""
+        },
+        {
+          "g": "ያውኅዛ",
+          "t": "yawəḫəza",
+          "gl": ""
+        },
+        {
+          "g": "ሐሊበ",
+          "t": "ḥälibä",
+          "gl": ""
+        },
+        {
+          "g": "ከርቤ",
+          "t": "kärəbe",
+          "gl": ""
+        },
+        {
+          "g": "ወስኂን",
+          "t": "wäsəḫinə",
+          "gl": ""
+        },
+        {
+          "g": "እምኵሉ",
+          "t": "ʾəməkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ጸበለ",
+          "t": "ṣäbälä",
+          "gl": ""
+        },
+        {
+          "g": "አፌኔዎስ",
+          "t": "ʾäfenewosə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Behold Solomon's bed; sixty mighty men of the mighty ones of Israel are round about it.",
+        "kjv": "Behold his bed, which is Solomon’s; threescore valiant men are about it, of the valiant of Israel."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ናሁ፡ ዐራቱ፡ ለሰሎሞን። ስሳ፡ ኀያላን፡ ዐውዳ፡ እምኀያላነ፡ እስራኤል።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ናሁ",
+          "t": "nahu",
+          "gl": ""
+        },
+        {
+          "g": "ዐራቱ",
+          "t": "ʿäratu",
+          "gl": ""
+        },
+        {
+          "g": "ለሰሎሞን",
+          "t": "läsälomonə",
+          "gl": ""
+        },
+        {
+          "g": "ስሳ",
+          "t": "səsa",
+          "gl": ""
+        },
+        {
+          "g": "ኀያላን",
+          "t": "ḫäyalanə",
+          "gl": ""
+        },
+        {
+          "g": "ዐውዳ",
+          "t": "ʿäwəda",
+          "gl": ""
+        },
+        {
+          "g": "እምኀያላነ",
+          "t": "ʾəməḫäyalanä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "They all hold a sword, being expert in war: every man has his sword upon his thigh because of fear by night.",
+        "kjv": "They all hold swords, being expert in war: every man hath his sword upon his thigh because of fear in the night."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ኵሎሙ፡ እኁዛነ፡ አስይፍት፡ ወምሁራነ፡ ቀትል። ብእሲ፡ ብእሲ፡ ሰይፉ፡ ዲበ፡ መንቅዕቱ። በድንጋፄ፡ ሌሊት።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "እኁዛነ",
+          "t": "ʾəḫuzanä",
+          "gl": ""
+        },
+        {
+          "g": "አስይፍት",
+          "t": "ʾäsəyəfətə",
+          "gl": ""
+        },
+        {
+          "g": "ወምሁራነ",
+          "t": "wäməhuranä",
+          "gl": ""
+        },
+        {
+          "g": "ቀትል",
+          "t": "qätələ",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ሰይፉ",
+          "t": "säyəfu",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "መንቅዕቱ",
+          "t": "mänəqəʿətu",
+          "gl": ""
+        },
+        {
+          "g": "በድንጋፄ",
+          "t": "bädənəgaṣ́e",
+          "gl": ""
+        },
+        {
+          "g": "ሌሊት",
+          "t": "lelitə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "King Solomon made himself a litter of woods of Lebanon.",
+        "kjv": "King Solomon made himself a chariot of the wood of Lebanon."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "መጾረ፡ ገብረ፡ ለርእሱ፡ ንጉሥ፡ ሰሎሞን፡ እምዕፀወ፡ ሊባኖስ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "መጾረ",
+          "t": "mäṣorä",
+          "gl": ""
+        },
+        {
+          "g": "ገብረ",
+          "t": "gäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ለርእሱ",
+          "t": "lärəʾəsu",
+          "gl": ""
+        },
+        {
+          "g": "ንጉሥ",
+          "t": "nəguśə",
+          "gl": ""
+        },
+        {
+          "g": "ሰሎሞን",
+          "t": "sälomonə",
+          "gl": ""
+        },
+        {
+          "g": "እምዕፀወ",
+          "t": "ʾəməʿəṣ́äwä",
+          "gl": ""
+        },
+        {
+          "g": "ሊባኖስ",
+          "t": "libanosə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "He made the pillars of it silver, the bottom of it gold, the covering of it scarlet, in the midst of it a pavement of love, for the daughters of Jerusalem.",
+        "kjv": "He made the pillars thereof of silver, the bottom thereof of gold, the covering of it of purple, the midst thereof being paved with love, for the daughters of Jerusalem."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "አዕማዲሁ፡ ገብረ፡ ዘብሩር። ሰርዲኖስ፡ ምስለ፡ ተርሴስ። ኢዮጶሎግዮስ፡ ዘምስለ፡ ሶፎር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "አዕማዲሁ",
+          "t": "ʾäʿəmadihu",
+          "gl": ""
+        },
+        {
+          "g": "ገብረ",
+          "t": "gäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ዘብሩር",
+          "t": "zäbərurə",
+          "gl": ""
+        },
+        {
+          "g": "ሰርዲኖስ",
+          "t": "särədinosə",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ተርሴስ",
+          "t": "tärəsesə",
+          "gl": ""
+        },
+        {
+          "g": "ኢዮጶሎግዮስ",
+          "t": "ʾiyoṗologəyosə",
+          "gl": ""
+        },
+        {
+          "g": "ዘምስለ",
+          "t": "zäməsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሶፎር",
+          "t": "soforə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Go forth, ye daughters of Sion, and behold king Solomon, with the crown wherewith his mother crowned him, in the day of his espousals, and in the day of the gladness of his heart.",
+        "kjv": "Go forth, O ye daughters of Zion, and behold king Solomon with the crown wherewith his mother crowned him in the day of his espousals, and in the day of the gladness of his heart."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ምስማኩ፡ ዘወርቅ። መንበሩ፡ ዘሜላት። አቊላፊሁ፡ ወአቊላፊሁ፡ ኢያሴምር። ኅንብርቱ፡ ዘቢረሌ፡ ዘምስለ፡ ኢያሰጲድ፡ በባሕርይ፡ ክዱን። ውስጡ፡ ንጡፍ፡ በእብነ፡ ሰንፔር። ኣፈቅሮ፡ ፈድፋደ፡ እምአዋልደ፡ ኢየሩሳሌም።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ምስማኩ",
+          "t": "məsəmaku",
+          "gl": ""
+        },
+        {
+          "g": "ዘወርቅ",
+          "t": "zäwärəqə",
+          "gl": ""
+        },
+        {
+          "g": "መንበሩ",
+          "t": "mänəbäru",
+          "gl": ""
+        },
+        {
+          "g": "ዘሜላት",
+          "t": "zämelatə",
+          "gl": ""
+        },
+        {
+          "g": "አቊላፊሁ",
+          "t": "ʾäqwilafihu",
+          "gl": ""
+        },
+        {
+          "g": "ወአቊላፊሁ",
+          "t": "wäʾäqwilafihu",
+          "gl": ""
+        },
+        {
+          "g": "ኢያሴምር",
+          "t": "ʾiyasemərə",
+          "gl": ""
+        },
+        {
+          "g": "ኅንብርቱ",
+          "t": "ḫənəbərətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘቢረሌ",
+          "t": "zäbiräle",
+          "gl": ""
+        },
+        {
+          "g": "ዘምስለ",
+          "t": "zäməsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኢያሰጲድ",
+          "t": "ʾiyasäṗidə",
+          "gl": ""
+        },
+        {
+          "g": "በባሕርይ",
+          "t": "bäbaḥərəyə",
+          "gl": ""
+        },
+        {
+          "g": "ክዱን",
+          "t": "kədunə",
+          "gl": ""
+        },
+        {
+          "g": "ውስጡ",
+          "t": "wəsəṭu",
+          "gl": ""
+        },
+        {
+          "g": "ንጡፍ",
+          "t": "nəṭufə",
+          "gl": ""
+        },
+        {
+          "g": "በእብነ",
+          "t": "bäʾəbənä",
+          "gl": ""
+        },
+        {
+          "g": "ሰንፔር",
+          "t": "sänəperə",
+          "gl": ""
+        },
+        {
+          "g": "ኣፈቅሮ",
+          "t": "ʾafäqəro",
+          "gl": ""
+        },
+        {
+          "g": "ፈድፋደ",
+          "t": "fädəfadä",
+          "gl": ""
+        },
+        {
+          "g": "እምአዋልደ",
+          "t": "ʾəməʾäwalədä",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሩሳሌም",
+          "t": "ʾiyärusalemə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 13,
+      "geez": "ፃኣ፡ ትርአያ፡ አዋልደ፡ ጽዮን። ለንጉሥ፡ ሰሎሞን። በአክሊል፡ ዘአስተቀጸለቶ፡ እሙ። አመ፡ ዕለተ፡ ሕማሙ፡ ወአመ፡ ዕለተ፡ ስቅለቱ። ወአመ፡ ዕለተ፡ መርዓሁ፡ ወአመ፡ ዕለተ፡ ፍሥሓ፡ ልቡ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ፃኣ",
+          "t": "ṣ́aʾa",
+          "gl": ""
+        },
+        {
+          "g": "ትርአያ",
+          "t": "tərəʾäya",
+          "gl": ""
+        },
+        {
+          "g": "አዋልደ",
+          "t": "ʾäwalədä",
+          "gl": ""
+        },
+        {
+          "g": "ጽዮን",
+          "t": "ṣəyonə",
+          "gl": ""
+        },
+        {
+          "g": "ለንጉሥ",
+          "t": "länəguśə",
+          "gl": ""
+        },
+        {
+          "g": "ሰሎሞን",
+          "t": "sälomonə",
+          "gl": ""
+        },
+        {
+          "g": "በአክሊል",
+          "t": "bäʾäkəlilə",
+          "gl": ""
+        },
+        {
+          "g": "ዘአስተቀጸለቶ",
+          "t": "zäʾäsətäqäṣäläto",
+          "gl": ""
+        },
+        {
+          "g": "እሙ",
+          "t": "ʾəmu",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ዕለተ",
+          "t": "ʿəlätä",
+          "gl": ""
+        },
+        {
+          "g": "ሕማሙ",
+          "t": "ḥəmamu",
+          "gl": ""
+        },
+        {
+          "g": "ወአመ",
+          "t": "wäʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ዕለተ",
+          "t": "ʿəlätä",
+          "gl": ""
+        },
+        {
+          "g": "ስቅለቱ",
+          "t": "səqəlätu",
+          "gl": ""
+        },
+        {
+          "g": "ወአመ",
+          "t": "wäʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ዕለተ",
+          "t": "ʿəlätä",
+          "gl": ""
+        },
+        {
+          "g": "መርዓሁ",
+          "t": "märəʿahu",
+          "gl": ""
+        },
+        {
+          "g": "ወአመ",
+          "t": "wäʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ዕለተ",
+          "t": "ʿəlätä",
+          "gl": ""
+        },
+        {
+          "g": "ፍሥሓ",
+          "t": "fəśəḥa",
+          "gl": ""
+        },
+        {
+          "g": "ልቡ",
+          "t": "ləbu",
+          "gl": ""
+        }
+      ]
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    }
+  }
+}

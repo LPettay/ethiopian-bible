@@ -1,0 +1,3324 @@
+{
+  "book": "Gen",
+  "chapter": 27,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወኮነ ፡ እምድኅረ ፡ ልህቀ ፡ ይስሐቅ ፡ ረሥአ ፡ ወተሐምጋ ፡ አዕይንቲሁ ፡ ወኢይሬኢ ፡ ወጸውዖ ፡ ለዔሳው ፡ ወልዱ ፡\n                  ዘይልህቅ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኮነ",
+          "t": "wäkonä",
+          "gl": ""
+        },
+        {
+          "g": "እምድኅረ",
+          "t": "ʾəmədəḫərä",
+          "gl": ""
+        },
+        {
+          "g": "ልህቀ",
+          "t": "ləhəqä",
+          "gl": ""
+        },
+        {
+          "g": "ይስሐቅ",
+          "t": "yəsəḥäqə",
+          "gl": ""
+        },
+        {
+          "g": "ረሥአ",
+          "t": "räśəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ወተሐምጋ",
+          "t": "wätäḥäməga",
+          "gl": ""
+        },
+        {
+          "g": "አዕይንቲሁ",
+          "t": "ʾäʿəyənətihu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይሬኢ",
+          "t": "wäʾiyəreʾi",
+          "gl": ""
+        },
+        {
+          "g": "ወጸውዖ",
+          "t": "wäṣäwəʿo",
+          "gl": ""
+        },
+        {
+          "g": "ለዔሳው",
+          "t": "läʿesawə",
+          "gl": ""
+        },
+        {
+          "g": "ወልዱ",
+          "t": "wälədu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይልህቅ",
+          "t": "zäyələhəqə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it came to pass after Isaac was old, that his eyes were dimmed so that he could not see; and he called Esau, his elder son, and said to him, My son; and he said, Behold, I am here.",
+        "kjv": "And it came to pass, that when Isaac was old, and his eyes were dim, so that he could not see, he called Esau his eldest son, and said unto him, My son: and he said unto him, Behold, here am I."
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ወይቤሎ ፡ ናሁ ፡ ረሣዕኩ ፡ ወኢያአምር ፡ ዕለተ ፡ ሞትየ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ናሁ",
+          "t": "nahu",
+          "gl": ""
+        },
+        {
+          "g": "ረሣዕኩ",
+          "t": "räśaʿəku",
+          "gl": ""
+        },
+        {
+          "g": "ወኢያአምር",
+          "t": "wäʾiyaʾämərə",
+          "gl": ""
+        },
+        {
+          "g": "ዕለተ",
+          "t": "ʿəlätä",
+          "gl": ""
+        },
+        {
+          "g": "ሞትየ",
+          "t": "motəyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he said, Behold, I am grown old, and know not the day of my death.",
+        "kjv": "And he said, Behold now, I am old, I know not the day of my death:"
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወይእዜኒ ፡ ንሣእ ፡ ንዋየ ፡ ሐቅልከ ፡ ምጐንጳከ ፡ ወቀስተከ ፡ ወፃእ ፡ ሐቅለ ፡ ወነዐው ፡ ሊተ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይእዜኒ",
+          "t": "wäyəʾəzeni",
+          "gl": ""
+        },
+        {
+          "g": "ንሣእ",
+          "t": "nəśaʾə",
+          "gl": ""
+        },
+        {
+          "g": "ንዋየ",
+          "t": "nəwayä",
+          "gl": ""
+        },
+        {
+          "g": "ሐቅልከ",
+          "t": "ḥäqələkä",
+          "gl": ""
+        },
+        {
+          "g": "ምጐንጳከ",
+          "t": "məgwänəṗakä",
+          "gl": ""
+        },
+        {
+          "g": "ወቀስተከ",
+          "t": "wäqäsətäkä",
+          "gl": ""
+        },
+        {
+          "g": "ወፃእ",
+          "t": "wäṣ́aʾə",
+          "gl": ""
+        },
+        {
+          "g": "ሐቅለ",
+          "t": "ḥäqəlä",
+          "gl": ""
+        },
+        {
+          "g": "ወነዐው",
+          "t": "wänäʿäwə",
+          "gl": ""
+        },
+        {
+          "g": "ሊተ",
+          "t": "litä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Now then take thy weapons, both thy quiver and thy bow, and go into the plain, and get me venison,",
+        "kjv": "Now therefore take, I pray thee, thy weapons, thy quiver and thy bow, and go out to the field, and take me some venison;"
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወግበር ፡ ሊተ ፡ መብልዐ ፡ ዘከመ ፡ ኣፈቅር ፡ ወአምጽእ ፡ ሊተ ፡ እብላዕ ፡ ወከመ ፡ ትባርክ ፡ ነፍስየ ፡ ዘእንበለ ፡\n                  እሙት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወግበር",
+          "t": "wägəbärə",
+          "gl": ""
+        },
+        {
+          "g": "ሊተ",
+          "t": "litä",
+          "gl": ""
+        },
+        {
+          "g": "መብልዐ",
+          "t": "mäbələʿä",
+          "gl": ""
+        },
+        {
+          "g": "ዘከመ",
+          "t": "zäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ኣፈቅር",
+          "t": "ʾafäqərə",
+          "gl": ""
+        },
+        {
+          "g": "ወአምጽእ",
+          "t": "wäʾäməṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ሊተ",
+          "t": "litä",
+          "gl": ""
+        },
+        {
+          "g": "እብላዕ",
+          "t": "ʾəbəlaʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወከመ",
+          "t": "wäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ትባርክ",
+          "t": "təbarəkə",
+          "gl": ""
+        },
+        {
+          "g": "ነፍስየ",
+          "t": "näfəsəyä",
+          "gl": ""
+        },
+        {
+          "g": "ዘእንበለ",
+          "t": "zäʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "እሙት",
+          "t": "ʾəmutə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and make me meats, as I like them, and bring them to me that I may eat, that my soul may bless thee, before I die.",
+        "kjv": "And make me savoury meat, such as I love, and bring it to me, that I may eat; that my soul may bless thee before I die."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወሰምዐቶ ፡ ርብቃ ፡ ለይስሐቅ ፡ እንዘ ፡ ይብሎ ፡ ከመዝ ፡ ለዔሳው ፡ ወልዱ ፡ ወሖረ ፡ ዔሳው ፡ ሐቅለ ፡ ይንዐው ፡\n                  ለአቡሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሰምዐቶ",
+          "t": "wäsäməʿäto",
+          "gl": ""
+        },
+        {
+          "g": "ርብቃ",
+          "t": "rəbəqa",
+          "gl": ""
+        },
+        {
+          "g": "ለይስሐቅ",
+          "t": "läyəsəḥäqə",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ይብሎ",
+          "t": "yəbəlo",
+          "gl": ""
+        },
+        {
+          "g": "ከመዝ",
+          "t": "kämäzə",
+          "gl": ""
+        },
+        {
+          "g": "ለዔሳው",
+          "t": "läʿesawə",
+          "gl": ""
+        },
+        {
+          "g": "ወልዱ",
+          "t": "wälədu",
+          "gl": ""
+        },
+        {
+          "g": "ወሖረ",
+          "t": "wäḥorä",
+          "gl": ""
+        },
+        {
+          "g": "ዔሳው",
+          "t": "ʿesawə",
+          "gl": ""
+        },
+        {
+          "g": "ሐቅለ",
+          "t": "ḥäqəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይንዐው",
+          "t": "yənəʿäwə",
+          "gl": ""
+        },
+        {
+          "g": "ለአቡሁ",
+          "t": "läʾäbuhu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Rebecca heard Isaac speaking to Esau his son; and Esau went to the plain to procure venison for his father.",
+        "kjv": "And Rebekah heard when Isaac spake to Esau his son. And Esau went to the field to hunt for venison, and to bring it."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወትቤሎ ፡ ርብቃ ፡ ሊያዕቆብ ፡ ወልደ ፡ ዘይንእስ ፡ ናሁ ፡ አነ ፡ ሰማዕክዎ ፡ ለአቡከ ፡ እንዘ ፡ ይብሎ ፡ ለዔሳው ፡\n                  እኁከ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትቤሎ",
+          "t": "wätəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ርብቃ",
+          "t": "rəbəqa",
+          "gl": ""
+        },
+        {
+          "g": "ሊያዕቆብ",
+          "t": "liyaʿəqobə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ዘይንእስ",
+          "t": "zäyənəʾəsə",
+          "gl": ""
+        },
+        {
+          "g": "ናሁ",
+          "t": "nahu",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "ሰማዕክዎ",
+          "t": "sämaʿəkəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለአቡከ",
+          "t": "läʾäbukä",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ይብሎ",
+          "t": "yəbəlo",
+          "gl": ""
+        },
+        {
+          "g": "ለዔሳው",
+          "t": "läʿesawə",
+          "gl": ""
+        },
+        {
+          "g": "እኁከ",
+          "t": "ʾəḫukä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Rebecca said to Jacob her younger son, Behold, I heard thy father speaking to Esau thy brother, saying,",
+        "kjv": "And Rebekah spake unto Jacob her son, saying, Behold, I heard thy father speak unto Esau thy brother, saying,"
+      }
+    },
+    {
+      "num": 7,
+      "geez": "አምጽእ ፡ ሊተ ፡ እምነ ፡ ዘነዐውከ ፡ ወግበር ፡ ሊተ ፡ መባልዕተ ፡ ወእባርከ ፡ ቅድመ ፡ እግዚአብሔር ፡ ዘእንበለ ፡\n                  እሙት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "አምጽእ",
+          "t": "ʾäməṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ሊተ",
+          "t": "litä",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ዘነዐውከ",
+          "t": "zänäʿäwəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወግበር",
+          "t": "wägəbärə",
+          "gl": ""
+        },
+        {
+          "g": "ሊተ",
+          "t": "litä",
+          "gl": ""
+        },
+        {
+          "g": "መባልዕተ",
+          "t": "mäbaləʿətä",
+          "gl": ""
+        },
+        {
+          "g": "ወእባርከ",
+          "t": "wäʾəbarəkä",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእንበለ",
+          "t": "zäʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "እሙት",
+          "t": "ʾəmutə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Bring me venison, and prepare me meats, that I may eat and bless thee before the Lord before I die.",
+        "kjv": "Bring me venison, and make me savoury meat, that I may eat, and bless thee before the LORD before my death."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወይእዜኒ ፡ ወልድየ ፡ ስምዐኒ ፡ ዘከመ ፡ እቤለከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይእዜኒ",
+          "t": "wäyəʾəzeni",
+          "gl": ""
+        },
+        {
+          "g": "ወልድየ",
+          "t": "wälədəyä",
+          "gl": ""
+        },
+        {
+          "g": "ስምዐኒ",
+          "t": "səməʿäni",
+          "gl": ""
+        },
+        {
+          "g": "ዘከመ",
+          "t": "zäkämä",
+          "gl": ""
+        },
+        {
+          "g": "እቤለከ",
+          "t": "ʾəbeläkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Now then, my son, hearken to me, as I command thee.",
+        "kjv": "Now therefore, my son, obey my voice according to that which I command thee."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወሑር ፡ ኀበ ፡ አባግዒነ ፡ ወአምጽእ ፡ ሊተ ፡ ክልኤተ ፡ መሓስአ ፡ በኵረ ፡ ሠናያነ ፡ ወእግበሮሙ ፡ መብልዐ ፡ ለአቡከ\n                  ፡ ዘከመ ፡ ያፈቅር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሑር",
+          "t": "wäḥurə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "አባግዒነ",
+          "t": "ʾäbagəʿinä",
+          "gl": ""
+        },
+        {
+          "g": "ወአምጽእ",
+          "t": "wäʾäməṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ሊተ",
+          "t": "litä",
+          "gl": ""
+        },
+        {
+          "g": "ክልኤተ",
+          "t": "kələʾetä",
+          "gl": ""
+        },
+        {
+          "g": "መሓስአ",
+          "t": "mäḥasəʾä",
+          "gl": ""
+        },
+        {
+          "g": "በኵረ",
+          "t": "bäkwərä",
+          "gl": ""
+        },
+        {
+          "g": "ሠናያነ",
+          "t": "śänayanä",
+          "gl": ""
+        },
+        {
+          "g": "ወእግበሮሙ",
+          "t": "wäʾəgəbäromu",
+          "gl": ""
+        },
+        {
+          "g": "መብልዐ",
+          "t": "mäbələʿä",
+          "gl": ""
+        },
+        {
+          "g": "ለአቡከ",
+          "t": "läʾäbukä",
+          "gl": ""
+        },
+        {
+          "g": "ዘከመ",
+          "t": "zäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ያፈቅር",
+          "t": "yafäqərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And go to the cattle and take for me thence two kids, tender and good, and I will make them meats for thy father, as he likes.",
+        "kjv": "Go now to the flock, and fetch me from thence two good kids of the goats; and I will make them savoury meat for thy father, such as he loveth:"
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወትሰድ ፡ ለአቡከ ፡ ወይብላዕ ፡ ወይባርከ ፡ ዘእንበለ ፡ ይሙት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትሰድ",
+          "t": "wätəsädə",
+          "gl": ""
+        },
+        {
+          "g": "ለአቡከ",
+          "t": "läʾäbukä",
+          "gl": ""
+        },
+        {
+          "g": "ወይብላዕ",
+          "t": "wäyəbəlaʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወይባርከ",
+          "t": "wäyəbarəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዘእንበለ",
+          "t": "zäʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "ይሙት",
+          "t": "yəmutə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And thou shalt bring them in to thy father, and he shall eat, that thy father may bless thee before he dies.",
+        "kjv": "And thou shalt bring it to thy father, that he may eat, and that he may bless thee before his death."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወይቤላ ፡ ያዕቆብ ፡ ለርብቃ ፡ እሙ ፡ ናሁ ፡ ዔሳው ፡ እኁየ ፡ ጸጓር ፡ ውእቱ ፡ ወአንሴ ፡ ኢኮንኩ ፡ ጸጓረ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤላ",
+          "t": "wäyəbela",
+          "gl": ""
+        },
+        {
+          "g": "ያዕቆብ",
+          "t": "yaʿəqobə",
+          "gl": ""
+        },
+        {
+          "g": "ለርብቃ",
+          "t": "lärəbəqa",
+          "gl": ""
+        },
+        {
+          "g": "እሙ",
+          "t": "ʾəmu",
+          "gl": ""
+        },
+        {
+          "g": "ናሁ",
+          "t": "nahu",
+          "gl": ""
+        },
+        {
+          "g": "ዔሳው",
+          "t": "ʿesawə",
+          "gl": ""
+        },
+        {
+          "g": "እኁየ",
+          "t": "ʾəḫuyä",
+          "gl": ""
+        },
+        {
+          "g": "ጸጓር",
+          "t": "ṣägwarə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ወአንሴ",
+          "t": "wäʾänəse",
+          "gl": ""
+        },
+        {
+          "g": "ኢኮንኩ",
+          "t": "ʾikonəku",
+          "gl": ""
+        },
+        {
+          "g": "ጸጓረ",
+          "t": "ṣägwarä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Jacob said to his mother Rebecca, Esau my brother is a hairy man, and I a smooth man.",
+        "kjv": "And Jacob said to Rebekah his mother, Behold, Esau my brother is a hairy man, and I am a smooth man:"
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወዮጊ ፡ ይገስሰኒ ፡ አቡየ ፡ ወእከውን ፡ በቅድሜሁ ፡ ከመ ፡ ዘአስተሐቀሮ ፡ ወኣመጽእ ፡ ላዕሌየ ፡ መርገመ ፡ ወአኮ ፡\n                  በረከተ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዮጊ",
+          "t": "wäyogi",
+          "gl": ""
+        },
+        {
+          "g": "ይገስሰኒ",
+          "t": "yəgäsəsäni",
+          "gl": ""
+        },
+        {
+          "g": "አቡየ",
+          "t": "ʾäbuyä",
+          "gl": ""
+        },
+        {
+          "g": "ወእከውን",
+          "t": "wäʾəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "በቅድሜሁ",
+          "t": "bäqədəmehu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ዘአስተሐቀሮ",
+          "t": "zäʾäsətäḥäqäro",
+          "gl": ""
+        },
+        {
+          "g": "ወኣመጽእ",
+          "t": "wäʾamäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌየ",
+          "t": "laʿəleyä",
+          "gl": ""
+        },
+        {
+          "g": "መርገመ",
+          "t": "märəgämä",
+          "gl": ""
+        },
+        {
+          "g": "ወአኮ",
+          "t": "wäʾäko",
+          "gl": ""
+        },
+        {
+          "g": "በረከተ",
+          "t": "bäräkätä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Peradventure my father may feel me, and I shall be before him as one ill-intentioned, and I shall bring upon me a curse, and not a blessing.",
+        "kjv": "My father peradventure will feel me, and I shall seem to him as a deceiver; and I shall bring a curse upon me, and not a blessing."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወትቤሎ ፡ እሙ ፡ ላዕሌየ ፡ ይኩን ፡ ወልድየ ፡ መርገምከ ፡ ወዳእሙ ፡ ስምዐኒ ፡ ወሑር ፡ ወአምጽእ ፡ ሊት ፡ ዘእቤለከ\n                  ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትቤሎ",
+          "t": "wätəbelo",
+          "gl": ""
+        },
+        {
+          "g": "እሙ",
+          "t": "ʾəmu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌየ",
+          "t": "laʿəleyä",
+          "gl": ""
+        },
+        {
+          "g": "ይኩን",
+          "t": "yəkunə",
+          "gl": ""
+        },
+        {
+          "g": "ወልድየ",
+          "t": "wälədəyä",
+          "gl": ""
+        },
+        {
+          "g": "መርገምከ",
+          "t": "märəgäməkä",
+          "gl": ""
+        },
+        {
+          "g": "ወዳእሙ",
+          "t": "wädaʾəmu",
+          "gl": ""
+        },
+        {
+          "g": "ስምዐኒ",
+          "t": "səməʿäni",
+          "gl": ""
+        },
+        {
+          "g": "ወሑር",
+          "t": "wäḥurə",
+          "gl": ""
+        },
+        {
+          "g": "ወአምጽእ",
+          "t": "wäʾäməṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ሊት",
+          "t": "litə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእቤለከ",
+          "t": "zäʾəbeläkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And his mother said to him, On me be thy curse, son; only hearken to my voice, and go and bring them me.",
+        "kjv": "And his mother said unto him, Upon me be thy curse, my son: only obey my voice, and go fetch me them."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወሖረ ፡ ወአምጽአ ፡ ላቲ ፡ ለእሙ ፡ ወአስተደለወት ፡ መብልዐ ፡ ዘከመ ፡ ያፈቅር ፡ ለአቡሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሖረ",
+          "t": "wäḥorä",
+          "gl": ""
+        },
+        {
+          "g": "ወአምጽአ",
+          "t": "wäʾäməṣəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ላቲ",
+          "t": "lati",
+          "gl": ""
+        },
+        {
+          "g": "ለእሙ",
+          "t": "läʾəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወአስተደለወት",
+          "t": "wäʾäsətädäläwätə",
+          "gl": ""
+        },
+        {
+          "g": "መብልዐ",
+          "t": "mäbələʿä",
+          "gl": ""
+        },
+        {
+          "g": "ዘከመ",
+          "t": "zäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ያፈቅር",
+          "t": "yafäqərə",
+          "gl": ""
+        },
+        {
+          "g": "ለአቡሁ",
+          "t": "läʾäbuhu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "So he went and took and brought them to his mother; and his mother made meats, as his father liked them.",
+        "kjv": "And he went, and fetched, and brought them to his mother: and his mother made savoury meat, such as his father loved."
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ወነሥአት ፡ ርብቃ ፡ አልባሲሁ ፡ ለዔሳው ፡ ወልዳ ፡ ዘይልህቅ ፡ ዘይሤኒ ፡ ዘሀሎ ፡ ኀቤሃ ፡ ወአልበሰቶ ፡ ለያዕቆብ ፡\n                  ወልዳ ፡ ዘይንእስ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነሥአት",
+          "t": "wänäśəʾätə",
+          "gl": ""
+        },
+        {
+          "g": "ርብቃ",
+          "t": "rəbəqa",
+          "gl": ""
+        },
+        {
+          "g": "አልባሲሁ",
+          "t": "ʾäləbasihu",
+          "gl": ""
+        },
+        {
+          "g": "ለዔሳው",
+          "t": "läʿesawə",
+          "gl": ""
+        },
+        {
+          "g": "ወልዳ",
+          "t": "wäləda",
+          "gl": ""
+        },
+        {
+          "g": "ዘይልህቅ",
+          "t": "zäyələhəqə",
+          "gl": ""
+        },
+        {
+          "g": "ዘይሤኒ",
+          "t": "zäyəśeni",
+          "gl": ""
+        },
+        {
+          "g": "ዘሀሎ",
+          "t": "zähälo",
+          "gl": ""
+        },
+        {
+          "g": "ኀቤሃ",
+          "t": "ḫäbeha",
+          "gl": ""
+        },
+        {
+          "g": "ወአልበሰቶ",
+          "t": "wäʾäləbäsäto",
+          "gl": ""
+        },
+        {
+          "g": "ለያዕቆብ",
+          "t": "läyaʿəqobə",
+          "gl": ""
+        },
+        {
+          "g": "ወልዳ",
+          "t": "wäləda",
+          "gl": ""
+        },
+        {
+          "g": "ዘይንእስ",
+          "t": "zäyənəʾəsə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Rebecca having taken the fine raiment of her elder son Esau which was with her in the house, put it on Jacob her younger son.",
+        "kjv": "And Rebekah took goodly raiment of her eldest son Esau, which were with her in the house, and put them upon Jacob her younger son:"
+      }
+    },
+    {
+      "num": 16,
+      "geez": "ወዝክተሂ ፡ አምእስቲሆሙ ፡ ለክልኤቱ ፡ ማሕስእ ፡ ወደየት ፡ ውስተ ፡ መታክፈሁ ፡ ወውስተ ፡ ክሳዱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዝክተሂ",
+          "t": "wäzəkətähi",
+          "gl": ""
+        },
+        {
+          "g": "አምእስቲሆሙ",
+          "t": "ʾäməʾəsətihomu",
+          "gl": ""
+        },
+        {
+          "g": "ለክልኤቱ",
+          "t": "läkələʾetu",
+          "gl": ""
+        },
+        {
+          "g": "ማሕስእ",
+          "t": "maḥəsəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወደየት",
+          "t": "wädäyätə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "መታክፈሁ",
+          "t": "mätakəfähu",
+          "gl": ""
+        },
+        {
+          "g": "ወውስተ",
+          "t": "wäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ክሳዱ",
+          "t": "kəsadu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And she put on his arms the skins of the kids, and on the bare parts of his neck.",
+        "kjv": "And she put the skins of the kids of the goats upon his hands, and upon the smooth of his neck:"
+      }
+    },
+    {
+      "num": 17,
+      "geez": "ወወሀበቶ ፡ ዝኰ ፡ መብልዐ ፡ ወኅብስተኒ ፡ ዘገብረት ፡ ውስተ ፡ እዴሁ ፡ ለያዕቆብ ፡ ወልዳ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወወሀበቶ",
+          "t": "wäwähäbäto",
+          "gl": ""
+        },
+        {
+          "g": "ዝኰ",
+          "t": "zəkwä",
+          "gl": ""
+        },
+        {
+          "g": "መብልዐ",
+          "t": "mäbələʿä",
+          "gl": ""
+        },
+        {
+          "g": "ወኅብስተኒ",
+          "t": "wäḫəbəsətäni",
+          "gl": ""
+        },
+        {
+          "g": "ዘገብረት",
+          "t": "zägäbərätə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        },
+        {
+          "g": "ለያዕቆብ",
+          "t": "läyaʿəqobə",
+          "gl": ""
+        },
+        {
+          "g": "ወልዳ",
+          "t": "wäləda",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And she gave the meats, and the loaves which she had prepared, into the hands of Jacob her son.",
+        "kjv": "And she gave the savoury meat and the bread, which she had prepared, into the hand of her son Jacob."
+      }
+    },
+    {
+      "num": 18,
+      "geez": "ወአብአ ፡ ለአቡሁ ፡ ወይቤሎ ፡ አባ ፡ ወይቤሎ ፡ አቡሁ ፡ ነየ ፡ አነ ፡ መኑ ፡ አንተ ፡ ወልድየ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአብአ",
+          "t": "wäʾäbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ለአቡሁ",
+          "t": "läʾäbuhu",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "አባ",
+          "t": "ʾäba",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "አቡሁ",
+          "t": "ʾäbuhu",
+          "gl": ""
+        },
+        {
+          "g": "ነየ",
+          "t": "näyä",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "መኑ",
+          "t": "mänu",
+          "gl": ""
+        },
+        {
+          "g": "አንተ",
+          "t": "ʾänətä",
+          "gl": ""
+        },
+        {
+          "g": "ወልድየ",
+          "t": "wälədəyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he brought them to his father, and said, Father; and he said, Behold I am here; who art thou, son?",
+        "kjv": "And he came unto his father, and said, My father: and he said, Here am I; who art thou, my son?"
+      }
+    },
+    {
+      "num": 19,
+      "geez": "ወይቤሎ ፡ ያዕቆብ ፡ አነ ፡ ውእቱ ፡ ዔሳው ፡ ዘበኵርከ ፡ ገበርኩ ፡ ዘትቤለኒ ፡ ተንሥእ ፡ ንበር ፡ ወብላዕ ፡ እምነ ፡\n                  ዘነዐውኩ ፡ ለከ ፡ ከመ ፡ ትባርከኒ ፡ ነፍስከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ያዕቆብ",
+          "t": "yaʿəqobə",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዔሳው",
+          "t": "ʿesawə",
+          "gl": ""
+        },
+        {
+          "g": "ዘበኵርከ",
+          "t": "zäbäkwərəkä",
+          "gl": ""
+        },
+        {
+          "g": "ገበርኩ",
+          "t": "gäbärəku",
+          "gl": ""
+        },
+        {
+          "g": "ዘትቤለኒ",
+          "t": "zätəbeläni",
+          "gl": ""
+        },
+        {
+          "g": "ተንሥእ",
+          "t": "tänəśəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ንበር",
+          "t": "nəbärə",
+          "gl": ""
+        },
+        {
+          "g": "ወብላዕ",
+          "t": "wäbəlaʿə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ዘነዐውኩ",
+          "t": "zänäʿäwəku",
+          "gl": ""
+        },
+        {
+          "g": "ለከ",
+          "t": "läkä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ትባርከኒ",
+          "t": "təbarəkäni",
+          "gl": ""
+        },
+        {
+          "g": "ነፍስከ",
+          "t": "näfəsəkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Jacob said to his father, I, Esau thy first-born, have done as thou toldest me; rise, sit, and eat of my venison, that thy soul may bless me.",
+        "kjv": "And Jacob said unto his father, I am Esau thy first born; I have done according as thou badest me: arise, I pray thee, sit and eat of my venison, that thy soul may bless me."
+      }
+    },
+    {
+      "num": 20,
+      "geez": "ወይቤሎ ፡ ይስሐቅ ፡ ለወልዱ ፡ ምንትኑ ፡ ውእቱ ፡ ዝንቱ ፡ ዘአፍጠንከ ፡ ረኪበ ፡ ወልድየ ፡ ወይቤሎ ፡ ዘወሀበኒ ፡\n                  እግዚአብሔር ፡ አምላክከ ፡ ቅድሜየ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ይስሐቅ",
+          "t": "yəsəḥäqə",
+          "gl": ""
+        },
+        {
+          "g": "ለወልዱ",
+          "t": "läwälədu",
+          "gl": ""
+        },
+        {
+          "g": "ምንትኑ",
+          "t": "mənətənu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘአፍጠንከ",
+          "t": "zäʾäfəṭänəkä",
+          "gl": ""
+        },
+        {
+          "g": "ረኪበ",
+          "t": "räkibä",
+          "gl": ""
+        },
+        {
+          "g": "ወልድየ",
+          "t": "wälədəyä",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ዘወሀበኒ",
+          "t": "zäwähäbäni",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላክከ",
+          "t": "ʾäməlakəkä",
+          "gl": ""
+        },
+        {
+          "g": "ቅድሜየ",
+          "t": "qədəmeyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Isaac said to his son, What is this which thou hast quickly found? And he said, That which the Lord thy God presented before me.",
+        "kjv": "And Isaac said unto his son, How is it that thou hast found it so quickly, my son? And he said, Because the LORD thy God brought it to me."
+      }
+    },
+    {
+      "num": 21,
+      "geez": "ወይቤሎ ፡ ይስሐቅ ፡ ቅረበኒ ፡ ወእግስስከ ፡ ወልድየ ፡ ለእመ ፡ አንተኑ ፡ ውእቱ ፡ ዔሳው ፡ ወለእመ ፡ ኢኮንከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ይስሐቅ",
+          "t": "yəsəḥäqə",
+          "gl": ""
+        },
+        {
+          "g": "ቅረበኒ",
+          "t": "qəräbäni",
+          "gl": ""
+        },
+        {
+          "g": "ወእግስስከ",
+          "t": "wäʾəgəsəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወልድየ",
+          "t": "wälədəyä",
+          "gl": ""
+        },
+        {
+          "g": "ለእመ",
+          "t": "läʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "አንተኑ",
+          "t": "ʾänətänu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዔሳው",
+          "t": "ʿesawə",
+          "gl": ""
+        },
+        {
+          "g": "ወለእመ",
+          "t": "wäläʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኢኮንከ",
+          "t": "ʾikonəkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Isaac said to Jacob, Draw nigh to me, and I will feel thee, son, if thou art my son Esau or not.",
+        "kjv": "And Isaac said unto Jacob, Come near, I pray thee, that I may feel thee, my son, whether thou be my very son Esau or not."
+      }
+    },
+    {
+      "num": 22,
+      "geez": "ወቀርበ ፡ ያዕቆብ ፡ ኀበ ፡ ይስሐቅ ፡ አቡሁ ፡ [ወገሰሶ ፡] ወይቤ ፡ ይስሐቅ ፡ ቃልሰ ፡ ቃለ ፡ ያዕቆብ ፡ ወእደው ፡\n                  ዘዔሳው ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወቀርበ",
+          "t": "wäqärəbä",
+          "gl": ""
+        },
+        {
+          "g": "ያዕቆብ",
+          "t": "yaʿəqobə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ይስሐቅ",
+          "t": "yəsəḥäqə",
+          "gl": ""
+        },
+        {
+          "g": "አቡሁ",
+          "t": "ʾäbuhu",
+          "gl": ""
+        },
+        {
+          "g": "ወገሰሶ",
+          "t": "wägäsäso",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "ይስሐቅ",
+          "t": "yəsəḥäqə",
+          "gl": ""
+        },
+        {
+          "g": "ቃልሰ",
+          "t": "qaləsä",
+          "gl": ""
+        },
+        {
+          "g": "ቃለ",
+          "t": "qalä",
+          "gl": ""
+        },
+        {
+          "g": "ያዕቆብ",
+          "t": "yaʿəqobə",
+          "gl": ""
+        },
+        {
+          "g": "ወእደው",
+          "t": "wäʾədäwə",
+          "gl": ""
+        },
+        {
+          "g": "ዘዔሳው",
+          "t": "zäʿesawə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Jacob drew nigh to his father Isaac, and he felt him, and said, The voice is Jacob's voice, but the hands are the hands of Esau.",
+        "kjv": "And Jacob went near unto Isaac his father; and he felt him, and said, The voice is Jacob’s voice, but the hands are the hands of Esau."
+      }
+    },
+    {
+      "num": 23,
+      "geez": "ወኢያእመሮ ፡ እስመ ፡ እደዊሁ ፡ ጸጓር ፡ ከመ ፡ እደወ ፡ ዔሳው ፡ ወባረኮ ፡ ይስሐቅ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኢያእመሮ",
+          "t": "wäʾiyaʾəmäro",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "እደዊሁ",
+          "t": "ʾədäwihu",
+          "gl": ""
+        },
+        {
+          "g": "ጸጓር",
+          "t": "ṣägwarə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "እደወ",
+          "t": "ʾədäwä",
+          "gl": ""
+        },
+        {
+          "g": "ዔሳው",
+          "t": "ʿesawə",
+          "gl": ""
+        },
+        {
+          "g": "ወባረኮ",
+          "t": "wäbaräko",
+          "gl": ""
+        },
+        {
+          "g": "ይስሐቅ",
+          "t": "yəsəḥäqə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he knew him not, for his hands were as the hands of his brother Esau, hairy; and he blessed him,",
+        "kjv": "And he discerned him not, because his hands were hairy, as his brother Esau’s hands: so he blessed him."
+      }
+    },
+    {
+      "num": 24,
+      "geez": "ወይቤሎ ፡ አንተ ፡ ውእቱ ፡ ወልድየ ፡ ዔሳው ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "አንተ",
+          "t": "ʾänətä",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ወልድየ",
+          "t": "wälədəyä",
+          "gl": ""
+        },
+        {
+          "g": "ዔሳው",
+          "t": "ʿesawə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and he said, Art thou my son Esau? and he said, I am.",
+        "kjv": "And he said, Art thou my very son Esau? And he said, I am."
+      }
+    },
+    {
+      "num": 25,
+      "geez": "ወይቤሎ ፡ አምጽእ ፡ ሊተ ፡ እምነ ፡ ዘነዐውከ ፡ ወልድየ ፡ ከመ ፡ [እብላዕ ፡ ወ]ትባርከ ፡ ነፍስየ ፡ [ወአምጽአ ፡\n                  ሎቱ ፡ ወበልዐ ፡ ወአምጽአ ፡ ሎቱ ፡ ወይነ ፡ ወሰትየ ።]",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "አምጽእ",
+          "t": "ʾäməṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ሊተ",
+          "t": "litä",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ዘነዐውከ",
+          "t": "zänäʿäwəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወልድየ",
+          "t": "wälədəyä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "እብላዕ",
+          "t": "ʾəbəlaʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወትባርከ",
+          "t": "wätəbarəkä",
+          "gl": ""
+        },
+        {
+          "g": "ነፍስየ",
+          "t": "näfəsəyä",
+          "gl": ""
+        },
+        {
+          "g": "ወአምጽአ",
+          "t": "wäʾäməṣəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ወበልዐ",
+          "t": "wäbäləʿä",
+          "gl": ""
+        },
+        {
+          "g": "ወአምጽአ",
+          "t": "wäʾäməṣəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ወይነ",
+          "t": "wäyənä",
+          "gl": ""
+        },
+        {
+          "g": "ወሰትየ",
+          "t": "wäsätəyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he said, Bring hither, and I will eat of thy venison, son, that my soul may bless thee; and he brought it near to him, and he ate, and he brought him wine, and he drank.",
+        "kjv": "And he said, Bring it near to me, and I will eat of my son’s venison, that my soul may bless thee. And he brought it near to him, and he did eat: and he brought him wine, and he drank."
+      }
+    },
+    {
+      "num": 26,
+      "geez": "ወይቤሎ ፡ ይስሐቅ ፡ ቅረብ ፡ ወሰዐመኒ ፡ ወልድየ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ይስሐቅ",
+          "t": "yəsəḥäqə",
+          "gl": ""
+        },
+        {
+          "g": "ቅረብ",
+          "t": "qəräbə",
+          "gl": ""
+        },
+        {
+          "g": "ወሰዐመኒ",
+          "t": "wäsäʿämäni",
+          "gl": ""
+        },
+        {
+          "g": "ወልድየ",
+          "t": "wälədəyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Isaac his father said to him, Draw nigh to me, and kiss me, son.",
+        "kjv": "And his father Isaac said unto him, Come near now, and kiss me, my son."
+      }
+    },
+    {
+      "num": 27,
+      "geez": "ወቀርበ ፡ ወሰዐሞ ፡ ወአጼነዎ ፡ ወጼነዎ ፡ ጼና ፡ አልባሲሁ ፡ ወይቤ ፡ ናሁ ፡ ጼናሁ ፡ ለወልድየ ፡ ጼና ፡ ገዳም ፡\n                  ጥቀ ፡ ዘባረኮ ፡ እግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወቀርበ",
+          "t": "wäqärəbä",
+          "gl": ""
+        },
+        {
+          "g": "ወሰዐሞ",
+          "t": "wäsäʿämo",
+          "gl": ""
+        },
+        {
+          "g": "ወአጼነዎ",
+          "t": "wäʾäṣenäwo",
+          "gl": ""
+        },
+        {
+          "g": "ወጼነዎ",
+          "t": "wäṣenäwo",
+          "gl": ""
+        },
+        {
+          "g": "ጼና",
+          "t": "ṣena",
+          "gl": ""
+        },
+        {
+          "g": "አልባሲሁ",
+          "t": "ʾäləbasihu",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "ናሁ",
+          "t": "nahu",
+          "gl": ""
+        },
+        {
+          "g": "ጼናሁ",
+          "t": "ṣenahu",
+          "gl": ""
+        },
+        {
+          "g": "ለወልድየ",
+          "t": "läwälədəyä",
+          "gl": ""
+        },
+        {
+          "g": "ጼና",
+          "t": "ṣena",
+          "gl": ""
+        },
+        {
+          "g": "ገዳም",
+          "t": "gädamə",
+          "gl": ""
+        },
+        {
+          "g": "ጥቀ",
+          "t": "ṭəqä",
+          "gl": ""
+        },
+        {
+          "g": "ዘባረኮ",
+          "t": "zäbaräko",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he drew nigh and kissed him, and smelled the smell of his garments, and blessed him, and said, Behold, the smell of my son is as the smell of an abundant field, which the Lord has blessed.",
+        "kjv": "And he came near, and kissed him: and he smelled the smell of his raiment, and blessed him, and said, See, the smell of my son is as the smell of a field which the LORD hath blessed:"
+      }
+    },
+    {
+      "num": 28,
+      "geez": "ወይቤሎ ፡ የሀብከ ፡ እግዚአብሔር ፡ እምጠለ ፡ ሰማይ ፡ ወእምጠለ ፡ ምድር ፡ ወያብዝኅ ፡ ስርናየከ ፡ ወወይነከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "የሀብከ",
+          "t": "yähäbəkä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "እምጠለ",
+          "t": "ʾəməṭälä",
+          "gl": ""
+        },
+        {
+          "g": "ሰማይ",
+          "t": "sämayə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምጠለ",
+          "t": "wäʾəməṭälä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ወያብዝኅ",
+          "t": "wäyabəzəḫə",
+          "gl": ""
+        },
+        {
+          "g": "ስርናየከ",
+          "t": "sərənayäkä",
+          "gl": ""
+        },
+        {
+          "g": "ወወይነከ",
+          "t": "wäwäyənäkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And may God give thee of the dew of heaven, and of the fatness of the earth, and abundance of corn and wine.",
+        "kjv": "Therefore God give thee of the dew of heaven, and the fatness of the earth, and plenty of corn and wine:"
+      }
+    },
+    {
+      "num": 29,
+      "geez": "ወይትቀነዩ ፡ ለከ ፡ አሕዛብ ፡ ወይስግዱ ፡ ለከ ፡ መላእክት ፡ ወኩን ፡ እግዚኦ ፡ ለእኁከ ፡ ወይስግዱ ፡ ለከ ፡ ደቂቀ\n                  ፡ አቡከ ፡ ዘይባርከከ ፡ ቡሩከ ፡ ይኩን ፡ ወዘይረግመከ ፡ ርጉም ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይትቀነዩ",
+          "t": "wäyətəqänäyu",
+          "gl": ""
+        },
+        {
+          "g": "ለከ",
+          "t": "läkä",
+          "gl": ""
+        },
+        {
+          "g": "አሕዛብ",
+          "t": "ʾäḥəzabə",
+          "gl": ""
+        },
+        {
+          "g": "ወይስግዱ",
+          "t": "wäyəsəgədu",
+          "gl": ""
+        },
+        {
+          "g": "ለከ",
+          "t": "läkä",
+          "gl": ""
+        },
+        {
+          "g": "መላእክት",
+          "t": "mälaʾəkətə",
+          "gl": ""
+        },
+        {
+          "g": "ወኩን",
+          "t": "wäkunə",
+          "gl": ""
+        },
+        {
+          "g": "እግዚኦ",
+          "t": "ʾəgəziʾo",
+          "gl": ""
+        },
+        {
+          "g": "ለእኁከ",
+          "t": "läʾəḫukä",
+          "gl": ""
+        },
+        {
+          "g": "ወይስግዱ",
+          "t": "wäyəsəgədu",
+          "gl": ""
+        },
+        {
+          "g": "ለከ",
+          "t": "läkä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "አቡከ",
+          "t": "ʾäbukä",
+          "gl": ""
+        },
+        {
+          "g": "ዘይባርከከ",
+          "t": "zäyəbarəkäkä",
+          "gl": ""
+        },
+        {
+          "g": "ቡሩከ",
+          "t": "burukä",
+          "gl": ""
+        },
+        {
+          "g": "ይኩን",
+          "t": "yəkunə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘይረግመከ",
+          "t": "wäzäyərägəmäkä",
+          "gl": ""
+        },
+        {
+          "g": "ርጉም",
+          "t": "rəgumə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And let nations serve thee, and princes bow down to thee, and be thou lord of thy brother, and the sons of thy father shall do thee reverence; accursed is he that curses thee, and blessed is he that blesses thee.",
+        "kjv": "Let people serve thee, and nations bow down to thee: be lord over thy brethren, and let thy mother’s sons bow down to thee: cursed be every one that curseth thee, and blessed be he that blesseth thee."
+      }
+    },
+    {
+      "num": 30,
+      "geez": "ወእምድኅረ ፡ አኅለቀ ፡ ባርኮቶ ፡ ይስሐቅ ፡ ለያዕቆብ ፡ ወልዱ ፡ ወወጽአ ፡ ያዕቆብ ፡ እምቅድመ ፡ ይስሐቅ ፡ አቡሁ ፡\n                  ወመጽአ ፡ ዔሳው ፡ እምናዕዌ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእምድኅረ",
+          "t": "wäʾəmədəḫərä",
+          "gl": ""
+        },
+        {
+          "g": "አኅለቀ",
+          "t": "ʾäḫəläqä",
+          "gl": ""
+        },
+        {
+          "g": "ባርኮቶ",
+          "t": "barəkoto",
+          "gl": ""
+        },
+        {
+          "g": "ይስሐቅ",
+          "t": "yəsəḥäqə",
+          "gl": ""
+        },
+        {
+          "g": "ለያዕቆብ",
+          "t": "läyaʿəqobə",
+          "gl": ""
+        },
+        {
+          "g": "ወልዱ",
+          "t": "wälədu",
+          "gl": ""
+        },
+        {
+          "g": "ወወጽአ",
+          "t": "wäwäṣəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ያዕቆብ",
+          "t": "yaʿəqobə",
+          "gl": ""
+        },
+        {
+          "g": "እምቅድመ",
+          "t": "ʾəməqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ይስሐቅ",
+          "t": "yəsəḥäqə",
+          "gl": ""
+        },
+        {
+          "g": "አቡሁ",
+          "t": "ʾäbuhu",
+          "gl": ""
+        },
+        {
+          "g": "ወመጽአ",
+          "t": "wämäṣəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ዔሳው",
+          "t": "ʿesawə",
+          "gl": ""
+        },
+        {
+          "g": "እምናዕዌ",
+          "t": "ʾəmənaʿəwe",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it came to pass after Isaac had ceased blessing his son Jacob, it even came to pass, just when Jacob had gone out from the presence of Isaac his father, that Esau his brother came in from his hunting.",
+        "kjv": "And it came to pass, as soon as Isaac had made an end of blessing Jacob, and Jacob was yet scarce gone out from the presence of Isaac his father, that Esau his brother came in from his hunting."
+      }
+    },
+    {
+      "num": 31,
+      "geez": "ወገብረ ፡ ውእቱሂ ፡ መብልዐ ፡ ወአምጽአ ፡ ለአቡሁ ፡ ወይቤሎ ፡ ተንሥእ ፡ አባ ፡ ወብላዕ ፡ እምነ ፡ ዘነዐወ ፡ ለከ ፡\n                  ወልድከ ፡ ከመ ፡ ትባርከኒ ፡ ነፍስከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወገብረ",
+          "t": "wägäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱሂ",
+          "t": "wəʾətuhi",
+          "gl": ""
+        },
+        {
+          "g": "መብልዐ",
+          "t": "mäbələʿä",
+          "gl": ""
+        },
+        {
+          "g": "ወአምጽአ",
+          "t": "wäʾäməṣəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ለአቡሁ",
+          "t": "läʾäbuhu",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ተንሥእ",
+          "t": "tänəśəʾə",
+          "gl": ""
+        },
+        {
+          "g": "አባ",
+          "t": "ʾäba",
+          "gl": ""
+        },
+        {
+          "g": "ወብላዕ",
+          "t": "wäbəlaʿə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ዘነዐወ",
+          "t": "zänäʿäwä",
+          "gl": ""
+        },
+        {
+          "g": "ለከ",
+          "t": "läkä",
+          "gl": ""
+        },
+        {
+          "g": "ወልድከ",
+          "t": "wälədəkä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ትባርከኒ",
+          "t": "təbarəkäni",
+          "gl": ""
+        },
+        {
+          "g": "ነፍስከ",
+          "t": "näfəsəkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he also had made meats and brought them to his father; and he said to his father, Let my father arise and eat of his son's venison, that thy soul may bless me.",
+        "kjv": "And he also had made savoury meat, and brought it unto his father, and said unto his father, Let my father arise, and eat of his son’s venison, that thy soul may bless me."
+      }
+    },
+    {
+      "num": 32,
+      "geez": "ወይቤሎ ፡ መኑ ፡ አንተ ፡ ወይቤሎ ፡ ዔሳው ፡ አነ ፡ ወልድከ ፡ ዘበኵርከ ፡ ዔሳው ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "መኑ",
+          "t": "mänu",
+          "gl": ""
+        },
+        {
+          "g": "አንተ",
+          "t": "ʾänətä",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ዔሳው",
+          "t": "ʿesawə",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "ወልድከ",
+          "t": "wälədəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዘበኵርከ",
+          "t": "zäbäkwərəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዔሳው",
+          "t": "ʿesawə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Isaac his father said to him, Who art thou? And he said, I am thy first-born son Esau.",
+        "kjv": "And Isaac his father said unto him, Who art thou? And he said, I am thy son, thy firstborn Esau."
+      }
+    },
+    {
+      "num": 33,
+      "geez": "ወደንገፀ ፡ ይስሐቅ ፡ ድንጋፄ ፡ ዐቢየ ፡ ጥቀ ፡ ወይቤሎ ፡ መኑመ ፡ ዘአምጽአ ፡ ሊተ ፡ ዘነዐወ ፡ ወበላዕኩ ፡ ወባረክዎ\n                  ፡ ወቡሩክ ፡ ውእቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወደንገፀ",
+          "t": "wädänəgäṣ́ä",
+          "gl": ""
+        },
+        {
+          "g": "ይስሐቅ",
+          "t": "yəsəḥäqə",
+          "gl": ""
+        },
+        {
+          "g": "ድንጋፄ",
+          "t": "dənəgaṣ́e",
+          "gl": ""
+        },
+        {
+          "g": "ዐቢየ",
+          "t": "ʿäbiyä",
+          "gl": ""
+        },
+        {
+          "g": "ጥቀ",
+          "t": "ṭəqä",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "መኑመ",
+          "t": "mänumä",
+          "gl": ""
+        },
+        {
+          "g": "ዘአምጽአ",
+          "t": "zäʾäməṣəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሊተ",
+          "t": "litä",
+          "gl": ""
+        },
+        {
+          "g": "ዘነዐወ",
+          "t": "zänäʿäwä",
+          "gl": ""
+        },
+        {
+          "g": "ወበላዕኩ",
+          "t": "wäbälaʿəku",
+          "gl": ""
+        },
+        {
+          "g": "ወባረክዎ",
+          "t": "wäbaräkəwo",
+          "gl": ""
+        },
+        {
+          "g": "ወቡሩክ",
+          "t": "wäburukə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Isaac was amazed with very great amazement, and said, Who then is it that has procured venison for me and brought it to me? and I have eaten of all before thou camest, and I have blessed him, and he shall be blessed.",
+        "kjv": "And Isaac trembled very exceedingly, and said, Who? where is he that hath taken venison, and brought it me, and I have eaten of all before thou camest, and have blessed him? yea, and he shall be blessed."
+      }
+    },
+    {
+      "num": 34,
+      "geez": "ወኮነ ፡ ሶበ ፡ ይሰምዕ ፡ ዔሳው ፡ ቃለ ፡ አቡሁ ፡ ጸርኀ ፡ በዐቢይ ፡ ቃል ፡ ወአምረረ ፡ ጥቀ ፡ ወይቤ ፡ ባርከኒ ፡\n                  ኪያየኒ ፡ አባ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኮነ",
+          "t": "wäkonä",
+          "gl": ""
+        },
+        {
+          "g": "ሶበ",
+          "t": "sobä",
+          "gl": ""
+        },
+        {
+          "g": "ይሰምዕ",
+          "t": "yəsäməʿə",
+          "gl": ""
+        },
+        {
+          "g": "ዔሳው",
+          "t": "ʿesawə",
+          "gl": ""
+        },
+        {
+          "g": "ቃለ",
+          "t": "qalä",
+          "gl": ""
+        },
+        {
+          "g": "አቡሁ",
+          "t": "ʾäbuhu",
+          "gl": ""
+        },
+        {
+          "g": "ጸርኀ",
+          "t": "ṣärəḫä",
+          "gl": ""
+        },
+        {
+          "g": "በዐቢይ",
+          "t": "bäʿäbiyə",
+          "gl": ""
+        },
+        {
+          "g": "ቃል",
+          "t": "qalə",
+          "gl": ""
+        },
+        {
+          "g": "ወአምረረ",
+          "t": "wäʾämərärä",
+          "gl": ""
+        },
+        {
+          "g": "ጥቀ",
+          "t": "ṭəqä",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "ባርከኒ",
+          "t": "barəkäni",
+          "gl": ""
+        },
+        {
+          "g": "ኪያየኒ",
+          "t": "kiyayäni",
+          "gl": ""
+        },
+        {
+          "g": "አባ",
+          "t": "ʾäba",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it came to pass when Esau heard the words of his father Isaac, he cried out with a great and very bitter cry, and said, Bless, I pray thee, me also, father.",
+        "kjv": "And when Esau heard the words of his father, he cried with a great and exceeding bitter cry, and said unto his father, Bless me, even me also, O my father."
+      }
+    },
+    {
+      "num": 35,
+      "geez": "ወይቤሎ ፡ መጽአ ፡ እኁከ ፡ በጐሕሉት ፡ ወነሥአ ፡ በረከተከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "መጽአ",
+          "t": "mäṣəʾä",
+          "gl": ""
+        },
+        {
+          "g": "እኁከ",
+          "t": "ʾəḫukä",
+          "gl": ""
+        },
+        {
+          "g": "በጐሕሉት",
+          "t": "bägwäḥəlutə",
+          "gl": ""
+        },
+        {
+          "g": "ወነሥአ",
+          "t": "wänäśəʾä",
+          "gl": ""
+        },
+        {
+          "g": "በረከተከ",
+          "t": "bäräkätäkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he said to him, Thy brother has come with subtlety, and taken thy blessing.",
+        "kjv": "And he said, Thy brother came with subtilty, and hath taken away thy blessing."
+      }
+    },
+    {
+      "num": 36,
+      "geez": "ወይቤ ፡ ዔሳው ፡ በጽድቅ ፡ ተሰምየ ፡ ያዕቆብ ፡ እስመ ፡ አዕቀጸኒ ፡ ወናሁ ፡ ዳግሙ ፡ ዮም ፤ በኵርየኒ ፡ ነሥአኒ ፡\n                  ወናሁ ፡ ዮምኒ ፡ በረከትየ ፡ ነሥአኒ ፡ ወይቤሎ ፡ ዔሳው ፡ አልቦኑ ፡ አባ ፡ ዘአትረፍከ ፡ በረከተ ፡ ሊትኒ ፡ አባ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "ዔሳው",
+          "t": "ʿesawə",
+          "gl": ""
+        },
+        {
+          "g": "በጽድቅ",
+          "t": "bäṣədəqə",
+          "gl": ""
+        },
+        {
+          "g": "ተሰምየ",
+          "t": "täsäməyä",
+          "gl": ""
+        },
+        {
+          "g": "ያዕቆብ",
+          "t": "yaʿəqobə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አዕቀጸኒ",
+          "t": "ʾäʿəqäṣäni",
+          "gl": ""
+        },
+        {
+          "g": "ወናሁ",
+          "t": "wänahu",
+          "gl": ""
+        },
+        {
+          "g": "ዳግሙ",
+          "t": "dagəmu",
+          "gl": ""
+        },
+        {
+          "g": "ዮም  በኵርየኒ",
+          "t": "yomə  bäkwərəyäni",
+          "gl": ""
+        },
+        {
+          "g": "ነሥአኒ",
+          "t": "näśəʾäni",
+          "gl": ""
+        },
+        {
+          "g": "ወናሁ",
+          "t": "wänahu",
+          "gl": ""
+        },
+        {
+          "g": "ዮምኒ",
+          "t": "yoməni",
+          "gl": ""
+        },
+        {
+          "g": "በረከትየ",
+          "t": "bäräkätəyä",
+          "gl": ""
+        },
+        {
+          "g": "ነሥአኒ",
+          "t": "näśəʾäni",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ዔሳው",
+          "t": "ʿesawə",
+          "gl": ""
+        },
+        {
+          "g": "አልቦኑ",
+          "t": "ʾäləbonu",
+          "gl": ""
+        },
+        {
+          "g": "አባ",
+          "t": "ʾäba",
+          "gl": ""
+        },
+        {
+          "g": "ዘአትረፍከ",
+          "t": "zäʾätəräfəkä",
+          "gl": ""
+        },
+        {
+          "g": "በረከተ",
+          "t": "bäräkätä",
+          "gl": ""
+        },
+        {
+          "g": "ሊትኒ",
+          "t": "litəni",
+          "gl": ""
+        },
+        {
+          "g": "አባ",
+          "t": "ʾäba",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he said, Rightly was his name called Jacob, for lo! this second time has he supplanted me; he has both taken my birthright, and now he has taken my blessing; and Esau said to his father, Hast thou not left a blessing for me, father?",
+        "kjv": "And he said, Is not he rightly named Jacob? for he hath supplanted me these two times: he took away my birthright; and, behold, now he hath taken away my blessing. And he said, Hast thou not reserved a blessing for me?"
+      }
+    },
+    {
+      "num": 37,
+      "geez": "ወአውሥአ ፡ ይስሐቅ ፡ ወይቤሎ ፡ ለዔሳው ፡ እግዚአከ ፡ ረሰይክዎ ፡ ወኵሎሙ ፡ አኀዊሁ ፡ አግብርቲሁ ፡ ረሰይኩ ፡\n                  ወአብዛኅኩ ፡ ሎቱ ፡ ወይኖ ፡ ወስርናዮ ፡ ወለከ ፡ ምንተ ፡ እረሲ ፡ ወልድየ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአውሥአ",
+          "t": "wäʾäwəśəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ይስሐቅ",
+          "t": "yəsəḥäqə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ለዔሳው",
+          "t": "läʿesawə",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአከ",
+          "t": "ʾəgəziʾäkä",
+          "gl": ""
+        },
+        {
+          "g": "ረሰይክዎ",
+          "t": "räsäyəkəwo",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎሙ",
+          "t": "wäkwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "አኀዊሁ",
+          "t": "ʾäḫäwihu",
+          "gl": ""
+        },
+        {
+          "g": "አግብርቲሁ",
+          "t": "ʾägəbərətihu",
+          "gl": ""
+        },
+        {
+          "g": "ረሰይኩ",
+          "t": "räsäyəku",
+          "gl": ""
+        },
+        {
+          "g": "ወአብዛኅኩ",
+          "t": "wäʾäbəzaḫəku",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ወይኖ",
+          "t": "wäyəno",
+          "gl": ""
+        },
+        {
+          "g": "ወስርናዮ",
+          "t": "wäsərənayo",
+          "gl": ""
+        },
+        {
+          "g": "ወለከ",
+          "t": "wäläkä",
+          "gl": ""
+        },
+        {
+          "g": "ምንተ",
+          "t": "mənətä",
+          "gl": ""
+        },
+        {
+          "g": "እረሲ",
+          "t": "ʾəräsi",
+          "gl": ""
+        },
+        {
+          "g": "ወልድየ",
+          "t": "wälədəyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Isaac answered and said to Esau, If I have made him thy lord, and have made all his brethren his servants, and have strengthened him with corn and wine, what then shall I do for thee, son?",
+        "kjv": "And Isaac answered and said unto Esau, Behold, I have made him thy lord, and all his brethren have I given to him for servants; and with corn and wine have I sustained him: and what shall I do now unto thee, my son?"
+      }
+    },
+    {
+      "num": 38,
+      "geez": "ወይቤሎ ፡ ዔሳው ፡ ለይስሐቅ ፡ አቡሁ ፡ አሐቲኑ ፡ ክመ ፡ ሊከሰ ፡ በረከትከ ፡ አባ ፡ ወእምዝ ፡ ጸርኀ ፡ ዔሳው ፡\n                  ወበከየ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ዔሳው",
+          "t": "ʿesawə",
+          "gl": ""
+        },
+        {
+          "g": "ለይስሐቅ",
+          "t": "läyəsəḥäqə",
+          "gl": ""
+        },
+        {
+          "g": "አቡሁ",
+          "t": "ʾäbuhu",
+          "gl": ""
+        },
+        {
+          "g": "አሐቲኑ",
+          "t": "ʾäḥätinu",
+          "gl": ""
+        },
+        {
+          "g": "ክመ",
+          "t": "kəmä",
+          "gl": ""
+        },
+        {
+          "g": "ሊከሰ",
+          "t": "likäsä",
+          "gl": ""
+        },
+        {
+          "g": "በረከትከ",
+          "t": "bäräkätəkä",
+          "gl": ""
+        },
+        {
+          "g": "አባ",
+          "t": "ʾäba",
+          "gl": ""
+        },
+        {
+          "g": "ወእምዝ",
+          "t": "wäʾəməzə",
+          "gl": ""
+        },
+        {
+          "g": "ጸርኀ",
+          "t": "ṣärəḫä",
+          "gl": ""
+        },
+        {
+          "g": "ዔሳው",
+          "t": "ʿesawə",
+          "gl": ""
+        },
+        {
+          "g": "ወበከየ",
+          "t": "wäbäkäyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Esau said to his father, Hast thou only one blessing, father? Bless, I pray thee, me also, father. And Isaac being troubled, Esau cried aloud and wept.",
+        "kjv": "And Esau said unto his father, Hast thou but one blessing, my father? bless me, even me also, O my father. And Esau lifted up his voice, and wept."
+      }
+    },
+    {
+      "num": 39,
+      "geez": "ወይቤ ፡ ይስሐቅ ፡ ናሁ ፡ እምጠለ ፡ ሰማይ ፡ ዘእምላዕሉ ፡ ወእምጠለ ፡ ምድር ፡ ይኩን ፡ ሕይወትከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "ይስሐቅ",
+          "t": "yəsəḥäqə",
+          "gl": ""
+        },
+        {
+          "g": "ናሁ",
+          "t": "nahu",
+          "gl": ""
+        },
+        {
+          "g": "እምጠለ",
+          "t": "ʾəməṭälä",
+          "gl": ""
+        },
+        {
+          "g": "ሰማይ",
+          "t": "sämayə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምላዕሉ",
+          "t": "zäʾəməlaʿəlu",
+          "gl": ""
+        },
+        {
+          "g": "ወእምጠለ",
+          "t": "wäʾəməṭälä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ይኩን",
+          "t": "yəkunə",
+          "gl": ""
+        },
+        {
+          "g": "ሕይወትከ",
+          "t": "ḥəyəwätəkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Isaac his father answered and said to him, Behold, thy dwelling shall be of the fatness of the earth, and of the dew of heaven from above.",
+        "kjv": "And Isaac his father answered and said unto him, Behold, thy dwelling shall be the fatness of the earth, and of the dew of heaven from above;"
+      }
+    },
+    {
+      "num": 40,
+      "geez": "ወበመጥባሕትከ ፡ ሕየው ፡ ወትትቀነይ ፡ ለእኁከ ፡ ወእመ ፡ ትፈቅድ ፡ ባሕቱ ፡ ትግድፍ ፡ ጾሮ ፡ እምላዕለ ፡ ክሳድከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበመጥባሕትከ",
+          "t": "wäbämäṭəbaḥətəkä",
+          "gl": ""
+        },
+        {
+          "g": "ሕየው",
+          "t": "ḥəyäwə",
+          "gl": ""
+        },
+        {
+          "g": "ወትትቀነይ",
+          "t": "wätətəqänäyə",
+          "gl": ""
+        },
+        {
+          "g": "ለእኁከ",
+          "t": "läʾəḫukä",
+          "gl": ""
+        },
+        {
+          "g": "ወእመ",
+          "t": "wäʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ትፈቅድ",
+          "t": "təfäqədə",
+          "gl": ""
+        },
+        {
+          "g": "ባሕቱ",
+          "t": "baḥətu",
+          "gl": ""
+        },
+        {
+          "g": "ትግድፍ",
+          "t": "təgədəfə",
+          "gl": ""
+        },
+        {
+          "g": "ጾሮ",
+          "t": "ṣoro",
+          "gl": ""
+        },
+        {
+          "g": "እምላዕለ",
+          "t": "ʾəməlaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ክሳድከ",
+          "t": "kəsadəkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And thou shalt live by thy sword, and shalt serve thy brother; and there shall be a time when thou shalt break and loosen his yoke from off thy neck.",
+        "kjv": "And by thy sword shalt thou live, and shalt serve thy brother; and it shall come to pass when thou shalt have the dominion, that thou shalt break his yoke from off thy neck."
+      }
+    },
+    {
+      "num": 41,
+      "geez": "ወይጸልኦ ፡ ዘልፈ ፡ ዔሳው ፡ ለያዕቆብ ፡ በእንተ ፡ በረከቱ ፡ ዘባረኮ ፡ አቡሁ ፡ ወይቤ ፡ ዔሳው ፡ በልቡ ፡ ለትቅረቦ\n                  ፡ መዋዕለ ፡ ላሑ ፡ ለአቡየ ፡ ከመ ፡ እቅትሎ ፡ ለያዕቆብ ፡ እኁየ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይጸልኦ",
+          "t": "wäyəṣäləʾo",
+          "gl": ""
+        },
+        {
+          "g": "ዘልፈ",
+          "t": "zäləfä",
+          "gl": ""
+        },
+        {
+          "g": "ዔሳው",
+          "t": "ʿesawə",
+          "gl": ""
+        },
+        {
+          "g": "ለያዕቆብ",
+          "t": "läyaʿəqobə",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "በረከቱ",
+          "t": "bäräkätu",
+          "gl": ""
+        },
+        {
+          "g": "ዘባረኮ",
+          "t": "zäbaräko",
+          "gl": ""
+        },
+        {
+          "g": "አቡሁ",
+          "t": "ʾäbuhu",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "ዔሳው",
+          "t": "ʿesawə",
+          "gl": ""
+        },
+        {
+          "g": "በልቡ",
+          "t": "bäləbu",
+          "gl": ""
+        },
+        {
+          "g": "ለትቅረቦ",
+          "t": "lätəqəräbo",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕለ",
+          "t": "mäwaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ላሑ",
+          "t": "laḥu",
+          "gl": ""
+        },
+        {
+          "g": "ለአቡየ",
+          "t": "läʾäbuyä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "እቅትሎ",
+          "t": "ʾəqətəlo",
+          "gl": ""
+        },
+        {
+          "g": "ለያዕቆብ",
+          "t": "läyaʿəqobə",
+          "gl": ""
+        },
+        {
+          "g": "እኁየ",
+          "t": "ʾəḫuyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Esau was angry with Jacob because of the blessing, with which his father blessed him; and Esau said in his mind, Let the days of my father's mourning draw nigh, that I may slay my brother Jacob.",
+        "kjv": "And Esau hated Jacob because of the blessing wherewith his father blessed him: and Esau said in his heart, The days of mourning for my father are at hand; then will I slay my brother Jacob."
+      }
+    },
+    {
+      "num": 42,
+      "geez": "ወአይድዕዋ ፡ ለርብቃ ፡ ዘይቤ ፡ ወልዳ ፡ ዘይልህቅ ፡ ወለአከት ፡ ወጸውዐቶ ፡ ለያዕቆብ ፡ ወልዳ ፡ ዘይንእስ ፡ ወትቤሎ\n                  ፡ ናሁ ፡ ዔሳው ፡ እኁከ ፡ ይንዕወከ ፡ ወይፈቅድ ፡ ይቅትልከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአይድዕዋ",
+          "t": "wäʾäyədəʿəwa",
+          "gl": ""
+        },
+        {
+          "g": "ለርብቃ",
+          "t": "lärəbəqa",
+          "gl": ""
+        },
+        {
+          "g": "ዘይቤ",
+          "t": "zäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "ወልዳ",
+          "t": "wäləda",
+          "gl": ""
+        },
+        {
+          "g": "ዘይልህቅ",
+          "t": "zäyələhəqə",
+          "gl": ""
+        },
+        {
+          "g": "ወለአከት",
+          "t": "wäläʾäkätə",
+          "gl": ""
+        },
+        {
+          "g": "ወጸውዐቶ",
+          "t": "wäṣäwəʿäto",
+          "gl": ""
+        },
+        {
+          "g": "ለያዕቆብ",
+          "t": "läyaʿəqobə",
+          "gl": ""
+        },
+        {
+          "g": "ወልዳ",
+          "t": "wäləda",
+          "gl": ""
+        },
+        {
+          "g": "ዘይንእስ",
+          "t": "zäyənəʾəsə",
+          "gl": ""
+        },
+        {
+          "g": "ወትቤሎ",
+          "t": "wätəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ናሁ",
+          "t": "nahu",
+          "gl": ""
+        },
+        {
+          "g": "ዔሳው",
+          "t": "ʿesawə",
+          "gl": ""
+        },
+        {
+          "g": "እኁከ",
+          "t": "ʾəḫukä",
+          "gl": ""
+        },
+        {
+          "g": "ይንዕወከ",
+          "t": "yənəʿəwäkä",
+          "gl": ""
+        },
+        {
+          "g": "ወይፈቅድ",
+          "t": "wäyəfäqədə",
+          "gl": ""
+        },
+        {
+          "g": "ይቅትልከ",
+          "t": "yəqətələkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the words of Esau her elder son were reported to Rebecca, and she sent and called Jacob her younger son, and said to him, Behold, Esau thy brother threatens thee to kill thee.",
+        "kjv": "And these words of Esau her elder son were told to Rebekah: and she sent and called Jacob her younger son, and said unto him, Behold, thy brother Esau, as touching thee, doth comfort himself, purposing to kill thee."
+      }
+    },
+    {
+      "num": 43,
+      "geez": "ወይእዜኒ ፡ ወልድየ ፡ ስምዐኒ ፡ ቃልየ ፡ ዘእብለከ ፡ ወተንሥእ ፡ ሑር ፡ ማእከለ ፡ አፍላግ ፡ ኀበ ፡ ላባ ፡ እኁየ ፡\n                  ውስተ ፡ ካራን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይእዜኒ",
+          "t": "wäyəʾəzeni",
+          "gl": ""
+        },
+        {
+          "g": "ወልድየ",
+          "t": "wälədəyä",
+          "gl": ""
+        },
+        {
+          "g": "ስምዐኒ",
+          "t": "səməʿäni",
+          "gl": ""
+        },
+        {
+          "g": "ቃልየ",
+          "t": "qaləyä",
+          "gl": ""
+        },
+        {
+          "g": "ዘእብለከ",
+          "t": "zäʾəbəläkä",
+          "gl": ""
+        },
+        {
+          "g": "ወተንሥእ",
+          "t": "wätänəśəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ሑር",
+          "t": "ḥurə",
+          "gl": ""
+        },
+        {
+          "g": "ማእከለ",
+          "t": "maʾəkälä",
+          "gl": ""
+        },
+        {
+          "g": "አፍላግ",
+          "t": "ʾäfəlagə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ላባ",
+          "t": "laba",
+          "gl": ""
+        },
+        {
+          "g": "እኁየ",
+          "t": "ʾəḫuyä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ካራን",
+          "t": "karanə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Now then, my son, hear my voice, and rise and depart quickly into Mesopotamia to Laban my brother into Charran.",
+        "kjv": "Now therefore, my son, obey my voice; and arise, flee thou to Laban my brother to Haran;"
+      }
+    },
+    {
+      "num": 44,
+      "geez": "ወንበር ፡ ኀቤሁ ፡ ኅዳጠ ፡ መዋዕለ ፡ እስከ ፡ ይቈርር ፡ መዓቱ ፡ ለእኁከ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወንበር",
+          "t": "wänəbärə",
+          "gl": ""
+        },
+        {
+          "g": "ኀቤሁ",
+          "t": "ḫäbehu",
+          "gl": ""
+        },
+        {
+          "g": "ኅዳጠ",
+          "t": "ḫədaṭä",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕለ",
+          "t": "mäwaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ይቈርር",
+          "t": "yəqwärərə",
+          "gl": ""
+        },
+        {
+          "g": "መዓቱ",
+          "t": "mäʿatu",
+          "gl": ""
+        },
+        {
+          "g": "ለእኁከ",
+          "t": "läʾəḫukä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And dwell with him certain days, until thy brother's anger",
+        "kjv": "And tarry with him a few days, until thy brother’s fury turn away;"
+      }
+    },
+    {
+      "num": 45,
+      "geez": "ወይረስዕ ፡ ዘገበርካሁ ፡ ወእልእክ ፡ ወእቄብለከ ፡ በህየ ፡ ከመ ፡ ክልኤክሙ ፡ ኢይሕጐል ፡ በአሐቲ ፡ ዕለት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይረስዕ",
+          "t": "wäyəräsəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ዘገበርካሁ",
+          "t": "zägäbärəkahu",
+          "gl": ""
+        },
+        {
+          "g": "ወእልእክ",
+          "t": "wäʾələʾəkə",
+          "gl": ""
+        },
+        {
+          "g": "ወእቄብለከ",
+          "t": "wäʾəqebəläkä",
+          "gl": ""
+        },
+        {
+          "g": "በህየ",
+          "t": "bähəyä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ክልኤክሙ",
+          "t": "kələʾekəmu",
+          "gl": ""
+        },
+        {
+          "g": "ኢይሕጐል",
+          "t": "ʾiyəḥəgwälə",
+          "gl": ""
+        },
+        {
+          "g": "በአሐቲ",
+          "t": "bäʾäḥäti",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and rage depart from thee, and he forget what thou hast done to him; and I will send and fetch thee thence, lest at any time I should be bereaved of you both in one day.",
+        "kjv": "Until thy brother’s anger turn away from thee, and he forget that which thou hast done to him: then I will send, and fetch thee from thence: why should I be deprived also of you both in one day?"
+      }
+    },
+    {
+      "num": 46,
+      "geez": "ወትቤሎ ፡ ርብቃ ፡ ለይስሐቅ ፡ ጸላእኩ ፡ ሕይወትየ ፡ እምአዋልደ ፡ ከናአን ፡ ወእመሰ ፡ ይነሥእ ፡ ያዕቆብ ፡ ብእሲተ ፡\n                  እምአዋልደ ፡ ዝንቱ ፡ ብሔር ፡ ለምንት ፡ እንከ ፡ ሊተ ፡ አሐዩ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትቤሎ",
+          "t": "wätəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ርብቃ",
+          "t": "rəbəqa",
+          "gl": ""
+        },
+        {
+          "g": "ለይስሐቅ",
+          "t": "läyəsəḥäqə",
+          "gl": ""
+        },
+        {
+          "g": "ጸላእኩ",
+          "t": "ṣälaʾəku",
+          "gl": ""
+        },
+        {
+          "g": "ሕይወትየ",
+          "t": "ḥəyəwätəyä",
+          "gl": ""
+        },
+        {
+          "g": "እምአዋልደ",
+          "t": "ʾəməʾäwalədä",
+          "gl": ""
+        },
+        {
+          "g": "ከናአን",
+          "t": "känaʾänə",
+          "gl": ""
+        },
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "ይነሥእ",
+          "t": "yənäśəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ያዕቆብ",
+          "t": "yaʿəqobə",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲተ",
+          "t": "bəʾəsitä",
+          "gl": ""
+        },
+        {
+          "g": "እምአዋልደ",
+          "t": "ʾəməʾäwalədä",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ብሔር",
+          "t": "bəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለምንት",
+          "t": "lämənətə",
+          "gl": ""
+        },
+        {
+          "g": "እንከ",
+          "t": "ʾənəkä",
+          "gl": ""
+        },
+        {
+          "g": "ሊተ",
+          "t": "litä",
+          "gl": ""
+        },
+        {
+          "g": "አሐዩ",
+          "t": "ʾäḥäyu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Rebecca said to Isaac, I am weary of my life, because of the daughters of the sons of Chet; if Jacob shall take a wife of the daughters of this land, wherefore should I live?",
+        "kjv": "And Rebekah said to Isaac, I am weary of my life because of the daughters of Heth: if Jacob take a wife of the daughters of Heth, such as these which are of the daughters of the land, what good shall my life do me?"
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

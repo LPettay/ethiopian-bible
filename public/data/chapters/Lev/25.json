@@ -1,0 +1,4318 @@
+{
+  "book": "Lev",
+  "chapter": 25,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወነበቦ ፡ እግዚአብሔር ፡ ለሙሴ ፡ በደብረ ፡ ሲና ፡ ወይቤሎ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነበቦ",
+          "t": "wänäbäbo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "በደብረ",
+          "t": "bädäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ሲና",
+          "t": "sina",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord spoke to Moses in the mount Sina, saying,",
+        "kjv": "And the LORD spake unto Moses in mount Sinai, saying,"
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ንግሮሙ ፡ ለደቂቀ ፡ እስራኤል ፡ ወበሎሙ ፡ አመ ፡ ቦእክሙ ፡ ውስተ ፡ ምድር ፡ እንተ ፡ አነ ፡ እሁበክሙ ፡ ወታዐርፍ ፡\n                  [ምድር ፡] እንተ ፡ አነ ፡ እሁበክሙ ፡ ወታሰነብት ፡ ለእግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ንግሮሙ",
+          "t": "nəgəromu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወበሎሙ",
+          "t": "wäbälomu",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ቦእክሙ",
+          "t": "boʾəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "እሁበክሙ",
+          "t": "ʾəhubäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወታዐርፍ",
+          "t": "wätaʿärəfə",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "እሁበክሙ",
+          "t": "ʾəhubäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወታሰነብት",
+          "t": "wätasänäbətə",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Speak to the children of Israel, and thou shalt say to them, Whensoever ye shall have entered into the land, which I give to you, then the land shall rest which I give to you, for its sabbaths to the Lord.",
+        "kjv": "Speak unto the children of Israel, and say unto them, When ye come into the land which I give you, then shall the land keep a sabbath unto the LORD."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ስድስተ ፡ ዓመተ ፡ ትዘርእ ፡ ገራህተከ ፡ ወስድስተ ፡ ዓመተ ፡ ትገምድ ፡ ወይነከ ፡ ወታስተጋብእ ፡ ፍሬሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ስድስተ",
+          "t": "sədəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዓመተ",
+          "t": "ʿamätä",
+          "gl": ""
+        },
+        {
+          "g": "ትዘርእ",
+          "t": "təzärəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ገራህተከ",
+          "t": "gärahətäkä",
+          "gl": ""
+        },
+        {
+          "g": "ወስድስተ",
+          "t": "wäsədəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዓመተ",
+          "t": "ʿamätä",
+          "gl": ""
+        },
+        {
+          "g": "ትገምድ",
+          "t": "təgämədə",
+          "gl": ""
+        },
+        {
+          "g": "ወይነከ",
+          "t": "wäyənäkä",
+          "gl": ""
+        },
+        {
+          "g": "ወታስተጋብእ",
+          "t": "wätasətägabəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ፍሬሁ",
+          "t": "fərehu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Six years thou shalt sow thy field, and six years thou shalt prune thy vine, and gather in its fruit.",
+        "kjv": "Six years thou shalt sow thy field, and six years thou shalt prune thy vineyard, and gather in the fruit thereof;"
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወበሳብዕ ፡ ዓም ፡ ሰንበ[ት] ፡ ዕረፍት ፡ ውእቱ ፡ ለምድር ፡ ወታሰነብት ፡ ለእግዚአብሔር ፤ ገራህተከኒ ፡ ኢትዘርእ ፡\n                  ወዐጸደ ፡ ወይንከኒ ፡ ኢትገምድ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበሳብዕ",
+          "t": "wäbäsabəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ዓም",
+          "t": "ʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ሰንበት",
+          "t": "sänəbätə",
+          "gl": ""
+        },
+        {
+          "g": "ዕረፍት",
+          "t": "ʿəräfətə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ለምድር",
+          "t": "lämədərə",
+          "gl": ""
+        },
+        {
+          "g": "ወታሰነብት",
+          "t": "wätasänäbətə",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር  ገራህተከኒ",
+          "t": "läʾəgəziʾäbəḥerə  gärahətäkäni",
+          "gl": ""
+        },
+        {
+          "g": "ኢትዘርእ",
+          "t": "ʾitəzärəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወዐጸደ",
+          "t": "wäʿäṣädä",
+          "gl": ""
+        },
+        {
+          "g": "ወይንከኒ",
+          "t": "wäyənəkäni",
+          "gl": ""
+        },
+        {
+          "g": "ኢትገምድ",
+          "t": "ʾitəgämədə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But in the seventh year shall be a sabbath, it shall be a rest to the land, a sabbath to the Lord: thou shalt not sow thy field, and thou shalt not prune thy vine.",
+        "kjv": "But in the seventh year shall be a sabbath of rest unto the land, a sabbath for the LORD: thou shalt neither sow thy field, nor prune thy vineyard."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወዘለሊሁኒ ፡ ይበቍል ፡ ውስተ ፡ ገራህትከ ፡ ኢተዐፅድ ፡ ወአስካለኒ ፡ ዘቅዱስ ፡ ኢትቀሥም ፡ ዘይእቲ ፡ ዓመት ፡ እስመ\n                  ፡ ዕረፍታ ፡ ለምድር ፡ ውእቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዘለሊሁኒ",
+          "t": "wäzälälihuni",
+          "gl": ""
+        },
+        {
+          "g": "ይበቍል",
+          "t": "yəbäqwələ",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ገራህትከ",
+          "t": "gärahətəkä",
+          "gl": ""
+        },
+        {
+          "g": "ኢተዐፅድ",
+          "t": "ʾitäʿäṣ́ədə",
+          "gl": ""
+        },
+        {
+          "g": "ወአስካለኒ",
+          "t": "wäʾäsəkaläni",
+          "gl": ""
+        },
+        {
+          "g": "ዘቅዱስ",
+          "t": "zäqədusə",
+          "gl": ""
+        },
+        {
+          "g": "ኢትቀሥም",
+          "t": "ʾitəqäśəmə",
+          "gl": ""
+        },
+        {
+          "g": "ዘይእቲ",
+          "t": "zäyəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ዓመት",
+          "t": "ʿamätə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ዕረፍታ",
+          "t": "ʿəräfəta",
+          "gl": ""
+        },
+        {
+          "g": "ለምድር",
+          "t": "lämədərə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And thou shalt not gather the spontaneous produce of thy field, and thou shalt not gather fully the grapes of thy dedication: it shall be a year of rest to the land.",
+        "kjv": "That which groweth of its own accord of thy harvest thou shalt not reap, neither gather the grapes of thy vine undressed: for it is a year of rest unto the land."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወይኩን ፡ ውእቱ ፡ ዘሰንበታ ፡ ለምድር ፡ መብልዐ ፡ ለከ ፡ ወለገብርከ ፡ ወለአመትከ ፡ ወለገባኢከ ፡ ወለፈላሲኒ ፡\n                  ዘየኀድር ፡ ኀቤከ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይኩን",
+          "t": "wäyəkunə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘሰንበታ",
+          "t": "zäsänəbäta",
+          "gl": ""
+        },
+        {
+          "g": "ለምድር",
+          "t": "lämədərə",
+          "gl": ""
+        },
+        {
+          "g": "መብልዐ",
+          "t": "mäbələʿä",
+          "gl": ""
+        },
+        {
+          "g": "ለከ",
+          "t": "läkä",
+          "gl": ""
+        },
+        {
+          "g": "ወለገብርከ",
+          "t": "wälägäbərəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወለአመትከ",
+          "t": "wäläʾämätəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወለገባኢከ",
+          "t": "wälägäbaʾikä",
+          "gl": ""
+        },
+        {
+          "g": "ወለፈላሲኒ",
+          "t": "wäläfälasini",
+          "gl": ""
+        },
+        {
+          "g": "ዘየኀድር",
+          "t": "zäyäḫädərə",
+          "gl": ""
+        },
+        {
+          "g": "ኀቤከ",
+          "t": "ḫäbekä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the sabbaths of the land shall be food for thee, and for thy man-servant, and for thy maid-servant, and thy hireling, and the stranger that abides with thee.",
+        "kjv": "And the sabbath of the land shall be meat for you; for thee, and for thy servant, and for thy maid, and for thy hired servant, and for thy stranger that sojourneth with thee,"
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወለእንስሳከ ፡ ወለአራዊተ ፡ ምድርከኒ ፡ ይኩንክሙ ፡ መብልዐ ፡ ኵሉ ፡ እክሉ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለእንስሳከ",
+          "t": "wäläʾənəsəsakä",
+          "gl": ""
+        },
+        {
+          "g": "ወለአራዊተ",
+          "t": "wäläʾärawitä",
+          "gl": ""
+        },
+        {
+          "g": "ምድርከኒ",
+          "t": "mədərəkäni",
+          "gl": ""
+        },
+        {
+          "g": "ይኩንክሙ",
+          "t": "yəkunəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "መብልዐ",
+          "t": "mäbələʿä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "እክሉ",
+          "t": "ʾəkəlu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And for thy cattle, and for the wild beasts that are in thy land, shall every fruit of it be for food.",
+        "kjv": "And for thy cattle, and for the beast that are in thy land, shall all the increase thereof be meat."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወትኌልቍ ፡ ለከ ፡ ሰብዐተ ፡ ዕረፍተ ፡ ዘሰብዐቱ ፡ ዓመት ፡ ዘምስብዒት ፡ ወእምዝ ፡ ትሬሲ ፡ ለከ ፡ ፯ሰናብተ ፡ በዘ\n                  ፡ ትዜንዉ ፡ በመጥቅዕ ፡ ውስተ ፡ ኵሉ ፡ ምድርክሙ ፡ በበ፵ወ፱ዓመት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትኌልቍ",
+          "t": "wätəḫweləqwə",
+          "gl": ""
+        },
+        {
+          "g": "ለከ",
+          "t": "läkä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብዐተ",
+          "t": "säbəʿätä",
+          "gl": ""
+        },
+        {
+          "g": "ዕረፍተ",
+          "t": "ʿəräfətä",
+          "gl": ""
+        },
+        {
+          "g": "ዘሰብዐቱ",
+          "t": "zäsäbəʿätu",
+          "gl": ""
+        },
+        {
+          "g": "ዓመት",
+          "t": "ʿamätə",
+          "gl": ""
+        },
+        {
+          "g": "ዘምስብዒት",
+          "t": "zäməsəbəʿitə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምዝ",
+          "t": "wäʾəməzə",
+          "gl": ""
+        },
+        {
+          "g": "ትሬሲ",
+          "t": "təresi",
+          "gl": ""
+        },
+        {
+          "g": "ለከ",
+          "t": "läkä",
+          "gl": ""
+        },
+        {
+          "g": "፯ሰናብተ",
+          "t": "7sänabətä",
+          "gl": ""
+        },
+        {
+          "g": "በዘ",
+          "t": "bäzä",
+          "gl": ""
+        },
+        {
+          "g": "ትዜንዉ",
+          "t": "təzenəwu",
+          "gl": ""
+        },
+        {
+          "g": "በመጥቅዕ",
+          "t": "bämäṭəqəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ምድርክሙ",
+          "t": "mədərəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "በበ፵ወ፱ዓመት",
+          "t": "bäbä40wä9ʿamätə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And thou shalt reckon to thyself seven sabbaths of years, seven times seven years; and they shall be to thee seven weeks of years, nine and forty years.",
+        "kjv": "And thou shalt number seven sabbaths of years unto thee, seven times seven years; and the space of the seven sabbaths of years shall be unto thee forty and nine years."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወበሳብዕ ፡ ወርኅ ፡ በዕለተ ፡ አስተ[ስር]ዮ ፡ ትዜንዉ ፡ በመጥቅዕ ፡ ውስተ ፡ ኵሉ ፡ ምድርክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበሳብዕ",
+          "t": "wäbäsabəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወርኅ",
+          "t": "wärəḫə",
+          "gl": ""
+        },
+        {
+          "g": "በዕለተ",
+          "t": "bäʿəlätä",
+          "gl": ""
+        },
+        {
+          "g": "አስተስርዮ",
+          "t": "ʾäsətäsərəyo",
+          "gl": ""
+        },
+        {
+          "g": "ትዜንዉ",
+          "t": "təzenəwu",
+          "gl": ""
+        },
+        {
+          "g": "በመጥቅዕ",
+          "t": "bämäṭəqəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ምድርክሙ",
+          "t": "mədərəkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "In the seventh month, on the tenth day of the month, ye shall make a proclamation with the sound of a trumpet in all your land; on the day of atonement ye shall make a proclamation with a trumpet in all your land.",
+        "kjv": "Then shalt thou cause the trumpet of the jubile to sound on the tenth day of the seventh month, in the day of atonement shall ye make the trumpet sound throughout all your land."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወቀድስዋ ፡ ለይእቲ ፡ ዓመት ፡ [ዘ፶ ፡] ኵላ ፡ ዓመታ ፡ ወስብኩ ፡ ተኀድጎ ፡ ውስተ ፡ ኵሉ ፡ ምድርክሙ ፡ ለኵሉ ፡\n                  እለ ፡ ይነብሩ ፡ ውስቴታ ፡ እስመ ፡ ዓመተ ፡ ተኀድጎ ፡ ውእቱ ፡ ወተአምረ ፡ ይኩንክሙ ፡ ወይእቱ ፡ ኵሉ ፡ ውስተ ፡ ጥሪቱ\n                  ፡ ወይሑር ፡ ኵሉ ፡ ውስተ ፡ ሀገሩ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወቀድስዋ",
+          "t": "wäqädəsəwa",
+          "gl": ""
+        },
+        {
+          "g": "ለይእቲ",
+          "t": "läyəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ዓመት",
+          "t": "ʿamätə",
+          "gl": ""
+        },
+        {
+          "g": "ዘ፶",
+          "t": "zä50",
+          "gl": ""
+        },
+        {
+          "g": "ኵላ",
+          "t": "kwəla",
+          "gl": ""
+        },
+        {
+          "g": "ዓመታ",
+          "t": "ʿamäta",
+          "gl": ""
+        },
+        {
+          "g": "ወስብኩ",
+          "t": "wäsəbəku",
+          "gl": ""
+        },
+        {
+          "g": "ተኀድጎ",
+          "t": "täḫädəgo",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ምድርክሙ",
+          "t": "mədərəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ለኵሉ",
+          "t": "läkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ውስቴታ",
+          "t": "wəsəteta",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ዓመተ",
+          "t": "ʿamätä",
+          "gl": ""
+        },
+        {
+          "g": "ተኀድጎ",
+          "t": "täḫädəgo",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ወተአምረ",
+          "t": "wätäʾämərä",
+          "gl": ""
+        },
+        {
+          "g": "ይኩንክሙ",
+          "t": "yəkunəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወይእቱ",
+          "t": "wäyəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ጥሪቱ",
+          "t": "ṭəritu",
+          "gl": ""
+        },
+        {
+          "g": "ወይሑር",
+          "t": "wäyəḥurə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሀገሩ",
+          "t": "hägäru",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And ye shall sanctify the year, the fiftieth year, and ye shall proclaim a release upon the land to all that inhabit it; it shall be given a year of release, a jubilee for you; and each one shall depart to his possession, and ye shall go each to his family.",
+        "kjv": "And ye shall hallow the fiftieth year, and proclaim liberty throughout all the land unto all the inhabitants thereof: it shall be a jubile unto you; and ye shall return every man unto his possession, and ye shall return every man unto his family."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ትእምርተ ፡ ተኀድጎ ፡ (ወ)ይኩንክሙ ፡ ውእቱ ፡ ዓመት ፡ ዘኀምሳ ፡ ኵላ ፡ ዓመታ ፡ ኢትዘርኡ ፡ ወኢተዐፅዱ ፡ እንበለ ፡\n                  ዘለሊሁ ፡ በቍለ ፡ ወኢትቀሥሙ ፡ ዘተቀደሰ ፡ ባቲ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ትእምርተ",
+          "t": "təʾəmərətä",
+          "gl": ""
+        },
+        {
+          "g": "ተኀድጎ",
+          "t": "täḫädəgo",
+          "gl": ""
+        },
+        {
+          "g": "ወይኩንክሙ",
+          "t": "wäyəkunəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዓመት",
+          "t": "ʿamätə",
+          "gl": ""
+        },
+        {
+          "g": "ዘኀምሳ",
+          "t": "zäḫäməsa",
+          "gl": ""
+        },
+        {
+          "g": "ኵላ",
+          "t": "kwəla",
+          "gl": ""
+        },
+        {
+          "g": "ዓመታ",
+          "t": "ʿamäta",
+          "gl": ""
+        },
+        {
+          "g": "ኢትዘርኡ",
+          "t": "ʾitəzärəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢተዐፅዱ",
+          "t": "wäʾitäʿäṣ́ədu",
+          "gl": ""
+        },
+        {
+          "g": "እንበለ",
+          "t": "ʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "ዘለሊሁ",
+          "t": "zälälihu",
+          "gl": ""
+        },
+        {
+          "g": "በቍለ",
+          "t": "bäqwəlä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢትቀሥሙ",
+          "t": "wäʾitəqäśəmu",
+          "gl": ""
+        },
+        {
+          "g": "ዘተቀደሰ",
+          "t": "zätäqädäsä",
+          "gl": ""
+        },
+        {
+          "g": "ባቲ",
+          "t": "bati",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "This is a jubilee of release, the year shall be to you the fiftieth year: ye shall not sow, nor reap the produce that comes of itself from the land, neither shall ye gather its dedicated fruits.",
+        "kjv": "A jubile shall that fiftieth year be unto you: ye shall not sow, neither reap that which groweth of itself in it, nor gather the grapes in it of thy vine undressed."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "እስመ ፡ ትእምርተ ፡ ተኀድጎ ፡ ውእቱ ፡ ወቅዱሰ ፡ ይኩንክሙ ፡ ወብልዑ ፡ ዘእምውስተ ፡ ገዳም ፡ እክል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ትእምርተ",
+          "t": "təʾəmərətä",
+          "gl": ""
+        },
+        {
+          "g": "ተኀድጎ",
+          "t": "täḫädəgo",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ወቅዱሰ",
+          "t": "wäqədusä",
+          "gl": ""
+        },
+        {
+          "g": "ይኩንክሙ",
+          "t": "yəkunəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወብልዑ",
+          "t": "wäbələʿu",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምውስተ",
+          "t": "zäʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ገዳም",
+          "t": "gädamə",
+          "gl": ""
+        },
+        {
+          "g": "እክል",
+          "t": "ʾəkələ",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For it is a jubilee of release; it shall be holy to you, ye shall eat its fruits off the fields.",
+        "kjv": "For it is the jubile; it shall be holy unto you: ye shall eat the increase thereof out of the field."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወበይእቲ ፡ ዓመት ፡ ዘትእምርተ ፡ ተኀድጎ ፡ የአቱ ፡ ኵሉ ፡ ውስተ ፡ ጥሪቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበይእቲ",
+          "t": "wäbäyəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ዓመት",
+          "t": "ʿamätə",
+          "gl": ""
+        },
+        {
+          "g": "ዘትእምርተ",
+          "t": "zätəʾəmərətä",
+          "gl": ""
+        },
+        {
+          "g": "ተኀድጎ",
+          "t": "täḫädəgo",
+          "gl": ""
+        },
+        {
+          "g": "የአቱ",
+          "t": "yäʾätu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ጥሪቱ",
+          "t": "ṭəritu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "In the year of the release even the jubilee of it, shall each one return to his possession.",
+        "kjv": "In the year of this jubile ye shall return every man unto his possession."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወእመኒ ፡ ቦ ፡ ዘሤጠ ፡ ኀበ ፡ ካልኡ ፡ ወእመኒ ፡ ቦ ፡ ዘተሣየጠ ፡ በኀበ ፡ ካልኡ ፡ ኢያጽኅቦ ፡ ለካልኡ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመኒ",
+          "t": "wäʾəmäni",
+          "gl": ""
+        },
+        {
+          "g": "ቦ",
+          "t": "bo",
+          "gl": ""
+        },
+        {
+          "g": "ዘሤጠ",
+          "t": "zäśeṭä",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ካልኡ",
+          "t": "kaləʾu",
+          "gl": ""
+        },
+        {
+          "g": "ወእመኒ",
+          "t": "wäʾəmäni",
+          "gl": ""
+        },
+        {
+          "g": "ቦ",
+          "t": "bo",
+          "gl": ""
+        },
+        {
+          "g": "ዘተሣየጠ",
+          "t": "zätäśayäṭä",
+          "gl": ""
+        },
+        {
+          "g": "በኀበ",
+          "t": "bäḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ካልኡ",
+          "t": "kaləʾu",
+          "gl": ""
+        },
+        {
+          "g": "ኢያጽኅቦ",
+          "t": "ʾiyaṣəḫəbo",
+          "gl": ""
+        },
+        {
+          "g": "ለካልኡ",
+          "t": "läkaləʾu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if thou shouldest sell a possession to thy neighbour, or if thou shouldest buy of thy neighbour, let not a man oppress his neighbour.",
+        "kjv": "And if thou sell ought unto thy neighbour, or buyest ought of thy neighbour’s hand, ye shall not oppress one another:"
+      }
+    },
+    {
+      "num": 15,
+      "geez": "እምድኅረ ፡ ዓመተ ፡ ትእምርት ፡ ይሠይጥ ፡ ለካልኡ ፡ ወበመዋዕለ ፡ ይዘራእ ፡ እክል ፡ በውእቱ ፡ ዓመት ፡ ይፈድየከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እምድኅረ",
+          "t": "ʾəmədəḫərä",
+          "gl": ""
+        },
+        {
+          "g": "ዓመተ",
+          "t": "ʿamätä",
+          "gl": ""
+        },
+        {
+          "g": "ትእምርት",
+          "t": "təʾəmərətə",
+          "gl": ""
+        },
+        {
+          "g": "ይሠይጥ",
+          "t": "yəśäyəṭə",
+          "gl": ""
+        },
+        {
+          "g": "ለካልኡ",
+          "t": "läkaləʾu",
+          "gl": ""
+        },
+        {
+          "g": "ወበመዋዕለ",
+          "t": "wäbämäwaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይዘራእ",
+          "t": "yəzäraʾə",
+          "gl": ""
+        },
+        {
+          "g": "እክል",
+          "t": "ʾəkələ",
+          "gl": ""
+        },
+        {
+          "g": "በውእቱ",
+          "t": "bäwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዓመት",
+          "t": "ʿamätə",
+          "gl": ""
+        },
+        {
+          "g": "ይፈድየከ",
+          "t": "yəfädəyäkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "According to the number of years after the jubilee shalt thou buy of thy neighbour, according to the number of years of the fruits shall he sell to thee.",
+        "kjv": "According to the number of years after the jubile thou shalt buy of thy neighbour, and according unto the number of years of the fruits he shall sell unto thee:"
+      }
+    },
+    {
+      "num": 16,
+      "geez": "በአምጣነ ፡ ብዝኆሙ ፡ ለእማንቱ ፡ ዓመት ፡ ያበዝኅ ፡ ጥሪቶ ፡ ወአመ ፡ ይትኀደጉ ፡ ውእቶሙ ፡ ዓመት ፡ የኀድግ ፡\n                  ተሣይጦ ፡ ወበመዋዕለ ፡ ይዘራእ ፡ እክል ፡ ይፈድየከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "በአምጣነ",
+          "t": "bäʾäməṭanä",
+          "gl": ""
+        },
+        {
+          "g": "ብዝኆሙ",
+          "t": "bəzəḫomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእማንቱ",
+          "t": "läʾəmanətu",
+          "gl": ""
+        },
+        {
+          "g": "ዓመት",
+          "t": "ʿamätə",
+          "gl": ""
+        },
+        {
+          "g": "ያበዝኅ",
+          "t": "yabäzəḫə",
+          "gl": ""
+        },
+        {
+          "g": "ጥሪቶ",
+          "t": "ṭərito",
+          "gl": ""
+        },
+        {
+          "g": "ወአመ",
+          "t": "wäʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ይትኀደጉ",
+          "t": "yətəḫädägu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቶሙ",
+          "t": "wəʾətomu",
+          "gl": ""
+        },
+        {
+          "g": "ዓመት",
+          "t": "ʿamätə",
+          "gl": ""
+        },
+        {
+          "g": "የኀድግ",
+          "t": "yäḫädəgə",
+          "gl": ""
+        },
+        {
+          "g": "ተሣይጦ",
+          "t": "täśayəṭo",
+          "gl": ""
+        },
+        {
+          "g": "ወበመዋዕለ",
+          "t": "wäbämäwaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይዘራእ",
+          "t": "yəzäraʾə",
+          "gl": ""
+        },
+        {
+          "g": "እክል",
+          "t": "ʾəkələ",
+          "gl": ""
+        },
+        {
+          "g": "ይፈድየከ",
+          "t": "yəfädəyäkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "According as there may be a greater number of years he shall increase the value of his possession, and according as there may be a less number of years he shall lessen the value of his possession; for according to the number of his crops, so shall he sell to thee.",
+        "kjv": "According to the multitude of years thou shalt increase the price thereof, and according to the fewness of years thou shalt diminish the price of it: for according to the number of the years of the fruits doth he sell unto thee."
+      }
+    },
+    {
+      "num": 17,
+      "geez": "ወኢያጽኅብ ፡ ሰብእ ፡ ለካልኡ ፡ ወፍራህ ፡ እግዚአብሔር ፡ አምላክከ ፡ እስመ ፡ አነ ፡ እግዚአብሔር ፡ አምላክክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኢያጽኅብ",
+          "t": "wäʾiyaṣəḫəbə",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ለካልኡ",
+          "t": "läkaləʾu",
+          "gl": ""
+        },
+        {
+          "g": "ወፍራህ",
+          "t": "wäfərahə",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላክከ",
+          "t": "ʾäməlakəkä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላክክሙ",
+          "t": "ʾäməlakəkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Let not a man oppress his neighbour, and thou shalt fear the Lord thy God: I am the Lord thy God.",
+        "kjv": "Ye shall not therefore oppress one another; but thou shalt fear thy God:for I am the LORD your God."
+      }
+    },
+    {
+      "num": 18,
+      "geez": "ወግበሩ ፡ ኵሎ ፡ ኵነኔየ ፡ ወኵሎ ፡ ፍትሕየ ፡ ወዕቀብዎ ፡ ወግበርዎ ፡ ወትነብሩ ፡ ውስተ ፡ ምድርክሙ ፡ ተአሚነክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወግበሩ",
+          "t": "wägəbäru",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ኵነኔየ",
+          "t": "kwənäneyä",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ፍትሕየ",
+          "t": "fətəḥəyä",
+          "gl": ""
+        },
+        {
+          "g": "ወዕቀብዎ",
+          "t": "wäʿəqäbəwo",
+          "gl": ""
+        },
+        {
+          "g": "ወግበርዎ",
+          "t": "wägəbärəwo",
+          "gl": ""
+        },
+        {
+          "g": "ወትነብሩ",
+          "t": "wätənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድርክሙ",
+          "t": "mədərəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ተአሚነክሙ",
+          "t": "täʾäminäkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And ye shall keep all my ordinances, and all my judgments; and do ye observe them, and ye shall keep them, and dwell securely in the land.",
+        "kjv": "Wherefore ye shall do my statutes, and keep my judgments, and do them; and ye shall dwell in the land in safety."
+      }
+    },
+    {
+      "num": 19,
+      "geez": "ወትሁበክሙ ፡ ምድር ፡ ፍሬሃ ፡ ወትበልዑ ፡ ወትጸግቡ ፡ ወትነብሩ ፡ ውስቴታ ፡ እንዘ ፡ ትትአመኑ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትሁበክሙ",
+          "t": "wätəhubäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ፍሬሃ",
+          "t": "fəreha",
+          "gl": ""
+        },
+        {
+          "g": "ወትበልዑ",
+          "t": "wätəbäləʿu",
+          "gl": ""
+        },
+        {
+          "g": "ወትጸግቡ",
+          "t": "wätəṣägəbu",
+          "gl": ""
+        },
+        {
+          "g": "ወትነብሩ",
+          "t": "wätənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ውስቴታ",
+          "t": "wəsəteta",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ትትአመኑ",
+          "t": "tətəʾämänu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the land shall yield her increase, and ye shall eat to fulness, and shall dwell securely in it.",
+        "kjv": "And the land shall yield her fruit, and ye shall eat your fill, and dwell therein in safety."
+      }
+    },
+    {
+      "num": 20,
+      "geez": "ወእመሰ ፡ ትብሉ ፡ ምንተ ፡ ንበልዕ ፡ በውእቱ ፡ ሳብዕ ፡ ዓም ፡ ለእመ ፡ ኢዘራእነ ፡ ወለእመ ፡ ኢያስተጋባእነ ፡\n                  እክለነ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "ትብሉ",
+          "t": "təbəlu",
+          "gl": ""
+        },
+        {
+          "g": "ምንተ",
+          "t": "mənətä",
+          "gl": ""
+        },
+        {
+          "g": "ንበልዕ",
+          "t": "nəbäləʿə",
+          "gl": ""
+        },
+        {
+          "g": "በውእቱ",
+          "t": "bäwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ሳብዕ",
+          "t": "sabəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ዓም",
+          "t": "ʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ለእመ",
+          "t": "läʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኢዘራእነ",
+          "t": "ʾizäraʾənä",
+          "gl": ""
+        },
+        {
+          "g": "ወለእመ",
+          "t": "wäläʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኢያስተጋባእነ",
+          "t": "ʾiyasətägabaʾənä",
+          "gl": ""
+        },
+        {
+          "g": "እክለነ",
+          "t": "ʾəkəlänä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if ye should say, What shall we eat in this seventh year, if we do not sow nor gather in our fruits?",
+        "kjv": "And if ye shall say, What shall we eat the seventh year? behold, we shall not sow, nor gather in our increase:"
+      }
+    },
+    {
+      "num": 21,
+      "geez": "እፌኑ ፡ በረከትየ ፡ ለክሙ ፡ አመ ፡ ሳድስ ፡ ዓም ፡ ወትገብር ፡ ፍሬሃ ፡ ዘሠለስቱ ፡ ዓመት ፡ እክል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እፌኑ",
+          "t": "ʾəfenu",
+          "gl": ""
+        },
+        {
+          "g": "በረከትየ",
+          "t": "bäräkätəyä",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ሳድስ",
+          "t": "sadəsə",
+          "gl": ""
+        },
+        {
+          "g": "ዓም",
+          "t": "ʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ወትገብር",
+          "t": "wätəgäbərə",
+          "gl": ""
+        },
+        {
+          "g": "ፍሬሃ",
+          "t": "fəreha",
+          "gl": ""
+        },
+        {
+          "g": "ዘሠለስቱ",
+          "t": "zäśäläsətu",
+          "gl": ""
+        },
+        {
+          "g": "ዓመት",
+          "t": "ʿamätə",
+          "gl": ""
+        },
+        {
+          "g": "እክል",
+          "t": "ʾəkələ",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Then will I send my blessing upon you in the sixth year, and the land shall produce its fruits for three years.",
+        "kjv": "Then I will command my blessing upon you in the sixth year, and it shall bring forth fruit for three years."
+      }
+    },
+    {
+      "num": 22,
+      "geez": "ወትዘርኡ ፡ እምኔሁ ፡ በሳምንኒ ፡ ዓም ፡ ወትበልዑ ፡ እምውእቱ ፡ እክል ፡ ከራሚ ፡ እስከ ፡ ታስዕ ፡ ዓም ፡ እስከ ፡\n                  አመ ፡ ይበጽሕ ፡ እክላ ፡ ትበልዑ ፡ ብሉየ ፡ ከራሜ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትዘርኡ",
+          "t": "wätəzärəʾu",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "በሳምንኒ",
+          "t": "bäsamənəni",
+          "gl": ""
+        },
+        {
+          "g": "ዓም",
+          "t": "ʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ወትበልዑ",
+          "t": "wätəbäləʿu",
+          "gl": ""
+        },
+        {
+          "g": "እምውእቱ",
+          "t": "ʾəməwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "እክል",
+          "t": "ʾəkələ",
+          "gl": ""
+        },
+        {
+          "g": "ከራሚ",
+          "t": "kärami",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ታስዕ",
+          "t": "tasəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ዓም",
+          "t": "ʿamə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ይበጽሕ",
+          "t": "yəbäṣəḥə",
+          "gl": ""
+        },
+        {
+          "g": "እክላ",
+          "t": "ʾəkəla",
+          "gl": ""
+        },
+        {
+          "g": "ትበልዑ",
+          "t": "təbäləʿu",
+          "gl": ""
+        },
+        {
+          "g": "ብሉየ",
+          "t": "bəluyä",
+          "gl": ""
+        },
+        {
+          "g": "ከራሜ",
+          "t": "kärame",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And ye shall sow in the eighth year, and eat old fruits till the ninth year: until its fruit come, ye shall eat old fruits of the old.",
+        "kjv": "And ye shall sow the eighth year, and eat yet of old fruit until the ninth year; until her fruits come in ye shall eat of the old store."
+      }
+    },
+    {
+      "num": 23,
+      "geez": "ወምድርኒ ፡ ኢትሠየጥ ፡ ስሉጠ ፡ እስመ ፡ እንቲአየ ፡ ይእቲ ፡ ምድር ፡ ወእስመ ፡ አንትሙ ፡ ግዩራነ ፡ ወፈላስያነ ፡\n                  ኮንክሙ ፡ ቅድሜየ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወምድርኒ",
+          "t": "wämədərəni",
+          "gl": ""
+        },
+        {
+          "g": "ኢትሠየጥ",
+          "t": "ʾitəśäyäṭə",
+          "gl": ""
+        },
+        {
+          "g": "ስሉጠ",
+          "t": "səluṭä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "እንቲአየ",
+          "t": "ʾənətiʾäyä",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ወእስመ",
+          "t": "wäʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አንትሙ",
+          "t": "ʾänətəmu",
+          "gl": ""
+        },
+        {
+          "g": "ግዩራነ",
+          "t": "gəyuranä",
+          "gl": ""
+        },
+        {
+          "g": "ወፈላስያነ",
+          "t": "wäfälasəyanä",
+          "gl": ""
+        },
+        {
+          "g": "ኮንክሙ",
+          "t": "konəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ቅድሜየ",
+          "t": "qədəmeyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the land shall not be sold for a permanence; for the land is mine, because ye are strangers and sojourners before me.",
+        "kjv": "The land shall not be sold for ever: for the land is mine; for ye are strangers and sojourners with me."
+      }
+    },
+    {
+      "num": 24,
+      "geez": "ወበኵሉ ፡ ደወለ ፡ ምድርክሙ ፡ ኀበ ፡ ምኵናነ ፡ ዘዚአክሙ ፡ ታቤዝዉ ፡ ምድረ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበኵሉ",
+          "t": "wäbäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ደወለ",
+          "t": "däwälä",
+          "gl": ""
+        },
+        {
+          "g": "ምድርክሙ",
+          "t": "mədərəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ምኵናነ",
+          "t": "məkwənanä",
+          "gl": ""
+        },
+        {
+          "g": "ዘዚአክሙ",
+          "t": "zäziʾäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ታቤዝዉ",
+          "t": "tabezəwu",
+          "gl": ""
+        },
+        {
+          "g": "ምድረ",
+          "t": "mədərä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And in every land of your possession, ye shall allow ransoms for the land.",
+        "kjv": "And in all the land of your possession ye shall grant a redemption for the land."
+      }
+    },
+    {
+      "num": 25,
+      "geez": "ለእመ ፡ ነደየ ፡ ካልእከ ፡ ዘምስሌከ ፡ ወሤጠከ ፡ ምድሮ ፡ ወእምዝ ፡ መጽአ ፡ ዘቅሩቡ ፡ ዘይኰስዮ ፡ ታቤዝዎ ፡ ዘሤጠ\n                  ፡ እኁሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ለእመ",
+          "t": "läʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ነደየ",
+          "t": "nädäyä",
+          "gl": ""
+        },
+        {
+          "g": "ካልእከ",
+          "t": "kaləʾəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዘምስሌከ",
+          "t": "zäməsəlekä",
+          "gl": ""
+        },
+        {
+          "g": "ወሤጠከ",
+          "t": "wäśeṭäkä",
+          "gl": ""
+        },
+        {
+          "g": "ምድሮ",
+          "t": "mədəro",
+          "gl": ""
+        },
+        {
+          "g": "ወእምዝ",
+          "t": "wäʾəməzə",
+          "gl": ""
+        },
+        {
+          "g": "መጽአ",
+          "t": "mäṣəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ዘቅሩቡ",
+          "t": "zäqərubu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይኰስዮ",
+          "t": "zäyəkwäsəyo",
+          "gl": ""
+        },
+        {
+          "g": "ታቤዝዎ",
+          "t": "tabezəwo",
+          "gl": ""
+        },
+        {
+          "g": "ዘሤጠ",
+          "t": "zäśeṭä",
+          "gl": ""
+        },
+        {
+          "g": "እኁሁ",
+          "t": "ʾəḫuhu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if thy brother who is with thee be poor, and should have sold part of his possession, and his kinsman who is nigh to him come, then he shall redeem the possession which his brother has sold.",
+        "kjv": "If thy brother be waxen poor, and hath sold away some of his possession, and if any of his kin come to redeem it, then shall he redeem that which his brother sold."
+      }
+    },
+    {
+      "num": 26,
+      "geez": "ወእመኒ ፡ ዘአልቦ ፡ ዘይኰስዮ ፡ ውእቱ ፡ ወእምዝ ፡ ረከበ ፡ ውስተ ፡ እዴሁ ፡ ወአእከለ ፡ ለቤዝወቱ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመኒ",
+          "t": "wäʾəmäni",
+          "gl": ""
+        },
+        {
+          "g": "ዘአልቦ",
+          "t": "zäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘይኰስዮ",
+          "t": "zäyəkwäsəyo",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ወእምዝ",
+          "t": "wäʾəməzə",
+          "gl": ""
+        },
+        {
+          "g": "ረከበ",
+          "t": "räkäbä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        },
+        {
+          "g": "ወአእከለ",
+          "t": "wäʾäʾəkälä",
+          "gl": ""
+        },
+        {
+          "g": "ለቤዝወቱ",
+          "t": "läbezəwätu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if one have no near kinsman, and he prosper with his hand, and he find sufficient money, even his ransom;",
+        "kjv": "And if the man have none to redeem it, and himself be able to redeem it;"
+      }
+    },
+    {
+      "num": 27,
+      "geez": "ወይኌልቁ ፡ ሎቱ ፡ ዓመተ ፡ ዘእምአመ ፡ ሤጠ ፡ ወይፈድዮ ፡ በመጠነ ፡ በጽሐ ፡ ለውእቱ ፡ ብእሲ ፡ ዘኀቤሁ ፡ ሤጠ ፡\n                  ወይገብእ ፡ ሎቱ ፡ ገራህቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይኌልቁ",
+          "t": "wäyəḫweləqu",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ዓመተ",
+          "t": "ʿamätä",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምአመ",
+          "t": "zäʾəməʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ሤጠ",
+          "t": "śeṭä",
+          "gl": ""
+        },
+        {
+          "g": "ወይፈድዮ",
+          "t": "wäyəfädəyo",
+          "gl": ""
+        },
+        {
+          "g": "በመጠነ",
+          "t": "bämäṭänä",
+          "gl": ""
+        },
+        {
+          "g": "በጽሐ",
+          "t": "bäṣəḥä",
+          "gl": ""
+        },
+        {
+          "g": "ለውእቱ",
+          "t": "läwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ዘኀቤሁ",
+          "t": "zäḫäbehu",
+          "gl": ""
+        },
+        {
+          "g": "ሤጠ",
+          "t": "śeṭä",
+          "gl": ""
+        },
+        {
+          "g": "ወይገብእ",
+          "t": "wäyəgäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ገራህቱ",
+          "t": "gärahətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "then shall he calculate the years of his sale, and he shall give what is due to the man to whom he sold it, and he shall return to his possession.",
+        "kjv": "Then let him count the years of the sale thereof, and restore the overplus unto the man to whom he sold it; that he may return unto his possession."
+      }
+    },
+    {
+      "num": 28,
+      "geez": "ወእመሰ ፡ ኢረከበ ፡ ውስተ ፡ እዴሁ ፡ በአምጣነ ፡ ይፈድዮ ፡ ይከውን ፡ ገራህቱ ፡ ለዘተሣየጦ ፡ እስከ ፡ አመ ፡ ዓመተ\n                  ፡ ተኀድጎ ፡ ወየሐውር ፡ በዓመተ ፡ ተኀድጎ ፡ ወያገብእ ፡ ሎቱ ፡ ገራህቶ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "ኢረከበ",
+          "t": "ʾiräkäbä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        },
+        {
+          "g": "በአምጣነ",
+          "t": "bäʾäməṭanä",
+          "gl": ""
+        },
+        {
+          "g": "ይፈድዮ",
+          "t": "yəfädəyo",
+          "gl": ""
+        },
+        {
+          "g": "ይከውን",
+          "t": "yəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ገራህቱ",
+          "t": "gärahətu",
+          "gl": ""
+        },
+        {
+          "g": "ለዘተሣየጦ",
+          "t": "läzätäśayäṭo",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ዓመተ",
+          "t": "ʿamätä",
+          "gl": ""
+        },
+        {
+          "g": "ተኀድጎ",
+          "t": "täḫädəgo",
+          "gl": ""
+        },
+        {
+          "g": "ወየሐውር",
+          "t": "wäyäḥäwərə",
+          "gl": ""
+        },
+        {
+          "g": "በዓመተ",
+          "t": "bäʿamätä",
+          "gl": ""
+        },
+        {
+          "g": "ተኀድጎ",
+          "t": "täḫädəgo",
+          "gl": ""
+        },
+        {
+          "g": "ወያገብእ",
+          "t": "wäyagäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ገራህቶ",
+          "t": "gärahəto",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But if his hand have not prospered sufficiently, so as that he should restore the money to him, then he that bought the possessions shall have them till the sixth year of the release; and it shall go out in the release, and the owner shall return to his possession.",
+        "kjv": "But if he be not able to restore it to him, then that which is sold shall remain in the hand of him that hath bought it until the year of jubile: and in the jubile it shall go out, and he shall return unto his possession."
+      }
+    },
+    {
+      "num": 29,
+      "geez": "ወለእመቦ ፡ ዘሤጠ ፡ ቤቶ ፡ ወበውስተ ፡ ሀገር ፡ እንተ ፡ ባቲ ፡ ቅጽረ ፡ እስከ ፡ ይፌጽም ፡ መዋዕለ ፡ ይእቲ ፡ ዓመት\n                  ፡ ይከውኖ ፡ ለቤዝዎ ፡ ወያቤዝውዎ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለእመቦ",
+          "t": "wäläʾəmäbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘሤጠ",
+          "t": "zäśeṭä",
+          "gl": ""
+        },
+        {
+          "g": "ቤቶ",
+          "t": "beto",
+          "gl": ""
+        },
+        {
+          "g": "ወበውስተ",
+          "t": "wäbäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሀገር",
+          "t": "hägärə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ባቲ",
+          "t": "bati",
+          "gl": ""
+        },
+        {
+          "g": "ቅጽረ",
+          "t": "qəṣərä",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ይፌጽም",
+          "t": "yəfeṣəmə",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕለ",
+          "t": "mäwaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ዓመት",
+          "t": "ʿamätə",
+          "gl": ""
+        },
+        {
+          "g": "ይከውኖ",
+          "t": "yəkäwəno",
+          "gl": ""
+        },
+        {
+          "g": "ለቤዝዎ",
+          "t": "läbezəwo",
+          "gl": ""
+        },
+        {
+          "g": "ወያቤዝውዎ",
+          "t": "wäyabezəwəwo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if any one should sell an inhabited house in a walled city, then there shall be the ransom of it, until the time is fulfilled: its time of ransom shall be a full year.",
+        "kjv": "And if a man sell a dwelling house in a walled city, then he may redeem it within a whole year after it is sold; within a full year may he redeem it."
+      }
+    },
+    {
+      "num": 30,
+      "geez": "ወእመሰ ፡ ተፈጸመት ፡ ኵላ ፡ ይእቲ ፡ ዓመት ፡ ወኢቤዘወ ፡ ስሉጠ ፡ ይከውኖ ፡ ውእቱ ፡ ቤት ፡ ለዘተሣየጠ ፡ ወየሐትትዎ\n                  ፡ ሎቱ ፡ ውእተ ፡ ቤተ ፡ ዘሀለወ ፡ ውስተ ፡ ሀገር ፡ እንተ ፡ ባቲ ፡ ቅጽረ ፡ ወይከውኖ ፡ ለውሉዶ ፡ ውሉዱ ፡ ወኢይነሥእዎ\n                  ፡ እምኔሁ ፡ አመ ፡ ተኀድጎ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "ተፈጸመት",
+          "t": "täfäṣämätə",
+          "gl": ""
+        },
+        {
+          "g": "ኵላ",
+          "t": "kwəla",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ዓመት",
+          "t": "ʿamätə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢቤዘወ",
+          "t": "wäʾibezäwä",
+          "gl": ""
+        },
+        {
+          "g": "ስሉጠ",
+          "t": "səluṭä",
+          "gl": ""
+        },
+        {
+          "g": "ይከውኖ",
+          "t": "yəkäwəno",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ቤት",
+          "t": "betə",
+          "gl": ""
+        },
+        {
+          "g": "ለዘተሣየጠ",
+          "t": "läzätäśayäṭä",
+          "gl": ""
+        },
+        {
+          "g": "ወየሐትትዎ",
+          "t": "wäyäḥätətəwo",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ውእተ",
+          "t": "wəʾətä",
+          "gl": ""
+        },
+        {
+          "g": "ቤተ",
+          "t": "betä",
+          "gl": ""
+        },
+        {
+          "g": "ዘሀለወ",
+          "t": "zähäläwä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሀገር",
+          "t": "hägärə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ባቲ",
+          "t": "bati",
+          "gl": ""
+        },
+        {
+          "g": "ቅጽረ",
+          "t": "qəṣərä",
+          "gl": ""
+        },
+        {
+          "g": "ወይከውኖ",
+          "t": "wäyəkäwəno",
+          "gl": ""
+        },
+        {
+          "g": "ለውሉዶ",
+          "t": "läwəludo",
+          "gl": ""
+        },
+        {
+          "g": "ውሉዱ",
+          "t": "wəludu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይነሥእዎ",
+          "t": "wäʾiyənäśəʾəwo",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ተኀድጎ",
+          "t": "täḫädəgo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if it be not ransomed until there be completed of its time a full year, the house which is in the walled city shall be surely confirmed to him that bought it, throughout his generations; and it shall not go out in the release.",
+        "kjv": "And if it be not redeemed within the space of a full year, then the house that is in the walled city shall be established for ever to him that bought it throughout his generations: it shall not go out in the jubile."
+      }
+    },
+    {
+      "num": 31,
+      "geez": "ወአብያተሰ ፡ ዘውስተ ፡ ሀገር ፡ እንተ ፡ አልባቲ ፡ ቅጽረ ፡ ዐውዳ ፡ ከመ ፡ ገራህተ ፡ ምድር ፡ ይትቤዘዉ ፡ ወበኵሉ ፡\n                  ጊዜ ፡ ያቤዝውዎ ፡ ወአመ ፡ ተኀድጎኒ ፡ ያገብእዎ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአብያተሰ",
+          "t": "wäʾäbəyatäsä",
+          "gl": ""
+        },
+        {
+          "g": "ዘውስተ",
+          "t": "zäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሀገር",
+          "t": "hägärə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "አልባቲ",
+          "t": "ʾäləbati",
+          "gl": ""
+        },
+        {
+          "g": "ቅጽረ",
+          "t": "qəṣərä",
+          "gl": ""
+        },
+        {
+          "g": "ዐውዳ",
+          "t": "ʿäwəda",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ገራህተ",
+          "t": "gärahətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ይትቤዘዉ",
+          "t": "yətəbezäwu",
+          "gl": ""
+        },
+        {
+          "g": "ወበኵሉ",
+          "t": "wäbäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ጊዜ",
+          "t": "gize",
+          "gl": ""
+        },
+        {
+          "g": "ያቤዝውዎ",
+          "t": "yabezəwəwo",
+          "gl": ""
+        },
+        {
+          "g": "ወአመ",
+          "t": "wäʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ተኀድጎኒ",
+          "t": "täḫädəgoni",
+          "gl": ""
+        },
+        {
+          "g": "ያገብእዎ",
+          "t": "yagäbəʾəwo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But the houses in the villages which have not a wall round about them, shall be reckoned as the fields of the country: they shall always be redeemable, and they shall go out in the release.",
+        "kjv": "But the houses of the villages which have no wall round about them shall be counted as the fields of the country: they may be redeemed, and they shall go out in the jubile."
+      }
+    },
+    {
+      "num": 32,
+      "geez": "ወአህጉረ ፡ ሌዋውያንኒ ፡ ይትቤዘዉ ፡ በኵሉ ፡ ጊዜ ፡ አብያቲሆሙ ፡ ዘውስተ ፡ አህጉሪሆሙ ፡ ወያቤዝውዎሙ ፡ ለሌዋውያን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአህጉረ",
+          "t": "wäʾähəgurä",
+          "gl": ""
+        },
+        {
+          "g": "ሌዋውያንኒ",
+          "t": "lewawəyanəni",
+          "gl": ""
+        },
+        {
+          "g": "ይትቤዘዉ",
+          "t": "yətəbezäwu",
+          "gl": ""
+        },
+        {
+          "g": "በኵሉ",
+          "t": "bäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ጊዜ",
+          "t": "gize",
+          "gl": ""
+        },
+        {
+          "g": "አብያቲሆሙ",
+          "t": "ʾäbəyatihomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘውስተ",
+          "t": "zäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አህጉሪሆሙ",
+          "t": "ʾähəgurihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወያቤዝውዎሙ",
+          "t": "wäyabezəwəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለሌዋውያን",
+          "t": "lälewawəyanə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the cities of the Levites, the houses of the cities in their possession, shall be always redeemable to the Levites.",
+        "kjv": "Notwithstanding the cities of the Levites, and the houses of the cities of their possession, may the Levites redeem at any time."
+      }
+    },
+    {
+      "num": 33,
+      "geez": "ወኵሉ ፡ ዘተቤዘወ ፡ በኀበ ፡ ሌዋውያን ፡ ወእመኒ ፡ አብያት ፡ ዘውስተ ፡ አህጉሪሆሙ ፡ ዘገብአ ፡ ለአብዕልቲሁ ፡ ተሠይጦ\n                  ፡ ዘአግብኡ ፡ አመ ፡ ተኀድጎ ፡ በደወለ ፡ ዚአሆሙ ፡ እስመ ፡ አብያተ ፡ አህጉሪሆሙ ፡ ለሌዋውያን ፡ ውእቱ ፡ [ምኵናን] ፡\n                  ዘዚአሆሙ ፡ ይኩን ፡ በማእከሎሙ ፡ ለደቂቀ ፡ እስራኤል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘተቤዘወ",
+          "t": "zätäbezäwä",
+          "gl": ""
+        },
+        {
+          "g": "በኀበ",
+          "t": "bäḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ሌዋውያን",
+          "t": "lewawəyanə",
+          "gl": ""
+        },
+        {
+          "g": "ወእመኒ",
+          "t": "wäʾəmäni",
+          "gl": ""
+        },
+        {
+          "g": "አብያት",
+          "t": "ʾäbəyatə",
+          "gl": ""
+        },
+        {
+          "g": "ዘውስተ",
+          "t": "zäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አህጉሪሆሙ",
+          "t": "ʾähəgurihomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘገብአ",
+          "t": "zägäbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ለአብዕልቲሁ",
+          "t": "läʾäbəʿələtihu",
+          "gl": ""
+        },
+        {
+          "g": "ተሠይጦ",
+          "t": "täśäyəṭo",
+          "gl": ""
+        },
+        {
+          "g": "ዘአግብኡ",
+          "t": "zäʾägəbəʾu",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ተኀድጎ",
+          "t": "täḫädəgo",
+          "gl": ""
+        },
+        {
+          "g": "በደወለ",
+          "t": "bädäwälä",
+          "gl": ""
+        },
+        {
+          "g": "ዚአሆሙ",
+          "t": "ziʾähomu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አብያተ",
+          "t": "ʾäbəyatä",
+          "gl": ""
+        },
+        {
+          "g": "አህጉሪሆሙ",
+          "t": "ʾähəgurihomu",
+          "gl": ""
+        },
+        {
+          "g": "ለሌዋውያን",
+          "t": "lälewawəyanə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ምኵናን",
+          "t": "məkwənanə",
+          "gl": ""
+        },
+        {
+          "g": "ዘዚአሆሙ",
+          "t": "zäziʾähomu",
+          "gl": ""
+        },
+        {
+          "g": "ይኩን",
+          "t": "yəkunə",
+          "gl": ""
+        },
+        {
+          "g": "በማእከሎሙ",
+          "t": "bämaʾəkälomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if any one shall redeem a house of the Levites, then shall their sale of the houses of their possession go out in the release; because the houses of the cities of the Levites are their possession in the midst of the children of Israel.",
+        "kjv": "And if a man purchase of the Levites, then the house that was sold, and the city of his possession, shall go out in the year of jubile: for the houses of the cities of the Levites are their possession among the children of Israel."
+      }
+    },
+    {
+      "num": 34,
+      "geez": "ወገራውህኒ ፡ ዘደወለ ፡ አህጉሪሆሙ ፡ ኢይሠየጥ ፡ እስመ ፡ ደወሎሙ ፡ ውእቱ ፡ ዘለዓለም ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወገራውህኒ",
+          "t": "wägärawəhəni",
+          "gl": ""
+        },
+        {
+          "g": "ዘደወለ",
+          "t": "zädäwälä",
+          "gl": ""
+        },
+        {
+          "g": "አህጉሪሆሙ",
+          "t": "ʾähəgurihomu",
+          "gl": ""
+        },
+        {
+          "g": "ኢይሠየጥ",
+          "t": "ʾiyəśäyäṭə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ደወሎሙ",
+          "t": "däwälomu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘለዓለም",
+          "t": "zäläʿalämə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the lands set apart for their cities shall not be sold, because this is their perpetual possession.",
+        "kjv": "But the field of the suburbs of their cities may not be sold; for it is their perpetual possession."
+      }
+    },
+    {
+      "num": 35,
+      "geez": "ወእመኒ ፡ ነደየ ፡ ካልእከ ፡ ዘምስሌከ ፡ ወስእነ ፡ ተገብሮ ፡ በኀቤከ ፡ ተዐቅቦ ፡ ከመ ፡ ግዩር ፡ ወፈላስ ፡ ወየሐዩ\n                  ፡ ካልእከ ፡ ምስሌከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመኒ",
+          "t": "wäʾəmäni",
+          "gl": ""
+        },
+        {
+          "g": "ነደየ",
+          "t": "nädäyä",
+          "gl": ""
+        },
+        {
+          "g": "ካልእከ",
+          "t": "kaləʾəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዘምስሌከ",
+          "t": "zäməsəlekä",
+          "gl": ""
+        },
+        {
+          "g": "ወስእነ",
+          "t": "wäsəʾənä",
+          "gl": ""
+        },
+        {
+          "g": "ተገብሮ",
+          "t": "tägäbəro",
+          "gl": ""
+        },
+        {
+          "g": "በኀቤከ",
+          "t": "bäḫäbekä",
+          "gl": ""
+        },
+        {
+          "g": "ተዐቅቦ",
+          "t": "täʿäqəbo",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ግዩር",
+          "t": "gəyurə",
+          "gl": ""
+        },
+        {
+          "g": "ወፈላስ",
+          "t": "wäfälasə",
+          "gl": ""
+        },
+        {
+          "g": "ወየሐዩ",
+          "t": "wäyäḥäyu",
+          "gl": ""
+        },
+        {
+          "g": "ካልእከ",
+          "t": "kaləʾəkä",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌከ",
+          "t": "məsəlekä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if thy brother who is with thee become poor, and he fail in resources with thee, thou shalt help him as a stranger and a sojourner, and thy brother shall live with thee.",
+        "kjv": "And if thy brother be waxen poor, and fallen in decay with thee; then thou shalt relieve him: yea, though he be a stranger, or a sojourner; that he may live with thee."
+      }
+    },
+    {
+      "num": 36,
+      "geez": "ወኢትንሣእ ፡ እምኔሁ ፡ ርዴ ፡ ወኢእመ ፡ ብዙኀ ፡ አጐንደየ ፡ ወፍራህ ፡ አምላክከ ፡ እስመ ፡ አነ ፡ እግዚአብሔር ፡\n                  ወይሕየው ፡ ካልእከ ፡ ምስሌከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኢትንሣእ",
+          "t": "wäʾitənəśaʾə",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "ርዴ",
+          "t": "rəde",
+          "gl": ""
+        },
+        {
+          "g": "ወኢእመ",
+          "t": "wäʾiʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ብዙኀ",
+          "t": "bəzuḫä",
+          "gl": ""
+        },
+        {
+          "g": "አጐንደየ",
+          "t": "ʾägwänədäyä",
+          "gl": ""
+        },
+        {
+          "g": "ወፍራህ",
+          "t": "wäfərahə",
+          "gl": ""
+        },
+        {
+          "g": "አምላክከ",
+          "t": "ʾäməlakəkä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወይሕየው",
+          "t": "wäyəḥəyäwə",
+          "gl": ""
+        },
+        {
+          "g": "ካልእከ",
+          "t": "kaləʾəkä",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌከ",
+          "t": "məsəlekä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Thou shalt not receive from him interest, nor increase: and thou shalt fear thy God: I am the Lord: and thy brother shall live with thee.",
+        "kjv": "Take thou no usury of him, or increase: but fear thy God; that thy brother may live with thee."
+      }
+    },
+    {
+      "num": 37,
+      "geez": "ወኢትሁቦ ፡ ወርቀከ ፡ በርዴ ፡ ወ[እክለከኒ] ፡ ኢትትረደዮ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኢትሁቦ",
+          "t": "wäʾitəhubo",
+          "gl": ""
+        },
+        {
+          "g": "ወርቀከ",
+          "t": "wärəqäkä",
+          "gl": ""
+        },
+        {
+          "g": "በርዴ",
+          "t": "bärəde",
+          "gl": ""
+        },
+        {
+          "g": "ወእክለከኒ",
+          "t": "wäʾəkəläkäni",
+          "gl": ""
+        },
+        {
+          "g": "ኢትትረደዮ",
+          "t": "ʾitətərädäyo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Thou shalt not lend thy money to him at interest, and thou shalt not lend thy meat to him to be returned with increase.",
+        "kjv": "Thou shalt not give him thy money upon usury, nor lend him thy victuals for increase."
+      }
+    },
+    {
+      "num": 38,
+      "geez": "እስመ ፡ አነ ፡ እግዚአብሔር ፡ ዘአውፃእኩክሙ ፡ እምነ ፡ ምድረ ፡ ግብጽ ፡ ከመ ፡ አሀብክሙ ፡ ምድረ ፡ ከናአን ፡\n                  ወእኩንክሙ ፡ አምላክክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ዘአውፃእኩክሙ",
+          "t": "zäʾäwəṣ́aʾəkukəmu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ምድረ",
+          "t": "mədərä",
+          "gl": ""
+        },
+        {
+          "g": "ግብጽ",
+          "t": "gəbəṣə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "አሀብክሙ",
+          "t": "ʾähäbəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ምድረ",
+          "t": "mədərä",
+          "gl": ""
+        },
+        {
+          "g": "ከናአን",
+          "t": "känaʾänə",
+          "gl": ""
+        },
+        {
+          "g": "ወእኩንክሙ",
+          "t": "wäʾəkunəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "አምላክክሙ",
+          "t": "ʾäməlakəkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "I am the Lord your God, who brought you out of the land of Egypt, to give you the land of Chanaan, so as to be your God.",
+        "kjv": "I am the LORD your God, which brought you forth out of the land of Egypt, to give you the land of Canaan, and to be your God."
+      }
+    },
+    {
+      "num": 39,
+      "geez": "ወእመ ፡ ተፀነሰ ፡ ካልእከ ፡ ወተሠይጠ ፡ ኀቤከ ፡ ኢይትቀነይ ፡ ለከ ፡ ከመ ፡ ገብር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመ",
+          "t": "wäʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ተፀነሰ",
+          "t": "täṣ́änäsä",
+          "gl": ""
+        },
+        {
+          "g": "ካልእከ",
+          "t": "kaləʾəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወተሠይጠ",
+          "t": "wätäśäyəṭä",
+          "gl": ""
+        },
+        {
+          "g": "ኀቤከ",
+          "t": "ḫäbekä",
+          "gl": ""
+        },
+        {
+          "g": "ኢይትቀነይ",
+          "t": "ʾiyətəqänäyə",
+          "gl": ""
+        },
+        {
+          "g": "ለከ",
+          "t": "läkä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ገብር",
+          "t": "gäbərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if thy brother by thee be lowered, and be sold to thee, he shall not serve thee with the servitude of a slave.",
+        "kjv": "And if thy brother that dwelleth by thee be waxen poor, and be sold unto thee; thou shalt not compel him to serve as a bondservant:"
+      }
+    },
+    {
+      "num": 40,
+      "geez": "አላ ፡ ከመ ፡ ገባኢ ፡ ወከመ ፡ ፈላሲ ፡ ይኩንከ ፡ እስከ ፡ ዓመተ ፡ ተኀድጎ ፡ ይትቀነይ ፡ ለከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "አላ",
+          "t": "ʾäla",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ገባኢ",
+          "t": "gäbaʾi",
+          "gl": ""
+        },
+        {
+          "g": "ወከመ",
+          "t": "wäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ፈላሲ",
+          "t": "fälasi",
+          "gl": ""
+        },
+        {
+          "g": "ይኩንከ",
+          "t": "yəkunəkä",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዓመተ",
+          "t": "ʿamätä",
+          "gl": ""
+        },
+        {
+          "g": "ተኀድጎ",
+          "t": "täḫädəgo",
+          "gl": ""
+        },
+        {
+          "g": "ይትቀነይ",
+          "t": "yətəqänäyə",
+          "gl": ""
+        },
+        {
+          "g": "ለከ",
+          "t": "läkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "He shall be with thee as a hireling or a sojourner, he shall work for thee till the year of release:",
+        "kjv": "But as an hired servant, and as a sojourner, he shall be with thee, and shall serve thee unto the year of jubile:"
+      }
+    },
+    {
+      "num": 41,
+      "geez": "ወአመ ፡ ዓመተ ፡ ተኀድጎ ፡ ይወፅእ ፡ ውእቱ ፡ ወደቂቁ ፡ ምስሌሁ ፡ ወይገብእ ፡ ውስተ ፡ አዝማዲሁ ፡ ወውስተ ፡ ደወሉ\n                  ፡ ወየሐውር ፡ ብሔሮ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአመ",
+          "t": "wäʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ዓመተ",
+          "t": "ʿamätä",
+          "gl": ""
+        },
+        {
+          "g": "ተኀድጎ",
+          "t": "täḫädəgo",
+          "gl": ""
+        },
+        {
+          "g": "ይወፅእ",
+          "t": "yəwäṣ́əʾə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ወደቂቁ",
+          "t": "wädäqiqu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሁ",
+          "t": "məsəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ወይገብእ",
+          "t": "wäyəgäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አዝማዲሁ",
+          "t": "ʾäzəmadihu",
+          "gl": ""
+        },
+        {
+          "g": "ወውስተ",
+          "t": "wäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ደወሉ",
+          "t": "däwälu",
+          "gl": ""
+        },
+        {
+          "g": "ወየሐውር",
+          "t": "wäyäḥäwərə",
+          "gl": ""
+        },
+        {
+          "g": "ብሔሮ",
+          "t": "bəḥero",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and he shall go out in the release, and his children with him; and he shall go to his family, he shall hasten back to his patrimony.",
+        "kjv": "And then shall he depart from thee, both he and his children with him, and shall return unto his own family, and unto the possession of his fathers shall he return."
+      }
+    },
+    {
+      "num": 42,
+      "geez": "እስመ ፡ አግብርተ ፡ ዚአየ ፡ እሙንቱ ፡ እለ ፡ አውፃእኩ ፡ እምነ ፡ ምድረ ፡ ግብጽ ፤ ኢይሠየጡ ፡ ከመ ፡ ይሠየጥ ፡\n                  ገብር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አግብርተ",
+          "t": "ʾägəbərətä",
+          "gl": ""
+        },
+        {
+          "g": "ዚአየ",
+          "t": "ziʾäyä",
+          "gl": ""
+        },
+        {
+          "g": "እሙንቱ",
+          "t": "ʾəmunətu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "አውፃእኩ",
+          "t": "ʾäwəṣ́aʾəku",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ምድረ",
+          "t": "mədərä",
+          "gl": ""
+        },
+        {
+          "g": "ግብጽ  ኢይሠየጡ",
+          "t": "gəbəṣə  ʾiyəśäyäṭu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይሠየጥ",
+          "t": "yəśäyäṭə",
+          "gl": ""
+        },
+        {
+          "g": "ገብር",
+          "t": "gäbərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Because these are my servants, whom I brought out of the land of Egypt; such an one shall not be sold as a common servant.",
+        "kjv": "For they are my servants, which I brought forth out of the land of Egypt: they shall not be sold as bondmen."
+      }
+    },
+    {
+      "num": 43,
+      "geez": "ወኢ[ታ]ጠውቆ ፡ በጻማ ፡ ወፍራህ ፡ እግዚአብሔር ፡ አምላክከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኢታጠውቆ",
+          "t": "wäʾitaṭäwəqo",
+          "gl": ""
+        },
+        {
+          "g": "በጻማ",
+          "t": "bäṣama",
+          "gl": ""
+        },
+        {
+          "g": "ወፍራህ",
+          "t": "wäfərahə",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላክከ",
+          "t": "ʾäməlakəkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Thou shalt not oppress him with labour, and shalt fear the Lord thy God.",
+        "kjv": "Thou shalt not rule over him with rigour; but shalt fear thy God."
+      }
+    },
+    {
+      "num": 44,
+      "geez": "ወገብረሰ ፡ ወአመተኒ ፡ መጠነ ፡ ረከብከ ፡ እምውስተ ፡ አሕዛብ ፡ እለ ፡ ዐውድክሙ ፡ እምኔሆሙ ፡ ታጠርዩ ፡ ገብረኒ ፡\n                  ወአመተኒ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወገብረሰ",
+          "t": "wägäbəräsä",
+          "gl": ""
+        },
+        {
+          "g": "ወአመተኒ",
+          "t": "wäʾämätäni",
+          "gl": ""
+        },
+        {
+          "g": "መጠነ",
+          "t": "mäṭänä",
+          "gl": ""
+        },
+        {
+          "g": "ረከብከ",
+          "t": "räkäbəkä",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አሕዛብ",
+          "t": "ʾäḥəzabə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ዐውድክሙ",
+          "t": "ʿäwədəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሆሙ",
+          "t": "ʾəmənehomu",
+          "gl": ""
+        },
+        {
+          "g": "ታጠርዩ",
+          "t": "taṭärəyu",
+          "gl": ""
+        },
+        {
+          "g": "ገብረኒ",
+          "t": "gäbəräni",
+          "gl": ""
+        },
+        {
+          "g": "ወአመተኒ",
+          "t": "wäʾämätäni",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And whatever number of men-servants and maid-servants thou shalt have, thou shalt purchase male and female servants from the nations that are round about thee.",
+        "kjv": "Both thy bondmen, and thy bondmaids, which thou shalt have, shall be of the heathen that are round about you; of them shall ye buy bondmen and bondmaids."
+      }
+    },
+    {
+      "num": 45,
+      "geez": "ወእምውስተ ፡ ደቂቆሙኒ ፡ ለእለ ፡ የኀድሩ ፡ ምስሌክሙ ፡ እምኔሆሙ ፡ ታጠርዩ ፡ ወእምውስተ ፡ አዝማዲሆሙኒ ፡ ኵሎሙ ፡\n                  እለ ፡ ይነብሩ ፡ ውስተ ፡ ምድርክሙ ፡ ለጥሪትክሙ ፡ ይኩኑክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእምውስተ",
+          "t": "wäʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቆሙኒ",
+          "t": "däqiqomuni",
+          "gl": ""
+        },
+        {
+          "g": "ለእለ",
+          "t": "läʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "የኀድሩ",
+          "t": "yäḫädəru",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌክሙ",
+          "t": "məsəlekəmu",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሆሙ",
+          "t": "ʾəmənehomu",
+          "gl": ""
+        },
+        {
+          "g": "ታጠርዩ",
+          "t": "taṭärəyu",
+          "gl": ""
+        },
+        {
+          "g": "ወእምውስተ",
+          "t": "wäʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አዝማዲሆሙኒ",
+          "t": "ʾäzəmadihomuni",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድርክሙ",
+          "t": "mədərəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ለጥሪትክሙ",
+          "t": "läṭəritəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ይኩኑክሙ",
+          "t": "yəkunukəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And of the sons of the sojourners that are among you, of these ye shall buy and of their relations, all that shall be in your lands; let them be to you for a possession.",
+        "kjv": "Moreover of the children of the strangers that do sojourn among you, of them shall ye buy, and of their families that are with you, which they begat in your land: and they shall be your possession."
+      }
+    },
+    {
+      "num": 46,
+      "geez": "ወለውሉድክሙኒ ፡ እምውስቴቶሙ ፡ ተከፈልዎሙ ፡ ወይኩኑክሙ ፡ ለጥሪትክሙ ፡ ለዓለም ፡ ወለዘ ፡ እምውስተ ፡ አኀዊከ ፡\n                  ዘእምደቂቀ ፡ እስራኤል ፡ አሐዱ ፡ አሐዱ ፡ ኢያጥቆ ፡ ለካልኡ ፡ በጻማ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለውሉድክሙኒ",
+          "t": "wäläwəludəkəmuni",
+          "gl": ""
+        },
+        {
+          "g": "እምውስቴቶሙ",
+          "t": "ʾəməwəsətetomu",
+          "gl": ""
+        },
+        {
+          "g": "ተከፈልዎሙ",
+          "t": "täkäfäləwomu",
+          "gl": ""
+        },
+        {
+          "g": "ወይኩኑክሙ",
+          "t": "wäyəkunukəmu",
+          "gl": ""
+        },
+        {
+          "g": "ለጥሪትክሙ",
+          "t": "läṭəritəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ለዓለም",
+          "t": "läʿalämə",
+          "gl": ""
+        },
+        {
+          "g": "ወለዘ",
+          "t": "wäläzä",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አኀዊከ",
+          "t": "ʾäḫäwikä",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምደቂቀ",
+          "t": "zäʾəmədäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "ኢያጥቆ",
+          "t": "ʾiyaṭəqo",
+          "gl": ""
+        },
+        {
+          "g": "ለካልኡ",
+          "t": "läkaləʾu",
+          "gl": ""
+        },
+        {
+          "g": "በጻማ",
+          "t": "bäṣama",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And ye shall distribute them to your children after you, and they shall be to you permanent possessions for ever: but of your brethren the children of Israel, one shall not oppress his brother in labours.",
+        "kjv": "And ye shall take them as an inheritance for your children after you, to inherit them for a possession; they shall be your bondmen for ever: but over your brethren the children of Israel, ye shall not rule one over another with rigour."
+      }
+    },
+    {
+      "num": 47,
+      "geez": "ወእመሰ ፡ ረከበ ፡ ውስተ ፡ እዴሁ ፡ ውእቱ ፡ ግዩር ፡ ወእመኒ ፡ ዝክቱ ፡ ፈላስ ፡ ዘኀቤከ ፡ ወይቤለከ ፡ ሰብአቲሁ ፡\n                  አቤዝወኒዮ ፡ ለዝንቱ ፡ ግዩር ፡ አው ፡ ለዝክቱ ፡ ፈላስ ፡ ዘኀቤከ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "ረከበ",
+          "t": "räkäbä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ግዩር",
+          "t": "gəyurə",
+          "gl": ""
+        },
+        {
+          "g": "ወእመኒ",
+          "t": "wäʾəmäni",
+          "gl": ""
+        },
+        {
+          "g": "ዝክቱ",
+          "t": "zəkətu",
+          "gl": ""
+        },
+        {
+          "g": "ፈላስ",
+          "t": "fälasə",
+          "gl": ""
+        },
+        {
+          "g": "ዘኀቤከ",
+          "t": "zäḫäbekä",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤለከ",
+          "t": "wäyəbeläkä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብአቲሁ",
+          "t": "säbəʾätihu",
+          "gl": ""
+        },
+        {
+          "g": "አቤዝወኒዮ",
+          "t": "ʾäbezəwäniyo",
+          "gl": ""
+        },
+        {
+          "g": "ለዝንቱ",
+          "t": "läzənətu",
+          "gl": ""
+        },
+        {
+          "g": "ግዩር",
+          "t": "gəyurə",
+          "gl": ""
+        },
+        {
+          "g": "አው",
+          "t": "ʾäwə",
+          "gl": ""
+        },
+        {
+          "g": "ለዝክቱ",
+          "t": "läzəkətu",
+          "gl": ""
+        },
+        {
+          "g": "ፈላስ",
+          "t": "fälasə",
+          "gl": ""
+        },
+        {
+          "g": "ዘኀቤከ",
+          "t": "zäḫäbekä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if a stranger or sojourner with thee wax rich, and thy brother in distress be sold to the stranger or the sojourner that is with thee, or to a proselyte by extraction;",
+        "kjv": "And if a sojourner or stranger wax rich by thee, and thy brother that dwelleth by him wax poor, and sell himself unto the stranger or sojourner by thee, or to the stock of the stranger’s family:"
+      }
+    },
+    {
+      "num": 48,
+      "geez": "እምድኅረ ፡ ተሣየጥካሆሙ ፡ እመኒ ፡ ዘሰብአቲሁ ፡ ለውእቱ ፡ ግዩር ፡ ታቤዝዎ ፡ ወይቤዝዎ ፡ አሐዱ ፡ እምውስተ ፡\n                  ሰብአቲሁ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "እምድኅረ",
+          "t": "ʾəmədəḫərä",
+          "gl": ""
+        },
+        {
+          "g": "ተሣየጥካሆሙ",
+          "t": "täśayäṭəkahomu",
+          "gl": ""
+        },
+        {
+          "g": "እመኒ",
+          "t": "ʾəmäni",
+          "gl": ""
+        },
+        {
+          "g": "ዘሰብአቲሁ",
+          "t": "zäsäbəʾätihu",
+          "gl": ""
+        },
+        {
+          "g": "ለውእቱ",
+          "t": "läwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ግዩር",
+          "t": "gəyurə",
+          "gl": ""
+        },
+        {
+          "g": "ታቤዝዎ",
+          "t": "tabezəwo",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤዝዎ",
+          "t": "wäyəbezəwo",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብአቲሁ",
+          "t": "säbəʾätihu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "after he is sold to him there shall be redemption for him, one of his brethren shall redeem him.",
+        "kjv": "After that he is sold he may be redeemed again; one of his brethren may redeem him:"
+      }
+    },
+    {
+      "num": 49,
+      "geez": "እመኒ ፡ እምውስተ ፡ አኀወ ፡ አቡሁ ፡ ወእመኒ ፡ ወልደ ፡ እኁሁ ፡ ለአቡሁ ፡ ይቤዝውዎ ፡ አው ፡ እምውስተ ፡ ሰብአቲሁ\n                  ፡ አው ፡ እምነ ፡ ሥጋሁ ፡ አው ፡ እምውስተ ፡ ነገዱ ፡ ይቤዝዎ ፡ ወለእመሰ ፡ ረከበ ፡ ውስተ ፡ እዴሁ ፡ ለሊሁ ፡ ይቤዙ ፡\n                  ርእሶ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እመኒ",
+          "t": "ʾəmäni",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አኀወ",
+          "t": "ʾäḫäwä",
+          "gl": ""
+        },
+        {
+          "g": "አቡሁ",
+          "t": "ʾäbuhu",
+          "gl": ""
+        },
+        {
+          "g": "ወእመኒ",
+          "t": "wäʾəmäni",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "እኁሁ",
+          "t": "ʾəḫuhu",
+          "gl": ""
+        },
+        {
+          "g": "ለአቡሁ",
+          "t": "läʾäbuhu",
+          "gl": ""
+        },
+        {
+          "g": "ይቤዝውዎ",
+          "t": "yəbezəwəwo",
+          "gl": ""
+        },
+        {
+          "g": "አው",
+          "t": "ʾäwə",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብአቲሁ",
+          "t": "säbəʾätihu",
+          "gl": ""
+        },
+        {
+          "g": "አው",
+          "t": "ʾäwə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ሥጋሁ",
+          "t": "śəgahu",
+          "gl": ""
+        },
+        {
+          "g": "አው",
+          "t": "ʾäwə",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ነገዱ",
+          "t": "nägädu",
+          "gl": ""
+        },
+        {
+          "g": "ይቤዝዎ",
+          "t": "yəbezəwo",
+          "gl": ""
+        },
+        {
+          "g": "ወለእመሰ",
+          "t": "wäläʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "ረከበ",
+          "t": "räkäbä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        },
+        {
+          "g": "ለሊሁ",
+          "t": "lälihu",
+          "gl": ""
+        },
+        {
+          "g": "ይቤዙ",
+          "t": "yəbezu",
+          "gl": ""
+        },
+        {
+          "g": "ርእሶ",
+          "t": "rəʾəso",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "A brother of his father, or son of his father's brother shall redeem him; or let one of his near kin of his tribe redeem him, and if he should be rich and redeem himself,",
+        "kjv": "Either his uncle, or his uncle’s son, may redeem him, or any that is nigh of kin unto him of his family may redeem him; or if he be able, he may redeem himself."
+      }
+    },
+    {
+      "num": 50,
+      "geez": "ወየሐስቡ ፡ ሎቱ ፡ ለዘተሣየጦ ፡ እምዓመት ፡ ዘተሣየጦ ፡ እስከ ፡ ዓመተ ፡ ተኀድጎ ፡ ወይሬስዩ ፡ ሎቱ ፡ ወርቀ ፡ ሤጦ\n                  ፡ ከመ ፡ ዘዕለቱ ፡ ለገባኢ ፡ ዘእምዓመት ፡ እስከ ፡ ዓመት ፡ ዘሀለወ ፡ ምስሌሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወየሐስቡ",
+          "t": "wäyäḥäsəbu",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ለዘተሣየጦ",
+          "t": "läzätäśayäṭo",
+          "gl": ""
+        },
+        {
+          "g": "እምዓመት",
+          "t": "ʾəməʿamätə",
+          "gl": ""
+        },
+        {
+          "g": "ዘተሣየጦ",
+          "t": "zätäśayäṭo",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዓመተ",
+          "t": "ʿamätä",
+          "gl": ""
+        },
+        {
+          "g": "ተኀድጎ",
+          "t": "täḫädəgo",
+          "gl": ""
+        },
+        {
+          "g": "ወይሬስዩ",
+          "t": "wäyəresəyu",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ወርቀ",
+          "t": "wärəqä",
+          "gl": ""
+        },
+        {
+          "g": "ሤጦ",
+          "t": "śeṭo",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ዘዕለቱ",
+          "t": "zäʿəlätu",
+          "gl": ""
+        },
+        {
+          "g": "ለገባኢ",
+          "t": "lägäbaʾi",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምዓመት",
+          "t": "zäʾəməʿamätə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዓመት",
+          "t": "ʿamätə",
+          "gl": ""
+        },
+        {
+          "g": "ዘሀለወ",
+          "t": "zähäläwä",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሁ",
+          "t": "məsəlehu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "then shall he calculate with his purchaser from the year that he sold himself to him until the year of release: and the money of his purchase shall be as that of a hireling, he shall be with him from year to year.",
+        "kjv": "And he shall reckon with him that bought him from the year that he was sold to him unto the year of jubile: and the price of his sale shall be according unto the number of years, according to the time of an hired servant shall it be with him."
+      }
+    },
+    {
+      "num": 51,
+      "geez": "ወእመ ፡ ወሰከ ፡ እምነ ፡ ሰማንቱ ፡ ዓም ፡ ይሁብ ፡ ቤዛሁ ፡ እምውስተ ፡ ወርቀ ፡ ሤጡ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመ",
+          "t": "wäʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ወሰከ",
+          "t": "wäsäkä",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ሰማንቱ",
+          "t": "sämanətu",
+          "gl": ""
+        },
+        {
+          "g": "ዓም",
+          "t": "ʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ይሁብ",
+          "t": "yəhubə",
+          "gl": ""
+        },
+        {
+          "g": "ቤዛሁ",
+          "t": "bezahu",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ወርቀ",
+          "t": "wärəqä",
+          "gl": ""
+        },
+        {
+          "g": "ሤጡ",
+          "t": "śeṭu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if any have a greater number of years than enough, according to these he shall pay his ransom out of his purchase-money.",
+        "kjv": "If there be yet many years behind, according unto them he shall give again the price of his redemption out of the money that he was bought for."
+      }
+    },
+    {
+      "num": 52,
+      "geez": "ወእመሰ ፡ ሕዳጥ ፡ ተርፈ ፡ ዓመት ፡ እስከ ፡ ዓመተ ፡ ተኀድጎ ፡ የኀስቡ ፡ ሎቱ ፡ ዓመቲሁ ፡ ወይሁብ ፡ ቤዛሁ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዳጥ",
+          "t": "ḥədaṭə",
+          "gl": ""
+        },
+        {
+          "g": "ተርፈ",
+          "t": "tärəfä",
+          "gl": ""
+        },
+        {
+          "g": "ዓመት",
+          "t": "ʿamätə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዓመተ",
+          "t": "ʿamätä",
+          "gl": ""
+        },
+        {
+          "g": "ተኀድጎ",
+          "t": "täḫädəgo",
+          "gl": ""
+        },
+        {
+          "g": "የኀስቡ",
+          "t": "yäḫäsəbu",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ዓመቲሁ",
+          "t": "ʿamätihu",
+          "gl": ""
+        },
+        {
+          "g": "ወይሁብ",
+          "t": "wäyəhubə",
+          "gl": ""
+        },
+        {
+          "g": "ቤዛሁ",
+          "t": "bezahu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if but a little time be left of the years to the year of release, then shall he reckon to him according to his years, and shall pay his ransom",
+        "kjv": "And if there remain but few years unto the year of jubile, then he shall count with him, and according unto his years shall he give him again the price of his redemption."
+      }
+    },
+    {
+      "num": 53,
+      "geez": "ከመ ፡ ዐስበ ፡ ገባኢ ፡ ዘእምዓመት ፡ እስከ ፡ ዓመት ፡ ዘሀለወ ፡ ምስሌሁ ፡ ወአኮ ፡ ዘለለ ፡ ዓመት ፡ ዘጻመወ ፡ ሎቱ\n                  ፡ በቅድሜሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ዐስበ",
+          "t": "ʿäsəbä",
+          "gl": ""
+        },
+        {
+          "g": "ገባኢ",
+          "t": "gäbaʾi",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምዓመት",
+          "t": "zäʾəməʿamätə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዓመት",
+          "t": "ʿamätə",
+          "gl": ""
+        },
+        {
+          "g": "ዘሀለወ",
+          "t": "zähäläwä",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሁ",
+          "t": "məsəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ወአኮ",
+          "t": "wäʾäko",
+          "gl": ""
+        },
+        {
+          "g": "ዘለለ",
+          "t": "zälälä",
+          "gl": ""
+        },
+        {
+          "g": "ዓመት",
+          "t": "ʿamätə",
+          "gl": ""
+        },
+        {
+          "g": "ዘጻመወ",
+          "t": "zäṣamäwä",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "በቅድሜሁ",
+          "t": "bäqədəmehu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "as a hireling; he shall be with him from year to year; thou shalt not oppress him with labour before thee.",
+        "kjv": "And as a yearly hired servant shall he be with him: and the other shall not rule with rigour over him in thy sight."
+      }
+    },
+    {
+      "num": 54,
+      "geez": "ወእመሰ ፡ ኢተቤዘወ ፡ ከመዝ ፡ አመ ፡ ዓመተ ፡ ተኀድጎ ፡ ይወፅእ ፡ እምኔሁ ፡ ምስለ ፡ ደቂቁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "ኢተቤዘወ",
+          "t": "ʾitäbezäwä",
+          "gl": ""
+        },
+        {
+          "g": "ከመዝ",
+          "t": "kämäzə",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ዓመተ",
+          "t": "ʿamätä",
+          "gl": ""
+        },
+        {
+          "g": "ተኀድጎ",
+          "t": "täḫädəgo",
+          "gl": ""
+        },
+        {
+          "g": "ይወፅእ",
+          "t": "yəwäṣ́əʾə",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቁ",
+          "t": "däqiqu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if he do not pay his ransom accordingly, he shall go out in the year of his release, he and his children with him.",
+        "kjv": "And if he be not redeemed in these years, then he shall go out in the year of jubile, both he, and his children with him."
+      }
+    },
+    {
+      "num": 55,
+      "geez": "እስመ ፡ አግብርተ ፡ ዚአየ ፡ እሙንቱ ፡ ደቂቀ ፡ እስራኤል ፡ እል ፡ አውፃእኩ ፡ እምነ ፡ ግብጽ ፡ ወአነ ፡ እግዚአብሔር\n                  ፡ አምላክክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አግብርተ",
+          "t": "ʾägəbərətä",
+          "gl": ""
+        },
+        {
+          "g": "ዚአየ",
+          "t": "ziʾäyä",
+          "gl": ""
+        },
+        {
+          "g": "እሙንቱ",
+          "t": "ʾəmunətu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "እል",
+          "t": "ʾələ",
+          "gl": ""
+        },
+        {
+          "g": "አውፃእኩ",
+          "t": "ʾäwəṣ́aʾəku",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ግብጽ",
+          "t": "gəbəṣə",
+          "gl": ""
+        },
+        {
+          "g": "ወአነ",
+          "t": "wäʾänä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላክክሙ",
+          "t": "ʾäməlakəkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For the children of Israel are my servants: they are my attendants, whom I brought out of the land of Egypt.",
+        "kjv": "For unto me the children of Israel are servants; they are my servants whom I brought forth out of the land of Egypt: I am the LORD your God."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

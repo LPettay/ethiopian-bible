@@ -1,0 +1,2612 @@
+{
+  "book": "Lev",
+  "chapter": 27,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወነበቦ ፡ እግዚአብሔር ፡ ለሙሴ ፡ ወይቤሎ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነበቦ",
+          "t": "wänäbäbo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord spoke to Moses, saying,",
+        "kjv": "And the LORD spake unto Moses, saying,"
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ንግሮሙ ፡ ለደቂቀ ፡ እስራኤል ፡ ወበሎሙ ፡ ብእሲ ፡ እመቦ ፡ ዘበፅአ ፡ ብፅአተ ፡ ህየንተ ፡ ቤዛ ፡ ነፍሱ ፡\n                  ለእግዚአብሔር ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ንግሮሙ",
+          "t": "nəgəromu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወበሎሙ",
+          "t": "wäbälomu",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "እመቦ",
+          "t": "ʾəmäbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘበፅአ",
+          "t": "zäbäṣ́əʾä",
+          "gl": ""
+        },
+        {
+          "g": "ብፅአተ",
+          "t": "bəṣ́əʾätä",
+          "gl": ""
+        },
+        {
+          "g": "ህየንተ",
+          "t": "həyänətä",
+          "gl": ""
+        },
+        {
+          "g": "ቤዛ",
+          "t": "beza",
+          "gl": ""
+        },
+        {
+          "g": "ነፍሱ",
+          "t": "näfəsu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Speak to the children of Israel, and thou shalt say to them, Whosoever shall vow a vow as the valuation of his soul for the Lord,",
+        "kjv": "Speak unto the children of Israel, and say unto them, When a man shall make a singular vow, the persons shall be for the LORD by thy estimation."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወይኩን ፡ ሤጡ ፡ ለትባዕት ፡ ዘእም፳ዓም ፡ እስከ ፡ ፷ዓም ፡ ይከውን ፡ ሤጡ ፡ ኀምሳ ፡ ዲድረክመ ፡ ብሩር ፡ በመዳልው\n                  ፡ ዘቅዱስ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይኩን",
+          "t": "wäyəkunə",
+          "gl": ""
+        },
+        {
+          "g": "ሤጡ",
+          "t": "śeṭu",
+          "gl": ""
+        },
+        {
+          "g": "ለትባዕት",
+          "t": "lätəbaʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእም፳ዓም",
+          "t": "zäʾəmə20ʿamə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "፷ዓም",
+          "t": "60ʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ይከውን",
+          "t": "yəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ሤጡ",
+          "t": "śeṭu",
+          "gl": ""
+        },
+        {
+          "g": "ኀምሳ",
+          "t": "ḫäməsa",
+          "gl": ""
+        },
+        {
+          "g": "ዲድረክመ",
+          "t": "didəräkəmä",
+          "gl": ""
+        },
+        {
+          "g": "ብሩር",
+          "t": "bərurə",
+          "gl": ""
+        },
+        {
+          "g": "በመዳልው",
+          "t": "bämädaləwə",
+          "gl": ""
+        },
+        {
+          "g": "ዘቅዱስ",
+          "t": "zäqədusə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "the valuation of a male from twenty years old to sixty years old shall be—his valuation shall be fifty didrachms of silver by the standard of the sanctuary.",
+        "kjv": "And thy estimation shall be of the male from twenty years old even unto sixty years old, even thy estimation shall be fifty shekels of silver, after the shekel of the sanctuary."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወለአንስትሰ ፡ ይከውን ፡ ሤጣ ፡ ሠላሳ ፡ ዲድረክመ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለአንስትሰ",
+          "t": "wäläʾänəsətəsä",
+          "gl": ""
+        },
+        {
+          "g": "ይከውን",
+          "t": "yəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ሤጣ",
+          "t": "śeṭa",
+          "gl": ""
+        },
+        {
+          "g": "ሠላሳ",
+          "t": "śälasa",
+          "gl": ""
+        },
+        {
+          "g": "ዲድረክመ",
+          "t": "didəräkəmä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the valuation of a female shall be thirty didrachms.",
+        "kjv": "And if it be a female, then thy estimation shall be thirty shekels."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወእመሰ ፡ ዘእምኃምስቱ ፡ ዓም ፡ እስከ ፡ ዕሥራ ፡ ዓም ፡ ይከውን ፡ ሤጡ ፡ ለተባዕት ፡ ፳ዲድረክመ ፡ ወለአንስትሰ ፡\n                  ፲ዲድረክመ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምኃምስቱ",
+          "t": "zäʾəməḫaməsətu",
+          "gl": ""
+        },
+        {
+          "g": "ዓም",
+          "t": "ʿamə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዕሥራ",
+          "t": "ʿəśəra",
+          "gl": ""
+        },
+        {
+          "g": "ዓም",
+          "t": "ʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ይከውን",
+          "t": "yəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ሤጡ",
+          "t": "śeṭu",
+          "gl": ""
+        },
+        {
+          "g": "ለተባዕት",
+          "t": "lätäbaʿətə",
+          "gl": ""
+        },
+        {
+          "g": "፳ዲድረክመ",
+          "t": "20didəräkəmä",
+          "gl": ""
+        },
+        {
+          "g": "ወለአንስትሰ",
+          "t": "wäläʾänəsətəsä",
+          "gl": ""
+        },
+        {
+          "g": "፲ዲድረክመ",
+          "t": "10didəräkəmä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if it be from five years old to twenty, the valuation of a male shall be twenty didrachms, and of a female ten didrachms.",
+        "kjv": "And if it be from five years old even unto twenty years old, then thy estimation shall be of the male twenty shekels, and for the female ten shekels."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወእመሰ ፡ ዘእምአሐዱ ፡ ወርኅ ፡ እስከ ፡ ኀምስቱ ፡ ዓም ፡ ይከውን ፡ ሤጡ ፡ ለተባዕት ፡ ኀምስቱ ፡ ዲድረክመ ፡ ብሩር\n                  ፡ ወለአንስትሰ ፡ ሠላስ ፡ ዲድረክመ ፡ ብሩር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምአሐዱ",
+          "t": "zäʾəməʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "ወርኅ",
+          "t": "wärəḫə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ኀምስቱ",
+          "t": "ḫäməsətu",
+          "gl": ""
+        },
+        {
+          "g": "ዓም",
+          "t": "ʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ይከውን",
+          "t": "yəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ሤጡ",
+          "t": "śeṭu",
+          "gl": ""
+        },
+        {
+          "g": "ለተባዕት",
+          "t": "lätäbaʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ኀምስቱ",
+          "t": "ḫäməsətu",
+          "gl": ""
+        },
+        {
+          "g": "ዲድረክመ",
+          "t": "didəräkəmä",
+          "gl": ""
+        },
+        {
+          "g": "ብሩር",
+          "t": "bərurə",
+          "gl": ""
+        },
+        {
+          "g": "ወለአንስትሰ",
+          "t": "wäläʾänəsətəsä",
+          "gl": ""
+        },
+        {
+          "g": "ሠላስ",
+          "t": "śälasə",
+          "gl": ""
+        },
+        {
+          "g": "ዲድረክመ",
+          "t": "didəräkəmä",
+          "gl": ""
+        },
+        {
+          "g": "ብሩር",
+          "t": "bərurə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And from a month old to five years old, the valuation of a male shall be five didrachms, and of a female, three didrachms of silver.",
+        "kjv": "And if it be from a month old even unto five years old, then thy estimation shall be of the male five shekels of silver, and for the female thy estimation shall be three shekels of silver."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወእመሰ ፡ ዘእም፷ዓም ፡ ወላዕሉ ፡ ለእመ ፡ ተባዕት ፡ ይከውን ፡ ሤጡ ፡ ፲ወ፭ዲድረክመ ፡ ብሩር ፡ ወለአንስትሰ ፡\n                  ፲ዲድረክመ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "ዘእም፷ዓም",
+          "t": "zäʾəmə60ʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ወላዕሉ",
+          "t": "wälaʿəlu",
+          "gl": ""
+        },
+        {
+          "g": "ለእመ",
+          "t": "läʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ተባዕት",
+          "t": "täbaʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ይከውን",
+          "t": "yəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ሤጡ",
+          "t": "śeṭu",
+          "gl": ""
+        },
+        {
+          "g": "፲ወ፭ዲድረክመ",
+          "t": "10wä5didəräkəmä",
+          "gl": ""
+        },
+        {
+          "g": "ብሩር",
+          "t": "bərurə",
+          "gl": ""
+        },
+        {
+          "g": "ወለአንስትሰ",
+          "t": "wäläʾänəsətəsä",
+          "gl": ""
+        },
+        {
+          "g": "፲ዲድረክመ",
+          "t": "10didəräkəmä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if from sixty years old and upward, if it be a male, his valuation shall be fifteen didrachms of silver, and if a female, ten didrachms.",
+        "kjv": "And if it be from sixty years old and above; if it be a male, then thy estimation shall be fifteen shekels, and for the female ten shekels."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወእመሰ ፡ ኅጡእ ፡ ውእቱ ፡ ለአምጣነ ፡ ሤጡ ፡ ይቀውም ፡ ቅድመ ፡ ካህን ፡ ወይበፅዖ ፡ ሤጦ ፡ ካህን ፡ በአምጣነ ፡\n                  ቦቱ ፡ ውስተ ፡ እዴሁ ፡ በዘ ፡ ይክል ፡ ውእቱ ፡ ዘበፅዐ ፡ ከማሁ ፡ ይበፅዖ ፡ ካህን ፡ ሤጦ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "ኅጡእ",
+          "t": "ḫəṭuʾə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ለአምጣነ",
+          "t": "läʾäməṭanä",
+          "gl": ""
+        },
+        {
+          "g": "ሤጡ",
+          "t": "śeṭu",
+          "gl": ""
+        },
+        {
+          "g": "ይቀውም",
+          "t": "yəqäwəmə",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ወይበፅዖ",
+          "t": "wäyəbäṣ́əʿo",
+          "gl": ""
+        },
+        {
+          "g": "ሤጦ",
+          "t": "śeṭo",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "በአምጣነ",
+          "t": "bäʾäməṭanä",
+          "gl": ""
+        },
+        {
+          "g": "ቦቱ",
+          "t": "botu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        },
+        {
+          "g": "በዘ",
+          "t": "bäzä",
+          "gl": ""
+        },
+        {
+          "g": "ይክል",
+          "t": "yəkələ",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘበፅዐ",
+          "t": "zäbäṣ́əʿä",
+          "gl": ""
+        },
+        {
+          "g": "ከማሁ",
+          "t": "kämahu",
+          "gl": ""
+        },
+        {
+          "g": "ይበፅዖ",
+          "t": "yəbäṣ́əʿo",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ሤጦ",
+          "t": "śeṭo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if the man be too poor for the valuation, he shall stand before the priest; and the priest shall value him: according to what the man who has vowed can afford, the priest shall value him.",
+        "kjv": "But if he be poorer than thy estimation, then he shall present himself before the priest, and the priest shall value him; according to his ability that vowed shall the priest value him."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወእመሰ ፡ እምውስተ ፡ እንስሳ ፡ እምውስተ ፡ ዘይከውን ፡ ለአብኦ ፡ ቍርባን ፡ ለእግዚአብሔር ፡ እምኔሁ ፡ ለእግዚአብሔር\n                  ፡ ዘአምጽአ ፡ እምውስተ ፡ ቅዱስ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እንስሳ",
+          "t": "ʾənəsəsa",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዘይከውን",
+          "t": "zäyəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ለአብኦ",
+          "t": "läʾäbəʾo",
+          "gl": ""
+        },
+        {
+          "g": "ቍርባን",
+          "t": "qwərəbanə",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ዘአምጽአ",
+          "t": "zäʾäməṣəʾä",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ቅዱስ",
+          "t": "qədusə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if it be from the cattle that are offered as a gift to the Lord, whoever shall offer one of these to the Lord, it shall be holy.",
+        "kjv": "And if it be a beast, whereof men bring an offering unto the LORD, all that any man giveth of such unto the LORD shall be holy."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወኢይዌልጦ ፡ ሠናየ ፡ በእኩይ ፡ ወኢእኩየ ፡ በሠናይ ፡ ወእመሰ ፡ ወልጦ ፡ ወለጦ ፡ እንስሳ ፡ በዘዘውጉ ፡ ይከውኖ ፡\n                  ወተውላጡኒ ፡ ቅዱስ ፡ ውእቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኢይዌልጦ",
+          "t": "wäʾiyəweləṭo",
+          "gl": ""
+        },
+        {
+          "g": "ሠናየ",
+          "t": "śänayä",
+          "gl": ""
+        },
+        {
+          "g": "በእኩይ",
+          "t": "bäʾəkuyə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢእኩየ",
+          "t": "wäʾiʾəkuyä",
+          "gl": ""
+        },
+        {
+          "g": "በሠናይ",
+          "t": "bäśänayə",
+          "gl": ""
+        },
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "ወልጦ",
+          "t": "wäləṭo",
+          "gl": ""
+        },
+        {
+          "g": "ወለጦ",
+          "t": "wäläṭo",
+          "gl": ""
+        },
+        {
+          "g": "እንስሳ",
+          "t": "ʾənəsəsa",
+          "gl": ""
+        },
+        {
+          "g": "በዘዘውጉ",
+          "t": "bäzäzäwəgu",
+          "gl": ""
+        },
+        {
+          "g": "ይከውኖ",
+          "t": "yəkäwəno",
+          "gl": ""
+        },
+        {
+          "g": "ወተውላጡኒ",
+          "t": "wätäwəlaṭuni",
+          "gl": ""
+        },
+        {
+          "g": "ቅዱስ",
+          "t": "qədusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "He shall not change it, a good for a bad, or a bad for a good; and if he do at all change it, a beast for a beast, it and the substitute shall be holy.",
+        "kjv": "He shall not alter it, nor change it, a good for a bad, or a bad for a good: and if he shall at all change beast for beast, then it and the exchange thereof shall be holy."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወእመሰ ፡ እምኵሉ ፡ እንስሳ ፡ ርኩስ ፡ ዘኢያበውኡ ፡ እምኔሁ ፡ ቍርባነ ፡ ለእግዚአብሔር ፡ ታቀውሞ ፡ ለውእቱ ፡ እንስሳ\n                  ፡ ቅድመ ፡ ካህን ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "እምኵሉ",
+          "t": "ʾəməkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "እንስሳ",
+          "t": "ʾənəsəsa",
+          "gl": ""
+        },
+        {
+          "g": "ርኩስ",
+          "t": "rəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ዘኢያበውኡ",
+          "t": "zäʾiyabäwəʾu",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "ቍርባነ",
+          "t": "qwərəbanä",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ታቀውሞ",
+          "t": "taqäwəmo",
+          "gl": ""
+        },
+        {
+          "g": "ለውእቱ",
+          "t": "läwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "እንስሳ",
+          "t": "ʾənəsəsa",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if it be any unclean beast, of which none are offered as a gift to the Lord, he shall set the beast before the priest.",
+        "kjv": "And if it be any unclean beast, of which they do not offer a sacrifice unto the LORD, then he shall present the beast before the priest:"
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወይበፅዖ ፡ ሤጦ ፡ ካህን ፡ ማእከለ ፡ ሠናዩኒ ፡ ወማእከለ ፡ እኩዩኒ ፡ ወበከመ ፡ በፅዖ ፡ ካህን ፡ ከማሁ ፡ ይከውን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይበፅዖ",
+          "t": "wäyəbäṣ́əʿo",
+          "gl": ""
+        },
+        {
+          "g": "ሤጦ",
+          "t": "śeṭo",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ማእከለ",
+          "t": "maʾəkälä",
+          "gl": ""
+        },
+        {
+          "g": "ሠናዩኒ",
+          "t": "śänayuni",
+          "gl": ""
+        },
+        {
+          "g": "ወማእከለ",
+          "t": "wämaʾəkälä",
+          "gl": ""
+        },
+        {
+          "g": "እኩዩኒ",
+          "t": "ʾəkuyuni",
+          "gl": ""
+        },
+        {
+          "g": "ወበከመ",
+          "t": "wäbäkämä",
+          "gl": ""
+        },
+        {
+          "g": "በፅዖ",
+          "t": "bäṣ́əʿo",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ከማሁ",
+          "t": "kämahu",
+          "gl": ""
+        },
+        {
+          "g": "ይከውን",
+          "t": "yəkäwənə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the priest shall make a valuation between the good and the bad, and accordingly as the priest shall value it, so shall it stand.",
+        "kjv": "And the priest shall value it, whether it be good or bad: as thou valuest it, who art the priest, so shall it be."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወእመሰ ፡ ቤዝዎ ፡ ቤዘዎ ፡ ይዌስክ ፡ ኃምስተ ፡ እዴሁ ፡ ላዕለ ፡ ሤጡ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "ቤዝዎ",
+          "t": "bezəwo",
+          "gl": ""
+        },
+        {
+          "g": "ቤዘዎ",
+          "t": "bezäwo",
+          "gl": ""
+        },
+        {
+          "g": "ይዌስክ",
+          "t": "yəwesəkə",
+          "gl": ""
+        },
+        {
+          "g": "ኃምስተ",
+          "t": "ḫaməsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሤጡ",
+          "t": "śeṭu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if the worshipper will at all redeem it, he shall add the fifth part to its value.",
+        "kjv": "But if he will at all redeem it, then he shall add a fifth part thereof unto thy estimation."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወእመሰ ፡ በፅዐ ፡ ብእዚ ፡ ቤቶ ፡ ለእግዚአብሔር ፡ ወቀደ[ሳ] ፡ ወይበፅዓ ፡ ሤ[ጣ] ፡ ካህን ፡ ማእከለ ፡ ሠናይት ፡\n                  ወማእከለ ፡ እኪት ፡ ወበአምጣነ ፡ በፅዓ ፡ ሤጣ ፡ ካህን ፡ ከማሁ ፡ ትከውን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "በፅዐ",
+          "t": "bäṣ́əʿä",
+          "gl": ""
+        },
+        {
+          "g": "ብእዚ",
+          "t": "bəʾəzi",
+          "gl": ""
+        },
+        {
+          "g": "ቤቶ",
+          "t": "beto",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወቀደሳ",
+          "t": "wäqädäsa",
+          "gl": ""
+        },
+        {
+          "g": "ወይበፅዓ",
+          "t": "wäyəbäṣ́əʿa",
+          "gl": ""
+        },
+        {
+          "g": "ሤጣ",
+          "t": "śeṭa",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ማእከለ",
+          "t": "maʾəkälä",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይት",
+          "t": "śänayətə",
+          "gl": ""
+        },
+        {
+          "g": "ወማእከለ",
+          "t": "wämaʾəkälä",
+          "gl": ""
+        },
+        {
+          "g": "እኪት",
+          "t": "ʾəkitə",
+          "gl": ""
+        },
+        {
+          "g": "ወበአምጣነ",
+          "t": "wäbäʾäməṭanä",
+          "gl": ""
+        },
+        {
+          "g": "በፅዓ",
+          "t": "bäṣ́əʿa",
+          "gl": ""
+        },
+        {
+          "g": "ሤጣ",
+          "t": "śeṭa",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ከማሁ",
+          "t": "kämahu",
+          "gl": ""
+        },
+        {
+          "g": "ትከውን",
+          "t": "təkäwənə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And whatsoever man shall consecrate his house as holy to the Lord, the priest shall make a valuation of it between the good and the bad: as the priest shall value it, so shall it stand.",
+        "kjv": "And when a man shall sanctify his house to be holy unto the LORD, then the priest shall estimate it, whether it be good or bad: as the priest shall estimate it, so shall it stand."
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ወእመሰ ፡ ውእቱ ፡ ዘበፅዓ ፡ ቤዘዋ ፡ ለቤቱ ፡ ይዌስክ ፡ ላዕለ ፡ ወርቀ ፡ ሤጣ ፡ ኃምስተ ፡ እዴሃ ፡ ወትገብእ ፡ ሎቱ\n                  ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘበፅዓ",
+          "t": "zäbäṣ́əʿa",
+          "gl": ""
+        },
+        {
+          "g": "ቤዘዋ",
+          "t": "bezäwa",
+          "gl": ""
+        },
+        {
+          "g": "ለቤቱ",
+          "t": "läbetu",
+          "gl": ""
+        },
+        {
+          "g": "ይዌስክ",
+          "t": "yəwesəkə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ወርቀ",
+          "t": "wärəqä",
+          "gl": ""
+        },
+        {
+          "g": "ሤጣ",
+          "t": "śeṭa",
+          "gl": ""
+        },
+        {
+          "g": "ኃምስተ",
+          "t": "ḫaməsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሃ",
+          "t": "ʾədeha",
+          "gl": ""
+        },
+        {
+          "g": "ወትገብእ",
+          "t": "wätəgäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if he that has sanctified it should redeem his house, he shall add to it the fifth part of the money of the valuation, and it shall be his.",
+        "kjv": "And if he that sanctified it will redeem his house, then he shall add the fifth part of the money of thy estimation unto it, and it shall be his."
+      }
+    },
+    {
+      "num": 16,
+      "geez": "ወእመሰ ፡ እምገራውሂሁ ፡ ዘዚአሁ ፡ በፅዐ ፡ ብእሲ ፡ ለእግዚአብሔር ፡ ወይሬስዩ ፡ ሤጦ ፡ በአምጣነ ፡ እትወተ ፡ እክሉ\n                  ፡ በመስፈርተ ፡ ቆሩ ፡ ዘሰገም ፡ ኀምሳ ፡ ብሩር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "እምገራውሂሁ",
+          "t": "ʾəməgärawəhihu",
+          "gl": ""
+        },
+        {
+          "g": "ዘዚአሁ",
+          "t": "zäziʾähu",
+          "gl": ""
+        },
+        {
+          "g": "በፅዐ",
+          "t": "bäṣ́əʿä",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወይሬስዩ",
+          "t": "wäyəresəyu",
+          "gl": ""
+        },
+        {
+          "g": "ሤጦ",
+          "t": "śeṭo",
+          "gl": ""
+        },
+        {
+          "g": "በአምጣነ",
+          "t": "bäʾäməṭanä",
+          "gl": ""
+        },
+        {
+          "g": "እትወተ",
+          "t": "ʾətəwätä",
+          "gl": ""
+        },
+        {
+          "g": "እክሉ",
+          "t": "ʾəkəlu",
+          "gl": ""
+        },
+        {
+          "g": "በመስፈርተ",
+          "t": "bämäsəfärətä",
+          "gl": ""
+        },
+        {
+          "g": "ቆሩ",
+          "t": "qoru",
+          "gl": ""
+        },
+        {
+          "g": "ዘሰገም",
+          "t": "zäsägämə",
+          "gl": ""
+        },
+        {
+          "g": "ኀምሳ",
+          "t": "ḫäməsa",
+          "gl": ""
+        },
+        {
+          "g": "ብሩር",
+          "t": "bərurə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if a man should hallow to the Lord a part of the field of his possession, then the valuation shall be according to its seed, fifty didrachms of silver for a homer of barley.",
+        "kjv": "And if a man shall sanctify unto the LORD some part of a field of his possession, then thy estimation shall be according to the seed thereof: an homer of barley seed shall be valued at fifty shekels of silver."
+      }
+    },
+    {
+      "num": 17,
+      "geez": "ወእመሰ ፡ እምነ ፡ ዓመተ ፡ ኅድገት ፡ በፅዐ ፡ ለገራህቱ ፡ ውእቱ ፡ ከመ ፡ ሐሳበ ፡ ሤጡሰ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ዓመተ",
+          "t": "ʿamätä",
+          "gl": ""
+        },
+        {
+          "g": "ኅድገት",
+          "t": "ḫədəgätə",
+          "gl": ""
+        },
+        {
+          "g": "በፅዐ",
+          "t": "bäṣ́əʿä",
+          "gl": ""
+        },
+        {
+          "g": "ለገራህቱ",
+          "t": "lägärahətu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ሐሳበ",
+          "t": "ḥäsabä",
+          "gl": ""
+        },
+        {
+          "g": "ሤጡሰ",
+          "t": "śeṭusä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if he should sanctify his field from the year of release, it shall stand according to his valuation.",
+        "kjv": "If he sanctify his field from the year of jubile, according to thy estimation it shall stand."
+      }
+    },
+    {
+      "num": 18,
+      "geez": "ወእመሰ ፡ በዓመት ፡ ዘእምድኅረ ፡ ኅድገት ፡ በፅዓ ፡ ለገራህቱ ፡ የሐስብ ፡ ሎቱ ፡ ካህን ፡ ወርቆ ፡ ለዓመት ፡ ዘተርፈ\n                  ፡ እስከ ፡ ዓመተ ፡ ኅድገት ፡ ወይገድፍ ፡ ሎቱ ፡ እምሤጡ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "በዓመት",
+          "t": "bäʿamätə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምድኅረ",
+          "t": "zäʾəmədəḫərä",
+          "gl": ""
+        },
+        {
+          "g": "ኅድገት",
+          "t": "ḫədəgätə",
+          "gl": ""
+        },
+        {
+          "g": "በፅዓ",
+          "t": "bäṣ́əʿa",
+          "gl": ""
+        },
+        {
+          "g": "ለገራህቱ",
+          "t": "lägärahətu",
+          "gl": ""
+        },
+        {
+          "g": "የሐስብ",
+          "t": "yäḥäsəbə",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ወርቆ",
+          "t": "wärəqo",
+          "gl": ""
+        },
+        {
+          "g": "ለዓመት",
+          "t": "läʿamätə",
+          "gl": ""
+        },
+        {
+          "g": "ዘተርፈ",
+          "t": "zätärəfä",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዓመተ",
+          "t": "ʿamätä",
+          "gl": ""
+        },
+        {
+          "g": "ኅድገት",
+          "t": "ḫədəgätə",
+          "gl": ""
+        },
+        {
+          "g": "ወይገድፍ",
+          "t": "wäyəgädəfə",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "እምሤጡ",
+          "t": "ʾəməśeṭu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if he should sanctify his field in the latter time after the release, the priest shall reckon to him the money for the remaining years, until the next year of release, and it shall be deducted as an equivalent from his full valuation.",
+        "kjv": "But if he sanctify his field after the jubile, then the priest shall reckon unto him the money according to the years that remain, even unto the year of the jubile, and it shall be abated from thy estimation."
+      }
+    },
+    {
+      "num": 19,
+      "geez": "ወእመሰ ፡ ለሊሁ ፡ ዘበፅዓ ፡ ለገራህቱ ፡ ቤዘዋ ፡ ይዌስክ ፡ ዲበ ፡ ወርቃ ፡ ሤጠ ፡ ኀምስተ ፡ እዴሃ ፡ ወትገብእ ፡\n                  ሎቱ ፡ ገራህቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "ለሊሁ",
+          "t": "lälihu",
+          "gl": ""
+        },
+        {
+          "g": "ዘበፅዓ",
+          "t": "zäbäṣ́əʿa",
+          "gl": ""
+        },
+        {
+          "g": "ለገራህቱ",
+          "t": "lägärahətu",
+          "gl": ""
+        },
+        {
+          "g": "ቤዘዋ",
+          "t": "bezäwa",
+          "gl": ""
+        },
+        {
+          "g": "ይዌስክ",
+          "t": "yəwesəkə",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "ወርቃ",
+          "t": "wärəqa",
+          "gl": ""
+        },
+        {
+          "g": "ሤጠ",
+          "t": "śeṭä",
+          "gl": ""
+        },
+        {
+          "g": "ኀምስተ",
+          "t": "ḫäməsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሃ",
+          "t": "ʾədeha",
+          "gl": ""
+        },
+        {
+          "g": "ወትገብእ",
+          "t": "wätəgäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ገራህቱ",
+          "t": "gärahətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if he that sanctified the field would redeem it, he shall add to its value the fifth part of the money, and it shall be his.",
+        "kjv": "And if he that sanctified the field will in any wise redeem it, then he shall add the fifth part of the money of thy estimation unto it, and it shall be assured to him."
+      }
+    },
+    {
+      "num": 20,
+      "geez": "ወእመሰ ፡ እምድኅረ ፡ ቤዘዋ ፡ ለገራህቱ ፡ ሤጣ ፡ ኀበ ፡ ካልእ ፡ ብእሲ ፡ ኢይቤዝዋ ፡ እንከ ፡ ዳግመ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "እምድኅረ",
+          "t": "ʾəmədəḫərä",
+          "gl": ""
+        },
+        {
+          "g": "ቤዘዋ",
+          "t": "bezäwa",
+          "gl": ""
+        },
+        {
+          "g": "ለገራህቱ",
+          "t": "lägärahətu",
+          "gl": ""
+        },
+        {
+          "g": "ሤጣ",
+          "t": "śeṭa",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ካልእ",
+          "t": "kaləʾə",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ኢይቤዝዋ",
+          "t": "ʾiyəbezəwa",
+          "gl": ""
+        },
+        {
+          "g": "እንከ",
+          "t": "ʾənəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዳግመ",
+          "t": "dagəmä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if he do not redeem the field, but should sell the field to another man, he shall not after redeem it.",
+        "kjv": "And if he will not redeem the field, or if he have sold the field to another man, it shall not be redeemed any more."
+      }
+    },
+    {
+      "num": 21,
+      "geez": "አላ ፡ ትከውን ፡ ገራህቱ ፡ ቅድስተ ፡ ወስብሕተ ፡ ለእግዚአብሔር ፡ ወበዓመተ ፡ ኅድገትኒ ፡ ውፅእት ፡ ይእቲ ፡ እምኔሁ\n                  ፡ ወኢትገብእ ፡ ሎቱ ፡ ከመ ፡ ምድር ፡ እንተ ፡ ፍልጥ ፡ ለካህን ፡ በደወሉ ፡ ትከውን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "አላ",
+          "t": "ʾäla",
+          "gl": ""
+        },
+        {
+          "g": "ትከውን",
+          "t": "təkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ገራህቱ",
+          "t": "gärahətu",
+          "gl": ""
+        },
+        {
+          "g": "ቅድስተ",
+          "t": "qədəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ወስብሕተ",
+          "t": "wäsəbəḥətä",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወበዓመተ",
+          "t": "wäbäʿamätä",
+          "gl": ""
+        },
+        {
+          "g": "ኅድገትኒ",
+          "t": "ḫədəgätəni",
+          "gl": ""
+        },
+        {
+          "g": "ውፅእት",
+          "t": "wəṣ́əʾətə",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢትገብእ",
+          "t": "wäʾitəgäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ፍልጥ",
+          "t": "fələṭə",
+          "gl": ""
+        },
+        {
+          "g": "ለካህን",
+          "t": "läkahənə",
+          "gl": ""
+        },
+        {
+          "g": "በደወሉ",
+          "t": "bädäwälu",
+          "gl": ""
+        },
+        {
+          "g": "ትከውን",
+          "t": "təkäwənə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But the field shall be holy to the Lord after the release, as separated land; the priest shall have possession of it.",
+        "kjv": "But the field, when it goeth out in the jubile, shall be holy unto the LORD, as a field devoted; the possession thereof shall be the priest’s."
+      }
+    },
+    {
+      "num": 22,
+      "geez": "ወእመሰ ፡ እምነ ፡ ገራውህ ፡ ዘተሣየጠ ፡ በፅዐ ፡ ለእግዚአብሔር ፡ እምነ ፡ ዘኢኮነ ፡ ዘደወሉ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ገራውህ",
+          "t": "gärawəhə",
+          "gl": ""
+        },
+        {
+          "g": "ዘተሣየጠ",
+          "t": "zätäśayäṭä",
+          "gl": ""
+        },
+        {
+          "g": "በፅዐ",
+          "t": "bäṣ́əʿä",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ዘኢኮነ",
+          "t": "zäʾikonä",
+          "gl": ""
+        },
+        {
+          "g": "ዘደወሉ",
+          "t": "zädäwälu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if he should consecrate to the Lord of a field which he has bought, which is not of the field of his possession,",
+        "kjv": "And if a man sanctify unto the LORD a field which he hath bought, which is not of the fields of his possession;"
+      }
+    },
+    {
+      "num": 23,
+      "geez": "የሐስብ ፡ ሎቱ ፡ ካህን ፡ ክበበ ፡ ሤጡ ፡ እምነ ፡ ዓመተ ፡ ኅድገት ፡ ወይሁብ ፡ ሤጦ ፡ በይእቲ ፡ ዕለት ፡ ብፅዐቱ ፡\n                  ለእግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "የሐስብ",
+          "t": "yäḥäsəbə",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ክበበ",
+          "t": "kəbäbä",
+          "gl": ""
+        },
+        {
+          "g": "ሤጡ",
+          "t": "śeṭu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ዓመተ",
+          "t": "ʿamätä",
+          "gl": ""
+        },
+        {
+          "g": "ኅድገት",
+          "t": "ḫədəgätə",
+          "gl": ""
+        },
+        {
+          "g": "ወይሁብ",
+          "t": "wäyəhubə",
+          "gl": ""
+        },
+        {
+          "g": "ሤጦ",
+          "t": "śeṭo",
+          "gl": ""
+        },
+        {
+          "g": "በይእቲ",
+          "t": "bäyəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "ብፅዐቱ",
+          "t": "bəṣ́əʿätu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "the priest shall reckon to him the full valuation from the year of release, and he shall pay the valuation in that day as holy to the Lord.",
+        "kjv": "Then the priest shall reckon unto him the worth of thy estimation, even unto the year of the jubile: and he shall give thine estimation in that day, as a holy thing unto the LORD."
+      }
+    },
+    {
+      "num": 24,
+      "geez": "ወበዓመተ ፡ ኅድገት ፡ ይገብእ ፡ ውእቱ ፡ ገራህት ፡ ለዝክቱ ፡ ብእሲ ፡ ዘእምኀቤሁ ፡ ተሣየጠ ፡ እስመ ፡ ደወለ ፡ ዚአሁ\n                  ፡ ውእቱ ፡ ወምድሩ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበዓመተ",
+          "t": "wäbäʿamätä",
+          "gl": ""
+        },
+        {
+          "g": "ኅድገት",
+          "t": "ḫədəgätə",
+          "gl": ""
+        },
+        {
+          "g": "ይገብእ",
+          "t": "yəgäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ገራህት",
+          "t": "gärahətə",
+          "gl": ""
+        },
+        {
+          "g": "ለዝክቱ",
+          "t": "läzəkətu",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምኀቤሁ",
+          "t": "zäʾəməḫäbehu",
+          "gl": ""
+        },
+        {
+          "g": "ተሣየጠ",
+          "t": "täśayäṭä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ደወለ",
+          "t": "däwälä",
+          "gl": ""
+        },
+        {
+          "g": "ዚአሁ",
+          "t": "ziʾähu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ወምድሩ",
+          "t": "wämədəru",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And in the year of release the land shall be restored to the man of whom the other bought it, whose the possession of the land was.",
+        "kjv": "In the year of the jubile the field shall return unto him of whom it was bought, even to him to whom the possession of the land did belong."
+      }
+    },
+    {
+      "num": 25,
+      "geez": "ወኵሉ ፡ ሤጥ ፡ በመዳልው ፡ ቅዱስ ፡ ይኩን ፡ ዕሥራ ፡ ኦቦሊ ፡ ለአሐቲ ፡ ዲድረክም ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ሤጥ",
+          "t": "śeṭə",
+          "gl": ""
+        },
+        {
+          "g": "በመዳልው",
+          "t": "bämädaləwə",
+          "gl": ""
+        },
+        {
+          "g": "ቅዱስ",
+          "t": "qədusə",
+          "gl": ""
+        },
+        {
+          "g": "ይኩን",
+          "t": "yəkunə",
+          "gl": ""
+        },
+        {
+          "g": "ዕሥራ",
+          "t": "ʿəśəra",
+          "gl": ""
+        },
+        {
+          "g": "ኦቦሊ",
+          "t": "ʾoboli",
+          "gl": ""
+        },
+        {
+          "g": "ለአሐቲ",
+          "t": "läʾäḥäti",
+          "gl": ""
+        },
+        {
+          "g": "ዲድረክም",
+          "t": "didəräkəmə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And every valuation shall be by holy weights: the didrachm shall be twenty oboli.",
+        "kjv": "And all thy estimations shall be according to the shekel of the sanctuary: twenty gerahs shall be the shekel."
+      }
+    },
+    {
+      "num": 26,
+      "geez": "ወኵሉ ፡ በኵሩ ፡ ዘይትወለድ ፡ ውስተ ፡ እንስሳከ ፡ ለእግዚአብሔር ፡ ውእቱ ፡ ወአልቦ ፡ ዘይዌልጦ ፡ መኑሂ ፡ እመኒ ፡\n                  ላህም ፡ ወእመኒ ፡ በግዕ ፡ ለእግዚአብሔር ፡ ውእቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "በኵሩ",
+          "t": "bäkwəru",
+          "gl": ""
+        },
+        {
+          "g": "ዘይትወለድ",
+          "t": "zäyətəwälädə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እንስሳከ",
+          "t": "ʾənəsəsakä",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ወአልቦ",
+          "t": "wäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘይዌልጦ",
+          "t": "zäyəweləṭo",
+          "gl": ""
+        },
+        {
+          "g": "መኑሂ",
+          "t": "mänuhi",
+          "gl": ""
+        },
+        {
+          "g": "እመኒ",
+          "t": "ʾəmäni",
+          "gl": ""
+        },
+        {
+          "g": "ላህም",
+          "t": "lahəmə",
+          "gl": ""
+        },
+        {
+          "g": "ወእመኒ",
+          "t": "wäʾəmäni",
+          "gl": ""
+        },
+        {
+          "g": "በግዕ",
+          "t": "bägəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And every first-born which shall be produced among thy cattle shall be the Lord's, and no man shall sanctify it: whether calf or sheep, it is the Lord's.",
+        "kjv": "Only the firstling of the beasts, which should be the LORD’s firstling, no man shall sanctify it; whether it be ox, or sheep: it is the LORD’s."
+      }
+    },
+    {
+      "num": 27,
+      "geez": "ወእመሰ ፡ እምእንስሳ ፡ ዘርኩስ ፡ ይዌልጦ ፡ በሐሳበ ፡ ሤጡ ፡ ወይዌስክ ፡ ኀምስተ ፡ እዴሁ ፡ ላዕሌሁ ፡ ወይገብእ ፡\n                  ሎቱ ፡ ወእመሰ ፡ ኢቤዘዎ ፡ ይሠይጥዎ ፡ በሐሳበ ፡ ሤጡ ። ወኵሉ ፡ መባእ ፡ ዘአብአ ፡ ሰብእ ፡ ለእግዚአብሔር ፡ እምነ ፡\n                  ኵሉ ፡ ዘቦ ፡ እምሰብእ ፡ እስከ ፡ እንስሳ ፡ ወእመኒ ፡ ገራህት ፡ ዘደወሉ ፡ ኢይሠይጥዎ ፡ ወኢያቤዝውዎ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "እምእንስሳ",
+          "t": "ʾəməʾənəsəsa",
+          "gl": ""
+        },
+        {
+          "g": "ዘርኩስ",
+          "t": "zärəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ይዌልጦ",
+          "t": "yəweləṭo",
+          "gl": ""
+        },
+        {
+          "g": "በሐሳበ",
+          "t": "bäḥäsabä",
+          "gl": ""
+        },
+        {
+          "g": "ሤጡ",
+          "t": "śeṭu",
+          "gl": ""
+        },
+        {
+          "g": "ወይዌስክ",
+          "t": "wäyəwesəkə",
+          "gl": ""
+        },
+        {
+          "g": "ኀምስተ",
+          "t": "ḫäməsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ወይገብእ",
+          "t": "wäyəgäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "ኢቤዘዎ",
+          "t": "ʾibezäwo",
+          "gl": ""
+        },
+        {
+          "g": "ይሠይጥዎ",
+          "t": "yəśäyəṭəwo",
+          "gl": ""
+        },
+        {
+          "g": "በሐሳበ",
+          "t": "bäḥäsabä",
+          "gl": ""
+        },
+        {
+          "g": "ሤጡ",
+          "t": "śeṭu",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "መባእ",
+          "t": "mäbaʾə",
+          "gl": ""
+        },
+        {
+          "g": "ዘአብአ",
+          "t": "zäʾäbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘቦ",
+          "t": "zäbo",
+          "gl": ""
+        },
+        {
+          "g": "እምሰብእ",
+          "t": "ʾəməsäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "እንስሳ",
+          "t": "ʾənəsəsa",
+          "gl": ""
+        },
+        {
+          "g": "ወእመኒ",
+          "t": "wäʾəmäni",
+          "gl": ""
+        },
+        {
+          "g": "ገራህት",
+          "t": "gärahətə",
+          "gl": ""
+        },
+        {
+          "g": "ዘደወሉ",
+          "t": "zädäwälu",
+          "gl": ""
+        },
+        {
+          "g": "ኢይሠይጥዎ",
+          "t": "ʾiyəśäyəṭəwo",
+          "gl": ""
+        },
+        {
+          "g": "ወኢያቤዝውዎ",
+          "t": "wäʾiyabezəwəwo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But if he should redeem an unclean beast, according to its valuation, then he shall add the fifth part to it, and it shall be his; and if he redeem it not, it shall be sold according to its valuation.",
+        "kjv": "And if it be of an unclean beast, then he shall redeem it according to thine estimation, and shall add a fifth part of it thereto: or if it be not redeemed, then it shall be sold according to thy estimation."
+      }
+    },
+    {
+      "num": 28,
+      "geez": "ኵሉ ፡ መባእ ፡ ቅዱስ ፡ ዘቅዱሳን ፡ ውእቱ ፡ ለእግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "መባእ",
+          "t": "mäbaʾə",
+          "gl": ""
+        },
+        {
+          "g": "ቅዱስ",
+          "t": "qədusə",
+          "gl": ""
+        },
+        {
+          "g": "ዘቅዱሳን",
+          "t": "zäqədusanə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And every dedicated thing which a man shall dedicate to the Lord of all that he has, whether man or beast, or of the field of his possession, he shall not sell it, nor redeem it: every devoted thing shall be most holy to the Lord.",
+        "kjv": "Notwithstanding no devoted thing, that a man shall devote unto the LORD of all that he hath, both of man and beast, and of the field of his possession, shall be sold or redeemed: every devoted thing is most holy unto the LORD."
+      }
+    },
+    {
+      "num": 29,
+      "geez": "ወኵሉ ፡ መባእ ፡ ዘአብኡ ፡ ሰብአ ፡ ዘይከውን ፡ ኢይትቤዘው ፡ እስከ ፡ አመ ፡ ይመውት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "መባእ",
+          "t": "mäbaʾə",
+          "gl": ""
+        },
+        {
+          "g": "ዘአብኡ",
+          "t": "zäʾäbəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ሰብአ",
+          "t": "säbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ዘይከውን",
+          "t": "zäyəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ኢይትቤዘው",
+          "t": "ʾiyətəbezäwə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ይመውት",
+          "t": "yəmäwətə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And whatever shall be dedicated of men, shall not be ransomed, but shall be surely put to death.",
+        "kjv": "None devoted, which shall be devoted of men, shall be redeemed; but shall surely be put to death."
+      }
+    },
+    {
+      "num": 30,
+      "geez": "ወኵሉ ፡ ዓሥራታ ፡ ለምድር ፡ ዘእምዘርአ ፡ ምድር ፡ ወእመኒ ፡ ዘእምፍሬ ፡ ዕፅ ፡ ለእግዚአብሔር ፡ ቅዱስ ፡ ውእቱ ፡\n                  ለእግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዓሥራታ",
+          "t": "ʿaśərata",
+          "gl": ""
+        },
+        {
+          "g": "ለምድር",
+          "t": "lämədərə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምዘርአ",
+          "t": "zäʾəməzärəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ወእመኒ",
+          "t": "wäʾəmäni",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምፍሬ",
+          "t": "zäʾəməfəre",
+          "gl": ""
+        },
+        {
+          "g": "ዕፅ",
+          "t": "ʿəṣ́ə",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ቅዱስ",
+          "t": "qədusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Every tithe of the land, both of the seed of the land, and of the fruit of trees, is the Lord's, holy to the Lord.",
+        "kjv": "And all the tithe of the land, whether of the seed of the land, or of the fruit of the tree, is the LORD’s: it is holy unto the LORD."
+      }
+    },
+    {
+      "num": 31,
+      "geez": "ወእመሰ ፡ ቤዝዎ ፡ ቤዘወ ፡ ሰብእ ፡ ዓሥራቲሁ ፡ ይዌስክ ፡ ላዕሌሁ ፡ ኀምስተ ፡ እዴሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "ቤዝዎ",
+          "t": "bezəwo",
+          "gl": ""
+        },
+        {
+          "g": "ቤዘወ",
+          "t": "bezäwä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ዓሥራቲሁ",
+          "t": "ʿaśəratihu",
+          "gl": ""
+        },
+        {
+          "g": "ይዌስክ",
+          "t": "yəwesəkə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ኀምስተ",
+          "t": "ḫäməsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if a man should at all redeem his tithe, he shall add the fifth part to it, and it shall be his.",
+        "kjv": "And if a man will at all redeem ought of his tithes, he shall add thereto the fifth part thereof."
+      }
+    },
+    {
+      "num": 32,
+      "geez": "ወኵሉ ፡ ዓሥራት ፡ ዘላህም ፡ ወዘበግዕ ፡ ወኵሉ ፡ ዘይትነዳእ ፡ በበትር ፡ ለኈልቆ ፡ ቅዱስ ፡ ውእቱ ፡ ወዓሥራቲሁ ፡\n                  ለእግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዓሥራት",
+          "t": "ʿaśəratə",
+          "gl": ""
+        },
+        {
+          "g": "ዘላህም",
+          "t": "zälahəmə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘበግዕ",
+          "t": "wäzäbägəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይትነዳእ",
+          "t": "zäyətənädaʾə",
+          "gl": ""
+        },
+        {
+          "g": "በበትር",
+          "t": "bäbätərə",
+          "gl": ""
+        },
+        {
+          "g": "ለኈልቆ",
+          "t": "läḫwäləqo",
+          "gl": ""
+        },
+        {
+          "g": "ቅዱስ",
+          "t": "qədusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ወዓሥራቲሁ",
+          "t": "wäʿaśəratihu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And every tithe of oxen, and of sheep, and whatsoever may come in numbering under the rod, the tenth shall be holy to the Lord.",
+        "kjv": "And concerning the tithe of the herd, or of the flock, even of whatsoever passeth under the rod, the tenth shall be holy unto the LORD."
+      }
+    },
+    {
+      "num": 33,
+      "geez": "ወኢይዌልጥዎ ፡ ሠናየ ፡ በእኩይ ፡ ወኢእኩየ ፡ በሠናይ ፡ ወእመሰ ፡ ወልጦ ፡ ወለጠ ፡ ቅዱስ ፡ ውእቱ ፡ ተውላጡ ፡\n                  ወኢይትቤዘው ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኢይዌልጥዎ",
+          "t": "wäʾiyəweləṭəwo",
+          "gl": ""
+        },
+        {
+          "g": "ሠናየ",
+          "t": "śänayä",
+          "gl": ""
+        },
+        {
+          "g": "በእኩይ",
+          "t": "bäʾəkuyə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢእኩየ",
+          "t": "wäʾiʾəkuyä",
+          "gl": ""
+        },
+        {
+          "g": "በሠናይ",
+          "t": "bäśänayə",
+          "gl": ""
+        },
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "ወልጦ",
+          "t": "wäləṭo",
+          "gl": ""
+        },
+        {
+          "g": "ወለጠ",
+          "t": "wäläṭä",
+          "gl": ""
+        },
+        {
+          "g": "ቅዱስ",
+          "t": "qədusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ተውላጡ",
+          "t": "täwəlaṭu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይትቤዘው",
+          "t": "wäʾiyətəbezäwə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Thou shalt not change a good for a bad, or a bad for a good; and if thou shouldest at all change it, its equivalent also shall be holy, it shall not be redeemed.",
+        "kjv": "He shall not search whether it be good or bad, neither shall he change it: and if he change it at all, then both it and the change thereof shall be holy; it shall not be redeemed."
+      }
+    },
+    {
+      "num": 34,
+      "geez": "ዝንቱ ፡ ውእቱ ፡ ትእዛዝ ፡ ዘአዘዞ ፡ እግዚአብሔር ፡ ለሙሴ ፡ በደብረ ፡ ሲና ፡ ከመ ፡ ይንግሮሙ ፡ ለደቂቀ ፡ እስራኤል\n                  ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ትእዛዝ",
+          "t": "təʾəzazə",
+          "gl": ""
+        },
+        {
+          "g": "ዘአዘዞ",
+          "t": "zäʾäzäzo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "በደብረ",
+          "t": "bädäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ሲና",
+          "t": "sina",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይንግሮሙ",
+          "t": "yənəgəromu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "These are the commandments which the Lord commanded Moses for the sons of Israel in mount Sina.",
+        "kjv": "These are the commandments, which the LORD commanded Moses for the children of Israel in mount Sinai."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

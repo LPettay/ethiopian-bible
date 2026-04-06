@@ -1,0 +1,326 @@
+[
+  {
+    "abbrev": "1En",
+    "name": "1 Enoch",
+    "geez_name": "ሄኖክ፡",
+    "section": "Unique to Ethiopia",
+    "chapters": 108,
+    "source_id": "LIT1340EnochE",
+    "short": "1 Enoch"
+  },
+  {
+    "abbrev": "Jub",
+    "name": "Jubilees",
+    "geez_name": "መጽሐፈ፡ ኩፋሌ፡",
+    "section": "Unique to Ethiopia",
+    "chapters": 50,
+    "source_id": "LIT1697Jubilees",
+    "short": "Jubilees"
+  },
+  {
+    "abbrev": "3Meq",
+    "name": "3 Meqabyan",
+    "geez": "መቃብያን",
+    "section": "Unique to Ethiopia",
+    "chapters": 10,
+    "source_id": "LIT5839ThirdEthioMaccabees",
+    "short": "3 Meqabyan"
+  },
+  {
+    "abbrev": "4Bar",
+    "name": "4 Baruch",
+    "geez_name": "ተረፈ ፡ ነገር ፡ ዘባሮክ ፡ ዘኢኮነ ፡ ኅቡአ ፡ ዘአመ ፡ ይፄወዉ ፡ ባቢሎን ።",
+    "section": "Unique to Ethiopia",
+    "chapters": 9,
+    "source_id": "LIT2167Parali",
+    "short": "4 Baruch"
+  },
+  {
+    "abbrev": "KN",
+    "name": "Kebra Nagast",
+    "geez": "ክብረ፡ ነገሥት፡",
+    "section": "Unique to Ethiopia",
+    "chapters": 119,
+    "source_id": "LIT1709Kebran",
+    "short": "Kebra Nagast"
+  },
+  {
+    "abbrev": "Lef",
+    "name": "Lefafa Sedq",
+    "geez": "ልፋፈ፡ ጹድቅ፡",
+    "section": "Unique to Ethiopia",
+    "chapters": 7,
+    "source_id": "LIT1758Lefafa",
+    "short": "Lefafa Sedq"
+  },
+  {
+    "abbrev": "MysHE",
+    "name": "Mysteries of Heaven & Earth",
+    "geez": "መጹሐፈ፡ ምሥጢረ፡ ሰማይ፡ ወምድር፡",
+    "section": "Unique to Ethiopia",
+    "chapters": 4,
+    "source_id": "LIT1954Mashaf",
+    "short": "Mysteries"
+  },
+  {
+    "abbrev": "TestLd",
+    "name": "Testament of Our Lord",
+    "geez": "ኪዳን፡ ዘእግዚእነ፡ ኢየሱስ፡ ክርስቶስ፡",
+    "section": "Unique to Ethiopia",
+    "chapters": 60,
+    "source_id": "LIT2461Testam",
+    "short": "Test. Lord"
+  },
+  {
+    "abbrev": "Teach",
+    "name": "Teaching of Mysteries",
+    "geez": "ትምህርተ፡ ዅቡኣት፡",
+    "section": "Unique to Ethiopia",
+    "chapters": 5,
+    "source_id": "LIT2444Temher",
+    "short": "Teaching"
+  },
+  {
+    "abbrev": "Sinod",
+    "name": "Sinodos",
+    "geez": "",
+    "section": "Unique to Ethiopia",
+    "chapters": 36,
+    "source_id": "LIT1047Aksumi",
+    "short": "Sinodos"
+  },
+  {
+    "abbrev": "Synax",
+    "name": "Synaxarion",
+    "geez": "ስንክሳር፡",
+    "section": "Unique to Ethiopia",
+    "chapters": 1,
+    "source_id": "LIT4032SenkessarS",
+    "short": "Synaxarion"
+  },
+  {
+    "abbrev": "Tob",
+    "name": "Tobit",
+    "geez": "ጦቢት",
+    "section": "Deuterocanonical",
+    "chapters": 14,
+    "source_id": "LIT2473TobitB",
+    "short": "Tobit"
+  },
+  {
+    "abbrev": "Jdt",
+    "name": "Judith",
+    "geez": "ዮዲት",
+    "section": "Deuterocanonical",
+    "chapters": 16,
+    "source_id": "LIT1701Judith",
+    "short": "Judith"
+  },
+  {
+    "abbrev": "Sir",
+    "name": "Sirach",
+    "geez": "መጹሐፈ፡ ሲራክ፡",
+    "section": "Deuterocanonical",
+    "chapters": 51,
+    "source_id": "LIT2358Sirach",
+    "short": "Sirach"
+  },
+  {
+    "abbrev": "Wis",
+    "name": "Wisdom of Solomon",
+    "geez": "ጥበበ፡ ሰሎሞን፡",
+    "section": "Deuterocanonical",
+    "chapters": 19,
+    "source_id": "LIT2516Wisdom",
+    "short": "Wisdom"
+  },
+  {
+    "abbrev": "1Meq",
+    "name": "1 Meqabyan",
+    "geez": "",
+    "section": "Deuterocanonical",
+    "chapters": 36,
+    "source_id": "LIT1819Maccab",
+    "short": "1 Meqabyan"
+  },
+  {
+    "abbrev": "Lam",
+    "name": "Lamentations",
+    "geez": "ሰቆቃወ፡ ኤርምያስ፡ ነቢይ፡",
+    "section": "Deuterocanonical",
+    "chapters": 5,
+    "source_id": "LIT1753Lament",
+    "short": "Lament."
+  },
+  {
+    "abbrev": "Gen",
+    "name": "Genesis",
+    "geez": "ኦሪት",
+    "section": "Other",
+    "chapters": 50,
+    "source_id": "LIT1546Genesi",
+    "short": "Genesis"
+  },
+  {
+    "abbrev": "Exod",
+    "name": "Exodus",
+    "geez": "",
+    "section": "Other",
+    "chapters": 40,
+    "source_id": "LIT1367Exodus",
+    "short": "Exodus"
+  },
+  {
+    "abbrev": "Lev",
+    "name": "Leviticus",
+    "geez": "",
+    "section": "Other",
+    "chapters": 27,
+    "source_id": "LIT1793Leviti",
+    "short": "Leviticus"
+  },
+  {
+    "abbrev": "Num",
+    "name": "Numbers",
+    "geez": "",
+    "section": "Other",
+    "chapters": 36,
+    "source_id": "LIT2075Number",
+    "short": "Numbers"
+  },
+  {
+    "abbrev": "Deut",
+    "name": "Deuteronomy",
+    "geez": "",
+    "section": "Other",
+    "chapters": 34,
+    "source_id": "LIT2637Deuteronomy",
+    "short": "Deuter."
+  },
+  {
+    "abbrev": "Josh",
+    "name": "Joshua",
+    "geez": "",
+    "section": "Other",
+    "chapters": 24,
+    "source_id": "LIT1696Joshua",
+    "short": "Joshua"
+  },
+  {
+    "abbrev": "Judg",
+    "name": "Judges",
+    "geez": "",
+    "section": "Other",
+    "chapters": 21,
+    "source_id": "LIT1700Judges",
+    "short": "Judges"
+  },
+  {
+    "abbrev": "Ruth",
+    "name": "Ruth",
+    "geez": "",
+    "section": "Other",
+    "chapters": 4,
+    "source_id": "LIT2229RuthBo",
+    "short": "Ruth"
+  },
+  {
+    "abbrev": "Kings",
+    "name": "Kings",
+    "geez": "ነገሥት፡",
+    "section": "Other",
+    "chapters": 25,
+    "source_id": "LIT2700Kings",
+    "short": "Kings"
+  },
+  {
+    "abbrev": "Job",
+    "name": "Job",
+    "geez": "ኢዮብ፡",
+    "section": "Other",
+    "chapters": 42,
+    "source_id": "LIT1688Job",
+    "short": "Job"
+  },
+  {
+    "abbrev": "Prov",
+    "name": "Proverbs",
+    "geez": "ምሳልያተ፡ ሰሎሞን፡",
+    "section": "Other",
+    "chapters": 26,
+    "source_id": "LIT3927Messale",
+    "short": "Proverbs"
+  },
+  {
+    "abbrev": "Eccl",
+    "name": "Ecclesiastes",
+    "geez": "መጹሐፈ፡ መክብብ፡",
+    "section": "Other",
+    "chapters": 12,
+    "source_id": "LIT1320Eccles",
+    "short": "Eccles."
+  },
+  {
+    "abbrev": "Song",
+    "name": "Song of Songs",
+    "geez": "መሓልየ፡ መሓልይ፡",
+    "section": "Other",
+    "chapters": 8,
+    "source_id": "LIT2362Songof",
+    "short": "Song"
+  },
+  {
+    "abbrev": "Isa",
+    "name": "Isaiah",
+    "geez": "መጹሐፈ፡ ኢሳይያስ፡ ነቢይ:",
+    "section": "Other",
+    "chapters": 66,
+    "source_id": "LIT1672Isaiah",
+    "short": "Isaiah"
+  },
+  {
+    "abbrev": "Joel",
+    "name": "Joel",
+    "geez": "",
+    "section": "Other",
+    "chapters": 3,
+    "source_id": "LIT1689Joel",
+    "short": "Joel"
+  },
+  {
+    "abbrev": "Jonah",
+    "name": "Jonah",
+    "geez": "",
+    "section": "Other",
+    "chapters": 4,
+    "source_id": "LIT1694Jonah",
+    "short": "Jonah"
+  },
+  {
+    "abbrev": "Clem",
+    "name": "Clement",
+    "geez": "",
+    "section": "Other",
+    "chapters": 67,
+    "source_id": "LIT2680ClemPeter",
+    "short": "Clement"
+  },
+  {
+    "abbrev": "Ezra",
+    "name": "Ezra",
+    "geez": "",
+    "section": "Other",
+    "chapters": 13,
+    "source_id": "LIT1374Bookof",
+    "short": "Ezra"
+  },
+  {
+    "abbrev": "ApEz",
+    "name": "Apocalypse of Ezra",
+    "geez": "",
+    "section": "Other",
+    "chapters": 10,
+    "source_id": "LIT1376Apocal",
+    "short": "Apoc. Ezra"
+  }
+]

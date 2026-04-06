@@ -1,0 +1,1294 @@
+{
+  "book": "Gen",
+  "chapter": 16,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወሶራስ ፡ ብእሲቱ ፡ ለአብራም ፡ ኢወለደት ፡ ሎቱ ፡ ወባቲ ፡ አመተ ፡ [ግብጻዊተ ፡] እንተ ፡ ስማ ፡ አጋር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሶራስ",
+          "t": "wäsorasə",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲቱ",
+          "t": "bəʾəsitu",
+          "gl": ""
+        },
+        {
+          "g": "ለአብራም",
+          "t": "läʾäbəramə",
+          "gl": ""
+        },
+        {
+          "g": "ኢወለደት",
+          "t": "ʾiwälädätə",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ወባቲ",
+          "t": "wäbati",
+          "gl": ""
+        },
+        {
+          "g": "አመተ",
+          "t": "ʾämätä",
+          "gl": ""
+        },
+        {
+          "g": "ግብጻዊተ",
+          "t": "gəbəṣawitä",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ስማ",
+          "t": "səma",
+          "gl": ""
+        },
+        {
+          "g": "አጋር",
+          "t": "ʾägarə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Sara the wife of Abram bore him no children; and she had an Egyptian maid, whose name was Agar.",
+        "kjv": "Now Sarai Abram’s wife bare him no children: and she had an handmaid, an Egyptian, whose name was Hagar."
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ወትቤሎ ፡ ሶራ ፡ ለአብራም ፡ በምድረ ፡ ከናአን ፡ ናሁ ፡ ዐጸወኒ ፡ አምላክ ፡ እግዚአብሔር ፡ ወኢይወልድ ፡ ሑር ፡\n                  ወባእ ፡ እንከሰ ፡ ኀበ ፡ አመትየ ፡ ከመ ፡ ትለድ ፡ እምኔሃ ፡ ወሰምዐ ፡ አብራም ፡ ቃላ ፡ ለሶራ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትቤሎ",
+          "t": "wätəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ሶራ",
+          "t": "sora",
+          "gl": ""
+        },
+        {
+          "g": "ለአብራም",
+          "t": "läʾäbəramə",
+          "gl": ""
+        },
+        {
+          "g": "በምድረ",
+          "t": "bämədərä",
+          "gl": ""
+        },
+        {
+          "g": "ከናአን",
+          "t": "känaʾänə",
+          "gl": ""
+        },
+        {
+          "g": "ናሁ",
+          "t": "nahu",
+          "gl": ""
+        },
+        {
+          "g": "ዐጸወኒ",
+          "t": "ʿäṣäwäni",
+          "gl": ""
+        },
+        {
+          "g": "አምላክ",
+          "t": "ʾäməlakə",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይወልድ",
+          "t": "wäʾiyəwälədə",
+          "gl": ""
+        },
+        {
+          "g": "ሑር",
+          "t": "ḥurə",
+          "gl": ""
+        },
+        {
+          "g": "ወባእ",
+          "t": "wäbaʾə",
+          "gl": ""
+        },
+        {
+          "g": "እንከሰ",
+          "t": "ʾənəkäsä",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "አመትየ",
+          "t": "ʾämätəyä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ትለድ",
+          "t": "təlädə",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሃ",
+          "t": "ʾəməneha",
+          "gl": ""
+        },
+        {
+          "g": "ወሰምዐ",
+          "t": "wäsäməʿä",
+          "gl": ""
+        },
+        {
+          "g": "አብራም",
+          "t": "ʾäbəramə",
+          "gl": ""
+        },
+        {
+          "g": "ቃላ",
+          "t": "qala",
+          "gl": ""
+        },
+        {
+          "g": "ለሶራ",
+          "t": "läsora",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Sara said to Abram, Behold, the Lord has restrained me from bearing, go therefore in to my maid, that I may get children for myself through her. And Abram hearkened to the voice of Sara.",
+        "kjv": "And Sarai said unto Abram, Behold now, the LORD hath restrained me from bearing: I pray thee, go in unto my maid; it may be that I may obtain children by her. And Abram hearkened to the voice of Sarai."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወነሥአታ ፡ ሶራ ፡ ለአጋር ፡ አመታ ፡ ግብጻዊት ፡ እምድኅረ ፡ ዐሠርቱ ፡ ዓመት ፡ ዘኀደረ ፡ አብራም ፡ ውስተ ፡ ምድረ\n                  ፡ ከናአን ፡ [ወወሀበቶ ፡ ለአብራም ፡ ትኩኖ ፡ ብእሲተ ።]",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነሥአታ",
+          "t": "wänäśəʾäta",
+          "gl": ""
+        },
+        {
+          "g": "ሶራ",
+          "t": "sora",
+          "gl": ""
+        },
+        {
+          "g": "ለአጋር",
+          "t": "läʾägarə",
+          "gl": ""
+        },
+        {
+          "g": "አመታ",
+          "t": "ʾämäta",
+          "gl": ""
+        },
+        {
+          "g": "ግብጻዊት",
+          "t": "gəbəṣawitə",
+          "gl": ""
+        },
+        {
+          "g": "እምድኅረ",
+          "t": "ʾəmədəḫərä",
+          "gl": ""
+        },
+        {
+          "g": "ዐሠርቱ",
+          "t": "ʿäśärətu",
+          "gl": ""
+        },
+        {
+          "g": "ዓመት",
+          "t": "ʿamätə",
+          "gl": ""
+        },
+        {
+          "g": "ዘኀደረ",
+          "t": "zäḫädärä",
+          "gl": ""
+        },
+        {
+          "g": "አብራም",
+          "t": "ʾäbəramə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድረ",
+          "t": "mədərä",
+          "gl": ""
+        },
+        {
+          "g": "ከናአን",
+          "t": "känaʾänə",
+          "gl": ""
+        },
+        {
+          "g": "ወወሀበቶ",
+          "t": "wäwähäbäto",
+          "gl": ""
+        },
+        {
+          "g": "ለአብራም",
+          "t": "läʾäbəramə",
+          "gl": ""
+        },
+        {
+          "g": "ትኩኖ",
+          "t": "təkuno",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲተ",
+          "t": "bəʾəsitä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "So Sara the wife of Abram having taken Agar the Egyptian her handmaid, after Abram had dwelt ten years in the land of Chanaan, gave her to Abram her husband as a wife to him.",
+        "kjv": "And Sarai Abram’s wife took Hagar her maid the Egyptian, after Abram had dwelt ten years in the land of Canaan, and gave her to her husband Abram to be his wife."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወቦአ ፡ ኀበ ፡ አጋር ፡ አብራም ፡ ወፀንሰት ፡ ወሶበ ፡ ርእየት ፡ ከመ ፡ ፀንሰት ፡ ኀደገት ፡ አክብሮታ ፡ ለእግዝእታ\n                  ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወቦአ",
+          "t": "wäboʾä",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "አጋር",
+          "t": "ʾägarə",
+          "gl": ""
+        },
+        {
+          "g": "አብራም",
+          "t": "ʾäbəramə",
+          "gl": ""
+        },
+        {
+          "g": "ወፀንሰት",
+          "t": "wäṣ́änəsätə",
+          "gl": ""
+        },
+        {
+          "g": "ወሶበ",
+          "t": "wäsobä",
+          "gl": ""
+        },
+        {
+          "g": "ርእየት",
+          "t": "rəʾəyätə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ፀንሰት",
+          "t": "ṣ́änəsätə",
+          "gl": ""
+        },
+        {
+          "g": "ኀደገት",
+          "t": "ḫädägätə",
+          "gl": ""
+        },
+        {
+          "g": "አክብሮታ",
+          "t": "ʾäkəbərota",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዝእታ",
+          "t": "läʾəgəzəʾəta",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he went in to Agar, and she conceived, and saw that she was with child, and her mistress was dishonoured before her.",
+        "kjv": "And he went in unto Hagar, and she conceived: and when she saw that she had conceived, her mistress was despised in her eyes."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወትቤሎ ፡ ሶራ ፡ ለአብራም ፡ እትገፋዕ ፡ አንሰ ፡ እምኔከ ፡ አነኒ ፡ ወሀብኩከ ፡ አመትየ ፡ ውስተ ፡ ሕፅንከ ፡ ወሶበ\n                  ፡ ርእየት ፡ ከመ ፡ ፀንሰት ፡ ኀደገት ፡ አክብሮትየ ፡ ለይፍታሕ ፡ ሊተ ፡ እግዚአብሔር ፡ ማእከሌየ ፡ ወማእከሌከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትቤሎ",
+          "t": "wätəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ሶራ",
+          "t": "sora",
+          "gl": ""
+        },
+        {
+          "g": "ለአብራም",
+          "t": "läʾäbəramə",
+          "gl": ""
+        },
+        {
+          "g": "እትገፋዕ",
+          "t": "ʾətəgäfaʿə",
+          "gl": ""
+        },
+        {
+          "g": "አንሰ",
+          "t": "ʾänəsä",
+          "gl": ""
+        },
+        {
+          "g": "እምኔከ",
+          "t": "ʾəmənekä",
+          "gl": ""
+        },
+        {
+          "g": "አነኒ",
+          "t": "ʾänäni",
+          "gl": ""
+        },
+        {
+          "g": "ወሀብኩከ",
+          "t": "wähäbəkukä",
+          "gl": ""
+        },
+        {
+          "g": "አመትየ",
+          "t": "ʾämätəyä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሕፅንከ",
+          "t": "ḥəṣ́ənəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወሶበ",
+          "t": "wäsobä",
+          "gl": ""
+        },
+        {
+          "g": "ርእየት",
+          "t": "rəʾəyätə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ፀንሰት",
+          "t": "ṣ́änəsätə",
+          "gl": ""
+        },
+        {
+          "g": "ኀደገት",
+          "t": "ḫädägätə",
+          "gl": ""
+        },
+        {
+          "g": "አክብሮትየ",
+          "t": "ʾäkəbərotəyä",
+          "gl": ""
+        },
+        {
+          "g": "ለይፍታሕ",
+          "t": "läyəfətaḥə",
+          "gl": ""
+        },
+        {
+          "g": "ሊተ",
+          "t": "litä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ማእከሌየ",
+          "t": "maʾəkäleyä",
+          "gl": ""
+        },
+        {
+          "g": "ወማእከሌከ",
+          "t": "wämaʾəkälekä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Sara said to Abram, I am injured by thee; I gave my handmaid into thy bosom, and when I saw that she was with child, I was dishonoured before her. The Lord judge between me and thee.",
+        "kjv": "And Sarai said unto Abram, My wrong be upon thee: I have given my maid into thy bosom; and when she saw that she had conceived, I was despised in her eyes: the LORD judge between me and thee."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወይቤላ ፡ አብራም ፡ ለሶራ ፡ ብእሲቱ ፡ አመትኪ ፡ ውስተ ፡ አዴኪ ፡ ግበርያ ፡ ዘከመ ፡ ይደልወኪ ፡ ወሣቀየታ ፡ ሶራ ፡\n                  ለአጋር ፡ ወትኀጥአት ፡ እምኔሃ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤላ",
+          "t": "wäyəbela",
+          "gl": ""
+        },
+        {
+          "g": "አብራም",
+          "t": "ʾäbəramə",
+          "gl": ""
+        },
+        {
+          "g": "ለሶራ",
+          "t": "läsora",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲቱ",
+          "t": "bəʾəsitu",
+          "gl": ""
+        },
+        {
+          "g": "አመትኪ",
+          "t": "ʾämätəki",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አዴኪ",
+          "t": "ʾädeki",
+          "gl": ""
+        },
+        {
+          "g": "ግበርያ",
+          "t": "gəbärəya",
+          "gl": ""
+        },
+        {
+          "g": "ዘከመ",
+          "t": "zäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ይደልወኪ",
+          "t": "yədäləwäki",
+          "gl": ""
+        },
+        {
+          "g": "ወሣቀየታ",
+          "t": "wäśaqäyäta",
+          "gl": ""
+        },
+        {
+          "g": "ሶራ",
+          "t": "sora",
+          "gl": ""
+        },
+        {
+          "g": "ለአጋር",
+          "t": "läʾägarə",
+          "gl": ""
+        },
+        {
+          "g": "ወትኀጥአት",
+          "t": "wätəḫäṭəʾätə",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሃ",
+          "t": "ʾəməneha",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Abram said to Sara, Behold thy handmaid is in thy hands, use her as it may seem good to thee. And Sara afflicted her, and she fled from her face.",
+        "kjv": "But Abram said unto Sarai, Behold, thy maid is in thy hand; do to her as it pleaseth thee. And when Sarai dealt hardly with her, she fled from her face."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወረከባ ፡ መልአከ ፡ እግዚአብሔር ፡ በኀበ ፡ ዐዘቅተ ፡ ማይ ፡ በገዳመ ፡ [ሱ]ር ፡ በፍኖት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወረከባ",
+          "t": "wäräkäba",
+          "gl": ""
+        },
+        {
+          "g": "መልአከ",
+          "t": "mäləʾäkä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "በኀበ",
+          "t": "bäḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ዐዘቅተ",
+          "t": "ʿäzäqətä",
+          "gl": ""
+        },
+        {
+          "g": "ማይ",
+          "t": "mayə",
+          "gl": ""
+        },
+        {
+          "g": "በገዳመ",
+          "t": "bägädamä",
+          "gl": ""
+        },
+        {
+          "g": "ሱር",
+          "t": "surə",
+          "gl": ""
+        },
+        {
+          "g": "በፍኖት",
+          "t": "bäfənotə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And an angel of the Lord found her by the fountain of water in the wilderness, by the fountain in the way to Sur.",
+        "kjv": "And the angel of the LORD found her by a fountain of water in the wilderness, by the fountain in the way to Shur."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወይቤላ ፡ መልአከ ፡ እግዚአብሔር ፡ አጋር ፡ አመተ ፡ ሶራ ፡ እምአይቴ ፡ መጻእኪ ፡ ወአይቴ ፡ ተሐውሪ ፡ ወትቤሎ ፡\n                  እምነ ፡ ገጸ ፡ ሶራ ፡ እግዝእትየ ፡ እትኅጣእ ፡ አንሰ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤላ",
+          "t": "wäyəbela",
+          "gl": ""
+        },
+        {
+          "g": "መልአከ",
+          "t": "mäləʾäkä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አጋር",
+          "t": "ʾägarə",
+          "gl": ""
+        },
+        {
+          "g": "አመተ",
+          "t": "ʾämätä",
+          "gl": ""
+        },
+        {
+          "g": "ሶራ",
+          "t": "sora",
+          "gl": ""
+        },
+        {
+          "g": "እምአይቴ",
+          "t": "ʾəməʾäyəte",
+          "gl": ""
+        },
+        {
+          "g": "መጻእኪ",
+          "t": "mäṣaʾəki",
+          "gl": ""
+        },
+        {
+          "g": "ወአይቴ",
+          "t": "wäʾäyəte",
+          "gl": ""
+        },
+        {
+          "g": "ተሐውሪ",
+          "t": "täḥäwəri",
+          "gl": ""
+        },
+        {
+          "g": "ወትቤሎ",
+          "t": "wätəbelo",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ገጸ",
+          "t": "gäṣä",
+          "gl": ""
+        },
+        {
+          "g": "ሶራ",
+          "t": "sora",
+          "gl": ""
+        },
+        {
+          "g": "እግዝእትየ",
+          "t": "ʾəgəzəʾətəyä",
+          "gl": ""
+        },
+        {
+          "g": "እትኅጣእ",
+          "t": "ʾətəḫəṭaʾə",
+          "gl": ""
+        },
+        {
+          "g": "አንሰ",
+          "t": "ʾänəsä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the angel of the Lord said to her, Agar, Sara's maid, whence comest thou, and whither goest thou? and she said, I am fleeing from the face of my mistress Sara.",
+        "kjv": "And he said, Hagar, Sarai’s maid, whence camest thou? and whither wilt thou go? And she said, I flee from the face of my mistress Sarai."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወይቤላ ፡ መልአከ ፡ እግዚአብሔር ፡ ግብኢ ፡ ኀበ ፡ እግዝእትኪ ፡ ወአትሕቲ ፡ ርእሰኪ ፡ ታሕተ ፡ እዴሃ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤላ",
+          "t": "wäyəbela",
+          "gl": ""
+        },
+        {
+          "g": "መልአከ",
+          "t": "mäləʾäkä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ግብኢ",
+          "t": "gəbəʾi",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "እግዝእትኪ",
+          "t": "ʾəgəzəʾətəki",
+          "gl": ""
+        },
+        {
+          "g": "ወአትሕቲ",
+          "t": "wäʾätəḥəti",
+          "gl": ""
+        },
+        {
+          "g": "ርእሰኪ",
+          "t": "rəʾəsäki",
+          "gl": ""
+        },
+        {
+          "g": "ታሕተ",
+          "t": "taḥətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሃ",
+          "t": "ʾədeha",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the angel of the Lord said to her, Return to thy mistress, and submit thyself under her hands.",
+        "kjv": "And the angel of the LORD said unto her, Return to thy mistress, and submit thyself under her hands."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወይቤላ ፡ መልአከ ፡ እግዚአብሔር ፡ አብዝኆ ፡ ኣበዝኆ ፡ ለዘርእኪ ፡ እስከ ፡ ኢይትኈለቍ ፡ እምነ ፡ ብዝኁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤላ",
+          "t": "wäyəbela",
+          "gl": ""
+        },
+        {
+          "g": "መልአከ",
+          "t": "mäləʾäkä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አብዝኆ",
+          "t": "ʾäbəzəḫo",
+          "gl": ""
+        },
+        {
+          "g": "ኣበዝኆ",
+          "t": "ʾabäzəḫo",
+          "gl": ""
+        },
+        {
+          "g": "ለዘርእኪ",
+          "t": "läzärəʾəki",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ኢይትኈለቍ",
+          "t": "ʾiyətəḫwäläqwə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ብዝኁ",
+          "t": "bəzəḫu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the angel of the Lord said to her, I will surely multiply thy seed, and it shall not be numbered for multitude.",
+        "kjv": "And the angel of the LORD said unto her, I will multiply thy seed exceedingly, that it shall not be numbered for multitude."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወይቤላ ፡ መልአከ ፡ እግዚአብሔር ፡ ናሁ ፡ ፅንስት ፡ አንቲ ፡ ወትወልዲ ፡ ወልደ ፡ ወትሰምይ[ዮ] ፡ ስሞ ፡ ይስማኤል ፡\n                  እስመ ፡ ሰምዐ ፡ እግዚአብሔር ፡ ለሥቃይኪ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤላ",
+          "t": "wäyəbela",
+          "gl": ""
+        },
+        {
+          "g": "መልአከ",
+          "t": "mäləʾäkä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ናሁ",
+          "t": "nahu",
+          "gl": ""
+        },
+        {
+          "g": "ፅንስት",
+          "t": "ṣ́ənəsətə",
+          "gl": ""
+        },
+        {
+          "g": "አንቲ",
+          "t": "ʾänəti",
+          "gl": ""
+        },
+        {
+          "g": "ወትወልዲ",
+          "t": "wätəwälədi",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ወትሰምይዮ",
+          "t": "wätəsäməyəyo",
+          "gl": ""
+        },
+        {
+          "g": "ስሞ",
+          "t": "səmo",
+          "gl": ""
+        },
+        {
+          "g": "ይስማኤል",
+          "t": "yəsəmaʾelə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ሰምዐ",
+          "t": "säməʿä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሥቃይኪ",
+          "t": "läśəqayəki",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the angel of the Lord said to her, Behold, thou art with child, and shalt bear a son, and shalt call his name Ismael, for the Lord hath hearkened to thy humiliation.",
+        "kjv": "And the angel of the LORD said unto her, Behold, thou art with child, and shalt bear a son, and shalt call his name Ishmael; because the LORD hath heard thy affliction."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወይከውን ፡ ብእሴ ፡ ሐቅል ፡ ወእደዊሁ ፡ ላዕለ ፡ ኵሉ ፡ ወእደወ ፡ ኵሉ ፡ ላዕሌሁ ፡ ወየኀድር ፡ ቅድመ ፡ አኀዊሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይከውን",
+          "t": "wäyəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ብእሴ",
+          "t": "bəʾəse",
+          "gl": ""
+        },
+        {
+          "g": "ሐቅል",
+          "t": "ḥäqələ",
+          "gl": ""
+        },
+        {
+          "g": "ወእደዊሁ",
+          "t": "wäʾədäwihu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ወእደወ",
+          "t": "wäʾədäwä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ወየኀድር",
+          "t": "wäyäḫädərə",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "አኀዊሁ",
+          "t": "ʾäḫäwihu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "He shall be a wild man, his hands against all, and the hands of all against him, and he shall dwell in the presence of all his brethren.",
+        "kjv": "And he will be a wild man; his hand will be against every man, and every man’s hand against him; and he shall dwell in the presence of all his brethren."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወጸውዐት ፡ አጋር ፡ ስመ ፡ እግዚአብሔር ፡ ዘተናገራ ፡ ወትቤ ፡ አንተ ፡ እግዚኦ ፡ ዘምሕከኒ ፡ እስመ ፡ ቅድሜየ ፡\n                  ርኢክዎ ፡ ለዘአስተርአየኒ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወጸውዐት",
+          "t": "wäṣäwəʿätə",
+          "gl": ""
+        },
+        {
+          "g": "አጋር",
+          "t": "ʾägarə",
+          "gl": ""
+        },
+        {
+          "g": "ስመ",
+          "t": "səmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ዘተናገራ",
+          "t": "zätänagära",
+          "gl": ""
+        },
+        {
+          "g": "ወትቤ",
+          "t": "wätəbe",
+          "gl": ""
+        },
+        {
+          "g": "አንተ",
+          "t": "ʾänətä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚኦ",
+          "t": "ʾəgəziʾo",
+          "gl": ""
+        },
+        {
+          "g": "ዘምሕከኒ",
+          "t": "zäməḥəkäni",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ቅድሜየ",
+          "t": "qədəmeyä",
+          "gl": ""
+        },
+        {
+          "g": "ርኢክዎ",
+          "t": "rəʾikəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለዘአስተርአየኒ",
+          "t": "läzäʾäsətärəʾäyäni",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And she called the name of the Lord God who spoke to her, Thou art God who seest me; for she said, For I have openly seen him that appeared to me.",
+        "kjv": "And she called the name of the LORD that spake unto her, Thou God seest me: for she said, Have I also here looked after him that seeth me?"
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወበእንተ ፡ ዝንቱ ፡ ሰመየቶ ፡ ስሞ ፡ ለውእቱ ፡ ዐዘቅት ፡ ዐዘቅት ፡ ዘቅድሜየ ፡ አስተርአየኒ ፡ ማእከለ ፡ ቃዴስ ፡\n                  ወማእከለ ፡ [ባ]ሬድ ፡ (ወገብአት ፡ አጋር ።)",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበእንተ",
+          "t": "wäbäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ሰመየቶ",
+          "t": "sämäyäto",
+          "gl": ""
+        },
+        {
+          "g": "ስሞ",
+          "t": "səmo",
+          "gl": ""
+        },
+        {
+          "g": "ለውእቱ",
+          "t": "läwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዐዘቅት",
+          "t": "ʿäzäqətə",
+          "gl": ""
+        },
+        {
+          "g": "ዐዘቅት",
+          "t": "ʿäzäqətə",
+          "gl": ""
+        },
+        {
+          "g": "ዘቅድሜየ",
+          "t": "zäqədəmeyä",
+          "gl": ""
+        },
+        {
+          "g": "አስተርአየኒ",
+          "t": "ʾäsətärəʾäyäni",
+          "gl": ""
+        },
+        {
+          "g": "ማእከለ",
+          "t": "maʾəkälä",
+          "gl": ""
+        },
+        {
+          "g": "ቃዴስ",
+          "t": "qadesə",
+          "gl": ""
+        },
+        {
+          "g": "ወማእከለ",
+          "t": "wämaʾəkälä",
+          "gl": ""
+        },
+        {
+          "g": "ባሬድ",
+          "t": "baredə",
+          "gl": ""
+        },
+        {
+          "g": "ወገብአት",
+          "t": "wägäbəʾätə",
+          "gl": ""
+        },
+        {
+          "g": "አጋር",
+          "t": "ʾägarə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Therefore she called the well, The well of him whom I have openly seen; behold it is between Cades and Barad.",
+        "kjv": "Wherefore the well was called Beerlahairoi; behold, it is between Kadesh and Bered."
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ወእምድኅረዝ ፡ ወለደት ፡ ሎቱ ፡ አጋር ፡ ለአብራም ፡ ወሰመዮ ፡ አብራም ፡ ለውእቱ ፡ ሕፃን ፡ ዘወለደት ፡ ሎቱ ፡ አጋር\n                  ፡ ይስማኤል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእምድኅረዝ",
+          "t": "wäʾəmədəḫəräzə",
+          "gl": ""
+        },
+        {
+          "g": "ወለደት",
+          "t": "wälädätə",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "አጋር",
+          "t": "ʾägarə",
+          "gl": ""
+        },
+        {
+          "g": "ለአብራም",
+          "t": "läʾäbəramə",
+          "gl": ""
+        },
+        {
+          "g": "ወሰመዮ",
+          "t": "wäsämäyo",
+          "gl": ""
+        },
+        {
+          "g": "አብራም",
+          "t": "ʾäbəramə",
+          "gl": ""
+        },
+        {
+          "g": "ለውእቱ",
+          "t": "läwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ሕፃን",
+          "t": "ḥəṣ́anə",
+          "gl": ""
+        },
+        {
+          "g": "ዘወለደት",
+          "t": "zäwälädätə",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "አጋር",
+          "t": "ʾägarə",
+          "gl": ""
+        },
+        {
+          "g": "ይስማኤል",
+          "t": "yəsəmaʾelə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Agar bore a son to Abram; and Abram called the name of his son which Agar bore to him, Ismael.",
+        "kjv": "And Hagar bare Abram a son: and Abram called his son’s name, which Hagar bare, Ishmael."
+      }
+    },
+    {
+      "num": 16,
+      "geez": "ወ፹ወ[፯]ዓመቱ ፡ ለአብራም ፡ አመ ፡ ወለደት ፡ ሎቱ ፡ አጋር ፡ ይስማኤልሃ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወ፹ወ፯ዓመቱ",
+          "t": "wä80wä7ʿamätu",
+          "gl": ""
+        },
+        {
+          "g": "ለአብራም",
+          "t": "läʾäbəramə",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ወለደት",
+          "t": "wälädätə",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "አጋር",
+          "t": "ʾägarə",
+          "gl": ""
+        },
+        {
+          "g": "ይስማኤልሃ",
+          "t": "yəsəmaʾeləha",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Abram was eighty-six years old, when Agar bore Ismael to Abram.",
+        "kjv": "And Abram was fourscore and six years old, when Hagar bare Ishmael to Abram."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

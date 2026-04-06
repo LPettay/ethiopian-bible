@@ -1,0 +1,474 @@
+{
+  "book": "1En",
+  "chapter": 55,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወእምድኅረ፡ ዝ፡ ነስሐ፡ ርእሰ፡ መዋዕል፡ ወይቤ፡ በከ፡ አህጐልክዎሙ፡ ለኵሎሙ፡ እለ፡ ይነብሩ፡ ውስተ፡ የብስ።",
+      "translation": "And after that the Head of Days repented and said: ‘In vain have I destroyed all who dwell on the earth.’",
+      "words": [
+        {
+          "g": "ወእምድኅረ",
+          "t": "wäʾəmədəḫərä",
+          "gl": ""
+        },
+        {
+          "g": "ዝ",
+          "t": "zə",
+          "gl": ""
+        },
+        {
+          "g": "ነስሐ",
+          "t": "näsəḥä",
+          "gl": ""
+        },
+        {
+          "g": "ርእሰ",
+          "t": "rəʾəsä",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕል",
+          "t": "mäwaʿələ",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "በከ",
+          "t": "bäkä",
+          "gl": ""
+        },
+        {
+          "g": "አህጐልክዎሙ",
+          "t": "ʾähəgwäləkəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለኵሎሙ",
+          "t": "läkwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "የብስ",
+          "t": "yäbəsə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "geez": "ወመሐለ፡ በስሙ፡ ዐቢይ፡ ከመ፡ እምይእዜ፡ ኢይገብር፡ ከመ፡ ዝ፡ ለኵሎሙ፡ እለ፡ ይነብሩ፡ ዲበ፡ የብስ፡ ወትእምርተ፡ እወዲ፡ በሰማይ፡ ወይከውን፡ ማእከሌየ፡ ወማእከሌሆሙ፡ ሃይማኖተ፡ እስከ፡ ለዓለም፡ መጠነ፡ መዋዕለ፡ ሰማይ፡ ዲበ፡ ምድር።",
+      "translation": "And He sware by His great name: ‘Henceforth I will not do so to all who dwell on the earth, and I will set a sign in the heaven: and this shall be a pledge of good faith between Me and them for ever, so long as heaven is above the earth. And this is in accordance with My command.",
+      "words": [
+        {
+          "g": "ወመሐለ",
+          "t": "wämäḥälä",
+          "gl": ""
+        },
+        {
+          "g": "በስሙ",
+          "t": "bäsəmu",
+          "gl": ""
+        },
+        {
+          "g": "ዐቢይ",
+          "t": "ʿäbiyə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "እምይእዜ",
+          "t": "ʾəməyəʾəze",
+          "gl": ""
+        },
+        {
+          "g": "ኢይገብር",
+          "t": "ʾiyəgäbərə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ዝ",
+          "t": "zə",
+          "gl": ""
+        },
+        {
+          "g": "ለኵሎሙ",
+          "t": "läkwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "የብስ",
+          "t": "yäbəsə",
+          "gl": ""
+        },
+        {
+          "g": "ወትእምርተ",
+          "t": "wätəʾəmərətä",
+          "gl": ""
+        },
+        {
+          "g": "እወዲ",
+          "t": "ʾəwädi",
+          "gl": ""
+        },
+        {
+          "g": "በሰማይ",
+          "t": "bäsämayə",
+          "gl": ""
+        },
+        {
+          "g": "ወይከውን",
+          "t": "wäyəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ማእከሌየ",
+          "t": "maʾəkäleyä",
+          "gl": ""
+        },
+        {
+          "g": "ወማእከሌሆሙ",
+          "t": "wämaʾəkälehomu",
+          "gl": ""
+        },
+        {
+          "g": "ሃይማኖተ",
+          "t": "hayəmanotä",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ለዓለም",
+          "t": "läʿalämə",
+          "gl": ""
+        },
+        {
+          "g": "መጠነ",
+          "t": "mäṭänä",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕለ",
+          "t": "mäwaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሰማይ",
+          "t": "sämayə",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "geez": "ወእም፡ ዝ፡ በትእዛዝየ፡ ውእቱ፡ ሶበ፡ ፈቀድኩ፡ ከመ፡ ኣጽንዖሙ፡ በእደ፡ መላእክት፡ በዕለተ፡ ምንዳቤ፡ ወሕማም፡ ቅድመ፡ ዝ፡ መዐትየ፡ ወመቅሠፍትየ፡ የኀድር፡ ላዕሌሆሙ፡ ይቤ፡ እግዚአብሔር፡ እግዚአ፡ መናፍስት።",
+      "translation": "When I have desired to take hold of them by the hand of the angels on the day of tribulation and pain because of this, I will cause My chastisement and My wrath to abide upon them, saith",
+      "words": [
+        {
+          "g": "ወእም",
+          "t": "wäʾəmə",
+          "gl": ""
+        },
+        {
+          "g": "ዝ",
+          "t": "zə",
+          "gl": ""
+        },
+        {
+          "g": "በትእዛዝየ",
+          "t": "bätəʾəzazəyä",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ሶበ",
+          "t": "sobä",
+          "gl": ""
+        },
+        {
+          "g": "ፈቀድኩ",
+          "t": "fäqädəku",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ኣጽንዖሙ",
+          "t": "ʾaṣənəʿomu",
+          "gl": ""
+        },
+        {
+          "g": "በእደ",
+          "t": "bäʾədä",
+          "gl": ""
+        },
+        {
+          "g": "መላእክት",
+          "t": "mälaʾəkətə",
+          "gl": ""
+        },
+        {
+          "g": "በዕለተ",
+          "t": "bäʿəlätä",
+          "gl": ""
+        },
+        {
+          "g": "ምንዳቤ",
+          "t": "mənədabe",
+          "gl": ""
+        },
+        {
+          "g": "ወሕማም",
+          "t": "wäḥəmamə",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ዝ",
+          "t": "zə",
+          "gl": ""
+        },
+        {
+          "g": "መዐትየ",
+          "t": "mäʿätəyä",
+          "gl": ""
+        },
+        {
+          "g": "ወመቅሠፍትየ",
+          "t": "wämäqəśäfətəyä",
+          "gl": ""
+        },
+        {
+          "g": "የኀድር",
+          "t": "yäḫädərə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሆሙ",
+          "t": "laʿəlehomu",
+          "gl": ""
+        },
+        {
+          "g": "ይቤ",
+          "t": "yəbe",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአ",
+          "t": "ʾəgəziʾä",
+          "gl": ""
+        },
+        {
+          "g": "መናፍስት",
+          "t": "mänafəsətə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 4,
+      "geez": "ነገሥት፡ ኀያላን፡ እለ፡ ተኀድሩ፡ ዲበ፡ የብስ፡ ሀለወክሙ፡ ትርአይዎ፡ ለኅሩየ፡ ዚኣየ፡ አመ፡ ይነብር፡ በመንበረ፡ ስብሐቲሁ፡ ወይኴንኖ፡ ለአዛዝኤል፡ ወለኵሎሙ፡ ማኅበረ፡ ዚኣሁ፡ ወለኵሎሙ፡ ትዕይንተ፡ ዚኣሁ፡ በስሙ፡ ለእግዚአ፡ መናፍስት።",
+      "translation": "3. When I have desired to take hold of them by the hand of the angels on the day of tribulation and pain because of this, I will cause My chastisement and My wrath to abide upon them, saith God, the Lord of Spirits. 4. Ye †mighty kings† who dwell on the earth, ye shall have to behold Mine Elect One, how he sits on the throne of glory and judges Azâzêl, and all his associates, and all his hosts in the name of the Lord of Spirits.’",
+      "words": [
+        {
+          "g": "ነገሥት",
+          "t": "nägäśətə",
+          "gl": ""
+        },
+        {
+          "g": "ኀያላን",
+          "t": "ḫäyalanə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ተኀድሩ",
+          "t": "täḫädəru",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "የብስ",
+          "t": "yäbəsə",
+          "gl": ""
+        },
+        {
+          "g": "ሀለወክሙ",
+          "t": "häläwäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ትርአይዎ",
+          "t": "tərəʾäyəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለኅሩየ",
+          "t": "läḫəruyä",
+          "gl": ""
+        },
+        {
+          "g": "ዚኣየ",
+          "t": "ziʾayä",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብር",
+          "t": "yənäbərə",
+          "gl": ""
+        },
+        {
+          "g": "በመንበረ",
+          "t": "bämänəbärä",
+          "gl": ""
+        },
+        {
+          "g": "ስብሐቲሁ",
+          "t": "səbəḥätihu",
+          "gl": ""
+        },
+        {
+          "g": "ወይኴንኖ",
+          "t": "wäyəkwenəno",
+          "gl": ""
+        },
+        {
+          "g": "ለአዛዝኤል",
+          "t": "läʾäzazəʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወለኵሎሙ",
+          "t": "wäläkwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ማኅበረ",
+          "t": "maḫəbärä",
+          "gl": ""
+        },
+        {
+          "g": "ዚኣሁ",
+          "t": "ziʾahu",
+          "gl": ""
+        },
+        {
+          "g": "ወለኵሎሙ",
+          "t": "wäläkwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ትዕይንተ",
+          "t": "təʿəyənətä",
+          "gl": ""
+        },
+        {
+          "g": "ዚኣሁ",
+          "t": "ziʾahu",
+          "gl": ""
+        },
+        {
+          "g": "በስሙ",
+          "t": "bäsəmu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአ",
+          "t": "läʾəgəziʾä",
+          "gl": ""
+        },
+        {
+          "g": "መናፍስት",
+          "t": "mänafəsətə",
+          "gl": ""
+        }
+      ]
+    }
+  ]
+}

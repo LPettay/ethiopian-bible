@@ -1,0 +1,728 @@
+{
+  "book": "Jdt",
+  "chapter": 3,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወፈነዉ፡ መልእክተ፡ በቃለ፡ ሰላም።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወፈነዉ",
+          "t": "wäfänäwu",
+          "gl": ""
+        },
+        {
+          "g": "መልእክተ",
+          "t": "mäləʾəkətä",
+          "gl": ""
+        },
+        {
+          "g": "በቃለ",
+          "t": "bäqalä",
+          "gl": ""
+        },
+        {
+          "g": "ሰላም",
+          "t": "sälamə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "So they sent ambassadors unto him to treat of peace, saying,"
+      }
+    },
+    {
+      "num": 2,
+      "geez": "እንዘ፡ ይብሉ፡ ናሁአ፡ ንሕነ፡ አግብርቲሁ፡ ለናቡከደነፆር፡ ንጉሥ፡ ዓቢይ፡ ሀለውነ፡ ቅድሜከ፡ ወረስየነ፡ በከመ፡ ፈቀድከ፡ በቅድመ፡ ገጽከ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ይብሉ",
+          "t": "yəbəlu",
+          "gl": ""
+        },
+        {
+          "g": "ናሁአ",
+          "t": "nahuʾä",
+          "gl": ""
+        },
+        {
+          "g": "ንሕነ",
+          "t": "nəḥənä",
+          "gl": ""
+        },
+        {
+          "g": "አግብርቲሁ",
+          "t": "ʾägəbərətihu",
+          "gl": ""
+        },
+        {
+          "g": "ለናቡከደነፆር",
+          "t": "länabukädänäṣ́orə",
+          "gl": ""
+        },
+        {
+          "g": "ንጉሥ",
+          "t": "nəguśə",
+          "gl": ""
+        },
+        {
+          "g": "ዓቢይ",
+          "t": "ʿabiyə",
+          "gl": ""
+        },
+        {
+          "g": "ሀለውነ",
+          "t": "häläwənä",
+          "gl": ""
+        },
+        {
+          "g": "ቅድሜከ",
+          "t": "qədəmekä",
+          "gl": ""
+        },
+        {
+          "g": "ወረስየነ",
+          "t": "wäräsəyänä",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ፈቀድከ",
+          "t": "fäqädəkä",
+          "gl": ""
+        },
+        {
+          "g": "በቅድመ",
+          "t": "bäqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ገጽከ",
+          "t": "gäṣəkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Behold, we the servants of Nabuchodonosor the great king lie before thee; use us as shall be good in thy sight."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወናሁ፡ አህጉሪነ፡ ወኵሉ፡ በሐውርቲነ፡ ወኵሉ፡ ገራውሂነ፡ ወመራዕይነ፡ ወኵሉ፡ አዕፃዳተ፡ ወፍርነ፡ ወአባግዒነ፡ ለከ፡ ቅድመ፡ ገጽከ፡ ወግበር፡ ዘፈቀድከ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወናሁ",
+          "t": "wänahu",
+          "gl": ""
+        },
+        {
+          "g": "አህጉሪነ",
+          "t": "ʾähəgurinä",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "በሐውርቲነ",
+          "t": "bäḥäwərətinä",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ገራውሂነ",
+          "t": "gärawəhinä",
+          "gl": ""
+        },
+        {
+          "g": "ወመራዕይነ",
+          "t": "wämäraʿəyənä",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "አዕፃዳተ",
+          "t": "ʾäʿəṣ́adatä",
+          "gl": ""
+        },
+        {
+          "g": "ወፍርነ",
+          "t": "wäfərənä",
+          "gl": ""
+        },
+        {
+          "g": "ወአባግዒነ",
+          "t": "wäʾäbagəʿinä",
+          "gl": ""
+        },
+        {
+          "g": "ለከ",
+          "t": "läkä",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ገጽከ",
+          "t": "gäṣəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወግበር",
+          "t": "wägəbärə",
+          "gl": ""
+        },
+        {
+          "g": "ዘፈቀድከ",
+          "t": "zäfäqädəkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Behold, our houses, and all our places, and all our fields of wheat, and flocks, and herds, and all the lodges of our tents, lie before thy face; use them as it pleaseth thee."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወናሁ፡ አህጉሪነ፡ ዓበይተ፡ ወእለ፡ ይነብሩ፡ ውስቴቶን፡ አግብርቲከ፡ እሙንቱ፡ ወነዓ፡ ረሲ፡ ዘከመ፡ ፈቃድከ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወናሁ",
+          "t": "wänahu",
+          "gl": ""
+        },
+        {
+          "g": "አህጉሪነ",
+          "t": "ʾähəgurinä",
+          "gl": ""
+        },
+        {
+          "g": "ዓበይተ",
+          "t": "ʿabäyətä",
+          "gl": ""
+        },
+        {
+          "g": "ወእለ",
+          "t": "wäʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ውስቴቶን",
+          "t": "wəsətetonə",
+          "gl": ""
+        },
+        {
+          "g": "አግብርቲከ",
+          "t": "ʾägəbərətikä",
+          "gl": ""
+        },
+        {
+          "g": "እሙንቱ",
+          "t": "ʾəmunətu",
+          "gl": ""
+        },
+        {
+          "g": "ወነዓ",
+          "t": "wänäʿa",
+          "gl": ""
+        },
+        {
+          "g": "ረሲ",
+          "t": "räsi",
+          "gl": ""
+        },
+        {
+          "g": "ዘከመ",
+          "t": "zäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ፈቃድከ",
+          "t": "fäqadəkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Behold, even our cities and the inhabitants thereof are thy servants; come and deal with them as seemeth good unto thee."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወበጽሑ፡ እሙንቱ፡ ዕደው፡ ኀበ፡ ሆሎፎርኒስ፡ ወዜነውዎ፡ ዘንተ፡ ነገረ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበጽሑ",
+          "t": "wäbäṣəḥu",
+          "gl": ""
+        },
+        {
+          "g": "እሙንቱ",
+          "t": "ʾəmunətu",
+          "gl": ""
+        },
+        {
+          "g": "ዕደው",
+          "t": "ʿədäwə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ሆሎፎርኒስ",
+          "t": "holoforənisə",
+          "gl": ""
+        },
+        {
+          "g": "ወዜነውዎ",
+          "t": "wäzenäwəwo",
+          "gl": ""
+        },
+        {
+          "g": "ዘንተ",
+          "t": "zänətä",
+          "gl": ""
+        },
+        {
+          "g": "ነገረ",
+          "t": "nägärä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "So the men came to Holofernes, and declared unto him after this manner."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወወረደ፡ ውስተ፡ በሐውርቲሆሙ፡ ውእቱ፡ ወኃይሉ፡ ወአዕቀበ፡ አህጉሪሆሙ፡ ዓበይተ፡ ወነሥአ፡ እምኔሆሙ፡ ዕደወ፡ ኅሩያነ፡ እለ፡ ያስተታልዎሙ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወወረደ",
+          "t": "wäwärädä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "በሐውርቲሆሙ",
+          "t": "bäḥäwərətihomu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ወኃይሉ",
+          "t": "wäḫayəlu",
+          "gl": ""
+        },
+        {
+          "g": "ወአዕቀበ",
+          "t": "wäʾäʿəqäbä",
+          "gl": ""
+        },
+        {
+          "g": "አህጉሪሆሙ",
+          "t": "ʾähəgurihomu",
+          "gl": ""
+        },
+        {
+          "g": "ዓበይተ",
+          "t": "ʿabäyətä",
+          "gl": ""
+        },
+        {
+          "g": "ወነሥአ",
+          "t": "wänäśəʾä",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሆሙ",
+          "t": "ʾəmənehomu",
+          "gl": ""
+        },
+        {
+          "g": "ዕደወ",
+          "t": "ʿədäwä",
+          "gl": ""
+        },
+        {
+          "g": "ኅሩያነ",
+          "t": "ḫəruyanä",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ያስተታልዎሙ",
+          "t": "yasətätaləwomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Then came he down toward the sea coast, both he and his army, and set garrisons in the high cities, and took out of them chosen men for aid."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወተቀበልዎ፡ እሙንቱኒ፡ ወኵሉ፡ በሐውርቲሆሙ፡ በአክሊላት፡ ወበማኅሌት፡ ወበመዝሙር፡ ወበከበሮ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተቀበልዎ",
+          "t": "wätäqäbäləwo",
+          "gl": ""
+        },
+        {
+          "g": "እሙንቱኒ",
+          "t": "ʾəmunətuni",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "በሐውርቲሆሙ",
+          "t": "bäḥäwərətihomu",
+          "gl": ""
+        },
+        {
+          "g": "በአክሊላት",
+          "t": "bäʾäkəlilatə",
+          "gl": ""
+        },
+        {
+          "g": "ወበማኅሌት",
+          "t": "wäbämaḫəletə",
+          "gl": ""
+        },
+        {
+          "g": "ወበመዝሙር",
+          "t": "wäbämäzəmurə",
+          "gl": ""
+        },
+        {
+          "g": "ወበከበሮ",
+          "t": "wäbäkäbäro",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "So they and all the country round about received him with garlands, with dances, and with timbrels."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወዖደ፡ ውስተ፡ ደወሎሙ፡ ወሠበረ፡ ምስላቲሆሙ፡ ወእዙዝ፡ ውእቱ፡ ከመ፡ ያጥፍእ፡ ኵሎ፡ አማልክተ፡ ሰብእ፡ ወያምልክዎ፡ ለናቡከደነፆር፡ ሎቱ፡ ለባሕቲቱ፡ ወኵሉ፡ አሕዛብ፡ ወኵሉ፡ በሐውርት፡ ከመ፡ ይበልዎ፡ እግዚአብሔር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዖደ",
+          "t": "wäʿodä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ደወሎሙ",
+          "t": "däwälomu",
+          "gl": ""
+        },
+        {
+          "g": "ወሠበረ",
+          "t": "wäśäbärä",
+          "gl": ""
+        },
+        {
+          "g": "ምስላቲሆሙ",
+          "t": "məsəlatihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወእዙዝ",
+          "t": "wäʾəzuzə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ያጥፍእ",
+          "t": "yaṭəfəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "አማልክተ",
+          "t": "ʾämaləkətä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወያምልክዎ",
+          "t": "wäyamələkəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለናቡከደነፆር",
+          "t": "länabukädänäṣ́orə",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ለባሕቲቱ",
+          "t": "läbaḥətitu",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "አሕዛብ",
+          "t": "ʾäḥəzabə",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "በሐውርት",
+          "t": "bäḥäwərətə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይበልዎ",
+          "t": "yəbäləwo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Yet he did cast down their frontiers, and cut down their groves: for he had decreed to destroy all the gods of the land, that all nations should worship Nabuchodonosor only, and that all tongues and tribes should call upon him as a god."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወመጽአ፡ ውስተ፡ ኵሉ፡ ገጸ፡ ኤስድሬሎም፡ ዘገባይያ፡ ዘቅድመ፡ ጰርያኖስ፡ ዓቢይ፡ ዘይሁዳ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወመጽአ",
+          "t": "wämäṣəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ገጸ",
+          "t": "gäṣä",
+          "gl": ""
+        },
+        {
+          "g": "ኤስድሬሎም",
+          "t": "ʾesədərelomə",
+          "gl": ""
+        },
+        {
+          "g": "ዘገባይያ",
+          "t": "zägäbayəya",
+          "gl": ""
+        },
+        {
+          "g": "ዘቅድመ",
+          "t": "zäqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ጰርያኖስ",
+          "t": "ṗärəyanosə",
+          "gl": ""
+        },
+        {
+          "g": "ዓቢይ",
+          "t": "ʿabiyə",
+          "gl": ""
+        },
+        {
+          "g": "ዘይሁዳ",
+          "t": "zäyəhuda",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Also he came over against Esdraelon near unto Judea, over against the great strait of Judea."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወሖረ፡ ማዕከለ፡ ገዳመ፡ ጤቦን፡ ወአሕጉረ፡ ሴቅቶን፡ ወነበረ፡ ህየ፡ አሐደ፡ ወርኃ፡ ያስተጋብእ፡ ስንቀ፡ ለአሕዛቢሁ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሖረ",
+          "t": "wäḥorä",
+          "gl": ""
+        },
+        {
+          "g": "ማዕከለ",
+          "t": "maʿəkälä",
+          "gl": ""
+        },
+        {
+          "g": "ገዳመ",
+          "t": "gädamä",
+          "gl": ""
+        },
+        {
+          "g": "ጤቦን",
+          "t": "ṭebonə",
+          "gl": ""
+        },
+        {
+          "g": "ወአሕጉረ",
+          "t": "wäʾäḥəgurä",
+          "gl": ""
+        },
+        {
+          "g": "ሴቅቶን",
+          "t": "seqətonə",
+          "gl": ""
+        },
+        {
+          "g": "ወነበረ",
+          "t": "wänäbärä",
+          "gl": ""
+        },
+        {
+          "g": "ህየ",
+          "t": "həyä",
+          "gl": ""
+        },
+        {
+          "g": "አሐደ",
+          "t": "ʾäḥädä",
+          "gl": ""
+        },
+        {
+          "g": "ወርኃ",
+          "t": "wärəḫa",
+          "gl": ""
+        },
+        {
+          "g": "ያስተጋብእ",
+          "t": "yasətägabəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ስንቀ",
+          "t": "sənəqä",
+          "gl": ""
+        },
+        {
+          "g": "ለአሕዛቢሁ",
+          "t": "läʾäḥəzabihu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he pitched between Geba and Scythopolis, and there he tarried a whole month, that he might gather together all the carriages of his army."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    }
+  }
+}

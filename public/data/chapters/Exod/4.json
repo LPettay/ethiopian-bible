@@ -1,0 +1,2594 @@
+{
+  "book": "Exod",
+  "chapter": 4,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወአውሥአ ፡ ሙሴ ፡ ወይቤ ፡ ወእመኬ ፡ ኢአምኑኒ ፡ ወኢሰምዑ ፡ ቃልየ ፡ ወይቤሉኒ ፡ ኢያስተርአየከ ፡ እግዚእ ፡ ምንተ ፡\n                  እብሎሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአውሥአ",
+          "t": "wäʾäwəśəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "ወእመኬ",
+          "t": "wäʾəmäke",
+          "gl": ""
+        },
+        {
+          "g": "ኢአምኑኒ",
+          "t": "ʾiʾämənuni",
+          "gl": ""
+        },
+        {
+          "g": "ወኢሰምዑ",
+          "t": "wäʾisäməʿu",
+          "gl": ""
+        },
+        {
+          "g": "ቃልየ",
+          "t": "qaləyä",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሉኒ",
+          "t": "wäyəbeluni",
+          "gl": ""
+        },
+        {
+          "g": "ኢያስተርአየከ",
+          "t": "ʾiyasətärəʾäyäkä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚእ",
+          "t": "ʾəgəziʾə",
+          "gl": ""
+        },
+        {
+          "g": "ምንተ",
+          "t": "mənətä",
+          "gl": ""
+        },
+        {
+          "g": "እብሎሙ",
+          "t": "ʾəbəlomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Moses answered and said, If they believe me not, and do not hearken to my voice (for they will say, God has not appeared to thee), what shall I say to them?",
+        "kjv": "And Moses answered and said, But, behold, they will not believe me, nor hearken unto my voice: for they will say, The LORD hath not appeared unto thee."
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ወይቤሎ ፡ እግዚእ ፡ ለሙሴ ፡ ምንትዝ ፡ ዘውስተ ፡ እዴከ ፡ ወይቤ ፡ በትር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚእ",
+          "t": "ʾəgəziʾə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ምንትዝ",
+          "t": "mənətəzə",
+          "gl": ""
+        },
+        {
+          "g": "ዘውስተ",
+          "t": "zäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴከ",
+          "t": "ʾədekä",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "በትር",
+          "t": "bätərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord said to him, What is this thing that is in thine hand? and he said, A rod.",
+        "kjv": "And the LORD said unto him, What is that in thine hand? And he said, A rod."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወይቤሎ ፡ ግድፋ ፡ ውስተ ፡ ምድር ፡ [ወገደፋ ፡ ውስተ ፡ ምድር ፡] ወኮነት ፡ አርዌ ፡ ምድር ፡ ወጐየ ፡ ሙሴ ፡\n                  እምኔሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ግድፋ",
+          "t": "gədəfa",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ወገደፋ",
+          "t": "wägädäfa",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ወኮነት",
+          "t": "wäkonätə",
+          "gl": ""
+        },
+        {
+          "g": "አርዌ",
+          "t": "ʾärəwe",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ወጐየ",
+          "t": "wägwäyä",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he said, Cast it on the ground: and he cast it on the ground, and it became a serpent, and Moses fled from it.",
+        "kjv": "And he said, Cast it on the ground. And he cast it on the ground, and it became a serpent; and Moses fled from before it."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወይቤሎ ፡ እግዚእ ፡ ለሙሴ ፡ ስፋሕ ፡ እዴከ ፡ ወንሣእ ፡ በዘነቡ ፡ ወሰፍሐ ፡ እዴሁ ፡ ሙሴ ፡ ወነሥአ ፡ በዘነቡ ፡\n                  ወኮነ ፡ በትረ ፡ ውስተ ፡ እዴሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚእ",
+          "t": "ʾəgəziʾə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ስፋሕ",
+          "t": "səfaḥə",
+          "gl": ""
+        },
+        {
+          "g": "እዴከ",
+          "t": "ʾədekä",
+          "gl": ""
+        },
+        {
+          "g": "ወንሣእ",
+          "t": "wänəśaʾə",
+          "gl": ""
+        },
+        {
+          "g": "በዘነቡ",
+          "t": "bäzänäbu",
+          "gl": ""
+        },
+        {
+          "g": "ወሰፍሐ",
+          "t": "wäsäfəḥä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ወነሥአ",
+          "t": "wänäśəʾä",
+          "gl": ""
+        },
+        {
+          "g": "በዘነቡ",
+          "t": "bäzänäbu",
+          "gl": ""
+        },
+        {
+          "g": "ወኮነ",
+          "t": "wäkonä",
+          "gl": ""
+        },
+        {
+          "g": "በትረ",
+          "t": "bätərä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord said to Moses, Stretch forth thine hand, and take hold of its tail: so he stretched forth his hand and took hold of the tail,",
+        "kjv": "And the LORD said unto Moses, Put forth thine hand, and take it by the tail. And he put forth his hand, and caught it, and it became a rod in his hand:"
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወይቤሎ ፡ ከመ ፡ ይእመኑከ ፡ ከመ ፡ አስተርአየከ ፡ እግዚእ ፡ አምላከ ፡ አበዊሆሙ ፡ አምላከ ፡ አብርሃም ፡ ወአምላከ ፡\n                  ይስሐቅ ፡ ወአምላከ ፡ ያዕቆብ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይእመኑከ",
+          "t": "yəʾəmänukä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "አስተርአየከ",
+          "t": "ʾäsətärəʾäyäkä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚእ",
+          "t": "ʾəgəziʾə",
+          "gl": ""
+        },
+        {
+          "g": "አምላከ",
+          "t": "ʾäməlakä",
+          "gl": ""
+        },
+        {
+          "g": "አበዊሆሙ",
+          "t": "ʾäbäwihomu",
+          "gl": ""
+        },
+        {
+          "g": "አምላከ",
+          "t": "ʾäməlakä",
+          "gl": ""
+        },
+        {
+          "g": "አብርሃም",
+          "t": "ʾäbərəhamə",
+          "gl": ""
+        },
+        {
+          "g": "ወአምላከ",
+          "t": "wäʾäməlakä",
+          "gl": ""
+        },
+        {
+          "g": "ይስሐቅ",
+          "t": "yəsəḥäqə",
+          "gl": ""
+        },
+        {
+          "g": "ወአምላከ",
+          "t": "wäʾäməlakä",
+          "gl": ""
+        },
+        {
+          "g": "ያዕቆብ",
+          "t": "yaʿəqobə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and it became a rod in his hand,—that they may believe thee, that the God of thy fathers has appeared to thee, the God of Abraam, and God of Isaac, and God of Jacob.",
+        "kjv": "That they may believe that the LORD God of their fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath appeared unto thee."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወይቤሎ ፡ እግዚእ ፡ ካዕበ ፡ ለሙሴ ፡ ደይ ፡ እዴከ ፡ ውስተ ፡ ሕፅንከ ፡ ወወደየ ፡ እዴሁ ፡ ውስተ ፡ ሕፅኑ ፡ ወይቤሎ\n                  ፡ አውፅእ ፡ እዴከ ፡ እምሕፅንከ ፡ ወአውፅአ ፡ እዴሁ ፡ እምሕፀኒሁ ፡ ወኮነት ፡ ጸዐዳ ፡ ኵለንታሃ ፡ ለምጽ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚእ",
+          "t": "ʾəgəziʾə",
+          "gl": ""
+        },
+        {
+          "g": "ካዕበ",
+          "t": "kaʿəbä",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ደይ",
+          "t": "däyə",
+          "gl": ""
+        },
+        {
+          "g": "እዴከ",
+          "t": "ʾədekä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሕፅንከ",
+          "t": "ḥəṣ́ənəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወወደየ",
+          "t": "wäwädäyä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሕፅኑ",
+          "t": "ḥəṣ́ənu",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "አውፅእ",
+          "t": "ʾäwəṣ́əʾə",
+          "gl": ""
+        },
+        {
+          "g": "እዴከ",
+          "t": "ʾədekä",
+          "gl": ""
+        },
+        {
+          "g": "እምሕፅንከ",
+          "t": "ʾəməḥəṣ́ənəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወአውፅአ",
+          "t": "wäʾäwəṣ́əʾä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        },
+        {
+          "g": "እምሕፀኒሁ",
+          "t": "ʾəməḥəṣ́änihu",
+          "gl": ""
+        },
+        {
+          "g": "ወኮነት",
+          "t": "wäkonätə",
+          "gl": ""
+        },
+        {
+          "g": "ጸዐዳ",
+          "t": "ṣäʿäda",
+          "gl": ""
+        },
+        {
+          "g": "ኵለንታሃ",
+          "t": "kwəlänətaha",
+          "gl": ""
+        },
+        {
+          "g": "ለምጽ",
+          "t": "läməṣə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord said again to him, Put thine hand into thy bosom; and he put his hand into his bosom, and brought his hand out of his bosom, and his hand became as snow.",
+        "kjv": "And the LORD said furthermore unto him, Put now thine hand into thy bosom. And he put his hand into his bosom: and when he took it out, behold, his hand was leprous as snow."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወይቤሎ ፡ ካዕበ ፡ ደይ ፡ እዴከ ፡ ውስተ ፡ ሕፅንከ ፡ ወወደየ ፡ እዴሁ ፡ ውስተ ፡ ሕፀኒሁ ፡ ወዓዲ ፡ ይቤሎ ፡ አውጽእ\n                  ፡ እዴከ ፡ እምሕፅንከ ፡ ወአውጽአ ፡ እዴሁ ፡ እምሕፀኒሁ ፡ ወገብአት ፡ ከመ ፡ ኅብረ ፡ ሥጋሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ካዕበ",
+          "t": "kaʿəbä",
+          "gl": ""
+        },
+        {
+          "g": "ደይ",
+          "t": "däyə",
+          "gl": ""
+        },
+        {
+          "g": "እዴከ",
+          "t": "ʾədekä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሕፅንከ",
+          "t": "ḥəṣ́ənəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወወደየ",
+          "t": "wäwädäyä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሕፀኒሁ",
+          "t": "ḥəṣ́änihu",
+          "gl": ""
+        },
+        {
+          "g": "ወዓዲ",
+          "t": "wäʿadi",
+          "gl": ""
+        },
+        {
+          "g": "ይቤሎ",
+          "t": "yəbelo",
+          "gl": ""
+        },
+        {
+          "g": "አውጽእ",
+          "t": "ʾäwəṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "እዴከ",
+          "t": "ʾədekä",
+          "gl": ""
+        },
+        {
+          "g": "እምሕፅንከ",
+          "t": "ʾəməḥəṣ́ənəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወአውጽአ",
+          "t": "wäʾäwəṣəʾä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        },
+        {
+          "g": "እምሕፀኒሁ",
+          "t": "ʾəməḥəṣ́änihu",
+          "gl": ""
+        },
+        {
+          "g": "ወገብአት",
+          "t": "wägäbəʾätə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ኅብረ",
+          "t": "ḫəbərä",
+          "gl": ""
+        },
+        {
+          "g": "ሥጋሁ",
+          "t": "śəgahu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he said again, Put thy hand into thy bosom; and he put his hand into his bosom, and brought his hand out of his bosom, and it was again restored to the complexion of his other flesh.",
+        "kjv": "And he said, Put thine hand into thy bosom again. And he put his hand into his bosom again; and plucked it out of his bosom, and, behold, it was turned again as his other flesh."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወይቤሎ ፡ እመ ፡ ኢአምኑከ ፡ ወኢሰምዑ ፡ ቃለከ ፡ በተአምር ፡ ዘቀዳሚ ፡ የአምኑ ፡ በቃለ ፡ ተአምሩ ፡ ለካልእ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "እመ",
+          "t": "ʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኢአምኑከ",
+          "t": "ʾiʾämənukä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢሰምዑ",
+          "t": "wäʾisäməʿu",
+          "gl": ""
+        },
+        {
+          "g": "ቃለከ",
+          "t": "qaläkä",
+          "gl": ""
+        },
+        {
+          "g": "በተአምር",
+          "t": "bätäʾämərə",
+          "gl": ""
+        },
+        {
+          "g": "ዘቀዳሚ",
+          "t": "zäqädami",
+          "gl": ""
+        },
+        {
+          "g": "የአምኑ",
+          "t": "yäʾämənu",
+          "gl": ""
+        },
+        {
+          "g": "በቃለ",
+          "t": "bäqalä",
+          "gl": ""
+        },
+        {
+          "g": "ተአምሩ",
+          "t": "täʾäməru",
+          "gl": ""
+        },
+        {
+          "g": "ለካልእ",
+          "t": "läkaləʾə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if they will not believe thee, nor hearken to the voice of the first sign, they will believe thee because of the voice of the second sign.",
+        "kjv": "And it shall come to pass, if they will not believe thee, neither hearken to the voice of the first sign, that they will believe the voice of the latter sign."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወእምከመ ፡ ኢአምኑ ፡ በእሉ ፡ ክልኤቱ ፡ ተአምር ፡ ወኢሰምዑ ፡ ቃለከ ፡ ትነሥእ ፡ እማየ ፡ ተከዚ ፡ ወትክዑ ፡ ውስተ\n                  ፡ የብስ ፡ ወይከውን ፡ ደመ ፡ ውስተ ፡ የብስ ፡ ዝኩ ፡ ማይ ፡ ዘነሣእከ ፡ እምተከዚ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእምከመ",
+          "t": "wäʾəməkämä",
+          "gl": ""
+        },
+        {
+          "g": "ኢአምኑ",
+          "t": "ʾiʾämənu",
+          "gl": ""
+        },
+        {
+          "g": "በእሉ",
+          "t": "bäʾəlu",
+          "gl": ""
+        },
+        {
+          "g": "ክልኤቱ",
+          "t": "kələʾetu",
+          "gl": ""
+        },
+        {
+          "g": "ተአምር",
+          "t": "täʾämərə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢሰምዑ",
+          "t": "wäʾisäməʿu",
+          "gl": ""
+        },
+        {
+          "g": "ቃለከ",
+          "t": "qaläkä",
+          "gl": ""
+        },
+        {
+          "g": "ትነሥእ",
+          "t": "tənäśəʾə",
+          "gl": ""
+        },
+        {
+          "g": "እማየ",
+          "t": "ʾəmayä",
+          "gl": ""
+        },
+        {
+          "g": "ተከዚ",
+          "t": "täkäzi",
+          "gl": ""
+        },
+        {
+          "g": "ወትክዑ",
+          "t": "wätəkəʿu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "የብስ",
+          "t": "yäbəsə",
+          "gl": ""
+        },
+        {
+          "g": "ወይከውን",
+          "t": "wäyəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ደመ",
+          "t": "dämä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "የብስ",
+          "t": "yäbəsə",
+          "gl": ""
+        },
+        {
+          "g": "ዝኩ",
+          "t": "zəku",
+          "gl": ""
+        },
+        {
+          "g": "ማይ",
+          "t": "mayə",
+          "gl": ""
+        },
+        {
+          "g": "ዘነሣእከ",
+          "t": "zänäśaʾəkä",
+          "gl": ""
+        },
+        {
+          "g": "እምተከዚ",
+          "t": "ʾəmətäkäzi",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it shall come to pass if they will not believe thee for these two signs, and will not hearken to thy voice, that thou shalt take of the water of the river and pour it upon the dry land, and the water which thou shalt take from the river shall be blood upon the dry land.",
+        "kjv": "And it shall come to pass, if they will not believe also these two signs, neither hearken unto thy voice, that thou shalt take of the water of the river, and pour it upon the dry land: and the water which thou takest out of the river shall become blood upon the dry land."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወይቤሎ ፡ ሙሴ ፡ ለእግዚእ ፡ ኣስተበቍዐከ ፡ እግዚኦ ፤ ቀዳሚየ ፡ ቃለ ፡ አልብየ ፡ ወትካትየ ፡ ወአይ ፡ እምአመ ፡\n                  እእኅዝ ፡ [እን]ብብ ፡ ቍልዔከ ፤ ፀያፍ ፡ ወላእላአ ፡ ልሳን ፡ አነ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚእ",
+          "t": "läʾəgəziʾə",
+          "gl": ""
+        },
+        {
+          "g": "ኣስተበቍዐከ",
+          "t": "ʾasətäbäqwəʿäkä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚኦ  ቀዳሚየ",
+          "t": "ʾəgəziʾo  qädamiyä",
+          "gl": ""
+        },
+        {
+          "g": "ቃለ",
+          "t": "qalä",
+          "gl": ""
+        },
+        {
+          "g": "አልብየ",
+          "t": "ʾäləbəyä",
+          "gl": ""
+        },
+        {
+          "g": "ወትካትየ",
+          "t": "wätəkatəyä",
+          "gl": ""
+        },
+        {
+          "g": "ወአይ",
+          "t": "wäʾäyə",
+          "gl": ""
+        },
+        {
+          "g": "እምአመ",
+          "t": "ʾəməʾämä",
+          "gl": ""
+        },
+        {
+          "g": "እእኅዝ",
+          "t": "ʾəʾəḫəzə",
+          "gl": ""
+        },
+        {
+          "g": "እንብብ",
+          "t": "ʾənəbəbə",
+          "gl": ""
+        },
+        {
+          "g": "ቍልዔከ  ፀያፍ",
+          "t": "qwələʿekä  ṣ́äyafə",
+          "gl": ""
+        },
+        {
+          "g": "ወላእላአ",
+          "t": "wälaʾəlaʾä",
+          "gl": ""
+        },
+        {
+          "g": "ልሳን",
+          "t": "ləsanə",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Moses said to the Lord, I pray, Lord, I have not been sufficient in former times, neither from the time that thou hast begun to speak to thy servant: I am weak in speech, and slow-tongued.",
+        "kjv": "And Moses said unto the LORD, O my LORD, I am not eloquent, neither heretofore, nor since thou hast spoken unto thy servant: but I am slow of speech, and of a slow tongue."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወይቤሎ ፡ እግዚእ ፡ ለሙሴ ፡ መኑ ፡ ወሀቦ ፡ አፈ ፡ ለእጓለ ፡ እመሕያው ፡ ወመኑ ፡ ገብሮ ፡ በሃመ ፡ ወጽሙመ ፡\n                  ወዘይሬኢ ፡ ወዕውረ ፡ ኢኮነሁ ፡ አነ ፡ እግዚእ ፡ እግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚእ",
+          "t": "ʾəgəziʾə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "መኑ",
+          "t": "mänu",
+          "gl": ""
+        },
+        {
+          "g": "ወሀቦ",
+          "t": "wähäbo",
+          "gl": ""
+        },
+        {
+          "g": "አፈ",
+          "t": "ʾäfä",
+          "gl": ""
+        },
+        {
+          "g": "ለእጓለ",
+          "t": "läʾəgwalä",
+          "gl": ""
+        },
+        {
+          "g": "እመሕያው",
+          "t": "ʾəmäḥəyawə",
+          "gl": ""
+        },
+        {
+          "g": "ወመኑ",
+          "t": "wämänu",
+          "gl": ""
+        },
+        {
+          "g": "ገብሮ",
+          "t": "gäbəro",
+          "gl": ""
+        },
+        {
+          "g": "በሃመ",
+          "t": "bähamä",
+          "gl": ""
+        },
+        {
+          "g": "ወጽሙመ",
+          "t": "wäṣəmumä",
+          "gl": ""
+        },
+        {
+          "g": "ወዘይሬኢ",
+          "t": "wäzäyəreʾi",
+          "gl": ""
+        },
+        {
+          "g": "ወዕውረ",
+          "t": "wäʿəwərä",
+          "gl": ""
+        },
+        {
+          "g": "ኢኮነሁ",
+          "t": "ʾikonähu",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚእ",
+          "t": "ʾəgəziʾə",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord said to Moses, Who has given a mouth to man, and who has made the very hard of hearing, and the deaf, the seeing and the blind? have not I, God?",
+        "kjv": "And the LORD said unto him, Who hath made man’s mouth? or who maketh the dumb, or deaf, or the seeing, or the blind? have not I the LORD?"
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወይእዜኒ ፡ ሑር ፡ ወአነ ፡ እፈትሕ ፡ አፉከ ፡ ወአሌብወከ ፡ ዘሀለወከ ፡ ትንብብ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይእዜኒ",
+          "t": "wäyəʾəzeni",
+          "gl": ""
+        },
+        {
+          "g": "ሑር",
+          "t": "ḥurə",
+          "gl": ""
+        },
+        {
+          "g": "ወአነ",
+          "t": "wäʾänä",
+          "gl": ""
+        },
+        {
+          "g": "እፈትሕ",
+          "t": "ʾəfätəḥə",
+          "gl": ""
+        },
+        {
+          "g": "አፉከ",
+          "t": "ʾäfukä",
+          "gl": ""
+        },
+        {
+          "g": "ወአሌብወከ",
+          "t": "wäʾälebəwäkä",
+          "gl": ""
+        },
+        {
+          "g": "ዘሀለወከ",
+          "t": "zähäläwäkä",
+          "gl": ""
+        },
+        {
+          "g": "ትንብብ",
+          "t": "tənəbəbə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And now go and I will open thy mouth, and will instruct thee in what thou shalt say.",
+        "kjv": "Now therefore go, and I will be with thy mouth, and teach thee what thou shalt say."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወይቤ ፡ አስተበቍዐከ ፡ እግዚኦ ፤ ኅሥሥ ፡ ለከ ፡ ባዕደ ፡ ዘይክል ፡ ዘትልእክ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "አስተበቍዐከ",
+          "t": "ʾäsətäbäqwəʿäkä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚኦ  ኅሥሥ",
+          "t": "ʾəgəziʾo  ḫəśəśə",
+          "gl": ""
+        },
+        {
+          "g": "ለከ",
+          "t": "läkä",
+          "gl": ""
+        },
+        {
+          "g": "ባዕደ",
+          "t": "baʿədä",
+          "gl": ""
+        },
+        {
+          "g": "ዘይክል",
+          "t": "zäyəkələ",
+          "gl": ""
+        },
+        {
+          "g": "ዘትልእክ",
+          "t": "zätələʾəkə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Moses said, I pray thee, Lord, appoint another able person whom thou shalt send.",
+        "kjv": "And he said, O my LORD, send, I pray thee, by the hand of him whom thou wilt send."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወተምዐ ፡ መዐተ ፡ እግዚእ ፡ ዲበ ፡ ሙሴ ፡ ወይቤሎ ፡ አኮኑ ፡ ነዋ ፡ አሮን ፡ እኁከ ፡ ሌዋዊ ፡ ወአአምር ፡ ከመ ፡\n                  ነቢበ ፡ ይነብብ ፡ ለከ ፤ ወናሁ ፡ ውእቱ ፡ ይወጽእ ፡ ይትቀበልከ ፡ ወይርአይከ ፡ ወይትፌሣሕ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተምዐ",
+          "t": "wätäməʿä",
+          "gl": ""
+        },
+        {
+          "g": "መዐተ",
+          "t": "mäʿätä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚእ",
+          "t": "ʾəgəziʾə",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "አኮኑ",
+          "t": "ʾäkonu",
+          "gl": ""
+        },
+        {
+          "g": "ነዋ",
+          "t": "näwa",
+          "gl": ""
+        },
+        {
+          "g": "አሮን",
+          "t": "ʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "እኁከ",
+          "t": "ʾəḫukä",
+          "gl": ""
+        },
+        {
+          "g": "ሌዋዊ",
+          "t": "lewawi",
+          "gl": ""
+        },
+        {
+          "g": "ወአአምር",
+          "t": "wäʾäʾämərə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ነቢበ",
+          "t": "näbibä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብብ",
+          "t": "yənäbəbə",
+          "gl": ""
+        },
+        {
+          "g": "ለከ  ወናሁ",
+          "t": "läkä  wänahu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ይወጽእ",
+          "t": "yəwäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ይትቀበልከ",
+          "t": "yətəqäbäləkä",
+          "gl": ""
+        },
+        {
+          "g": "ወይርአይከ",
+          "t": "wäyərəʾäyəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወይትፌሣሕ",
+          "t": "wäyətəfeśaḥə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord was greatly angered against Moses, and said, Lo! is not Aaron the Levite thy brother? I know that he will surely speak to thee; and, behold, he will come forth to meet thee, and beholding thee he will rejoice within himself.",
+        "kjv": "And the anger of the LORD was kindled against Moses, and he said, Is not Aaron the Levite thy brother? I know that he can speak well. And also, behold, he cometh forth to meet thee: and when he seeth thee, he will be glad in his heart."
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ወትነግሮ ፡ ወትወዲ ፡ ቃልየ ፡ ውስተ ፡ አፉሁ ፡ ወአነ ፡ እፈትሕ ፡ አፉከ ፡ ወአፉሁ ፡ ወአሌብወክሙ ፡ ዘትገብሩ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትነግሮ",
+          "t": "wätənägəro",
+          "gl": ""
+        },
+        {
+          "g": "ወትወዲ",
+          "t": "wätəwädi",
+          "gl": ""
+        },
+        {
+          "g": "ቃልየ",
+          "t": "qaləyä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አፉሁ",
+          "t": "ʾäfuhu",
+          "gl": ""
+        },
+        {
+          "g": "ወአነ",
+          "t": "wäʾänä",
+          "gl": ""
+        },
+        {
+          "g": "እፈትሕ",
+          "t": "ʾəfätəḥə",
+          "gl": ""
+        },
+        {
+          "g": "አፉከ",
+          "t": "ʾäfukä",
+          "gl": ""
+        },
+        {
+          "g": "ወአፉሁ",
+          "t": "wäʾäfuhu",
+          "gl": ""
+        },
+        {
+          "g": "ወአሌብወክሙ",
+          "t": "wäʾälebəwäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ዘትገብሩ",
+          "t": "zätəgäbəru",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And thou shalt speak to him; and thou shalt put my words into his mouth, and I will open thy mouth and his mouth, and I will instruct you in what ye shall do.",
+        "kjv": "And thou shalt speak unto him, and put words in his mouth: and I will be with thy mouth, and with his mouth, and will teach you what ye shall do."
+      }
+    },
+    {
+      "num": 16,
+      "geez": "ወውእቱ ፡ ይትናገር ፡ ለከ ፡ ኀበ ፡ ሕዝብ ፡ ወውእቱ ፡ ይኩንከ ፡ አፈ ፡ ወአንተ ፡ ትከውኖ ፡ ሎቱ ፡ ለኀበ ፡\n                  እግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወውእቱ",
+          "t": "wäwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ይትናገር",
+          "t": "yətənagärə",
+          "gl": ""
+        },
+        {
+          "g": "ለከ",
+          "t": "läkä",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ወውእቱ",
+          "t": "wäwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ይኩንከ",
+          "t": "yəkunəkä",
+          "gl": ""
+        },
+        {
+          "g": "አፈ",
+          "t": "ʾäfä",
+          "gl": ""
+        },
+        {
+          "g": "ወአንተ",
+          "t": "wäʾänətä",
+          "gl": ""
+        },
+        {
+          "g": "ትከውኖ",
+          "t": "təkäwəno",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ለኀበ",
+          "t": "läḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he shall speak for thee to the people, and he shall be thy mouth, and thou shalt be for him in things pertaining to God.",
+        "kjv": "And he shall be thy spokesman unto the people: and he shall be, even he shall be to thee instead of a mouth, and thou shalt be to him instead of God."
+      }
+    },
+    {
+      "num": 17,
+      "geez": "ወለዛቲ ፡ በትር ፡ ንሥኣ ፡ ውስተ ፡ እዴከ ፡ እንተ ፡ ትገብር ፡ ባቲ ፡ ተአምረ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለዛቲ",
+          "t": "wäläzati",
+          "gl": ""
+        },
+        {
+          "g": "በትር",
+          "t": "bätərə",
+          "gl": ""
+        },
+        {
+          "g": "ንሥኣ",
+          "t": "nəśəʾa",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴከ",
+          "t": "ʾədekä",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ትገብር",
+          "t": "təgäbərə",
+          "gl": ""
+        },
+        {
+          "g": "ባቲ",
+          "t": "bati",
+          "gl": ""
+        },
+        {
+          "g": "ተአምረ",
+          "t": "täʾämərä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And this rod that was turned into a serpent thou shalt take in thine hand, wherewith thou shalt work miracles.",
+        "kjv": "And thou shalt take this rod in thine hand, wherewith thou shalt do signs."
+      }
+    },
+    {
+      "num": 18,
+      "geez": "ወሖረ ፡ ሙሴ ፡ ወገብአ ፡ ኀበ ፡ ዮቶር ፡ ሐሙሁ ፡ ወይቤሎ ፡ አሐውር ፡ ወእገብእ ፡ ኀበ ፡ አ[ኀ]ዊየ ፡ እለ ፡ ውስተ\n                  ፡ ብሔረ ፡ ግብጽ ፡ ወእርአይ ፡ ለእመ ፡ ዓዲሆሙ ፡ ሕያዋን ፡ ወይቤሎ ፡ ዮቶር ፡ ለሙሴ ፡ ሑር ፡ በዳኅን ፤ ወእምድኅረ ፡\n                  ብዙኅ ፡ መዋዕል ፡ ሞተ ፡ ንጉሠ ፡ ግብጽ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሖረ",
+          "t": "wäḥorä",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ወገብአ",
+          "t": "wägäbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ዮቶር",
+          "t": "yotorə",
+          "gl": ""
+        },
+        {
+          "g": "ሐሙሁ",
+          "t": "ḥämuhu",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "አሐውር",
+          "t": "ʾäḥäwərə",
+          "gl": ""
+        },
+        {
+          "g": "ወእገብእ",
+          "t": "wäʾəgäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "አኀዊየ",
+          "t": "ʾäḫäwiyä",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ብሔረ",
+          "t": "bəḥerä",
+          "gl": ""
+        },
+        {
+          "g": "ግብጽ",
+          "t": "gəbəṣə",
+          "gl": ""
+        },
+        {
+          "g": "ወእርአይ",
+          "t": "wäʾərəʾäyə",
+          "gl": ""
+        },
+        {
+          "g": "ለእመ",
+          "t": "läʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ዓዲሆሙ",
+          "t": "ʿadihomu",
+          "gl": ""
+        },
+        {
+          "g": "ሕያዋን",
+          "t": "ḥəyawanə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ዮቶር",
+          "t": "yotorə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ሑር",
+          "t": "ḥurə",
+          "gl": ""
+        },
+        {
+          "g": "በዳኅን  ወእምድኅረ",
+          "t": "bädaḫənə  wäʾəmədəḫərä",
+          "gl": ""
+        },
+        {
+          "g": "ብዙኅ",
+          "t": "bəzuḫə",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕል",
+          "t": "mäwaʿələ",
+          "gl": ""
+        },
+        {
+          "g": "ሞተ",
+          "t": "motä",
+          "gl": ""
+        },
+        {
+          "g": "ንጉሠ",
+          "t": "nəguśä",
+          "gl": ""
+        },
+        {
+          "g": "ግብጽ",
+          "t": "gəbəṣə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Moses went and returned to Jothor his father-in-law, and says, I will go and return to my brethren in Egypt, and will see if they are yet living. And Jothor said to Moses, Go in health. And in those days after some time, the king of Egypt died.",
+        "kjv": "And Moses went and returned to Jethro his father in law, and said unto him, Let me go, I pray thee, and return unto my brethren which are in Egypt, and see whether they be yet alive. And Jethro said to Moses, Go in peace."
+      }
+    },
+    {
+      "num": 19,
+      "geez": "ወይቤሎ ፡ እግዚአብሔር ፡ ለሙሴ ፡ በምድረ ፡ ምድያም ፡ አዒ ፡ ወሑር ፡ ብሔረ ፡ ግብጽ ፡ እስመ ፡ ሞቱ ፡ ኵሎሙ ፡ እለ\n                  ፡ የኅሥ[ሥ]ዋ ፡ ለነፍስከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "በምድረ",
+          "t": "bämədərä",
+          "gl": ""
+        },
+        {
+          "g": "ምድያም",
+          "t": "mədəyamə",
+          "gl": ""
+        },
+        {
+          "g": "አዒ",
+          "t": "ʾäʿi",
+          "gl": ""
+        },
+        {
+          "g": "ወሑር",
+          "t": "wäḥurə",
+          "gl": ""
+        },
+        {
+          "g": "ብሔረ",
+          "t": "bəḥerä",
+          "gl": ""
+        },
+        {
+          "g": "ግብጽ",
+          "t": "gəbəṣə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ሞቱ",
+          "t": "motu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "የኅሥሥዋ",
+          "t": "yäḫəśəśəwa",
+          "gl": ""
+        },
+        {
+          "g": "ለነፍስከ",
+          "t": "länäfəsəkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord said to Moses in Madiam, Go, depart into Egypt, for all that sought thy life are dead.",
+        "kjv": "And the LORD said unto Moses in Midian, Go, return into Egypt: for all the men are dead which sought thy life."
+      }
+    },
+    {
+      "num": 20,
+      "geez": "ወነሥአ ፡ ሙሴ ፡ ብእሲቶ ፡ ወደቂቆ ፡ ወጸዐኖሙ ፡ ዲበ ፡ አእዱግ ፡ ወገብአ ፡ ብሔረ ፡ ግብጽ ፡ ወነሥአ ፡ ሙሴ ፡\n                  ለእንታክቲ ፡ በትር ፡ እንተ ፡ እምኀበ ፡ እግዚአብሔር ፡ ውስተ ፡ እዴሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነሥአ",
+          "t": "wänäśəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲቶ",
+          "t": "bəʾəsito",
+          "gl": ""
+        },
+        {
+          "g": "ወደቂቆ",
+          "t": "wädäqiqo",
+          "gl": ""
+        },
+        {
+          "g": "ወጸዐኖሙ",
+          "t": "wäṣäʿänomu",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "አእዱግ",
+          "t": "ʾäʾədugə",
+          "gl": ""
+        },
+        {
+          "g": "ወገብአ",
+          "t": "wägäbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ብሔረ",
+          "t": "bəḥerä",
+          "gl": ""
+        },
+        {
+          "g": "ግብጽ",
+          "t": "gəbəṣə",
+          "gl": ""
+        },
+        {
+          "g": "ወነሥአ",
+          "t": "wänäśəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ለእንታክቲ",
+          "t": "läʾənətakəti",
+          "gl": ""
+        },
+        {
+          "g": "በትር",
+          "t": "bätərə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "እምኀበ",
+          "t": "ʾəməḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Moses took his wife and his children, and mounted them on the beasts, and returned to Egypt; and Moses took the rod which he had from God in his hand.",
+        "kjv": "And Moses took his wife and his sons, and set them upon an ass, and he returned to the land of Egypt: and Moses took the rod of God in his hand."
+      }
+    },
+    {
+      "num": 21,
+      "geez": "ወይቤሎ ፡ እግዚአብሔር ፡ ለሙሴ ፡ እንዘ ፡ ተሐውር ፡ ወትገብእ ፡ ብሔረ ፡ ግብጽ ፡ አእምር ፡ ኵሎ ፡ መድምምየ ፡\n                  ዘወሀብኩከ ፡ ውስተ ፡ እደዊከ ፡ ከመ ፡ ትግበሮ ፡ ቅድሜሁ ፡ ለፈርዖን ፡ ወአነ ፡ ኣጸንዕ ፡ ልቦ ፡ ወኢይፌንዎ ፡ ለሕዝብ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ተሐውር",
+          "t": "täḥäwərə",
+          "gl": ""
+        },
+        {
+          "g": "ወትገብእ",
+          "t": "wätəgäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ብሔረ",
+          "t": "bəḥerä",
+          "gl": ""
+        },
+        {
+          "g": "ግብጽ",
+          "t": "gəbəṣə",
+          "gl": ""
+        },
+        {
+          "g": "አእምር",
+          "t": "ʾäʾəmərə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "መድምምየ",
+          "t": "mädəməməyä",
+          "gl": ""
+        },
+        {
+          "g": "ዘወሀብኩከ",
+          "t": "zäwähäbəkukä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እደዊከ",
+          "t": "ʾədäwikä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ትግበሮ",
+          "t": "təgəbäro",
+          "gl": ""
+        },
+        {
+          "g": "ቅድሜሁ",
+          "t": "qədəmehu",
+          "gl": ""
+        },
+        {
+          "g": "ለፈርዖን",
+          "t": "läfärəʿonə",
+          "gl": ""
+        },
+        {
+          "g": "ወአነ",
+          "t": "wäʾänä",
+          "gl": ""
+        },
+        {
+          "g": "ኣጸንዕ",
+          "t": "ʾaṣänəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ልቦ",
+          "t": "ləbo",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይፌንዎ",
+          "t": "wäʾiyəfenəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለሕዝብ",
+          "t": "läḥəzəbə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord said to Moses, When thou goest and returnest to Egypt, see—all the miracles I have charged thee with, thou shalt work before Pharao: and I will harden his heart, and he shall certainly not send away the people.",
+        "kjv": "And the LORD said unto Moses, When thou goest to return into Egypt, see that thou do all those wonders before Pharaoh, which I have put in thine hand: but I will harden his heart, that he shall not let the people go."
+      }
+    },
+    {
+      "num": 22,
+      "geez": "ወአንተሰ ፡ ትብሎ ፡ ለፈርዖን ፡ ከመዝ ፡ ይቤ ፡ እግዚእ ፡ ወልድየ ፡ ዘበኵርየ ፡ ውእቱ ፡ እስራኤል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአንተሰ",
+          "t": "wäʾänətäsä",
+          "gl": ""
+        },
+        {
+          "g": "ትብሎ",
+          "t": "təbəlo",
+          "gl": ""
+        },
+        {
+          "g": "ለፈርዖን",
+          "t": "läfärəʿonə",
+          "gl": ""
+        },
+        {
+          "g": "ከመዝ",
+          "t": "kämäzə",
+          "gl": ""
+        },
+        {
+          "g": "ይቤ",
+          "t": "yəbe",
+          "gl": ""
+        },
+        {
+          "g": "እግዚእ",
+          "t": "ʾəgəziʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወልድየ",
+          "t": "wälədəyä",
+          "gl": ""
+        },
+        {
+          "g": "ዘበኵርየ",
+          "t": "zäbäkwərəyä",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And thou shalt say to Pharao, These things saith the Lord, Israel is my first-born.",
+        "kjv": "And thou shalt say unto Pharaoh, Thus saith the LORD, Israel is my son, even my firstborn:"
+      }
+    },
+    {
+      "num": 23,
+      "geez": "ወእብለከ ፡ ፈኑ ፡ ሕዝብየ ፡ ከመ ፡ ይፀመዱኒ ፡ ወአንተሰ ፡ ኢፈቀድከ ፡ ትፈንዎ ፡ አእምርኬ ፡ እንከ ፡ ከመ ፡ እቀትሎ\n                  ፡ አነ ፡ ለወልድከ ፡ ዘበኵርከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእብለከ",
+          "t": "wäʾəbəläkä",
+          "gl": ""
+        },
+        {
+          "g": "ፈኑ",
+          "t": "fänu",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብየ",
+          "t": "ḥəzəbəyä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይፀመዱኒ",
+          "t": "yəṣ́ämäduni",
+          "gl": ""
+        },
+        {
+          "g": "ወአንተሰ",
+          "t": "wäʾänətäsä",
+          "gl": ""
+        },
+        {
+          "g": "ኢፈቀድከ",
+          "t": "ʾifäqädəkä",
+          "gl": ""
+        },
+        {
+          "g": "ትፈንዎ",
+          "t": "təfänəwo",
+          "gl": ""
+        },
+        {
+          "g": "አእምርኬ",
+          "t": "ʾäʾəmərəke",
+          "gl": ""
+        },
+        {
+          "g": "እንከ",
+          "t": "ʾənəkä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "እቀትሎ",
+          "t": "ʾəqätəlo",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "ለወልድከ",
+          "t": "läwälədəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዘበኵርከ",
+          "t": "zäbäkwərəkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And I said to thee, Send away my people, that they may serve me: now if thou wilt not send them away, see, I will slay thy first-born son.",
+        "kjv": "And I say unto thee, Let my son go, that he may serve me: and if thou refuse to let him go, behold, I will slay thy son, even thy firstborn."
+      }
+    },
+    {
+      "num": 24,
+      "geez": "ወኮነ ፡ በፍኖት ፡ በውስተ ፡ ማኅደር ፡ ተራከቦ ፡ መልአከ ፡ እግዚእ ፡ ወፈቀደ ፡ ይቅትሉ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኮነ",
+          "t": "wäkonä",
+          "gl": ""
+        },
+        {
+          "g": "በፍኖት",
+          "t": "bäfənotə",
+          "gl": ""
+        },
+        {
+          "g": "በውስተ",
+          "t": "bäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ማኅደር",
+          "t": "maḫədärə",
+          "gl": ""
+        },
+        {
+          "g": "ተራከቦ",
+          "t": "tärakäbo",
+          "gl": ""
+        },
+        {
+          "g": "መልአከ",
+          "t": "mäləʾäkä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚእ",
+          "t": "ʾəgəziʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወፈቀደ",
+          "t": "wäfäqädä",
+          "gl": ""
+        },
+        {
+          "g": "ይቅትሉ",
+          "t": "yəqətəlu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it came to pass that the angel of the Lord met him by the way in the inn, and sought to slay him.",
+        "kjv": "And it came to pass by the way in the inn, that the LORD met him, and sought to kill him."
+      }
+    },
+    {
+      "num": 25,
+      "geez": "ወነሥአት ፡ ሲፕራ ፡ መላጼ ፡ ወገዘረት ፡ ከተማ ፡ ነፍስቱ ፡ ለወልደ ፡ ወወ[ድ]ቀት ፡ ኀበ ፡ እገሪሁ ፡ ወትቤ ፡\n                  ለይኩን ፡ ህየንቴሁ ፡ ዝደመ ፡ ግዝሮሁ ፡ ለወልድየ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነሥአት",
+          "t": "wänäśəʾätə",
+          "gl": ""
+        },
+        {
+          "g": "ሲፕራ",
+          "t": "sipəra",
+          "gl": ""
+        },
+        {
+          "g": "መላጼ",
+          "t": "mälaṣe",
+          "gl": ""
+        },
+        {
+          "g": "ወገዘረት",
+          "t": "wägäzärätə",
+          "gl": ""
+        },
+        {
+          "g": "ከተማ",
+          "t": "kätäma",
+          "gl": ""
+        },
+        {
+          "g": "ነፍስቱ",
+          "t": "näfəsətu",
+          "gl": ""
+        },
+        {
+          "g": "ለወልደ",
+          "t": "läwälədä",
+          "gl": ""
+        },
+        {
+          "g": "ወወድቀት",
+          "t": "wäwädəqätə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "እገሪሁ",
+          "t": "ʾəgärihu",
+          "gl": ""
+        },
+        {
+          "g": "ወትቤ",
+          "t": "wätəbe",
+          "gl": ""
+        },
+        {
+          "g": "ለይኩን",
+          "t": "läyəkunə",
+          "gl": ""
+        },
+        {
+          "g": "ህየንቴሁ",
+          "t": "həyänətehu",
+          "gl": ""
+        },
+        {
+          "g": "ዝደመ",
+          "t": "zədämä",
+          "gl": ""
+        },
+        {
+          "g": "ግዝሮሁ",
+          "t": "gəzərohu",
+          "gl": ""
+        },
+        {
+          "g": "ለወልድየ",
+          "t": "läwälədəyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Sepphora having taken a stone cut off the foreskin of her son, and fell at his feet and said, The blood of the circumcision of my son is staunched:",
+        "kjv": "Then Zipporah took a sharp stone, and cut off the foreskin of her son, and cast it at his feet, and said, Surely a bloody husband art thou to me."
+      }
+    },
+    {
+      "num": 26,
+      "geez": "ወሖረ ፡ እንከ ፡ እምኔሁ ፡ እስመ ፡ ትቤ ፡ ለይኩን ፡ ህየንቴሁ ፡ ዝደመ ፡ ግዝሮሁ ፡ ለወልድየ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሖረ",
+          "t": "wäḥorä",
+          "gl": ""
+        },
+        {
+          "g": "እንከ",
+          "t": "ʾənəkä",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ትቤ",
+          "t": "təbe",
+          "gl": ""
+        },
+        {
+          "g": "ለይኩን",
+          "t": "läyəkunə",
+          "gl": ""
+        },
+        {
+          "g": "ህየንቴሁ",
+          "t": "həyänətehu",
+          "gl": ""
+        },
+        {
+          "g": "ዝደመ",
+          "t": "zədämä",
+          "gl": ""
+        },
+        {
+          "g": "ግዝሮሁ",
+          "t": "gəzərohu",
+          "gl": ""
+        },
+        {
+          "g": "ለወልድየ",
+          "t": "läwälədəyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and he departed from him, because she said, The blood of the circumcision of my son is staunched.",
+        "kjv": "So he let him go: then she said, A bloody husband thou art, because of the circumcision."
+      }
+    },
+    {
+      "num": 27,
+      "geez": "ወይቤሎ ፡ እግዚእ ፡ ለአሮን ፡ ሑር ፡ ተቀበሎ ፡ ለሙሴ ፡ ውስተ ፡ ሐቅል ፡ ወሖረ ፡ ወተራከቦ ፡ በደብረ ፡ እግዚአብሔር\n                  ፡ ወተአምኆ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚእ",
+          "t": "ʾəgəziʾə",
+          "gl": ""
+        },
+        {
+          "g": "ለአሮን",
+          "t": "läʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ሑር",
+          "t": "ḥurə",
+          "gl": ""
+        },
+        {
+          "g": "ተቀበሎ",
+          "t": "täqäbälo",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሐቅል",
+          "t": "ḥäqələ",
+          "gl": ""
+        },
+        {
+          "g": "ወሖረ",
+          "t": "wäḥorä",
+          "gl": ""
+        },
+        {
+          "g": "ወተራከቦ",
+          "t": "wätärakäbo",
+          "gl": ""
+        },
+        {
+          "g": "በደብረ",
+          "t": "bädäbərä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወተአምኆ",
+          "t": "wätäʾäməḫo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord said to Aaron, Go into the wilderness to meet Moses; and he went and met him in the mount of God, and they kissed each other.",
+        "kjv": "And the LORD said to Aaron, Go into the wilderness to meet Moses. And he went, and met him in the mount of God, and kissed him."
+      }
+    },
+    {
+      "num": 28,
+      "geez": "ወአይድዖ ፡ ሙሴ ፡ ለአሮን ፡ ኵሎ ፡ ቃለ ፡ እግዚእ ፡ ዘለአኮ ፡ ወኵሎ ፡ ተአምረ ፡ ዘአዘዞ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአይድዖ",
+          "t": "wäʾäyədəʿo",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ለአሮን",
+          "t": "läʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ቃለ",
+          "t": "qalä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚእ",
+          "t": "ʾəgəziʾə",
+          "gl": ""
+        },
+        {
+          "g": "ዘለአኮ",
+          "t": "zäläʾäko",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ተአምረ",
+          "t": "täʾämərä",
+          "gl": ""
+        },
+        {
+          "g": "ዘአዘዞ",
+          "t": "zäʾäzäzo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Moses reported to Aaron all the words of the Lord, which he sent, and all the things which he charged him.",
+        "kjv": "And Moses told Aaron all the words of the LORD who had sent him, and all the signs which he had commanded him."
+      }
+    },
+    {
+      "num": 29,
+      "geez": "ወሖሩ ፡ ሙሴ ፡ ወአሮን ፡ ወአስተጋብኡ ፡ ኵሎ ፡ አእሩጎሙ ፡ ለደቂቀ ፡ እስራኤል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሖሩ",
+          "t": "wäḥoru",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ወአሮን",
+          "t": "wäʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ወአስተጋብኡ",
+          "t": "wäʾäsətägabəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "አእሩጎሙ",
+          "t": "ʾäʾərugomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Moses and Aaron went and gathered the elders of the children of Israel.",
+        "kjv": "And Moses and Aaron went and gathered together all the elders of the children of Israel:"
+      }
+    },
+    {
+      "num": 30,
+      "geez": "ወነገሮሙ ፡ አሮን ፡ ኵሎ ፡ ቃለ ፡ እንተ ፡ ነገሮ ፡ እግዚአብሔር ፡ ለሙሴ ፡ ወገብረ ፡ ተአምረ ፡ ቅድመ ፡ ሕዝብ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነገሮሙ",
+          "t": "wänägäromu",
+          "gl": ""
+        },
+        {
+          "g": "አሮን",
+          "t": "ʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ቃለ",
+          "t": "qalä",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ነገሮ",
+          "t": "nägäro",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ወገብረ",
+          "t": "wägäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ተአምረ",
+          "t": "täʾämərä",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Aaron spoke all these words, which God spoke to Moses, and wrought the miracles before the people.",
+        "kjv": "And Aaron spake all the words which the LORD had spoken unto Moses, and did the signs in the sight of the people."
+      }
+    },
+    {
+      "num": 31,
+      "geez": "ወአምነ ፡ ሕንዝብ ፡ ወተፈሥሐ ፡ እስመ ፡ ሐወጾሙ ፡ እግዚአብሔር ፡ ለደቂቀ ፡ እስራኤል ፡ ወእስመ ፡ ርእየ ፡ ሥቃዮሙ ፡\n                  ወአትሐተ ፡ ሕዝብ ፡ ርእሶ ፡ ወሰገደ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአምነ",
+          "t": "wäʾämənä",
+          "gl": ""
+        },
+        {
+          "g": "ሕንዝብ",
+          "t": "ḥənəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ወተፈሥሐ",
+          "t": "wätäfäśəḥä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ሐወጾሙ",
+          "t": "ḥäwäṣomu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወእስመ",
+          "t": "wäʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ርእየ",
+          "t": "rəʾəyä",
+          "gl": ""
+        },
+        {
+          "g": "ሥቃዮሙ",
+          "t": "śəqayomu",
+          "gl": ""
+        },
+        {
+          "g": "ወአትሐተ",
+          "t": "wäʾätəḥätä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ርእሶ",
+          "t": "rəʾəso",
+          "gl": ""
+        },
+        {
+          "g": "ወሰገደ",
+          "t": "wäsägädä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the people believed and rejoiced, because God visited the children of Israel, and because he saw their affliction: and the people bowed and worshipped.",
+        "kjv": "And the people believed: and when they heard that the LORD had visited the children of Israel, and that he had looked upon their affliction, then they bowed their heads and worshipped."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

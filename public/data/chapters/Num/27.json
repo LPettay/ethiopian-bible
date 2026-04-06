@@ -1,0 +1,1746 @@
+{
+  "book": "Num",
+  "chapter": 27,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወመጽኣ ፡ አዋልደ ፡ ሰልጰአድ ፡ ወልደ ፡ ዖፌር ፡ ወልደ ፡ ገላአድ ፡ ወልደ ፡ ማኪር ፡ ዘእምነገደ ፡ ማናሴ ፡\n                  ዘእምደቂቀ ፡ ዮሴፍ ፡ ወዝንቱ ፡ ውእቱ ፡ አስማቲሆን ፡ መሐላ ፡ ወኑሐ ፡ ወሔግላ ፡ ወሜልካ ፡ ወቴርሳ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወመጽኣ",
+          "t": "wämäṣəʾa",
+          "gl": ""
+        },
+        {
+          "g": "አዋልደ",
+          "t": "ʾäwalədä",
+          "gl": ""
+        },
+        {
+          "g": "ሰልጰአድ",
+          "t": "säləṗäʾädə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ዖፌር",
+          "t": "ʿoferə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ገላአድ",
+          "t": "gälaʾädə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ማኪር",
+          "t": "makirə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምነገደ",
+          "t": "zäʾəmənägädä",
+          "gl": ""
+        },
+        {
+          "g": "ማናሴ",
+          "t": "manase",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምደቂቀ",
+          "t": "zäʾəmədäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ዮሴፍ",
+          "t": "yosefə",
+          "gl": ""
+        },
+        {
+          "g": "ወዝንቱ",
+          "t": "wäzənətu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "አስማቲሆን",
+          "t": "ʾäsəmatihonə",
+          "gl": ""
+        },
+        {
+          "g": "መሐላ",
+          "t": "mäḥäla",
+          "gl": ""
+        },
+        {
+          "g": "ወኑሐ",
+          "t": "wänuḥä",
+          "gl": ""
+        },
+        {
+          "g": "ወሔግላ",
+          "t": "wäḥegəla",
+          "gl": ""
+        },
+        {
+          "g": "ወሜልካ",
+          "t": "wämeləka",
+          "gl": ""
+        },
+        {
+          "g": "ወቴርሳ",
+          "t": "wäterəsa",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the daughters of Salpaad the son of Opher, the son of Galaad, the son of Machir, of the tribe of Manasse, of the sons of Joseph, came near; and these were their names, Maala, and Nua, and Egla, and Melcha, and Thersa;",
+        "kjv": "Then came the daughters of Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, of the families of Manasseh the son of Joseph: and these are the names of his daughters; Mahlah, Noah, and Hoglah, and Milcah, and Tirzah."
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ወቆማ ፡ ቅድመ ፡ ሙሴ ፡ ወቅድመ ፡ እልዓዛር ፡ ካህን ፡ ወቅድመ ፡ መላእክት ፡ ወቅድመ ፡ ኵሉ ፡ ተዓይን ፡ ኀበ ፡\n                  ኆኅተ ፡ ደብተራ ፡ ዘመርጡል ፡ ወይቤላ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወቆማ",
+          "t": "wäqoma",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ወቅድመ",
+          "t": "wäqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እልዓዛር",
+          "t": "ʾələʿazarə",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ወቅድመ",
+          "t": "wäqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "መላእክት",
+          "t": "mälaʾəkətə",
+          "gl": ""
+        },
+        {
+          "g": "ወቅድመ",
+          "t": "wäqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ተዓይን",
+          "t": "täʿayənə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ኆኅተ",
+          "t": "ḫoḫətä",
+          "gl": ""
+        },
+        {
+          "g": "ደብተራ",
+          "t": "däbətära",
+          "gl": ""
+        },
+        {
+          "g": "ዘመርጡል",
+          "t": "zämärəṭulə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤላ",
+          "t": "wäyəbela",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and they stood before Moses, and before Eleazar the priest, and before the princes, and before all the congregation at the door of the tabernacle of witness, saying,",
+        "kjv": "And they stood before Moses, and before Eleazar the priest, and before the princes and all the congregation, by the door of the tabernacle of the congregation, saying,"
+      }
+    },
+    {
+      "num": 3,
+      "geez": "አቡነ ፡ ሞተ ፡ በገዳም ፡ ወኢሀለወ ፡ ማእከሎሙ ፡ ለትዕይንት ፡ እንተ ፡ ተቃወመት ፡ ቅድመ ፡ እግዚአብሔር ፡ ውስተ ፡\n                  ትዕይንተ ፡ ቆሬ ፡ እስመ ፡ በኀጢአተ ፡ ዚአሁ ፡ ሞተ ፡ ወአልቦቱ ፡ ደቂቀ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "አቡነ",
+          "t": "ʾäbunä",
+          "gl": ""
+        },
+        {
+          "g": "ሞተ",
+          "t": "motä",
+          "gl": ""
+        },
+        {
+          "g": "በገዳም",
+          "t": "bägädamə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢሀለወ",
+          "t": "wäʾihäläwä",
+          "gl": ""
+        },
+        {
+          "g": "ማእከሎሙ",
+          "t": "maʾəkälomu",
+          "gl": ""
+        },
+        {
+          "g": "ለትዕይንት",
+          "t": "lätəʿəyənətə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ተቃወመት",
+          "t": "täqawämätə",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ትዕይንተ",
+          "t": "təʿəyənətä",
+          "gl": ""
+        },
+        {
+          "g": "ቆሬ",
+          "t": "qore",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "በኀጢአተ",
+          "t": "bäḫäṭiʾätä",
+          "gl": ""
+        },
+        {
+          "g": "ዚአሁ",
+          "t": "ziʾähu",
+          "gl": ""
+        },
+        {
+          "g": "ሞተ",
+          "t": "motä",
+          "gl": ""
+        },
+        {
+          "g": "ወአልቦቱ",
+          "t": "wäʾäləbotu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Our father died in the wilderness, and he was not in the midst of the congregation that rebelled against the Lord in the gathering of Core; for he died for his own sin, and he had no sons. Let not the name of our father be blotted out of the midst of his people, because he has no son: give us an inheritance in the midst of our father's brethren.",
+        "kjv": "Our father died in the wilderness, and he was not in the company of them that gathered themselves together against the LORD in the company of Korah; but died in his own sin, and had no sons."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ኢይደምሰስ ፡ ስሙ ፡ ለአቡነ ፡ እምነ ፡ ማእከለ ፡ ነገዱ ፡ እስመ ፡ አልቦቱ ፡ ውሉደ ፡ ሀቡነ ፡ መክፈልተነ ፡ በማእከለ\n                  ፡ አኀዊሁ ፡ ለአቡነ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኢይደምሰስ",
+          "t": "ʾiyədäməsäsə",
+          "gl": ""
+        },
+        {
+          "g": "ስሙ",
+          "t": "səmu",
+          "gl": ""
+        },
+        {
+          "g": "ለአቡነ",
+          "t": "läʾäbunä",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ማእከለ",
+          "t": "maʾəkälä",
+          "gl": ""
+        },
+        {
+          "g": "ነገዱ",
+          "t": "nägädu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አልቦቱ",
+          "t": "ʾäləbotu",
+          "gl": ""
+        },
+        {
+          "g": "ውሉደ",
+          "t": "wəludä",
+          "gl": ""
+        },
+        {
+          "g": "ሀቡነ",
+          "t": "häbunä",
+          "gl": ""
+        },
+        {
+          "g": "መክፈልተነ",
+          "t": "mäkəfälətänä",
+          "gl": ""
+        },
+        {
+          "g": "በማእከለ",
+          "t": "bämaʾəkälä",
+          "gl": ""
+        },
+        {
+          "g": "አኀዊሁ",
+          "t": "ʾäḫäwihu",
+          "gl": ""
+        },
+        {
+          "g": "ለአቡነ",
+          "t": "läʾäbunä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Moses brought their case before the Lord.",
+        "kjv": "Why should the name of our father be done away from among his family, because he hath no son? Give unto us therefore a possession among the brethren of our father."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወአብአ ፡ ሙሴ ፡ ቃሎን ፡ ቅድመ ፡ እግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአብአ",
+          "t": "wäʾäbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ቃሎን",
+          "t": "qalonə",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord spoke to Moses, saying,",
+        "kjv": "And Moses brought their cause before the LORD."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወነበቦ ፡ እግዚአብሔር ፡ ለሙሴ ፡ ወይቤሎ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነበቦ",
+          "t": "wänäbäbo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The daughters of Salpaad have spoken rightly: thou shalt surely give them a possession of inheritance in the midst of their father's brethren, and thou shalt assign their father's inheritance to them.",
+        "kjv": "And the LORD spake unto Moses, saying,"
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ርቱዐ ፡ ይቤላ ፡ አዋልደ ፡ ሰልጰኣድ ፡ ሀቦን ፡ ሀብቶን ፡ መክፈልተ ፡ ርስቶን ፡ በማእከለ ፡ አኀዊሁ ፡ ለአቡሆን ፡\n                  ወታገብእ ፡ ሎንቱ ፡ መክፈልተ ፡ አቡሆን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ርቱዐ",
+          "t": "rətuʿä",
+          "gl": ""
+        },
+        {
+          "g": "ይቤላ",
+          "t": "yəbela",
+          "gl": ""
+        },
+        {
+          "g": "አዋልደ",
+          "t": "ʾäwalədä",
+          "gl": ""
+        },
+        {
+          "g": "ሰልጰኣድ",
+          "t": "säləṗäʾadə",
+          "gl": ""
+        },
+        {
+          "g": "ሀቦን",
+          "t": "häbonə",
+          "gl": ""
+        },
+        {
+          "g": "ሀብቶን",
+          "t": "häbətonə",
+          "gl": ""
+        },
+        {
+          "g": "መክፈልተ",
+          "t": "mäkəfälətä",
+          "gl": ""
+        },
+        {
+          "g": "ርስቶን",
+          "t": "rəsətonə",
+          "gl": ""
+        },
+        {
+          "g": "በማእከለ",
+          "t": "bämaʾəkälä",
+          "gl": ""
+        },
+        {
+          "g": "አኀዊሁ",
+          "t": "ʾäḫäwihu",
+          "gl": ""
+        },
+        {
+          "g": "ለአቡሆን",
+          "t": "läʾäbuhonə",
+          "gl": ""
+        },
+        {
+          "g": "ወታገብእ",
+          "t": "wätagäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ሎንቱ",
+          "t": "lonətu",
+          "gl": ""
+        },
+        {
+          "g": "መክፈልተ",
+          "t": "mäkəfälətä",
+          "gl": ""
+        },
+        {
+          "g": "አቡሆን",
+          "t": "ʾäbuhonə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And thou shalt speak to the children of Israel, saying,",
+        "kjv": "The daughters of Zelophehad speak right: thou shalt surely give them a possession of an inheritance among their father’s brethren; and thou shalt cause the inheritance of their father to pass unto them."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወንግሮሙ ፡ ለደቂቀ ፡ እስራኤል ፡ ወበሎሙ ፡ ለእመ ፡ ቦቱ ፡ ዘሞተ ፡ ብእሲ ፡ ወአልቦ ፡ ደቂቀ ፡ ትሁቡ ፡ ርስቶ ፡\n                  ለአዋልዲሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወንግሮሙ",
+          "t": "wänəgəromu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወበሎሙ",
+          "t": "wäbälomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእመ",
+          "t": "läʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ቦቱ",
+          "t": "botu",
+          "gl": ""
+        },
+        {
+          "g": "ዘሞተ",
+          "t": "zämotä",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ወአልቦ",
+          "t": "wäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ትሁቡ",
+          "t": "təhubu",
+          "gl": ""
+        },
+        {
+          "g": "ርስቶ",
+          "t": "rəsəto",
+          "gl": ""
+        },
+        {
+          "g": "ለአዋልዲሁ",
+          "t": "läʾäwalədihu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "If a man die, and have no son, ye shall assign his inheritance to his daughter.",
+        "kjv": "And thou shalt speak unto the children of Israel, saying, If a man die, and have no son, then ye shall cause his inheritance to pass unto his daughter."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወለእመ ፡ አልቦ ፡ ወለተ ፡ ሀቡ ፡ ርስቶ ፡ ለአኀዊሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለእመ",
+          "t": "wäläʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "አልቦ",
+          "t": "ʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ወለተ",
+          "t": "wälätä",
+          "gl": ""
+        },
+        {
+          "g": "ሀቡ",
+          "t": "häbu",
+          "gl": ""
+        },
+        {
+          "g": "ርስቶ",
+          "t": "rəsəto",
+          "gl": ""
+        },
+        {
+          "g": "ለአኀዊሁ",
+          "t": "läʾäḫäwihu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if he have no daughter, ye shall give his inheritance to his brother.",
+        "kjv": "And if he have no daughter, then ye shall give his inheritance unto his brethren."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወለእመ ፡ አልቦ ፡ አኀወ ፡ ሀቡ ፡ ርስቶ ፡ ለእኅወ ፡ አቡሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለእመ",
+          "t": "wäläʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "አልቦ",
+          "t": "ʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "አኀወ",
+          "t": "ʾäḫäwä",
+          "gl": ""
+        },
+        {
+          "g": "ሀቡ",
+          "t": "häbu",
+          "gl": ""
+        },
+        {
+          "g": "ርስቶ",
+          "t": "rəsəto",
+          "gl": ""
+        },
+        {
+          "g": "ለእኅወ",
+          "t": "läʾəḫəwä",
+          "gl": ""
+        },
+        {
+          "g": "አቡሁ",
+          "t": "ʾäbuhu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if he have no brethren, ye shall give his inheritance to his father's brother.",
+        "kjv": "And if he have no brethren, then ye shall give his inheritance unto his father’s brethren."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወለእመ ፡ አልቦ ፡ አኀወ ፡ አቡሁ ፡ ሀቡ ፡ ርስቶ ፡ ለቤት ፡ ዘቅሩቡ ፡ ዘእምነገዱ ፡ ይወርስ ፡ ወይኩን ፡ ዝንቱ ፡\n                  ፍትሐ ፡ ኵነኔየ ፡ ለደቂቀ ፡ እስራኤል ፡ በከመ ፡ አዘዞ ፡ እግዚአብሔር ፡ ለሙሴ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለእመ",
+          "t": "wäläʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "አልቦ",
+          "t": "ʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "አኀወ",
+          "t": "ʾäḫäwä",
+          "gl": ""
+        },
+        {
+          "g": "አቡሁ",
+          "t": "ʾäbuhu",
+          "gl": ""
+        },
+        {
+          "g": "ሀቡ",
+          "t": "häbu",
+          "gl": ""
+        },
+        {
+          "g": "ርስቶ",
+          "t": "rəsəto",
+          "gl": ""
+        },
+        {
+          "g": "ለቤት",
+          "t": "läbetə",
+          "gl": ""
+        },
+        {
+          "g": "ዘቅሩቡ",
+          "t": "zäqərubu",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምነገዱ",
+          "t": "zäʾəmənägädu",
+          "gl": ""
+        },
+        {
+          "g": "ይወርስ",
+          "t": "yəwärəsə",
+          "gl": ""
+        },
+        {
+          "g": "ወይኩን",
+          "t": "wäyəkunə",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ፍትሐ",
+          "t": "fətəḥä",
+          "gl": ""
+        },
+        {
+          "g": "ኵነኔየ",
+          "t": "kwənäneyä",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "አዘዞ",
+          "t": "ʾäzäzo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if there be no brethren of his father, ye shall give the inheritance to his nearest relation of his tribe, to inherit his possessions; and this shall be to the children of Israel an ordinance of judgment, as the Lord commanded Moses.",
+        "kjv": "And if his father have no brethren, then ye shall give his inheritance unto his kinsman that is next to him of his family, and he shall possess it: and it shall be unto the children of Israel a statute of judgment, as the LORD commanded Moses."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወይቤሎ ፡ እግዚአብሔር ፡ ለሙሴ ፡ ዕረግ ፡ ውስተ ፡ ደብር ፡ ዘውስተ ፡ ማዕዶ[ት] ፡ ደብረ ፡ ናበው ፡ ውእቱ ፡ ወርእያ\n                  ፡ ለምድረ ፡ ከናአን ፡ እንተ ፡ አነ ፡ እሁቦሙ ፡ ለደቂቀ ፡ እስራኤል ፡ ይኰነንዋ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ዕረግ",
+          "t": "ʿərägə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ደብር",
+          "t": "däbərə",
+          "gl": ""
+        },
+        {
+          "g": "ዘውስተ",
+          "t": "zäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ማዕዶት",
+          "t": "maʿədotə",
+          "gl": ""
+        },
+        {
+          "g": "ደብረ",
+          "t": "däbərä",
+          "gl": ""
+        },
+        {
+          "g": "ናበው",
+          "t": "nabäwə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ወርእያ",
+          "t": "wärəʾəya",
+          "gl": ""
+        },
+        {
+          "g": "ለምድረ",
+          "t": "lämədərä",
+          "gl": ""
+        },
+        {
+          "g": "ከናአን",
+          "t": "känaʾänə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "እሁቦሙ",
+          "t": "ʾəhubomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ይኰነንዋ",
+          "t": "yəkwänänəwa",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord said to Moses, Go up to the mountain that is in the country beyond Jordan, this mount Nabau, and behold the land Chanaan, which I give to the sons of Israel for a possession.",
+        "kjv": "And the LORD said unto Moses, Get thee up into this mount Abarim, and see the land which I have given unto the children of Israel."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወርእያ ፡ ወትትዌሰክ ፡ ኀበ ፡ ሕዝብከ ፡ አንተሂ ፡ በከመ ፡ ተወሰከ ፡ አሮን ፡ እኁከ ፡ በደብረ ፡ ሆር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወርእያ",
+          "t": "wärəʾəya",
+          "gl": ""
+        },
+        {
+          "g": "ወትትዌሰክ",
+          "t": "wätətəwesäkə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብከ",
+          "t": "ḥəzəbəkä",
+          "gl": ""
+        },
+        {
+          "g": "አንተሂ",
+          "t": "ʾänətähi",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ተወሰከ",
+          "t": "täwäsäkä",
+          "gl": ""
+        },
+        {
+          "g": "አሮን",
+          "t": "ʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "እኁከ",
+          "t": "ʾəḫukä",
+          "gl": ""
+        },
+        {
+          "g": "በደብረ",
+          "t": "bädäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ሆር",
+          "t": "horə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And thou shalt see it, and thou also shalt be added to thy people, as Aaron thy brother was added to them in mount Or:",
+        "kjv": "And when thou hast seen it, thou also shalt be gathered unto thy people, as Aaron thy brother was gathered."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "እስመ ፡ ተዐወርክሙ ፡ ቃልየ ፡ በገዳም ፡ ዘ[ፂን] ፡ አመ ፡ ተዋሳእክምዎሙ ፡ ለትዕይንት ፡ ወቀድሶሂ ፡ ኢቀደስክሙኒ ፡\n                  በበይነ ፡ ማይ ፡ በቅድሜሆሙ ፡ ዘውእቱ ፡ ማየ ፡ ቅስት ፡ ዘበ ፡ ቃዴስ ፡ በገዳም ፡ ዘ[ፂን] ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ተዐወርክሙ",
+          "t": "täʿäwärəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ቃልየ",
+          "t": "qaləyä",
+          "gl": ""
+        },
+        {
+          "g": "በገዳም",
+          "t": "bägädamə",
+          "gl": ""
+        },
+        {
+          "g": "ዘፂን",
+          "t": "zäṣ́inə",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ተዋሳእክምዎሙ",
+          "t": "täwasaʾəkəməwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለትዕይንት",
+          "t": "lätəʿəyənətə",
+          "gl": ""
+        },
+        {
+          "g": "ወቀድሶሂ",
+          "t": "wäqädəsohi",
+          "gl": ""
+        },
+        {
+          "g": "ኢቀደስክሙኒ",
+          "t": "ʾiqädäsəkəmuni",
+          "gl": ""
+        },
+        {
+          "g": "በበይነ",
+          "t": "bäbäyənä",
+          "gl": ""
+        },
+        {
+          "g": "ማይ",
+          "t": "mayə",
+          "gl": ""
+        },
+        {
+          "g": "በቅድሜሆሙ",
+          "t": "bäqədəmehomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘውእቱ",
+          "t": "zäwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ማየ",
+          "t": "mayä",
+          "gl": ""
+        },
+        {
+          "g": "ቅስት",
+          "t": "qəsətə",
+          "gl": ""
+        },
+        {
+          "g": "ዘበ",
+          "t": "zäbä",
+          "gl": ""
+        },
+        {
+          "g": "ቃዴስ",
+          "t": "qadesə",
+          "gl": ""
+        },
+        {
+          "g": "በገዳም",
+          "t": "bägädamə",
+          "gl": ""
+        },
+        {
+          "g": "ዘፂን",
+          "t": "zäṣ́inə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "because ye transgressed my commandment in the wilderness of Sin, when the congregation resisted and refused to sanctify me; ye sanctified me not at the water before them. This is the water of Strife in Cades in the wilderness of Sin.",
+        "kjv": "For ye rebelled against my commandment in the desert of Zin, in the strife of the congregation, to sanctify me at the water before their eyes: that is the water of Meribah in Kadesh in the wilderness of Zin."
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ወይቤሎ ፡ ሙሴ ፡ ለእግዚአብሔር ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Moses said to the Lord,",
+        "kjv": "And Moses spake unto the LORD, saying,"
+      }
+    },
+    {
+      "num": 16,
+      "geez": "ለይርአይ ፡ እግዚአብሔር ፡ አምላኮ ፡ ለኵሉ ፡ ነፍስ ፡ ወለኵሉ ፡ ሥጋ ፡ ብእሴ ፡ ለዛቲ ፡ ትዕይንት ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ለይርአይ",
+          "t": "läyərəʾäyə",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላኮ",
+          "t": "ʾäməlako",
+          "gl": ""
+        },
+        {
+          "g": "ለኵሉ",
+          "t": "läkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ነፍስ",
+          "t": "näfəsə",
+          "gl": ""
+        },
+        {
+          "g": "ወለኵሉ",
+          "t": "wäläkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ሥጋ",
+          "t": "śəga",
+          "gl": ""
+        },
+        {
+          "g": "ብእሴ",
+          "t": "bəʾəse",
+          "gl": ""
+        },
+        {
+          "g": "ለዛቲ",
+          "t": "läzati",
+          "gl": ""
+        },
+        {
+          "g": "ትዕይንት",
+          "t": "təʿəyənətə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Let the Lord God of spirits and of all flesh look out for a man over this congregation,",
+        "kjv": "Let the LORD, the God of the spirits of all flesh, set a man over the congregation,"
+      }
+    },
+    {
+      "num": 17,
+      "geez": "ዘይወፅእ ፡ ወይበውእ ፡ ወዘያወፅኦሙ ፡ ወዘያበውኦሙ ፡ በቅድመ ፡ ገጾሙ ፡ ወኢትኩን ፡ ትዕይንቱ ፡ ለእግዚአብሔር ፡ ከመ\n                  ፡ አባግዕ ፡ ዘአልቦ ፡ ኖላዌ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዘይወፅእ",
+          "t": "zäyəwäṣ́əʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወይበውእ",
+          "t": "wäyəbäwəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘያወፅኦሙ",
+          "t": "wäzäyawäṣ́əʾomu",
+          "gl": ""
+        },
+        {
+          "g": "ወዘያበውኦሙ",
+          "t": "wäzäyabäwəʾomu",
+          "gl": ""
+        },
+        {
+          "g": "በቅድመ",
+          "t": "bäqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ገጾሙ",
+          "t": "gäṣomu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢትኩን",
+          "t": "wäʾitəkunə",
+          "gl": ""
+        },
+        {
+          "g": "ትዕይንቱ",
+          "t": "təʿəyənətu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "አባግዕ",
+          "t": "ʾäbagəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ዘአልቦ",
+          "t": "zäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ኖላዌ",
+          "t": "nolawe",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "who shall go out before them, and who shall come in before them, and who shall lead them out, and who shall bring them in; so the congregation of the Lord shall not be as sheep without a shepherd.",
+        "kjv": "Which may go out before them, and which may go in before them, and which may lead them out, and which may bring them in; that the congregation of the LORD be not as sheep which have no shepherd."
+      }
+    },
+    {
+      "num": 18,
+      "geez": "ወነበቦ ፡ እግዚአብሔር ፡ ለሙሴ ፡ ወይቤሎ ፡ ንሥኦ ፡ ኀቤከ ፡ ለዮሴዕ ፡ ወልደ ፡ ነዌ ፡ ብእሲ ፡ ዘሀለወ ፡ ላዕሌሁ ፡\n                  መንፈስ ፡ ቅዱስ ፡ ወደይ ፡ እዴከ ፡ ላዕሌሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነበቦ",
+          "t": "wänäbäbo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ንሥኦ",
+          "t": "nəśəʾo",
+          "gl": ""
+        },
+        {
+          "g": "ኀቤከ",
+          "t": "ḫäbekä",
+          "gl": ""
+        },
+        {
+          "g": "ለዮሴዕ",
+          "t": "läyoseʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ነዌ",
+          "t": "näwe",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ዘሀለወ",
+          "t": "zähäläwä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "መንፈስ",
+          "t": "mänəfäsə",
+          "gl": ""
+        },
+        {
+          "g": "ቅዱስ",
+          "t": "qədusə",
+          "gl": ""
+        },
+        {
+          "g": "ወደይ",
+          "t": "wädäyə",
+          "gl": ""
+        },
+        {
+          "g": "እዴከ",
+          "t": "ʾədekä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord spoke to Moses, saying, Take to thyself Joshua the son of Naue, a man who has the Spirit in him, and thou shalt lay thy hands upon him.",
+        "kjv": "And the LORD said unto Moses, Take thee Joshua the son of Nun, a man in whom is the spirit, and lay thine hand upon him;"
+      }
+    },
+    {
+      "num": 19,
+      "geez": "ወአቅሞ ፡ [ቅድመ ፡] እልዓዛር ፡ ካህን ፡ ወአዝዞ ፡ ቅድመ ፡ ኵሉ ፡ ተዓይን ፡ ወአ[ዝዝ] ፡ በእንቲአሁ ፡ ቅድሜሆሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአቅሞ",
+          "t": "wäʾäqəmo",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እልዓዛር",
+          "t": "ʾələʿazarə",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ወአዝዞ",
+          "t": "wäʾäzəzo",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ተዓይን",
+          "t": "täʿayənə",
+          "gl": ""
+        },
+        {
+          "g": "ወአዝዝ",
+          "t": "wäʾäzəzə",
+          "gl": ""
+        },
+        {
+          "g": "በእንቲአሁ",
+          "t": "bäʾənətiʾähu",
+          "gl": ""
+        },
+        {
+          "g": "ቅድሜሆሙ",
+          "t": "qədəmehomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And thou shalt set him before Eleazar the priest, and thou shalt give him a charge before all the congregation, and thou shalt give a charge concerning him before them.",
+        "kjv": "And set him before Eleazar the priest, and before all the congregation; and give him a charge in their sight."
+      }
+    },
+    {
+      "num": 20,
+      "geez": "ወታገብእ ፡ ክብረከ ፡ ላዕሌሁ ፡ ከመ ፡ ይትአዘዙ ፡ ሎቱ ፡ ደቂቀ ፡ እስራኤል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወታገብእ",
+          "t": "wätagäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ክብረከ",
+          "t": "kəbəräkä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይትአዘዙ",
+          "t": "yətəʾäzäzu",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And thou shalt put of thy glory upon him, that the children of Israel may hearken to him.",
+        "kjv": "And thou shalt put some of thine honour upon him, that all the congregation of the children of Israel may be obedient."
+      }
+    },
+    {
+      "num": 21,
+      "geez": "ወይቁም ፡ ቅድመ ፡ እልዓዛር ፡ ካህን ፡ ወይስአልዎ ፡ ፍትሐ ፡ ዘይትናገር ፡ ቅድመ ፡ እግዚአብሔር ፡ ወበቃለ ፡ ዚአሁ ፡\n                  ይፃኡ ፡ ወበቃለ ፡ ዚአሁ ፡ ይባኡ ፡ ውእቱ ፡ ወደቂቀ ፡ እስራኤል ፡ ኅቡረ ፡ ወኵሉ ፡ ተዓይን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቁም",
+          "t": "wäyəqumə",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እልዓዛር",
+          "t": "ʾələʿazarə",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ወይስአልዎ",
+          "t": "wäyəsəʾäləwo",
+          "gl": ""
+        },
+        {
+          "g": "ፍትሐ",
+          "t": "fətəḥä",
+          "gl": ""
+        },
+        {
+          "g": "ዘይትናገር",
+          "t": "zäyətənagärə",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወበቃለ",
+          "t": "wäbäqalä",
+          "gl": ""
+        },
+        {
+          "g": "ዚአሁ",
+          "t": "ziʾähu",
+          "gl": ""
+        },
+        {
+          "g": "ይፃኡ",
+          "t": "yəṣ́aʾu",
+          "gl": ""
+        },
+        {
+          "g": "ወበቃለ",
+          "t": "wäbäqalä",
+          "gl": ""
+        },
+        {
+          "g": "ዚአሁ",
+          "t": "ziʾähu",
+          "gl": ""
+        },
+        {
+          "g": "ይባኡ",
+          "t": "yəbaʾu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ወደቂቀ",
+          "t": "wädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ኅቡረ",
+          "t": "ḫəburä",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ተዓይን",
+          "t": "täʿayənə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he shall stand before Eleazar the priest, and they shall ask of him before the Lord the judgment of the Urim: they shall go forth at his word, and at his word they shall come in, he and the children of Israel with one accord, and all the congregation.",
+        "kjv": "And he shall stand before Eleazar the priest, who shall ask counsel for him after the judgment of Urim before the LORD: at his word shall they go out, and at his word they shall come in, both he, and all the children of Israel with him, even all the congregation."
+      }
+    },
+    {
+      "num": 22,
+      "geez": "ወገብረ ፡ ሙሴ ፡ በከመ ፡ አዘዞ ፡ እግዚአብሔር ፡ ወነሥኦ ፡ ለዮሴዕ ፡ ወአቀሞ ፡ ቅድመ ፡ እልዓዛር ፡ ካህን ፡ ወቅድመ\n                  ፡ ኵሉ ፡ ተዓይን ፡",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወገብረ",
+          "t": "wägäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "አዘዞ",
+          "t": "ʾäzäzo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወነሥኦ",
+          "t": "wänäśəʾo",
+          "gl": ""
+        },
+        {
+          "g": "ለዮሴዕ",
+          "t": "läyoseʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወአቀሞ",
+          "t": "wäʾäqämo",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እልዓዛር",
+          "t": "ʾələʿazarə",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ወቅድመ",
+          "t": "wäqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ተዓይን",
+          "t": "täʿayənə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Moses did as the Lord commanded him; and he took Joshua, and set him before Eleazar the priest, and before all the congregation.",
+        "kjv": "And Moses did as the LORD commanded him: and he took Joshua, and set him before Eleazar the priest, and before all the congregation:"
+      }
+    },
+    {
+      "num": 23,
+      "geez": "ወወደየ ፡ እዴሁ ፡ ላዕሌሁ ፡ ወሤሞ ፡ በከመ ፡ አዘዞ ፡ እግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወወደየ",
+          "t": "wäwädäyä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ወሤሞ",
+          "t": "wäśemo",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "አዘዞ",
+          "t": "ʾäzäzo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he laid his hands on him, and appointed him as the Lord ordered Moses.",
+        "kjv": "And he laid his hands upon him, and gave him a charge, as the LORD commanded by the hand of Moses."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

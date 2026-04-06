@@ -1,0 +1,1608 @@
+{
+  "book": "Isa",
+  "chapter": 22,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ምንተ፡ ኮንክሙ፡ ይእዜ፡ ዘዐረግሙ፡ አንሕስተ፡ ኵልክሙ፡ ለከንቱ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ምንተ",
+          "t": "mənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኮንክሙ",
+          "t": "konəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ይእዜ",
+          "t": "yəʾəze",
+          "gl": ""
+        },
+        {
+          "g": "ዘዐረግሙ",
+          "t": "zäʿärägəmu",
+          "gl": ""
+        },
+        {
+          "g": "አንሕስተ",
+          "t": "ʾänəḥəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኵልክሙ",
+          "t": "kwələkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ለከንቱ",
+          "t": "läkänətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The Word of the Valley of Sion. What has happened to thee, that now ye are all gone up to the housetops which help you not?",
+        "kjv": "The burden of the valley of vision. What aileth thee now, that thou art wholly gone up to the housetops?"
+      }
+    },
+    {
+      "num": 2,
+      "geez": "መልአት፡ ሀገር፡ አውያተ፣፡ ቅቱላንኪሂ፡ ኢኮኑ፡ ቅቱላነ፡ በኵናት፤ አብድንትኪሂ፡ ኢኮኑ፡ አብድንተ፡ ቀትል።",
+      "translation": "",
+      "words": [
+        {
+          "g": "መልአት",
+          "t": "mäləʾätə",
+          "gl": ""
+        },
+        {
+          "g": "ሀገር",
+          "t": "hägärə",
+          "gl": ""
+        },
+        {
+          "g": "አውያተ",
+          "t": "ʾäwəyatä",
+          "gl": ""
+        },
+        {
+          "g": "ቅቱላንኪሂ",
+          "t": "qətulanəkihi",
+          "gl": ""
+        },
+        {
+          "g": "ኢኮኑ",
+          "t": "ʾikonu",
+          "gl": ""
+        },
+        {
+          "g": "ቅቱላነ",
+          "t": "qətulanä",
+          "gl": ""
+        },
+        {
+          "g": "በኵናት አብድንትኪሂ",
+          "t": "bäkwənatə ʾäbədənətəkihi",
+          "gl": ""
+        },
+        {
+          "g": "ኢኮኑ",
+          "t": "ʾikonu",
+          "gl": ""
+        },
+        {
+          "g": "አብድንተ",
+          "t": "ʾäbədənətä",
+          "gl": ""
+        },
+        {
+          "g": "ቀትል",
+          "t": "qätələ",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The city is filled with shouting men: thy slain are not slain with swords, nor are thy dead those who have died in battle.",
+        "kjv": "Thou that art full of stirs, a tumultuous city, a joyous city: thy slain men are not slain with the sword, nor dead in battle."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ኵሎሙ፡ መላእክትኪ፡ ጐዩ፤ ወእለሂ፡ ተፄወዉ፡ አህመምዎሙ፡ በመዋቅህት፡ ወኃያላንኪሂ፡ ነዋኃ፡ ጎዩ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "መላእክትኪ",
+          "t": "mälaʾəkətəki",
+          "gl": ""
+        },
+        {
+          "g": "ጐዩ ወእለሂ",
+          "t": "gwäyu wäʾəlähi",
+          "gl": ""
+        },
+        {
+          "g": "ተፄወዉ",
+          "t": "täṣ́ewäwu",
+          "gl": ""
+        },
+        {
+          "g": "አህመምዎሙ",
+          "t": "ʾähəmäməwomu",
+          "gl": ""
+        },
+        {
+          "g": "በመዋቅህት",
+          "t": "bämäwaqəhətə",
+          "gl": ""
+        },
+        {
+          "g": "ወኃያላንኪሂ",
+          "t": "wäḫayalanəkihi",
+          "gl": ""
+        },
+        {
+          "g": "ነዋኃ",
+          "t": "näwaḫa",
+          "gl": ""
+        },
+        {
+          "g": "ጎዩ",
+          "t": "goyu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "All thy princes have fled, and thy captives are tightly bound, and the mighty men in thee have fled far away.",
+        "kjv": "All thy rulers are fled together, they are bound by the archers: all that are found in thee are bound together, which have fled from far."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "በእንተ፡ ዝንቱ፡ ኅድጉኒ፡ እብኪ፡ መሪረ፤ ኢታብዝኁ፡ አስተብቍዖትየ፡ በእንተ፡ ቅጥቃጤሃ፡ ለወለተ፡ ሕዝብየ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ኅድጉኒ",
+          "t": "ḫədəguni",
+          "gl": ""
+        },
+        {
+          "g": "እብኪ",
+          "t": "ʾəbəki",
+          "gl": ""
+        },
+        {
+          "g": "መሪረ ኢታብዝኁ",
+          "t": "märirä ʾitabəzəḫu",
+          "gl": ""
+        },
+        {
+          "g": "አስተብቍዖትየ",
+          "t": "ʾäsətäbəqwəʿotəyä",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ቅጥቃጤሃ",
+          "t": "qəṭəqaṭeha",
+          "gl": ""
+        },
+        {
+          "g": "ለወለተ",
+          "t": "läwälätä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብየ",
+          "t": "ḥəzəbəyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Therefore I said, Let me alone, I will weep bitterly; labour not to comfort me for the breach of the daughter of my people.",
+        "kjv": "Therefore said I, Look away from me; I will weep bitterly, labour not to comfort me, because of the spoiling of the daughter of my people."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "እስመ፡ ዕለተ፡ ሀከክ፡ ወሐጕል፡ ወኪደት፡ ወስብረት፡ እምኀበ፡ እግዚአብሔር፡ ጸባኦት።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ዕለተ",
+          "t": "ʿəlätä",
+          "gl": ""
+        },
+        {
+          "g": "ሀከክ",
+          "t": "häkäkə",
+          "gl": ""
+        },
+        {
+          "g": "ወሐጕል",
+          "t": "wäḥägwələ",
+          "gl": ""
+        },
+        {
+          "g": "ወኪደት",
+          "t": "wäkidätə",
+          "gl": ""
+        },
+        {
+          "g": "ወስብረት",
+          "t": "wäsəbərätə",
+          "gl": ""
+        },
+        {
+          "g": "እምኀበ",
+          "t": "ʾəməḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ጸባኦት",
+          "t": "ṣäbaʾotə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For it is a day of trouble, and of destruction, and of treading down, and there is perplexity sent from the Lord of hosts: they wander in the valley of Sion; they wander from the least to the greatest on the mountains.",
+        "kjv": "For it is a day of trouble, and of treading down, and of perplexity by the Lord GOD of hosts in the valley of vision, breaking down the walls, and of crying to the mountains."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወሰብአ፡ ኤላምኒ፡ ነሥኡ፡ ምጕንጳ፤ ወሰብአ፡ መስተፅዕናነ፡ አፍራስ፡ ወትዕይንተ፡ ጸባኢት።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሰብአ",
+          "t": "wäsäbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ኤላምኒ",
+          "t": "ʾelaməni",
+          "gl": ""
+        },
+        {
+          "g": "ነሥኡ",
+          "t": "näśəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ምጕንጳ ወሰብአ",
+          "t": "məgwənəṗa wäsäbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "መስተፅዕናነ",
+          "t": "mäsətäṣ́əʿənanä",
+          "gl": ""
+        },
+        {
+          "g": "አፍራስ",
+          "t": "ʾäfərasə",
+          "gl": ""
+        },
+        {
+          "g": "ወትዕይንተ",
+          "t": "wätəʿəyənətä",
+          "gl": ""
+        },
+        {
+          "g": "ጸባኢት",
+          "t": "ṣäbaʾitə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Elamites took their quivers, and there were men mounted on horses, and there was a gathering for battle.",
+        "kjv": "And Elam bare the quiver with chariots of men and horsemen, and Kir uncovered the shield."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወይመልእ፡ ሠረገላ፡ ውስተ፡ ቈላትኪ፡ ወየዐግቱ፡ አፍራስ፡ አናቅጸኪ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይመልእ",
+          "t": "wäyəmäləʾə",
+          "gl": ""
+        },
+        {
+          "g": "ሠረገላ",
+          "t": "śärägäla",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ቈላትኪ",
+          "t": "qwälatəki",
+          "gl": ""
+        },
+        {
+          "g": "ወየዐግቱ",
+          "t": "wäyäʿägətu",
+          "gl": ""
+        },
+        {
+          "g": "አፍራስ",
+          "t": "ʾäfərasə",
+          "gl": ""
+        },
+        {
+          "g": "አናቅጸኪ",
+          "t": "ʾänaqəṣäki",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it shall be that thy choice valleys shall be filled with chariots, and horsemen shall block up thy gates.",
+        "kjv": "And it shall come to pass, that thy choicest valleys shall be full of chariots, and the horsemen shall set themselves in array at the gate."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወያርኅውዎን፡ ለአናቅጸ፡ ይሁዳ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያርኅውዎን",
+          "t": "wäyarəḫəwəwonə",
+          "gl": ""
+        },
+        {
+          "g": "ለአናቅጸ",
+          "t": "läʾänaqəṣä",
+          "gl": ""
+        },
+        {
+          "g": "ይሁዳ",
+          "t": "yəhuda",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they shall uncover the gates of Juda, and they shall look in that day on the choice houses of the city.",
+        "kjv": "And he discovered the covering of Judah, and thou didst look in that day to the armour of the house of the forest."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወይሬእዩ፡ ከመ፡ በዝኁ፡ ወከመ፡ ተሠውጠ፡ ማየ፡ ምጥማቃተ፡ ሀገር፡ ዘትካት።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይሬእዩ",
+          "t": "wäyəreʾəyu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "በዝኁ",
+          "t": "bäzəḫu",
+          "gl": ""
+        },
+        {
+          "g": "ወከመ",
+          "t": "wäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ተሠውጠ",
+          "t": "täśäwəṭä",
+          "gl": ""
+        },
+        {
+          "g": "ማየ",
+          "t": "mayä",
+          "gl": ""
+        },
+        {
+          "g": "ምጥማቃተ",
+          "t": "məṭəmaqatä",
+          "gl": ""
+        },
+        {
+          "g": "ሀገር",
+          "t": "hägärə",
+          "gl": ""
+        },
+        {
+          "g": "ዘትካት",
+          "t": "zätəkatə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they shall uncover the secret places of the houses of the citadel of David: and they saw that they were many, and that one had turned the water of the old pool into the city;",
+        "kjv": "Ye have seen also the breaches of the city of David, that they are many: and ye gathered together the waters of the lower pool."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወከመሂ፡ ነሠቱ፡ አብያቲሃ፡ ለኢየሩሳሌም፡ ወአረፍተ፡ ጥቅማሂ፡ ለሀገር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወከመሂ",
+          "t": "wäkämähi",
+          "gl": ""
+        },
+        {
+          "g": "ነሠቱ",
+          "t": "näśätu",
+          "gl": ""
+        },
+        {
+          "g": "አብያቲሃ",
+          "t": "ʾäbəyatiha",
+          "gl": ""
+        },
+        {
+          "g": "ለኢየሩሳሌም",
+          "t": "läʾiyärusalemə",
+          "gl": ""
+        },
+        {
+          "g": "ወአረፍተ",
+          "t": "wäʾäräfətä",
+          "gl": ""
+        },
+        {
+          "g": "ጥቅማሂ",
+          "t": "ṭəqəmahi",
+          "gl": ""
+        },
+        {
+          "g": "ለሀገር",
+          "t": "lähägärə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and that they had pulled down the houses of Jerusalem, to fortify the wall of the city.",
+        "kjv": "And ye have numbered the houses of Jerusalem, and the houses have ye broken down to fortify the wall."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወአውፃእክሙ፡ ለክሙ፡ ማየ፡ ማእከለ፡ ክልኤቱ፡ አረፍተ፡ እለ፡ ውስተ፡ ምጥማቃት፡ ትካት፣፡ ወኢነጸርክምዎ፡ ለዘፈጠራ፡ ቅድመ፡ ወኢያእመርክምዎ፡ ለዘገብራ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአውፃእክሙ",
+          "t": "wäʾäwəṣ́aʾəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ማየ",
+          "t": "mayä",
+          "gl": ""
+        },
+        {
+          "g": "ማእከለ",
+          "t": "maʾəkälä",
+          "gl": ""
+        },
+        {
+          "g": "ክልኤቱ",
+          "t": "kələʾetu",
+          "gl": ""
+        },
+        {
+          "g": "አረፍተ",
+          "t": "ʾäräfətä",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምጥማቃት",
+          "t": "məṭəmaqatə",
+          "gl": ""
+        },
+        {
+          "g": "ትካት",
+          "t": "təkatə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢነጸርክምዎ",
+          "t": "wäʾinäṣärəkəməwo",
+          "gl": ""
+        },
+        {
+          "g": "ለዘፈጠራ",
+          "t": "läzäfäṭära",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢያእመርክምዎ",
+          "t": "wäʾiyaʾəmärəkəməwo",
+          "gl": ""
+        },
+        {
+          "g": "ለዘገብራ",
+          "t": "läzägäbəra",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And ye procured to yourselves water between the two walls within the ancient pool: but ye looked not to him that made it from the beginning, and regarded not him that created it.",
+        "kjv": "Ye made also a ditch between the two walls for the water of the old pool: but ye have not looked unto the maker thereof, neither had respect unto him that fashioned it long ago."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወአምጽአ፡ እግዚአብሔር፡ ጸባኦት፡ ውእተ፡ አሚረ፡ ብካየ፡ ወላሐ፣፡ መንጸፈ፡ ወብልባሌ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአምጽአ",
+          "t": "wäʾäməṣəʾä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ጸባኦት",
+          "t": "ṣäbaʾotə",
+          "gl": ""
+        },
+        {
+          "g": "ውእተ",
+          "t": "wəʾətä",
+          "gl": ""
+        },
+        {
+          "g": "አሚረ",
+          "t": "ʾämirä",
+          "gl": ""
+        },
+        {
+          "g": "ብካየ",
+          "t": "bəkayä",
+          "gl": ""
+        },
+        {
+          "g": "ወላሐ",
+          "t": "wälaḥä",
+          "gl": ""
+        },
+        {
+          "g": "መንጸፈ",
+          "t": "mänəṣäfä",
+          "gl": ""
+        },
+        {
+          "g": "ወብልባሌ",
+          "t": "wäbələbale",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord, the Lord of hosts, called in that day for weeping, and lamentation, and baldness, and for girding with sackcloth:",
+        "kjv": "And in that day did the Lord GOD of hosts call to weeping, and to mourning, and to baldness, and to girding with sackcloth:"
+      }
+    },
+    {
+      "num": 13,
+      "geez": "እሙንቱሰ፡ ገብሩ፡ በዓለ፡ ወፍሥሐ፡ ወኃሤተ፡ ወጠብሑ፡ አልህምተ፡ ወአባግዐ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እሙንቱሰ",
+          "t": "ʾəmunətusä",
+          "gl": ""
+        },
+        {
+          "g": "ገብሩ",
+          "t": "gäbəru",
+          "gl": ""
+        },
+        {
+          "g": "በዓለ",
+          "t": "bäʿalä",
+          "gl": ""
+        },
+        {
+          "g": "ወፍሥሐ",
+          "t": "wäfəśəḥä",
+          "gl": ""
+        },
+        {
+          "g": "ወኃሤተ",
+          "t": "wäḫaśetä",
+          "gl": ""
+        },
+        {
+          "g": "ወጠብሑ",
+          "t": "wäṭäbəḥu",
+          "gl": ""
+        },
+        {
+          "g": "አልህምተ",
+          "t": "ʾäləhəmətä",
+          "gl": ""
+        },
+        {
+          "g": "ወአባግዐ",
+          "t": "wäʾäbagəʿä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "but they engaged in joy and gladness, slaying calves, and killing sheep, so as to eat flesh, and drink wine; saying, Let us eat and drink; for to-morrow we die.",
+        "kjv": "And behold joy and gladness, slaying oxen, and killing sheep, eating flesh, and drinking wine: let us eat and drink; for to morrow we shall die."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወተሰምዐ፡ ዝንቱ፡ ነገር፡ ውስተ፡ እዘኒሁ፡ ለእግዚአብሔር፡ ጸባኦት፤ ኢትሰረይ፡ ለክሙ፡ ዛቲ፡ ኃጢአትክሙ፡ እስከ፡ አመ፡ ትመውቱ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተሰምዐ",
+          "t": "wätäsäməʿä",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ነገር",
+          "t": "nägärə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዘኒሁ",
+          "t": "ʾəzänihu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ጸባኦት ኢትሰረይ",
+          "t": "ṣäbaʾotə ʾitəsäräyə",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ዛቲ",
+          "t": "zati",
+          "gl": ""
+        },
+        {
+          "g": "ኃጢአትክሙ",
+          "t": "ḫaṭiʾätəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ትመውቱ",
+          "t": "təmäwətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And these things are revealed in the ears of the Lord of hosts: for this sin shall not be forgiven you, until ye die.",
+        "kjv": "And it was revealed in mine ears by the LORD of hosts, Surely this iniquity shall not be purged from you till ye die, saith the Lord GOD of hosts."
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ከመዝ፡ ይቤ፡ እግዚአብሔር፡ ጸባኦት፤ ሖር፡ ቤተ፡ ሳምናን፡ ዓቃቤ፡ መዝገብ፡ ወበሎ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ከመዝ",
+          "t": "kämäzə",
+          "gl": ""
+        },
+        {
+          "g": "ይቤ",
+          "t": "yəbe",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ጸባኦት ሖር",
+          "t": "ṣäbaʾotə ḥorə",
+          "gl": ""
+        },
+        {
+          "g": "ቤተ",
+          "t": "betä",
+          "gl": ""
+        },
+        {
+          "g": "ሳምናን",
+          "t": "samənanə",
+          "gl": ""
+        },
+        {
+          "g": "ዓቃቤ",
+          "t": "ʿaqabe",
+          "gl": ""
+        },
+        {
+          "g": "መዝገብ",
+          "t": "mäzəgäbə",
+          "gl": ""
+        },
+        {
+          "g": "ወበሎ",
+          "t": "wäbälo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Thus saith the Lord of hosts, Go into the chamber, to Somnas the treasurer, and say to him, Why art thou here?",
+        "kjv": "Thus saith the Lord GOD of hosts, Go, get thee unto this treasurer, even unto Shebna, which is over the house, and say,"
+      }
+    },
+    {
+      "num": 16,
+      "geez": "ምንተአ፡ መጻእከ፡ ዝየ፡ ወምንተአ፡ ተኀበልከ፡ ዝየ፤ ትግበር፡ ለከ፡ መቃብረ፡ ወአውቀርከ፡ ለከ፡ ዝኅረ፡ ውስተ፡ ኰኵሕ፡ ዘውስተ፡ ወግር፡ ወገበርከ፡ ለከ፡ ቤተ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ምንተአ",
+          "t": "mənətäʾä",
+          "gl": ""
+        },
+        {
+          "g": "መጻእከ",
+          "t": "mäṣaʾəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዝየ",
+          "t": "zəyä",
+          "gl": ""
+        },
+        {
+          "g": "ወምንተአ",
+          "t": "wämənətäʾä",
+          "gl": ""
+        },
+        {
+          "g": "ተኀበልከ",
+          "t": "täḫäbäləkä",
+          "gl": ""
+        },
+        {
+          "g": "ዝየ ትግበር",
+          "t": "zəyä təgəbärə",
+          "gl": ""
+        },
+        {
+          "g": "ለከ",
+          "t": "läkä",
+          "gl": ""
+        },
+        {
+          "g": "መቃብረ",
+          "t": "mäqabərä",
+          "gl": ""
+        },
+        {
+          "g": "ወአውቀርከ",
+          "t": "wäʾäwəqärəkä",
+          "gl": ""
+        },
+        {
+          "g": "ለከ",
+          "t": "läkä",
+          "gl": ""
+        },
+        {
+          "g": "ዝኅረ",
+          "t": "zəḫərä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኰኵሕ",
+          "t": "kwäkwəḥə",
+          "gl": ""
+        },
+        {
+          "g": "ዘውስተ",
+          "t": "zäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ወግር",
+          "t": "wägərə",
+          "gl": ""
+        },
+        {
+          "g": "ወገበርከ",
+          "t": "wägäbärəkä",
+          "gl": ""
+        },
+        {
+          "g": "ለከ",
+          "t": "läkä",
+          "gl": ""
+        },
+        {
+          "g": "ቤተ",
+          "t": "betä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and what hast thou to do here, that thou hast here hewn thyself a sepulchre, and madest thyself a sepulchre on high, and hast graven for thyself a dwelling in the rock?",
+        "kjv": "What hast thou here? and whom hast thou here, that thou hast hewed thee out a sepulchre here, as he that heweth him out a sepulchre on high, and that graveth an habitation for himself in a rock?"
+      }
+    },
+    {
+      "num": 17,
+      "geez": "ናሁ፡ እግዚአብሔር፡ ጸባኦት፡ ያወሰልበከ፡ አልባሲከ፡ ወአክሊለ፡ ክብርከ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ናሁ",
+          "t": "nahu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ጸባኦት",
+          "t": "ṣäbaʾotə",
+          "gl": ""
+        },
+        {
+          "g": "ያወሰልበከ",
+          "t": "yawäsäləbäkä",
+          "gl": ""
+        },
+        {
+          "g": "አልባሲከ",
+          "t": "ʾäləbasikä",
+          "gl": ""
+        },
+        {
+          "g": "ወአክሊለ",
+          "t": "wäʾäkəlilä",
+          "gl": ""
+        },
+        {
+          "g": "ክብርከ",
+          "t": "kəbərəkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Behold now, the Lord of hosts casts forth and will utterly destroy such a man, and will take away thy robe and thy glorious crown,",
+        "kjv": "Behold, the LORD will carry thee away with a mighty captivity, and will surely cover thee."
+      }
+    },
+    {
+      "num": 18,
+      "geez": "ወይገድፈከ፡ ውስተ፡ ብሔር፡ ዓቢይ፡ ዘአልቦ፡ ኍልቈ፡ ወትመውት፡ በህየ፤ ወየኀሥሮ፡ ለሠረገላከ፡ ሠናይ፡ ወይከይድዎ፡ ለቤተ፡ መልአክከ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይገድፈከ",
+          "t": "wäyəgädəfäkä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ብሔር",
+          "t": "bəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ዓቢይ",
+          "t": "ʿabiyə",
+          "gl": ""
+        },
+        {
+          "g": "ዘአልቦ",
+          "t": "zäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ኍልቈ",
+          "t": "ḫwələqwä",
+          "gl": ""
+        },
+        {
+          "g": "ወትመውት",
+          "t": "wätəmäwətə",
+          "gl": ""
+        },
+        {
+          "g": "በህየ ወየኀሥሮ",
+          "t": "bähəyä wäyäḫäśəro",
+          "gl": ""
+        },
+        {
+          "g": "ለሠረገላከ",
+          "t": "läśärägälakä",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይ",
+          "t": "śänayə",
+          "gl": ""
+        },
+        {
+          "g": "ወይከይድዎ",
+          "t": "wäyəkäyədəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለቤተ",
+          "t": "läbetä",
+          "gl": ""
+        },
+        {
+          "g": "መልአክከ",
+          "t": "mäləʾäkəkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and will cast thee into a great and unmeasured land, and there thou shalt die: and he will bring thy fair chariot to shame, and the house of thy prince to be trodden down.",
+        "kjv": "He will surely violently turn and toss thee like a ball into a large country: there shalt thou die, and there the chariots of thy glory shall be the shame of thy lord’s house."
+      }
+    },
+    {
+      "num": 19,
+      "geez": "ወትሠዐር፡ እምግብከ፡ ወእምነ፡ ምኵናኒከ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትሠዐር",
+          "t": "wätəśäʿärə",
+          "gl": ""
+        },
+        {
+          "g": "እምግብከ",
+          "t": "ʾəməgəbəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ምኵናኒከ",
+          "t": "məkwənanikä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And thou shalt be removed from thy stewardship, and from thy place.",
+        "kjv": "And I will drive thee from thy station, and from thy state shall he pull thee down."
+      }
+    },
+    {
+      "num": 20,
+      "geez": "ወውእተ፡ አሚረ፡ እጼውዖ፡ ለቍልዔየ፡ ኤልያቄም፡ ወልደ፡ ኬልቅዩ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወውእተ",
+          "t": "wäwəʾətä",
+          "gl": ""
+        },
+        {
+          "g": "አሚረ",
+          "t": "ʾämirä",
+          "gl": ""
+        },
+        {
+          "g": "እጼውዖ",
+          "t": "ʾəṣewəʿo",
+          "gl": ""
+        },
+        {
+          "g": "ለቍልዔየ",
+          "t": "läqwələʿeyä",
+          "gl": ""
+        },
+        {
+          "g": "ኤልያቄም",
+          "t": "ʾeləyaqemə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ኬልቅዩ",
+          "t": "keləqəyu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it shall come to pass in that day, that I will call my servant Eliakim the son of Chelcias:",
+        "kjv": "And it shall come to pass in that day, that I will call my servant Eliakim the son of Hilkiah:"
+      }
+    },
+    {
+      "num": 21,
+      "geez": "ወአለብሶ፡ አልባሲከ፡ ወእሁቦ፡ አክሊለከ፡ ወአሜግቦ፡ ምግበከ፤ ወአኴንኖ፡ ምኵናኒከ፡ ወአገብእ፡ ኵሎ፡ ዘውስተ፡ እዴከ፡ ውስተ፡ እዴሁ፤ ወይከውኖሙ፡ አባሆሙ፡ ለእለ፡ ይነብሩ፡ ኢየሩሳሌም፡ ወለእለ፡ ይነብሩ፡ ይሁዳ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአለብሶ",
+          "t": "wäʾäläbəso",
+          "gl": ""
+        },
+        {
+          "g": "አልባሲከ",
+          "t": "ʾäləbasikä",
+          "gl": ""
+        },
+        {
+          "g": "ወእሁቦ",
+          "t": "wäʾəhubo",
+          "gl": ""
+        },
+        {
+          "g": "አክሊለከ",
+          "t": "ʾäkəliläkä",
+          "gl": ""
+        },
+        {
+          "g": "ወአሜግቦ",
+          "t": "wäʾämegəbo",
+          "gl": ""
+        },
+        {
+          "g": "ምግበከ ወአኴንኖ",
+          "t": "məgəbäkä wäʾäkwenəno",
+          "gl": ""
+        },
+        {
+          "g": "ምኵናኒከ",
+          "t": "məkwənanikä",
+          "gl": ""
+        },
+        {
+          "g": "ወአገብእ",
+          "t": "wäʾägäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ዘውስተ",
+          "t": "zäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴከ",
+          "t": "ʾədekä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ ወይከውኖሙ",
+          "t": "ʾədehu wäyəkäwənomu",
+          "gl": ""
+        },
+        {
+          "g": "አባሆሙ",
+          "t": "ʾäbahomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእለ",
+          "t": "läʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሩሳሌም",
+          "t": "ʾiyärusalemə",
+          "gl": ""
+        },
+        {
+          "g": "ወለእለ",
+          "t": "wäläʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ይሁዳ",
+          "t": "yəhuda",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and I will put on him thy robe, and I will grant him thy crown with power, and I will give thy stewardship into his hands: and he shall be as a father to them that dwell in Jerusalem, and to them that dwell in Juda.",
+        "kjv": "And I will clothe him with thy robe, and strengthen him with thy girdle, and I will commit thy government into his hand: and he shall be a father to the inhabitants of Jerusalem, and to the house of Judah."
+      }
+    },
+    {
+      "num": 22,
+      "geez": "ወእሁቦ፡ ክብረ፡ ዳዊት፡ ወይኴንን፡ ወአልቦ፡ ዘየአብዮ፡ ተኰንኖ፤ ወእሁብ፡ መራኁተ፡ ቤተ፡ ዳዊት፡ ዲበ፡ መታክፍቲሁ፤ ለእመ፡ አርኀወ፡ ውእቱ፡ አልቦ፡ ዘየዐጹ፤ ወለእመ፡ ዐጸወ፡ አልቦ፡ ዘያርኁ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእሁቦ",
+          "t": "wäʾəhubo",
+          "gl": ""
+        },
+        {
+          "g": "ክብረ",
+          "t": "kəbərä",
+          "gl": ""
+        },
+        {
+          "g": "ዳዊት",
+          "t": "dawitə",
+          "gl": ""
+        },
+        {
+          "g": "ወይኴንን",
+          "t": "wäyəkwenənə",
+          "gl": ""
+        },
+        {
+          "g": "ወአልቦ",
+          "t": "wäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘየአብዮ",
+          "t": "zäyäʾäbəyo",
+          "gl": ""
+        },
+        {
+          "g": "ተኰንኖ ወእሁብ",
+          "t": "täkwänəno wäʾəhubə",
+          "gl": ""
+        },
+        {
+          "g": "መራኁተ",
+          "t": "märaḫutä",
+          "gl": ""
+        },
+        {
+          "g": "ቤተ",
+          "t": "betä",
+          "gl": ""
+        },
+        {
+          "g": "ዳዊት",
+          "t": "dawitə",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "መታክፍቲሁ ለእመ",
+          "t": "mätakəfətihu läʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "አርኀወ",
+          "t": "ʾärəḫäwä",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "አልቦ",
+          "t": "ʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘየዐጹ ወለእመ",
+          "t": "zäyäʿäṣu wäläʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ዐጸወ",
+          "t": "ʿäṣäwä",
+          "gl": ""
+        },
+        {
+          "g": "አልቦ",
+          "t": "ʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘያርኁ",
+          "t": "zäyarəḫu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And I will give him the glory of David; and he shall rule, and there shall be none to speak against him: and I will give him the key of the house of David upon his shoulder; and he shall open, and there shall be none to shut; and he shall shut, and there shall be none to open.",
+        "kjv": "And the key of the house of David will I lay upon his shoulder; so he shall open, and none shall shut; and he shall shut, and none shall open."
+      }
+    },
+    {
+      "num": 23,
+      "geez": "ወይሠይሞ፡ መልአከ፡ ለብሔር፡ ምእመን፡ ወአነብሮ፡ ዲበ፡ መንበረ፡ ክብር፡ ዘቤተ፡ አቡሁ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይሠይሞ",
+          "t": "wäyəśäyəmo",
+          "gl": ""
+        },
+        {
+          "g": "መልአከ",
+          "t": "mäləʾäkä",
+          "gl": ""
+        },
+        {
+          "g": "ለብሔር",
+          "t": "läbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ምእመን",
+          "t": "məʾəmänə",
+          "gl": ""
+        },
+        {
+          "g": "ወአነብሮ",
+          "t": "wäʾänäbəro",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "መንበረ",
+          "t": "mänəbärä",
+          "gl": ""
+        },
+        {
+          "g": "ክብር",
+          "t": "kəbərə",
+          "gl": ""
+        },
+        {
+          "g": "ዘቤተ",
+          "t": "zäbetä",
+          "gl": ""
+        },
+        {
+          "g": "አቡሁ",
+          "t": "ʾäbuhu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And I will make him a ruler in a sure place, and he shall be for a glorious throne of his father's house.",
+        "kjv": "And I will fasten him as a nail in a sure place; and he shall be for a glorious throne to his father’s house."
+      }
+    },
+    {
+      "num": 24,
+      "geez": "ወይከውን፡ ምእመነ፡ ላዕሌሁ፡ ኵሉ፡ ክቡር፡ በቤተ፡ አቡሁ፡ ለንኡሶሙ፡ ወለዓቢዮሙ፣፡ ወይከውኑ፡ ስቁላነ፡ ሎቱ፡ ይእተ፡ አሚረ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይከውን",
+          "t": "wäyəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ምእመነ",
+          "t": "məʾəmänä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ክቡር",
+          "t": "kəburə",
+          "gl": ""
+        },
+        {
+          "g": "በቤተ",
+          "t": "bäbetä",
+          "gl": ""
+        },
+        {
+          "g": "አቡሁ",
+          "t": "ʾäbuhu",
+          "gl": ""
+        },
+        {
+          "g": "ለንኡሶሙ",
+          "t": "länəʾusomu",
+          "gl": ""
+        },
+        {
+          "g": "ወለዓቢዮሙ",
+          "t": "wäläʿabiyomu",
+          "gl": ""
+        },
+        {
+          "g": "ወይከውኑ",
+          "t": "wäyəkäwənu",
+          "gl": ""
+        },
+        {
+          "g": "ስቁላነ",
+          "t": "səqulanä",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ይእተ",
+          "t": "yəʾətä",
+          "gl": ""
+        },
+        {
+          "g": "አሚረ",
+          "t": "ʾämirä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And every one that is glorious in the house of his father shall trust in him, from the least to the greatest; and they shall depend upon him in that day.",
+        "kjv": "And they shall hang upon him all the glory of his father’s house, the offspring and the issue, all vessels of small quantity, from the vessels of cups, even to all the vessels of flagons."
+      }
+    },
+    {
+      "num": 25,
+      "geez": "ከመዝ፡ ይቤ፡ እግዚአብሔር፡ ጸባኦት፤ ለያንቀልቅል፡ ብእሲ፡ ዘይቀውም፡ ውስተ፡ ብሔር፡ ጽኑዕ፡ ወይነሥእዎሂ፡ ወይወድቅ፣፡ ወይጠፍእ፡ ክብሩ፡ እምላዕሌሁ፡ እስመ፡ እግዚአብሔር፡ ነበበ፡ ከመዝ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ከመዝ",
+          "t": "kämäzə",
+          "gl": ""
+        },
+        {
+          "g": "ይቤ",
+          "t": "yəbe",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ጸባኦት ለያንቀልቅል",
+          "t": "ṣäbaʾotə läyanəqäləqələ",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ዘይቀውም",
+          "t": "zäyəqäwəmə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ብሔር",
+          "t": "bəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ጽኑዕ",
+          "t": "ṣənuʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወይነሥእዎሂ",
+          "t": "wäyənäśəʾəwohi",
+          "gl": ""
+        },
+        {
+          "g": "ወይወድቅ",
+          "t": "wäyəwädəqə",
+          "gl": ""
+        },
+        {
+          "g": "ወይጠፍእ",
+          "t": "wäyəṭäfəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ክብሩ",
+          "t": "kəbəru",
+          "gl": ""
+        },
+        {
+          "g": "እምላዕሌሁ",
+          "t": "ʾəməlaʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ነበበ",
+          "t": "näbäbä",
+          "gl": ""
+        },
+        {
+          "g": "ከመዝ",
+          "t": "kämäzə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Thus saith the Lord of hosts, The man that is fastened in the sure place shall be removed and be taken away, and shall fall; and the glory that is upon him shall be utterly destroyed: for the Lord has spoken it.",
+        "kjv": "In that day, saith the LORD of hosts, shall the nail that is fastened in the sure place be removed, and be cut down, and fall; and the burden that was upon it shall be cut off: for the LORD hath spoken it."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

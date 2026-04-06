@@ -1,0 +1,621 @@
+{
+  "book": "1En",
+  "chapter": 68,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወእምድኅረ፡ ዝ፡ ወሀበኒ፡ ትእምርተ፡ ኵሎሙ፡ ኅቡኣት፡ በመጽሐፍ፡ እምኄውየ፡ ሄኖክ፡ ወምሳሌያተ፡ ዘተውህባ፡ ሎቱ፡ ወደመሮሙ፡ ሊተ፡ በነገረ፡ መጽሐፍ፡ ዘምሳሌ።",
+      "translation": "And after that my grandfather Enoch gave me the teaching of all the secrets in the book in the Parables which had been given to him, and he put them together for me in the words of the book of the Parables.",
+      "words": [
+        {
+          "g": "ወእምድኅረ",
+          "t": "wäʾəmədəḫərä",
+          "gl": ""
+        },
+        {
+          "g": "ዝ",
+          "t": "zə",
+          "gl": ""
+        },
+        {
+          "g": "ወሀበኒ",
+          "t": "wähäbäni",
+          "gl": ""
+        },
+        {
+          "g": "ትእምርተ",
+          "t": "təʾəmərətä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ኅቡኣት",
+          "t": "ḫəbuʾatə",
+          "gl": ""
+        },
+        {
+          "g": "በመጽሐፍ",
+          "t": "bämäṣəḥäfə",
+          "gl": ""
+        },
+        {
+          "g": "እምኄውየ",
+          "t": "ʾəməḫewəyä",
+          "gl": ""
+        },
+        {
+          "g": "ሄኖክ",
+          "t": "henokə",
+          "gl": ""
+        },
+        {
+          "g": "ወምሳሌያተ",
+          "t": "wäməsaleyatä",
+          "gl": ""
+        },
+        {
+          "g": "ዘተውህባ",
+          "t": "zätäwəhəba",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ወደመሮሙ",
+          "t": "wädämäromu",
+          "gl": ""
+        },
+        {
+          "g": "ሊተ",
+          "t": "litä",
+          "gl": ""
+        },
+        {
+          "g": "በነገረ",
+          "t": "bänägärä",
+          "gl": ""
+        },
+        {
+          "g": "መጽሐፍ",
+          "t": "mäṣəḥäfə",
+          "gl": ""
+        },
+        {
+          "g": "ዘምሳሌ",
+          "t": "zäməsale",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "geez": "ወበይእቲ፡ ዕለተ፡ አውሥኦ፡ ቅዱስ፡ ሚካኤል፡ ለሩፋኤል፡ እንዘ፡ ይብል፡ ኀይሉ፡ ለመንፈስ፡ ይመሥጠኒ፡ ወያምዕዐኒ፡ ወበእንተ፡ ዕጸቡ፡ ለኵነኔ፡ እንተ፡ ኅቡኣት፡ መላእክት፡ መኑ፡ ውእቱ፡ ዘይክል፡ ተዐግሦተ፡ ዕጹበ፡ ለእንተ፡ ተገብረት፡ ኵነኔ፡ ወነበረት፡ ይትመሰዉ፡ በቅድሜሃ።",
+      "translation": "And on that day Michael answered Raphael and said: ‘The power of the spirit transports and makes me to tremble because of the severity of the judgement of the secrets, the judgement of the angels: who can endure the severe judgement which has been executed, and before which they melt away?’",
+      "words": [
+        {
+          "g": "ወበይእቲ",
+          "t": "wäbäyəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ዕለተ",
+          "t": "ʿəlätä",
+          "gl": ""
+        },
+        {
+          "g": "አውሥኦ",
+          "t": "ʾäwəśəʾo",
+          "gl": ""
+        },
+        {
+          "g": "ቅዱስ",
+          "t": "qədusə",
+          "gl": ""
+        },
+        {
+          "g": "ሚካኤል",
+          "t": "mikaʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ለሩፋኤል",
+          "t": "lärufaʾelə",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ይብል",
+          "t": "yəbələ",
+          "gl": ""
+        },
+        {
+          "g": "ኀይሉ",
+          "t": "ḫäyəlu",
+          "gl": ""
+        },
+        {
+          "g": "ለመንፈስ",
+          "t": "lämänəfäsə",
+          "gl": ""
+        },
+        {
+          "g": "ይመሥጠኒ",
+          "t": "yəmäśəṭäni",
+          "gl": ""
+        },
+        {
+          "g": "ወያምዕዐኒ",
+          "t": "wäyaməʿəʿäni",
+          "gl": ""
+        },
+        {
+          "g": "ወበእንተ",
+          "t": "wäbäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ዕጸቡ",
+          "t": "ʿəṣäbu",
+          "gl": ""
+        },
+        {
+          "g": "ለኵነኔ",
+          "t": "läkwənäne",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኅቡኣት",
+          "t": "ḫəbuʾatə",
+          "gl": ""
+        },
+        {
+          "g": "መላእክት",
+          "t": "mälaʾəkətə",
+          "gl": ""
+        },
+        {
+          "g": "መኑ",
+          "t": "mänu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይክል",
+          "t": "zäyəkələ",
+          "gl": ""
+        },
+        {
+          "g": "ተዐግሦተ",
+          "t": "täʿägəśotä",
+          "gl": ""
+        },
+        {
+          "g": "ዕጹበ",
+          "t": "ʿəṣubä",
+          "gl": ""
+        },
+        {
+          "g": "ለእንተ",
+          "t": "läʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ተገብረት",
+          "t": "tägäbərätə",
+          "gl": ""
+        },
+        {
+          "g": "ኵነኔ",
+          "t": "kwənäne",
+          "gl": ""
+        },
+        {
+          "g": "ወነበረት",
+          "t": "wänäbärätə",
+          "gl": ""
+        },
+        {
+          "g": "ይትመሰዉ",
+          "t": "yətəmäsäwu",
+          "gl": ""
+        },
+        {
+          "g": "በቅድሜሃ",
+          "t": "bäqədəmeha",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "geez": "ወአውሥኦ፡ ካዕበ፡ ወይቤሎ፡ ቅዱስ፡ ሚካኤል፡ ለሩፋኤል፡ መኑ፡ ውእቱ፡ ዘኢያረኅርኅ፡ ልቦ፡ ዲቤሃ፡ ወኢይትሀወክ፡ ኵልያቲሁ፡ እምዛቲ፡ ቃል፡ ኵነኔ፡ ወፅአት፡ ዲቤሆሙ፡ እምኔሆሙ፡ ዘአውፅእዎሙ፡ ከመ፡ ዝ።",
+      "translation": "And Michael answered again, and said to Raphael: ‘Who is he whose heart is not softened concerning it, and whose reins are not troubled by this word of judgement (that) has gone forth upon them because of those who have thus led them out?’",
+      "words": [
+        {
+          "g": "ወአውሥኦ",
+          "t": "wäʾäwəśəʾo",
+          "gl": ""
+        },
+        {
+          "g": "ካዕበ",
+          "t": "kaʿəbä",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ቅዱስ",
+          "t": "qədusə",
+          "gl": ""
+        },
+        {
+          "g": "ሚካኤል",
+          "t": "mikaʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ለሩፋኤል",
+          "t": "lärufaʾelə",
+          "gl": ""
+        },
+        {
+          "g": "መኑ",
+          "t": "mänu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘኢያረኅርኅ",
+          "t": "zäʾiyaräḫərəḫə",
+          "gl": ""
+        },
+        {
+          "g": "ልቦ",
+          "t": "ləbo",
+          "gl": ""
+        },
+        {
+          "g": "ዲቤሃ",
+          "t": "dibeha",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይትሀወክ",
+          "t": "wäʾiyətəhäwäkə",
+          "gl": ""
+        },
+        {
+          "g": "ኵልያቲሁ",
+          "t": "kwələyatihu",
+          "gl": ""
+        },
+        {
+          "g": "እምዛቲ",
+          "t": "ʾəməzati",
+          "gl": ""
+        },
+        {
+          "g": "ቃል",
+          "t": "qalə",
+          "gl": ""
+        },
+        {
+          "g": "ኵነኔ",
+          "t": "kwənäne",
+          "gl": ""
+        },
+        {
+          "g": "ወፅአት",
+          "t": "wäṣ́əʾätə",
+          "gl": ""
+        },
+        {
+          "g": "ዲቤሆሙ",
+          "t": "dibehomu",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሆሙ",
+          "t": "ʾəmənehomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘአውፅእዎሙ",
+          "t": "zäʾäwəṣ́əʾəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ዝ",
+          "t": "zə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 4,
+      "geez": "ወኮነ፡ ሶበ፡ ቆመ፡ በቅድመ፡ እግዚአ፡ መናፍስት፡ ከመ፡ ዝ፡ ይቤሎ፡ ቅዱስ፡ ሚካኤል፡ ለሩፋኤል፡ ኢይከውን፡ ሎሙ፡ ምሕረት፡ በውስተ፡ ዐይነ፡ እግዚእ፡ እስመ፡ እግዚአ፡ መናፍስት፡ ተምዕዖሙ፡ እስመ፡ በአምሳለ፡ እግዚእ፡ ይገብሩ።",
+      "translation": "And it came to pass when he stood before the Lord of Spirits, Michael said thus to Raphael: ‘I will not take their part under the eye of the Lord; for the Lord of Spirits has been angry with them because they do as if they were the Lord.",
+      "words": [
+        {
+          "g": "ወኮነ",
+          "t": "wäkonä",
+          "gl": ""
+        },
+        {
+          "g": "ሶበ",
+          "t": "sobä",
+          "gl": ""
+        },
+        {
+          "g": "ቆመ",
+          "t": "qomä",
+          "gl": ""
+        },
+        {
+          "g": "በቅድመ",
+          "t": "bäqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአ",
+          "t": "ʾəgəziʾä",
+          "gl": ""
+        },
+        {
+          "g": "መናፍስት",
+          "t": "mänafəsətə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ዝ",
+          "t": "zə",
+          "gl": ""
+        },
+        {
+          "g": "ይቤሎ",
+          "t": "yəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ቅዱስ",
+          "t": "qədusə",
+          "gl": ""
+        },
+        {
+          "g": "ሚካኤል",
+          "t": "mikaʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ለሩፋኤል",
+          "t": "lärufaʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ኢይከውን",
+          "t": "ʾiyəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ሎሙ",
+          "t": "lomu",
+          "gl": ""
+        },
+        {
+          "g": "ምሕረት",
+          "t": "məḥərätə",
+          "gl": ""
+        },
+        {
+          "g": "በውስተ",
+          "t": "bäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዐይነ",
+          "t": "ʿäyənä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚእ",
+          "t": "ʾəgəziʾə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአ",
+          "t": "ʾəgəziʾä",
+          "gl": ""
+        },
+        {
+          "g": "መናፍስት",
+          "t": "mänafəsətə",
+          "gl": ""
+        },
+        {
+          "g": "ተምዕዖሙ",
+          "t": "täməʿəʿomu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "በአምሳለ",
+          "t": "bäʾäməsalä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚእ",
+          "t": "ʾəgəziʾə",
+          "gl": ""
+        },
+        {
+          "g": "ይገብሩ",
+          "t": "yəgäbəru",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 5,
+      "geez": "በእንተ፡ ዝ፡ ይመጽእ፡ ላዕሌሆሙ፡ ኵነኔ፡ ዘኅቡእ፡ ለዓለመ፡ ዓለም፡ እስመ፡ ኢ፡ መልአክ፡ ወኢ፡ ብእሲ፡ ኢይትመጠዉ፡ መክፈልቶ፡ አላ፡ እሙንቱ፡ ባሕቲቶሙ፡ ተመጠዉ፡ ኵነኔሆሙ፡ ለዓለመ፡ ዓለም።",
+      "translation": "Therefore all that is hidden shall come upon them for ever and ever; for neither angel nor man shall have his portion (in it), but alone they have received their judgement for ever and ever.’",
+      "words": [
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ዝ",
+          "t": "zə",
+          "gl": ""
+        },
+        {
+          "g": "ይመጽእ",
+          "t": "yəmäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሆሙ",
+          "t": "laʿəlehomu",
+          "gl": ""
+        },
+        {
+          "g": "ኵነኔ",
+          "t": "kwənäne",
+          "gl": ""
+        },
+        {
+          "g": "ዘኅቡእ",
+          "t": "zäḫəbuʾə",
+          "gl": ""
+        },
+        {
+          "g": "ለዓለመ",
+          "t": "läʿalämä",
+          "gl": ""
+        },
+        {
+          "g": "ዓለም",
+          "t": "ʿalämə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኢ",
+          "t": "ʾi",
+          "gl": ""
+        },
+        {
+          "g": "መልአክ",
+          "t": "mäləʾäkə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢ",
+          "t": "wäʾi",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ኢይትመጠዉ",
+          "t": "ʾiyətəmäṭäwu",
+          "gl": ""
+        },
+        {
+          "g": "መክፈልቶ",
+          "t": "mäkəfäləto",
+          "gl": ""
+        },
+        {
+          "g": "አላ",
+          "t": "ʾäla",
+          "gl": ""
+        },
+        {
+          "g": "እሙንቱ",
+          "t": "ʾəmunətu",
+          "gl": ""
+        },
+        {
+          "g": "ባሕቲቶሙ",
+          "t": "baḥətitomu",
+          "gl": ""
+        },
+        {
+          "g": "ተመጠዉ",
+          "t": "tämäṭäwu",
+          "gl": ""
+        },
+        {
+          "g": "ኵነኔሆሙ",
+          "t": "kwənänehomu",
+          "gl": ""
+        },
+        {
+          "g": "ለዓለመ",
+          "t": "läʿalämä",
+          "gl": ""
+        },
+        {
+          "g": "ዓለም",
+          "t": "ʿalämə",
+          "gl": ""
+        }
+      ]
+    }
+  ]
+}

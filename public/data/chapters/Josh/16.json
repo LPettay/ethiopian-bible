@@ -1,0 +1,908 @@
+{
+  "book": "Josh",
+  "chapter": 16,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወኮነ ፡ ደወሎሙ ፡ ለደቂቀ ፡ ዮሴፍ ፡ እምነ ፡ ዮርዳንስ ፡ ዘመንገለ ፡ ኢያሪኮ ፡ እምነ ፡ ጽባሒሁ ፡ ወየዐርግ ፡ እምነ\n                  ፡ ኢያሪኮ ፡ ላዕለ ፡ አድባር ፡ ዘውስተ ፡ ገዳም ፡ ውስተ ፡ ቤቴል ፡ ሉዛ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኮነ",
+          "t": "wäkonä",
+          "gl": ""
+        },
+        {
+          "g": "ደወሎሙ",
+          "t": "däwälomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ዮሴፍ",
+          "t": "yosefə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ዮርዳንስ",
+          "t": "yorədanəsə",
+          "gl": ""
+        },
+        {
+          "g": "ዘመንገለ",
+          "t": "zämänəgälä",
+          "gl": ""
+        },
+        {
+          "g": "ኢያሪኮ",
+          "t": "ʾiyariko",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ጽባሒሁ",
+          "t": "ṣəbaḥihu",
+          "gl": ""
+        },
+        {
+          "g": "ወየዐርግ",
+          "t": "wäyäʿärəgə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ኢያሪኮ",
+          "t": "ʾiyariko",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "አድባር",
+          "t": "ʾädəbarə",
+          "gl": ""
+        },
+        {
+          "g": "ዘውስተ",
+          "t": "zäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ገዳም",
+          "t": "gädamə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ቤቴል",
+          "t": "betelə",
+          "gl": ""
+        },
+        {
+          "g": "ሉዛ",
+          "t": "luza",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the borders of the children of Joseph were from Jordan by Jericho eastward; and they will go up from Jericho to the hill country, to the wilderness, to Bæthel Luza.",
+        "kjv": "And the lot of the children of Joseph fell from Jordan by Jericho, unto the water of Jericho on the east, to the wilderness that goeth up from Jericho throughout mount Bethel,"
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ወይወፅእ ፡ ውስተ ፡ ቤቴል ፡ ወየኀልፍ ፡ ላዕለ ፡ ደወለ ፡ ከሮንቲ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይወፅእ",
+          "t": "wäyəwäṣ́əʾə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ቤቴል",
+          "t": "betelə",
+          "gl": ""
+        },
+        {
+          "g": "ወየኀልፍ",
+          "t": "wäyäḫäləfə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ደወለ",
+          "t": "däwälä",
+          "gl": ""
+        },
+        {
+          "g": "ከሮንቲ",
+          "t": "käronəti",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they will go out to Bæthel, and will proceed to the borders of Achatarothi.",
+        "kjv": "And goeth out from Bethel to Luz, and passeth along unto the borders of Archi to Ataroth,"
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወየኀልፍ ፡ ላዕለ ፡ ደወሎሙ ፡ ሰብዐቱ ፡ አፍላግ ፡ በውስተ ፡ ደወሎሙ ፡ ለቤቶሮን ፡ ዘታሕትየ ፡ ወይከውን ፡ ሞጻእቶሙ\n                  ፡ ላዕለ ፡ ባሕር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወየኀልፍ",
+          "t": "wäyäḫäləfə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ደወሎሙ",
+          "t": "däwälomu",
+          "gl": ""
+        },
+        {
+          "g": "ሰብዐቱ",
+          "t": "säbəʿätu",
+          "gl": ""
+        },
+        {
+          "g": "አፍላግ",
+          "t": "ʾäfəlagə",
+          "gl": ""
+        },
+        {
+          "g": "በውስተ",
+          "t": "bäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ደወሎሙ",
+          "t": "däwälomu",
+          "gl": ""
+        },
+        {
+          "g": "ለቤቶሮን",
+          "t": "läbetoronə",
+          "gl": ""
+        },
+        {
+          "g": "ዘታሕትየ",
+          "t": "zätaḥətəyä",
+          "gl": ""
+        },
+        {
+          "g": "ወይከውን",
+          "t": "wäyəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ሞጻእቶሙ",
+          "t": "moṣaʾətomu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ባሕር",
+          "t": "baḥərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they will go across to the sea to the borders of Aptalim, as far as the borders of Bæthoron the lower, and the going forth of them shall be to the sea.",
+        "kjv": "And goeth down westward to the coast of Japhleti, unto the coast of Bethhoron the nether, and to Gezer; and the goings out thereof are at the sea."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወተወርሱ ፡ ደቂቀ ፡ ዮሴፍ ፡ ኤፍሬም ፡ ወምናሴ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተወርሱ",
+          "t": "wätäwärəsu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ዮሴፍ",
+          "t": "yosefə",
+          "gl": ""
+        },
+        {
+          "g": "ኤፍሬም",
+          "t": "ʾefəremə",
+          "gl": ""
+        },
+        {
+          "g": "ወምናሴ",
+          "t": "wämənase",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the sons of Joseph, Ephraim and Manasse, took their inheritance.",
+        "kjv": "So the children of Joseph, Manasseh and Ephraim, took their inheritance."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወኮነ ፡ ደወሎሙ ፡ ለኤፍሬምኒ ፡ በበ ፡ ሕዘቢሆሙ ፡ ወኮነ ፡ ደወለ ፡ ርስቶሙ ፡ እምነ ፡ ጽባሒሃ ፡ ለአጣሮት ፡ ወኤሮኅ\n                  ፡ ወቤቶሮን ፡ እንተ ፡ ላዕሉ ፡ ወጋዛራ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኮነ",
+          "t": "wäkonä",
+          "gl": ""
+        },
+        {
+          "g": "ደወሎሙ",
+          "t": "däwälomu",
+          "gl": ""
+        },
+        {
+          "g": "ለኤፍሬምኒ",
+          "t": "läʾefəreməni",
+          "gl": ""
+        },
+        {
+          "g": "በበ",
+          "t": "bäbä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዘቢሆሙ",
+          "t": "ḥəzäbihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወኮነ",
+          "t": "wäkonä",
+          "gl": ""
+        },
+        {
+          "g": "ደወለ",
+          "t": "däwälä",
+          "gl": ""
+        },
+        {
+          "g": "ርስቶሙ",
+          "t": "rəsətomu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ጽባሒሃ",
+          "t": "ṣəbaḥiha",
+          "gl": ""
+        },
+        {
+          "g": "ለአጣሮት",
+          "t": "läʾäṭarotə",
+          "gl": ""
+        },
+        {
+          "g": "ወኤሮኅ",
+          "t": "wäʾeroḫə",
+          "gl": ""
+        },
+        {
+          "g": "ወቤቶሮን",
+          "t": "wäbetoronə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሉ",
+          "t": "laʿəlu",
+          "gl": ""
+        },
+        {
+          "g": "ወጋዛራ",
+          "t": "wägazara",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the borders of the children of Ephraim were according to their families, and the borders of their inheritance were eastward to Ataroth, and Eroc as far as Bæthoron the upper, and Gazara.",
+        "kjv": "And the border of the children of Ephraim according to their families was thus: even the border of their inheritance on the east side was Atarothaddar, unto Bethhoron the upper;"
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወየኀልፍ ፡ ደወሎሙ ፡ ላዕለ ፡ ባሕር ፡ እምነ ፡ መስዓ ፡ ለቴርማ ፡ ወየኀልፍ ፡ ላዕለ ፡ ጽባሕ ፡ ዲበ ፡ ቴናታ ፡\n                  ወውስተ ፡ ኤላስ ፡ ወየኅልፍ ፡ እምነ ፡ ጽባሕ ፡ ውስተ ፡ ኢያኖከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወየኀልፍ",
+          "t": "wäyäḫäləfə",
+          "gl": ""
+        },
+        {
+          "g": "ደወሎሙ",
+          "t": "däwälomu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ባሕር",
+          "t": "baḥərə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "መስዓ",
+          "t": "mäsəʿa",
+          "gl": ""
+        },
+        {
+          "g": "ለቴርማ",
+          "t": "läterəma",
+          "gl": ""
+        },
+        {
+          "g": "ወየኀልፍ",
+          "t": "wäyäḫäləfə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ጽባሕ",
+          "t": "ṣəbaḥə",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "ቴናታ",
+          "t": "tenata",
+          "gl": ""
+        },
+        {
+          "g": "ወውስተ",
+          "t": "wäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኤላስ",
+          "t": "ʾelasə",
+          "gl": ""
+        },
+        {
+          "g": "ወየኅልፍ",
+          "t": "wäyäḫələfə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ጽባሕ",
+          "t": "ṣəbaḥə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኢያኖከ",
+          "t": "ʾiyanokä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the borders will proceed to the sea to Icasmon north of Therma; they will go round eastward to Thenasa, and Selles, and will pass on eastward to Janoca,",
+        "kjv": "And the border went out toward the sea to Michmethah on the north side; and the border went about eastward unto Taanathshiloh, and passed by it on the east to Janohah;"
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወውስተ ፡ መራኮ ፡ ወአጣሮት ፡ ወአዕጻዳቲሆን ፡ ወይበውእ ፡ ዲበ ፡ ኢያሪኮ ፡ ወይወፅእ ፡ ዲበ ፡ ዮርዳንስ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወውስተ",
+          "t": "wäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "መራኮ",
+          "t": "märako",
+          "gl": ""
+        },
+        {
+          "g": "ወአጣሮት",
+          "t": "wäʾäṭarotə",
+          "gl": ""
+        },
+        {
+          "g": "ወአዕጻዳቲሆን",
+          "t": "wäʾäʿəṣadatihonə",
+          "gl": ""
+        },
+        {
+          "g": "ወይበውእ",
+          "t": "wäyəbäwəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "ኢያሪኮ",
+          "t": "ʾiyariko",
+          "gl": ""
+        },
+        {
+          "g": "ወይወፅእ",
+          "t": "wäyəwäṣ́əʾə",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "ዮርዳንስ",
+          "t": "yorədanəsə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and to Macho, and Ataroth, and these are their villages; and they will come to Jericho, and will issue at Jordan.",
+        "kjv": "And it went down from Janohah to Ataroth, and to Naarath, and came to Jericho, and went out at Jordan."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወእምነ ፡ [ጣ]ፉ ፡ የሐውር ፡ ደወሎሙ ፡ ላዕለ ፡ ባሕር ፡ ዲበ ፡ ኬልቃና ፡ ወይከውን ፡ ሞጻእቶሙ ፡ ዲበ ፡ ባሕር ፡\n                  ወዝንቱ ፡ ውእቱ ፡ ርስቶሙ ፡ ለሕዝበ ፡ ኤፍሬም ፡ በበ ፡ ሕዘቢሆሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ጣፉ",
+          "t": "ṭafu",
+          "gl": ""
+        },
+        {
+          "g": "የሐውር",
+          "t": "yäḥäwərə",
+          "gl": ""
+        },
+        {
+          "g": "ደወሎሙ",
+          "t": "däwälomu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ባሕር",
+          "t": "baḥərə",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "ኬልቃና",
+          "t": "keləqana",
+          "gl": ""
+        },
+        {
+          "g": "ወይከውን",
+          "t": "wäyəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ሞጻእቶሙ",
+          "t": "moṣaʾətomu",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "ባሕር",
+          "t": "baḥərə",
+          "gl": ""
+        },
+        {
+          "g": "ወዝንቱ",
+          "t": "wäzənətu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ርስቶሙ",
+          "t": "rəsətomu",
+          "gl": ""
+        },
+        {
+          "g": "ለሕዝበ",
+          "t": "läḥəzəbä",
+          "gl": ""
+        },
+        {
+          "g": "ኤፍሬም",
+          "t": "ʾefəremə",
+          "gl": ""
+        },
+        {
+          "g": "በበ",
+          "t": "bäbä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዘቢሆሙ",
+          "t": "ḥəzäbihomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the borders will proceed from Tapho to the sea to Chelcana; and their termination will be at the sea; this is the inheritance of the tribe of Ephraim according to their families.",
+        "kjv": "The border went out from Tappuah westward unto the river Kanah; and the goings out thereof were at the sea. This is the inheritance of the tribe of the children of Ephraim by their families."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወአህጉርኒ ፡ እለ ፡ ፈለጡ ፡ ለደቂቀ ፡ ኤፍሬም ፡ በውስተ ፡ ማእከለ ፡ ርስቶሙ ፡ ለደቂቀ ፡ መናሴ ፡ ኵሉ ፡ አህጉሪሆሙ\n                  ፡ ወአዕጻዳቲሆሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአህጉርኒ",
+          "t": "wäʾähəgurəni",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ፈለጡ",
+          "t": "fäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ኤፍሬም",
+          "t": "ʾefəremə",
+          "gl": ""
+        },
+        {
+          "g": "በውስተ",
+          "t": "bäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ማእከለ",
+          "t": "maʾəkälä",
+          "gl": ""
+        },
+        {
+          "g": "ርስቶሙ",
+          "t": "rəsətomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "መናሴ",
+          "t": "mänase",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "አህጉሪሆሙ",
+          "t": "ʾähəgurihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወአዕጻዳቲሆሙ",
+          "t": "wäʾäʿəṣadatihomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the cities separated to the sons of Ephraim were in the midst of the inheritance of the sons of Manasse, all the cities and their villages.",
+        "kjv": "And the separate cities for the children of Ephraim were among the inheritance of the children of Manasseh, all the cities with their villages."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወኢያጥፍኦሙ ፡ ኤፍሬም ፡ ለከናኔዎን ፡ እለ ፡ ይነብሩ ፡ ውስተ ፡ ጋዜር ፡ ወነበሩ ፡ ከናኔዎን ፡ ውስተ ፡ ኤፍሬም ፡\n                  እስከ ፡ ዮም ፡ እስከ ፡ አመ ፡ ዐርገ ፡ ፈርዖን ፡ ንጉሠ ፡ ግብጽ ፡ ወነሥኣ ፡ ወአውዐያ ፡ በእሳት ፡ ወለከናኔዎን ፡\n                  ወለፌሬዜዎን ፡ ወለእለ ፡ ይነብሩ ፡ ውስተ ፡ ጋዜር ፡ ወግእዎሙ ፡ ወወሀባ ፡ ፈርዖን ፡ ለወለቱ ፡ ሕፄሃ ፡ ኪያሃ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኢያጥፍኦሙ",
+          "t": "wäʾiyaṭəfəʾomu",
+          "gl": ""
+        },
+        {
+          "g": "ኤፍሬም",
+          "t": "ʾefəremə",
+          "gl": ""
+        },
+        {
+          "g": "ለከናኔዎን",
+          "t": "läkänanewonə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ጋዜር",
+          "t": "gazerə",
+          "gl": ""
+        },
+        {
+          "g": "ወነበሩ",
+          "t": "wänäbäru",
+          "gl": ""
+        },
+        {
+          "g": "ከናኔዎን",
+          "t": "känanewonə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኤፍሬም",
+          "t": "ʾefəremə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዮም",
+          "t": "yomə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ዐርገ",
+          "t": "ʿärəgä",
+          "gl": ""
+        },
+        {
+          "g": "ፈርዖን",
+          "t": "färəʿonə",
+          "gl": ""
+        },
+        {
+          "g": "ንጉሠ",
+          "t": "nəguśä",
+          "gl": ""
+        },
+        {
+          "g": "ግብጽ",
+          "t": "gəbəṣə",
+          "gl": ""
+        },
+        {
+          "g": "ወነሥኣ",
+          "t": "wänäśəʾa",
+          "gl": ""
+        },
+        {
+          "g": "ወአውዐያ",
+          "t": "wäʾäwəʿäya",
+          "gl": ""
+        },
+        {
+          "g": "በእሳት",
+          "t": "bäʾəsatə",
+          "gl": ""
+        },
+        {
+          "g": "ወለከናኔዎን",
+          "t": "wäläkänanewonə",
+          "gl": ""
+        },
+        {
+          "g": "ወለፌሬዜዎን",
+          "t": "wäläferezewonə",
+          "gl": ""
+        },
+        {
+          "g": "ወለእለ",
+          "t": "wäläʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ጋዜር",
+          "t": "gazerə",
+          "gl": ""
+        },
+        {
+          "g": "ወግእዎሙ",
+          "t": "wägəʾəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ወወሀባ",
+          "t": "wäwähäba",
+          "gl": ""
+        },
+        {
+          "g": "ፈርዖን",
+          "t": "färəʿonə",
+          "gl": ""
+        },
+        {
+          "g": "ለወለቱ",
+          "t": "läwälätu",
+          "gl": ""
+        },
+        {
+          "g": "ሕፄሃ",
+          "t": "ḥəṣ́eha",
+          "gl": ""
+        },
+        {
+          "g": "ኪያሃ",
+          "t": "kiyaha",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Ephraim did not destroy the Chananite who dwelt in Gazer; and the Chananite dwelt in Ephraim until this day, until Pharao the king of Egypt went up and took it, and burnt it with fire; and the Chananites, and Pherezites, and the dwellers in Gaza they destroyed, and Pharao gave them for a dowry to his daughter.",
+        "kjv": "And they drave not out the Canaanites that dwelt in Gezer: but the Canaanites dwell among the Ephraimites unto this day, and serve under tribute."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

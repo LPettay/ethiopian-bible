@@ -1,0 +1,1898 @@
+{
+  "book": "Exod",
+  "chapter": 22,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወከሪዮ ፡ ሰራቂ ፡ ለእመ ፡ ቈስለ ፡ ሰራቂ ፡ ወሞተ ፡ ኢይኩኖ ፡ ቀቲለ ፡ ለዘቀተለ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወከሪዮ",
+          "t": "wäkäriyo",
+          "gl": ""
+        },
+        {
+          "g": "ሰራቂ",
+          "t": "säraqi",
+          "gl": ""
+        },
+        {
+          "g": "ለእመ",
+          "t": "läʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ቈስለ",
+          "t": "qwäsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሰራቂ",
+          "t": "säraqi",
+          "gl": ""
+        },
+        {
+          "g": "ወሞተ",
+          "t": "wämotä",
+          "gl": ""
+        },
+        {
+          "g": "ኢይኩኖ",
+          "t": "ʾiyəkuno",
+          "gl": ""
+        },
+        {
+          "g": "ቀቲለ",
+          "t": "qätilä",
+          "gl": ""
+        },
+        {
+          "g": "ለዘቀተለ",
+          "t": "läzäqätälä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if the thief be found in the breach made by himself and be smitten and die, there shall not be blood shed for him.",
+        "kjv": "If a man shall steal an ox, or a sheep, and kill it, or sell it; he shall restore five oxen for an ox, and four sheep for a sheep."
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ወሠረቀ ፡ ፀሐይ ፡ ዲበ ፡ በድን ፡ ይመውት ፡ ዘቀተሎ ፤ ወለእመ ፡ አልቦ ፡ ይሠየጥ ፡ ህየንተ ፡ ዘሰረቀ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሠረቀ",
+          "t": "wäśäräqä",
+          "gl": ""
+        },
+        {
+          "g": "ፀሐይ",
+          "t": "ṣ́äḥäyə",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "በድን",
+          "t": "bädənə",
+          "gl": ""
+        },
+        {
+          "g": "ይመውት",
+          "t": "yəmäwətə",
+          "gl": ""
+        },
+        {
+          "g": "ዘቀተሎ  ወለእመ",
+          "t": "zäqätälo  wäläʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "አልቦ",
+          "t": "ʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ይሠየጥ",
+          "t": "yəśäyäṭə",
+          "gl": ""
+        },
+        {
+          "g": "ህየንተ",
+          "t": "həyänətä",
+          "gl": ""
+        },
+        {
+          "g": "ዘሰረቀ",
+          "t": "zäsäräqä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But if the sun be risen upon him, he is guilty, he shall die instead; and if a thief have nothing, let him be sold in compensation for what he has stolen.",
+        "kjv": "If a thief be found breaking up, and be smitten that he die, there shall no blood be shed for him."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወለእመ ፡ አኀዝዎ ፡ ወረከቡ ፡ ውስተ ፡ እዴሁ ፡ ለዘሰረቀ ፡ እመሂ ፡ አድግ ፡ ወለእመሂ ፡ በግዕ ፡ ካዕበተ ፡ ይፈዲ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለእመ",
+          "t": "wäläʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "አኀዝዎ",
+          "t": "ʾäḫäzəwo",
+          "gl": ""
+        },
+        {
+          "g": "ወረከቡ",
+          "t": "wäräkäbu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        },
+        {
+          "g": "ለዘሰረቀ",
+          "t": "läzäsäräqä",
+          "gl": ""
+        },
+        {
+          "g": "እመሂ",
+          "t": "ʾəmähi",
+          "gl": ""
+        },
+        {
+          "g": "አድግ",
+          "t": "ʾädəgə",
+          "gl": ""
+        },
+        {
+          "g": "ወለእመሂ",
+          "t": "wäläʾəmähi",
+          "gl": ""
+        },
+        {
+          "g": "በግዕ",
+          "t": "bägəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ካዕበተ",
+          "t": "kaʿəbätä",
+          "gl": ""
+        },
+        {
+          "g": "ይፈዲ",
+          "t": "yəfädi",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if the thing stolen be left and be in his hand alive, whether ox or sheep, he shall restore them two-fold.",
+        "kjv": "If the sun be risen upon him, there shall be blood shed for him; for he should make full restitution; if he have nothing, then he shall be sold for his theft."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወለእመ ፡ አብልዐ ፡ ገራህተ ፡ ሰብእ ፡ እንስሳሁ ፡ ወዐጸደ ፡ ወይን ፡ ወአብልዐ ፡ ገራውሀ ፡ ባዕድ ፡ ይትራዐይዎ ፡\n                  አስማሮ ፡ ይፈዲ ፡ ወለእመሰ ፡ አግመረ ፡ ገራህተ ፡ እንዘ ፡ ይበልዕ ፡ በሰመረ ፡ ገራህቱ ፡ ይፈዲ ፡ ለእመሂ ፡ ዐጸደ ፡\n                  ወይን ፡ በሰመረ ፡ ዐጸደ ፡ ወይን ፡ ይፈዲ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለእመ",
+          "t": "wäläʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "አብልዐ",
+          "t": "ʾäbələʿä",
+          "gl": ""
+        },
+        {
+          "g": "ገራህተ",
+          "t": "gärahətä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "እንስሳሁ",
+          "t": "ʾənəsəsahu",
+          "gl": ""
+        },
+        {
+          "g": "ወዐጸደ",
+          "t": "wäʿäṣädä",
+          "gl": ""
+        },
+        {
+          "g": "ወይን",
+          "t": "wäyənə",
+          "gl": ""
+        },
+        {
+          "g": "ወአብልዐ",
+          "t": "wäʾäbələʿä",
+          "gl": ""
+        },
+        {
+          "g": "ገራውሀ",
+          "t": "gärawəhä",
+          "gl": ""
+        },
+        {
+          "g": "ባዕድ",
+          "t": "baʿədə",
+          "gl": ""
+        },
+        {
+          "g": "ይትራዐይዎ",
+          "t": "yətəraʿäyəwo",
+          "gl": ""
+        },
+        {
+          "g": "አስማሮ",
+          "t": "ʾäsəmaro",
+          "gl": ""
+        },
+        {
+          "g": "ይፈዲ",
+          "t": "yəfädi",
+          "gl": ""
+        },
+        {
+          "g": "ወለእመሰ",
+          "t": "wäläʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "አግመረ",
+          "t": "ʾägəmärä",
+          "gl": ""
+        },
+        {
+          "g": "ገራህተ",
+          "t": "gärahətä",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ይበልዕ",
+          "t": "yəbäləʿə",
+          "gl": ""
+        },
+        {
+          "g": "በሰመረ",
+          "t": "bäsämärä",
+          "gl": ""
+        },
+        {
+          "g": "ገራህቱ",
+          "t": "gärahətu",
+          "gl": ""
+        },
+        {
+          "g": "ይፈዲ",
+          "t": "yəfädi",
+          "gl": ""
+        },
+        {
+          "g": "ለእመሂ",
+          "t": "läʾəmähi",
+          "gl": ""
+        },
+        {
+          "g": "ዐጸደ",
+          "t": "ʿäṣädä",
+          "gl": ""
+        },
+        {
+          "g": "ወይን",
+          "t": "wäyənə",
+          "gl": ""
+        },
+        {
+          "g": "በሰመረ",
+          "t": "bäsämärä",
+          "gl": ""
+        },
+        {
+          "g": "ዐጸደ",
+          "t": "ʿäṣädä",
+          "gl": ""
+        },
+        {
+          "g": "ወይን",
+          "t": "wäyənə",
+          "gl": ""
+        },
+        {
+          "g": "ይፈዲ",
+          "t": "yəfädi",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if any one should feed down a field or a vineyard, and should send in his beast to feed down another field, he shall make compensation of his own field according to his produce; and if he shall have fed down the whole field, he shall pay for compensation the best of his own field and the best of his vineyard.",
+        "kjv": "If the theft be certainly found in his hand alive, whether it be ox, or ass, or sheep; he shall restore double."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወለእመ ፡ ወፅአ ፡ እሳት ፡ ወአኀዘ ፡ ገዳመ ፡ ወአውዐየ ፡ ዐጸደ ፡ ወእመሂ ፡ ክምረ ፡ ዘአውዐየ ፡ ይፈዲ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለእመ",
+          "t": "wäläʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ወፅአ",
+          "t": "wäṣ́əʾä",
+          "gl": ""
+        },
+        {
+          "g": "እሳት",
+          "t": "ʾəsatə",
+          "gl": ""
+        },
+        {
+          "g": "ወአኀዘ",
+          "t": "wäʾäḫäzä",
+          "gl": ""
+        },
+        {
+          "g": "ገዳመ",
+          "t": "gädamä",
+          "gl": ""
+        },
+        {
+          "g": "ወአውዐየ",
+          "t": "wäʾäwəʿäyä",
+          "gl": ""
+        },
+        {
+          "g": "ዐጸደ",
+          "t": "ʿäṣädä",
+          "gl": ""
+        },
+        {
+          "g": "ወእመሂ",
+          "t": "wäʾəmähi",
+          "gl": ""
+        },
+        {
+          "g": "ክምረ",
+          "t": "kəmərä",
+          "gl": ""
+        },
+        {
+          "g": "ዘአውዐየ",
+          "t": "zäʾäwəʿäyä",
+          "gl": ""
+        },
+        {
+          "g": "ይፈዲ",
+          "t": "yəfädi",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if fire have gone forth and caught thorns, and should also set on fire threshing-floors or ears of corn or a field, he that kindled the fire shall make compensation.",
+        "kjv": "If a man shall cause a field or vineyard to be eaten, and shall put in his beast, and shall feed in another man’s field; of the best of his own field, and of the best of his own vineyard, shall he make restitution."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወለእመቦ ፡ ዘአዕቀበ ፡ ብሩረ ፡ ወእመሂ ፡ ንዋይ ፡ ወተሰርቆ ፡ ለዘአዕቀብወ ፡ ወረከቦ ፡ ለዘሰረቆ ፡ ይፈዲ ፡ ካዕበተ\n                  ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለእመቦ",
+          "t": "wäläʾəmäbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘአዕቀበ",
+          "t": "zäʾäʿəqäbä",
+          "gl": ""
+        },
+        {
+          "g": "ብሩረ",
+          "t": "bərurä",
+          "gl": ""
+        },
+        {
+          "g": "ወእመሂ",
+          "t": "wäʾəmähi",
+          "gl": ""
+        },
+        {
+          "g": "ንዋይ",
+          "t": "nəwayə",
+          "gl": ""
+        },
+        {
+          "g": "ወተሰርቆ",
+          "t": "wätäsärəqo",
+          "gl": ""
+        },
+        {
+          "g": "ለዘአዕቀብወ",
+          "t": "läzäʾäʿəqäbəwä",
+          "gl": ""
+        },
+        {
+          "g": "ወረከቦ",
+          "t": "wäräkäbo",
+          "gl": ""
+        },
+        {
+          "g": "ለዘሰረቆ",
+          "t": "läzäsäräqo",
+          "gl": ""
+        },
+        {
+          "g": "ይፈዲ",
+          "t": "yəfädi",
+          "gl": ""
+        },
+        {
+          "g": "ካዕበተ",
+          "t": "kaʿəbätä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if any one give to his neighbour money or goods to keep, and they be stolen out of the man's house, if the thief be found, he shall repay double.",
+        "kjv": "If fire break out, and catch in thorns, so that the stacks of corn, or the standing corn, or the field, be consumed therewith; he that kindled the fire shall surely make restitution."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወለእመ ፡ ኢረከቡ ፡ ሰራቄ ፡ ለይሑር ፡ ባዕለ ፡ ቤት ፡ ቅድመ ፡ ፈጣሪ ፡ ወይምሐል ፡ ማሕፀነ ፡ ዘአማሕፀንዎ ፡ ከመ ፡\n                  ኢተኬነወ ፡ ወኢቈጸረ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለእመ",
+          "t": "wäläʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኢረከቡ",
+          "t": "ʾiräkäbu",
+          "gl": ""
+        },
+        {
+          "g": "ሰራቄ",
+          "t": "säraqe",
+          "gl": ""
+        },
+        {
+          "g": "ለይሑር",
+          "t": "läyəḥurə",
+          "gl": ""
+        },
+        {
+          "g": "ባዕለ",
+          "t": "baʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ቤት",
+          "t": "betə",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ፈጣሪ",
+          "t": "fäṭari",
+          "gl": ""
+        },
+        {
+          "g": "ወይምሐል",
+          "t": "wäyəməḥälə",
+          "gl": ""
+        },
+        {
+          "g": "ማሕፀነ",
+          "t": "maḥəṣ́änä",
+          "gl": ""
+        },
+        {
+          "g": "ዘአማሕፀንዎ",
+          "t": "zäʾämaḥəṣ́änəwo",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ኢተኬነወ",
+          "t": "ʾitäkenäwä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢቈጸረ",
+          "t": "wäʾiqwäṣärä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But if the thief be not found, the master of the house shall come forward before God, and shall swear that surely he has not wrought wickedly in regard of any part of his neighbour's deposit,",
+        "kjv": "If a man shall deliver unto his neighbour money or stuff to keep, and it be stolen out of the man’s house; if the thief be found, let him pay double."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "እመሂ ፡ ላህመ ፡ ወእመሂ ፡ አድገ ፡ ወእመሂ ፡ በግዐ ፡ በዘ ፡ ኀሠሥዎ ፡ በማኅፀ[ን ፡]ኀሠሥዎ ፤ በዘ ፡ ኮነ ፡ ከዊኖ\n                  ፡ በህየ ፡ ይኅልቆሙ ፡ በበይናቲሆሙ ፤ ወዘገደፈ ፡ ካዕበተ ፡ ይፈዲ ፡ ለማዕቀቢሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እመሂ",
+          "t": "ʾəmähi",
+          "gl": ""
+        },
+        {
+          "g": "ላህመ",
+          "t": "lahəmä",
+          "gl": ""
+        },
+        {
+          "g": "ወእመሂ",
+          "t": "wäʾəmähi",
+          "gl": ""
+        },
+        {
+          "g": "አድገ",
+          "t": "ʾädəgä",
+          "gl": ""
+        },
+        {
+          "g": "ወእመሂ",
+          "t": "wäʾəmähi",
+          "gl": ""
+        },
+        {
+          "g": "በግዐ",
+          "t": "bägəʿä",
+          "gl": ""
+        },
+        {
+          "g": "በዘ",
+          "t": "bäzä",
+          "gl": ""
+        },
+        {
+          "g": "ኀሠሥዎ",
+          "t": "ḫäśäśəwo",
+          "gl": ""
+        },
+        {
+          "g": "በማኅፀን",
+          "t": "bämaḫəṣ́änə",
+          "gl": ""
+        },
+        {
+          "g": "ኀሠሥዎ  በዘ",
+          "t": "ḫäśäśəwo  bäzä",
+          "gl": ""
+        },
+        {
+          "g": "ኮነ",
+          "t": "konä",
+          "gl": ""
+        },
+        {
+          "g": "ከዊኖ",
+          "t": "käwino",
+          "gl": ""
+        },
+        {
+          "g": "በህየ",
+          "t": "bähəyä",
+          "gl": ""
+        },
+        {
+          "g": "ይኅልቆሙ",
+          "t": "yəḫələqomu",
+          "gl": ""
+        },
+        {
+          "g": "በበይናቲሆሙ  ወዘገደፈ",
+          "t": "bäbäyənatihomu  wäzägädäfä",
+          "gl": ""
+        },
+        {
+          "g": "ካዕበተ",
+          "t": "kaʿəbätä",
+          "gl": ""
+        },
+        {
+          "g": "ይፈዲ",
+          "t": "yəfädi",
+          "gl": ""
+        },
+        {
+          "g": "ለማዕቀቢሁ",
+          "t": "lämaʿəqäbihu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "according to every injury alleged, both concerning a calf, and an ass, and a sheep, and a garment, and every alleged loss, whatsoever in fact it may be,—the judgment of both shall proceed before God, and he that is convicted by God shall repay to his neighbour double.",
+        "kjv": "If the thief be not found, then the master of the house shall be brought unto the judges, to see whether he have put his hand unto his neighbour’s goods."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወለእመቦ ፡ ዘወሀበ ፡ ለካልኡ ፡ ብዕራዌ ፡ እመሂ ፡ በግዐ ፡ ዘኮነ ፡ በውስቴቱ ፡ እንስሳ ፡ ወሞተ ፡ ወቈስለ ፡ ወእመሂ\n                  ፡ ማህረኩ ፡ ሎቱ ፡ ወአልቦ ፡ ዘአእመረ ፡ ሎቱ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለእመቦ",
+          "t": "wäläʾəmäbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘወሀበ",
+          "t": "zäwähäbä",
+          "gl": ""
+        },
+        {
+          "g": "ለካልኡ",
+          "t": "läkaləʾu",
+          "gl": ""
+        },
+        {
+          "g": "ብዕራዌ",
+          "t": "bəʿərawe",
+          "gl": ""
+        },
+        {
+          "g": "እመሂ",
+          "t": "ʾəmähi",
+          "gl": ""
+        },
+        {
+          "g": "በግዐ",
+          "t": "bägəʿä",
+          "gl": ""
+        },
+        {
+          "g": "ዘኮነ",
+          "t": "zäkonä",
+          "gl": ""
+        },
+        {
+          "g": "በውስቴቱ",
+          "t": "bäwəsətetu",
+          "gl": ""
+        },
+        {
+          "g": "እንስሳ",
+          "t": "ʾənəsəsa",
+          "gl": ""
+        },
+        {
+          "g": "ወሞተ",
+          "t": "wämotä",
+          "gl": ""
+        },
+        {
+          "g": "ወቈስለ",
+          "t": "wäqwäsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ወእመሂ",
+          "t": "wäʾəmähi",
+          "gl": ""
+        },
+        {
+          "g": "ማህረኩ",
+          "t": "mahəräku",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ወአልቦ",
+          "t": "wäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘአእመረ",
+          "t": "zäʾäʾəmärä",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if any one give to his neighbour to keep a calf or sheep or any beast, and it be wounded or die or be taken, and no one know,",
+        "kjv": "For all manner of trespass, whether it be for ox, for ass, for sheep, for raiment, or for any manner of lost thing, which another challengeth to be his, the cause of both parties shall come before the judges; and whom the judges shall condemn, he shall pay double unto his neighbour."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "መሐላ ፡ ዘእግዚአብሔር ፡ ተርፈ ፡ ማእከሎሙ ፡ ከመ ፡ ተፈቲዎ ፡ ኢተኬነወ ፡ ተማኅፃኒ ፡ ወበበይነዝ ፡ ኢይፈዲ ፡\n                  ዘተማኅፀነ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "መሐላ",
+          "t": "mäḥäla",
+          "gl": ""
+        },
+        {
+          "g": "ዘእግዚአብሔር",
+          "t": "zäʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ተርፈ",
+          "t": "tärəfä",
+          "gl": ""
+        },
+        {
+          "g": "ማእከሎሙ",
+          "t": "maʾəkälomu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ተፈቲዎ",
+          "t": "täfätiwo",
+          "gl": ""
+        },
+        {
+          "g": "ኢተኬነወ",
+          "t": "ʾitäkenäwä",
+          "gl": ""
+        },
+        {
+          "g": "ተማኅፃኒ",
+          "t": "tämaḫəṣ́ani",
+          "gl": ""
+        },
+        {
+          "g": "ወበበይነዝ",
+          "t": "wäbäbäyənäzə",
+          "gl": ""
+        },
+        {
+          "g": "ኢይፈዲ",
+          "t": "ʾiyəfädi",
+          "gl": ""
+        },
+        {
+          "g": "ዘተማኅፀነ",
+          "t": "zätämaḫəṣ́änä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "an oath of God shall be between both, each swearing that he has surely not at all been guilty in the matter of his neighbour's deposit; and so his master shall hold him guiltless, and he shall not make compensation.",
+        "kjv": "If a man deliver unto his neighbour an ass, or an ox, or a sheep, or any beast, to keep; and it die, or be hurt, or driven away, no man seeing it:"
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወለእመ ፡ ሰረቅዎ ፡ ዘአዕቀብዎ ፡ ይፈዲ ፡ ለዘአዕቀቦ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለእመ",
+          "t": "wäläʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ሰረቅዎ",
+          "t": "säräqəwo",
+          "gl": ""
+        },
+        {
+          "g": "ዘአዕቀብዎ",
+          "t": "zäʾäʿəqäbəwo",
+          "gl": ""
+        },
+        {
+          "g": "ይፈዲ",
+          "t": "yəfädi",
+          "gl": ""
+        },
+        {
+          "g": "ለዘአዕቀቦ",
+          "t": "läzäʾäʿəqäbo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if it be stolen from him, he shall make compensation to the owner.",
+        "kjv": "Then shall an oath of the LORD be between them both, that he hath not put his hand unto his neighbour’s goods; and the owner of it shall accept thereof, and he shall not make it good."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወለእመ ፡ አርዌ ፡ አኀዞ ፡ በገዳም ፡ ይመርሕ ፡ ገደላሁ ፡ ወኢይፈዲ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለእመ",
+          "t": "wäläʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "አርዌ",
+          "t": "ʾärəwe",
+          "gl": ""
+        },
+        {
+          "g": "አኀዞ",
+          "t": "ʾäḫäzo",
+          "gl": ""
+        },
+        {
+          "g": "በገዳም",
+          "t": "bägädamə",
+          "gl": ""
+        },
+        {
+          "g": "ይመርሕ",
+          "t": "yəmärəḥə",
+          "gl": ""
+        },
+        {
+          "g": "ገደላሁ",
+          "t": "gädälahu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይፈዲ",
+          "t": "wäʾiyəfädi",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if it be seized of beasts, he shall bring him to witness the prey, and he shall not make compensation.",
+        "kjv": "And if it be stolen from him, he shall make restitution unto the owner thereof."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወለእመ ፡ ተውሕስከ ፡ እምኀበ ፡ ቢጽከ ፡ ወተሰብረ ፡ ወሞተ ፡ ወኢሀሎ ፡ ወሓሲ ፡ እግዚአ ፡ ንዋይ ፡ ትፈዲ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለእመ",
+          "t": "wäläʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ተውሕስከ",
+          "t": "täwəḥəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "እምኀበ",
+          "t": "ʾəməḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ቢጽከ",
+          "t": "biṣəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወተሰብረ",
+          "t": "wätäsäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ወሞተ",
+          "t": "wämotä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢሀሎ",
+          "t": "wäʾihälo",
+          "gl": ""
+        },
+        {
+          "g": "ወሓሲ",
+          "t": "wäḥasi",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአ",
+          "t": "ʾəgəziʾä",
+          "gl": ""
+        },
+        {
+          "g": "ንዋይ",
+          "t": "nəwayə",
+          "gl": ""
+        },
+        {
+          "g": "ትፈዲ",
+          "t": "təfädi",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if any one borrow ought of his neighbour, and it be wounded or die or be carried away, and the owner of it be not with it, he shall make compensation.",
+        "kjv": "If it be torn in pieces, then let him bring it for witness, and he shall not make good that which was torn."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "[ወለእመ ፡ ሀሎ ፡ እግዚኡ ፡ ኢይፈዲ ፤] ወለእመ ፡ ገባኢሁ ፡ ውእቱ ፡ ዐስቦ ፡ ይፈዲ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለእመ",
+          "t": "wäläʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ሀሎ",
+          "t": "hälo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚኡ",
+          "t": "ʾəgəziʾu",
+          "gl": ""
+        },
+        {
+          "g": "ኢይፈዲ  ወለእመ",
+          "t": "ʾiyəfädi  wäläʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ገባኢሁ",
+          "t": "gäbaʾihu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዐስቦ",
+          "t": "ʿäsəbo",
+          "gl": ""
+        },
+        {
+          "g": "ይፈዲ",
+          "t": "yəfädi",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But if the owner be with it, he shall not make compensation: but if it be a hired thing, there shall be a compensation to him instead of his hire.",
+        "kjv": "And if a man borrow ought of his neighbour, and it be hurt, or die, the owner thereof being not with it, he shall surely make it good."
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ወለእመቦ ፡ ዘአስሐታ ፡ ለድንግል ፡ ወሰክበ ፡ ምስሌሃ ፡ እንዘ ፡ ይነሥእ ፡ ይነሥኣ ፡ ወትከውኖ ፡ ብእሲተ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለእመቦ",
+          "t": "wäläʾəmäbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘአስሐታ",
+          "t": "zäʾäsəḥäta",
+          "gl": ""
+        },
+        {
+          "g": "ለድንግል",
+          "t": "lädənəgələ",
+          "gl": ""
+        },
+        {
+          "g": "ወሰክበ",
+          "t": "wäsäkəbä",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሃ",
+          "t": "məsəleha",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ይነሥእ",
+          "t": "yənäśəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ይነሥኣ",
+          "t": "yənäśəʾa",
+          "gl": ""
+        },
+        {
+          "g": "ወትከውኖ",
+          "t": "wätəkäwəno",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲተ",
+          "t": "bəʾəsitä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if any one deceive a virgin that is not betrothed, and lie with her, he shall surely endow her for a wife to himself.",
+        "kjv": "But if the owner thereof be with it, he shall not make it good: if it be an hired thing, it came for his hire."
+      }
+    },
+    {
+      "num": 16,
+      "geez": "ወለእመ ፡ ካልእ ፡ ምታ ፡ ከመ ፡ ኢየሀብዎ ፡ የሐፂ ፡ ሕፄሃ ፡ ይሁብ ፡ ለአቡሃ ፡ ሕፄ ፡ የሐፅይዎ ፡ ለድንግል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለእመ",
+          "t": "wäläʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ካልእ",
+          "t": "kaləʾə",
+          "gl": ""
+        },
+        {
+          "g": "ምታ",
+          "t": "məta",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሀብዎ",
+          "t": "ʾiyähäbəwo",
+          "gl": ""
+        },
+        {
+          "g": "የሐፂ",
+          "t": "yäḥäṣ́i",
+          "gl": ""
+        },
+        {
+          "g": "ሕፄሃ",
+          "t": "ḥəṣ́eha",
+          "gl": ""
+        },
+        {
+          "g": "ይሁብ",
+          "t": "yəhubə",
+          "gl": ""
+        },
+        {
+          "g": "ለአቡሃ",
+          "t": "läʾäbuha",
+          "gl": ""
+        },
+        {
+          "g": "ሕፄ",
+          "t": "ḥəṣ́e",
+          "gl": ""
+        },
+        {
+          "g": "የሐፅይዎ",
+          "t": "yäḥäṣ́əyəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለድንግል",
+          "t": "lädənəgələ",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if her father positively refuse, and will not consent to give her to him for a wife, he shall pay compensation to her father according to the amount of the dowry of virgins.",
+        "kjv": "And if a man entice a maid that is not betrothed, and lie with her, he shall surely endow her to be his wife."
+      }
+    },
+    {
+      "num": 17,
+      "geez": "[ወዘሥራይ ፡ ኢይሕየው ።]",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዘሥራይ",
+          "t": "wäzäśərayə",
+          "gl": ""
+        },
+        {
+          "g": "ኢይሕየው",
+          "t": "ʾiyəḥəyäwə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Ye shall not save the lives of sorcerers.",
+        "kjv": "If her father utterly refuse to give her unto him, he shall pay money according to the dowry of virgins."
+      }
+    },
+    {
+      "num": 18,
+      "geez": "ኵሉ ፡ ዘየሐውር ፡ እንስሳ ፡ ኵነኔሁ ፡ መዊት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘየሐውር",
+          "t": "zäyäḥäwərə",
+          "gl": ""
+        },
+        {
+          "g": "እንስሳ",
+          "t": "ʾənəsəsa",
+          "gl": ""
+        },
+        {
+          "g": "ኵነኔሁ",
+          "t": "kwənänehu",
+          "gl": ""
+        },
+        {
+          "g": "መዊት",
+          "t": "mäwitə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Every one that lies with a beast ye shall surely put to death.",
+        "kjv": "Thou shalt not suffer a witch to live."
+      }
+    },
+    {
+      "num": 19,
+      "geez": "ዘይሠውዕ ፡ ለአማልክት ፡ ለይሠረው ፡ ዘእንበለ ፡ ለእግዚአብሔር ፡ ባሕቲቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዘይሠውዕ",
+          "t": "zäyəśäwəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ለአማልክት",
+          "t": "läʾämaləkətə",
+          "gl": ""
+        },
+        {
+          "g": "ለይሠረው",
+          "t": "läyəśäräwə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእንበለ",
+          "t": "zäʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ባሕቲቱ",
+          "t": "baḥətitu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "He that sacrifices to any gods but to the Lord alone, shall be destroyed by death.",
+        "kjv": "Whosoever lieth with a beast shall surely be put to death."
+      }
+    },
+    {
+      "num": 20,
+      "geez": "ወኢታሕስሙ ፡ ለግዩር ፡ ወኢታጥቅዎ ፡ እስመ ፡ አንትሙሂ ፡ ግዩራነ ፡ ኮንክሙ ፡ በምድረ ፡ ግብጽ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኢታሕስሙ",
+          "t": "wäʾitaḥəsəmu",
+          "gl": ""
+        },
+        {
+          "g": "ለግዩር",
+          "t": "lägəyurə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢታጥቅዎ",
+          "t": "wäʾitaṭəqəwo",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አንትሙሂ",
+          "t": "ʾänətəmuhi",
+          "gl": ""
+        },
+        {
+          "g": "ግዩራነ",
+          "t": "gəyuranä",
+          "gl": ""
+        },
+        {
+          "g": "ኮንክሙ",
+          "t": "konəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "በምድረ",
+          "t": "bämədərä",
+          "gl": ""
+        },
+        {
+          "g": "ግብጽ",
+          "t": "gəbəṣə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And ye shall not hurt a stranger, nor afflict him; for ye were strangers in the land of Egypt.",
+        "kjv": "He that sacrificeth unto any god, save unto the LORD only, he shall be utterly destroyed."
+      }
+    },
+    {
+      "num": 21,
+      "geez": "ወለኵሉ ፡ እቤራት ፡ ወለእጓለ ፡ ማውታ ፡ ኢታሕስሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለኵሉ",
+          "t": "wäläkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "እቤራት",
+          "t": "ʾəberatə",
+          "gl": ""
+        },
+        {
+          "g": "ወለእጓለ",
+          "t": "wäläʾəgwalä",
+          "gl": ""
+        },
+        {
+          "g": "ማውታ",
+          "t": "mawəta",
+          "gl": ""
+        },
+        {
+          "g": "ኢታሕስሙ",
+          "t": "ʾitaḥəsəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Ye shall hurt no widow or orphan.",
+        "kjv": "Thou shalt neither vex a stranger, nor oppress him: for ye were strangers in the land of Egypt."
+      }
+    },
+    {
+      "num": 22,
+      "geez": "ወለእመ ፡ አሕሰምክሙ ፡ ሎሙ ፡ ወጸርሑ ፡ ወአውየዉ ፡ ኀቤየ ፡ ሰሚዐ ፡ እሰምዕ ፡ ገዓሮሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለእመ",
+          "t": "wäläʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "አሕሰምክሙ",
+          "t": "ʾäḥəsäməkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ሎሙ",
+          "t": "lomu",
+          "gl": ""
+        },
+        {
+          "g": "ወጸርሑ",
+          "t": "wäṣärəḥu",
+          "gl": ""
+        },
+        {
+          "g": "ወአውየዉ",
+          "t": "wäʾäwəyäwu",
+          "gl": ""
+        },
+        {
+          "g": "ኀቤየ",
+          "t": "ḫäbeyä",
+          "gl": ""
+        },
+        {
+          "g": "ሰሚዐ",
+          "t": "sämiʿä",
+          "gl": ""
+        },
+        {
+          "g": "እሰምዕ",
+          "t": "ʾəsäməʿə",
+          "gl": ""
+        },
+        {
+          "g": "ገዓሮሙ",
+          "t": "gäʿaromu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if ye should afflict them by ill-treatment, and they should cry aloud to me, I will surely hear their voice.",
+        "kjv": "Ye shall not afflict any widow, or fatherless child."
+      }
+    },
+    {
+      "num": 23,
+      "geez": "ወእትመዓዕ ፡ በመዐትየ ፡ ወእቀትለክሙ ፡ በኀፂን ፡ ወይከውናክሙ ፡ አንስቲያክሙ ፡ መበለት ፡ ወውሉድክሙ ፡ እጓለ ፡ ማውታ\n                  ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእትመዓዕ",
+          "t": "wäʾətəmäʿaʿə",
+          "gl": ""
+        },
+        {
+          "g": "በመዐትየ",
+          "t": "bämäʿätəyä",
+          "gl": ""
+        },
+        {
+          "g": "ወእቀትለክሙ",
+          "t": "wäʾəqätəläkəmu",
+          "gl": ""
+        },
+        {
+          "g": "በኀፂን",
+          "t": "bäḫäṣ́inə",
+          "gl": ""
+        },
+        {
+          "g": "ወይከውናክሙ",
+          "t": "wäyəkäwənakəmu",
+          "gl": ""
+        },
+        {
+          "g": "አንስቲያክሙ",
+          "t": "ʾänəsətiyakəmu",
+          "gl": ""
+        },
+        {
+          "g": "መበለት",
+          "t": "mäbälätə",
+          "gl": ""
+        },
+        {
+          "g": "ወውሉድክሙ",
+          "t": "wäwəludəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እጓለ",
+          "t": "ʾəgwalä",
+          "gl": ""
+        },
+        {
+          "g": "ማውታ",
+          "t": "mawəta",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And I will be very angry, and will slay you with the sword, and your wives shall be widows and your children orphans.",
+        "kjv": "If thou afflict them in any wise, and they cry at all unto me, I will surely hear their cry;"
+      }
+    },
+    {
+      "num": 24,
+      "geez": "ወለእመ ፡ ለቃሕከ ፡ ብሩረ ፡ ለነዳየ ፡ ሕዝብከ ፡ ኢታጥቆ ፡ ወኢትትራደዮ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለእመ",
+          "t": "wäläʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ለቃሕከ",
+          "t": "läqaḥəkä",
+          "gl": ""
+        },
+        {
+          "g": "ብሩረ",
+          "t": "bərurä",
+          "gl": ""
+        },
+        {
+          "g": "ለነዳየ",
+          "t": "länädayä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብከ",
+          "t": "ḥəzəbəkä",
+          "gl": ""
+        },
+        {
+          "g": "ኢታጥቆ",
+          "t": "ʾitaṭəqo",
+          "gl": ""
+        },
+        {
+          "g": "ወኢትትራደዮ",
+          "t": "wäʾitətəradäyo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if thou shouldest lend money to thy poor brother who is by thee, thou shalt not be hard upon him, thou shalt not exact usury of him.",
+        "kjv": "And my wrath shall wax hot, and I will kill you with the sword; and your wives shall be widows, and your children fatherless."
+      }
+    },
+    {
+      "num": 25,
+      "geez": "ወእመ ፡ አእኀዘከ ፡ ልብሶ ፡ ቢጽከ ፡ እንበለ ፡ ይዕርብ ፡ [ፀሐይ ፡ አግብእ ፡ ሎቱ ።]",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመ",
+          "t": "wäʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "አእኀዘከ",
+          "t": "ʾäʾəḫäzäkä",
+          "gl": ""
+        },
+        {
+          "g": "ልብሶ",
+          "t": "ləbəso",
+          "gl": ""
+        },
+        {
+          "g": "ቢጽከ",
+          "t": "biṣəkä",
+          "gl": ""
+        },
+        {
+          "g": "እንበለ",
+          "t": "ʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "ይዕርብ",
+          "t": "yəʿərəbə",
+          "gl": ""
+        },
+        {
+          "g": "ፀሐይ",
+          "t": "ṣ́äḥäyə",
+          "gl": ""
+        },
+        {
+          "g": "አግብእ",
+          "t": "ʾägəbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if thou take thy neighbour's garment for a pledge, thou shalt restore it to him before sunset.",
+        "kjv": "If thou lend money to any of my people that is poor by thee, thou shalt not be to him as an usurer, neither shalt thou lay upon him usury."
+      }
+    },
+    {
+      "num": 26,
+      "geez": "እስመ ፡ ይእቲ ፡ ባሕቲታ ፡ ዐራዙ ፡ ወ[ልብሰ ፡] ኀፍረቱ ፡ ሎቱ ፡ እስመ ፡ አልቦ ፡ በዘይበይት ፡ ወለእመ ፡ ግዕረ ፡\n                  ኀቤየ ፡ እሰምዖ ፡ እስመ ፡ መሓሪ ፡ አነ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ባሕቲታ",
+          "t": "baḥətita",
+          "gl": ""
+        },
+        {
+          "g": "ዐራዙ",
+          "t": "ʿärazu",
+          "gl": ""
+        },
+        {
+          "g": "ወልብሰ",
+          "t": "wäləbəsä",
+          "gl": ""
+        },
+        {
+          "g": "ኀፍረቱ",
+          "t": "ḫäfərätu",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አልቦ",
+          "t": "ʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "በዘይበይት",
+          "t": "bäzäyəbäyətə",
+          "gl": ""
+        },
+        {
+          "g": "ወለእመ",
+          "t": "wäläʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ግዕረ",
+          "t": "gəʿərä",
+          "gl": ""
+        },
+        {
+          "g": "ኀቤየ",
+          "t": "ḫäbeyä",
+          "gl": ""
+        },
+        {
+          "g": "እሰምዖ",
+          "t": "ʾəsäməʿo",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "መሓሪ",
+          "t": "mäḥari",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For this is his clothing, this is the only covering of his nakedness; wherein shall he sleep? If then he shall cry to me, I will hearken to him, for I am merciful.",
+        "kjv": "If thou at all take thy neighbour’s raiment to pledge, thou shalt deliver it unto him by that the sun goeth down:"
+      }
+    },
+    {
+      "num": 27,
+      "geez": "ለአማልክት ፡ ኢትሕሚ ፡ ወመኰንነ ፡ ሕዝብከ ፡ እኪተ ፡ ኢትበሎ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ለአማልክት",
+          "t": "läʾämaləkətə",
+          "gl": ""
+        },
+        {
+          "g": "ኢትሕሚ",
+          "t": "ʾitəḥəmi",
+          "gl": ""
+        },
+        {
+          "g": "ወመኰንነ",
+          "t": "wämäkwänənä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብከ",
+          "t": "ḥəzəbəkä",
+          "gl": ""
+        },
+        {
+          "g": "እኪተ",
+          "t": "ʾəkitä",
+          "gl": ""
+        },
+        {
+          "g": "ኢትበሎ",
+          "t": "ʾitəbälo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Thou shalt not revile the gods, nor speak ill of the ruler of thy people.",
+        "kjv": "For that is his covering only, it is his raiment for his skin: wherein shall he sleep? and it shall come to pass, when he crieth unto me, that I will hear; for I am gracious."
+      }
+    },
+    {
+      "num": 28,
+      "geez": "ከተማ ፡ ዐውድከ ፡ ወዘዐውድከ ፡ ኢታእኅር ፤ በኵረ ፡ ወልድከ ፡ ትሁበኒ ፡ ሊተ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ከተማ",
+          "t": "kätäma",
+          "gl": ""
+        },
+        {
+          "g": "ዐውድከ",
+          "t": "ʿäwədəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወዘዐውድከ",
+          "t": "wäzäʿäwədəkä",
+          "gl": ""
+        },
+        {
+          "g": "ኢታእኅር  በኵረ",
+          "t": "ʾitaʾəḫərə  bäkwərä",
+          "gl": ""
+        },
+        {
+          "g": "ወልድከ",
+          "t": "wälədəkä",
+          "gl": ""
+        },
+        {
+          "g": "ትሁበኒ",
+          "t": "təhubäni",
+          "gl": ""
+        },
+        {
+          "g": "ሊተ",
+          "t": "litä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Thou shalt not keep back the first-fruits of thy threshing floor and press. The first-born of thy sons thou shalt give to me.",
+        "kjv": "Thou shalt not revile the gods, nor curse the ruler of thy people."
+      }
+    },
+    {
+      "num": 29,
+      "geez": "ከማሁ ፡ ትገብር ፡ ሊተ ፡ ላህመከ ፡ ወበግዐከ ፡ ወአድገከ ፡ ሰቡዐ ፡ ይነብር ፡ ኀበ ፡ እሙ ፡ ወአመ ፡ ሳምንት ፡\n                  ዕለት ፡ ትሁበኒ ፡ ሊተ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ከማሁ",
+          "t": "kämahu",
+          "gl": ""
+        },
+        {
+          "g": "ትገብር",
+          "t": "təgäbərə",
+          "gl": ""
+        },
+        {
+          "g": "ሊተ",
+          "t": "litä",
+          "gl": ""
+        },
+        {
+          "g": "ላህመከ",
+          "t": "lahəmäkä",
+          "gl": ""
+        },
+        {
+          "g": "ወበግዐከ",
+          "t": "wäbägəʿäkä",
+          "gl": ""
+        },
+        {
+          "g": "ወአድገከ",
+          "t": "wäʾädəgäkä",
+          "gl": ""
+        },
+        {
+          "g": "ሰቡዐ",
+          "t": "säbuʿä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብር",
+          "t": "yənäbərə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "እሙ",
+          "t": "ʾəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወአመ",
+          "t": "wäʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ሳምንት",
+          "t": "samənətə",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "ትሁበኒ",
+          "t": "təhubäni",
+          "gl": ""
+        },
+        {
+          "g": "ሊተ",
+          "t": "litä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "So shalt thou do with thy calf and thy sheep and thine ass; seven days shall it be under the mother, and the eighth day thou shalt give it to me.",
+        "kjv": "Thou shalt not delay to offer the first of thy ripe fruits, and of thy liquors: the firstborn of thy sons shalt thou give unto me."
+      }
+    },
+    {
+      "num": 30,
+      "geez": "ወትከውኑኒ ፡ ዕደወ ፡ ቅዱሳነ ፡ ወሥጋ ፡ ገደላ ፡ አርዌ ፡ ኢትብልዑ ፡ ለከልብ ፡ ግድፍዎ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትከውኑኒ",
+          "t": "wätəkäwənuni",
+          "gl": ""
+        },
+        {
+          "g": "ዕደወ",
+          "t": "ʿədäwä",
+          "gl": ""
+        },
+        {
+          "g": "ቅዱሳነ",
+          "t": "qədusanä",
+          "gl": ""
+        },
+        {
+          "g": "ወሥጋ",
+          "t": "wäśəga",
+          "gl": ""
+        },
+        {
+          "g": "ገደላ",
+          "t": "gädäla",
+          "gl": ""
+        },
+        {
+          "g": "አርዌ",
+          "t": "ʾärəwe",
+          "gl": ""
+        },
+        {
+          "g": "ኢትብልዑ",
+          "t": "ʾitəbələʿu",
+          "gl": ""
+        },
+        {
+          "g": "ለከልብ",
+          "t": "läkäləbə",
+          "gl": ""
+        },
+        {
+          "g": "ግድፍዎ",
+          "t": "gədəfəwo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And ye shall be holy men to me; and ye shall not eat flesh taken of beasts, ye shall cast it to the dog.",
+        "kjv": "Likewise shalt thou do with thine oxen, and with thy sheep: seven days it shall be with his dam; on the eighth day thou shalt give it me."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

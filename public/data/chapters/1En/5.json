@@ -1,0 +1,824 @@
+{
+  "book": "1En",
+  "chapter": 5,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ጠየቁ፡ እፎ፡ ዕፀው፡ በሐመልማለ፡ አቍጽል፡ ይትከደኑ፡ ወይፈርዩ፡ ወለብዉ፡ በእንተ፡ ኵሉ፡ በከመ፡ ገብረ፡ ለክሙ፡ ለእሎንቱ፡ ኵሎሙ፡ ዘሕያው፡ ለዓለም።",
+      "translation": "Observe ye how the trees cover themselves with green leaves and bear fruit: wherefore give ye heed and know with regard to all His works, and recognize how He that liveth for ever hath made them so.",
+      "words": [
+        {
+          "g": "ጠየቁ",
+          "t": "ṭäyäqu",
+          "gl": ""
+        },
+        {
+          "g": "እፎ",
+          "t": "ʾəfo",
+          "gl": ""
+        },
+        {
+          "g": "ዕፀው",
+          "t": "ʿəṣ́äwə",
+          "gl": ""
+        },
+        {
+          "g": "በሐመልማለ",
+          "t": "bäḥämäləmalä",
+          "gl": ""
+        },
+        {
+          "g": "አቍጽል",
+          "t": "ʾäqwəṣələ",
+          "gl": ""
+        },
+        {
+          "g": "ይትከደኑ",
+          "t": "yətəkädänu",
+          "gl": ""
+        },
+        {
+          "g": "ወይፈርዩ",
+          "t": "wäyəfärəyu",
+          "gl": ""
+        },
+        {
+          "g": "ወለብዉ",
+          "t": "wäläbəwu",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ገብረ",
+          "t": "gäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ለእሎንቱ",
+          "t": "läʾəlonətu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘሕያው",
+          "t": "zäḥəyawə",
+          "gl": ""
+        },
+        {
+          "g": "ለዓለም",
+          "t": "läʿalämə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "geez": "ወምግባሩ፡ ቅድሜሁ፡ ለለ፡ ዓመት፡ ዘይከውን፡ ወኵሉ፡ ምግባሩ፡ ይትቀነዩ፡ ሎቱ፡ ወኢይትመየጡ፡ አላ፡ በከመ፡ ሠርዐ፡ አምላክ፡ ከመ፡ ዝ፡ ይትገበር፡ ኵሉ።",
+      "translation": "And all His works go on thus from year to year for ever, and all the tasks which they accomplish for Him, and their tasks change not, but according as God hath ordained so is it done.",
+      "words": [
+        {
+          "g": "ወምግባሩ",
+          "t": "wäməgəbaru",
+          "gl": ""
+        },
+        {
+          "g": "ቅድሜሁ",
+          "t": "qədəmehu",
+          "gl": ""
+        },
+        {
+          "g": "ለለ",
+          "t": "lälä",
+          "gl": ""
+        },
+        {
+          "g": "ዓመት",
+          "t": "ʿamätə",
+          "gl": ""
+        },
+        {
+          "g": "ዘይከውን",
+          "t": "zäyəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ምግባሩ",
+          "t": "məgəbaru",
+          "gl": ""
+        },
+        {
+          "g": "ይትቀነዩ",
+          "t": "yətəqänäyu",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይትመየጡ",
+          "t": "wäʾiyətəmäyäṭu",
+          "gl": ""
+        },
+        {
+          "g": "አላ",
+          "t": "ʾäla",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ሠርዐ",
+          "t": "śärəʿä",
+          "gl": ""
+        },
+        {
+          "g": "አምላክ",
+          "t": "ʾäməlakə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ዝ",
+          "t": "zə",
+          "gl": ""
+        },
+        {
+          "g": "ይትገበር",
+          "t": "yətəgäbärə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "geez": "ወርእዩ፡ እፎ፡ አብሕርት፡ ወአፍላግ፡ ኅቡረ፡ ይፌጽሙ፡ ኵሎ፡ ግብሮሙ።",
+      "translation": "And behold how the sea and the rivers in like manner accomplish and change not their tasks from His commandments.",
+      "words": [
+        {
+          "g": "ወርእዩ",
+          "t": "wärəʾəyu",
+          "gl": ""
+        },
+        {
+          "g": "እፎ",
+          "t": "ʾəfo",
+          "gl": ""
+        },
+        {
+          "g": "አብሕርት",
+          "t": "ʾäbəḥərətə",
+          "gl": ""
+        },
+        {
+          "g": "ወአፍላግ",
+          "t": "wäʾäfəlagə",
+          "gl": ""
+        },
+        {
+          "g": "ኅቡረ",
+          "t": "ḫəburä",
+          "gl": ""
+        },
+        {
+          "g": "ይፌጽሙ",
+          "t": "yəfeṣəmu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ግብሮሙ",
+          "t": "gəbəromu",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 4,
+      "geez": "ወአንትሙሰ፡ ኢተዐገሥክሙ፡ ወኢገበርክሙ፡ ትእዛዘ፡ እግዚእ፡ አላ፡ ተዐደውክሙ፡ ወሐመይክሙ፡ ዐቢያተ፡ ወድሩካተ፡ ቃላተ፡ በአፍ፡ ርኵስት፡ ዘዚኣክሙ፡ ላዕለ፡ ዕበየ፡ ዚኣሁ፡ ይቡሳነ፡ ልብ፡ ኢትከውነክሙ፡ ሰላም።",
+      "translation": "But ye—ye have not been steadfast, nor done the commandments of the Lord, But ye have turned away and spoken proud and hard words With your impure mouths against His greatness. Oh, ye hard-hearted, ye shall find no peace.",
+      "words": [
+        {
+          "g": "ወአንትሙሰ",
+          "t": "wäʾänətəmusä",
+          "gl": ""
+        },
+        {
+          "g": "ኢተዐገሥክሙ",
+          "t": "ʾitäʿägäśəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢገበርክሙ",
+          "t": "wäʾigäbärəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ትእዛዘ",
+          "t": "təʾəzazä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚእ",
+          "t": "ʾəgəziʾə",
+          "gl": ""
+        },
+        {
+          "g": "አላ",
+          "t": "ʾäla",
+          "gl": ""
+        },
+        {
+          "g": "ተዐደውክሙ",
+          "t": "täʿädäwəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወሐመይክሙ",
+          "t": "wäḥämäyəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ዐቢያተ",
+          "t": "ʿäbiyatä",
+          "gl": ""
+        },
+        {
+          "g": "ወድሩካተ",
+          "t": "wädərukatä",
+          "gl": ""
+        },
+        {
+          "g": "ቃላተ",
+          "t": "qalatä",
+          "gl": ""
+        },
+        {
+          "g": "በአፍ",
+          "t": "bäʾäfə",
+          "gl": ""
+        },
+        {
+          "g": "ርኵስት",
+          "t": "rəkwəsətə",
+          "gl": ""
+        },
+        {
+          "g": "ዘዚኣክሙ",
+          "t": "zäziʾakəmu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ዕበየ",
+          "t": "ʿəbäyä",
+          "gl": ""
+        },
+        {
+          "g": "ዚኣሁ",
+          "t": "ziʾahu",
+          "gl": ""
+        },
+        {
+          "g": "ይቡሳነ",
+          "t": "yəbusanä",
+          "gl": ""
+        },
+        {
+          "g": "ልብ",
+          "t": "ləbə",
+          "gl": ""
+        },
+        {
+          "g": "ኢትከውነክሙ",
+          "t": "ʾitəkäwənäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ሰላም",
+          "t": "sälamə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 5,
+      "geez": "ወበእንተ፡ ዝ፡ አንትሙ፡ መዋዕሊክሙ፡ ትረግሙ፡ ወዓመታተ፡ ሕይወትክሙ፡ ታሀጕሉ፡ ወይበዝኅ፡ መርገም፡ ዘለዓለም፡ ወኢይከውነክሙ፡ ሣህል።",
+      "translation": "Therefore shall ye execrate your days, And the years of your life shall perish, And the years of your destruction shall be multiplied in eternal execration, And ye shall find no mercy. 6a. In those days ye shall make your names an eternal execration unto all the righteous, b. And by you shall all who curse, curse, And all the sinners and godless shall imprecate by you, 7c. And for you the godless there shall be a curse. 6d. And all the . . . shall rejoice, e. And there shall be forgiveness of sins, f. And every mercy and peace and forbearance: g. There shall be salvation unto them, a goodly light. i. And for all of you sinners there shall be no salvation, j. But on you all shall abide a curse. 7a. But for the elect there shall be light and joy and peace, b. And they shall inherit the earth.",
+      "words": [
+        {
+          "g": "ወበእንተ",
+          "t": "wäbäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ዝ",
+          "t": "zə",
+          "gl": ""
+        },
+        {
+          "g": "አንትሙ",
+          "t": "ʾänətəmu",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕሊክሙ",
+          "t": "mäwaʿəlikəmu",
+          "gl": ""
+        },
+        {
+          "g": "ትረግሙ",
+          "t": "tərägəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወዓመታተ",
+          "t": "wäʿamätatä",
+          "gl": ""
+        },
+        {
+          "g": "ሕይወትክሙ",
+          "t": "ḥəyəwätəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ታሀጕሉ",
+          "t": "tahägwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ወይበዝኅ",
+          "t": "wäyəbäzəḫə",
+          "gl": ""
+        },
+        {
+          "g": "መርገም",
+          "t": "märəgämə",
+          "gl": ""
+        },
+        {
+          "g": "ዘለዓለም",
+          "t": "zäläʿalämə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይከውነክሙ",
+          "t": "wäʾiyəkäwənäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ሣህል",
+          "t": "śahələ",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 6,
+      "geez": "ወበውእቱ፡ መዋዕል፡ ትሁቡ፡ ሰላመ፡ ዚኣክሙ፡ በርግመት፡ ዘለዓለም፡ ለኵሉ፡ ጻድቃን፡ ወኪያክሙ፡ ይረግሙ፡ ኃጥኣን፡ ዘልፈ፡ ወለክሙ፡ ኅቡረ፡ ምስለ፡ ኃጥኣን።",
+      "translation": "In those days ye shall make your names an eternal execration unto all the righteous, And by you shall all who curse, curse, And all the sinners and godless shall imprecate by you, And all the . . . shall rejoice, And there shall be forgiveness of sins, And every mercy and peace and forbearance: There shall be salvation unto them, a goodly light. And for all of you sinners there shall be no salvation, But on you all shall abide a curse.",
+      "words": [
+        {
+          "g": "ወበውእቱ",
+          "t": "wäbäwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕል",
+          "t": "mäwaʿələ",
+          "gl": ""
+        },
+        {
+          "g": "ትሁቡ",
+          "t": "təhubu",
+          "gl": ""
+        },
+        {
+          "g": "ሰላመ",
+          "t": "sälamä",
+          "gl": ""
+        },
+        {
+          "g": "ዚኣክሙ",
+          "t": "ziʾakəmu",
+          "gl": ""
+        },
+        {
+          "g": "በርግመት",
+          "t": "bärəgəmätə",
+          "gl": ""
+        },
+        {
+          "g": "ዘለዓለም",
+          "t": "zäläʿalämə",
+          "gl": ""
+        },
+        {
+          "g": "ለኵሉ",
+          "t": "läkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ጻድቃን",
+          "t": "ṣadəqanə",
+          "gl": ""
+        },
+        {
+          "g": "ወኪያክሙ",
+          "t": "wäkiyakəmu",
+          "gl": ""
+        },
+        {
+          "g": "ይረግሙ",
+          "t": "yərägəmu",
+          "gl": ""
+        },
+        {
+          "g": "ኃጥኣን",
+          "t": "ḫaṭəʾanə",
+          "gl": ""
+        },
+        {
+          "g": "ዘልፈ",
+          "t": "zäləfä",
+          "gl": ""
+        },
+        {
+          "g": "ወለክሙ",
+          "t": "wäläkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ኅቡረ",
+          "t": "ḫəburä",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኃጥኣን",
+          "t": "ḫaṭəʾanə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 7,
+      "geez": "ወለኅሩያንሰ፡ ይከውን፡ ብርሃን፡ ወፍሥሓ፡ ወሰላም፡ ወእሙንቱ፡ ይወርስዋ፡ ለምድር፡ ወለክሙሰ፡ ረሲዓን፡ ይከውነክሙ፡ ርግመት።",
+      "translation": "And for you the godless there shall be a curse. But for the elect there shall be light and joy and peace, And they shall inherit the earth.",
+      "words": [
+        {
+          "g": "ወለኅሩያንሰ",
+          "t": "wäläḫəruyanəsä",
+          "gl": ""
+        },
+        {
+          "g": "ይከውን",
+          "t": "yəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ብርሃን",
+          "t": "bərəhanə",
+          "gl": ""
+        },
+        {
+          "g": "ወፍሥሓ",
+          "t": "wäfəśəḥa",
+          "gl": ""
+        },
+        {
+          "g": "ወሰላም",
+          "t": "wäsälamə",
+          "gl": ""
+        },
+        {
+          "g": "ወእሙንቱ",
+          "t": "wäʾəmunətu",
+          "gl": ""
+        },
+        {
+          "g": "ይወርስዋ",
+          "t": "yəwärəsəwa",
+          "gl": ""
+        },
+        {
+          "g": "ለምድር",
+          "t": "lämədərə",
+          "gl": ""
+        },
+        {
+          "g": "ወለክሙሰ",
+          "t": "wäläkəmusä",
+          "gl": ""
+        },
+        {
+          "g": "ረሲዓን",
+          "t": "räsiʿanə",
+          "gl": ""
+        },
+        {
+          "g": "ይከውነክሙ",
+          "t": "yəkäwənäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ርግመት",
+          "t": "rəgəmätə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 8,
+      "geez": "ወእመሂ፡ ይትወሀቦሙ፡ ለኅሩያን፡ ጥበብ፡ ወኵሎሙ፡ እሎንቱ፡ የሐይዉ፡ ወኢይደግሙ፡ አብሶ፡ ኢ፡ በረሲዕ፡ ወኢ፡ በትዕቢት፡ አላ፡ ይገንዩ፡ ዘቦሙ፡ ጥበብ።",
+      "translation": "And then there shall be bestowed upon the elect wisdom, And they shall all live and never again sin, Either through ungodliness or through pride: But they who are wise shall be humble.",
+      "words": [
+        {
+          "g": "ወእመሂ",
+          "t": "wäʾəmähi",
+          "gl": ""
+        },
+        {
+          "g": "ይትወሀቦሙ",
+          "t": "yətəwähäbomu",
+          "gl": ""
+        },
+        {
+          "g": "ለኅሩያን",
+          "t": "läḫəruyanə",
+          "gl": ""
+        },
+        {
+          "g": "ጥበብ",
+          "t": "ṭəbäbə",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎሙ",
+          "t": "wäkwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "እሎንቱ",
+          "t": "ʾəlonətu",
+          "gl": ""
+        },
+        {
+          "g": "የሐይዉ",
+          "t": "yäḥäyəwu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይደግሙ",
+          "t": "wäʾiyədägəmu",
+          "gl": ""
+        },
+        {
+          "g": "አብሶ",
+          "t": "ʾäbəso",
+          "gl": ""
+        },
+        {
+          "g": "ኢ",
+          "t": "ʾi",
+          "gl": ""
+        },
+        {
+          "g": "በረሲዕ",
+          "t": "bäräsiʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢ",
+          "t": "wäʾi",
+          "gl": ""
+        },
+        {
+          "g": "በትዕቢት",
+          "t": "bätəʿəbitə",
+          "gl": ""
+        },
+        {
+          "g": "አላ",
+          "t": "ʾäla",
+          "gl": ""
+        },
+        {
+          "g": "ይገንዩ",
+          "t": "yəgänəyu",
+          "gl": ""
+        },
+        {
+          "g": "ዘቦሙ",
+          "t": "zäbomu",
+          "gl": ""
+        },
+        {
+          "g": "ጥበብ",
+          "t": "ṭəbäbə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 9,
+      "geez": "ወኢይደግሙ፡ አብሶ፡ ወኢይትኴነኑ፡ ኵሎ፡ መዋዕለ፡ ሕይወቶሙ፡ ወኢይመውቱ፡ በመዓት፡ ወኢ፡ በመቅሠፍት፡ አላ፡ ኍልቈ፡ መዋዕለ፡ ሕይወቶሙ፡ ይፌጽሙ፡ ወይልህቅ፡ ሕይወቶሙ፡ በሰላም፡ ወዓመታተ፡ ፍሥሓሆሙ፡ ይበዝኁ፡ በሐሤት፡ ወበሰላም፡ ዘለዓለም፡ ውስተ፡ ኵሉ፡ መዋዕለ፡ ሕይወቶሙ።",
+      "translation": "And they shall not again transgress, Nor shall they sin all the days of their life, Nor shall they die of (the divine) anger or wrath, But they shall complete the number of the days of their life. And their lives shall be increased in peace, And the years of their joy shall be multiplied, In eternal gladness and peace, All the days of their life.",
+      "words": [
+        {
+          "g": "ወኢይደግሙ",
+          "t": "wäʾiyədägəmu",
+          "gl": ""
+        },
+        {
+          "g": "አብሶ",
+          "t": "ʾäbəso",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይትኴነኑ",
+          "t": "wäʾiyətəkwenänu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕለ",
+          "t": "mäwaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሕይወቶሙ",
+          "t": "ḥəyəwätomu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይመውቱ",
+          "t": "wäʾiyəmäwətu",
+          "gl": ""
+        },
+        {
+          "g": "በመዓት",
+          "t": "bämäʿatə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢ",
+          "t": "wäʾi",
+          "gl": ""
+        },
+        {
+          "g": "በመቅሠፍት",
+          "t": "bämäqəśäfətə",
+          "gl": ""
+        },
+        {
+          "g": "አላ",
+          "t": "ʾäla",
+          "gl": ""
+        },
+        {
+          "g": "ኍልቈ",
+          "t": "ḫwələqwä",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕለ",
+          "t": "mäwaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሕይወቶሙ",
+          "t": "ḥəyəwätomu",
+          "gl": ""
+        },
+        {
+          "g": "ይፌጽሙ",
+          "t": "yəfeṣəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወይልህቅ",
+          "t": "wäyələhəqə",
+          "gl": ""
+        },
+        {
+          "g": "ሕይወቶሙ",
+          "t": "ḥəyəwätomu",
+          "gl": ""
+        },
+        {
+          "g": "በሰላም",
+          "t": "bäsälamə",
+          "gl": ""
+        },
+        {
+          "g": "ወዓመታተ",
+          "t": "wäʿamätatä",
+          "gl": ""
+        },
+        {
+          "g": "ፍሥሓሆሙ",
+          "t": "fəśəḥahomu",
+          "gl": ""
+        },
+        {
+          "g": "ይበዝኁ",
+          "t": "yəbäzəḫu",
+          "gl": ""
+        },
+        {
+          "g": "በሐሤት",
+          "t": "bäḥäśetə",
+          "gl": ""
+        },
+        {
+          "g": "ወበሰላም",
+          "t": "wäbäsälamə",
+          "gl": ""
+        },
+        {
+          "g": "ዘለዓለም",
+          "t": "zäläʿalämə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕለ",
+          "t": "mäwaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሕይወቶሙ",
+          "t": "ḥəyəwätomu",
+          "gl": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,568 @@
+{
+  "book": "1En",
+  "chapter": 86,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወካዕበ፡ ርኢኩ፡ በአዕይንትየ፡ እንዘ፡ እነውም፡ ወርኢኩ፡ ሰማየ፡ መልዕልተ፡ ወነዋ፡ አሐዱ፡ ኮከብ፡ ወድቀ፡ እምሰማይ፡ ወይትሌዐል፡ ወይበልዕ፡ ወይትረአይ፡ ማእከለ፡ እልኩ፡ አልሕምት።",
+      "translation": "And again I saw with mine eyes as I slept, and I saw the heaven above, and behold a star fell from heaven, and it arose and eat and pastured amongst those oxen.",
+      "words": [
+        {
+          "g": "ወካዕበ",
+          "t": "wäkaʿəbä",
+          "gl": ""
+        },
+        {
+          "g": "ርኢኩ",
+          "t": "rəʾiku",
+          "gl": ""
+        },
+        {
+          "g": "በአዕይንትየ",
+          "t": "bäʾäʿəyənətəyä",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "እነውም",
+          "t": "ʾənäwəmə",
+          "gl": ""
+        },
+        {
+          "g": "ወርኢኩ",
+          "t": "wärəʾiku",
+          "gl": ""
+        },
+        {
+          "g": "ሰማየ",
+          "t": "sämayä",
+          "gl": ""
+        },
+        {
+          "g": "መልዕልተ",
+          "t": "mäləʿələtä",
+          "gl": ""
+        },
+        {
+          "g": "ወነዋ",
+          "t": "wänäwa",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "ኮከብ",
+          "t": "kokäbə",
+          "gl": ""
+        },
+        {
+          "g": "ወድቀ",
+          "t": "wädəqä",
+          "gl": ""
+        },
+        {
+          "g": "እምሰማይ",
+          "t": "ʾəməsämayə",
+          "gl": ""
+        },
+        {
+          "g": "ወይትሌዐል",
+          "t": "wäyətəleʿälə",
+          "gl": ""
+        },
+        {
+          "g": "ወይበልዕ",
+          "t": "wäyəbäləʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወይትረአይ",
+          "t": "wäyətəräʾäyə",
+          "gl": ""
+        },
+        {
+          "g": "ማእከለ",
+          "t": "maʾəkälä",
+          "gl": ""
+        },
+        {
+          "g": "እልኩ",
+          "t": "ʾələku",
+          "gl": ""
+        },
+        {
+          "g": "አልሕምት",
+          "t": "ʾäləḥəmətə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "geez": "ወእም፡ ዝ፡ ርኢኩ፡ አልሕምተ፡ ዐቢያነ፡ ወጸሊማነ፡ ወናሁ፡ ኵሎሙ፡ ወለጡ፡ ምዕያሞሙ፡ ወምርአዮሙ፡ ወእምጣዕዋሆሙ፡ ወአኀዙ፡ የዐውይዉ፡ አሐዱ፡ ምስለ፡ ካልኡ።",
+      "translation": "And after that I saw the large and the black oxen, and behold they all changed their stalls and pastures and their cattle, and began to live with each other.",
+      "words": [
+        {
+          "g": "ወእም",
+          "t": "wäʾəmə",
+          "gl": ""
+        },
+        {
+          "g": "ዝ",
+          "t": "zə",
+          "gl": ""
+        },
+        {
+          "g": "ርኢኩ",
+          "t": "rəʾiku",
+          "gl": ""
+        },
+        {
+          "g": "አልሕምተ",
+          "t": "ʾäləḥəmətä",
+          "gl": ""
+        },
+        {
+          "g": "ዐቢያነ",
+          "t": "ʿäbiyanä",
+          "gl": ""
+        },
+        {
+          "g": "ወጸሊማነ",
+          "t": "wäṣälimanä",
+          "gl": ""
+        },
+        {
+          "g": "ወናሁ",
+          "t": "wänahu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ወለጡ",
+          "t": "wäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ምዕያሞሙ",
+          "t": "məʿəyamomu",
+          "gl": ""
+        },
+        {
+          "g": "ወምርአዮሙ",
+          "t": "wämərəʾäyomu",
+          "gl": ""
+        },
+        {
+          "g": "ወእምጣዕዋሆሙ",
+          "t": "wäʾəməṭaʿəwahomu",
+          "gl": ""
+        },
+        {
+          "g": "ወአኀዙ",
+          "t": "wäʾäḫäzu",
+          "gl": ""
+        },
+        {
+          "g": "የዐውይዉ",
+          "t": "yäʿäwəyəwu",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ካልኡ",
+          "t": "kaləʾu",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "geez": "ወካዕበ፡ ርኢኩ፡ በራእይ፡ ወነጸርክዎ፡ ለሰማይ፡ ወነዋ፡ ርኢኩ፡ ከዋክብተ፡ ብዙኃነ፡ ወወረዱ፡ ወተገድፉ፡ እምሰማይ፡ ኀበ፡ ዝኩ፡ ኮከብ፡ ቀዳማዊ፡ ወማእከለ፡ እልኩ፡ ጣዕዋ፡ ወአልሕምተ፡ ኮኑ፡ ምስሌሆሙ፡ ይትረአዩ፡ ማእከሎሙ።",
+      "translation": "And again I saw in the vision, and looked towards the heaven, and behold I saw many stars descend and cast themselves down from heaven to that first star, and they became bulls amongst those cattle and pastured with them [amongst them].",
+      "words": [
+        {
+          "g": "ወካዕበ",
+          "t": "wäkaʿəbä",
+          "gl": ""
+        },
+        {
+          "g": "ርኢኩ",
+          "t": "rəʾiku",
+          "gl": ""
+        },
+        {
+          "g": "በራእይ",
+          "t": "bäraʾəyə",
+          "gl": ""
+        },
+        {
+          "g": "ወነጸርክዎ",
+          "t": "wänäṣärəkəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለሰማይ",
+          "t": "läsämayə",
+          "gl": ""
+        },
+        {
+          "g": "ወነዋ",
+          "t": "wänäwa",
+          "gl": ""
+        },
+        {
+          "g": "ርኢኩ",
+          "t": "rəʾiku",
+          "gl": ""
+        },
+        {
+          "g": "ከዋክብተ",
+          "t": "käwakəbətä",
+          "gl": ""
+        },
+        {
+          "g": "ብዙኃነ",
+          "t": "bəzuḫanä",
+          "gl": ""
+        },
+        {
+          "g": "ወወረዱ",
+          "t": "wäwärädu",
+          "gl": ""
+        },
+        {
+          "g": "ወተገድፉ",
+          "t": "wätägädəfu",
+          "gl": ""
+        },
+        {
+          "g": "እምሰማይ",
+          "t": "ʾəməsämayə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ዝኩ",
+          "t": "zəku",
+          "gl": ""
+        },
+        {
+          "g": "ኮከብ",
+          "t": "kokäbə",
+          "gl": ""
+        },
+        {
+          "g": "ቀዳማዊ",
+          "t": "qädamawi",
+          "gl": ""
+        },
+        {
+          "g": "ወማእከለ",
+          "t": "wämaʾəkälä",
+          "gl": ""
+        },
+        {
+          "g": "እልኩ",
+          "t": "ʾələku",
+          "gl": ""
+        },
+        {
+          "g": "ጣዕዋ",
+          "t": "ṭaʿəwa",
+          "gl": ""
+        },
+        {
+          "g": "ወአልሕምተ",
+          "t": "wäʾäləḥəmətä",
+          "gl": ""
+        },
+        {
+          "g": "ኮኑ",
+          "t": "konu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሆሙ",
+          "t": "məsəlehomu",
+          "gl": ""
+        },
+        {
+          "g": "ይትረአዩ",
+          "t": "yətəräʾäyu",
+          "gl": ""
+        },
+        {
+          "g": "ማእከሎሙ",
+          "t": "maʾəkälomu",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 4,
+      "geez": "ወነጸርክዎሙ፡ ወነዋ፡ ኵሎሙ፡ አውፅኡ፡ ኀፍረታቲሆሙ፡ ከመ፡ አፍራስ፡ ወአኀዙ፡ ይዕርጉ፡ ዲበ፡ ዕጓላተ፡ አልሕምት፡ ወፀንሳ፡ ኵሎን፡ ወወለዳ፡ ነጌያተ፡ ወአግማለ፡ ወአእዱገ።",
+      "translation": "And I looked at them and saw, and behold they all let out their privy members, like horses, and began to cover the cows of the oxen, and they all became pregnant and bare elephants, camels, and asses.",
+      "words": [
+        {
+          "g": "ወነጸርክዎሙ",
+          "t": "wänäṣärəkəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ወነዋ",
+          "t": "wänäwa",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "አውፅኡ",
+          "t": "ʾäwəṣ́əʾu",
+          "gl": ""
+        },
+        {
+          "g": "ኀፍረታቲሆሙ",
+          "t": "ḫäfərätatihomu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "አፍራስ",
+          "t": "ʾäfərasə",
+          "gl": ""
+        },
+        {
+          "g": "ወአኀዙ",
+          "t": "wäʾäḫäzu",
+          "gl": ""
+        },
+        {
+          "g": "ይዕርጉ",
+          "t": "yəʿərəgu",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "ዕጓላተ",
+          "t": "ʿəgwalatä",
+          "gl": ""
+        },
+        {
+          "g": "አልሕምት",
+          "t": "ʾäləḥəmətə",
+          "gl": ""
+        },
+        {
+          "g": "ወፀንሳ",
+          "t": "wäṣ́änəsa",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎን",
+          "t": "kwəlonə",
+          "gl": ""
+        },
+        {
+          "g": "ወወለዳ",
+          "t": "wäwäläda",
+          "gl": ""
+        },
+        {
+          "g": "ነጌያተ",
+          "t": "nägeyatä",
+          "gl": ""
+        },
+        {
+          "g": "ወአግማለ",
+          "t": "wäʾägəmalä",
+          "gl": ""
+        },
+        {
+          "g": "ወአእዱገ",
+          "t": "wäʾäʾədugä",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 5,
+      "geez": "ወኵሎሙ፡ አልሕምት፡ ፈርህዎሙ፡ ወደንገፁ፡ እምኔሆሙ፡ ወአኀዙ፡ እንዘ፡ ይኔዝሩ፡ በስነኒሆሙ፡ ወይውኅጡ፡ ወይወግኡ፡ በአቅርንቲሆሙ።",
+      "translation": "And all the oxen feared them and were affrighted at them, and began to bite with their teeth and to devour, and to gore with their horns.",
+      "words": [
+        {
+          "g": "ወኵሎሙ",
+          "t": "wäkwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "አልሕምት",
+          "t": "ʾäləḥəmətə",
+          "gl": ""
+        },
+        {
+          "g": "ፈርህዎሙ",
+          "t": "färəhəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ወደንገፁ",
+          "t": "wädänəgäṣ́u",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሆሙ",
+          "t": "ʾəmənehomu",
+          "gl": ""
+        },
+        {
+          "g": "ወአኀዙ",
+          "t": "wäʾäḫäzu",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ይኔዝሩ",
+          "t": "yənezəru",
+          "gl": ""
+        },
+        {
+          "g": "በስነኒሆሙ",
+          "t": "bäsənänihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወይውኅጡ",
+          "t": "wäyəwəḫəṭu",
+          "gl": ""
+        },
+        {
+          "g": "ወይወግኡ",
+          "t": "wäyəwägəʾu",
+          "gl": ""
+        },
+        {
+          "g": "በአቅርንቲሆሙ",
+          "t": "bäʾäqərənətihomu",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 6,
+      "geez": "ወአኀዙ፡ እንከ፡ ይበልዕዎሙ፡ ለእልኩ፡ አልሕምት፡ ወነዋ፡ ኵሎሙ፡ ውሉደ፡ ምድር፡ አኀዙ፡ ይርዓዱ፡ ወያድለቀልቁ፡ እምኔሆሙ፡ ወይንፍጹ።",
+      "translation": "And they began, moreover, to devour those oxen; and behold all the children of the earth began to tremble and quake before them and to flee from them.",
+      "words": [
+        {
+          "g": "ወአኀዙ",
+          "t": "wäʾäḫäzu",
+          "gl": ""
+        },
+        {
+          "g": "እንከ",
+          "t": "ʾənəkä",
+          "gl": ""
+        },
+        {
+          "g": "ይበልዕዎሙ",
+          "t": "yəbäləʿəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእልኩ",
+          "t": "läʾələku",
+          "gl": ""
+        },
+        {
+          "g": "አልሕምት",
+          "t": "ʾäləḥəmətə",
+          "gl": ""
+        },
+        {
+          "g": "ወነዋ",
+          "t": "wänäwa",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ውሉደ",
+          "t": "wəludä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "አኀዙ",
+          "t": "ʾäḫäzu",
+          "gl": ""
+        },
+        {
+          "g": "ይርዓዱ",
+          "t": "yərəʿadu",
+          "gl": ""
+        },
+        {
+          "g": "ወያድለቀልቁ",
+          "t": "wäyadəläqäləqu",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሆሙ",
+          "t": "ʾəmənehomu",
+          "gl": ""
+        },
+        {
+          "g": "ወይንፍጹ",
+          "t": "wäyənəfəṣu",
+          "gl": ""
+        }
+      ]
+    }
+  ]
+}

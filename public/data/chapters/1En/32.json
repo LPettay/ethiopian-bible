@@ -1,0 +1,643 @@
+{
+  "book": "1En",
+  "chapter": 32,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወእምድኅረ፡ እሉ፡ አፈው፡ ለመስዕ፡ እንዘ፡ እኔጽር፡ መልዕልተ፡ አድባር፡ ርኢኩ፡ ሰብዓተ፡ አድባረ፡ ምሉኣነ፡ ሰንበልት፡ ቅድው፡ ወዕፀወ፡ መዐዛ፡ ወቀናንሞስ፡ ወፕፕሬ።",
+      "translation": "And after these fragrant odours, as I looked towards the north over the mountains I saw seven mountains full of choice nard and fragrant trees and cinnamon and pepper. 1. To the north-east I beheld seven mountains full of choice nard and mastic and cinnamon and pepper",
+      "words": [
+        {
+          "g": "ወእምድኅረ",
+          "t": "wäʾəmədəḫərä",
+          "gl": ""
+        },
+        {
+          "g": "እሉ",
+          "t": "ʾəlu",
+          "gl": ""
+        },
+        {
+          "g": "አፈው",
+          "t": "ʾäfäwə",
+          "gl": ""
+        },
+        {
+          "g": "ለመስዕ",
+          "t": "lämäsəʿə",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "እኔጽር",
+          "t": "ʾəneṣərə",
+          "gl": ""
+        },
+        {
+          "g": "መልዕልተ",
+          "t": "mäləʿələtä",
+          "gl": ""
+        },
+        {
+          "g": "አድባር",
+          "t": "ʾädəbarə",
+          "gl": ""
+        },
+        {
+          "g": "ርኢኩ",
+          "t": "rəʾiku",
+          "gl": ""
+        },
+        {
+          "g": "ሰብዓተ",
+          "t": "säbəʿatä",
+          "gl": ""
+        },
+        {
+          "g": "አድባረ",
+          "t": "ʾädəbarä",
+          "gl": ""
+        },
+        {
+          "g": "ምሉኣነ",
+          "t": "məluʾanä",
+          "gl": ""
+        },
+        {
+          "g": "ሰንበልት",
+          "t": "sänəbälətə",
+          "gl": ""
+        },
+        {
+          "g": "ቅድው",
+          "t": "qədəwə",
+          "gl": ""
+        },
+        {
+          "g": "ወዕፀወ",
+          "t": "wäʿəṣ́äwä",
+          "gl": ""
+        },
+        {
+          "g": "መዐዛ",
+          "t": "mäʿäza",
+          "gl": ""
+        },
+        {
+          "g": "ወቀናንሞስ",
+          "t": "wäqänanəmosə",
+          "gl": ""
+        },
+        {
+          "g": "ወፕፕሬ",
+          "t": "wäpəpəre",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "geez": "ወእምህየ፡ ሖርኩ፡ መልዕልተ፡ ርእሶሙ፡ ለእልክቱ፡ አድባር፡ እንዘ፡ ርሑቅ፡ ውእቱ፡ ለጽባሕ፡ ወኀለፍኩ፡ ዲበ፡ ባሕረ፡ ኤርትራ፡ ወእምኔሁ፡ ርሑቀ፡ ኮንኩ፡ ወኀለፍኩ፡ መልዕልቶ፡ ለመልአክ፡ ዙጥኤል።",
+      "translation": "And thence I went over the summits of all these mountains, far towards the east of the earth, and passed above the Erythraean sea and went far from it, and passed over the angel Zotîêl. Ethiopic Greek",
+      "words": [
+        {
+          "g": "ወእምህየ",
+          "t": "wäʾəməhəyä",
+          "gl": ""
+        },
+        {
+          "g": "ሖርኩ",
+          "t": "ḥorəku",
+          "gl": ""
+        },
+        {
+          "g": "መልዕልተ",
+          "t": "mäləʿələtä",
+          "gl": ""
+        },
+        {
+          "g": "ርእሶሙ",
+          "t": "rəʾəsomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእልክቱ",
+          "t": "läʾələkətu",
+          "gl": ""
+        },
+        {
+          "g": "አድባር",
+          "t": "ʾädəbarə",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ርሑቅ",
+          "t": "rəḥuqə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ለጽባሕ",
+          "t": "läṣəbaḥə",
+          "gl": ""
+        },
+        {
+          "g": "ወኀለፍኩ",
+          "t": "wäḫäläfəku",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "ባሕረ",
+          "t": "baḥərä",
+          "gl": ""
+        },
+        {
+          "g": "ኤርትራ",
+          "t": "ʾerətəra",
+          "gl": ""
+        },
+        {
+          "g": "ወእምኔሁ",
+          "t": "wäʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "ርሑቀ",
+          "t": "rəḥuqä",
+          "gl": ""
+        },
+        {
+          "g": "ኮንኩ",
+          "t": "konəku",
+          "gl": ""
+        },
+        {
+          "g": "ወኀለፍኩ",
+          "t": "wäḫäläfəku",
+          "gl": ""
+        },
+        {
+          "g": "መልዕልቶ",
+          "t": "mäləʿələto",
+          "gl": ""
+        },
+        {
+          "g": "ለመልአክ",
+          "t": "lämäləʾäkə",
+          "gl": ""
+        },
+        {
+          "g": "ዙጥኤል",
+          "t": "zuṭəʾelə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "geez": "ወመጻእኩ፡ ውስተ፡ ገነተ፡ ጽድቅ፡ ወርኢኩ፡ ከሃ፡ ከሃቲሆሙ፡ ለእልክቱ፡ ዕፀው፡ ዕፀወ፡ ብዙኃነ፡ ወዐቢያነ፡ ይበቍሉ፡ በህየ፡ ወእንዘ፡ ጼናሆሙ፡ ሠናይ፡ ዐቢያን፡ ወሥኖሙ፡ ብዙኅ፡ ወስቡሓን፡ ወዕፀ፡ ጥበብ፡ ዘእምኔሁ፡ በሊዖሙ፡ የአምርዋ፡ ለጥበብ፡ ዐባይ።",
+      "translation": "And I came to the Garden of Righteousness, and saw beyond those trees many large trees growing there and of goodly fragrance, large, very beautiful and glorious, and the tree of wisdom whereof they eat and know great wisdom. 3. And I came to the Garden of Righteousness, and from afar off trees more numerous than these trees and great—†two† trees there, very great, beautiful, and glorious, and magnificent, and the tree of knowledge, whose holy fruit they eat and know great wisdom.",
+      "words": [
+        {
+          "g": "ወመጻእኩ",
+          "t": "wämäṣaʾəku",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ገነተ",
+          "t": "gänätä",
+          "gl": ""
+        },
+        {
+          "g": "ጽድቅ",
+          "t": "ṣədəqə",
+          "gl": ""
+        },
+        {
+          "g": "ወርኢኩ",
+          "t": "wärəʾiku",
+          "gl": ""
+        },
+        {
+          "g": "ከሃ",
+          "t": "käha",
+          "gl": ""
+        },
+        {
+          "g": "ከሃቲሆሙ",
+          "t": "kähatihomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእልክቱ",
+          "t": "läʾələkətu",
+          "gl": ""
+        },
+        {
+          "g": "ዕፀው",
+          "t": "ʿəṣ́äwə",
+          "gl": ""
+        },
+        {
+          "g": "ዕፀወ",
+          "t": "ʿəṣ́äwä",
+          "gl": ""
+        },
+        {
+          "g": "ብዙኃነ",
+          "t": "bəzuḫanä",
+          "gl": ""
+        },
+        {
+          "g": "ወዐቢያነ",
+          "t": "wäʿäbiyanä",
+          "gl": ""
+        },
+        {
+          "g": "ይበቍሉ",
+          "t": "yəbäqwəlu",
+          "gl": ""
+        },
+        {
+          "g": "በህየ",
+          "t": "bähəyä",
+          "gl": ""
+        },
+        {
+          "g": "ወእንዘ",
+          "t": "wäʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ጼናሆሙ",
+          "t": "ṣenahomu",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይ",
+          "t": "śänayə",
+          "gl": ""
+        },
+        {
+          "g": "ዐቢያን",
+          "t": "ʿäbiyanə",
+          "gl": ""
+        },
+        {
+          "g": "ወሥኖሙ",
+          "t": "wäśənomu",
+          "gl": ""
+        },
+        {
+          "g": "ብዙኅ",
+          "t": "bəzuḫə",
+          "gl": ""
+        },
+        {
+          "g": "ወስቡሓን",
+          "t": "wäsəbuḥanə",
+          "gl": ""
+        },
+        {
+          "g": "ወዕፀ",
+          "t": "wäʿəṣ́ä",
+          "gl": ""
+        },
+        {
+          "g": "ጥበብ",
+          "t": "ṭəbäbə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምኔሁ",
+          "t": "zäʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "በሊዖሙ",
+          "t": "bäliʿomu",
+          "gl": ""
+        },
+        {
+          "g": "የአምርዋ",
+          "t": "yäʾämərəwa",
+          "gl": ""
+        },
+        {
+          "g": "ለጥበብ",
+          "t": "läṭəbäbə",
+          "gl": ""
+        },
+        {
+          "g": "ዐባይ",
+          "t": "ʿäbayə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 4,
+      "geez": "ወይመስል፡ ሐመረ፡ ጽራዕ፡ ወፍሬሁኒ፡ ከመ፡ አስካለ፡ ወይን፡ ጥቀ፡ ሠናይ፡ ወጼናሁ፡ ለውእቱ፡ ዕፅ፡ የሐውር፡ ወይበጽሕ፡ ነዋኅ።",
+      "translation": "That tree is in height like the fir, and its leaves are like (those of) the Carob tree: and its fruit is like the clusters of the vine, very beautiful: and the fragrance of the tree penetrates afar.",
+      "words": [
+        {
+          "g": "ወይመስል",
+          "t": "wäyəmäsələ",
+          "gl": ""
+        },
+        {
+          "g": "ሐመረ",
+          "t": "ḥämärä",
+          "gl": ""
+        },
+        {
+          "g": "ጽራዕ",
+          "t": "ṣəraʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወፍሬሁኒ",
+          "t": "wäfərehuni",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "አስካለ",
+          "t": "ʾäsəkalä",
+          "gl": ""
+        },
+        {
+          "g": "ወይን",
+          "t": "wäyənə",
+          "gl": ""
+        },
+        {
+          "g": "ጥቀ",
+          "t": "ṭəqä",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይ",
+          "t": "śänayə",
+          "gl": ""
+        },
+        {
+          "g": "ወጼናሁ",
+          "t": "wäṣenahu",
+          "gl": ""
+        },
+        {
+          "g": "ለውእቱ",
+          "t": "läwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዕፅ",
+          "t": "ʿəṣ́ə",
+          "gl": ""
+        },
+        {
+          "g": "የሐውር",
+          "t": "yäḥäwərə",
+          "gl": ""
+        },
+        {
+          "g": "ወይበጽሕ",
+          "t": "wäyəbäṣəḥə",
+          "gl": ""
+        },
+        {
+          "g": "ነዋኅ",
+          "t": "näwaḫə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 5,
+      "geez": "ወእቤ፡ ዝ፡ ዕፅ፡ ሠናይ፡ ወከመ፡ ሠናይ፡ ወፍሡሕ፡ ርእየቱ።",
+      "translation": "Then I said: ‘How beautiful is the tree, and how attractive is its look!’",
+      "words": [
+        {
+          "g": "ወእቤ",
+          "t": "wäʾəbe",
+          "gl": ""
+        },
+        {
+          "g": "ዝ",
+          "t": "zə",
+          "gl": ""
+        },
+        {
+          "g": "ዕፅ",
+          "t": "ʿəṣ́ə",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይ",
+          "t": "śänayə",
+          "gl": ""
+        },
+        {
+          "g": "ወከመ",
+          "t": "wäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይ",
+          "t": "śänayə",
+          "gl": ""
+        },
+        {
+          "g": "ወፍሡሕ",
+          "t": "wäfəśuḥə",
+          "gl": ""
+        },
+        {
+          "g": "ርእየቱ",
+          "t": "rəʾəyätu",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 6,
+      "geez": "ወአውሥአኒ፡ ቅዱስ፡ ሩፋኤል፡ መልአክ፡ ዘምስሌየ፡ ሀሎ፡ ወይቤለኒ፡ ዝ፡ ውእቱ፡ ዕፀ፡ ጥበብ፡ ዘእምኔሁ፡ በልዑ፡ አቡከ፡ አረጋዊ፡ ወእምከ፡ ዕቤራይት፡ እለ፡ ቀደሙከ፡ ወአእመርዋ፡ ለጥበብ፡ ወተፈትሐ፡ አዕይንቲሆሙ፡ ወአእመሩ፡ ከመ፡ ዕራቃኒሆሙ፡ ሀለዉ፡ ወተሰዱ፡ እምገነት።",
+      "translation": "Then Raphael the holy angel, who was with me, answered me and said: ‘This is the tree of wisdom, of which thy father old (in years) and thy aged mother, who were before thee, have eaten, and they learnt wisdom and their eyes were opened, and they knew that they were naked and they were driven out of the garden.’",
+      "words": [
+        {
+          "g": "ወአውሥአኒ",
+          "t": "wäʾäwəśəʾäni",
+          "gl": ""
+        },
+        {
+          "g": "ቅዱስ",
+          "t": "qədusə",
+          "gl": ""
+        },
+        {
+          "g": "ሩፋኤል",
+          "t": "rufaʾelə",
+          "gl": ""
+        },
+        {
+          "g": "መልአክ",
+          "t": "mäləʾäkə",
+          "gl": ""
+        },
+        {
+          "g": "ዘምስሌየ",
+          "t": "zäməsəleyä",
+          "gl": ""
+        },
+        {
+          "g": "ሀሎ",
+          "t": "hälo",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤለኒ",
+          "t": "wäyəbeläni",
+          "gl": ""
+        },
+        {
+          "g": "ዝ",
+          "t": "zə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዕፀ",
+          "t": "ʿəṣ́ä",
+          "gl": ""
+        },
+        {
+          "g": "ጥበብ",
+          "t": "ṭəbäbə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምኔሁ",
+          "t": "zäʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "በልዑ",
+          "t": "bäləʿu",
+          "gl": ""
+        },
+        {
+          "g": "አቡከ",
+          "t": "ʾäbukä",
+          "gl": ""
+        },
+        {
+          "g": "አረጋዊ",
+          "t": "ʾärägawi",
+          "gl": ""
+        },
+        {
+          "g": "ወእምከ",
+          "t": "wäʾəməkä",
+          "gl": ""
+        },
+        {
+          "g": "ዕቤራይት",
+          "t": "ʿəberayətə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ቀደሙከ",
+          "t": "qädämukä",
+          "gl": ""
+        },
+        {
+          "g": "ወአእመርዋ",
+          "t": "wäʾäʾəmärəwa",
+          "gl": ""
+        },
+        {
+          "g": "ለጥበብ",
+          "t": "läṭəbäbə",
+          "gl": ""
+        },
+        {
+          "g": "ወተፈትሐ",
+          "t": "wätäfätəḥä",
+          "gl": ""
+        },
+        {
+          "g": "አዕይንቲሆሙ",
+          "t": "ʾäʿəyənətihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወአእመሩ",
+          "t": "wäʾäʾəmäru",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ዕራቃኒሆሙ",
+          "t": "ʿəraqanihomu",
+          "gl": ""
+        },
+        {
+          "g": "ሀለዉ",
+          "t": "häläwu",
+          "gl": ""
+        },
+        {
+          "g": "ወተሰዱ",
+          "t": "wätäsädu",
+          "gl": ""
+        },
+        {
+          "g": "እምገነት",
+          "t": "ʾəməgänätə",
+          "gl": ""
+        }
+      ]
+    }
+  ]
+}

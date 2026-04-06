@@ -1,0 +1,1189 @@
+{
+  "book": "Lev",
+  "chapter": 2,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወእመሰ ፡ ህየንተ ፡ ነፍስ ፡ ቍርባነ ፡ ወመሥዋዕተ ፡ ለእግዚአብሔር ፡ ያመጽእ ፡ ስንዳሌ ፡ ውእቱ ፡ ቍርባኑ ፡ ወይክዑ\n                  ፡ ላዕሌሁ ፡ ቅብአ ፡ ወይወዲ ፡ ዲቤሁ ፡ ስኂነ ፡ ወመሥዋዕ[ት] ፡ ውእቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "ህየንተ",
+          "t": "həyänətä",
+          "gl": ""
+        },
+        {
+          "g": "ነፍስ",
+          "t": "näfəsə",
+          "gl": ""
+        },
+        {
+          "g": "ቍርባነ",
+          "t": "qwərəbanä",
+          "gl": ""
+        },
+        {
+          "g": "ወመሥዋዕተ",
+          "t": "wämäśəwaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ያመጽእ",
+          "t": "yamäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ስንዳሌ",
+          "t": "sənədale",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ቍርባኑ",
+          "t": "qwərəbanu",
+          "gl": ""
+        },
+        {
+          "g": "ወይክዑ",
+          "t": "wäyəkəʿu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ቅብአ",
+          "t": "qəbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ወይወዲ",
+          "t": "wäyəwädi",
+          "gl": ""
+        },
+        {
+          "g": "ዲቤሁ",
+          "t": "dibehu",
+          "gl": ""
+        },
+        {
+          "g": "ስኂነ",
+          "t": "səḫinä",
+          "gl": ""
+        },
+        {
+          "g": "ወመሥዋዕት",
+          "t": "wämäśəwaʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if a soul bring a gift, a sacrifice to the Lord, his gift shall be fine flour; and he shall pour oil upon it, and shall put frankincense on it: it is a sacrifice.",
+        "kjv": "And when any will offer a meat offering unto the LORD, his offering shall be of fine flour; and he shall pour oil upon it, and put frankincense thereon:"
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ወይወስድ ፡ ኀበ ፡ ደቂቀ ፡ አሮን ፡ ካህን ፡ ወይዘግን ፡ እምኔሁ ፡ ምልአ ፡ ሕፍኑ ፡ እምውስተ ፡ ስንዳሌ ፡ ምስለ ፡\n                  ቅብኡ ፡ ወኵሉ ፡ ስኂኑ ፡ ወይወድዮ ፡ ካህን ፡ ለዝክራ ፡ ላዕለ ፡ ምሥዋዕ ፤ መሥዋዕት ፡ ውእቱ ፡ ዘመዐዛ ፡ ሠናይ ፡\n                  ለእግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይወስድ",
+          "t": "wäyəwäsədə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "አሮን",
+          "t": "ʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ወይዘግን",
+          "t": "wäyəzägənə",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "ምልአ",
+          "t": "mələʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሕፍኑ",
+          "t": "ḥəfənu",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ስንዳሌ",
+          "t": "sənədale",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ቅብኡ",
+          "t": "qəbəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ስኂኑ",
+          "t": "səḫinu",
+          "gl": ""
+        },
+        {
+          "g": "ወይወድዮ",
+          "t": "wäyəwädəyo",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ለዝክራ",
+          "t": "läzəkəra",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ምሥዋዕ  መሥዋዕት",
+          "t": "məśəwaʿə  mäśəwaʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘመዐዛ",
+          "t": "zämäʿäza",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይ",
+          "t": "śänayə",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he shall bring it to the priests the sons of Aaron: and having taken from it a handful of the fine flour with the oil, and all its frankincense, then the priest shall put the memorial of it on the altar: it is a sacrifice, an odour of sweet savour to the Lord.",
+        "kjv": "And he shall bring it to Aaron’s sons the priests: and he shall take thereout his handful of the flour thereof, and of the oil thereof, with all the frankincense thereof; and the priest shall burn the memorial of it upon the altar, to be an offering made by fire, of a sweet savour unto the LORD:"
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወዘተረፈ ፡ እምውስተ ፡ መሥዋዕት ፡ ለአሮን ፡ ወለደቂቁ ፡ ቅዱስ ፡ ዘቅዱስ ፡ እመሥዋዕቱ ፡ ለእግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዘተረፈ",
+          "t": "wäzätäräfä",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕት",
+          "t": "mäśəwaʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ለአሮን",
+          "t": "läʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ወለደቂቁ",
+          "t": "wälädäqiqu",
+          "gl": ""
+        },
+        {
+          "g": "ቅዱስ",
+          "t": "qədusə",
+          "gl": ""
+        },
+        {
+          "g": "ዘቅዱስ",
+          "t": "zäqədusə",
+          "gl": ""
+        },
+        {
+          "g": "እመሥዋዕቱ",
+          "t": "ʾəmäśəwaʿətu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the remainder of the sacrifice shall be for Aaron and his sons, a most holy portion from the sacrifices of the Lord.",
+        "kjv": "And the remnant of the meat offering shall be Aaron’s and his sons’: it is a thing most holy of the offerings of the LORD made by fire."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወእመሰ ፡ አባእከ ፡ ቍርባነ ፡ ለመሥዋዕት ፡ ብሱለ ፡ በእቶን ፡ ኅብስተ ፡ ስንዳሌ ፡ ናእተ ፡ ልውሰ ፡ በቅብእ ፡\n                  ወለግን ፡ ናእተ ፡ ቅቡአ ፡ በቅብእ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "አባእከ",
+          "t": "ʾäbaʾəkä",
+          "gl": ""
+        },
+        {
+          "g": "ቍርባነ",
+          "t": "qwərəbanä",
+          "gl": ""
+        },
+        {
+          "g": "ለመሥዋዕት",
+          "t": "lämäśəwaʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ብሱለ",
+          "t": "bəsulä",
+          "gl": ""
+        },
+        {
+          "g": "በእቶን",
+          "t": "bäʾətonə",
+          "gl": ""
+        },
+        {
+          "g": "ኅብስተ",
+          "t": "ḫəbəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ስንዳሌ",
+          "t": "sənədale",
+          "gl": ""
+        },
+        {
+          "g": "ናእተ",
+          "t": "naʾətä",
+          "gl": ""
+        },
+        {
+          "g": "ልውሰ",
+          "t": "ləwəsä",
+          "gl": ""
+        },
+        {
+          "g": "በቅብእ",
+          "t": "bäqəbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወለግን",
+          "t": "wälägənə",
+          "gl": ""
+        },
+        {
+          "g": "ናእተ",
+          "t": "naʾətä",
+          "gl": ""
+        },
+        {
+          "g": "ቅቡአ",
+          "t": "qəbuʾä",
+          "gl": ""
+        },
+        {
+          "g": "በቅብእ",
+          "t": "bäqəbəʾə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if he bring as a gift a sacrifice baked from the oven, a gift to the Lord of fine flour, he shall bring unleavened bread kneaded with oil, and unleavened cakes anointed with oil.",
+        "kjv": "And if thou bring an oblation of a meat offering baken in the oven, it shall be unleavened cakes of fine flour mingled with oil, or unleavened wafers anointed with oil."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወለእመ ፡ መሥዋዕተ ፡ ቲጉን ፡ ቍርባኒከ ፡ ስንዳሌ ፡ ልውሰ ፡ በቅብእ ፡ ወናእተ ፡ ይኩን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለእመ",
+          "t": "wäläʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕተ",
+          "t": "mäśəwaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "ቲጉን",
+          "t": "tigunə",
+          "gl": ""
+        },
+        {
+          "g": "ቍርባኒከ",
+          "t": "qwərəbanikä",
+          "gl": ""
+        },
+        {
+          "g": "ስንዳሌ",
+          "t": "sənədale",
+          "gl": ""
+        },
+        {
+          "g": "ልውሰ",
+          "t": "ləwəsä",
+          "gl": ""
+        },
+        {
+          "g": "በቅብእ",
+          "t": "bäqəbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወናእተ",
+          "t": "wänaʾətä",
+          "gl": ""
+        },
+        {
+          "g": "ይኩን",
+          "t": "yəkunə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if thy gift be a sacrifice from a pan, it is fine flour mingled with oil, unleavened offerings.",
+        "kjv": "And if thy oblation be a meat offering baken in a pan, it shall be of fine flour unleavened, mingled with oil."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወትፌትቶ ፡ ወፍቱቶ ፡ ትክዑ ፡ ላዕሌሁ ፡ ቅብአ ፡ ወመሥዋዕት ፡ ውእቱ ፡ ለእግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትፌትቶ",
+          "t": "wätəfetəto",
+          "gl": ""
+        },
+        {
+          "g": "ወፍቱቶ",
+          "t": "wäfətuto",
+          "gl": ""
+        },
+        {
+          "g": "ትክዑ",
+          "t": "təkəʿu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ቅብአ",
+          "t": "qəbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ወመሥዋዕት",
+          "t": "wämäśəwaʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And thou shalt break them into fragments and pour oil upon them: it is a sacrifice to the Lord.",
+        "kjv": "Thou shalt part it in pieces, and pour oil thereon: it is a meat offering."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወለእመ ፡ ብሱ[ል] ፡ በመቅጹት ፡ መሥዋዕትከ ፡ ስንዳሌ ፡ በቅብእ ፡ ይትገበር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለእመ",
+          "t": "wäläʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ብሱል",
+          "t": "bəsulə",
+          "gl": ""
+        },
+        {
+          "g": "በመቅጹት",
+          "t": "bämäqəṣutə",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕትከ",
+          "t": "mäśəwaʿətəkä",
+          "gl": ""
+        },
+        {
+          "g": "ስንዳሌ",
+          "t": "sənədale",
+          "gl": ""
+        },
+        {
+          "g": "በቅብእ",
+          "t": "bäqəbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ይትገበር",
+          "t": "yətəgäbärə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if thy gift be a sacrifice from the hearth, it shall be made of fine flour with oil.",
+        "kjv": "And if thy oblation be a meat offering baken in the fryingpan, it shall be made of fine flour with oil."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወታመጽእ ፡ መሥዋዕተከ ፡ ዘገበርከ ፡ እምውስተ ፡ ዝንቱ ፡ ለእግዚአብሔር ፡ ወታመጽኦ ፡ ኀበ ፡ ካህን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወታመጽእ",
+          "t": "wätamäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕተከ",
+          "t": "mäśəwaʿətäkä",
+          "gl": ""
+        },
+        {
+          "g": "ዘገበርከ",
+          "t": "zägäbärəkä",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወታመጽኦ",
+          "t": "wätamäṣəʾo",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he shall offer the sacrifice which he shall make of these to the Lord, and shall bring it to the priest.",
+        "kjv": "And thou shalt bring the meat offering that is made of these things unto the LORD: and when it is presented unto the priest, he shall bring it unto the altar."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወያቄርቦ ፡ ኀበ ፡ ምሥዋዕ ፡ ወይነሥእ ፡ ካህን ፡ እምውስተ ፡ መሥዋዕ[ት] ፡ ዝክራ ፡ ወይወድዮ ፡ ካህን ፡ ላዕለ ፡\n                  ምሥዋዕ ፤ መሥዋዕት ፡ ውእቱ ፡ ወመዐዛ ፡ ሠናይ ፡ ለእግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያቄርቦ",
+          "t": "wäyaqerəbo",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ምሥዋዕ",
+          "t": "məśəwaʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወይነሥእ",
+          "t": "wäyənäśəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕት",
+          "t": "mäśəwaʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ዝክራ",
+          "t": "zəkəra",
+          "gl": ""
+        },
+        {
+          "g": "ወይወድዮ",
+          "t": "wäyəwädəyo",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ምሥዋዕ  መሥዋዕት",
+          "t": "məśəwaʿə  mäśəwaʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ወመዐዛ",
+          "t": "wämäʿäza",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይ",
+          "t": "śänayə",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the priest shall approach the altar, and shall take away from the sacrifice a memorial of it, and the priest shall place it on the altar: a burnt offering, a smell of sweet savour to the Lord.",
+        "kjv": "And the priest shall take from the meat offering a memorial thereof, and shall burn it upon the altar: it is an offering made by fire, of a sweet savour unto the LORD."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወዘተርፈ ፡ እምሥዋዕ ፡ ለአሮን ፡ ወለደቂቁ ፡ ቅዱስ ፡ ለቅዱሳን ፡ እመሥዋዕቱ ፡ ለእግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዘተርፈ",
+          "t": "wäzätärəfä",
+          "gl": ""
+        },
+        {
+          "g": "እምሥዋዕ",
+          "t": "ʾəməśəwaʿə",
+          "gl": ""
+        },
+        {
+          "g": "ለአሮን",
+          "t": "läʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ወለደቂቁ",
+          "t": "wälädäqiqu",
+          "gl": ""
+        },
+        {
+          "g": "ቅዱስ",
+          "t": "qədusə",
+          "gl": ""
+        },
+        {
+          "g": "ለቅዱሳን",
+          "t": "läqədusanə",
+          "gl": ""
+        },
+        {
+          "g": "እመሥዋዕቱ",
+          "t": "ʾəmäśəwaʿətu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And that which is left of the sacrifice shall be for Aaron and his sons, most holy from the burnt-offerings of the Lord.",
+        "kjv": "And that which is left of the meat offering shall be Aaron’s and his sons’: it is a thing most holy of the offerings of the LORD made by fire."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ኵሎ ፡ ዘታመጽኡ ፡ ለሠዊዕ ፡ ለእግዚአብሔር ፡ ኢትግበርዎ ፡ ብሑአ ፡ እምኵሉ ፡ ብሑእ ፡ ወእምኵሉ ፡ መዓር ፡ ኢታምጽኡ\n                  ፡ እምውስቴቱ ፡ ለሠዊዕ ፡ ለእግዚአብሔር ፡ ለቍርባን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ዘታመጽኡ",
+          "t": "zätamäṣəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ለሠዊዕ",
+          "t": "läśäwiʿə",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ኢትግበርዎ",
+          "t": "ʾitəgəbärəwo",
+          "gl": ""
+        },
+        {
+          "g": "ብሑአ",
+          "t": "bəḥuʾä",
+          "gl": ""
+        },
+        {
+          "g": "እምኵሉ",
+          "t": "ʾəməkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ብሑእ",
+          "t": "bəḥuʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምኵሉ",
+          "t": "wäʾəməkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "መዓር",
+          "t": "mäʿarə",
+          "gl": ""
+        },
+        {
+          "g": "ኢታምጽኡ",
+          "t": "ʾitaməṣəʾu",
+          "gl": ""
+        },
+        {
+          "g": "እምውስቴቱ",
+          "t": "ʾəməwəsətetu",
+          "gl": ""
+        },
+        {
+          "g": "ለሠዊዕ",
+          "t": "läśäwiʿə",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለቍርባን",
+          "t": "läqwərəbanə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Ye shall not leaven any sacrifice which ye shall bring to the Lord; for as to any leaven, or any honey, ye shall not bring of it to offer a gift to the Lord.",
+        "kjv": "No meat offering, which ye shall bring unto the LORD, shall be made with leaven: for ye shall burn no leaven, nor any honey, in any offering of the LORD made by fire."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ባሕቱ ፡ ለዓሥራት ፡ ታበውኡ ፡ እምውስቴቱ ፡ ለእግዚአብሔር ፡ እስመ ፡ ውስተ ፡ ምሥዋዕሰ ፡ ኢትሠውዑ ፡ እምኔሁ ፡\n                  ለመዐዛ ፡ ሠናይ ፡ ለእግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ባሕቱ",
+          "t": "baḥətu",
+          "gl": ""
+        },
+        {
+          "g": "ለዓሥራት",
+          "t": "läʿaśəratə",
+          "gl": ""
+        },
+        {
+          "g": "ታበውኡ",
+          "t": "tabäwəʾu",
+          "gl": ""
+        },
+        {
+          "g": "እምውስቴቱ",
+          "t": "ʾəməwəsətetu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምሥዋዕሰ",
+          "t": "məśəwaʿəsä",
+          "gl": ""
+        },
+        {
+          "g": "ኢትሠውዑ",
+          "t": "ʾitəśäwəʿu",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "ለመዐዛ",
+          "t": "lämäʿäza",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይ",
+          "t": "śänayə",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Ye shall bring them in the way of fruits to the Lord, but they shall not be offered on the altar for a sweet-smelling savour to the Lord.",
+        "kjv": "As for the oblation of the firstfruits, ye shall offer them unto the LORD: but they shall not be burnt on the altar for a sweet savour."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወኵሉ ፡ ቍርባነ ፡ መሥዋዕትክሙ ፡ በጼው ፡ ይትገበር ፡ ወኢይትኀደግ ፡ ጼው ፡ እምውስተ ፡ ዘትሠውዑ ፡ ለእግዚአብሔር ፤\n                  ውስተ ፡ ኵሉ ፡ ቍርባኒክሙ ፡ ትወድዩ ፡ ጼወ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ቍርባነ",
+          "t": "qwərəbanä",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕትክሙ",
+          "t": "mäśəwaʿətəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "በጼው",
+          "t": "bäṣewə",
+          "gl": ""
+        },
+        {
+          "g": "ይትገበር",
+          "t": "yətəgäbärə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይትኀደግ",
+          "t": "wäʾiyətəḫädägə",
+          "gl": ""
+        },
+        {
+          "g": "ጼው",
+          "t": "ṣewə",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዘትሠውዑ",
+          "t": "zätəśäwəʿu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር \n                  ውስተ",
+          "t": "läʾəgəziʾäbəḥerə \n                  wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ቍርባኒክሙ",
+          "t": "qwərəbanikəmu",
+          "gl": ""
+        },
+        {
+          "g": "ትወድዩ",
+          "t": "təwädəyu",
+          "gl": ""
+        },
+        {
+          "g": "ጼወ",
+          "t": "ṣewä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And every gift of your sacrifice shall be seasoned with salt; omit not the salt of the covenant of the Lord from your sacrifices: on every gift of yours ye shall offer salt to the Lord your God.",
+        "kjv": "And every oblation of thy meat offering shalt thou season with salt; neither shalt thou suffer the salt of the covenant of thy God to be lacking from thy meat offering: with all thine offerings thou shalt offer salt."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወእመሴ ፡ አባእከ ፡ መሥዋዕተ ፡ እምቀዳሜ ፡ እክልካ ፡ ለእግዚአብሔር ፡ ሐዲሰ ፡ ቅልወ ፡ ንጹሐ ፡ ወልቱመ ፡ ወታበውእ\n                  ፡ መሥዋዕተ ፡ እምቀዳሜ ፡ እክልከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሴ",
+          "t": "wäʾəmäse",
+          "gl": ""
+        },
+        {
+          "g": "አባእከ",
+          "t": "ʾäbaʾəkä",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕተ",
+          "t": "mäśəwaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "እምቀዳሜ",
+          "t": "ʾəməqädame",
+          "gl": ""
+        },
+        {
+          "g": "እክልካ",
+          "t": "ʾəkələka",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ሐዲሰ",
+          "t": "ḥädisä",
+          "gl": ""
+        },
+        {
+          "g": "ቅልወ",
+          "t": "qələwä",
+          "gl": ""
+        },
+        {
+          "g": "ንጹሐ",
+          "t": "nəṣuḥä",
+          "gl": ""
+        },
+        {
+          "g": "ወልቱመ",
+          "t": "wälətumä",
+          "gl": ""
+        },
+        {
+          "g": "ወታበውእ",
+          "t": "wätabäwəʾə",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕተ",
+          "t": "mäśəwaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "እምቀዳሜ",
+          "t": "ʾəməqädame",
+          "gl": ""
+        },
+        {
+          "g": "እክልከ",
+          "t": "ʾəkələkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if thou wouldest offer a sacrifice of first-fruits to the Lord, it shall be new grains ground and roasted for the Lord; so shalt thou bring the sacrifice of the first-fruits.",
+        "kjv": "And if thou offer a meat offering of thy firstfruits unto the LORD, thou shalt offer for the meat offering of thy firstfruits green ears of corn dried by the fire, even corn beaten out of full ears."
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ወትክዑ ፡ ላዕሌሁ ፡ ቅብአ ፡ ወትወዲ ፡ ላዕሌሁ ፡ ስሒነ ፡ ወመሥዋዕት ፡ ውእቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትክዑ",
+          "t": "wätəkəʿu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ቅብአ",
+          "t": "qəbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ወትወዲ",
+          "t": "wätəwädi",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ስሒነ",
+          "t": "səḥinä",
+          "gl": ""
+        },
+        {
+          "g": "ወመሥዋዕት",
+          "t": "wämäśəwaʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And thou shalt pour oil upon it, and shalt put frankincense on it: it is a sacrifice.",
+        "kjv": "And thou shalt put oil upon it, and lay frankincense thereon: it is a meat offering."
+      }
+    },
+    {
+      "num": 16,
+      "geez": "ወያበውእ ፡ ካህን ፡ ዝክራ ፡ ለውእቱ ፡ እክል ፡ ምስለ ፡ ቅብኡ ፡ ወኵሉ ፡ ስኂኑ ፡ ወመሥዋዕት ፡ ውእቱ ፡\n                  ለእግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያበውእ",
+          "t": "wäyabäwəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ዝክራ",
+          "t": "zəkəra",
+          "gl": ""
+        },
+        {
+          "g": "ለውእቱ",
+          "t": "läwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "እክል",
+          "t": "ʾəkələ",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ቅብኡ",
+          "t": "qəbəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ስኂኑ",
+          "t": "səḫinu",
+          "gl": ""
+        },
+        {
+          "g": "ወመሥዋዕት",
+          "t": "wämäśəwaʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the priest shall offer the memorial of it taken from the grains with the oil, and all its frankincense: it is a burnt-offering to the Lord.",
+        "kjv": "And the priest shall burn the memorial of it, part of the beaten corn thereof, and part of the oil thereof, with all the frankincense thereof: it is an offering made by fire unto the LORD."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

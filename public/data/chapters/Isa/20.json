@@ -1,0 +1,544 @@
+{
+  "book": "Isa",
+  "chapter": 20,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "በዓመተ፡ ቦአ፡ ጣንታን፡ አዛጦን፡ አመ፡ ፈነዎ፡ አርና፡ ንጉሠ፡ ፋርስ፡ ወቀተላ፡ ለአዛጦን፡ ወአስተጋብኣ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "በዓመተ",
+          "t": "bäʿamätä",
+          "gl": ""
+        },
+        {
+          "g": "ቦአ",
+          "t": "boʾä",
+          "gl": ""
+        },
+        {
+          "g": "ጣንታን",
+          "t": "ṭanətanə",
+          "gl": ""
+        },
+        {
+          "g": "አዛጦን",
+          "t": "ʾäzaṭonə",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ፈነዎ",
+          "t": "fänäwo",
+          "gl": ""
+        },
+        {
+          "g": "አርና",
+          "t": "ʾärəna",
+          "gl": ""
+        },
+        {
+          "g": "ንጉሠ",
+          "t": "nəguśä",
+          "gl": ""
+        },
+        {
+          "g": "ፋርስ",
+          "t": "farəsə",
+          "gl": ""
+        },
+        {
+          "g": "ወቀተላ",
+          "t": "wäqätäla",
+          "gl": ""
+        },
+        {
+          "g": "ለአዛጦን",
+          "t": "läʾäzaṭonə",
+          "gl": ""
+        },
+        {
+          "g": "ወአስተጋብኣ",
+          "t": "wäʾäsətägabəʾa",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "In the year when Tanathan came to Azotus, when he was sent by Arna king of the Assyrians, and warred against Azotus, and took it;",
+        "kjv": "In the year that Tartan came unto Ashdod, (when Sargon the king of Assyria sent him,) and fought against Ashdod, and took it;"
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ይእተ፡ አሚረ፡ ነበቦ፡ እግዚአብሔር፡ ለኢሳይያስ፡ ወልደ፡ አሞጽ፡ ወይቤሎ፤ ሖር፡ ወአእትት፡ መንጸፈ፡ እምሐቌከ፡ ወፍታሕ፡ አሣእነከ፡ እምእገሪከ፡ ወሖር፡ ዕራቀከ፡ ዘእንበለ፡ አሣእን፤ ወገብረ፡ ከማሁ፡ ወሖረ፡ ዕራቆ፡ ዘእንበለ፡ አሣእን።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ይእተ",
+          "t": "yəʾətä",
+          "gl": ""
+        },
+        {
+          "g": "አሚረ",
+          "t": "ʾämirä",
+          "gl": ""
+        },
+        {
+          "g": "ነበቦ",
+          "t": "näbäbo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለኢሳይያስ",
+          "t": "läʾisayəyasə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "አሞጽ",
+          "t": "ʾämoṣə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ ሖር",
+          "t": "wäyəbelo ḥorə",
+          "gl": ""
+        },
+        {
+          "g": "ወአእትት",
+          "t": "wäʾäʾətətə",
+          "gl": ""
+        },
+        {
+          "g": "መንጸፈ",
+          "t": "mänəṣäfä",
+          "gl": ""
+        },
+        {
+          "g": "እምሐቌከ",
+          "t": "ʾəməḥäqwekä",
+          "gl": ""
+        },
+        {
+          "g": "ወፍታሕ",
+          "t": "wäfətaḥə",
+          "gl": ""
+        },
+        {
+          "g": "አሣእነከ",
+          "t": "ʾäśaʾənäkä",
+          "gl": ""
+        },
+        {
+          "g": "እምእገሪከ",
+          "t": "ʾəməʾəgärikä",
+          "gl": ""
+        },
+        {
+          "g": "ወሖር",
+          "t": "wäḥorə",
+          "gl": ""
+        },
+        {
+          "g": "ዕራቀከ",
+          "t": "ʿəraqäkä",
+          "gl": ""
+        },
+        {
+          "g": "ዘእንበለ",
+          "t": "zäʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "አሣእን ወገብረ",
+          "t": "ʾäśaʾənə wägäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ከማሁ",
+          "t": "kämahu",
+          "gl": ""
+        },
+        {
+          "g": "ወሖረ",
+          "t": "wäḥorä",
+          "gl": ""
+        },
+        {
+          "g": "ዕራቆ",
+          "t": "ʿəraqo",
+          "gl": ""
+        },
+        {
+          "g": "ዘእንበለ",
+          "t": "zäʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "አሣእን",
+          "t": "ʾäśaʾənə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "then the Lord spoke to Esaias the son of Amos, saying, Go and take the sackcloth off thy loins, and loose thy sandals from off thy feet, and do thus, going naked and barefoot.",
+        "kjv": "At the same time spake the LORD by Isaiah the son of Amoz, saying, Go and loose the sackcloth from off thy loins, and put off thy shoe from thy foot. And he did so, walking naked and barefoot."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወይቤ፡ እግዚአብሔር፤ በከመ፡ ሖረ፡ ኢሳይያስ፡ ቍልዔየ፡ ዕራቁ፡ ዘእንበለ፡ አሣእን፡ ከማሁ፡ ይከውን፡ ትእምርተ፡ ወመንክረ፡ ሠለስተ፡ ዓመተ፡ ለግብጽሂ፡ ወለኢትዮጵያሂ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር በከመ",
+          "t": "ʾəgəziʾäbəḥerə bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ሖረ",
+          "t": "ḥorä",
+          "gl": ""
+        },
+        {
+          "g": "ኢሳይያስ",
+          "t": "ʾisayəyasə",
+          "gl": ""
+        },
+        {
+          "g": "ቍልዔየ",
+          "t": "qwələʿeyä",
+          "gl": ""
+        },
+        {
+          "g": "ዕራቁ",
+          "t": "ʿəraqu",
+          "gl": ""
+        },
+        {
+          "g": "ዘእንበለ",
+          "t": "zäʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "አሣእን",
+          "t": "ʾäśaʾənə",
+          "gl": ""
+        },
+        {
+          "g": "ከማሁ",
+          "t": "kämahu",
+          "gl": ""
+        },
+        {
+          "g": "ይከውን",
+          "t": "yəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ትእምርተ",
+          "t": "təʾəmərətä",
+          "gl": ""
+        },
+        {
+          "g": "ወመንክረ",
+          "t": "wämänəkərä",
+          "gl": ""
+        },
+        {
+          "g": "ሠለስተ",
+          "t": "śäläsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዓመተ",
+          "t": "ʿamätä",
+          "gl": ""
+        },
+        {
+          "g": "ለግብጽሂ",
+          "t": "lägəbəṣəhi",
+          "gl": ""
+        },
+        {
+          "g": "ወለኢትዮጵያሂ",
+          "t": "wäläʾitəyoṗəyahi",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord said, As my servant Esaias has walked naked and barefoot three years, there shall be three years for signs and wonders to the Egyptians and Ethiopians;",
+        "kjv": "And the LORD said, Like as my servant Isaiah hath walked naked and barefoot three years for a sign and wonder upon Egypt and upon Ethiopia;"
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ከመ፡ ከማሁ፡ ይወስዶሙ፡ ንጉሠ፡ ፋርስ፡ ለግብጽ፡ ወለኢትዮጵያ፣፡ ወይፄውውዎሙ፡ ለወራዙቶሙ፡ ወለአእሩጊሆሙ፡ ዕራቃኒሆሙ፡ ዘእንበለ፡ አሣእን፡ ወይትቀፈጽ፡ ኀፍረቶሙ፡ ለግብጽ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ከማሁ",
+          "t": "kämahu",
+          "gl": ""
+        },
+        {
+          "g": "ይወስዶሙ",
+          "t": "yəwäsədomu",
+          "gl": ""
+        },
+        {
+          "g": "ንጉሠ",
+          "t": "nəguśä",
+          "gl": ""
+        },
+        {
+          "g": "ፋርስ",
+          "t": "farəsə",
+          "gl": ""
+        },
+        {
+          "g": "ለግብጽ",
+          "t": "lägəbəṣə",
+          "gl": ""
+        },
+        {
+          "g": "ወለኢትዮጵያ",
+          "t": "wäläʾitəyoṗəya",
+          "gl": ""
+        },
+        {
+          "g": "ወይፄውውዎሙ",
+          "t": "wäyəṣ́ewəwəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለወራዙቶሙ",
+          "t": "läwärazutomu",
+          "gl": ""
+        },
+        {
+          "g": "ወለአእሩጊሆሙ",
+          "t": "wäläʾäʾərugihomu",
+          "gl": ""
+        },
+        {
+          "g": "ዕራቃኒሆሙ",
+          "t": "ʿəraqanihomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘእንበለ",
+          "t": "zäʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "አሣእን",
+          "t": "ʾäśaʾənə",
+          "gl": ""
+        },
+        {
+          "g": "ወይትቀፈጽ",
+          "t": "wäyətəqäfäṣə",
+          "gl": ""
+        },
+        {
+          "g": "ኀፍረቶሙ",
+          "t": "ḫäfərätomu",
+          "gl": ""
+        },
+        {
+          "g": "ለግብጽ",
+          "t": "lägəbəṣə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "for thus shall the king of the Assyrians lead the captivity of Egypt and the Ethiopians, young men and old, naked and barefoot, having the shame of Egypt exposed.",
+        "kjv": "So shall the king of Assyria lead away the Egyptians prisoners, and the Ethiopians captives, young and old, naked and barefoot, even with their buttocks uncovered, to the shame of Egypt."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወይትመውኡ፡ ግብጽ፡ ምስለ፡ ኢትዮጵያ፡ ወይትኀፈሩ፡ ግብጽ፡ ምስለ፡ ዘተወከሉ፡ እለ፡ ቦሙ፡ ይዜኀሩ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይትመውኡ",
+          "t": "wäyətəmäwəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ግብጽ",
+          "t": "gəbəṣə",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኢትዮጵያ",
+          "t": "ʾitəyoṗəya",
+          "gl": ""
+        },
+        {
+          "g": "ወይትኀፈሩ",
+          "t": "wäyətəḫäfäru",
+          "gl": ""
+        },
+        {
+          "g": "ግብጽ",
+          "t": "gəbəṣə",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ዘተወከሉ",
+          "t": "zätäwäkälu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ቦሙ",
+          "t": "bomu",
+          "gl": ""
+        },
+        {
+          "g": "ይዜኀሩ",
+          "t": "yəzeḫäru",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Egyptians being defeated shall be ashamed of the Ethiopians, in whom they had trusted; for they were their glory.",
+        "kjv": "And they shall be afraid and ashamed of Ethiopia their expectation, and of Egypt their glory."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወይብሉ፡ ውእተ፡ አሚረ፡ እለ፡ ይነብሩ፡ ውስተ፡ ዛቲ፡ ደሴት፤ ናሁ፡ ንሕነ፡ ተወከልናሆሙ፡ ያድኅኑነ፡ ወንትመሐፀን፡ ቦሙ፡ ኀቤሆሙ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይብሉ",
+          "t": "wäyəbəlu",
+          "gl": ""
+        },
+        {
+          "g": "ውእተ",
+          "t": "wəʾətä",
+          "gl": ""
+        },
+        {
+          "g": "አሚረ",
+          "t": "ʾämirä",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዛቲ",
+          "t": "zati",
+          "gl": ""
+        },
+        {
+          "g": "ደሴት ናሁ",
+          "t": "däsetə nahu",
+          "gl": ""
+        },
+        {
+          "g": "ንሕነ",
+          "t": "nəḥənä",
+          "gl": ""
+        },
+        {
+          "g": "ተወከልናሆሙ",
+          "t": "täwäkälənahomu",
+          "gl": ""
+        },
+        {
+          "g": "ያድኅኑነ",
+          "t": "yadəḫənunä",
+          "gl": ""
+        },
+        {
+          "g": "ወንትመሐፀን",
+          "t": "wänətəmäḥäṣ́änə",
+          "gl": ""
+        },
+        {
+          "g": "ቦሙ",
+          "t": "bomu",
+          "gl": ""
+        },
+        {
+          "g": "ኀቤሆሙ",
+          "t": "ḫäbehomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they that dwell in this island shall say in that day, Behold, we trusted to flee to them for help, who could not save themselves from the king of the Assyrians: and how shall we be saved?",
+        "kjv": "And the inhabitant of this isle shall say in that day, Behold, such is our expectation, whither we flee for help to be delivered from the king of Assyria: and how shall we escape?"
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

@@ -1,0 +1,3421 @@
+{
+  "book": "Josh",
+  "chapter": 21,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወመጽኡ ፡ መላእክቲሆሙ ፡ ለደቂቀ ፡ ሌዊ ፡ ኀበ ፡ እልዐዛር ፡ ካህን ፡ ወኀበ ፡ ኢየሱስ ፡ ወልደ ፡ ነዌ ፡ ወኀበ ፡\n                  መላእክተ ፡ ነገደ ፡ አብያተ ፡ አበዊሆሙ ፡ ለሕዝበ ፡ እስራኤል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወመጽኡ",
+          "t": "wämäṣəʾu",
+          "gl": ""
+        },
+        {
+          "g": "መላእክቲሆሙ",
+          "t": "mälaʾəkətihomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ሌዊ",
+          "t": "lewi",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "እልዐዛር",
+          "t": "ʾələʿäzarə",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ወኀበ",
+          "t": "wäḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሱስ",
+          "t": "ʾiyäsusə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ነዌ",
+          "t": "näwe",
+          "gl": ""
+        },
+        {
+          "g": "ወኀበ",
+          "t": "wäḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "መላእክተ",
+          "t": "mälaʾəkətä",
+          "gl": ""
+        },
+        {
+          "g": "ነገደ",
+          "t": "nägädä",
+          "gl": ""
+        },
+        {
+          "g": "አብያተ",
+          "t": "ʾäbəyatä",
+          "gl": ""
+        },
+        {
+          "g": "አበዊሆሙ",
+          "t": "ʾäbäwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ለሕዝበ",
+          "t": "läḥəzəbä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the heads of the families of the sons of Levi drew near to Eleazar the priest, and to Joshua the son of Naue, and to the heads of families of the tribes of Israel.",
+        "kjv": "Then came near the heads of the fathers of the Levites unto Eleazar the priest, and unto Joshua the son of Nun, and unto the heads of the fathers of the tribes of the children of Israel;"
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ወይቤልዎሙ ፡ በሴሎ ፡ በምድረ ፡ ከናኦን ፡ እንዘ ፡ ይብሉ ፡ አዘዘ ፡ እግዚአብሔር ፡ በእደ ፡ ሙሴ ፡ ከመ ፡ የሀበነ ፡\n                  አህጉረ ፡ ዘውስቴቶን ፡ ንነብር ፡ ወፂኦታቲሆን ፡ ለእንስሳነ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤልዎሙ",
+          "t": "wäyəbeləwomu",
+          "gl": ""
+        },
+        {
+          "g": "በሴሎ",
+          "t": "bäselo",
+          "gl": ""
+        },
+        {
+          "g": "በምድረ",
+          "t": "bämədərä",
+          "gl": ""
+        },
+        {
+          "g": "ከናኦን",
+          "t": "känaʾonə",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ይብሉ",
+          "t": "yəbəlu",
+          "gl": ""
+        },
+        {
+          "g": "አዘዘ",
+          "t": "ʾäzäzä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "በእደ",
+          "t": "bäʾədä",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "የሀበነ",
+          "t": "yähäbänä",
+          "gl": ""
+        },
+        {
+          "g": "አህጉረ",
+          "t": "ʾähəgurä",
+          "gl": ""
+        },
+        {
+          "g": "ዘውስቴቶን",
+          "t": "zäwəsətetonə",
+          "gl": ""
+        },
+        {
+          "g": "ንነብር",
+          "t": "nənäbərə",
+          "gl": ""
+        },
+        {
+          "g": "ወፂኦታቲሆን",
+          "t": "wäṣ́iʾotatihonə",
+          "gl": ""
+        },
+        {
+          "g": "ለእንስሳነ",
+          "t": "läʾənəsəsanä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they spoke to them in Selo in the land of Chanaan, saying, The Lord gave commandment by Moses to give us cities to dwell in, and the country round about for our cattle.",
+        "kjv": "And they spake unto them at Shiloh in the land of Canaan, saying, The LORD commanded by the hand of Moses to give us cities to dwell in, with the suburbs thereof for our cattle."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወወሀብዎሙ ፡ ደቂቀ ፡ እስራኤል ፡ ለሌዋውያን ፡ በትእዛዘ ፡ እግዚአብሔር ፡ እላንተ ፡ አህጉረ ፡ ወፂኦታቲሆን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወወሀብዎሙ",
+          "t": "wäwähäbəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ለሌዋውያን",
+          "t": "lälewawəyanə",
+          "gl": ""
+        },
+        {
+          "g": "በትእዛዘ",
+          "t": "bätəʾəzazä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "እላንተ",
+          "t": "ʾəlanətä",
+          "gl": ""
+        },
+        {
+          "g": "አህጉረ",
+          "t": "ʾähəgurä",
+          "gl": ""
+        },
+        {
+          "g": "ወፂኦታቲሆን",
+          "t": "wäṣ́iʾotatihonə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "So the children of Israel gave to the Levites in their inheritance by the command of the Lord the cities and the country round.",
+        "kjv": "And the children of Israel gave unto the Levites out of their inheritance, at the commandment of the LORD, these cities and their suburbs."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወበጽሖሙ ፡ መክፈልቶሙ ፡ ለደቂቀ ፡ ሕዝበ ፡ ቃዓት ፤ ወኮነ ፡ ለካህናት ፡ ለደቂቀ ፡ አሮን ፡ ወለሌዋውያን ፡ እምነ ፡\n                  ሕዝበ ፡ ይሁዳ ፡ ወእምነ ፡ ሕዝበ ፡ ስምዖን ፡ ወእምነ ፡ ሕዝበ ፡ ብንያሚ ፡ መክፈልቶሙ ፡ ዐሠርቱ ፡ ወሠለስቱ ፡ አህጉር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበጽሖሙ",
+          "t": "wäbäṣəḥomu",
+          "gl": ""
+        },
+        {
+          "g": "መክፈልቶሙ",
+          "t": "mäkəfälətomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝበ",
+          "t": "ḥəzəbä",
+          "gl": ""
+        },
+        {
+          "g": "ቃዓት  ወኮነ",
+          "t": "qaʿatə  wäkonä",
+          "gl": ""
+        },
+        {
+          "g": "ለካህናት",
+          "t": "läkahənatə",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "አሮን",
+          "t": "ʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ወለሌዋውያን",
+          "t": "wälälewawəyanə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝበ",
+          "t": "ḥəzəbä",
+          "gl": ""
+        },
+        {
+          "g": "ይሁዳ",
+          "t": "yəhuda",
+          "gl": ""
+        },
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝበ",
+          "t": "ḥəzəbä",
+          "gl": ""
+        },
+        {
+          "g": "ስምዖን",
+          "t": "səməʿonə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝበ",
+          "t": "ḥəzəbä",
+          "gl": ""
+        },
+        {
+          "g": "ብንያሚ",
+          "t": "bənəyami",
+          "gl": ""
+        },
+        {
+          "g": "መክፈልቶሙ",
+          "t": "mäkəfälətomu",
+          "gl": ""
+        },
+        {
+          "g": "ዐሠርቱ",
+          "t": "ʿäśärətu",
+          "gl": ""
+        },
+        {
+          "g": "ወሠለስቱ",
+          "t": "wäśäläsətu",
+          "gl": ""
+        },
+        {
+          "g": "አህጉር",
+          "t": "ʾähəgurə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the lot came out for the children of Caath; and the sons of Aaron, the priests the Levites, had by lot thirteen cities out of the tribe of Juda, and out of the tribe of Symeon, and out of the tribe of Benjamin.",
+        "kjv": "And the lot came out for the families of the Kohathites: and the children of Aaron the priest, which were of the Levites, had by lot out of the tribe of Judah, and out of the tribe of Simeon, and out of the tribe of Benjamin, thirteen cities."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወለደቂቀ ፡ ቃዓት ፡ እለ ፡ ተርፉ ፡ እምውስተ ፡ ሕዝበ ፡ ኤፍሬም ፡ ወእምነ ፡ ሕዝበ ፡ ዳን ፡ ወእምነ ፡ መንፈቀ ፡\n                  ነገደ ፡ መናሴ ፡ መክፈልቶሙ ፡ ዐሠርቱ ፡ (ወሠለስቱ ፡) አህጉር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለደቂቀ",
+          "t": "wälädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ቃዓት",
+          "t": "qaʿatə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ተርፉ",
+          "t": "tärəfu",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝበ",
+          "t": "ḥəzəbä",
+          "gl": ""
+        },
+        {
+          "g": "ኤፍሬም",
+          "t": "ʾefəremə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝበ",
+          "t": "ḥəzəbä",
+          "gl": ""
+        },
+        {
+          "g": "ዳን",
+          "t": "danə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "መንፈቀ",
+          "t": "mänəfäqä",
+          "gl": ""
+        },
+        {
+          "g": "ነገደ",
+          "t": "nägädä",
+          "gl": ""
+        },
+        {
+          "g": "መናሴ",
+          "t": "mänase",
+          "gl": ""
+        },
+        {
+          "g": "መክፈልቶሙ",
+          "t": "mäkəfälətomu",
+          "gl": ""
+        },
+        {
+          "g": "ዐሠርቱ",
+          "t": "ʿäśärətu",
+          "gl": ""
+        },
+        {
+          "g": "ወሠለስቱ",
+          "t": "wäśäläsətu",
+          "gl": ""
+        },
+        {
+          "g": "አህጉር",
+          "t": "ʾähəgurə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And to the sons of Caath that were left were given by lot ten cities, out of the tribe of Ephraim, and out of the tribe of Dan, and out of the half tribe of Manasse.",
+        "kjv": "And the rest of the children of Kohath had by lot out of the families of the tribe of Ephraim, and out of the tribe of Dan, and out of the half tribe of Manasseh, ten cities."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወለደቂቀ ፡ ጌድሶን ፡ እምነ ፡ ነገደ ፡ ሕዝበ ፡ ይሳኮር ፡ ወእምነ ፡ ሕዝበ ፡ አሴር ፡ ወእምነ ፡ ሕዝበ ፡ ንፍታሌም ፡\n                  ወእምነ ፡ መንፈቀ ፡ ነገደ ፡ መናሴ ፡ በባሳን ፡ መክፈልቶሙ ፡ ዐሥሩ ፡ ወሠላስ ፡ አህጉር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለደቂቀ",
+          "t": "wälädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ጌድሶን",
+          "t": "gedəsonə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ነገደ",
+          "t": "nägädä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝበ",
+          "t": "ḥəzəbä",
+          "gl": ""
+        },
+        {
+          "g": "ይሳኮር",
+          "t": "yəsakorə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝበ",
+          "t": "ḥəzəbä",
+          "gl": ""
+        },
+        {
+          "g": "አሴር",
+          "t": "ʾäserə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝበ",
+          "t": "ḥəzəbä",
+          "gl": ""
+        },
+        {
+          "g": "ንፍታሌም",
+          "t": "nəfətalemə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "መንፈቀ",
+          "t": "mänəfäqä",
+          "gl": ""
+        },
+        {
+          "g": "ነገደ",
+          "t": "nägädä",
+          "gl": ""
+        },
+        {
+          "g": "መናሴ",
+          "t": "mänase",
+          "gl": ""
+        },
+        {
+          "g": "በባሳን",
+          "t": "bäbasanə",
+          "gl": ""
+        },
+        {
+          "g": "መክፈልቶሙ",
+          "t": "mäkəfälətomu",
+          "gl": ""
+        },
+        {
+          "g": "ዐሥሩ",
+          "t": "ʿäśəru",
+          "gl": ""
+        },
+        {
+          "g": "ወሠላስ",
+          "t": "wäśälasə",
+          "gl": ""
+        },
+        {
+          "g": "አህጉር",
+          "t": "ʾähəgurə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the sons of Gedson had thirteen cities, out of the tribe of Issachar, and out of the tribe of Aser, and out of the tribe of Nephthali, and out of the half tribe of Manasse in Basan.",
+        "kjv": "And the children of Gershon had by lot out of the families of the tribe of Issachar, and out of the tribe of Asher, and out of the tribe of Naphtali, and out of the half tribe of Manasseh in Bashan, thirteen cities."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወለደቂቀ ፡ ሜራሪ ፡ በበ ፡ ሕዘቢሆሙ ፡ እምነ ፡ ነገደ ፡ ሮቤል ፡ ወእምነ ፡ ነገደ ፡ ጋድ ፡ ወእምነ ፡ ነገደ ፡\n                  ዛቡሎን ፡ መክፈልቶሙ ፡ ዐሥሩ ፡ ወክልኤ ፡ አህጉር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለደቂቀ",
+          "t": "wälädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ሜራሪ",
+          "t": "merari",
+          "gl": ""
+        },
+        {
+          "g": "በበ",
+          "t": "bäbä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዘቢሆሙ",
+          "t": "ḥəzäbihomu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ነገደ",
+          "t": "nägädä",
+          "gl": ""
+        },
+        {
+          "g": "ሮቤል",
+          "t": "robelə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ነገደ",
+          "t": "nägädä",
+          "gl": ""
+        },
+        {
+          "g": "ጋድ",
+          "t": "gadə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ነገደ",
+          "t": "nägädä",
+          "gl": ""
+        },
+        {
+          "g": "ዛቡሎን",
+          "t": "zabulonə",
+          "gl": ""
+        },
+        {
+          "g": "መክፈልቶሙ",
+          "t": "mäkəfälətomu",
+          "gl": ""
+        },
+        {
+          "g": "ዐሥሩ",
+          "t": "ʿäśəru",
+          "gl": ""
+        },
+        {
+          "g": "ወክልኤ",
+          "t": "wäkələʾe",
+          "gl": ""
+        },
+        {
+          "g": "አህጉር",
+          "t": "ʾähəgurə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the sons of Merari according to their families had by lot twelve cities, out of the tribe of Ruben, and out of the tribe of Gad, and out of the tribe of Zabulon.",
+        "kjv": "The children of Merari by their families had out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, twelve cities."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወወሀብዎሙ ፡ ደቂቀ ፡ እስራኤል ፡ ኤህጉረ ፡ ለሌዋውያን ፡ ወፂኦታቲሆን ፡ በከመ ፡ አዘዞ ፡ እግዚአብሔር ፡ ለሙሴ ፡\n                  መክፈልቶሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወወሀብዎሙ",
+          "t": "wäwähäbəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ኤህጉረ",
+          "t": "ʾehəgurä",
+          "gl": ""
+        },
+        {
+          "g": "ለሌዋውያን",
+          "t": "lälewawəyanə",
+          "gl": ""
+        },
+        {
+          "g": "ወፂኦታቲሆን",
+          "t": "wäṣ́iʾotatihonə",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "አዘዞ",
+          "t": "ʾäzäzo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "መክፈልቶሙ",
+          "t": "mäkəfälətomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the children of Israel gave to the Levites the cities and their suburbs, as the Lord commanded Moses, by lot.",
+        "kjv": "And the children of Israel gave by lot unto the Levites these cities with their suburbs, as the LORD commanded by the hand of Moses."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወወሀበ ፡ ነገደ ፡ ደቂቀ ፡ ይሁዳ ፡ ወነገደ ፡ ደቂቀ ፡ ስምዖን ፡ ወእምነ ፡ ነገደ ፡ ደቂቀ ፡ ብንያሚ ፡ እላንተ ፡\n                  አህጉረ ፡ ወተሰምያ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወወሀበ",
+          "t": "wäwähäbä",
+          "gl": ""
+        },
+        {
+          "g": "ነገደ",
+          "t": "nägädä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ይሁዳ",
+          "t": "yəhuda",
+          "gl": ""
+        },
+        {
+          "g": "ወነገደ",
+          "t": "wänägädä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ስምዖን",
+          "t": "səməʿonə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ነገደ",
+          "t": "nägädä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ብንያሚ",
+          "t": "bənəyami",
+          "gl": ""
+        },
+        {
+          "g": "እላንተ",
+          "t": "ʾəlanətä",
+          "gl": ""
+        },
+        {
+          "g": "አህጉረ",
+          "t": "ʾähəgurä",
+          "gl": ""
+        },
+        {
+          "g": "ወተሰምያ",
+          "t": "wätäsäməya",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the tribe of the children of Juda, and the tribe of the children of Symeon, and part of the tribe of the children of Benjamin gave these cities, and they were assigned",
+        "kjv": "And they gave out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, these cities which are here mentioned by name,"
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ለደቂቀ ፡ አሮን ፡ እምነ ፡ ሕዝበ ፡ ቃዓት ፡ ለደቂቀ ፡ ሌዊ ፡ እስመ ፡ ሎሙ ፡ ኮና ፡ መክፈልቶሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "አሮን",
+          "t": "ʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝበ",
+          "t": "ḥəzəbä",
+          "gl": ""
+        },
+        {
+          "g": "ቃዓት",
+          "t": "qaʿatə",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ሌዊ",
+          "t": "lewi",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ሎሙ",
+          "t": "lomu",
+          "gl": ""
+        },
+        {
+          "g": "ኮና",
+          "t": "kona",
+          "gl": ""
+        },
+        {
+          "g": "መክፈልቶሙ",
+          "t": "mäkəfälətomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "to the sons of Aaron of the family of Caath of the sons of Levi, for the lot fell to these.",
+        "kjv": "Which the children of Aaron, being of the families of the Kohathites, who were of the children of Levi, had: for theirs was the first lot."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወወሀብዎሙ ፡ ምድረ ፡ ቀራትርቦቅ ፡ ደብረ ፡ አህጉረ ፡ ኤነቅ ፡ እንተ ፡ ይእቲ ፡ ኬብሮን ፡ በደብረ ፡ ይሁዳ ፡\n                  ወፂኦታቲሃ ፡ ዐውዳ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወወሀብዎሙ",
+          "t": "wäwähäbəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ምድረ",
+          "t": "mədərä",
+          "gl": ""
+        },
+        {
+          "g": "ቀራትርቦቅ",
+          "t": "qäratərəboqə",
+          "gl": ""
+        },
+        {
+          "g": "ደብረ",
+          "t": "däbərä",
+          "gl": ""
+        },
+        {
+          "g": "አህጉረ",
+          "t": "ʾähəgurä",
+          "gl": ""
+        },
+        {
+          "g": "ኤነቅ",
+          "t": "ʾenäqə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ኬብሮን",
+          "t": "kebəronə",
+          "gl": ""
+        },
+        {
+          "g": "በደብረ",
+          "t": "bädäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ይሁዳ",
+          "t": "yəhuda",
+          "gl": ""
+        },
+        {
+          "g": "ወፂኦታቲሃ",
+          "t": "wäṣ́iʾotatiha",
+          "gl": ""
+        },
+        {
+          "g": "ዐውዳ",
+          "t": "ʿäwəda",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they gave to them Cariatharboc the metropolis of the sons of Enac; this is Chebron in the mountain country of Juda, and the suburbs round it.",
+        "kjv": "And they gave them the city of Arba the father of Anak, which city is Hebron, in the hill country of Judah, with the suburbs thereof round about it."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወአሕቅልተ ፡ ሀገር ፡ ወአዕጻዳቲሃ ፡ ወሀቦሙ ፡ ኢየሱስ ፡ ለደቂቀ ፡ ካሌብ ፡ ወልደ ፡ ዬፎኔ ፡ ደወሎሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአሕቅልተ",
+          "t": "wäʾäḥəqələtä",
+          "gl": ""
+        },
+        {
+          "g": "ሀገር",
+          "t": "hägärə",
+          "gl": ""
+        },
+        {
+          "g": "ወአዕጻዳቲሃ",
+          "t": "wäʾäʿəṣadatiha",
+          "gl": ""
+        },
+        {
+          "g": "ወሀቦሙ",
+          "t": "wähäbomu",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሱስ",
+          "t": "ʾiyäsusə",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ካሌብ",
+          "t": "kalebə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ዬፎኔ",
+          "t": "yefone",
+          "gl": ""
+        },
+        {
+          "g": "ደወሎሙ",
+          "t": "däwälomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But the lands of the city, and its villages Joshua gave to the sons of Chaleb the son of Jephonne for a possession.",
+        "kjv": "But the fields of the city, and the villages thereof, gave they to Caleb the son of Jephunneh for his possession."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወለደቂቀ ፡ አሮን ፡ ወሀቦሙ ፡ ሀገረ ፡ ምስካይ ፡ ለቀታሊ ፡ ኬብሮን ፡ ወዘፈለጡ ፡ ምስሌሃ ፡ ወሌምና ፡ ወዘፈለጡ ፡\n                  ምስሌሃ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለደቂቀ",
+          "t": "wälädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "አሮን",
+          "t": "ʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ወሀቦሙ",
+          "t": "wähäbomu",
+          "gl": ""
+        },
+        {
+          "g": "ሀገረ",
+          "t": "hägärä",
+          "gl": ""
+        },
+        {
+          "g": "ምስካይ",
+          "t": "məsəkayə",
+          "gl": ""
+        },
+        {
+          "g": "ለቀታሊ",
+          "t": "läqätali",
+          "gl": ""
+        },
+        {
+          "g": "ኬብሮን",
+          "t": "kebəronə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘፈለጡ",
+          "t": "wäzäfäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሃ",
+          "t": "məsəleha",
+          "gl": ""
+        },
+        {
+          "g": "ወሌምና",
+          "t": "wäleməna",
+          "gl": ""
+        },
+        {
+          "g": "ወዘፈለጡ",
+          "t": "wäzäfäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሃ",
+          "t": "məsəleha",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And to the sons of Aaron he gave the city of refuge for the slayer, Chebron, and the suburbs belonging to it; and Lemna and the suburbs belonging to it;",
+        "kjv": "Thus they gave to the children of Aaron the priest Hebron with her suburbs, to be a city of refuge for the slayer; and Libnah with her suburbs,"
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወኤሎም ፡ ወዘፈለጡ ፡ ምስሌሃ ፡ ወጤማ ፡ ወዘፈለጡ ፡ ምስሌሃ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኤሎም",
+          "t": "wäʾelomə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘፈለጡ",
+          "t": "wäzäfäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሃ",
+          "t": "məsəleha",
+          "gl": ""
+        },
+        {
+          "g": "ወጤማ",
+          "t": "wäṭema",
+          "gl": ""
+        },
+        {
+          "g": "ወዘፈለጡ",
+          "t": "wäzäfäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሃ",
+          "t": "məsəleha",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and Ælom and its suburbs; and Tema and its suburbs;",
+        "kjv": "And Jattir with her suburbs, and Eshtemoa with her suburbs,"
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ወጌላ ፡ ወዘፈለጡ ፡ ምስሌሃ ፡ ወዳቢር ፡ ወዘፈለጡ ፡ ምስሌሃ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወጌላ",
+          "t": "wägela",
+          "gl": ""
+        },
+        {
+          "g": "ወዘፈለጡ",
+          "t": "wäzäfäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሃ",
+          "t": "məsəleha",
+          "gl": ""
+        },
+        {
+          "g": "ወዳቢር",
+          "t": "wädabirə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘፈለጡ",
+          "t": "wäzäfäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሃ",
+          "t": "məsəleha",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and Gella and its suburbs; and Dabir and its suburbs;",
+        "kjv": "And Holon with her suburbs, and Debir with her suburbs,"
+      }
+    },
+    {
+      "num": 16,
+      "geez": "[ወኣሳ ፡ ወዘፈለጡ ፡ ምስሌሃ ፡] ወጣኒ ፡ ወዘፈለጡ ፡ ምስሌሃ ፡ ወ[ቤ]ትሰሚስ ፡ ወዘፈለጡ ፡ ምስሌሃ ፡ ትስዑ ፡\n                  አህጉር ፡ (ወ)እምነ ፡ ክልኤቱ ፡ ሕዝብ ፡ ወእምነ ፡ እሉ ፡ ነገድ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኣሳ",
+          "t": "wäʾasa",
+          "gl": ""
+        },
+        {
+          "g": "ወዘፈለጡ",
+          "t": "wäzäfäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሃ",
+          "t": "məsəleha",
+          "gl": ""
+        },
+        {
+          "g": "ወጣኒ",
+          "t": "wäṭani",
+          "gl": ""
+        },
+        {
+          "g": "ወዘፈለጡ",
+          "t": "wäzäfäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሃ",
+          "t": "məsəleha",
+          "gl": ""
+        },
+        {
+          "g": "ወቤትሰሚስ",
+          "t": "wäbetəsämisə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘፈለጡ",
+          "t": "wäzäfäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሃ",
+          "t": "məsəleha",
+          "gl": ""
+        },
+        {
+          "g": "ትስዑ",
+          "t": "təsəʿu",
+          "gl": ""
+        },
+        {
+          "g": "አህጉር",
+          "t": "ʾähəgurə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ክልኤቱ",
+          "t": "kələʾetu",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "እሉ",
+          "t": "ʾəlu",
+          "gl": ""
+        },
+        {
+          "g": "ነገድ",
+          "t": "nägädə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and Asa and its suburbs; and Tany and its suburbs; and Bæthsamys and its suburbs: nine cities from these two tribes.",
+        "kjv": "And Ain with her suburbs, and Juttah with her suburbs, and Bethshemesh with her suburbs; nine cities out of those two tribes."
+      }
+    },
+    {
+      "num": 17,
+      "geez": "ወእምነ ፡ ነገደ ፡ ብንያሚ ፡ ገባኦ ፡ ወዘፈለጡ ፡ ምስሌሃ ፡ [ወጋባ ፡ ወዘፈለጡ ፡ ምስሌሃ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ነገደ",
+          "t": "nägädä",
+          "gl": ""
+        },
+        {
+          "g": "ብንያሚ",
+          "t": "bənəyami",
+          "gl": ""
+        },
+        {
+          "g": "ገባኦ",
+          "t": "gäbaʾo",
+          "gl": ""
+        },
+        {
+          "g": "ወዘፈለጡ",
+          "t": "wäzäfäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሃ",
+          "t": "məsəleha",
+          "gl": ""
+        },
+        {
+          "g": "ወጋባ",
+          "t": "wägaba",
+          "gl": ""
+        },
+        {
+          "g": "ወዘፈለጡ",
+          "t": "wäzäfäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሃ",
+          "t": "məsəleha",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And from the tribe of Benjamin, Gabaon and its suburbs; and Gatheth and its suburbs;",
+        "kjv": "And out of the tribe of Benjamin, Gibeon with her suburbs, Geba with her suburbs,"
+      }
+    },
+    {
+      "num": 18,
+      "geez": "ወአናቶት ፡ ወዘፈለጡ ፡ ምስሌሃ ፡ ወአልሞን ፡ ወዘፈለጡ ፡ ምስሌሃ ፡] አርባዕ ፡ አህጉር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአናቶት",
+          "t": "wäʾänatotə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘፈለጡ",
+          "t": "wäzäfäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሃ",
+          "t": "məsəleha",
+          "gl": ""
+        },
+        {
+          "g": "ወአልሞን",
+          "t": "wäʾäləmonə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘፈለጡ",
+          "t": "wäzäfäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሃ",
+          "t": "məsəleha",
+          "gl": ""
+        },
+        {
+          "g": "አርባዕ",
+          "t": "ʾärəbaʿə",
+          "gl": ""
+        },
+        {
+          "g": "አህጉር",
+          "t": "ʾähəgurə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and Anathoth and its suburbs; and Gamala and its suburbs; four cities.",
+        "kjv": "Anathoth with her suburbs, and Almon with her suburbs; four cities."
+      }
+    },
+    {
+      "num": 19,
+      "geez": "ወኵሎን ፡ አህጉሪሆሙ ፡ ለደቂቀ ፡ አሮን ፡ ካህናት ፡ ዐሥሩ ፡ ወሠላስ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሎን",
+          "t": "wäkwəlonə",
+          "gl": ""
+        },
+        {
+          "g": "አህጉሪሆሙ",
+          "t": "ʾähəgurihomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "አሮን",
+          "t": "ʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ካህናት",
+          "t": "kahənatə",
+          "gl": ""
+        },
+        {
+          "g": "ዐሥሩ",
+          "t": "ʿäśəru",
+          "gl": ""
+        },
+        {
+          "g": "ወሠላስ",
+          "t": "wäśälasə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "All the cities of the sons of Aaron the priests, thirteen.",
+        "kjv": "All the cities of the children of Aaron, the priests, were thirteen cities with their suburbs."
+      }
+    },
+    {
+      "num": 20,
+      "geez": "ወለነገደ ፡ ደቂቀ ፡ ቃዓት ፡ ለሌዋውያን ፡ እለ ፡ ተርፉ ፡ እምነ ፡ ደቂቀ ፡ ቃዓት ፤ ወኮነ ፡ አህጉሪሆሙ ፡\n                  ለካህናቲሆሙ ፡ እምነ ፡ ሕዝበ ፡ ኤፍሬም ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለነገደ",
+          "t": "wälänägädä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ቃዓት",
+          "t": "qaʿatə",
+          "gl": ""
+        },
+        {
+          "g": "ለሌዋውያን",
+          "t": "lälewawəyanə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ተርፉ",
+          "t": "tärəfu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ቃዓት  ወኮነ",
+          "t": "qaʿatə  wäkonä",
+          "gl": ""
+        },
+        {
+          "g": "አህጉሪሆሙ",
+          "t": "ʾähəgurihomu",
+          "gl": ""
+        },
+        {
+          "g": "ለካህናቲሆሙ",
+          "t": "läkahənatihomu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝበ",
+          "t": "ḥəzəbä",
+          "gl": ""
+        },
+        {
+          "g": "ኤፍሬም",
+          "t": "ʾefəremə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And to the families, even the sons of Caath the Levites, that were left of the sons of Caath, there was given their priests' city,",
+        "kjv": "And the families of the children of Kohath, the Levites which remained of the children of Kohath, even they had the cities of their lot out of the tribe of Ephraim."
+      }
+    },
+    {
+      "num": 21,
+      "geez": "ወወሀቦሙ ፡ ሀገረ ፡ ምስካይ ፡ ለቀታሊ ፡ ሲኬም ፡ ወዘፈለጡ ፡ ምስሌሃ ፡ [ወጌዜር ፡ ወዘፈለጡ ፡ ምስሌሃ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወወሀቦሙ",
+          "t": "wäwähäbomu",
+          "gl": ""
+        },
+        {
+          "g": "ሀገረ",
+          "t": "hägärä",
+          "gl": ""
+        },
+        {
+          "g": "ምስካይ",
+          "t": "məsəkayə",
+          "gl": ""
+        },
+        {
+          "g": "ለቀታሊ",
+          "t": "läqätali",
+          "gl": ""
+        },
+        {
+          "g": "ሲኬም",
+          "t": "sikemə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘፈለጡ",
+          "t": "wäzäfäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሃ",
+          "t": "məsəleha",
+          "gl": ""
+        },
+        {
+          "g": "ወጌዜር",
+          "t": "wägezerə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘፈለጡ",
+          "t": "wäzäfäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሃ",
+          "t": "məsəleha",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "out of the tribe of Ephraim; and they gave them the slayer's city of refuge, Sychem, and its suburbs, and Gazara and its appendages, and its suburbs;",
+        "kjv": "For they gave them Shechem with her suburbs in mount Ephraim, to be a city of refuge for the slayer; and Gezer with her suburbs,"
+      }
+    },
+    {
+      "num": 22,
+      "geez": "ወቄቤሳይን ፡ ወዘፈለጡ ፡ ምስሌሃ ፡] ወቤቶሮን ፡ ወዘፈለጡ ፡ ምስሌሃ ፡ አርባዕ ፡ አህጉር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወቄቤሳይን",
+          "t": "wäqebesayənə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘፈለጡ",
+          "t": "wäzäfäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሃ",
+          "t": "məsəleha",
+          "gl": ""
+        },
+        {
+          "g": "ወቤቶሮን",
+          "t": "wäbetoronə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘፈለጡ",
+          "t": "wäzäfäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሃ",
+          "t": "məsəleha",
+          "gl": ""
+        },
+        {
+          "g": "አርባዕ",
+          "t": "ʾärəbaʿə",
+          "gl": ""
+        },
+        {
+          "g": "አህጉር",
+          "t": "ʾähəgurə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and Bæthoron and its suburbs: four cities:",
+        "kjv": "And Kibzaim with her suburbs, and Bethhoron with her suburbs; four cities."
+      }
+    },
+    {
+      "num": 23,
+      "geez": "ወእምነ ፡ ሕዝበ ፡ ዳን ፡ ኤልቆቴም ፡ ወዘፈለጡ ፡ ምስሌሃ ፡ [ወገባቶን ፡ ወዘፈለጡ ፡ ምስሌሃ ።] ወኤሎን ፡ ወዘፈለጡ\n                  ፡ ምስሌሃ ፡ ወጌቴሬሞን ፡ ወዘፈለጡ ፡ ምስሌሃ ፡ አርባዕ ፡ አህጉር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝበ",
+          "t": "ḥəzəbä",
+          "gl": ""
+        },
+        {
+          "g": "ዳን",
+          "t": "danə",
+          "gl": ""
+        },
+        {
+          "g": "ኤልቆቴም",
+          "t": "ʾeləqotemə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘፈለጡ",
+          "t": "wäzäfäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሃ",
+          "t": "məsəleha",
+          "gl": ""
+        },
+        {
+          "g": "ወገባቶን",
+          "t": "wägäbatonə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘፈለጡ",
+          "t": "wäzäfäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሃ",
+          "t": "məsəleha",
+          "gl": ""
+        },
+        {
+          "g": "ወኤሎን",
+          "t": "wäʾelonə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘፈለጡ",
+          "t": "wäzäfäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሃ",
+          "t": "məsəleha",
+          "gl": ""
+        },
+        {
+          "g": "ወጌቴሬሞን",
+          "t": "wägeteremonə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘፈለጡ",
+          "t": "wäzäfäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሃ",
+          "t": "məsəleha",
+          "gl": ""
+        },
+        {
+          "g": "አርባዕ",
+          "t": "ʾärəbaʿə",
+          "gl": ""
+        },
+        {
+          "g": "አህጉር",
+          "t": "ʾähəgurə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and of the tribe of Dan, Helcothaim and its suburbs; and Gethedan and its suburbs:",
+        "kjv": "And out of the tribe of Dan, Eltekeh with her suburbs, Gibbethon with her suburbs,"
+      }
+    },
+    {
+      "num": 24,
+      "geez": "ወእምነ ፡ መንፈቀ ፡ ነገደ ፡ መናሴ ፡ ጠናኅ ፡ ወዘፈለጡ ፡ ምስሌሃ ፡ ወዬቦታ ፡ ወዘፈለጡ ፡ ምስሌሃ ፡ ክልኤ ፡ አህጉር\n                  ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "መንፈቀ",
+          "t": "mänəfäqä",
+          "gl": ""
+        },
+        {
+          "g": "ነገደ",
+          "t": "nägädä",
+          "gl": ""
+        },
+        {
+          "g": "መናሴ",
+          "t": "mänase",
+          "gl": ""
+        },
+        {
+          "g": "ጠናኅ",
+          "t": "ṭänaḫə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘፈለጡ",
+          "t": "wäzäfäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሃ",
+          "t": "məsəleha",
+          "gl": ""
+        },
+        {
+          "g": "ወዬቦታ",
+          "t": "wäyebota",
+          "gl": ""
+        },
+        {
+          "g": "ወዘፈለጡ",
+          "t": "wäzäfäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሃ",
+          "t": "məsəleha",
+          "gl": ""
+        },
+        {
+          "g": "ክልኤ",
+          "t": "kələʾe",
+          "gl": ""
+        },
+        {
+          "g": "አህጉር",
+          "t": "ʾähəgurə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and Ælon and its suburbs; and Getheremmon and its suburbs: four cities.",
+        "kjv": "Aijalon with her suburbs, Gathrimmon with her suburbs; four cities."
+      }
+    },
+    {
+      "num": 25,
+      "geez": "ወኵሉ ፡ አህጉር ፡ ዐሥሩ ፡ ወዘፈለጡ ፡ ምስሌሆን ፡ ዘቅሩቦን ፡ ለነገደ ፡ ደቂቀ ፡ ቃዐት ፡ ለእለ ፡ ተርፉ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "አህጉር",
+          "t": "ʾähəgurə",
+          "gl": ""
+        },
+        {
+          "g": "ዐሥሩ",
+          "t": "ʿäśəru",
+          "gl": ""
+        },
+        {
+          "g": "ወዘፈለጡ",
+          "t": "wäzäfäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሆን",
+          "t": "məsəlehonə",
+          "gl": ""
+        },
+        {
+          "g": "ዘቅሩቦን",
+          "t": "zäqərubonə",
+          "gl": ""
+        },
+        {
+          "g": "ለነገደ",
+          "t": "länägädä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ቃዐት",
+          "t": "qaʿätə",
+          "gl": ""
+        },
+        {
+          "g": "ለእለ",
+          "t": "läʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ተርፉ",
+          "t": "tärəfu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And out of the half tribe of Manasse, Tanach and its suburbs; and Jebatha and its suburbs; two cities.",
+        "kjv": "And out of the half tribe of Manasseh, Tanach with her suburbs, and Gathrimmon with her suburbs; two cities."
+      }
+    },
+    {
+      "num": 26,
+      "geez": "ወለደቂቀ ፡ ጌድሶን ፡ ለሌዋውያን ፡ እምነ ፡ መንፈቀ ፡ ነገደ ፡ መናሴ ፡ አህጉር ፡ እለ ፡ ፈለጡ ፡ ለቀታሊ ፡ ገውሎን\n                  ፡ በባሳን ፡ ወዘፈለጡ ፡ ምስሌሃ ፡ ወቦሶር ፡ ወዘፈለጡ ፡ ምስሌሃ ፡ ክልኤ ፡ አህጉር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለደቂቀ",
+          "t": "wälädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ጌድሶን",
+          "t": "gedəsonə",
+          "gl": ""
+        },
+        {
+          "g": "ለሌዋውያን",
+          "t": "lälewawəyanə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "መንፈቀ",
+          "t": "mänəfäqä",
+          "gl": ""
+        },
+        {
+          "g": "ነገደ",
+          "t": "nägädä",
+          "gl": ""
+        },
+        {
+          "g": "መናሴ",
+          "t": "mänase",
+          "gl": ""
+        },
+        {
+          "g": "አህጉር",
+          "t": "ʾähəgurə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ፈለጡ",
+          "t": "fäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ለቀታሊ",
+          "t": "läqätali",
+          "gl": ""
+        },
+        {
+          "g": "ገውሎን",
+          "t": "gäwəlonə",
+          "gl": ""
+        },
+        {
+          "g": "በባሳን",
+          "t": "bäbasanə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘፈለጡ",
+          "t": "wäzäfäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሃ",
+          "t": "məsəleha",
+          "gl": ""
+        },
+        {
+          "g": "ወቦሶር",
+          "t": "wäbosorə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘፈለጡ",
+          "t": "wäzäfäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሃ",
+          "t": "məsəleha",
+          "gl": ""
+        },
+        {
+          "g": "ክልኤ",
+          "t": "kələʾe",
+          "gl": ""
+        },
+        {
+          "g": "አህጉር",
+          "t": "ʾähəgurə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "In all were given ten cities, and the suburbs of each belonging to them, to the families of the sons of Caath that remained.",
+        "kjv": "All the cities were ten with their suburbs for the families of the children of Kohath that remained."
+      }
+    },
+    {
+      "num": 27,
+      "geez": "[ወእምነ ፡ ሕዝበ ፡ ይሳኮር ፡ ቄስዮን ፡ ወዘፈለጡ ፡ ምስሌሃ ፡ ወዳቤራት ፡ ወዘፈለጡ ፡ ምስሌሃ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝበ",
+          "t": "ḥəzəbä",
+          "gl": ""
+        },
+        {
+          "g": "ይሳኮር",
+          "t": "yəsakorə",
+          "gl": ""
+        },
+        {
+          "g": "ቄስዮን",
+          "t": "qesəyonə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘፈለጡ",
+          "t": "wäzäfäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሃ",
+          "t": "məsəleha",
+          "gl": ""
+        },
+        {
+          "g": "ወዳቤራት",
+          "t": "wädaberatə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘፈለጡ",
+          "t": "wäzäfäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሃ",
+          "t": "məsəleha",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Joshua gave to the sons of Gedson the Levites out of the other half tribe of Manasse cities set apart for the slayers, Gaulon in the country of Basan, and its suburbs; and Bosora and its suburbs; two cities.",
+        "kjv": "And unto the children of Gershon, of the families of the Levites, out of the other half tribe of Manasseh they gave Golan in Bashan with her suburbs, to be a city of refuge for the slayer; and Beeshterah with her suburbs; two cities."
+      }
+    },
+    {
+      "num": 28,
+      "geez": "ወያሬሞት ፡ ወዘፈለጡ ፡ ምስሌሃ ፡ ወኤንጋን ፡ ወዘፈለጡ ፡ ምስሌሃ ፡ አርባዕ ፡ አህጉር ።] ወእምነ ፡ ሕዝበ ፡ አሴር ፡\n                  በሴላ ፡ ወዘፈለጡ ፡ ምስሌሃ ፡ ወደቦ ፡ ወዘፈለጡ ፡ ምስሌሃ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያሬሞት",
+          "t": "wäyaremotə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘፈለጡ",
+          "t": "wäzäfäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሃ",
+          "t": "məsəleha",
+          "gl": ""
+        },
+        {
+          "g": "ወኤንጋን",
+          "t": "wäʾenəganə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘፈለጡ",
+          "t": "wäzäfäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሃ",
+          "t": "məsəleha",
+          "gl": ""
+        },
+        {
+          "g": "አርባዕ",
+          "t": "ʾärəbaʿə",
+          "gl": ""
+        },
+        {
+          "g": "አህጉር",
+          "t": "ʾähəgurə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝበ",
+          "t": "ḥəzəbä",
+          "gl": ""
+        },
+        {
+          "g": "አሴር",
+          "t": "ʾäserə",
+          "gl": ""
+        },
+        {
+          "g": "በሴላ",
+          "t": "bäsela",
+          "gl": ""
+        },
+        {
+          "g": "ወዘፈለጡ",
+          "t": "wäzäfäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሃ",
+          "t": "məsəleha",
+          "gl": ""
+        },
+        {
+          "g": "ወደቦ",
+          "t": "wädäbo",
+          "gl": ""
+        },
+        {
+          "g": "ወዘፈለጡ",
+          "t": "wäzäfäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሃ",
+          "t": "məsəleha",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And out of the tribe of Issachar, Kison and its suburbs; and Debba and its suburbs;",
+        "kjv": "And out of the tribe of Issachar, Kishon with her suburbs, Dabareh with her suburbs,"
+      }
+    },
+    {
+      "num": 29,
+      "geez": "ወኬልቀጥ ፡ ወዘፈለጡ ፡ ምስሌሃ ፡ ወራአብ ፡ ወዘፈለጡ ፡ ምስሌሃ ፡ አርባዕ ፡ አህጉር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኬልቀጥ",
+          "t": "wäkeləqäṭə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘፈለጡ",
+          "t": "wäzäfäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሃ",
+          "t": "məsəleha",
+          "gl": ""
+        },
+        {
+          "g": "ወራአብ",
+          "t": "wäraʾäbə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘፈለጡ",
+          "t": "wäzäfäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሃ",
+          "t": "məsəleha",
+          "gl": ""
+        },
+        {
+          "g": "አርባዕ",
+          "t": "ʾärəbaʿə",
+          "gl": ""
+        },
+        {
+          "g": "አህጉር",
+          "t": "ʾähəgurə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and Remmath and its suburbs; and the well of Letters, and its suburbs; four cities.",
+        "kjv": "Jarmuth with her suburbs, Engannim with her suburbs; four cities."
+      }
+    },
+    {
+      "num": 30,
+      "geez": "ወእምነ ፡ ሕዝበ ፡ ንፍታሌም ፡ ሀገር ፡ እንተ ፡ ፈለጡ ፡ ለቀታሊ ፡ ጋዴስ ፡ በገሊላ ፡ ወዘፈለጡ ፡ ምስሌሃ ፡ ወጴመት\n                  ፡ ወዘፈለጡ ፡ ምስሌሃ ፡ ወአዔሞን ፡ ወዘፈለጡ ፡ ምስሌሃ ፡ ሠላስ ፡ አህጉር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝበ",
+          "t": "ḥəzəbä",
+          "gl": ""
+        },
+        {
+          "g": "ንፍታሌም",
+          "t": "nəfətalemə",
+          "gl": ""
+        },
+        {
+          "g": "ሀገር",
+          "t": "hägärə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ፈለጡ",
+          "t": "fäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ለቀታሊ",
+          "t": "läqätali",
+          "gl": ""
+        },
+        {
+          "g": "ጋዴስ",
+          "t": "gadesə",
+          "gl": ""
+        },
+        {
+          "g": "በገሊላ",
+          "t": "bägälila",
+          "gl": ""
+        },
+        {
+          "g": "ወዘፈለጡ",
+          "t": "wäzäfäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሃ",
+          "t": "məsəleha",
+          "gl": ""
+        },
+        {
+          "g": "ወጴመት",
+          "t": "wäṗemätə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘፈለጡ",
+          "t": "wäzäfäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሃ",
+          "t": "məsəleha",
+          "gl": ""
+        },
+        {
+          "g": "ወአዔሞን",
+          "t": "wäʾäʿemonə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘፈለጡ",
+          "t": "wäzäfäläṭu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሃ",
+          "t": "məsəleha",
+          "gl": ""
+        },
+        {
+          "g": "ሠላስ",
+          "t": "śälasə",
+          "gl": ""
+        },
+        {
+          "g": "አህጉር",
+          "t": "ʾähəgurə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And out of the tribe of Aser, Basella and its suburbs; and Dabbon and its suburbs;",
+        "kjv": "And out of the tribe of Asher, Mishal with her suburbs, Abdon with her suburbs,"
+      }
+    },
+    {
+      "num": 31,
+      "geez": "ወኵሉ ፡ አህጉር ፡ ዘጌድሶን ፡ በበ ፡ ሕዘቢሆሙ ፡ ዐሥሩ ፡ ወሠላስ ፡ አህጉር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "አህጉር",
+          "t": "ʾähəgurə",
+          "gl": ""
+        },
+        {
+          "g": "ዘጌድሶን",
+          "t": "zägedəsonə",
+          "gl": ""
+        },
+        {
+          "g": "በበ",
+          "t": "bäbä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዘቢሆሙ",
+          "t": "ḥəzäbihomu",
+          "gl": ""
+        },
+        {
+          "g": "ዐሥሩ",
+          "t": "ʿäśəru",
+          "gl": ""
+        },
+        {
+          "g": "ወሠላስ",
+          "t": "wäśälasə",
+          "gl": ""
+        },
+        {
+          "g": "አህጉር",
+          "t": "ʾähəgurə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and Chelcat and its suburbs; and Raab and its suburbs; four cities.",
+        "kjv": "Helkath with her suburbs, and Rehob with her suburbs; four cities."
+      }
+    },
+    {
+      "num": 32,
+      "geez": "ወለነገደ ፡ ሕዝበ ፡ ሜራሪ ፡ ለእለ ፡ ተርፉ ፡ ሌዋውያን ፤ (ወ)እምነ ፡ ሕዝበ ፡ ዛቡሎን ፡ ማዐን ፡ ወፂኦታቲሃ ፡\n                  ወቃዴስ ፡ ወፂኦታቲሃ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለነገደ",
+          "t": "wälänägädä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝበ",
+          "t": "ḥəzəbä",
+          "gl": ""
+        },
+        {
+          "g": "ሜራሪ",
+          "t": "merari",
+          "gl": ""
+        },
+        {
+          "g": "ለእለ",
+          "t": "läʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ተርፉ",
+          "t": "tärəfu",
+          "gl": ""
+        },
+        {
+          "g": "ሌዋውያን  ወእምነ",
+          "t": "lewawəyanə  wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝበ",
+          "t": "ḥəzəbä",
+          "gl": ""
+        },
+        {
+          "g": "ዛቡሎን",
+          "t": "zabulonə",
+          "gl": ""
+        },
+        {
+          "g": "ማዐን",
+          "t": "maʿänə",
+          "gl": ""
+        },
+        {
+          "g": "ወፂኦታቲሃ",
+          "t": "wäṣ́iʾotatiha",
+          "gl": ""
+        },
+        {
+          "g": "ወቃዴስ",
+          "t": "wäqadesə",
+          "gl": ""
+        },
+        {
+          "g": "ወፂኦታቲሃ",
+          "t": "wäṣ́iʾotatiha",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And of the tribe of Nephthali, the city set apart for the slayer, Cades in Galilee, and its suburbs; and Nemmath, and its suburbs; and Themmon and its suburbs; three cities.",
+        "kjv": "And out of the tribe of Naphtali, Kedesh in Galilee with her suburbs, to be a city of refuge for the slayer; and Hammothdor with her suburbs, and Kartan with her suburbs; three cities."
+      }
+    },
+    {
+      "num": 33,
+      "geez": "ወሴላ ፡ ወፂኦታቲሃ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሴላ",
+          "t": "wäsela",
+          "gl": ""
+        },
+        {
+          "g": "ወፂኦታቲሃ",
+          "t": "wäṣ́iʾotatiha",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "All the cities of Gedson according to their families were thirteen cities.",
+        "kjv": "All the cities of the Gershonites according to their families were thirteen cities with their suburbs."
+      }
+    },
+    {
+      "num": 34,
+      "geez": "ወበማዕዶተ ፡ ዮርዳንስ ፡ ዘመንገለ ፡ ኢየሪኮ ፡ እምነ ፡ ሕዝበ ፡ ሮቤል ፡ ሀገረ ፡ ምስካይ ፡ ለቀታሊ ፡ ቦሶር ፡\n                  በገዳም ፡ ዘሚሶን ፡ ወፂኦታቲሃ ፡ ወያዜር ፡ ወፂኦታቲሃ ፡ ወጋዴዮን ፡ ወፂኦታቲሃ ፡ ወአውሳፋ ፡ ወፂኦታቲሃ ፡ አርባዕ ፡\n                  አህጉር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበማዕዶተ",
+          "t": "wäbämaʿədotä",
+          "gl": ""
+        },
+        {
+          "g": "ዮርዳንስ",
+          "t": "yorədanəsə",
+          "gl": ""
+        },
+        {
+          "g": "ዘመንገለ",
+          "t": "zämänəgälä",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሪኮ",
+          "t": "ʾiyäriko",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝበ",
+          "t": "ḥəzəbä",
+          "gl": ""
+        },
+        {
+          "g": "ሮቤል",
+          "t": "robelə",
+          "gl": ""
+        },
+        {
+          "g": "ሀገረ",
+          "t": "hägärä",
+          "gl": ""
+        },
+        {
+          "g": "ምስካይ",
+          "t": "məsəkayə",
+          "gl": ""
+        },
+        {
+          "g": "ለቀታሊ",
+          "t": "läqätali",
+          "gl": ""
+        },
+        {
+          "g": "ቦሶር",
+          "t": "bosorə",
+          "gl": ""
+        },
+        {
+          "g": "በገዳም",
+          "t": "bägädamə",
+          "gl": ""
+        },
+        {
+          "g": "ዘሚሶን",
+          "t": "zämisonə",
+          "gl": ""
+        },
+        {
+          "g": "ወፂኦታቲሃ",
+          "t": "wäṣ́iʾotatiha",
+          "gl": ""
+        },
+        {
+          "g": "ወያዜር",
+          "t": "wäyazerə",
+          "gl": ""
+        },
+        {
+          "g": "ወፂኦታቲሃ",
+          "t": "wäṣ́iʾotatiha",
+          "gl": ""
+        },
+        {
+          "g": "ወጋዴዮን",
+          "t": "wägadeyonə",
+          "gl": ""
+        },
+        {
+          "g": "ወፂኦታቲሃ",
+          "t": "wäṣ́iʾotatiha",
+          "gl": ""
+        },
+        {
+          "g": "ወአውሳፋ",
+          "t": "wäʾäwəsafa",
+          "gl": ""
+        },
+        {
+          "g": "ወፂኦታቲሃ",
+          "t": "wäṣ́iʾotatiha",
+          "gl": ""
+        },
+        {
+          "g": "አርባዕ",
+          "t": "ʾärəbaʿə",
+          "gl": ""
+        },
+        {
+          "g": "አህጉር",
+          "t": "ʾähəgurə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And to the family of the sons of Merari the Levites that remained, he gave out of the tribe of Zabulon, Maan and its suburbs; and Cades and its suburbs,",
+        "kjv": "And unto the families of the children of Merari, the rest of the Levites, out of the tribe of Zebulun, Jokneam with her suburbs, and Kartah with her suburbs,"
+      }
+    },
+    {
+      "num": 35,
+      "geez": "ወእምነ ፡ ሕዝበ ፡ ጋድ ፡ ሀገር ፡ ለምስካየ ፡ ቀታሊ ፡ ራሞት ፡ በገላአድ ፡ ወፂኦታቲሃ ፡ ወቃሚን ፡ ወፂኦታቲሃ ፡\n                  ወ[ሔ]ሴቦን ፡ ወፂኦታቲሃ ፡ ወያዜር ፡ ወፂኦታቲሃ ፡ አርባዕ ፡ ኵሉ ፡ አህጉር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝበ",
+          "t": "ḥəzəbä",
+          "gl": ""
+        },
+        {
+          "g": "ጋድ",
+          "t": "gadə",
+          "gl": ""
+        },
+        {
+          "g": "ሀገር",
+          "t": "hägärə",
+          "gl": ""
+        },
+        {
+          "g": "ለምስካየ",
+          "t": "läməsəkayä",
+          "gl": ""
+        },
+        {
+          "g": "ቀታሊ",
+          "t": "qätali",
+          "gl": ""
+        },
+        {
+          "g": "ራሞት",
+          "t": "ramotə",
+          "gl": ""
+        },
+        {
+          "g": "በገላአድ",
+          "t": "bägälaʾädə",
+          "gl": ""
+        },
+        {
+          "g": "ወፂኦታቲሃ",
+          "t": "wäṣ́iʾotatiha",
+          "gl": ""
+        },
+        {
+          "g": "ወቃሚን",
+          "t": "wäqaminə",
+          "gl": ""
+        },
+        {
+          "g": "ወፂኦታቲሃ",
+          "t": "wäṣ́iʾotatiha",
+          "gl": ""
+        },
+        {
+          "g": "ወሔሴቦን",
+          "t": "wäḥesebonə",
+          "gl": ""
+        },
+        {
+          "g": "ወፂኦታቲሃ",
+          "t": "wäṣ́iʾotatiha",
+          "gl": ""
+        },
+        {
+          "g": "ወያዜር",
+          "t": "wäyazerə",
+          "gl": ""
+        },
+        {
+          "g": "ወፂኦታቲሃ",
+          "t": "wäṣ́iʾotatiha",
+          "gl": ""
+        },
+        {
+          "g": "አርባዕ",
+          "t": "ʾärəbaʿə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "አህጉር",
+          "t": "ʾähəgurə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and Sella and its suburbs: three cities.",
+        "kjv": "Dimnah with her suburbs, Nahalal with her suburbs; four cities."
+      }
+    },
+    {
+      "num": 36,
+      "geez": "ወዘደቂቀ ፡ ሜራሪኒ ፡ በበ ፡ ሕዘቢሆሙ ፡ ኵሉ ፡ አህጉሪሆሙ ፡ ለእለ ፡ ተርፉ ፡ እምነ ፡ ነገደ ፡ ሌዊ ፡ ወኮነ ፡\n                  ደወሎሙ ፡ ዐሥሩ ፡ ወክልኤ ፡ አህጉር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዘደቂቀ",
+          "t": "wäzädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ሜራሪኒ",
+          "t": "merarini",
+          "gl": ""
+        },
+        {
+          "g": "በበ",
+          "t": "bäbä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዘቢሆሙ",
+          "t": "ḥəzäbihomu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "አህጉሪሆሙ",
+          "t": "ʾähəgurihomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእለ",
+          "t": "läʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ተርፉ",
+          "t": "tärəfu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ነገደ",
+          "t": "nägädä",
+          "gl": ""
+        },
+        {
+          "g": "ሌዊ",
+          "t": "lewi",
+          "gl": ""
+        },
+        {
+          "g": "ወኮነ",
+          "t": "wäkonä",
+          "gl": ""
+        },
+        {
+          "g": "ደወሎሙ",
+          "t": "däwälomu",
+          "gl": ""
+        },
+        {
+          "g": "ዐሥሩ",
+          "t": "ʿäśəru",
+          "gl": ""
+        },
+        {
+          "g": "ወክልኤ",
+          "t": "wäkələʾe",
+          "gl": ""
+        },
+        {
+          "g": "አህጉር",
+          "t": "ʾähəgurə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And beyond Jordan over against Jericho, out of the tribe of Ruben, the city of refuge for the slayer, Bosor in the wilderness; Miso and its suburbs; and Jazer and its suburbs;",
+        "kjv": "And out of the tribe of Reuben, Bezer with her suburbs, and Jahazah with her suburbs,"
+      }
+    },
+    {
+      "num": 37,
+      "geez": "ወኵሉ ፡ አህጉሪሆሙ ፡ ለሌዋውያን ፡ በማእከለ ፡ ደወሎሙ ፡ ለደቂቀ ፡ እስራኤል ፡ አርብዓ ፡ ወሰማኒ ፡ አህጉር ፡\n                  ወፂኦታቲሆን ፡ ዘአውዶን ፡ ለእማንቱ ፡ አህጉር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "አህጉሪሆሙ",
+          "t": "ʾähəgurihomu",
+          "gl": ""
+        },
+        {
+          "g": "ለሌዋውያን",
+          "t": "lälewawəyanə",
+          "gl": ""
+        },
+        {
+          "g": "በማእከለ",
+          "t": "bämaʾəkälä",
+          "gl": ""
+        },
+        {
+          "g": "ደወሎሙ",
+          "t": "däwälomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "አርብዓ",
+          "t": "ʾärəbəʿa",
+          "gl": ""
+        },
+        {
+          "g": "ወሰማኒ",
+          "t": "wäsämani",
+          "gl": ""
+        },
+        {
+          "g": "አህጉር",
+          "t": "ʾähəgurə",
+          "gl": ""
+        },
+        {
+          "g": "ወፂኦታቲሆን",
+          "t": "wäṣ́iʾotatihonə",
+          "gl": ""
+        },
+        {
+          "g": "ዘአውዶን",
+          "t": "zäʾäwədonə",
+          "gl": ""
+        },
+        {
+          "g": "ለእማንቱ",
+          "t": "läʾəmanətu",
+          "gl": ""
+        },
+        {
+          "g": "አህጉር",
+          "t": "ʾähəgurə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and Decmon and its suburbs; and Mapha and its suburbs; four cities.",
+        "kjv": "Kedemoth with her suburbs, and Mephaath with her suburbs; four cities."
+      }
+    },
+    {
+      "num": 38,
+      "geez": "ለለ ፡ ሀገር ፡ ፂኦታቲሃ ፡ ዐውዳ ፡ ለሀገር ፡ ለኵሎን ፡ እላንቱ ፡ አህጉር ፤ ወፈጸመ ፡ ኢየሱስ ፡ ከ[ፊለ] ፡ ምድር\n                  ፡ በበ ፡ ደወሎሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ለለ",
+          "t": "lälä",
+          "gl": ""
+        },
+        {
+          "g": "ሀገር",
+          "t": "hägärə",
+          "gl": ""
+        },
+        {
+          "g": "ፂኦታቲሃ",
+          "t": "ṣ́iʾotatiha",
+          "gl": ""
+        },
+        {
+          "g": "ዐውዳ",
+          "t": "ʿäwəda",
+          "gl": ""
+        },
+        {
+          "g": "ለሀገር",
+          "t": "lähägärə",
+          "gl": ""
+        },
+        {
+          "g": "ለኵሎን",
+          "t": "läkwəlonə",
+          "gl": ""
+        },
+        {
+          "g": "እላንቱ",
+          "t": "ʾəlanətu",
+          "gl": ""
+        },
+        {
+          "g": "አህጉር  ወፈጸመ",
+          "t": "ʾähəgurə  wäfäṣämä",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሱስ",
+          "t": "ʾiyäsusə",
+          "gl": ""
+        },
+        {
+          "g": "ከፊለ",
+          "t": "käfilä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "በበ",
+          "t": "bäbä",
+          "gl": ""
+        },
+        {
+          "g": "ደወሎሙ",
+          "t": "däwälomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And out of the tribe of Gad the city of refuge for the slayer, both Ramoth in Galaad, and its suburbs; Camin and its suburbs;",
+        "kjv": "And out of the tribe of Gad, Ramoth in Gilead with her suburbs, to be a city of refuge for the slayer; and Mahanaim with her suburbs,"
+      }
+    },
+    {
+      "num": 39,
+      "geez": "ወወሀብዎ ፡ ደቂቀ ፡ እስራኤል ፡ ክፍሎ ፡ ለኢየሱስ ፡ በትእዛዘ ፡ እግዚአብሔር ፡ ወወሀብዎ ፡ ሀገረ ፡ እንተ ፡ ሰአለ ፡\n                  ተምናሳረኅ ፡ ወወሀብዎ ፡ በደብረ ፡ ኤፍሬም ፡ ወነደቃ ፡ ኢየሱስ ፡ ለይእቲ ፡ ሀገር ፡ ወነበረ ፡ ውስቴታ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወወሀብዎ",
+          "t": "wäwähäbəwo",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ክፍሎ",
+          "t": "kəfəlo",
+          "gl": ""
+        },
+        {
+          "g": "ለኢየሱስ",
+          "t": "läʾiyäsusə",
+          "gl": ""
+        },
+        {
+          "g": "በትእዛዘ",
+          "t": "bätəʾəzazä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወወሀብዎ",
+          "t": "wäwähäbəwo",
+          "gl": ""
+        },
+        {
+          "g": "ሀገረ",
+          "t": "hägärä",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ሰአለ",
+          "t": "säʾälä",
+          "gl": ""
+        },
+        {
+          "g": "ተምናሳረኅ",
+          "t": "tämənasaräḫə",
+          "gl": ""
+        },
+        {
+          "g": "ወወሀብዎ",
+          "t": "wäwähäbəwo",
+          "gl": ""
+        },
+        {
+          "g": "በደብረ",
+          "t": "bädäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ኤፍሬም",
+          "t": "ʾefəremə",
+          "gl": ""
+        },
+        {
+          "g": "ወነደቃ",
+          "t": "wänädäqa",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሱስ",
+          "t": "ʾiyäsusə",
+          "gl": ""
+        },
+        {
+          "g": "ለይእቲ",
+          "t": "läyəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ሀገር",
+          "t": "hägärə",
+          "gl": ""
+        },
+        {
+          "g": "ወነበረ",
+          "t": "wänäbärä",
+          "gl": ""
+        },
+        {
+          "g": "ውስቴታ",
+          "t": "wəsəteta",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and Esbon and its suburbs; and Jazer and its suburbs: the cities were four in all.",
+        "kjv": "Heshbon with her suburbs, Jazer with her suburbs; four cities in all."
+      }
+    },
+    {
+      "num": 40,
+      "geez": "ወነሥአ ፡ ኢየሱስ ፡ ዝክተ ፡ መጣብኀ ፡ ዘእዝኅ ፡ ዘቦቱ ፡ ገዘሮሙ ፡ ለደቂቀ ፡ እስራኤል ፡ ለእለ ፡ ሀለዉ ፡ ምስሌሁ\n                  ፡ ውስተ ፡ ፍኖት ፡ በገዳም ፡ እስመ ፡ ኢተገዝሩ ፡ በገዳም ፡ ወአንበሮን ፡ ውስተ ፡ ተምናሳረኅ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነሥአ",
+          "t": "wänäśəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሱስ",
+          "t": "ʾiyäsusə",
+          "gl": ""
+        },
+        {
+          "g": "ዝክተ",
+          "t": "zəkətä",
+          "gl": ""
+        },
+        {
+          "g": "መጣብኀ",
+          "t": "mäṭabəḫä",
+          "gl": ""
+        },
+        {
+          "g": "ዘእዝኅ",
+          "t": "zäʾəzəḫə",
+          "gl": ""
+        },
+        {
+          "g": "ዘቦቱ",
+          "t": "zäbotu",
+          "gl": ""
+        },
+        {
+          "g": "ገዘሮሙ",
+          "t": "gäzäromu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ለእለ",
+          "t": "läʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሀለዉ",
+          "t": "häläwu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሁ",
+          "t": "məsəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ፍኖት",
+          "t": "fənotə",
+          "gl": ""
+        },
+        {
+          "g": "በገዳም",
+          "t": "bägädamə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኢተገዝሩ",
+          "t": "ʾitägäzəru",
+          "gl": ""
+        },
+        {
+          "g": "በገዳም",
+          "t": "bägädamə",
+          "gl": ""
+        },
+        {
+          "g": "ወአንበሮን",
+          "t": "wäʾänəbäronə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ተምናሳረኅ",
+          "t": "tämənasaräḫə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "All these cities were given to the sons of Merari according to the families of them that were left out of the tribe of Levi; and their limits were the twelve cities.",
+        "kjv": "So all the cities for the children of Merari by their families, which were remaining of the families of the Levites, were by their lot twelve cities."
+      }
+    },
+    {
+      "num": 41,
+      "geez": "ወወሀቦሙ ፡ እግዚአብሔር ፡ ለደቂቀ ፡ እስራኤል ፡ ኵሎ ፡ ምድረ ፡ እንተ ፡ መሐለ ፡ ለአበዊሆሙ ፡ ወተወርስዋ ፡ ወነበሩ\n                  ፡ ውስቴታ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወወሀቦሙ",
+          "t": "wäwähäbomu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ምድረ",
+          "t": "mədərä",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "መሐለ",
+          "t": "mäḥälä",
+          "gl": ""
+        },
+        {
+          "g": "ለአበዊሆሙ",
+          "t": "läʾäbäwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወተወርስዋ",
+          "t": "wätäwärəsəwa",
+          "gl": ""
+        },
+        {
+          "g": "ወነበሩ",
+          "t": "wänäbäru",
+          "gl": ""
+        },
+        {
+          "g": "ውስቴታ",
+          "t": "wəsəteta",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "All the cities of the Levites in the midst of the possession of the children of Israel, were forty-eight cities,",
+        "kjv": "All the cities of the Levites within the possession of the children of Israel were forty and eight cities with their suburbs."
+      }
+    },
+    {
+      "num": 42,
+      "geez": "ወአዕረፎሙ ፡ እግዚአብሔር ፡ እምነ ፡ ዐውዶሙ ፡ በከመ ፡ መሐለ ፡ ለአበዊሆሙ ፡ ወአልቦ ፡ እንከ ፡ መኑሂ ፡ ዘተቃወሞሙ\n                  ፡ ቅድመ ፡ ገጾሙ ፡ እምነ ፡ ኵሉ ፡ ፀሮሙ ፡ እስመ ፡ አግብኦሙ ፡ እግዚአብሔር ፡ ለኵሉ ፡ ፀሮሙ ፡ ውስተ ፡ እዴሆሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአዕረፎሙ",
+          "t": "wäʾäʿəräfomu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ዐውዶሙ",
+          "t": "ʿäwədomu",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "መሐለ",
+          "t": "mäḥälä",
+          "gl": ""
+        },
+        {
+          "g": "ለአበዊሆሙ",
+          "t": "läʾäbäwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወአልቦ",
+          "t": "wäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "እንከ",
+          "t": "ʾənəkä",
+          "gl": ""
+        },
+        {
+          "g": "መኑሂ",
+          "t": "mänuhi",
+          "gl": ""
+        },
+        {
+          "g": "ዘተቃወሞሙ",
+          "t": "zätäqawämomu",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ገጾሙ",
+          "t": "gäṣomu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ፀሮሙ",
+          "t": "ṣ́äromu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አግብኦሙ",
+          "t": "ʾägəbəʾomu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለኵሉ",
+          "t": "läkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ፀሮሙ",
+          "t": "ṣ́äromu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሆሙ",
+          "t": "ʾədehomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and Joshua took the knives of stone, wherewith he circumcised the children of Israel that were born in the desert by the way, and put them in Thamnasachar.",
+        "kjv": "These cities were every one with their suburbs round about them: thus were all these cities."
+      }
+    },
+    {
+      "num": 43,
+      "geez": "ወኢተርፈት ፡ አሐቲ ፡ ቃል ፡ እምነ ፡ ኵሉ ፡ ሠናይት ፡ እንተ ፡ ይቤሎሙ ፡ እግዚአብሔር ፡ ለደቂቀ ፡ እስራኤል ፡ ኵሉ\n                  ፡ በጽሖሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኢተርፈት",
+          "t": "wäʾitärəfätə",
+          "gl": ""
+        },
+        {
+          "g": "አሐቲ",
+          "t": "ʾäḥäti",
+          "gl": ""
+        },
+        {
+          "g": "ቃል",
+          "t": "qalə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይት",
+          "t": "śänayətə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ይቤሎሙ",
+          "t": "yəbelomu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "በጽሖሙ",
+          "t": "bäṣəḥomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "So the Lord gave to Israel all the land which he sware to give to their fathers: and they inherited it, and dwelt in it.",
+        "kjv": "And the LORD gave unto Israel all the land which he sware to give unto their fathers; and they possessed it, and dwelt therein."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

@@ -1,0 +1,1632 @@
+{
+  "book": "Eccl",
+  "chapter": 5,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ዕቀብ፡ እገሪከ፡ ሶበ፡ ተሐውር፡ ውስተ፡ ቤተ፡ እግዚአብሔር፡ ወቅረብ፡ ለሰሚዐ፡ ትምህርቶሙ፡ ለጠቢባን፡ ዓዲ፡ ተዓቀብ፡ እምነ፡ ሀብቶሙ፡ ለዓብዳን፡ መሥዋዕተ፡ እስመ፡ ኢኮኑ፡ ማእምራን፡ ለገቢረ፡ ሠናይ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዕቀብ",
+          "t": "ʿəqäbə",
+          "gl": ""
+        },
+        {
+          "g": "እገሪከ",
+          "t": "ʾəgärikä",
+          "gl": ""
+        },
+        {
+          "g": "ሶበ",
+          "t": "sobä",
+          "gl": ""
+        },
+        {
+          "g": "ተሐውር",
+          "t": "täḥäwərə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ቤተ",
+          "t": "betä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወቅረብ",
+          "t": "wäqəräbə",
+          "gl": ""
+        },
+        {
+          "g": "ለሰሚዐ",
+          "t": "läsämiʿä",
+          "gl": ""
+        },
+        {
+          "g": "ትምህርቶሙ",
+          "t": "təməhərətomu",
+          "gl": ""
+        },
+        {
+          "g": "ለጠቢባን",
+          "t": "läṭäbibanə",
+          "gl": ""
+        },
+        {
+          "g": "ዓዲ",
+          "t": "ʿadi",
+          "gl": ""
+        },
+        {
+          "g": "ተዓቀብ",
+          "t": "täʿaqäbə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ሀብቶሙ",
+          "t": "häbətomu",
+          "gl": ""
+        },
+        {
+          "g": "ለዓብዳን",
+          "t": "läʿabədanə",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕተ",
+          "t": "mäśəwaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኢኮኑ",
+          "t": "ʾikonu",
+          "gl": ""
+        },
+        {
+          "g": "ማእምራን",
+          "t": "maʾəməranə",
+          "gl": ""
+        },
+        {
+          "g": "ለገቢረ",
+          "t": "lägäbirä",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይ",
+          "t": "śänayə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Be not hasty with thy mouth, and let not thine heart be swift to utter anything before God; for God is in heaven above, and thou upon earth: therefore let thy words be few.",
+        "kjv": "Keep thy foot when thou goest to the house of God, and be more ready to hear, than to give the sacrifice of fools: for they consider not that they do evil."
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ወዓዲ፡ ተዓቀብ፡ ከመ፡ ኢትጐጒዕ፡ በአፉከ፡ ወበልብከሂ፡ ኢትጐጒዕ፡ ለአውጽኦ፡ ቃል፡ ቅድመ፡ ገጸ፡ እግዚአብሔር፡ እስመ፡ እግዚአብሔር፡ ውስተ፡ ሰማይ፡ ላዕለ፡ ወአንተሰ፡ ውስተ፡ ምድር፡ ታሕተ፡ ወበእንተዝ፡ ይኩን፡ ነገርከ፡ ኅዳጠ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዓዲ",
+          "t": "wäʿadi",
+          "gl": ""
+        },
+        {
+          "g": "ተዓቀብ",
+          "t": "täʿaqäbə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ኢትጐጒዕ",
+          "t": "ʾitəgwägwiʿə",
+          "gl": ""
+        },
+        {
+          "g": "በአፉከ",
+          "t": "bäʾäfukä",
+          "gl": ""
+        },
+        {
+          "g": "ወበልብከሂ",
+          "t": "wäbäləbəkähi",
+          "gl": ""
+        },
+        {
+          "g": "ኢትጐጒዕ",
+          "t": "ʾitəgwägwiʿə",
+          "gl": ""
+        },
+        {
+          "g": "ለአውጽኦ",
+          "t": "läʾäwəṣəʾo",
+          "gl": ""
+        },
+        {
+          "g": "ቃል",
+          "t": "qalə",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ገጸ",
+          "t": "gäṣä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሰማይ",
+          "t": "sämayə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ወአንተሰ",
+          "t": "wäʾänətäsä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ታሕተ",
+          "t": "taḥətä",
+          "gl": ""
+        },
+        {
+          "g": "ወበእንተዝ",
+          "t": "wäbäʾənətäzə",
+          "gl": ""
+        },
+        {
+          "g": "ይኩን",
+          "t": "yəkunə",
+          "gl": ""
+        },
+        {
+          "g": "ነገርከ",
+          "t": "nägärəkä",
+          "gl": ""
+        },
+        {
+          "g": "ኅዳጠ",
+          "t": "ḫədaṭä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For through the multitude of trial a dream comes; and a fool's voice is with a multitude of words.",
+        "kjv": "Be not rash with thy mouth, and let not thine heart be hasty to utter any thing before God: for God is in heaven, and thou upon earth: therefore let thy words be few."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "እስመ፡ ይመጽእ፡ ሕልም፡ በብዙኅ፡ መከራ፡ ወቃለ፡ ዕበድ፡ በብዙኅ፡ ነገር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ይመጽእ",
+          "t": "yəmäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ሕልም",
+          "t": "ḥələmə",
+          "gl": ""
+        },
+        {
+          "g": "በብዙኅ",
+          "t": "bäbəzuḫə",
+          "gl": ""
+        },
+        {
+          "g": "መከራ",
+          "t": "mäkära",
+          "gl": ""
+        },
+        {
+          "g": "ወቃለ",
+          "t": "wäqalä",
+          "gl": ""
+        },
+        {
+          "g": "ዕበድ",
+          "t": "ʿəbädə",
+          "gl": ""
+        },
+        {
+          "g": "በብዙኅ",
+          "t": "bäbəzuḫə",
+          "gl": ""
+        },
+        {
+          "g": "ነገር",
+          "t": "nägärə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Whenever thou shalt vow a vow to God, defer not to pay it; for he has no pleasure in fools: pay thou therefore whatsoever thou shalt have vowed.",
+        "kjv": "For a dream cometh through the multitude of business; and a fool’s voice is known by multitude of words."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "እምከመ፡ ጸለይከ፡ ጸሎተ፡ ኢታጐንዲ፡ ውኂቦታ፡ እስመ፡ ኢኮነ፡ ፈቃዱ፡ አንተሰ፡ በከመ፡ ጸለይከ፡ ጸሎተ፡ ሀብ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እምከመ",
+          "t": "ʾəməkämä",
+          "gl": ""
+        },
+        {
+          "g": "ጸለይከ",
+          "t": "ṣäläyəkä",
+          "gl": ""
+        },
+        {
+          "g": "ጸሎተ",
+          "t": "ṣälotä",
+          "gl": ""
+        },
+        {
+          "g": "ኢታጐንዲ",
+          "t": "ʾitagwänədi",
+          "gl": ""
+        },
+        {
+          "g": "ውኂቦታ",
+          "t": "wəḫibota",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኢኮነ",
+          "t": "ʾikonä",
+          "gl": ""
+        },
+        {
+          "g": "ፈቃዱ",
+          "t": "fäqadu",
+          "gl": ""
+        },
+        {
+          "g": "አንተሰ",
+          "t": "ʾänətäsä",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ጸለይከ",
+          "t": "ṣäläyəkä",
+          "gl": ""
+        },
+        {
+          "g": "ጸሎተ",
+          "t": "ṣälotä",
+          "gl": ""
+        },
+        {
+          "g": "ሀብ",
+          "t": "häbə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "It is better that thou shouldest not vow, than that thou shouldest vow and not pay.",
+        "kjv": "When thou vowest a vow unto God, defer not to pay it; for he hath no pleasure in fools: pay that which thou hast vowed."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ይኄይስ፡ ኢጸልዮትከ፡ እምጸልዮትከ፡ ዘበኢውሂብ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ይኄይስ",
+          "t": "yəḫeyəsə",
+          "gl": ""
+        },
+        {
+          "g": "ኢጸልዮትከ",
+          "t": "ʾiṣäləyotəkä",
+          "gl": ""
+        },
+        {
+          "g": "እምጸልዮትከ",
+          "t": "ʾəməṣäləyotəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዘበኢውሂብ",
+          "t": "zäbäʾiwəhibə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Suffer not thy mouth to lead thy flesh to sin; and say not in the presence of God, It was an error: lest God be angry at thy voice, and destroy the works of thy hands.",
+        "kjv": "Better is it that thou shouldest not vow, than that thou shouldest vow and not pay."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ኢተሀብ፡ አፉከ፡ ለአበሳ፡ ሥጋከ፡ ወኢትበል፡ በቅድመ፡ እግዚአብሔር፡ በኢያእምሮ፡ ውእቱ፡ ከመ፡ ኢይትመዓፅ፡ እግዚአብሔር፡ ላዕሌከ፡ በእንተ፡ ቃልከ፡ ወኢያማስን፡ ግብረ፡ አደዊከ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኢተሀብ",
+          "t": "ʾitähäbə",
+          "gl": ""
+        },
+        {
+          "g": "አፉከ",
+          "t": "ʾäfukä",
+          "gl": ""
+        },
+        {
+          "g": "ለአበሳ",
+          "t": "läʾäbäsa",
+          "gl": ""
+        },
+        {
+          "g": "ሥጋከ",
+          "t": "śəgakä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢትበል",
+          "t": "wäʾitəbälə",
+          "gl": ""
+        },
+        {
+          "g": "በቅድመ",
+          "t": "bäqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "በኢያእምሮ",
+          "t": "bäʾiyaʾəməro",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ኢይትመዓፅ",
+          "t": "ʾiyətəmäʿaṣ́ə",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌከ",
+          "t": "laʿəlekä",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ቃልከ",
+          "t": "qaləkä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢያማስን",
+          "t": "wäʾiyamasənə",
+          "gl": ""
+        },
+        {
+          "g": "ግብረ",
+          "t": "gəbərä",
+          "gl": ""
+        },
+        {
+          "g": "አደዊከ",
+          "t": "ʾädäwikä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For there is evil in a multitude of dreams and vanities and many words: but fear thou God.",
+        "kjv": "Suffer not thy mouth to cause thy flesh to sin; neither say thou before the angel, that it was an error: wherefore should God be angry at thy voice, and destroy the work of thine hands?"
+      }
+    },
+    {
+      "num": 7,
+      "geez": "እስመ፡ ብዙኅ፡ ሕልም፡ ከንቱ፡ ወንባብኒ፡ ብዙኅ፡ ከንቱ፡ ወኅቡረ፡ እግዚአብሔር፡ ፍራህ፡ ከመ፡ ቀዳሚ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ብዙኅ",
+          "t": "bəzuḫə",
+          "gl": ""
+        },
+        {
+          "g": "ሕልም",
+          "t": "ḥələmə",
+          "gl": ""
+        },
+        {
+          "g": "ከንቱ",
+          "t": "känətu",
+          "gl": ""
+        },
+        {
+          "g": "ወንባብኒ",
+          "t": "wänəbabəni",
+          "gl": ""
+        },
+        {
+          "g": "ብዙኅ",
+          "t": "bəzuḫə",
+          "gl": ""
+        },
+        {
+          "g": "ከንቱ",
+          "t": "känətu",
+          "gl": ""
+        },
+        {
+          "g": "ወኅቡረ",
+          "t": "wäḫəburä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ፍራህ",
+          "t": "fərahə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ቀዳሚ",
+          "t": "qädami",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "If thou shouldest see the oppression of the poor, and the wresting of judgment and of justice in the land, wonder not at the matter: for there is a high one to watch over him that is high, and high ones over them.",
+        "kjv": "For in the multitude of dreams and many words there are also divers vanities: but fear thou God."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "እመ፡ ትዕግልተ፡ ነዳይ፡ ወሀይደ፡ ርኢከ፡ በብሔር፡ ፍታሕ፡ ጽድቀ፡ ወኢታንክር፡ በምግባሩ፡ እስመ፡ ልዑል፡ መልዕልተ፡ ልዑላን፡ የዓቅበከ፡ ወልዑል፡ ዲቤሆሙ፡ ፈድፋደ፡ እምድር፡ ወላዕለ፡ ኵሉ፡ ውእቱ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እመ",
+          "t": "ʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ትዕግልተ",
+          "t": "təʿəgələtä",
+          "gl": ""
+        },
+        {
+          "g": "ነዳይ",
+          "t": "nädayə",
+          "gl": ""
+        },
+        {
+          "g": "ወሀይደ",
+          "t": "wähäyədä",
+          "gl": ""
+        },
+        {
+          "g": "ርኢከ",
+          "t": "rəʾikä",
+          "gl": ""
+        },
+        {
+          "g": "በብሔር",
+          "t": "bäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ፍታሕ",
+          "t": "fətaḥə",
+          "gl": ""
+        },
+        {
+          "g": "ጽድቀ",
+          "t": "ṣədəqä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢታንክር",
+          "t": "wäʾitanəkərə",
+          "gl": ""
+        },
+        {
+          "g": "በምግባሩ",
+          "t": "bäməgəbaru",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ልዑል",
+          "t": "ləʿulə",
+          "gl": ""
+        },
+        {
+          "g": "መልዕልተ",
+          "t": "mäləʿələtä",
+          "gl": ""
+        },
+        {
+          "g": "ልዑላን",
+          "t": "ləʿulanə",
+          "gl": ""
+        },
+        {
+          "g": "የዓቅበከ",
+          "t": "yäʿaqəbäkä",
+          "gl": ""
+        },
+        {
+          "g": "ወልዑል",
+          "t": "wäləʿulə",
+          "gl": ""
+        },
+        {
+          "g": "ዲቤሆሙ",
+          "t": "dibehomu",
+          "gl": ""
+        },
+        {
+          "g": "ፈድፋደ",
+          "t": "fädəfadä",
+          "gl": ""
+        },
+        {
+          "g": "እምድር",
+          "t": "ʾəmədərə",
+          "gl": ""
+        },
+        {
+          "g": "ወላዕለ",
+          "t": "wälaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Also the abundance of the earth is for every one: the king is dependent on the tilled field.",
+        "kjv": "If thou seest the oppression of the poor, and violent perverting of judgment and justice in a province, marvel not at the matter: for he that is higher than the highest regardeth; and there be higher than they."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወንጉሥ፡ ዲበ፡ ወፍረ፡ ሐረስት።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወንጉሥ",
+          "t": "wänəguśə",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "ወፍረ",
+          "t": "wäfərä",
+          "gl": ""
+        },
+        {
+          "g": "ሐረስት",
+          "t": "ḥäräsətə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "He that loves silver shall not be satisfied with silver: and who has loved gain, in the abundance thereof? this is also vanity.",
+        "kjv": "Moreover the profit of the earth is for all: the king himself is served by the field."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ዘያፈቅር፡ ብሩረ፡ ኢይጸግብ፡ ፍሩረ፡ ወዘኒ፡ አፍቀረ፡ ብዙኀ፡ እክለ፡ ወዝኒ፡ ከንቱ፡ ውእቱ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዘያፈቅር",
+          "t": "zäyafäqərə",
+          "gl": ""
+        },
+        {
+          "g": "ብሩረ",
+          "t": "bərurä",
+          "gl": ""
+        },
+        {
+          "g": "ኢይጸግብ",
+          "t": "ʾiyəṣägəbə",
+          "gl": ""
+        },
+        {
+          "g": "ፍሩረ",
+          "t": "fərurä",
+          "gl": ""
+        },
+        {
+          "g": "ወዘኒ",
+          "t": "wäzäni",
+          "gl": ""
+        },
+        {
+          "g": "አፍቀረ",
+          "t": "ʾäfəqärä",
+          "gl": ""
+        },
+        {
+          "g": "ብዙኀ",
+          "t": "bəzuḫä",
+          "gl": ""
+        },
+        {
+          "g": "እክለ",
+          "t": "ʾəkəlä",
+          "gl": ""
+        },
+        {
+          "g": "ወዝኒ",
+          "t": "wäzəni",
+          "gl": ""
+        },
+        {
+          "g": "ከንቱ",
+          "t": "känətu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "In the multitude of good they are increased that eat it: and what virtue has the owner, but the right of beholding it with his eyes?",
+        "kjv": "He that loveth silver shall not be satisfied with silver; nor he that loveth abundance with increase: this is also vanity."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "እስመ፡ ለብዙኅ፡ ጥሪት፡ ብዙኃን፡ ይበልዕዎ፡ ወምንት፡ ጽንዑ፡ ለዘይቀርብ፡ ዘእንበለ፡ ርእየ፡ ዓይን።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ለብዙኅ",
+          "t": "läbəzuḫə",
+          "gl": ""
+        },
+        {
+          "g": "ጥሪት",
+          "t": "ṭəritə",
+          "gl": ""
+        },
+        {
+          "g": "ብዙኃን",
+          "t": "bəzuḫanə",
+          "gl": ""
+        },
+        {
+          "g": "ይበልዕዎ",
+          "t": "yəbäləʿəwo",
+          "gl": ""
+        },
+        {
+          "g": "ወምንት",
+          "t": "wämənətə",
+          "gl": ""
+        },
+        {
+          "g": "ጽንዑ",
+          "t": "ṣənəʿu",
+          "gl": ""
+        },
+        {
+          "g": "ለዘይቀርብ",
+          "t": "läzäyəqärəbə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእንበለ",
+          "t": "zäʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "ርእየ",
+          "t": "rəʾəyä",
+          "gl": ""
+        },
+        {
+          "g": "ዓይን",
+          "t": "ʿayənə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The sleep of a servant is sweet, whether he eat little or much: but to one who is satiated with wealth, there is none that suffers him to sleep.",
+        "kjv": "When goods increase, they are increased that eat them: and what good is there to the owners thereof, saving the beholding of them with their eyes?"
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ጥዑም፡ ንዋሙ፡ ለገብር፡ ለእመ፡ ኅዳጠ፡ በልዐ፡ ወለእመ፡ ብዙኀ፡ በልዐ፡ ወለዘአብዝኀሰ፡ ብዕለ፡ አልቦ፡ ዘየኃድጎ፡ ይኑም።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ጥዑም",
+          "t": "ṭəʿumə",
+          "gl": ""
+        },
+        {
+          "g": "ንዋሙ",
+          "t": "nəwamu",
+          "gl": ""
+        },
+        {
+          "g": "ለገብር",
+          "t": "lägäbərə",
+          "gl": ""
+        },
+        {
+          "g": "ለእመ",
+          "t": "läʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኅዳጠ",
+          "t": "ḫədaṭä",
+          "gl": ""
+        },
+        {
+          "g": "በልዐ",
+          "t": "bäləʿä",
+          "gl": ""
+        },
+        {
+          "g": "ወለእመ",
+          "t": "wäläʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ብዙኀ",
+          "t": "bəzuḫä",
+          "gl": ""
+        },
+        {
+          "g": "በልዐ",
+          "t": "bäləʿä",
+          "gl": ""
+        },
+        {
+          "g": "ወለዘአብዝኀሰ",
+          "t": "wäläzäʾäbəzəḫäsä",
+          "gl": ""
+        },
+        {
+          "g": "ብዕለ",
+          "t": "bəʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "አልቦ",
+          "t": "ʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘየኃድጎ",
+          "t": "zäyäḫadəgo",
+          "gl": ""
+        },
+        {
+          "g": "ይኑም",
+          "t": "yənumə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "There is an infirmity which I have seen under the sun, namely, wealth kept for its owner to his hurt.",
+        "kjv": "The sleep of a labouring man is sweet, whether he eat little or much: but the abundance of the rich will not suffer him to sleep."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ቦ፡ ደዌ፡ እንተ፡ ርኢኩ፡ መትሕተ፡ ፀሐይ፡ ብዕል፡ ዘይትዓቀብ፡ በኀበ፡ ዘአጥረዩ፡ በእከይ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ቦ",
+          "t": "bo",
+          "gl": ""
+        },
+        {
+          "g": "ደዌ",
+          "t": "däwe",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ርኢኩ",
+          "t": "rəʾiku",
+          "gl": ""
+        },
+        {
+          "g": "መትሕተ",
+          "t": "mätəḥətä",
+          "gl": ""
+        },
+        {
+          "g": "ፀሐይ",
+          "t": "ṣ́äḥäyə",
+          "gl": ""
+        },
+        {
+          "g": "ብዕል",
+          "t": "bəʿələ",
+          "gl": ""
+        },
+        {
+          "g": "ዘይትዓቀብ",
+          "t": "zäyətəʿaqäbə",
+          "gl": ""
+        },
+        {
+          "g": "በኀበ",
+          "t": "bäḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ዘአጥረዩ",
+          "t": "zäʾäṭəräyu",
+          "gl": ""
+        },
+        {
+          "g": "በእከይ",
+          "t": "bäʾəkäyə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And that wealth shall perish in an evil trouble: and the man begets a son, and there is nothing in his hand.",
+        "kjv": "There is a sore evil which I have seen under the sun, namely, riches kept for the owners thereof to their hurt."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወይትኀጐል፡ ውእቱ፡ ብዕል፡ በንታፌ፡ እኩይ፡ ወወለደ፡ ወልደ፡ አልቦ፡ ውስተ፡ እዴሁ፡ ወኢምንትኒ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይትኀጐል",
+          "t": "wäyətəḫägwälə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ብዕል",
+          "t": "bəʿələ",
+          "gl": ""
+        },
+        {
+          "g": "በንታፌ",
+          "t": "bänətafe",
+          "gl": ""
+        },
+        {
+          "g": "እኩይ",
+          "t": "ʾəkuyə",
+          "gl": ""
+        },
+        {
+          "g": "ወወለደ",
+          "t": "wäwälädä",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "አልቦ",
+          "t": "ʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢምንትኒ",
+          "t": "wäʾimənətəni",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "As he came forth naked from his mother's womb, he shall return back as he came, and he shall receive nothing for his labour, that it should go with him in his hand.",
+        "kjv": "But those riches perish by evil travail: and he begetteth a son, and there is nothing in his hand."
+      }
+    },
+    {
+      "num": 15,
+      "geez": "በከመ፡ ወፅአ፡ እምከርሠ፡ እሙ፡ ዕራቆ፡ ይትመየጥ፡ ለገቢእ፡ በከመ፡ ወፅአ፡ ወአልቦ፡ ዘይነሥእ፡ እምፃማሁ፡ ከመ፡ ይሑር፡ ምስሌሁ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ወፅአ",
+          "t": "wäṣ́əʾä",
+          "gl": ""
+        },
+        {
+          "g": "እምከርሠ",
+          "t": "ʾəməkärəśä",
+          "gl": ""
+        },
+        {
+          "g": "እሙ",
+          "t": "ʾəmu",
+          "gl": ""
+        },
+        {
+          "g": "ዕራቆ",
+          "t": "ʿəraqo",
+          "gl": ""
+        },
+        {
+          "g": "ይትመየጥ",
+          "t": "yətəmäyäṭə",
+          "gl": ""
+        },
+        {
+          "g": "ለገቢእ",
+          "t": "lägäbiʾə",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ወፅአ",
+          "t": "wäṣ́əʾä",
+          "gl": ""
+        },
+        {
+          "g": "ወአልቦ",
+          "t": "wäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘይነሥእ",
+          "t": "zäyənäśəʾə",
+          "gl": ""
+        },
+        {
+          "g": "እምፃማሁ",
+          "t": "ʾəməṣ́amahu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይሑር",
+          "t": "yəḥurə",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሁ",
+          "t": "məsəlehu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And this is also an evil infirmity: for as he came, so also shall he return: and what is his gain, for which he vainly labours?",
+        "kjv": "As he came forth of his mother’s womb, naked shall he return to go as he came, and shall take nothing of his labour, which he may carry away in his hand."
+      }
+    },
+    {
+      "num": 16,
+      "geez": "ወዝኒ፡ እኩይ፡ ደዌ፡ ውእቱ፡ እስመ፡ በከመ፡ ወፅአ፡ ከማሁ፡ የሐውር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዝኒ",
+          "t": "wäzəni",
+          "gl": ""
+        },
+        {
+          "g": "እኩይ",
+          "t": "ʾəkuyə",
+          "gl": ""
+        },
+        {
+          "g": "ደዌ",
+          "t": "däwe",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ወፅአ",
+          "t": "wäṣ́əʾä",
+          "gl": ""
+        },
+        {
+          "g": "ከማሁ",
+          "t": "kämahu",
+          "gl": ""
+        },
+        {
+          "g": "የሐውር",
+          "t": "yäḥäwərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Yea, all his days are in darkness, and in mourning, and much sorrow, and infirmity, and wrath.",
+        "kjv": "And this also is a sore evil, that in all points as he came, so shall he go: and what profit hath he that hath laboured for the wind?"
+      }
+    },
+    {
+      "num": 17,
+      "geez": "ምንት፡ ፍድፋዴሁ፡ ለዘይፃሙ፡ ለነፍሱ፡ እስመ፡ ኵሎን፡ መዋዕሊሁ፡ ውስተ፡ ጽልመት፡ ወላህ፡ ወቊጥዓ፡ ብዙኅ፡ ወደዌ፡ ወኀዘን።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ምንት",
+          "t": "mənətə",
+          "gl": ""
+        },
+        {
+          "g": "ፍድፋዴሁ",
+          "t": "fədəfadehu",
+          "gl": ""
+        },
+        {
+          "g": "ለዘይፃሙ",
+          "t": "läzäyəṣ́amu",
+          "gl": ""
+        },
+        {
+          "g": "ለነፍሱ",
+          "t": "länäfəsu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎን",
+          "t": "kwəlonə",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕሊሁ",
+          "t": "mäwaʿəlihu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ጽልመት",
+          "t": "ṣələmätə",
+          "gl": ""
+        },
+        {
+          "g": "ወላህ",
+          "t": "wälahə",
+          "gl": ""
+        },
+        {
+          "g": "ወቊጥዓ",
+          "t": "wäqwiṭəʿa",
+          "gl": ""
+        },
+        {
+          "g": "ብዙኅ",
+          "t": "bəzuḫə",
+          "gl": ""
+        },
+        {
+          "g": "ወደዌ",
+          "t": "wädäwe",
+          "gl": ""
+        },
+        {
+          "g": "ወኀዘን",
+          "t": "wäḫäzänə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Behold, I have seen good, that it is a fine thing for a man to eat and to drink, and to see good in all his labour in which he may labour under the sun, all the number of the days of his life which God has given to him: for it is his portion.",
+        "kjv": "All his days also he eateth in darkness, and he hath much sorrow and wrath with his sickness."
+      }
+    },
+    {
+      "num": 18,
+      "geez": "ወባሕቱ፡ ናሁ፡ ዘርኢኩ፡ አነ፡ ኄርት፡ ዘይእቲ፡ ሠናይት፡ በልዕ፡ ወሰትይ፡ ወርእየ፡ ፍግዕ፡ በኵሉ፡ ሥራኁ፡ ዘሠርኀ፡ መትሕተ፡ ፀሐይ፡ በኊልቈ፡ መዋዕሊሁ፡ ዘወሀቦ፡ እግዚአብሔር፡ እስመ፡ ውእቱ፡ መክፈልቱ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወባሕቱ",
+          "t": "wäbaḥətu",
+          "gl": ""
+        },
+        {
+          "g": "ናሁ",
+          "t": "nahu",
+          "gl": ""
+        },
+        {
+          "g": "ዘርኢኩ",
+          "t": "zärəʾiku",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "ኄርት",
+          "t": "ḫerətə",
+          "gl": ""
+        },
+        {
+          "g": "ዘይእቲ",
+          "t": "zäyəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይት",
+          "t": "śänayətə",
+          "gl": ""
+        },
+        {
+          "g": "በልዕ",
+          "t": "bäləʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወሰትይ",
+          "t": "wäsätəyə",
+          "gl": ""
+        },
+        {
+          "g": "ወርእየ",
+          "t": "wärəʾəyä",
+          "gl": ""
+        },
+        {
+          "g": "ፍግዕ",
+          "t": "fəgəʿə",
+          "gl": ""
+        },
+        {
+          "g": "በኵሉ",
+          "t": "bäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ሥራኁ",
+          "t": "śəraḫu",
+          "gl": ""
+        },
+        {
+          "g": "ዘሠርኀ",
+          "t": "zäśärəḫä",
+          "gl": ""
+        },
+        {
+          "g": "መትሕተ",
+          "t": "mätəḥətä",
+          "gl": ""
+        },
+        {
+          "g": "ፀሐይ",
+          "t": "ṣ́äḥäyə",
+          "gl": ""
+        },
+        {
+          "g": "በኊልቈ",
+          "t": "bäḫwiləqwä",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕሊሁ",
+          "t": "mäwaʿəlihu",
+          "gl": ""
+        },
+        {
+          "g": "ዘወሀቦ",
+          "t": "zäwähäbo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "መክፈልቱ",
+          "t": "mäkəfälətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Yea, and as for every man to whom God has given wealth and possessions, and has given him power to eat thereof, and to receive his portion, and to rejoice in his labour; this is the gift of God.",
+        "kjv": "Behold that which I have seen: it is good and comely for one to eat and to drink, and to enjoy the good of all his labour that he taketh under the sun all the days of his life, which God giveth him: for it is his portion."
+      }
+    },
+    {
+      "num": 19,
+      "geez": "ወኵሉ፡ ሰብእ፡ ዘወሀቦ፡ እግዚአብሔር፡ ብዕለ፡ ወጥሪተ፡ ወአሥለጠ፡ ቦቱ፡ ከመ፡ ይብላዕ፡ እምውስቴቱ፡ ወይንሣእ፡ መክፈልቶ፡ ወይትፈሣሕ፡ እምፃማሁ፡ ዝኒ፡ ሀብተ፡ እግዚአብሔር፡ ውእቱ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ዘወሀቦ",
+          "t": "zäwähäbo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ብዕለ",
+          "t": "bəʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ወጥሪተ",
+          "t": "wäṭəritä",
+          "gl": ""
+        },
+        {
+          "g": "ወአሥለጠ",
+          "t": "wäʾäśəläṭä",
+          "gl": ""
+        },
+        {
+          "g": "ቦቱ",
+          "t": "botu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይብላዕ",
+          "t": "yəbəlaʿə",
+          "gl": ""
+        },
+        {
+          "g": "እምውስቴቱ",
+          "t": "ʾəməwəsətetu",
+          "gl": ""
+        },
+        {
+          "g": "ወይንሣእ",
+          "t": "wäyənəśaʾə",
+          "gl": ""
+        },
+        {
+          "g": "መክፈልቶ",
+          "t": "mäkəfäləto",
+          "gl": ""
+        },
+        {
+          "g": "ወይትፈሣሕ",
+          "t": "wäyətəfäśaḥə",
+          "gl": ""
+        },
+        {
+          "g": "እምፃማሁ",
+          "t": "ʾəməṣ́amahu",
+          "gl": ""
+        },
+        {
+          "g": "ዝኒ",
+          "t": "zəni",
+          "gl": ""
+        },
+        {
+          "g": "ሀብተ",
+          "t": "häbətä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For he shall not much remember the days of his life; for God troubles him in the mirth of his heart.",
+        "kjv": "Every man also to whom God hath given riches and wealth, and hath given him power to eat thereof, and to take his portion, and to rejoice in his labour; this is the gift of God."
+      }
+    },
+    {
+      "num": 20,
+      "geez": "እስመ፡ አኮ፡ ብዙኀ፡ ዘይዜከር፡ በኵሉ፡ መዋዕለ፡ ሕይወቱ፡ እስመ፡ እግዚአብሔር፡ ያሠርኆ፡ በፍትወተ፡ ልቡ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አኮ",
+          "t": "ʾäko",
+          "gl": ""
+        },
+        {
+          "g": "ብዙኀ",
+          "t": "bəzuḫä",
+          "gl": ""
+        },
+        {
+          "g": "ዘይዜከር",
+          "t": "zäyəzekärə",
+          "gl": ""
+        },
+        {
+          "g": "በኵሉ",
+          "t": "bäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕለ",
+          "t": "mäwaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሕይወቱ",
+          "t": "ḥəyəwätu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ያሠርኆ",
+          "t": "yaśärəḫo",
+          "gl": ""
+        },
+        {
+          "g": "በፍትወተ",
+          "t": "bäfətəwätä",
+          "gl": ""
+        },
+        {
+          "g": "ልቡ",
+          "t": "ləbu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "kjv": "For he shall not much remember the days of his life; because God answereth him in the joy of his heart."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

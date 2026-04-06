@@ -1,0 +1,768 @@
+{
+  "book": "Jonah",
+  "chapter": 3,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወኮነ፡ ቃለ፡ እግዚአብሔር፤ዳመ፡ ኀበ፡ ነስ፡ ወይቤሎ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኮነ",
+          "t": "wäkonä",
+          "gl": ""
+        },
+        {
+          "g": "ቃለ",
+          "t": "qalä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔርዳመ",
+          "t": "ʾəgəziʾäbəḥerədamä",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ነስ",
+          "t": "näsə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the word of the Lord came to Jonas the second time, saying,",
+        "kjv": "And the word of the LORD came unto Jonah the second time, saying,"
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ተንስእ፡ ወሖር፡ ነነዌ፡ ሀገር፡ ዓባይ፡ ወስብክ፡ ሎሙ፡ በከመ፡ ቀዳሚ፡ ስብከት፡ ዘእቤለከ፡ አነ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ተንስእ",
+          "t": "tänəsəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወሖር",
+          "t": "wäḥorə",
+          "gl": ""
+        },
+        {
+          "g": "ነነዌ",
+          "t": "nänäwe",
+          "gl": ""
+        },
+        {
+          "g": "ሀገር",
+          "t": "hägärə",
+          "gl": ""
+        },
+        {
+          "g": "ዓባይ",
+          "t": "ʿabayə",
+          "gl": ""
+        },
+        {
+          "g": "ወስብክ",
+          "t": "wäsəbəkə",
+          "gl": ""
+        },
+        {
+          "g": "ሎሙ",
+          "t": "lomu",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ቀዳሚ",
+          "t": "qädami",
+          "gl": ""
+        },
+        {
+          "g": "ስብከት",
+          "t": "səbəkätə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእቤለከ",
+          "t": "zäʾəbeläkä",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Rise, go to Nineve, the great city, and preach in it according to the former preaching which I spoke to thee of.",
+        "kjv": "Arise, go unto Nineveh, that great city, and preach unto it the preaching that I bid thee."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወተንስአ፡ ነስ፡ ወሖረ፡ ነነዌ፡ በከመ፡ ይቤሎ፡ እግዚአብሔር፡ ወነነዌሰ፡ ሀገር፡ ዓባይ፡ እቲ፡ ለእግዚአብሔር፡ መጠነ፡ ምሕዋረ፡ ሠሉስ፡ ወዋዕል፡ ለአጋር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተንስአ",
+          "t": "wätänəsəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ነስ",
+          "t": "näsə",
+          "gl": ""
+        },
+        {
+          "g": "ወሖረ",
+          "t": "wäḥorä",
+          "gl": ""
+        },
+        {
+          "g": "ነነዌ",
+          "t": "nänäwe",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ይቤሎ",
+          "t": "yəbelo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወነነዌሰ",
+          "t": "wänänäwesä",
+          "gl": ""
+        },
+        {
+          "g": "ሀገር",
+          "t": "hägärə",
+          "gl": ""
+        },
+        {
+          "g": "ዓባይ",
+          "t": "ʿabayə",
+          "gl": ""
+        },
+        {
+          "g": "እቲ",
+          "t": "ʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "መጠነ",
+          "t": "mäṭänä",
+          "gl": ""
+        },
+        {
+          "g": "ምሕዋረ",
+          "t": "məḥəwarä",
+          "gl": ""
+        },
+        {
+          "g": "ሠሉስ",
+          "t": "śälusə",
+          "gl": ""
+        },
+        {
+          "g": "ወዋዕል",
+          "t": "wäwaʿələ",
+          "gl": ""
+        },
+        {
+          "g": "ለአጋር",
+          "t": "läʾägarə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Jonas arose, and went to Nineve, as the Lord had spoken. Now Nineve was an exceeding great city, of about three days' journey.",
+        "kjv": "So Jonah arose, and went unto Nineveh, according to the word of the LORD. Now Nineveh was an exceeding great city of three days’ journey."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወአልጺቆ፡ ይባዕ፡ ለሀገረ፡ ሰበከ፡ እምሕዋረ፡ ዕለት፡ ወይቤ፡ እስከ፡ ሠሉስ፡ ወዋዕል፡ ትትገፈታዕ፡ ነነዌ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአልጺቆ",
+          "t": "wäʾäləṣiqo",
+          "gl": ""
+        },
+        {
+          "g": "ይባዕ",
+          "t": "yəbaʿə",
+          "gl": ""
+        },
+        {
+          "g": "ለሀገረ",
+          "t": "lähägärä",
+          "gl": ""
+        },
+        {
+          "g": "ሰበከ",
+          "t": "säbäkä",
+          "gl": ""
+        },
+        {
+          "g": "እምሕዋረ",
+          "t": "ʾəməḥəwarä",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ሠሉስ",
+          "t": "śälusə",
+          "gl": ""
+        },
+        {
+          "g": "ወዋዕል",
+          "t": "wäwaʿələ",
+          "gl": ""
+        },
+        {
+          "g": "ትትገፈታዕ",
+          "t": "tətəgäfätaʿə",
+          "gl": ""
+        },
+        {
+          "g": "ነነዌ",
+          "t": "nänäwe",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Jonas began to enter into the city about a day's journey, and he proclaimed, and said, Yet three days, and Nineve shall be overthrown.",
+        "kjv": "And Jonah began to enter into the city a day’s journey, and he cried, and said, Yet forty days, and Nineveh shall be overthrown."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወተአመኑ፡ ሰብአ፡ ነነዌ፡ በቃለ፡ እግዚአብሔር፡ ወሰበኩ፡ ጾመ፡ ወለብሱ፡ ሠቀ፡ ንኡሶሙ፡ ወዐቢዩሙ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተአመኑ",
+          "t": "wätäʾämänu",
+          "gl": ""
+        },
+        {
+          "g": "ሰብአ",
+          "t": "säbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ነነዌ",
+          "t": "nänäwe",
+          "gl": ""
+        },
+        {
+          "g": "በቃለ",
+          "t": "bäqalä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወሰበኩ",
+          "t": "wäsäbäku",
+          "gl": ""
+        },
+        {
+          "g": "ጾመ",
+          "t": "ṣomä",
+          "gl": ""
+        },
+        {
+          "g": "ወለብሱ",
+          "t": "wäläbəsu",
+          "gl": ""
+        },
+        {
+          "g": "ሠቀ",
+          "t": "śäqä",
+          "gl": ""
+        },
+        {
+          "g": "ንኡሶሙ",
+          "t": "nəʾusomu",
+          "gl": ""
+        },
+        {
+          "g": "ወዐቢዩሙ",
+          "t": "wäʿäbiyumu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the men of Nineve believed God, and proclaimed a fast, and put on sackcloths, from the greatest of them to the least of them.",
+        "kjv": "So the people of Nineveh believed God, and proclaimed a fast, and put on sackcloth, from the greatest of them even to the least of them."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወሰምዐ፡ ንጉሠ፡ ነነዌ፡ ወተንስአ፡ እምነ፡ መንበሩ፡ ወእተተ፡ አልባሲሁ፡ ወለብሰ፡ ሠቀ፡ ወነበረ፡ ውስተ፡ ሐመድ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሰምዐ",
+          "t": "wäsäməʿä",
+          "gl": ""
+        },
+        {
+          "g": "ንጉሠ",
+          "t": "nəguśä",
+          "gl": ""
+        },
+        {
+          "g": "ነነዌ",
+          "t": "nänäwe",
+          "gl": ""
+        },
+        {
+          "g": "ወተንስአ",
+          "t": "wätänəsəʾä",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "መንበሩ",
+          "t": "mänəbäru",
+          "gl": ""
+        },
+        {
+          "g": "ወእተተ",
+          "t": "wäʾətätä",
+          "gl": ""
+        },
+        {
+          "g": "አልባሲሁ",
+          "t": "ʾäləbasihu",
+          "gl": ""
+        },
+        {
+          "g": "ወለብሰ",
+          "t": "wäläbəsä",
+          "gl": ""
+        },
+        {
+          "g": "ሠቀ",
+          "t": "śäqä",
+          "gl": ""
+        },
+        {
+          "g": "ወነበረ",
+          "t": "wänäbärä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሐመድ",
+          "t": "ḥämädə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the word reached the king of Nineve, and he arose from off his throne, and took off his raiment from him, and put on sackcloth, and sat on ashes.",
+        "kjv": "For word came unto the king of Nineveh, and he arose from his throne, and he laid his robe from him, and covered him with sackcloth, and sat in ashes."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወሰበከ፡ ንጉስ፡ ለነነዌ፡ ለንኦሶሙ፡ ወለዐበይቶሙ፡ ወይቤ፡ ሰብእ፡ ወእንስሳ፡ ወአልህምት፡ ወአባግዕ፡ ኢይብልኡ፡ ወኢምንንተኒ፡ ወኢይትረዐዩ፡ ማየ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሰበከ",
+          "t": "wäsäbäkä",
+          "gl": ""
+        },
+        {
+          "g": "ንጉስ",
+          "t": "nəgusə",
+          "gl": ""
+        },
+        {
+          "g": "ለነነዌ",
+          "t": "länänäwe",
+          "gl": ""
+        },
+        {
+          "g": "ለንኦሶሙ",
+          "t": "länəʾosomu",
+          "gl": ""
+        },
+        {
+          "g": "ወለዐበይቶሙ",
+          "t": "wäläʿäbäyətomu",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወእንስሳ",
+          "t": "wäʾənəsəsa",
+          "gl": ""
+        },
+        {
+          "g": "ወአልህምት",
+          "t": "wäʾäləhəmətə",
+          "gl": ""
+        },
+        {
+          "g": "ወአባግዕ",
+          "t": "wäʾäbagəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ኢይብልኡ",
+          "t": "ʾiyəbələʾu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢምንንተኒ",
+          "t": "wäʾimənənətäni",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይትረዐዩ",
+          "t": "wäʾiyətəräʿäyu",
+          "gl": ""
+        },
+        {
+          "g": "ማየ",
+          "t": "mayä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And proclamation was made, and it was commanded in Nineve by the king and by his great men, saying, Let not men, or cattle, or oxen, or sheep, taste any thing, nor feed, nor drink water.",
+        "kjv": "And he caused it to be proclaimed and published through Nineveh by the decree of the king and his nobles, saying, Let neither man nor beast, herd nor flock, taste any thing: let them not feed, nor drink water:"
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወለብሱ፡ ሠቀ፡ ሰብእ፡ ወእንስሳ፡ ወእውየው፡ ኀበ፡ እግዚአብሔር፡ ኀቡረ፡ ወኀደጉ፡ ኲሎ፡ እከየ፡ ምግባሮሙ፡ ወዓመፃ፡ ዘውስተ፡ እዴሆሙ፡ ወይቤሉ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለብሱ",
+          "t": "wäläbəsu",
+          "gl": ""
+        },
+        {
+          "g": "ሠቀ",
+          "t": "śäqä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወእንስሳ",
+          "t": "wäʾənəsəsa",
+          "gl": ""
+        },
+        {
+          "g": "ወእውየው",
+          "t": "wäʾəwəyäwə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ኀቡረ",
+          "t": "ḫäburä",
+          "gl": ""
+        },
+        {
+          "g": "ወኀደጉ",
+          "t": "wäḫädägu",
+          "gl": ""
+        },
+        {
+          "g": "ኲሎ",
+          "t": "kwilo",
+          "gl": ""
+        },
+        {
+          "g": "እከየ",
+          "t": "ʾəkäyä",
+          "gl": ""
+        },
+        {
+          "g": "ምግባሮሙ",
+          "t": "məgəbaromu",
+          "gl": ""
+        },
+        {
+          "g": "ወዓመፃ",
+          "t": "wäʿamäṣ́a",
+          "gl": ""
+        },
+        {
+          "g": "ዘውስተ",
+          "t": "zäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሆሙ",
+          "t": "ʾədehomu",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሉ",
+          "t": "wäyəbelu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "So men and cattle were clothed with sackcloths, and cried earnestly to God; and they turned every one from their evil way, and from the iniquity that was in their hands, saying,",
+        "kjv": "But let man and beast be covered with sackcloth, and cry mightily unto God: yea, let them turn every one from his evil way, and from the violence that is in their hands."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "መኑ፡ የአምር፡ እመ፡ ይኔስሕ፡ እግዚብሔር፡ ወይመይጥ፡ መቅሠፍተ፡ መዐቱ፡ ወኢንሙት፡ እንከ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "መኑ",
+          "t": "mänu",
+          "gl": ""
+        },
+        {
+          "g": "የአምር",
+          "t": "yäʾämərə",
+          "gl": ""
+        },
+        {
+          "g": "እመ",
+          "t": "ʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ይኔስሕ",
+          "t": "yənesəḥə",
+          "gl": ""
+        },
+        {
+          "g": "እግዚብሔር",
+          "t": "ʾəgəzibəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወይመይጥ",
+          "t": "wäyəmäyəṭə",
+          "gl": ""
+        },
+        {
+          "g": "መቅሠፍተ",
+          "t": "mäqəśäfətä",
+          "gl": ""
+        },
+        {
+          "g": "መዐቱ",
+          "t": "mäʿätu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢንሙት",
+          "t": "wäʾinəmutə",
+          "gl": ""
+        },
+        {
+          "g": "እንከ",
+          "t": "ʾənəkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Who knows if God will repent, and turn from his fierce anger, and so we shall not perish?",
+        "kjv": "Who can tell if God will turn and repent, and turn away from his fierce anger, that we perish not?"
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወርእየ፡ እግዚአብሔር፡ ምግባሮሙ፡ ከመ፡ ነስሑ፡ እምንኖቶሙ፡ እኩይ፡ ወእግዚአብሔርኒ፡ ነስሐ፡ እምነ፡ ዘነበበ፡ እኩየ። ከመ፡ ይግበር፡ ላዕሌሆሙ፡ ወኢገብረ፡ እኩየ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወርእየ",
+          "t": "wärəʾəyä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ምግባሮሙ",
+          "t": "məgəbaromu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ነስሑ",
+          "t": "näsəḥu",
+          "gl": ""
+        },
+        {
+          "g": "እምንኖቶሙ",
+          "t": "ʾəmənənotomu",
+          "gl": ""
+        },
+        {
+          "g": "እኩይ",
+          "t": "ʾəkuyə",
+          "gl": ""
+        },
+        {
+          "g": "ወእግዚአብሔርኒ",
+          "t": "wäʾəgəziʾäbəḥerəni",
+          "gl": ""
+        },
+        {
+          "g": "ነስሐ",
+          "t": "näsəḥä",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ዘነበበ",
+          "t": "zänäbäbä",
+          "gl": ""
+        },
+        {
+          "g": "እኩየ",
+          "t": "ʾəkuyä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይግበር",
+          "t": "yəgəbärə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሆሙ",
+          "t": "laʿəlehomu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢገብረ",
+          "t": "wäʾigäbərä",
+          "gl": ""
+        },
+        {
+          "g": "እኩየ",
+          "t": "ʾəkuyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And God saw their works, that they turned from their evil ways; and God repented of the evil which he had said he would do to them; and he did it not.",
+        "kjv": "And God saw their works, that they turned from their evil way; and God repented of the evil, that he had said that he would do unto them; and he did it not."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

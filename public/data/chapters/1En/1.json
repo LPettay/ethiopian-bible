@@ -1,0 +1,775 @@
+{
+  "book": "1En",
+  "chapter": 1,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ቃለ፡ በረከት፡ ዘሄኖክ፡ በከመ፡ ባረከ፡ ኅሩያነ፡ ወጻድቃነ፡ እለ፡ ሀለዉ፡ ይኩኑ፡ በዕለተ፡ ምንዳቤ፡ ለአሰስሎ፡ ኵሉ፡ እኩያን፡ ወረሲዓን።",
+      "translation": "The words of the blessing of Enoch, wherewith he blessed the elect and righteous, who will be living in the day of tribulation, when all the wicked and godless are to be removed.",
+      "words": [
+        {
+          "g": "ቃለ",
+          "t": "qalä",
+          "gl": ""
+        },
+        {
+          "g": "በረከት",
+          "t": "bäräkätə",
+          "gl": ""
+        },
+        {
+          "g": "ዘሄኖክ",
+          "t": "zähenokə",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ባረከ",
+          "t": "baräkä",
+          "gl": ""
+        },
+        {
+          "g": "ኅሩያነ",
+          "t": "ḫəruyanä",
+          "gl": ""
+        },
+        {
+          "g": "ወጻድቃነ",
+          "t": "wäṣadəqanä",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሀለዉ",
+          "t": "häläwu",
+          "gl": ""
+        },
+        {
+          "g": "ይኩኑ",
+          "t": "yəkunu",
+          "gl": ""
+        },
+        {
+          "g": "በዕለተ",
+          "t": "bäʿəlätä",
+          "gl": ""
+        },
+        {
+          "g": "ምንዳቤ",
+          "t": "mənədabe",
+          "gl": ""
+        },
+        {
+          "g": "ለአሰስሎ",
+          "t": "läʾäsäsəlo",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "እኩያን",
+          "t": "ʾəkuyanə",
+          "gl": ""
+        },
+        {
+          "g": "ወረሲዓን",
+          "t": "wäräsiʿanə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "geez": "ወአውሥአ፡ ሄኖክ፡ ወይቤ፡ ብእሲ፡ ጻድቅ፡ ዘእምኀበ፡ እግዚአብሔር፡ እንዘ፡ አዕይንቲሁ፡ ክሡታት፡ ወይሬኢ፡ ራእየ፡ ቅዱስ፡ ዘበሰማያት፡ ዘአርአዩኒ፡ መላእክት፡ ወሰማዕኩ፡ ዘእምኀቤሆሙ፡ ኵሎ፡ ወአእመርኩ፡ አነ፡ ዘእሬኢ፡ ወአኮ፡ ለዝ፡ ትውልድ፡ አላ፡ ለዘይመጽኡ፡ ትውልድ፡ ርሑቃን።",
+      "translation": "And he took up his parable and said—Enoch a righteous man, whose eyes were opened by God, saw the vision of the Holy One in the heavens, which the angels showed me, and from them I heard everything, and from them I understood as I saw, but not for this generation, but for a remote one which is for to come.",
+      "words": [
+        {
+          "g": "ወአውሥአ",
+          "t": "wäʾäwəśəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሄኖክ",
+          "t": "henokə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ጻድቅ",
+          "t": "ṣadəqə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምኀበ",
+          "t": "zäʾəməḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "አዕይንቲሁ",
+          "t": "ʾäʿəyənətihu",
+          "gl": ""
+        },
+        {
+          "g": "ክሡታት",
+          "t": "kəśutatə",
+          "gl": ""
+        },
+        {
+          "g": "ወይሬኢ",
+          "t": "wäyəreʾi",
+          "gl": ""
+        },
+        {
+          "g": "ራእየ",
+          "t": "raʾəyä",
+          "gl": ""
+        },
+        {
+          "g": "ቅዱስ",
+          "t": "qədusə",
+          "gl": ""
+        },
+        {
+          "g": "ዘበሰማያት",
+          "t": "zäbäsämayatə",
+          "gl": ""
+        },
+        {
+          "g": "ዘአርአዩኒ",
+          "t": "zäʾärəʾäyuni",
+          "gl": ""
+        },
+        {
+          "g": "መላእክት",
+          "t": "mälaʾəkətə",
+          "gl": ""
+        },
+        {
+          "g": "ወሰማዕኩ",
+          "t": "wäsämaʿəku",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምኀቤሆሙ",
+          "t": "zäʾəməḫäbehomu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ወአእመርኩ",
+          "t": "wäʾäʾəmärəku",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "ዘእሬኢ",
+          "t": "zäʾəreʾi",
+          "gl": ""
+        },
+        {
+          "g": "ወአኮ",
+          "t": "wäʾäko",
+          "gl": ""
+        },
+        {
+          "g": "ለዝ",
+          "t": "läzə",
+          "gl": ""
+        },
+        {
+          "g": "ትውልድ",
+          "t": "təwələdə",
+          "gl": ""
+        },
+        {
+          "g": "አላ",
+          "t": "ʾäla",
+          "gl": ""
+        },
+        {
+          "g": "ለዘይመጽኡ",
+          "t": "läzäyəmäṣəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ትውልድ",
+          "t": "təwələdə",
+          "gl": ""
+        },
+        {
+          "g": "ርሑቃን",
+          "t": "rəḥuqanə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "geez": "በእንተ፡ ኅሩያን፡ እቤ፡ ወአውሣእኩ፡ በእንቲኣሆሙ፡ ምስለ፡ ዘይወፅእ፡ ቅዱስ፡ ወዐቢይ፡ እማኅደሩ።",
+      "translation": "Concerning the elect I said, and took up my parable concerning them: The Holy Great One will come forth from His dwelling,",
+      "words": [
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኅሩያን",
+          "t": "ḫəruyanə",
+          "gl": ""
+        },
+        {
+          "g": "እቤ",
+          "t": "ʾəbe",
+          "gl": ""
+        },
+        {
+          "g": "ወአውሣእኩ",
+          "t": "wäʾäwəśaʾəku",
+          "gl": ""
+        },
+        {
+          "g": "በእንቲኣሆሙ",
+          "t": "bäʾənətiʾahomu",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ዘይወፅእ",
+          "t": "zäyəwäṣ́əʾə",
+          "gl": ""
+        },
+        {
+          "g": "ቅዱስ",
+          "t": "qədusə",
+          "gl": ""
+        },
+        {
+          "g": "ወዐቢይ",
+          "t": "wäʿäbiyə",
+          "gl": ""
+        },
+        {
+          "g": "እማኅደሩ",
+          "t": "ʾəmaḫədäru",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 4,
+      "geez": "ወአምላከ፡ ዓለም፡ ወእምህየ፡ ይከይድ፡ ዲበ፡ ሲና፡ ደብር፡ ወያስተርኢ፡ በትዕይንቱ፡ ወያስተርኢ፡ በጽንዐ፡ ኀይሉ፡ እምሰማይ።",
+      "translation": "And the eternal God will tread upon the earth, (even) on Mount Sinai, [And appear from His camp] And appear in the strength of His might from the heaven of heavens.",
+      "words": [
+        {
+          "g": "ወአምላከ",
+          "t": "wäʾäməlakä",
+          "gl": ""
+        },
+        {
+          "g": "ዓለም",
+          "t": "ʿalämə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምህየ",
+          "t": "wäʾəməhəyä",
+          "gl": ""
+        },
+        {
+          "g": "ይከይድ",
+          "t": "yəkäyədə",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "ሲና",
+          "t": "sina",
+          "gl": ""
+        },
+        {
+          "g": "ደብር",
+          "t": "däbərə",
+          "gl": ""
+        },
+        {
+          "g": "ወያስተርኢ",
+          "t": "wäyasətärəʾi",
+          "gl": ""
+        },
+        {
+          "g": "በትዕይንቱ",
+          "t": "bätəʿəyənətu",
+          "gl": ""
+        },
+        {
+          "g": "ወያስተርኢ",
+          "t": "wäyasətärəʾi",
+          "gl": ""
+        },
+        {
+          "g": "በጽንዐ",
+          "t": "bäṣənəʿä",
+          "gl": ""
+        },
+        {
+          "g": "ኀይሉ",
+          "t": "ḫäyəlu",
+          "gl": ""
+        },
+        {
+          "g": "እምሰማይ",
+          "t": "ʾəməsämayə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 5,
+      "geez": "ወይፈርሁ፡ ኵሉ፡ ወያድለቀልቁ፡ ትጉሃን፡ ወይነሥኦሙ፡ ፍርሀት፡ ወረዓድ፡ ዐቢይ፡ እስከ፡ አጽናፈ፡ ዓለም።",
+      "translation": "And all shall be smitten with fear, And the Watchers shall quake, And great fear and trembling shall seize them unto the ends of the earth.",
+      "words": [
+        {
+          "g": "ወይፈርሁ",
+          "t": "wäyəfärəhu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ወያድለቀልቁ",
+          "t": "wäyadəläqäləqu",
+          "gl": ""
+        },
+        {
+          "g": "ትጉሃን",
+          "t": "təguhanə",
+          "gl": ""
+        },
+        {
+          "g": "ወይነሥኦሙ",
+          "t": "wäyənäśəʾomu",
+          "gl": ""
+        },
+        {
+          "g": "ፍርሀት",
+          "t": "fərəhätə",
+          "gl": ""
+        },
+        {
+          "g": "ወረዓድ",
+          "t": "wäräʿadə",
+          "gl": ""
+        },
+        {
+          "g": "ዐቢይ",
+          "t": "ʿäbiyə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "አጽናፈ",
+          "t": "ʾäṣənafä",
+          "gl": ""
+        },
+        {
+          "g": "ዓለም",
+          "t": "ʿalämə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 6,
+      "geez": "ወይደነግፁ፡ አድባር፡ ነዋኃን፡ ወይቴሐቱ፡ አውግር፡ ነዊኃን፡ ወይትመሰዉ፡ ከመ፡ መዓረ፡ ግራ፡ እምላህብ።",
+      "translation": "And the high mountains shall be shaken, And the high hills shall be made low, And shall melt like wax before the flame.",
+      "words": [
+        {
+          "g": "ወይደነግፁ",
+          "t": "wäyədänägəṣ́u",
+          "gl": ""
+        },
+        {
+          "g": "አድባር",
+          "t": "ʾädəbarə",
+          "gl": ""
+        },
+        {
+          "g": "ነዋኃን",
+          "t": "näwaḫanə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቴሐቱ",
+          "t": "wäyəteḥätu",
+          "gl": ""
+        },
+        {
+          "g": "አውግር",
+          "t": "ʾäwəgərə",
+          "gl": ""
+        },
+        {
+          "g": "ነዊኃን",
+          "t": "näwiḫanə",
+          "gl": ""
+        },
+        {
+          "g": "ወይትመሰዉ",
+          "t": "wäyətəmäsäwu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "መዓረ",
+          "t": "mäʿarä",
+          "gl": ""
+        },
+        {
+          "g": "ግራ",
+          "t": "gəra",
+          "gl": ""
+        },
+        {
+          "g": "እምላህብ",
+          "t": "ʾəməlahəbə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 7,
+      "geez": "ወትሰጠም፡ ምድር፡ ወኵሉ፡ ዘውስተ፡ ምድር፡ ይትሀጐል፡ ወይከውን፡ ፍትሕ፡ ላዕለ፡ ኵሉ፡ ወላዕለ፡ ጻድቃን፡ ኵሎሙ።",
+      "translation": "And the earth shall be wholly rent in sunder, And all that is upon the earth shall perish, And there shall be a judgement upon all (men).",
+      "words": [
+        {
+          "g": "ወትሰጠም",
+          "t": "wätəsäṭämə",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘውስተ",
+          "t": "zäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ይትሀጐል",
+          "t": "yətəhägwälə",
+          "gl": ""
+        },
+        {
+          "g": "ወይከውን",
+          "t": "wäyəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ፍትሕ",
+          "t": "fətəḥə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ወላዕለ",
+          "t": "wälaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ጻድቃን",
+          "t": "ṣadəqanə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 8,
+      "geez": "ለጻድቃንሰ፡ ሰላመ፡ ይገብር፡ ሎሙ፡ ወየዐቅቦሙ፡ ለኅሩያን፡ ወይከውን፡ ሣህል፡ ላዕሌሆሙ፡ ወይከውኑ፡ ኵሎሙ፡ ዘአምላክ፡ ወይሤርሑ፡ ወይትባረኩ፡ ወይበርህ፡ ሎሙ፡ ብርሃነ፡ አምላክ።",
+      "translation": "But with the righteous He will make peace. And will protect the elect, And mercy shall be upon them. And they shall all belong to God, And they shall be prospered, And they shall all be blessed. And He will help them all, And light shall appear unto them, And He will make peace with them.",
+      "words": [
+        {
+          "g": "ለጻድቃንሰ",
+          "t": "läṣadəqanəsä",
+          "gl": ""
+        },
+        {
+          "g": "ሰላመ",
+          "t": "sälamä",
+          "gl": ""
+        },
+        {
+          "g": "ይገብር",
+          "t": "yəgäbərə",
+          "gl": ""
+        },
+        {
+          "g": "ሎሙ",
+          "t": "lomu",
+          "gl": ""
+        },
+        {
+          "g": "ወየዐቅቦሙ",
+          "t": "wäyäʿäqəbomu",
+          "gl": ""
+        },
+        {
+          "g": "ለኅሩያን",
+          "t": "läḫəruyanə",
+          "gl": ""
+        },
+        {
+          "g": "ወይከውን",
+          "t": "wäyəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ሣህል",
+          "t": "śahələ",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሆሙ",
+          "t": "laʿəlehomu",
+          "gl": ""
+        },
+        {
+          "g": "ወይከውኑ",
+          "t": "wäyəkäwənu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘአምላክ",
+          "t": "zäʾäməlakə",
+          "gl": ""
+        },
+        {
+          "g": "ወይሤርሑ",
+          "t": "wäyəśerəḥu",
+          "gl": ""
+        },
+        {
+          "g": "ወይትባረኩ",
+          "t": "wäyətəbaräku",
+          "gl": ""
+        },
+        {
+          "g": "ወይበርህ",
+          "t": "wäyəbärəhə",
+          "gl": ""
+        },
+        {
+          "g": "ሎሙ",
+          "t": "lomu",
+          "gl": ""
+        },
+        {
+          "g": "ብርሃነ",
+          "t": "bərəhanä",
+          "gl": ""
+        },
+        {
+          "g": "አምላክ",
+          "t": "ʾäməlakə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 9,
+      "geez": "ወናሁ፡ መጽአ፡ በትእልፊት፡ ቅዱሳን፡ ከመ፡ ይግበር፡ ፍትሐ፡ ላዕሌሆሙ፡ ወያህጕሎሙ፡ ለረሲዓን፡ ወይትዋቀሥ፡ ኵሎ፡ ዘሥጋ፡ በእንተ፡ ኵሉ፡ ዘገብሩ፡ ወረሰዩ፡ ላዕሌሁ፡ ኃጥኣን፡ ወረሲዓን።",
+      "translation": "And behold! He cometh with ten thousands of His holy ones To execute judgement upon all, And to destroy all the ungodly: And to convict all flesh Of all the works of their ungodliness which they have ungodly committed, And of all the hard things which ungodly sinners have spoken against Him.",
+      "words": [
+        {
+          "g": "ወናሁ",
+          "t": "wänahu",
+          "gl": ""
+        },
+        {
+          "g": "መጽአ",
+          "t": "mäṣəʾä",
+          "gl": ""
+        },
+        {
+          "g": "በትእልፊት",
+          "t": "bätəʾələfitə",
+          "gl": ""
+        },
+        {
+          "g": "ቅዱሳን",
+          "t": "qədusanə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይግበር",
+          "t": "yəgəbärə",
+          "gl": ""
+        },
+        {
+          "g": "ፍትሐ",
+          "t": "fətəḥä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሆሙ",
+          "t": "laʿəlehomu",
+          "gl": ""
+        },
+        {
+          "g": "ወያህጕሎሙ",
+          "t": "wäyahəgwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ለረሲዓን",
+          "t": "läräsiʿanə",
+          "gl": ""
+        },
+        {
+          "g": "ወይትዋቀሥ",
+          "t": "wäyətəwaqäśə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ዘሥጋ",
+          "t": "zäśəga",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘገብሩ",
+          "t": "zägäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ወረሰዩ",
+          "t": "wäräsäyu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ኃጥኣን",
+          "t": "ḫaṭəʾanə",
+          "gl": ""
+        },
+        {
+          "g": "ወረሲዓን",
+          "t": "wäräsiʿanə",
+          "gl": ""
+        }
+      ]
+    }
+  ],
+  "note": "The opening blessing of Enoch. Quoted directly in Jude 14-15 — one of the few New Testament citations of a non-canonical text. Sets the tone: this is prophecy about the End, spoken before the Flood."
+}

@@ -1,0 +1,3108 @@
+{
+  "book": "Judg",
+  "chapter": 1,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወኮነ ፡ እምድኅረ ፡ ሞተ ፡ ኢየሱስ ፡ ወተስእሉ ፡ ደቂቀ ፡ እስራኤል ፡ [ኀበ ፡ እግዚአብሔር ፡] እንዘ ፡ ይብሉ ፡ መኑ\n                  ፡ የዐርግ ፡ ለነ ፡ ኀበ ፡ ከናኔዎን ፡ መልአክ ፡ ዘይትቃተሎሙ ፡ ለነ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኮነ",
+          "t": "wäkonä",
+          "gl": ""
+        },
+        {
+          "g": "እምድኅረ",
+          "t": "ʾəmədəḫərä",
+          "gl": ""
+        },
+        {
+          "g": "ሞተ",
+          "t": "motä",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሱስ",
+          "t": "ʾiyäsusə",
+          "gl": ""
+        },
+        {
+          "g": "ወተስእሉ",
+          "t": "wätäsəʾəlu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ይብሉ",
+          "t": "yəbəlu",
+          "gl": ""
+        },
+        {
+          "g": "መኑ",
+          "t": "mänu",
+          "gl": ""
+        },
+        {
+          "g": "የዐርግ",
+          "t": "yäʿärəgə",
+          "gl": ""
+        },
+        {
+          "g": "ለነ",
+          "t": "länä",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ከናኔዎን",
+          "t": "känanewonə",
+          "gl": ""
+        },
+        {
+          "g": "መልአክ",
+          "t": "mäləʾäkə",
+          "gl": ""
+        },
+        {
+          "g": "ዘይትቃተሎሙ",
+          "t": "zäyətəqatälomu",
+          "gl": ""
+        },
+        {
+          "g": "ለነ",
+          "t": "länä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it came to pass after the death of Joshua, that the children of Israel enquired of the Lord, saying, Who shall go up for us first against the Chananites, to fight against them?",
+        "kjv": "Now after the death of Joshua it came to pass, that the children of Israel asked the LORD, saying, Who shall go up for us against the Canaanites first, to fight against them?"
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ወይቤሎ[ሙ] ፡ እግዚአብሔር ፡ ይሁዳ ፡ የዐርግ ፡ ወናሁ ፡ አግባእክዋ ፡ ለምድር ፡ ውስተ ፡ እዴሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎሙ",
+          "t": "wäyəbelomu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ይሁዳ",
+          "t": "yəhuda",
+          "gl": ""
+        },
+        {
+          "g": "የዐርግ",
+          "t": "yäʿärəgə",
+          "gl": ""
+        },
+        {
+          "g": "ወናሁ",
+          "t": "wänahu",
+          "gl": ""
+        },
+        {
+          "g": "አግባእክዋ",
+          "t": "ʾägəbaʾəkəwa",
+          "gl": ""
+        },
+        {
+          "g": "ለምድር",
+          "t": "lämədərə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord said, Judas shall go up: behold, I have delivered the land into his hand.",
+        "kjv": "And the LORD said, Judah shall go up: behold, I have delivered the land into his hand."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወይቤሎ ፡ ይሁዳ ፡ ለስምዖን ፡ እኁሁ ፡ ዕረግ ፡ ምስሌየ ፡ በውስተ ፡ መክፈልትየ ፡ ወንትቃተሎሙ ፡ ለከናአን ፡ ወአሐውር\n                  ፡ አነኒ ፡ ምስሌከ ፡ በውስተ ፡ መክፈልትከ ፡ ወሖረ ፡ ስምዖን ፡ ምስሌሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ይሁዳ",
+          "t": "yəhuda",
+          "gl": ""
+        },
+        {
+          "g": "ለስምዖን",
+          "t": "läsəməʿonə",
+          "gl": ""
+        },
+        {
+          "g": "እኁሁ",
+          "t": "ʾəḫuhu",
+          "gl": ""
+        },
+        {
+          "g": "ዕረግ",
+          "t": "ʿərägə",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌየ",
+          "t": "məsəleyä",
+          "gl": ""
+        },
+        {
+          "g": "በውስተ",
+          "t": "bäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "መክፈልትየ",
+          "t": "mäkəfälətəyä",
+          "gl": ""
+        },
+        {
+          "g": "ወንትቃተሎሙ",
+          "t": "wänətəqatälomu",
+          "gl": ""
+        },
+        {
+          "g": "ለከናአን",
+          "t": "läkänaʾänə",
+          "gl": ""
+        },
+        {
+          "g": "ወአሐውር",
+          "t": "wäʾäḥäwərə",
+          "gl": ""
+        },
+        {
+          "g": "አነኒ",
+          "t": "ʾänäni",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌከ",
+          "t": "məsəlekä",
+          "gl": ""
+        },
+        {
+          "g": "በውስተ",
+          "t": "bäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "መክፈልትከ",
+          "t": "mäkəfälətəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወሖረ",
+          "t": "wäḥorä",
+          "gl": ""
+        },
+        {
+          "g": "ስምዖን",
+          "t": "səməʿonə",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሁ",
+          "t": "məsəlehu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Judas said to his brother Symeon, Come up with me into my lot, and let us array ourselves against the Chananites, and I also will go with thee into thy lot: and Symeon went with him.",
+        "kjv": "And Judah said unto Simeon his brother, Come up with me into my lot, that we may fight against the Canaanites; and I likewise will go with thee into thy lot. So Simeon went with him."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወዐርገ ፡ ይሁዳ ፡ ወአግብኦሙ ፡ እግዚአብሔር ፡ ለከናኔዎን ፡ ወለፌሬዜዎን ፡ ውስተ ፡ እዴሁ ፡ ወቀተሎሙ ፡ በቤዜቅ ፡\n                  እልፈ ፡ ብእሴ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዐርገ",
+          "t": "wäʿärəgä",
+          "gl": ""
+        },
+        {
+          "g": "ይሁዳ",
+          "t": "yəhuda",
+          "gl": ""
+        },
+        {
+          "g": "ወአግብኦሙ",
+          "t": "wäʾägəbəʾomu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለከናኔዎን",
+          "t": "läkänanewonə",
+          "gl": ""
+        },
+        {
+          "g": "ወለፌሬዜዎን",
+          "t": "wäläferezewonə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        },
+        {
+          "g": "ወቀተሎሙ",
+          "t": "wäqätälomu",
+          "gl": ""
+        },
+        {
+          "g": "በቤዜቅ",
+          "t": "bäbezeqə",
+          "gl": ""
+        },
+        {
+          "g": "እልፈ",
+          "t": "ʾələfä",
+          "gl": ""
+        },
+        {
+          "g": "ብእሴ",
+          "t": "bəʾəse",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Judas went up; and the Lord delivered the Chananite and the Pherezite into their hands, and they smote them in Bezek to the number of ten thousand men.",
+        "kjv": "And Judah went up; and the LORD delivered the Canaanites and the Perizzites into their hand: and they slew of them in Bezek ten thousand men."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወረከብዎ ፡ ለአዶኒቤዜቅ ፡ ወተቃተልዎ ፡ ወቀተልዎሙ ፡ ለከናኔዎን ፡ ወለፌሬዜዎን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወረከብዎ",
+          "t": "wäräkäbəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለአዶኒቤዜቅ",
+          "t": "läʾädonibezeqə",
+          "gl": ""
+        },
+        {
+          "g": "ወተቃተልዎ",
+          "t": "wätäqatäləwo",
+          "gl": ""
+        },
+        {
+          "g": "ወቀተልዎሙ",
+          "t": "wäqätäləwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለከናኔዎን",
+          "t": "läkänanewonə",
+          "gl": ""
+        },
+        {
+          "g": "ወለፌሬዜዎን",
+          "t": "wäläferezewonə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they overtook Adonibezek in Bezek, and fought against him; and they smote the Chananite and the Pherezite.",
+        "kjv": "And they found Adonibezek in Bezek: and they fought against him, and they slew the Canaanites and the Perizzites."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወጐየ ፡ አዶኒቤዜቅ ፡ ወዴገንዎ ፡ ወተለውዎ ፡ ወአኀዝዎ ፡ ወመተሩ ፡ አርእስተ ፡ እደዊሁ ፡ ወእገሪሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወጐየ",
+          "t": "wägwäyä",
+          "gl": ""
+        },
+        {
+          "g": "አዶኒቤዜቅ",
+          "t": "ʾädonibezeqə",
+          "gl": ""
+        },
+        {
+          "g": "ወዴገንዎ",
+          "t": "wädegänəwo",
+          "gl": ""
+        },
+        {
+          "g": "ወተለውዎ",
+          "t": "wätäläwəwo",
+          "gl": ""
+        },
+        {
+          "g": "ወአኀዝዎ",
+          "t": "wäʾäḫäzəwo",
+          "gl": ""
+        },
+        {
+          "g": "ወመተሩ",
+          "t": "wämätäru",
+          "gl": ""
+        },
+        {
+          "g": "አርእስተ",
+          "t": "ʾärəʾəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እደዊሁ",
+          "t": "ʾədäwihu",
+          "gl": ""
+        },
+        {
+          "g": "ወእገሪሁ",
+          "t": "wäʾəgärihu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Adonibezek fled, and they pursued after him, and took him, and cut off his thumbs and his great toes.",
+        "kjv": "But Adonibezek fled; and they pursued after him, and caught him, and cut off his thumbs and his great toes."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወይቤሎሙ ፡ አዶኒቤዜቅ ፡ ዘ፸ነገሥት ፡ አርእስተ ፡ እደዊሆሙ ፡ ወእገሪሆሙ ፡ ምቱር ፡ ሀለወ ፡ አስተጋብኡ ፡ በታሕተ ፡\n                  ማእድየ ፡ ወበከመ ፡ ገበርኩ ፡ ከማሁ ፡ ፈደየኒ ፡ እግዚአብሔር ፡ ወወሰድዎ ፡ ኢየሩሳሌም ፡ ወሞተ ፡ በህየ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎሙ",
+          "t": "wäyəbelomu",
+          "gl": ""
+        },
+        {
+          "g": "አዶኒቤዜቅ",
+          "t": "ʾädonibezeqə",
+          "gl": ""
+        },
+        {
+          "g": "ዘ፸ነገሥት",
+          "t": "zä70nägäśətə",
+          "gl": ""
+        },
+        {
+          "g": "አርእስተ",
+          "t": "ʾärəʾəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እደዊሆሙ",
+          "t": "ʾədäwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወእገሪሆሙ",
+          "t": "wäʾəgärihomu",
+          "gl": ""
+        },
+        {
+          "g": "ምቱር",
+          "t": "məturə",
+          "gl": ""
+        },
+        {
+          "g": "ሀለወ",
+          "t": "häläwä",
+          "gl": ""
+        },
+        {
+          "g": "አስተጋብኡ",
+          "t": "ʾäsətägabəʾu",
+          "gl": ""
+        },
+        {
+          "g": "በታሕተ",
+          "t": "bätaḥətä",
+          "gl": ""
+        },
+        {
+          "g": "ማእድየ",
+          "t": "maʾədəyä",
+          "gl": ""
+        },
+        {
+          "g": "ወበከመ",
+          "t": "wäbäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ገበርኩ",
+          "t": "gäbärəku",
+          "gl": ""
+        },
+        {
+          "g": "ከማሁ",
+          "t": "kämahu",
+          "gl": ""
+        },
+        {
+          "g": "ፈደየኒ",
+          "t": "fädäyäni",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወወሰድዎ",
+          "t": "wäwäsädəwo",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሩሳሌም",
+          "t": "ʾiyärusalemə",
+          "gl": ""
+        },
+        {
+          "g": "ወሞተ",
+          "t": "wämotä",
+          "gl": ""
+        },
+        {
+          "g": "በህየ",
+          "t": "bähəyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Adonibezek said, Seventy kings, having their thumbs and their great toes cut off, gathered their food under my table: as I therefore have done, so God has recompensed me: and they brought him to Jerusalem, and he died there.",
+        "kjv": "And Adonibezek said, Threescore and ten kings, having their thumbs and their great toes cut off, gathered their meat under my table: as I have done, so God hath requited me. And they brought him to Jerusalem, and there he died."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወተቃተሉ ፡ ደቂቀ ፡ ይሁዳ ፡ ምስለ ፡ ኢየሩሳሌም ፡ ወአስተግብእዋ ፡ ወቀተልዋ ፡ በአፈ ፡ ኀፂን ፡ ወአውዐዩ ፡ ሀገራ ፡\n                  በእሳት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተቃተሉ",
+          "t": "wätäqatälu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ይሁዳ",
+          "t": "yəhuda",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሩሳሌም",
+          "t": "ʾiyärusalemə",
+          "gl": ""
+        },
+        {
+          "g": "ወአስተግብእዋ",
+          "t": "wäʾäsətägəbəʾəwa",
+          "gl": ""
+        },
+        {
+          "g": "ወቀተልዋ",
+          "t": "wäqätäləwa",
+          "gl": ""
+        },
+        {
+          "g": "በአፈ",
+          "t": "bäʾäfä",
+          "gl": ""
+        },
+        {
+          "g": "ኀፂን",
+          "t": "ḫäṣ́inə",
+          "gl": ""
+        },
+        {
+          "g": "ወአውዐዩ",
+          "t": "wäʾäwəʿäyu",
+          "gl": ""
+        },
+        {
+          "g": "ሀገራ",
+          "t": "hägära",
+          "gl": ""
+        },
+        {
+          "g": "በእሳት",
+          "t": "bäʾəsatə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the children of Judas fought against Jerusalem, and took it, and smote it with the edge of the sword, and they burnt the city with fire.",
+        "kjv": "Now the children of Judah had fought against Jerusalem, and had taken it, and smitten it with the edge of the sword, and set the city on fire."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወእምዝ ፡ ወረዱ ፡ ደቂቀ ፡ ይሁዳ ፡ ይትቃተልዎሙ ፡ ለከናኔዎን ፡ እለ ፡ ይነብሩ ፡ ውስተ ፡ አድባር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእምዝ",
+          "t": "wäʾəməzə",
+          "gl": ""
+        },
+        {
+          "g": "ወረዱ",
+          "t": "wärädu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ይሁዳ",
+          "t": "yəhuda",
+          "gl": ""
+        },
+        {
+          "g": "ይትቃተልዎሙ",
+          "t": "yətəqatäləwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለከናኔዎን",
+          "t": "läkänanewonə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አድባር",
+          "t": "ʾädəbarə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And afterwards the children of Judas went down to fight with the Chananite dwelling in the hill country, and the south, and the plain country.",
+        "kjv": "And afterward the children of Judah went down to fight against the Canaanites, that dwelt in the mountain, and in the south, and in the valley."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወሖረ ፡ ይሁዳ ፡ ውስተ ፡ ከናኔዎን ፡ እለ ፡ ይነብሩ ፡ ውስተ ፡ ኬብሮን ፡ ወወፅኡ ፡ ሰብአ ፡ ኬብሮን ፡ ተቀበልዎሙ ፡\n                  ወስማ ፡ ለኬብሮን ፡ ትካት ፡ ቀሪየርቦቀሴፌር ፡ ወቀተልዎሙ ፡ ለሴሲ ፡ ወለአኪመም ፡ ወለተሚ ፡ ትውልደ ፡ ኤነቅ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሖረ",
+          "t": "wäḥorä",
+          "gl": ""
+        },
+        {
+          "g": "ይሁዳ",
+          "t": "yəhuda",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ከናኔዎን",
+          "t": "känanewonə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኬብሮን",
+          "t": "kebəronə",
+          "gl": ""
+        },
+        {
+          "g": "ወወፅኡ",
+          "t": "wäwäṣ́əʾu",
+          "gl": ""
+        },
+        {
+          "g": "ሰብአ",
+          "t": "säbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ኬብሮን",
+          "t": "kebəronə",
+          "gl": ""
+        },
+        {
+          "g": "ተቀበልዎሙ",
+          "t": "täqäbäləwomu",
+          "gl": ""
+        },
+        {
+          "g": "ወስማ",
+          "t": "wäsəma",
+          "gl": ""
+        },
+        {
+          "g": "ለኬብሮን",
+          "t": "läkebəronə",
+          "gl": ""
+        },
+        {
+          "g": "ትካት",
+          "t": "təkatə",
+          "gl": ""
+        },
+        {
+          "g": "ቀሪየርቦቀሴፌር",
+          "t": "qäriyärəboqäseferə",
+          "gl": ""
+        },
+        {
+          "g": "ወቀተልዎሙ",
+          "t": "wäqätäləwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለሴሲ",
+          "t": "läsesi",
+          "gl": ""
+        },
+        {
+          "g": "ወለአኪመም",
+          "t": "wäläʾäkimämə",
+          "gl": ""
+        },
+        {
+          "g": "ወለተሚ",
+          "t": "wälätämi",
+          "gl": ""
+        },
+        {
+          "g": "ትውልደ",
+          "t": "təwələdä",
+          "gl": ""
+        },
+        {
+          "g": "ኤነቅ",
+          "t": "ʾenäqə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Judas went to the Chananite who dwelt in Chebron; and Chebron came out against him; [and the name of Chebron before was Cariatharbocsepher:] and they smote Sessi, and Achiman, and Tholmi, children of Enac.",
+        "kjv": "And Judah went against the Canaanites that dwelt in Hebron: (now the name of Hebron before was Kirjatharba:) and they slew Sheshai, and Ahiman, and Talmai."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወሖሩ ፡ እምህየ ፡ ኀበ ፡ እለ ፡ ይነብሩ ፡ ዳቢር ፡ ወስማ ፡ ለዳቢር ፡ ትካት ፡ ሀገረ ፡ መጽሐፍ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሖሩ",
+          "t": "wäḥoru",
+          "gl": ""
+        },
+        {
+          "g": "እምህየ",
+          "t": "ʾəməhəyä",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ዳቢር",
+          "t": "dabirə",
+          "gl": ""
+        },
+        {
+          "g": "ወስማ",
+          "t": "wäsəma",
+          "gl": ""
+        },
+        {
+          "g": "ለዳቢር",
+          "t": "lädabirə",
+          "gl": ""
+        },
+        {
+          "g": "ትካት",
+          "t": "təkatə",
+          "gl": ""
+        },
+        {
+          "g": "ሀገረ",
+          "t": "hägärä",
+          "gl": ""
+        },
+        {
+          "g": "መጽሐፍ",
+          "t": "mäṣəḥäfə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they went up thence to the inhabitants of Dabir; but the name of Dabir was before Cariathsepher, the city of Letters.",
+        "kjv": "And from thence he went against the inhabitants of Debir: and the name of Debir before was Kirjathsepher:"
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወይቤ ፡ ካሌብ ፡ ዘቀተላ ፡ ለሀገረ ፡ መጽሐፍ ፡ ወአስተጋብኣ ፡ እሁቦ ፡ አስካ ፡ ወለትየ ፡ ትኩኖ ፡ ብእሲተ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "ካሌብ",
+          "t": "kalebə",
+          "gl": ""
+        },
+        {
+          "g": "ዘቀተላ",
+          "t": "zäqätäla",
+          "gl": ""
+        },
+        {
+          "g": "ለሀገረ",
+          "t": "lähägärä",
+          "gl": ""
+        },
+        {
+          "g": "መጽሐፍ",
+          "t": "mäṣəḥäfə",
+          "gl": ""
+        },
+        {
+          "g": "ወአስተጋብኣ",
+          "t": "wäʾäsətägabəʾa",
+          "gl": ""
+        },
+        {
+          "g": "እሁቦ",
+          "t": "ʾəhubo",
+          "gl": ""
+        },
+        {
+          "g": "አስካ",
+          "t": "ʾäsəka",
+          "gl": ""
+        },
+        {
+          "g": "ወለትየ",
+          "t": "wälätəyä",
+          "gl": ""
+        },
+        {
+          "g": "ትኩኖ",
+          "t": "təkuno",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲተ",
+          "t": "bəʾəsitä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Chaleb said, Whosoever shall smite the city of Letters, and shall first take it, I will give to him Ascha my daughter to wife.",
+        "kjv": "And Caleb said, He that smiteth Kirjathsepher, and taketh it, to him will I give Achsah my daughter to wife."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወአስተጋብኣ ፡ ጎቶኒየል ፡ ወልደ ፡ ቄኔዝ ፡ እኁሁ ፡ ለካሌብ ፡ ዘይንእስ ፡ ወወሀቦ ፡ አስካ ፡ ወለቶ ፡ ትኩኖ ፡\n                  ብእሲቶ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአስተጋብኣ",
+          "t": "wäʾäsətägabəʾa",
+          "gl": ""
+        },
+        {
+          "g": "ጎቶኒየል",
+          "t": "gotoniyälə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ቄኔዝ",
+          "t": "qenezə",
+          "gl": ""
+        },
+        {
+          "g": "እኁሁ",
+          "t": "ʾəḫuhu",
+          "gl": ""
+        },
+        {
+          "g": "ለካሌብ",
+          "t": "läkalebə",
+          "gl": ""
+        },
+        {
+          "g": "ዘይንእስ",
+          "t": "zäyənəʾəsə",
+          "gl": ""
+        },
+        {
+          "g": "ወወሀቦ",
+          "t": "wäwähäbo",
+          "gl": ""
+        },
+        {
+          "g": "አስካ",
+          "t": "ʾäsəka",
+          "gl": ""
+        },
+        {
+          "g": "ወለቶ",
+          "t": "wäläto",
+          "gl": ""
+        },
+        {
+          "g": "ትኩኖ",
+          "t": "təkuno",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲቶ",
+          "t": "bəʾəsito",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Gothoniel the younger son of Kenez the brother of Chaleb took it; and Chaleb gave him his daughter Ascha to wife.",
+        "kjv": "And Othniel the son of Kenaz, Caleb’s younger brother, took it: and he gave him Achsah his daughter to wife."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወሶበ ፡ ለሐዊራ ፡ አምከራ ፡ ጎቶኒየል ፡ ትስአሎ ፡ ለአቡሃ ፡ ይጸግዋ ፡ ዐጸደ ፡ ወፍር ፡ ወአንጐርጐረት ፡ በዲበ ፡\n                  አድግ ፡ ወጸርሐት ፡ በላዕለ ፡ አድግ ፡ ወትቤ ፡ ውስተ ፡ ብሔረ ፡ አዜብ ፡ ፈኖከኒ ፡ ወይቤላ ፡ ካሌብ ፡ ምንተ ፡ ኮንኪ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሶበ",
+          "t": "wäsobä",
+          "gl": ""
+        },
+        {
+          "g": "ለሐዊራ",
+          "t": "läḥäwira",
+          "gl": ""
+        },
+        {
+          "g": "አምከራ",
+          "t": "ʾäməkära",
+          "gl": ""
+        },
+        {
+          "g": "ጎቶኒየል",
+          "t": "gotoniyälə",
+          "gl": ""
+        },
+        {
+          "g": "ትስአሎ",
+          "t": "təsəʾälo",
+          "gl": ""
+        },
+        {
+          "g": "ለአቡሃ",
+          "t": "läʾäbuha",
+          "gl": ""
+        },
+        {
+          "g": "ይጸግዋ",
+          "t": "yəṣägəwa",
+          "gl": ""
+        },
+        {
+          "g": "ዐጸደ",
+          "t": "ʿäṣädä",
+          "gl": ""
+        },
+        {
+          "g": "ወፍር",
+          "t": "wäfərə",
+          "gl": ""
+        },
+        {
+          "g": "ወአንጐርጐረት",
+          "t": "wäʾänəgwärəgwärätə",
+          "gl": ""
+        },
+        {
+          "g": "በዲበ",
+          "t": "bädibä",
+          "gl": ""
+        },
+        {
+          "g": "አድግ",
+          "t": "ʾädəgə",
+          "gl": ""
+        },
+        {
+          "g": "ወጸርሐት",
+          "t": "wäṣärəḥätə",
+          "gl": ""
+        },
+        {
+          "g": "በላዕለ",
+          "t": "bälaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "አድግ",
+          "t": "ʾädəgə",
+          "gl": ""
+        },
+        {
+          "g": "ወትቤ",
+          "t": "wätəbe",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ብሔረ",
+          "t": "bəḥerä",
+          "gl": ""
+        },
+        {
+          "g": "አዜብ",
+          "t": "ʾäzebə",
+          "gl": ""
+        },
+        {
+          "g": "ፈኖከኒ",
+          "t": "fänokäni",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤላ",
+          "t": "wäyəbela",
+          "gl": ""
+        },
+        {
+          "g": "ካሌብ",
+          "t": "kalebə",
+          "gl": ""
+        },
+        {
+          "g": "ምንተ",
+          "t": "mənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኮንኪ",
+          "t": "konəki",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it came to pass as she went in, that Gothoniel urged her to ask a field of her father; and she murmured and cried from off her ass, Thou hast sent me forth into a south land: and Chaleb said to her, What is thy request?",
+        "kjv": "And it came to pass, when she came to him, that she moved him to ask of her father a field: and she lighted from off her ass; and Caleb said unto her, What wilt thou?"
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ወትቤሎ ፡ አስካ ፡ ሀበኒ ፡ በረከተ ፡ እስመ ፡ ብሔረ ፡ አዜብ ፡ ፈኖከኒ ፡ ወሀበኒ ፡ ቤዛ ፡ ማይ ፡ ወወሀባ ፡ ካሌብ\n                  ፡ በከመ ፡ ትፈቱ ፡ በልባ ፡ ቤዛ ፡ ሕሙም ፡ ወቤዛ ፡ ትኩዝ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትቤሎ",
+          "t": "wätəbelo",
+          "gl": ""
+        },
+        {
+          "g": "አስካ",
+          "t": "ʾäsəka",
+          "gl": ""
+        },
+        {
+          "g": "ሀበኒ",
+          "t": "häbäni",
+          "gl": ""
+        },
+        {
+          "g": "በረከተ",
+          "t": "bäräkätä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ብሔረ",
+          "t": "bəḥerä",
+          "gl": ""
+        },
+        {
+          "g": "አዜብ",
+          "t": "ʾäzebə",
+          "gl": ""
+        },
+        {
+          "g": "ፈኖከኒ",
+          "t": "fänokäni",
+          "gl": ""
+        },
+        {
+          "g": "ወሀበኒ",
+          "t": "wähäbäni",
+          "gl": ""
+        },
+        {
+          "g": "ቤዛ",
+          "t": "beza",
+          "gl": ""
+        },
+        {
+          "g": "ማይ",
+          "t": "mayə",
+          "gl": ""
+        },
+        {
+          "g": "ወወሀባ",
+          "t": "wäwähäba",
+          "gl": ""
+        },
+        {
+          "g": "ካሌብ",
+          "t": "kalebə",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ትፈቱ",
+          "t": "təfätu",
+          "gl": ""
+        },
+        {
+          "g": "በልባ",
+          "t": "bäləba",
+          "gl": ""
+        },
+        {
+          "g": "ቤዛ",
+          "t": "beza",
+          "gl": ""
+        },
+        {
+          "g": "ሕሙም",
+          "t": "ḥəmumə",
+          "gl": ""
+        },
+        {
+          "g": "ወቤዛ",
+          "t": "wäbeza",
+          "gl": ""
+        },
+        {
+          "g": "ትኩዝ",
+          "t": "təkuzə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Ascha said to him, Give me, I pray thee, a blessing, for thou hast sent me forth into a south land, and thou shalt give me the ransom of water: and Chaleb gave her according to her heart the ransom of the upper springs and the ransom of the low springs.",
+        "kjv": "And she said unto him, Give me a blessing: for thou hast given me a south land; give me also springs of water. And Caleb gave her the upper springs and the nether springs."
+      }
+    },
+    {
+      "num": 16,
+      "geez": "ወደቂቀ ፡ ዮባብ ፡ ቀኔያዊ ፡ ሐሙሁ ፡ ለሙሴ ፡ ዐርጉ ፡ እምነ ፡ ሀገረ ፡ ፊንቆን ፡ ኀበ ፡ ደቂቀ ፡ ይሁዳ ፡ ውስተ ፡\n                  ሐቅለ ፡ ይሁዳ ፡ ዘመንገለ ፡ አዜብ ፡ ውስተ ፡ ሙራደ ፡ አረድ ፡ ወሖረ ፡ ወነበረ ፡ ምስለ ፡ ሕዝብ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወደቂቀ",
+          "t": "wädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ዮባብ",
+          "t": "yobabə",
+          "gl": ""
+        },
+        {
+          "g": "ቀኔያዊ",
+          "t": "qäneyawi",
+          "gl": ""
+        },
+        {
+          "g": "ሐሙሁ",
+          "t": "ḥämuhu",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ዐርጉ",
+          "t": "ʿärəgu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ሀገረ",
+          "t": "hägärä",
+          "gl": ""
+        },
+        {
+          "g": "ፊንቆን",
+          "t": "finəqonə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ይሁዳ",
+          "t": "yəhuda",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሐቅለ",
+          "t": "ḥäqəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይሁዳ",
+          "t": "yəhuda",
+          "gl": ""
+        },
+        {
+          "g": "ዘመንገለ",
+          "t": "zämänəgälä",
+          "gl": ""
+        },
+        {
+          "g": "አዜብ",
+          "t": "ʾäzebə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሙራደ",
+          "t": "muradä",
+          "gl": ""
+        },
+        {
+          "g": "አረድ",
+          "t": "ʾärädə",
+          "gl": ""
+        },
+        {
+          "g": "ወሖረ",
+          "t": "wäḥorä",
+          "gl": ""
+        },
+        {
+          "g": "ወነበረ",
+          "t": "wänäbärä",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the children of Jothor the Kenite the father-in-law of Moses went up from the city of palm-trees with the children of Judas, to the wilderness that is in the south of Juda, which is at the descent of Arad, and they dwelt with the people.",
+        "kjv": "And the children of the Kenite, Moses’ father in law, went up out of the city of palm trees with the children of Judah into the wilderness of Judah, which lieth in the south of Arad; and they went and dwelt among the people."
+      }
+    },
+    {
+      "num": 17,
+      "geez": "ወሖረ ፡ ይሁዳ ፡ ምስለ ፡ ስምዖን ፡ [እኁሁ ፡] ወቀተልዎሙ ፡ ለከናኔዎን ፡ እለ ፡ ይነብሩ ፡ ውስተ ፡ ሴፍር ፡\n                  ወአሕረምዋ ፡ ወአጥፍእዋ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሖረ",
+          "t": "wäḥorä",
+          "gl": ""
+        },
+        {
+          "g": "ይሁዳ",
+          "t": "yəhuda",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ስምዖን",
+          "t": "səməʿonə",
+          "gl": ""
+        },
+        {
+          "g": "እኁሁ",
+          "t": "ʾəḫuhu",
+          "gl": ""
+        },
+        {
+          "g": "ወቀተልዎሙ",
+          "t": "wäqätäləwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለከናኔዎን",
+          "t": "läkänanewonə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሴፍር",
+          "t": "sefərə",
+          "gl": ""
+        },
+        {
+          "g": "ወአሕረምዋ",
+          "t": "wäʾäḥəräməwa",
+          "gl": ""
+        },
+        {
+          "g": "ወአጥፍእዋ",
+          "t": "wäʾäṭəfəʾəwa",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Judas went with Symeon his brother, and smote the Chananite that inhabited Sepheth, and they utterly destroyed them; and they called the name of the city Anathema.",
+        "kjv": "And Judah went with Simeon his brother, and they slew the Canaanites that inhabited Zephath, and utterly destroyed it. And the name of the city was called Hormah."
+      }
+    },
+    {
+      "num": 18,
+      "geez": "ወኢተወርሳ ፡ ይሁዳ ፡ ለጋዛን ፡ ወለደወላ ፡ ወአስቃሎና ፡ ወደወላ ፡ ወአዛጦን ፡ ወደወላ ፡ ወጺኦታቲሃ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኢተወርሳ",
+          "t": "wäʾitäwärəsa",
+          "gl": ""
+        },
+        {
+          "g": "ይሁዳ",
+          "t": "yəhuda",
+          "gl": ""
+        },
+        {
+          "g": "ለጋዛን",
+          "t": "lägazanə",
+          "gl": ""
+        },
+        {
+          "g": "ወለደወላ",
+          "t": "wälädäwäla",
+          "gl": ""
+        },
+        {
+          "g": "ወአስቃሎና",
+          "t": "wäʾäsəqalona",
+          "gl": ""
+        },
+        {
+          "g": "ወደወላ",
+          "t": "wädäwäla",
+          "gl": ""
+        },
+        {
+          "g": "ወአዛጦን",
+          "t": "wäʾäzaṭonə",
+          "gl": ""
+        },
+        {
+          "g": "ወደወላ",
+          "t": "wädäwäla",
+          "gl": ""
+        },
+        {
+          "g": "ወጺኦታቲሃ",
+          "t": "wäṣiʾotatiha",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But Judas did not inherit Gaza nor her coasts, nor Ascalon nor her coasts, nor Accaron nor her coasts, nor Azotus nor the lands around it.",
+        "kjv": "Also Judah took Gaza with the coast thereof, and Askelon with the coast thereof, and Ekron with the coast thereof."
+      }
+    },
+    {
+      "num": 19,
+      "geez": "ወሀለወ ፡ እግዚአብሔር ፡ ምስለ ፡ ይሁዳ ፡ ወተወርሰ ፡ ደብረ ፡ ወስእነ ፡ ተወርሶቶሙ ፡ ለእለ ፡ ይነብሩ ፡ ውስተ ፡\n                  ቈላት ፡ እስመ ፡ ሬከብ ፡ ፈለጣ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሀለወ",
+          "t": "wähäläwä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይሁዳ",
+          "t": "yəhuda",
+          "gl": ""
+        },
+        {
+          "g": "ወተወርሰ",
+          "t": "wätäwärəsä",
+          "gl": ""
+        },
+        {
+          "g": "ደብረ",
+          "t": "däbərä",
+          "gl": ""
+        },
+        {
+          "g": "ወስእነ",
+          "t": "wäsəʾənä",
+          "gl": ""
+        },
+        {
+          "g": "ተወርሶቶሙ",
+          "t": "täwärəsotomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእለ",
+          "t": "läʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ቈላት",
+          "t": "qwälatə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ሬከብ",
+          "t": "rekäbə",
+          "gl": ""
+        },
+        {
+          "g": "ፈለጣ",
+          "t": "fäläṭa",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord was with Judas, and he inherited the mountain; for they were not able to destroy the inhabitants of the valley, for Rechab prevented them.",
+        "kjv": "And the LORD was with Judah; and he drave out the inhabitants of the mountain; but could not drive out the inhabitants of the valley, because they had chariots of iron."
+      }
+    },
+    {
+      "num": 20,
+      "geez": "ወወሀብዎ ፡ ለካሌብ ፡ ኬብሮን ፡ በከመ ፡ ይቤ ፡ ሙሴ ፡ ወተወርሰ ፡ እምህየ ፡ አህጉረ ፡ ወአሰሰሎሙ ፡ እምህየ ፡\n                  ለሠለስቱ ፡ ደቂቀ ፡ ኤናቅ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወወሀብዎ",
+          "t": "wäwähäbəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለካሌብ",
+          "t": "läkalebə",
+          "gl": ""
+        },
+        {
+          "g": "ኬብሮን",
+          "t": "kebəronə",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ይቤ",
+          "t": "yəbe",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ወተወርሰ",
+          "t": "wätäwärəsä",
+          "gl": ""
+        },
+        {
+          "g": "እምህየ",
+          "t": "ʾəməhəyä",
+          "gl": ""
+        },
+        {
+          "g": "አህጉረ",
+          "t": "ʾähəgurä",
+          "gl": ""
+        },
+        {
+          "g": "ወአሰሰሎሙ",
+          "t": "wäʾäsäsälomu",
+          "gl": ""
+        },
+        {
+          "g": "እምህየ",
+          "t": "ʾəməhəyä",
+          "gl": ""
+        },
+        {
+          "g": "ለሠለስቱ",
+          "t": "läśäläsətu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ኤናቅ",
+          "t": "ʾenaqə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they gave Chebron to Chaleb, as Moses said; and thence he inherited the three cities of the children of Enac.",
+        "kjv": "And they gave Hebron unto Caleb, as Moses said: and he expelled thence the three sons of Anak."
+      }
+    },
+    {
+      "num": 21,
+      "geez": "ወለኢየቡሴዎን ፡ እለ ፡ ይነብሩ ፡ ውስተ ፡ ኢየሩሳሌም ፡ ኢያሰሰልዎሙ ፡ ደቂቀ ፡ ብንያሚ ፡ ወነበሩ ፡ ኢየቡሴዎን ፡\n                  ምስለ ፡ ደቂቀ ፡ ብንያሚ ፡ እስከ ፡ ዛቲ ፡ ዕለት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለኢየቡሴዎን",
+          "t": "wäläʾiyäbusewonə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሩሳሌም",
+          "t": "ʾiyärusalemə",
+          "gl": ""
+        },
+        {
+          "g": "ኢያሰሰልዎሙ",
+          "t": "ʾiyasäsäləwomu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ብንያሚ",
+          "t": "bənəyami",
+          "gl": ""
+        },
+        {
+          "g": "ወነበሩ",
+          "t": "wänäbäru",
+          "gl": ""
+        },
+        {
+          "g": "ኢየቡሴዎን",
+          "t": "ʾiyäbusewonə",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ብንያሚ",
+          "t": "bənəyami",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዛቲ",
+          "t": "zati",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But the children of Benjamin did not take the inheritance of the Jebusite who dwelt in Jerusalem; and the Jebusite dwelt with the children of Benjamin in Jerusalem until this day.",
+        "kjv": "And the children of Benjamin did not drive out the Jebusites that inhabited Jerusalem; but the Jebusites dwell with the children of Benjamin in Jerusalem unto this day."
+      }
+    },
+    {
+      "num": 22,
+      "geez": "ወዐርጉ ፡ ደቂቀ ፡ ዮሴፍሰ ፡ እሙንቱኒ ፡ ውስተ ፡ ቤቴል ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዐርጉ",
+          "t": "wäʿärəgu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ዮሴፍሰ",
+          "t": "yosefəsä",
+          "gl": ""
+        },
+        {
+          "g": "እሙንቱኒ",
+          "t": "ʾəmunətuni",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ቤቴል",
+          "t": "betelə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the sons of Joseph, they also went up to Bæthel; and the Lord was with them.",
+        "kjv": "And the house of Joseph, they also went up against Bethel: and the LORD was with them."
+      }
+    },
+    {
+      "num": 23,
+      "geez": "ወስማ ፡ ለይእቲ ፡ ሀገር ፡ ትካት ፡ ሉዛ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወስማ",
+          "t": "wäsəma",
+          "gl": ""
+        },
+        {
+          "g": "ለይእቲ",
+          "t": "läyəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ሀገር",
+          "t": "hägärə",
+          "gl": ""
+        },
+        {
+          "g": "ትካት",
+          "t": "təkatə",
+          "gl": ""
+        },
+        {
+          "g": "ሉዛ",
+          "t": "luza",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they encamped and surveyed Bæthel: and the name of the city before was Luza.",
+        "kjv": "And the house of Joseph sent to descry Bethel. (Now the name of the city before was Luz.)"
+      }
+    },
+    {
+      "num": 24,
+      "geez": "ወርእዩ ፡ ሰብአ ፡ መዓቅብ ፡ ብእሴ ፡ እንዘ ፡ ይወፅእ ፡ እምነ ፡ ሀገር ፡ ወአኀዝዎ ፡ ወይቤልዎ ፡ አርእየነ ፡ ምብዋኣ\n                  ፡ ለሀገር ፡ ወንገብር ፡ ምስሌከ ፡ ምሕረተ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወርእዩ",
+          "t": "wärəʾəyu",
+          "gl": ""
+        },
+        {
+          "g": "ሰብአ",
+          "t": "säbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "መዓቅብ",
+          "t": "mäʿaqəbə",
+          "gl": ""
+        },
+        {
+          "g": "ብእሴ",
+          "t": "bəʾəse",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ይወፅእ",
+          "t": "yəwäṣ́əʾə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ሀገር",
+          "t": "hägärə",
+          "gl": ""
+        },
+        {
+          "g": "ወአኀዝዎ",
+          "t": "wäʾäḫäzəwo",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤልዎ",
+          "t": "wäyəbeləwo",
+          "gl": ""
+        },
+        {
+          "g": "አርእየነ",
+          "t": "ʾärəʾəyänä",
+          "gl": ""
+        },
+        {
+          "g": "ምብዋኣ",
+          "t": "məbəwaʾa",
+          "gl": ""
+        },
+        {
+          "g": "ለሀገር",
+          "t": "lähägärə",
+          "gl": ""
+        },
+        {
+          "g": "ወንገብር",
+          "t": "wänəgäbərə",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌከ",
+          "t": "məsəlekä",
+          "gl": ""
+        },
+        {
+          "g": "ምሕረተ",
+          "t": "məḥərätä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the spies looked, and behold, a man went out of the city, and they took him; and they said to him, Shew us the way into the city, and we will deal mercifully with thee.",
+        "kjv": "And the spies saw a man come forth out of the city, and they said unto him, Shew us, we pray thee, the entrance into the city, and we will shew thee mercy."
+      }
+    },
+    {
+      "num": 25,
+      "geez": "ወአርአዮሙ ፡ እንተ ፡ ኀበ ፡ ይበውእዋ ፡ ለሀገር ፡ ወቀተልዋ ፡ ለይእቲ ፡ ሀገር ፡ በአፈ ፡ ኀፂን ፡ ወለዝክቱሰ ፡\n                  ብእሲ ፡ ወለአዝማዲሁ ፡ አግዐዝዎሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአርአዮሙ",
+          "t": "wäʾärəʾäyomu",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ይበውእዋ",
+          "t": "yəbäwəʾəwa",
+          "gl": ""
+        },
+        {
+          "g": "ለሀገር",
+          "t": "lähägärə",
+          "gl": ""
+        },
+        {
+          "g": "ወቀተልዋ",
+          "t": "wäqätäləwa",
+          "gl": ""
+        },
+        {
+          "g": "ለይእቲ",
+          "t": "läyəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ሀገር",
+          "t": "hägärə",
+          "gl": ""
+        },
+        {
+          "g": "በአፈ",
+          "t": "bäʾäfä",
+          "gl": ""
+        },
+        {
+          "g": "ኀፂን",
+          "t": "ḫäṣ́inə",
+          "gl": ""
+        },
+        {
+          "g": "ወለዝክቱሰ",
+          "t": "wäläzəkətusä",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ወለአዝማዲሁ",
+          "t": "wäläʾäzəmadihu",
+          "gl": ""
+        },
+        {
+          "g": "አግዐዝዎሙ",
+          "t": "ʾägəʿäzəwomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he shewed them the way into the city; and they smote the city with the edge of the sword; but they let go the man and his family.",
+        "kjv": "And when he shewed them the entrance into the city, they smote the city with the edge of the sword; but they let go the man and all his family."
+      }
+    },
+    {
+      "num": 26,
+      "geez": "ወአተወ ፡ ውእቱ ፡ ብእሲ ፡ ውስተ ፡ ምድረ ፡ ኬጤዎን ፡ ወነደቀ ፡ በህየ ፡ ሀገረ ፡ ወሰመየ ፡ ስማ ፡ ሉዛ ፡ ወውእቱ\n                  ፡ ኮነ ፡ ስማ ፡ እስከ ፡ ዮም ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአተወ",
+          "t": "wäʾätäwä",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድረ",
+          "t": "mədərä",
+          "gl": ""
+        },
+        {
+          "g": "ኬጤዎን",
+          "t": "keṭewonə",
+          "gl": ""
+        },
+        {
+          "g": "ወነደቀ",
+          "t": "wänädäqä",
+          "gl": ""
+        },
+        {
+          "g": "በህየ",
+          "t": "bähəyä",
+          "gl": ""
+        },
+        {
+          "g": "ሀገረ",
+          "t": "hägärä",
+          "gl": ""
+        },
+        {
+          "g": "ወሰመየ",
+          "t": "wäsämäyä",
+          "gl": ""
+        },
+        {
+          "g": "ስማ",
+          "t": "səma",
+          "gl": ""
+        },
+        {
+          "g": "ሉዛ",
+          "t": "luza",
+          "gl": ""
+        },
+        {
+          "g": "ወውእቱ",
+          "t": "wäwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ኮነ",
+          "t": "konä",
+          "gl": ""
+        },
+        {
+          "g": "ስማ",
+          "t": "səma",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዮም",
+          "t": "yomə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the man went into the land of Chettin, and built there a city, and called the name of it Luza; this is its name until this day.",
+        "kjv": "And the man went into the land of the Hittites, and built a city, and called the name thereof Luz: which is the name thereof unto this day."
+      }
+    },
+    {
+      "num": 27,
+      "geez": "ወኢተወርሰ ፡ ምናሴ ፡ ቤተሳን ፡ እንተ ፡ ሀገረ ፡ ሶቂቶን ፡ ወኢአዋልዲሃ ፡ ወኢጺኦታቲሃ ፡ ወኢኤቅዳአድ ፡ ወኢአዋልዲሃ\n                  ፡ ወኢእለ ፡ ይነብሩ ፡ ውስተ ፡ ዶር ፡ ወኢአዋልዲሃ ፡ ወኢእለ ፡ ይነብሩ ፡ [ውስተ] ፡ በለዓም ፡ ወኢአዋልዲ[ሃ] ፡ ወኢእለ\n                  ፡ ይነብሩ ፡ ውስተ ፡ መጌዶን ፡ ወኢአዋልዲሃ ፡ ወኢእለ ፡ ይነብሩ ፡ [ውስተ ፡] የብለዓም ፡ ወኢአዋልዲሃ ፡ ወአኀዙ ፡\n                  ከናአን ፡ ይንበሩ ፡ ውስተ ፡ ይእቲ ፡ ምድር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኢተወርሰ",
+          "t": "wäʾitäwärəsä",
+          "gl": ""
+        },
+        {
+          "g": "ምናሴ",
+          "t": "mənase",
+          "gl": ""
+        },
+        {
+          "g": "ቤተሳን",
+          "t": "betäsanə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ሀገረ",
+          "t": "hägärä",
+          "gl": ""
+        },
+        {
+          "g": "ሶቂቶን",
+          "t": "soqitonə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢአዋልዲሃ",
+          "t": "wäʾiʾäwalədiha",
+          "gl": ""
+        },
+        {
+          "g": "ወኢጺኦታቲሃ",
+          "t": "wäʾiṣiʾotatiha",
+          "gl": ""
+        },
+        {
+          "g": "ወኢኤቅዳአድ",
+          "t": "wäʾiʾeqədaʾädə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢአዋልዲሃ",
+          "t": "wäʾiʾäwalədiha",
+          "gl": ""
+        },
+        {
+          "g": "ወኢእለ",
+          "t": "wäʾiʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዶር",
+          "t": "dorə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢአዋልዲሃ",
+          "t": "wäʾiʾäwalədiha",
+          "gl": ""
+        },
+        {
+          "g": "ወኢእለ",
+          "t": "wäʾiʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "በለዓም",
+          "t": "bäläʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢአዋልዲሃ",
+          "t": "wäʾiʾäwalədiha",
+          "gl": ""
+        },
+        {
+          "g": "ወኢእለ",
+          "t": "wäʾiʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "መጌዶን",
+          "t": "mägedonə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢአዋልዲሃ",
+          "t": "wäʾiʾäwalədiha",
+          "gl": ""
+        },
+        {
+          "g": "ወኢእለ",
+          "t": "wäʾiʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "የብለዓም",
+          "t": "yäbəläʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢአዋልዲሃ",
+          "t": "wäʾiʾäwalədiha",
+          "gl": ""
+        },
+        {
+          "g": "ወአኀዙ",
+          "t": "wäʾäḫäzu",
+          "gl": ""
+        },
+        {
+          "g": "ከናአን",
+          "t": "känaʾänə",
+          "gl": ""
+        },
+        {
+          "g": "ይንበሩ",
+          "t": "yənəbäru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Manasse did not drive out the inhabitants of Bæthsan, which is a city of Scythians, nor her towns, nor her suburbs; nor Thanac, nor her towns; nor the inhabitants of Dor, nor her towns; nor the inhabitant of Balac, nor her suburbs, nor her towns; nor the inhabitants of Magedo, nor her suburbs, nor her towns; nor the inhabitants of Jeblaam, nor her suburbs, nor her towns; and the Chananite began to dwell in this land.",
+        "kjv": "Neither did Manasseh drive out the inhabitants of Bethshean and her towns, nor Taanach and her towns, nor the inhabitants of Dor and her towns, nor the inhabitants of Ibleam and her towns, nor the inhabitants of Megiddo and her towns: but the Canaanites would dwell in that land."
+      }
+    },
+    {
+      "num": 28,
+      "geez": "ወእምዝ ፡ ሶበ ፡ ጸንዑ ፡ እስራኤል ፡ መጸብሔ ፡ ረሰይዎሙ ፡ ለከናአን ፡ ወአጥፍኦሰ ፡ ኢያጥፍእዎሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእምዝ",
+          "t": "wäʾəməzə",
+          "gl": ""
+        },
+        {
+          "g": "ሶበ",
+          "t": "sobä",
+          "gl": ""
+        },
+        {
+          "g": "ጸንዑ",
+          "t": "ṣänəʿu",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "መጸብሔ",
+          "t": "mäṣäbəḥe",
+          "gl": ""
+        },
+        {
+          "g": "ረሰይዎሙ",
+          "t": "räsäyəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለከናአን",
+          "t": "läkänaʾänə",
+          "gl": ""
+        },
+        {
+          "g": "ወአጥፍኦሰ",
+          "t": "wäʾäṭəfəʾosä",
+          "gl": ""
+        },
+        {
+          "g": "ኢያጥፍእዎሙ",
+          "t": "ʾiyaṭəfəʾəwomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it came to pass when Israel was strong, that he made the Chananite tributary, but did not utterly drive them out.",
+        "kjv": "And it came to pass, when Israel was strong, that they put the Canaanites to tribute, and did not utterly drive them out."
+      }
+    },
+    {
+      "num": 29,
+      "geez": "ወኤፍሬምኒ ፡ ኢያጥፍእዎሙ ፡ ለከናኔዎን ፡ እለ ፡ ይነብሩ ፡ ውስተ ፡ ጋዜር ፡ ወነበሩ ፡ ከናኔዎን ፡ ማእከሎሙ ፡ ውስተ\n                  ፡ ጋዜር ፡ ወኮንዎሙ ፡ መጸብሔ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኤፍሬምኒ",
+          "t": "wäʾefəreməni",
+          "gl": ""
+        },
+        {
+          "g": "ኢያጥፍእዎሙ",
+          "t": "ʾiyaṭəfəʾəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለከናኔዎን",
+          "t": "läkänanewonə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ጋዜር",
+          "t": "gazerə",
+          "gl": ""
+        },
+        {
+          "g": "ወነበሩ",
+          "t": "wänäbäru",
+          "gl": ""
+        },
+        {
+          "g": "ከናኔዎን",
+          "t": "känanewonə",
+          "gl": ""
+        },
+        {
+          "g": "ማእከሎሙ",
+          "t": "maʾəkälomu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ጋዜር",
+          "t": "gazerə",
+          "gl": ""
+        },
+        {
+          "g": "ወኮንዎሙ",
+          "t": "wäkonəwomu",
+          "gl": ""
+        },
+        {
+          "g": "መጸብሔ",
+          "t": "mäṣäbəḥe",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Ephraim did not drive out the Chananite that dwelt in Gazer; and the Chananite dwelt in the midst of him in Gazer, and became tributary.",
+        "kjv": "Neither did Ephraim drive out the Canaanites that dwelt in Gezer; but the Canaanites dwelt in Gezer among them."
+      }
+    },
+    {
+      "num": 30,
+      "geez": "ወዛቡሎንሂ ፡ ኢያጥፍእዎሙ ፡ ለእለ ፡ ይነብሩ ፡ ውስተ ፡ ቄድሮን ፡ ወለእለ ፡ ይነብሩ ፡ ውስተ ፡ ዐማን ፡ ወነበሩ ፡\n                  ከናኔዎን ፡ ማእከሎሙ ፡ ወኮንዎሙ ፡ መጸብሔ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዛቡሎንሂ",
+          "t": "wäzabulonəhi",
+          "gl": ""
+        },
+        {
+          "g": "ኢያጥፍእዎሙ",
+          "t": "ʾiyaṭəfəʾəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእለ",
+          "t": "läʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ቄድሮን",
+          "t": "qedəronə",
+          "gl": ""
+        },
+        {
+          "g": "ወለእለ",
+          "t": "wäläʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዐማን",
+          "t": "ʿämanə",
+          "gl": ""
+        },
+        {
+          "g": "ወነበሩ",
+          "t": "wänäbäru",
+          "gl": ""
+        },
+        {
+          "g": "ከናኔዎን",
+          "t": "känanewonə",
+          "gl": ""
+        },
+        {
+          "g": "ማእከሎሙ",
+          "t": "maʾəkälomu",
+          "gl": ""
+        },
+        {
+          "g": "ወኮንዎሙ",
+          "t": "wäkonəwomu",
+          "gl": ""
+        },
+        {
+          "g": "መጸብሔ",
+          "t": "mäṣäbəḥe",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Zabulon did not drive out the inhabitants of Kedron, nor the inhabitants of Domana: and the Chananite dwelt in the midst of them, and became tributary to them.",
+        "kjv": "Neither did Zebulun drive out the inhabitants of Kitron, nor the inhabitants of Nahalol; but the Canaanites dwelt among them, and became tributaries."
+      }
+    },
+    {
+      "num": 31,
+      "geez": "ወአሴርሂ ፡ ኢያጥፍእዎሙ ፡ ለእለ ፡ ይነብሩ ፡ ውስተ ፡ አኮ ፡ ወኮንዎሙ ፡ መጸብሔ ፡ ወእለ ፡ ይነብሩ ፡ ውስተ ፡ ደር\n                  ፡ ወእለ ፡ ይነብሩ ፡ ውስተ ፡ ሲዶና ፡ ወእለ ፡ ይነብሩ ፡ ውስተ ፡ ዳላፍ ፡ ወአስኮድ ፡ ወኬድያ ፡ ወአፌቅ ፡ ወሮዖብ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአሴርሂ",
+          "t": "wäʾäserəhi",
+          "gl": ""
+        },
+        {
+          "g": "ኢያጥፍእዎሙ",
+          "t": "ʾiyaṭəfəʾəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእለ",
+          "t": "läʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አኮ",
+          "t": "ʾäko",
+          "gl": ""
+        },
+        {
+          "g": "ወኮንዎሙ",
+          "t": "wäkonəwomu",
+          "gl": ""
+        },
+        {
+          "g": "መጸብሔ",
+          "t": "mäṣäbəḥe",
+          "gl": ""
+        },
+        {
+          "g": "ወእለ",
+          "t": "wäʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ደር",
+          "t": "därə",
+          "gl": ""
+        },
+        {
+          "g": "ወእለ",
+          "t": "wäʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሲዶና",
+          "t": "sidona",
+          "gl": ""
+        },
+        {
+          "g": "ወእለ",
+          "t": "wäʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዳላፍ",
+          "t": "dalafə",
+          "gl": ""
+        },
+        {
+          "g": "ወአስኮድ",
+          "t": "wäʾäsəkodə",
+          "gl": ""
+        },
+        {
+          "g": "ወኬድያ",
+          "t": "wäkedəya",
+          "gl": ""
+        },
+        {
+          "g": "ወአፌቅ",
+          "t": "wäʾäfeqə",
+          "gl": ""
+        },
+        {
+          "g": "ወሮዖብ",
+          "t": "wäroʿobə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Aser did not drive out the inhabitants of Accho, and that people became tributary to him, nor the inhabitants of Dor, nor the inhabitants of Sidon, nor the inhabitants of Dalaph, nor Aschazi, nor Chebda, nor Nai, nor Ereo.",
+        "kjv": "Neither did Asher drive out the inhabitants of Accho, nor the inhabitants of Zidon, nor of Ahlab, nor of Achzib, nor of Helbah, nor of Aphik, nor of Rehob:"
+      }
+    },
+    {
+      "num": 32,
+      "geez": "ወነበረ ፡ አሴር ፡ ማእከለ ፡ ከናኔዎን ፡ እለ ፡ ይነብሩ ፡ ውስተ ፡ ይእቲ ፡ ምድር ፡ እስመ ፡ ስእኑ ፡ አጥፍኦቶሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነበረ",
+          "t": "wänäbärä",
+          "gl": ""
+        },
+        {
+          "g": "አሴር",
+          "t": "ʾäserə",
+          "gl": ""
+        },
+        {
+          "g": "ማእከለ",
+          "t": "maʾəkälä",
+          "gl": ""
+        },
+        {
+          "g": "ከናኔዎን",
+          "t": "känanewonə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ስእኑ",
+          "t": "səʾənu",
+          "gl": ""
+        },
+        {
+          "g": "አጥፍኦቶሙ",
+          "t": "ʾäṭəfəʾotomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Aser dwelt in the midst of the Chananite who inhabited the land, for he could not drive him out.",
+        "kjv": "But the Asherites dwelt among the Canaanites, the inhabitants of the land: for they did not drive them out."
+      }
+    },
+    {
+      "num": 33,
+      "geez": "ወንፍታሌምሂ ፡ ኢያጥፍእዎሙ ፡ ለእለ ፡ ይነብሩ ፡ ውስተ ፡ ቤ[ተ ፡] ሳሚስ ፡ ወኢእለ ፡ ይነብሩ ፡ ውስተ ፡ ቤቴኔት ፡\n                  ወነበሩ ፡ እስራኤል ፡ ማእከሎሙ ፡ ለከናኔዎን ፡ እለ ፡ ሀለዉ ፡ ውስተ ፡ ይእቲ ፡ ምድር ፡ ወኮንዎሙ ፡ መጾብሔ ፡ እለ ፡\n                  ይነብሩ ፡ ውስተ ፡ ቤተ ፡ ሳሚስ ፡ ወውስተ ፡ ቤቴኔክ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወንፍታሌምሂ",
+          "t": "wänəfətaleməhi",
+          "gl": ""
+        },
+        {
+          "g": "ኢያጥፍእዎሙ",
+          "t": "ʾiyaṭəfəʾəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእለ",
+          "t": "läʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ቤተ",
+          "t": "betä",
+          "gl": ""
+        },
+        {
+          "g": "ሳሚስ",
+          "t": "samisə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢእለ",
+          "t": "wäʾiʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ቤቴኔት",
+          "t": "betenetə",
+          "gl": ""
+        },
+        {
+          "g": "ወነበሩ",
+          "t": "wänäbäru",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ማእከሎሙ",
+          "t": "maʾəkälomu",
+          "gl": ""
+        },
+        {
+          "g": "ለከናኔዎን",
+          "t": "läkänanewonə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሀለዉ",
+          "t": "häläwu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ወኮንዎሙ",
+          "t": "wäkonəwomu",
+          "gl": ""
+        },
+        {
+          "g": "መጾብሔ",
+          "t": "mäṣobəḥe",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ቤተ",
+          "t": "betä",
+          "gl": ""
+        },
+        {
+          "g": "ሳሚስ",
+          "t": "samisə",
+          "gl": ""
+        },
+        {
+          "g": "ወውስተ",
+          "t": "wäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ቤቴኔክ",
+          "t": "betenekə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Nephthali did not drive out the inhabitants of Bæthsamys, nor the inhabitants of Bæthanach; and Nephthali dwelt in the midst of the Chananite who inhabited the land: but the inhabitants of Bethsamys and of Bætheneth became tributary to them.",
+        "kjv": "Neither did Naphtali drive out the inhabitants of Bethshemesh, nor the inhabitants of Bethanath; but he dwelt among the Canaanites, the inhabitants of the land: nevertheless the inhabitants of Bethshemesh and of Bethanath became tributaries unto them."
+      }
+    },
+    {
+      "num": 34,
+      "geez": "ወአጠቅዎሙ ፡ አሞሬዎን ፡ ለደቂቀ ፡ ዳን ፡ በውስተ ፡ ደብር ፡ እስመ ፡ ኢያበውሕዎሙ ፡ ይረዱ ፡ ውስተ ፡ ቈላት ፡\n                  ወአኅዙ ፡ አሞሬዎን ፡ ይንበሩ ፡ ውስተ ፡ ደብረ ፡ መርስኖኖስ ፡ ዘቦ ፡ ውስቴቱ ፡ ድበ ፡ ወቈናጽለ ፡ ወጸንዐት ፡ እዴሁ ፡\n                  ለቤተ ፡ ዮሴፍ ፡ ላዕለ ፡ አሞሬዎን ፡ ወኮንዎሙ ፡ መጸብሔ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአጠቅዎሙ",
+          "t": "wäʾäṭäqəwomu",
+          "gl": ""
+        },
+        {
+          "g": "አሞሬዎን",
+          "t": "ʾämorewonə",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ዳን",
+          "t": "danə",
+          "gl": ""
+        },
+        {
+          "g": "በውስተ",
+          "t": "bäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ደብር",
+          "t": "däbərə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኢያበውሕዎሙ",
+          "t": "ʾiyabäwəḥəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ይረዱ",
+          "t": "yərädu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ቈላት",
+          "t": "qwälatə",
+          "gl": ""
+        },
+        {
+          "g": "ወአኅዙ",
+          "t": "wäʾäḫəzu",
+          "gl": ""
+        },
+        {
+          "g": "አሞሬዎን",
+          "t": "ʾämorewonə",
+          "gl": ""
+        },
+        {
+          "g": "ይንበሩ",
+          "t": "yənəbäru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ደብረ",
+          "t": "däbərä",
+          "gl": ""
+        },
+        {
+          "g": "መርስኖኖስ",
+          "t": "märəsənonosə",
+          "gl": ""
+        },
+        {
+          "g": "ዘቦ",
+          "t": "zäbo",
+          "gl": ""
+        },
+        {
+          "g": "ውስቴቱ",
+          "t": "wəsətetu",
+          "gl": ""
+        },
+        {
+          "g": "ድበ",
+          "t": "dəbä",
+          "gl": ""
+        },
+        {
+          "g": "ወቈናጽለ",
+          "t": "wäqwänaṣəlä",
+          "gl": ""
+        },
+        {
+          "g": "ወጸንዐት",
+          "t": "wäṣänəʿätə",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        },
+        {
+          "g": "ለቤተ",
+          "t": "läbetä",
+          "gl": ""
+        },
+        {
+          "g": "ዮሴፍ",
+          "t": "yosefə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "አሞሬዎን",
+          "t": "ʾämorewonə",
+          "gl": ""
+        },
+        {
+          "g": "ወኮንዎሙ",
+          "t": "wäkonəwomu",
+          "gl": ""
+        },
+        {
+          "g": "መጸብሔ",
+          "t": "mäṣäbəḥe",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Amorite drove out the children of Dan into the mountain, for they did not suffer them to come down into the valley.",
+        "kjv": "And the Amorites forced the children of Dan into the mountain: for they would not suffer them to come down to the valley:"
+      }
+    },
+    {
+      "num": 35,
+      "geez": "ወደብረ ፡ አሞሬዎን ፡ (ለ)ኢዱሜዎን ፡ ላዕላይ ፡ ዘአቅራቢን ፡ እለ ፡ ውስተ ፡ [ላዕለ ፡] ኰኵሕ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወደብረ",
+          "t": "wädäbərä",
+          "gl": ""
+        },
+        {
+          "g": "አሞሬዎን",
+          "t": "ʾämorewonə",
+          "gl": ""
+        },
+        {
+          "g": "ለኢዱሜዎን",
+          "t": "läʾidumewonə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕላይ",
+          "t": "laʿəlayə",
+          "gl": ""
+        },
+        {
+          "g": "ዘአቅራቢን",
+          "t": "zäʾäqərabinə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኰኵሕ",
+          "t": "kwäkwəḥə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Amorite began to dwell in the mountain of shells, in which are bears, and foxes, in Myrsinon, and in Thalabin; and the hand of the house of Joseph was heavy upon the Amorite, and he became tributary to them.",
+        "kjv": "But the Amorites would dwell in mount Heres in Aijalon, and in Shaalbim: yet the hand of the house of Joseph prevailed, so that they became tributaries."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

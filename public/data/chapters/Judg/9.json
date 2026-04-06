@@ -1,0 +1,4805 @@
+{
+  "book": "Judg",
+  "chapter": 9,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወሖረ ፡ አቢሜሌክ ፡ ወልደ ፡ ሮበዓም ፡ ውስተ ፡ ስቂማ ፡ ኀበ ፡ አኀወ ፡ እሙ ፡ ወተናገሮሙ ፡ ለኵሉ ፡ አዝማደ ፡ ቤተ\n                  ፡ እሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሖረ",
+          "t": "wäḥorä",
+          "gl": ""
+        },
+        {
+          "g": "አቢሜሌክ",
+          "t": "ʾäbimelekə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ሮበዓም",
+          "t": "robäʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ስቂማ",
+          "t": "səqima",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "አኀወ",
+          "t": "ʾäḫäwä",
+          "gl": ""
+        },
+        {
+          "g": "እሙ",
+          "t": "ʾəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወተናገሮሙ",
+          "t": "wätänagäromu",
+          "gl": ""
+        },
+        {
+          "g": "ለኵሉ",
+          "t": "läkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "አዝማደ",
+          "t": "ʾäzəmadä",
+          "gl": ""
+        },
+        {
+          "g": "ቤተ",
+          "t": "betä",
+          "gl": ""
+        },
+        {
+          "g": "እሙ",
+          "t": "ʾəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Abimelech son of Jerobaal went to Sychem to his mother's brethren; and he spoke to them and to all the kindred of the house of his mother's father, saying,",
+        "kjv": "And Abimelech the son of Jerubbaal went to Shechem unto his mother’s brethren, and communed with them, and with all the family of the house of his mother’s father, saying,"
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ወይቤሎሙ ፡ ተናገርዎሙ ፡ ሊተ ፡ ለሰብአ ፡ ስቂማ ፡ ወበልዎሙ ፡ ምንትአ ፡ ይኄይሰክሙአ ፡ ሰብዓኑ ፡ ብእሲአ ፡\n                  ይኰንኑክሙአ ፡ ኵሎሙአ ፡ ደቂቀ ፡ ሮቦዓምአ ፡ አው ፡ አሐዱአ ፡ ብእሲአ ፡ ይኰንንክሙአ ፡ ወተዘከሩአ ፡ ከመአ ፡ ሥጋክሙአ ፡\n                  ወዐጽምክሙአ ፡ አነአ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎሙ",
+          "t": "wäyəbelomu",
+          "gl": ""
+        },
+        {
+          "g": "ተናገርዎሙ",
+          "t": "tänagärəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ሊተ",
+          "t": "litä",
+          "gl": ""
+        },
+        {
+          "g": "ለሰብአ",
+          "t": "läsäbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ስቂማ",
+          "t": "səqima",
+          "gl": ""
+        },
+        {
+          "g": "ወበልዎሙ",
+          "t": "wäbäləwomu",
+          "gl": ""
+        },
+        {
+          "g": "ምንትአ",
+          "t": "mənətəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ይኄይሰክሙአ",
+          "t": "yəḫeyəsäkəmuʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብዓኑ",
+          "t": "säbəʿanu",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲአ",
+          "t": "bəʾəsiʾä",
+          "gl": ""
+        },
+        {
+          "g": "ይኰንኑክሙአ",
+          "t": "yəkwänənukəmuʾä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙአ",
+          "t": "kwəlomuʾä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ሮቦዓምአ",
+          "t": "roboʿaməʾä",
+          "gl": ""
+        },
+        {
+          "g": "አው",
+          "t": "ʾäwə",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱአ",
+          "t": "ʾäḥäduʾä",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲአ",
+          "t": "bəʾəsiʾä",
+          "gl": ""
+        },
+        {
+          "g": "ይኰንንክሙአ",
+          "t": "yəkwänənəkəmuʾä",
+          "gl": ""
+        },
+        {
+          "g": "ወተዘከሩአ",
+          "t": "wätäzäkäruʾä",
+          "gl": ""
+        },
+        {
+          "g": "ከመአ",
+          "t": "kämäʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሥጋክሙአ",
+          "t": "śəgakəmuʾä",
+          "gl": ""
+        },
+        {
+          "g": "ወዐጽምክሙአ",
+          "t": "wäʿäṣəməkəmuʾä",
+          "gl": ""
+        },
+        {
+          "g": "አነአ",
+          "t": "ʾänäʾä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Speak, I pray you, in the ears of all the men of Sychem, saying, Which is better for you, that seventy men, even all the sons of Jerobaal, should reign over you, or that one man should reign over you? and remember that I am your bone and your flesh.",
+        "kjv": "Speak, I pray you, in the ears of all the men of Shechem, Whether is better for you, either that all the sons of Jerubbaal, which are threescore and ten persons, reign over you, or that one reign over you? remember also that I am your bone and your flesh."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወተናገሩ ፡ ሎቱ ፡ አኀወ ፡ እሙ ፡ ምስለ ፡ ኵሉ ፡ ሰብአ ፡ ሲቂማ ፡ ኵሎ ፡ ዘንተ ፡ ነገረ ፡ ወሜጥዎ ፡ ለልቦሙ ፡\n                  ኀበ ፡ አቢሜሌክ ፡ ወይቤሉ ፡ እኁነ ፡ ውእቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተናገሩ",
+          "t": "wätänagäru",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "አኀወ",
+          "t": "ʾäḫäwä",
+          "gl": ""
+        },
+        {
+          "g": "እሙ",
+          "t": "ʾəmu",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ሰብአ",
+          "t": "säbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሲቂማ",
+          "t": "siqima",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ዘንተ",
+          "t": "zänətä",
+          "gl": ""
+        },
+        {
+          "g": "ነገረ",
+          "t": "nägärä",
+          "gl": ""
+        },
+        {
+          "g": "ወሜጥዎ",
+          "t": "wämeṭəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለልቦሙ",
+          "t": "läləbomu",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "አቢሜሌክ",
+          "t": "ʾäbimelekə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሉ",
+          "t": "wäyəbelu",
+          "gl": ""
+        },
+        {
+          "g": "እኁነ",
+          "t": "ʾəḫunä",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And his mother's brethren spoke concerning him in the ears of all the men of Sychem all these words; and their heart turned after Abimelech, for they said, He is our brother.",
+        "kjv": "And his mother’s brethren spake of him in the ears of all the men of Shechem all these words: and their hearts inclined to follow Abimelech; for they said, He is our brother."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወወሀብዎ ፡ ፸ብሩረ ፡ እምነ ፡ ቤተ ፡ በዓል ፡ ወተዓሰበ ፡ ቦን ፡ አቢሜሌክ ፡ ዕደወ ፡ ሐቃልያነ ፡ ወመደንግፃነ ፡\n                  ወሖሩ ፡ ወተለውዎ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወወሀብዎ",
+          "t": "wäwähäbəwo",
+          "gl": ""
+        },
+        {
+          "g": "፸ብሩረ",
+          "t": "70bərurä",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ቤተ",
+          "t": "betä",
+          "gl": ""
+        },
+        {
+          "g": "በዓል",
+          "t": "bäʿalə",
+          "gl": ""
+        },
+        {
+          "g": "ወተዓሰበ",
+          "t": "wätäʿasäbä",
+          "gl": ""
+        },
+        {
+          "g": "ቦን",
+          "t": "bonə",
+          "gl": ""
+        },
+        {
+          "g": "አቢሜሌክ",
+          "t": "ʾäbimelekə",
+          "gl": ""
+        },
+        {
+          "g": "ዕደወ",
+          "t": "ʿədäwä",
+          "gl": ""
+        },
+        {
+          "g": "ሐቃልያነ",
+          "t": "ḥäqaləyanä",
+          "gl": ""
+        },
+        {
+          "g": "ወመደንግፃነ",
+          "t": "wämädänəgəṣ́anä",
+          "gl": ""
+        },
+        {
+          "g": "ወሖሩ",
+          "t": "wäḥoru",
+          "gl": ""
+        },
+        {
+          "g": "ወተለውዎ",
+          "t": "wätäläwəwo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they gave him seventy pieces of silver out of the house of Baalberith; and Abimelech hired for himself vain and cowardly men, and they went after him.",
+        "kjv": "And they gave him threescore and ten pieces of silver out of the house of Baalberith, wherewith Abimelech hired vain and light persons, which followed him."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወቦአ ፡ ውስተ ፡ ቤተ ፡ አቡሁ ፡ ውስተ ፡ ኤፍሬም ፡ ወቀተሎሙ ፡ ለአኀዊሁ ፡ ለደቂቀ ፡ ሮቦዓም ፡ ፸ብእሴ ፡ በአሐቲ ፡\n                  እብን ፡ ወተርፈ ፡ ኢ[ዮአ]ታም ፡ ወልደ ፡ ሮቦዓም ፡ ዘይንእስ ፡ እስመ ፡ ተኀብአ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወቦአ",
+          "t": "wäboʾä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ቤተ",
+          "t": "betä",
+          "gl": ""
+        },
+        {
+          "g": "አቡሁ",
+          "t": "ʾäbuhu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኤፍሬም",
+          "t": "ʾefəremə",
+          "gl": ""
+        },
+        {
+          "g": "ወቀተሎሙ",
+          "t": "wäqätälomu",
+          "gl": ""
+        },
+        {
+          "g": "ለአኀዊሁ",
+          "t": "läʾäḫäwihu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ሮቦዓም",
+          "t": "roboʿamə",
+          "gl": ""
+        },
+        {
+          "g": "፸ብእሴ",
+          "t": "70bəʾəse",
+          "gl": ""
+        },
+        {
+          "g": "በአሐቲ",
+          "t": "bäʾäḥäti",
+          "gl": ""
+        },
+        {
+          "g": "እብን",
+          "t": "ʾəbənə",
+          "gl": ""
+        },
+        {
+          "g": "ወተርፈ",
+          "t": "wätärəfä",
+          "gl": ""
+        },
+        {
+          "g": "ኢዮአታም",
+          "t": "ʾiyoʾätamə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ሮቦዓም",
+          "t": "roboʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ዘይንእስ",
+          "t": "zäyənəʾəsə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ተኀብአ",
+          "t": "täḫäbəʾä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he went to the house of his father to Ephratha, and slew his brethren the sons of Jerobaal, seventy men upon one stone; but Joatham the youngest son of Jerobaal was left, for he hid himself.",
+        "kjv": "And he went unto his father’s house at Ophrah, and slew his brethren the sons of Jerubbaal, being threescore and ten persons, upon one stone: notwithstanding yet Jotham the youngest son of Jerubbaal was left; for he hid himself."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወተጋብኡ ፡ ኵሎሙ ፡ ሰብአ ፡ ሲቂማ ፡ ወኵሉ ፡ ቤተ ፡ መሐሎን ፡ ወሖሩ ፡ ወአንገሥዎ ፡ ለአቢሜሌክ ፡ ሎሙ ፡ ንጉሠ ፡\n                  በኀበ ፡ ዕፀ ፡ በላኖ ፡ እንተ ፡ ውስተ ፡ ሲቂማ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተጋብኡ",
+          "t": "wätägabəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ሰብአ",
+          "t": "säbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሲቂማ",
+          "t": "siqima",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ቤተ",
+          "t": "betä",
+          "gl": ""
+        },
+        {
+          "g": "መሐሎን",
+          "t": "mäḥälonə",
+          "gl": ""
+        },
+        {
+          "g": "ወሖሩ",
+          "t": "wäḥoru",
+          "gl": ""
+        },
+        {
+          "g": "ወአንገሥዎ",
+          "t": "wäʾänəgäśəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለአቢሜሌክ",
+          "t": "läʾäbimelekə",
+          "gl": ""
+        },
+        {
+          "g": "ሎሙ",
+          "t": "lomu",
+          "gl": ""
+        },
+        {
+          "g": "ንጉሠ",
+          "t": "nəguśä",
+          "gl": ""
+        },
+        {
+          "g": "በኀበ",
+          "t": "bäḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ዕፀ",
+          "t": "ʿəṣ́ä",
+          "gl": ""
+        },
+        {
+          "g": "በላኖ",
+          "t": "bälano",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሲቂማ",
+          "t": "siqima",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And all the men of Sicima, and all the house of Bethmaalo, were gathered together, and they went and made Abimelech king by the oak of Sedition, which was at Sicima.",
+        "kjv": "And all the men of Shechem gathered together, and all the house of Millo, and went, and made Abimelech king, by the plain of the pillar that was in Shechem."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወዜነውዎ ፡ ለኢ[ዮአ]ታም ፡ ወሖረ ፡ ወቆመ ፡ ውስተ ፡ ርእሰ ፡ ደብረ ፡ ጋሪዝን ፡ ወጾርኀ ፡ ወበከየ ፡ ወይቤሎሙ ፡\n                  ስምዑኒ ፡ ሰብአ ፡ ሲቂማ ፡ ወይስማዕክሙ ፡ እግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዜነውዎ",
+          "t": "wäzenäwəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለኢዮአታም",
+          "t": "läʾiyoʾätamə",
+          "gl": ""
+        },
+        {
+          "g": "ወሖረ",
+          "t": "wäḥorä",
+          "gl": ""
+        },
+        {
+          "g": "ወቆመ",
+          "t": "wäqomä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ርእሰ",
+          "t": "rəʾəsä",
+          "gl": ""
+        },
+        {
+          "g": "ደብረ",
+          "t": "däbərä",
+          "gl": ""
+        },
+        {
+          "g": "ጋሪዝን",
+          "t": "garizənə",
+          "gl": ""
+        },
+        {
+          "g": "ወጾርኀ",
+          "t": "wäṣorəḫä",
+          "gl": ""
+        },
+        {
+          "g": "ወበከየ",
+          "t": "wäbäkäyä",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎሙ",
+          "t": "wäyəbelomu",
+          "gl": ""
+        },
+        {
+          "g": "ስምዑኒ",
+          "t": "səməʿuni",
+          "gl": ""
+        },
+        {
+          "g": "ሰብአ",
+          "t": "säbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሲቂማ",
+          "t": "siqima",
+          "gl": ""
+        },
+        {
+          "g": "ወይስማዕክሙ",
+          "t": "wäyəsəmaʿəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it was reported to Joatham, and he went and stood on the top of mount Garizin, and lifted up his voice, and wept, and said to them, Hear me, ye men of Sicima, and God shall hear you.",
+        "kjv": "And when they told it to Jotham, he went and stood in the top of mount Gerizim, and lifted up his voice, and cried, and said unto them, Hearken unto me, ye men of Shechem, that God may hearken unto you."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ሖሩአ ፡ ዕፀውአ ፡ ያንግሡአ ፡ ሎሙአ ፡ ንጉሠ ፡ ወይቤልዋ ፡ ለዕፀ ፡ ዘይት ፡ ንግሢ ፡ ለነ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ሖሩአ",
+          "t": "ḥoruʾä",
+          "gl": ""
+        },
+        {
+          "g": "ዕፀውአ",
+          "t": "ʿəṣ́äwəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ያንግሡአ",
+          "t": "yanəgəśuʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሎሙአ",
+          "t": "lomuʾä",
+          "gl": ""
+        },
+        {
+          "g": "ንጉሠ",
+          "t": "nəguśä",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤልዋ",
+          "t": "wäyəbeləwa",
+          "gl": ""
+        },
+        {
+          "g": "ለዕፀ",
+          "t": "läʿəṣ́ä",
+          "gl": ""
+        },
+        {
+          "g": "ዘይት",
+          "t": "zäyətə",
+          "gl": ""
+        },
+        {
+          "g": "ንግሢ",
+          "t": "nəgəśi",
+          "gl": ""
+        },
+        {
+          "g": "ለነ",
+          "t": "länä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The trees went forth on a time to anoint a king over them; and they said to the olive, Reign over us.",
+        "kjv": "The trees went forth on a time to anoint a king over them; and they said unto the olive tree, Reign thou over us."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወትቤሎሙ ፡ ዕፀ ፡ ዘይት ፡ እኅድግኑ ፡ ቅብዕየ ፡ ዘሰብሐ ፡ እግዚአብሔር ፡ በላዕሌየ ፡ ወእጓለ ፡ እመሕያው ፡ ወእሑር\n                  ፡ እንግሥ ፡ ላዕለ ፡ ዕፀው ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትቤሎሙ",
+          "t": "wätəbelomu",
+          "gl": ""
+        },
+        {
+          "g": "ዕፀ",
+          "t": "ʿəṣ́ä",
+          "gl": ""
+        },
+        {
+          "g": "ዘይት",
+          "t": "zäyətə",
+          "gl": ""
+        },
+        {
+          "g": "እኅድግኑ",
+          "t": "ʾəḫədəgənu",
+          "gl": ""
+        },
+        {
+          "g": "ቅብዕየ",
+          "t": "qəbəʿəyä",
+          "gl": ""
+        },
+        {
+          "g": "ዘሰብሐ",
+          "t": "zäsäbəḥä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "በላዕሌየ",
+          "t": "bälaʿəleyä",
+          "gl": ""
+        },
+        {
+          "g": "ወእጓለ",
+          "t": "wäʾəgwalä",
+          "gl": ""
+        },
+        {
+          "g": "እመሕያው",
+          "t": "ʾəmäḥəyawə",
+          "gl": ""
+        },
+        {
+          "g": "ወእሑር",
+          "t": "wäʾəḥurə",
+          "gl": ""
+        },
+        {
+          "g": "እንግሥ",
+          "t": "ʾənəgəśə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ዕፀው",
+          "t": "ʿəṣ́äwə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But the olive said to them, Shall I leave my fatness, with which men shall glorify God, and go to be promoted over the trees?",
+        "kjv": "But the olive tree said unto them, Should I leave my fatness, wherewith by me they honour God and man, and go to be promoted over the trees?"
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወይቤልዋ ፡ ኵሉ ፡ ዕፀው ፡ ለበለስ ፡ ንዒ ፡ ንግሢ ፡ ለነ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤልዋ",
+          "t": "wäyəbeləwa",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዕፀው",
+          "t": "ʿəṣ́äwə",
+          "gl": ""
+        },
+        {
+          "g": "ለበለስ",
+          "t": "läbäläsə",
+          "gl": ""
+        },
+        {
+          "g": "ንዒ",
+          "t": "nəʿi",
+          "gl": ""
+        },
+        {
+          "g": "ንግሢ",
+          "t": "nəgəśi",
+          "gl": ""
+        },
+        {
+          "g": "ለነ",
+          "t": "länä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the trees said to the fig-tree, Come, reign over us.",
+        "kjv": "And the trees said to the fig tree, Come thou, and reign over us."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወትቤሎሙ ፡ በለስ ፡ እኅድግኑ ፡ ምጥቀትየ ፡ ወፍሬ[የ] ፡ ቡሩከ ፡ ወእሑር ፡ እንግሥ ፡ ለዕፀው ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትቤሎሙ",
+          "t": "wätəbelomu",
+          "gl": ""
+        },
+        {
+          "g": "በለስ",
+          "t": "bäläsə",
+          "gl": ""
+        },
+        {
+          "g": "እኅድግኑ",
+          "t": "ʾəḫədəgənu",
+          "gl": ""
+        },
+        {
+          "g": "ምጥቀትየ",
+          "t": "məṭəqätəyä",
+          "gl": ""
+        },
+        {
+          "g": "ወፍሬየ",
+          "t": "wäfəreyä",
+          "gl": ""
+        },
+        {
+          "g": "ቡሩከ",
+          "t": "burukä",
+          "gl": ""
+        },
+        {
+          "g": "ወእሑር",
+          "t": "wäʾəḥurə",
+          "gl": ""
+        },
+        {
+          "g": "እንግሥ",
+          "t": "ʾənəgəśə",
+          "gl": ""
+        },
+        {
+          "g": "ለዕፀው",
+          "t": "läʿəṣ́äwə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But the fig-tree said to them, Shall I leave my sweetness and my good fruits, and go to be promoted over the trees?",
+        "kjv": "But the fig tree said unto them, Should I forsake my sweetness, and my good fruit, and go to be promoted over the trees?"
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወይቤልዎ ፡ ኵሉ ፡ ዕፀው ፡ ለወይን ፡ ነዓ ፡ ንግሥ ፡ ለነ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤልዎ",
+          "t": "wäyəbeləwo",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዕፀው",
+          "t": "ʿəṣ́äwə",
+          "gl": ""
+        },
+        {
+          "g": "ለወይን",
+          "t": "läwäyənə",
+          "gl": ""
+        },
+        {
+          "g": "ነዓ",
+          "t": "näʿa",
+          "gl": ""
+        },
+        {
+          "g": "ንግሥ",
+          "t": "nəgəśə",
+          "gl": ""
+        },
+        {
+          "g": "ለነ",
+          "t": "länä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the trees said to the vine, Come, reign over us.",
+        "kjv": "Then said the trees unto the vine, Come thou, and reign over us."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወይቤሎሙ ፡ ወይን ፡ እኅድግኑ ፡ ወይንየ ፡ ወትፍሥሕትየ ፡ ዘበኀበ ፡ እግዚአብሔር ፡ ወበኀበ ፡ እጓለ ፡ እመሕያው ፡\n                  ወእሑር ፡ እንግሥ ፡ ለዕፀው ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎሙ",
+          "t": "wäyəbelomu",
+          "gl": ""
+        },
+        {
+          "g": "ወይን",
+          "t": "wäyənə",
+          "gl": ""
+        },
+        {
+          "g": "እኅድግኑ",
+          "t": "ʾəḫədəgənu",
+          "gl": ""
+        },
+        {
+          "g": "ወይንየ",
+          "t": "wäyənəyä",
+          "gl": ""
+        },
+        {
+          "g": "ወትፍሥሕትየ",
+          "t": "wätəfəśəḥətəyä",
+          "gl": ""
+        },
+        {
+          "g": "ዘበኀበ",
+          "t": "zäbäḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወበኀበ",
+          "t": "wäbäḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "እጓለ",
+          "t": "ʾəgwalä",
+          "gl": ""
+        },
+        {
+          "g": "እመሕያው",
+          "t": "ʾəmäḥəyawə",
+          "gl": ""
+        },
+        {
+          "g": "ወእሑር",
+          "t": "wäʾəḥurə",
+          "gl": ""
+        },
+        {
+          "g": "እንግሥ",
+          "t": "ʾənəgəśə",
+          "gl": ""
+        },
+        {
+          "g": "ለዕፀው",
+          "t": "läʿəṣ́äwə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the vine said to them, Shall I leave my wine that cheers God and men, and go to be promoted over the trees?",
+        "kjv": "And the vine said unto them, Should I leave my wine, which cheereth God and man, and go to be promoted over the trees?"
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወይቤልዋ ፡ ዕፀው ፡ ለዕፀ ፡ ራምኖን ፡ ንዒ ፡ አንቲ ፡ ንግሢ ፡ ለነ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤልዋ",
+          "t": "wäyəbeləwa",
+          "gl": ""
+        },
+        {
+          "g": "ዕፀው",
+          "t": "ʿəṣ́äwə",
+          "gl": ""
+        },
+        {
+          "g": "ለዕፀ",
+          "t": "läʿəṣ́ä",
+          "gl": ""
+        },
+        {
+          "g": "ራምኖን",
+          "t": "ramənonə",
+          "gl": ""
+        },
+        {
+          "g": "ንዒ",
+          "t": "nəʿi",
+          "gl": ""
+        },
+        {
+          "g": "አንቲ",
+          "t": "ʾänəti",
+          "gl": ""
+        },
+        {
+          "g": "ንግሢ",
+          "t": "nəgəśi",
+          "gl": ""
+        },
+        {
+          "g": "ለነ",
+          "t": "länä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Then all the trees said to the bramble, Come thou and reign over us.",
+        "kjv": "Then said all the trees unto the bramble, Come thou, and reign over us."
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ወትቤሎሙ ፡ ዕፀ ፡ ራምኖን ፡ እመ ፡ አማን ፡ ታነግሡኒ ፡ በጽድቅ ፡ ላዕሌክሙ ፡ ንዑ ፡ አጽልሉ ፡ ታሕተ ፡ ጽላሎትየ ፡\n                  እመ ፡ ኢወፅአት ፡ እሳት ፡ እምነ ፡ ራምኖን ፡ ወትበልዖ ፡ ለአርዘ ፡ ሊባኖስ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትቤሎሙ",
+          "t": "wätəbelomu",
+          "gl": ""
+        },
+        {
+          "g": "ዕፀ",
+          "t": "ʿəṣ́ä",
+          "gl": ""
+        },
+        {
+          "g": "ራምኖን",
+          "t": "ramənonə",
+          "gl": ""
+        },
+        {
+          "g": "እመ",
+          "t": "ʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "አማን",
+          "t": "ʾämanə",
+          "gl": ""
+        },
+        {
+          "g": "ታነግሡኒ",
+          "t": "tanägəśuni",
+          "gl": ""
+        },
+        {
+          "g": "በጽድቅ",
+          "t": "bäṣədəqə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌክሙ",
+          "t": "laʿəlekəmu",
+          "gl": ""
+        },
+        {
+          "g": "ንዑ",
+          "t": "nəʿu",
+          "gl": ""
+        },
+        {
+          "g": "አጽልሉ",
+          "t": "ʾäṣələlu",
+          "gl": ""
+        },
+        {
+          "g": "ታሕተ",
+          "t": "taḥətä",
+          "gl": ""
+        },
+        {
+          "g": "ጽላሎትየ",
+          "t": "ṣəlalotəyä",
+          "gl": ""
+        },
+        {
+          "g": "እመ",
+          "t": "ʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኢወፅአት",
+          "t": "ʾiwäṣ́əʾätə",
+          "gl": ""
+        },
+        {
+          "g": "እሳት",
+          "t": "ʾəsatə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ራምኖን",
+          "t": "ramənonə",
+          "gl": ""
+        },
+        {
+          "g": "ወትበልዖ",
+          "t": "wätəbäləʿo",
+          "gl": ""
+        },
+        {
+          "g": "ለአርዘ",
+          "t": "läʾärəzä",
+          "gl": ""
+        },
+        {
+          "g": "ሊባኖስ",
+          "t": "libanosə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the bramble said to the trees, If ye in truth anoint me to reign over you, come, stand under my shadow; and if not, let fire come out from me and devour the cedars of Libanus.",
+        "kjv": "And the bramble said unto the trees, If in truth ye anoint me king over you, then come and put your trust in my shadow: and if not, let fire come out of the bramble, and devour the cedars of Lebanon."
+      }
+    },
+    {
+      "num": 16,
+      "geez": "ወይእዜኒ ፡ እመ ፡ አማን ፡ በጽድቅ ፡ ገበርክሙ ፡ ወአንገሥክምዎ ፡ ለአቢሜሌክ ፡ በከመ ፡ ገበርክሙ ፡ ምስለ ፡\n                  ኢየሮበዓም ፡ ወምስለ ፡ ቤቱ ፡ ወእመ ፡ በከመ ፡ ዕሴተ ፡ እዴሁ ፡ ገበርክሙ ፡ ሎቱ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይእዜኒ",
+          "t": "wäyəʾəzeni",
+          "gl": ""
+        },
+        {
+          "g": "እመ",
+          "t": "ʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "አማን",
+          "t": "ʾämanə",
+          "gl": ""
+        },
+        {
+          "g": "በጽድቅ",
+          "t": "bäṣədəqə",
+          "gl": ""
+        },
+        {
+          "g": "ገበርክሙ",
+          "t": "gäbärəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወአንገሥክምዎ",
+          "t": "wäʾänəgäśəkəməwo",
+          "gl": ""
+        },
+        {
+          "g": "ለአቢሜሌክ",
+          "t": "läʾäbimelekə",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ገበርክሙ",
+          "t": "gäbärəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሮበዓም",
+          "t": "ʾiyärobäʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ወምስለ",
+          "t": "wäməsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ቤቱ",
+          "t": "betu",
+          "gl": ""
+        },
+        {
+          "g": "ወእመ",
+          "t": "wäʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ዕሴተ",
+          "t": "ʿəsetä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        },
+        {
+          "g": "ገበርክሙ",
+          "t": "gäbärəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And now, if ye have done it in truth and integrity, and have made Abimelech king, and if ye have wrought well with Jerobaal, and with his house, and if ye have done to him according to the reward of his hand,",
+        "kjv": "Now therefore, if ye have done truly and sincerely, in that ye have made Abimelech king, and if ye have dealt well with Jerubbaal and his house, and have done unto him according to the deserving of his hands;"
+      }
+    },
+    {
+      "num": 17,
+      "geez": "በከመ ፡ ተቃተለ ፡ አቡየ ፡ ለክሙ ፡ ወገደፈ ፡ ነፍሶ ፡ ቅድሜክሙ ፡ ወአድኀነክሙ ፡ እምእደ ፡ ምድያም ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ተቃተለ",
+          "t": "täqatälä",
+          "gl": ""
+        },
+        {
+          "g": "አቡየ",
+          "t": "ʾäbuyä",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወገደፈ",
+          "t": "wägädäfä",
+          "gl": ""
+        },
+        {
+          "g": "ነፍሶ",
+          "t": "näfəso",
+          "gl": ""
+        },
+        {
+          "g": "ቅድሜክሙ",
+          "t": "qədəmekəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወአድኀነክሙ",
+          "t": "wäʾädəḫänäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እምእደ",
+          "t": "ʾəməʾədä",
+          "gl": ""
+        },
+        {
+          "g": "ምድያም",
+          "t": "mədəyamə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "as my father fought for you, and put his life in jeopardy, and delivered you out of the hand of Madiam;",
+        "kjv": "(For my father fought for you, and adventured his life far, and delivered you out of the hand of Midian:"
+      }
+    },
+    {
+      "num": 18,
+      "geez": "ወአንትሙ ፡ ተንሣእክሙ ፡ ላዕለ ፡ ቤተ ፡ አቡየ ፡ ወቀተልክሙ ፡ ደቂቆ ፡ ፸ብእሴ ፡ በአሐቲ ፡ እብን ፡ ወአንገሥክምዎ ፡\n                  ለአቢሜሌክ ፡ ወልደ ፡ ዕቅብቱ ፡ ላዕለ ፡ [ሰብአ ፡] ሲቂሞን ፡ እስመ ፡ እኁክሙ ፡ ውእቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአንትሙ",
+          "t": "wäʾänətəmu",
+          "gl": ""
+        },
+        {
+          "g": "ተንሣእክሙ",
+          "t": "tänəśaʾəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ቤተ",
+          "t": "betä",
+          "gl": ""
+        },
+        {
+          "g": "አቡየ",
+          "t": "ʾäbuyä",
+          "gl": ""
+        },
+        {
+          "g": "ወቀተልክሙ",
+          "t": "wäqätäləkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቆ",
+          "t": "däqiqo",
+          "gl": ""
+        },
+        {
+          "g": "፸ብእሴ",
+          "t": "70bəʾəse",
+          "gl": ""
+        },
+        {
+          "g": "በአሐቲ",
+          "t": "bäʾäḥäti",
+          "gl": ""
+        },
+        {
+          "g": "እብን",
+          "t": "ʾəbənə",
+          "gl": ""
+        },
+        {
+          "g": "ወአንገሥክምዎ",
+          "t": "wäʾänəgäśəkəməwo",
+          "gl": ""
+        },
+        {
+          "g": "ለአቢሜሌክ",
+          "t": "läʾäbimelekə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ዕቅብቱ",
+          "t": "ʿəqəbətu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብአ",
+          "t": "säbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሲቂሞን",
+          "t": "siqimonə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "እኁክሙ",
+          "t": "ʾəḫukəmu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and ye are risen up this day against the house of my father, and have slain his sons, being seventy men, upon one stone, and have made Abimelech the son of his bondwoman king over the men of Sicima, because he is your brother:",
+        "kjv": "And ye are risen up against my father’s house this day, and have slain his sons, threescore and ten persons, upon one stone, and have made Abimelech, the son of his maidservant, king over the men of Shechem, because he is your brother;)"
+      }
+    },
+    {
+      "num": 19,
+      "geez": "ወእመሰ ፡ በጽድቅ ፡ ወበርትዕ ፡ ገበርክሙ ፡ ምስለ ፡ ሮቦዓም ፡ ወቤቱ ፡ በዛቲ ፡ ዕለት ፡ ቡሩካነ ፡ አንትሙሂ ፡\n                  ወተፈሥሑ ፡ በአቢሜሌክ ፡ ወውእቱኒ ፡ ይትፌሣሕ ፡ ብክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "በጽድቅ",
+          "t": "bäṣədəqə",
+          "gl": ""
+        },
+        {
+          "g": "ወበርትዕ",
+          "t": "wäbärətəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ገበርክሙ",
+          "t": "gäbärəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሮቦዓም",
+          "t": "roboʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ወቤቱ",
+          "t": "wäbetu",
+          "gl": ""
+        },
+        {
+          "g": "በዛቲ",
+          "t": "bäzati",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "ቡሩካነ",
+          "t": "burukanä",
+          "gl": ""
+        },
+        {
+          "g": "አንትሙሂ",
+          "t": "ʾänətəmuhi",
+          "gl": ""
+        },
+        {
+          "g": "ወተፈሥሑ",
+          "t": "wätäfäśəḥu",
+          "gl": ""
+        },
+        {
+          "g": "በአቢሜሌክ",
+          "t": "bäʾäbimelekə",
+          "gl": ""
+        },
+        {
+          "g": "ወውእቱኒ",
+          "t": "wäwəʾətuni",
+          "gl": ""
+        },
+        {
+          "g": "ይትፌሣሕ",
+          "t": "yətəfeśaḥə",
+          "gl": ""
+        },
+        {
+          "g": "ብክሙ",
+          "t": "bəkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "if then ye have done truly and faithfully with Jerobaal, and with his house this day, rejoice ye in Abimelech, and let him also rejoice over you:",
+        "kjv": "If ye then have dealt truly and sincerely with Jerubbaal and with his house this day, then rejoice ye in Abimelech, and let him also rejoice in you:"
+      }
+    },
+    {
+      "num": 20,
+      "geez": "ወእመ ፡ አኮሰ ፡ ትጻእ ፡ እሳት ፡ እምነ ፡ አቢሜሌክ ፡ ወትብልዖሙ ፡ ለሰብአ ፡ ሲቂሞን ፡ ወለቤተ ፡ መሐሎን ፡ ወትፃእ\n                  ፡ እሳት ፡ እምነ ፡ ሰብአ ፡ ሲቂሞን ፡ ወእምነ ፡ ቤተአ ፡ መሐሎንአ ፡ ወትብልዖአ ፡ ለአቢሜሌክአ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመ",
+          "t": "wäʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "አኮሰ",
+          "t": "ʾäkosä",
+          "gl": ""
+        },
+        {
+          "g": "ትጻእ",
+          "t": "təṣaʾə",
+          "gl": ""
+        },
+        {
+          "g": "እሳት",
+          "t": "ʾəsatə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "አቢሜሌክ",
+          "t": "ʾäbimelekə",
+          "gl": ""
+        },
+        {
+          "g": "ወትብልዖሙ",
+          "t": "wätəbələʿomu",
+          "gl": ""
+        },
+        {
+          "g": "ለሰብአ",
+          "t": "läsäbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሲቂሞን",
+          "t": "siqimonə",
+          "gl": ""
+        },
+        {
+          "g": "ወለቤተ",
+          "t": "wäläbetä",
+          "gl": ""
+        },
+        {
+          "g": "መሐሎን",
+          "t": "mäḥälonə",
+          "gl": ""
+        },
+        {
+          "g": "ወትፃእ",
+          "t": "wätəṣ́aʾə",
+          "gl": ""
+        },
+        {
+          "g": "እሳት",
+          "t": "ʾəsatə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብአ",
+          "t": "säbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሲቂሞን",
+          "t": "siqimonə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ቤተአ",
+          "t": "betäʾä",
+          "gl": ""
+        },
+        {
+          "g": "መሐሎንአ",
+          "t": "mäḥälonəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ወትብልዖአ",
+          "t": "wätəbələʿoʾä",
+          "gl": ""
+        },
+        {
+          "g": "ለአቢሜሌክአ",
+          "t": "läʾäbimelekəʾä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "but if not, let fire come out from Abimelech, and devour the men of Sicima, and the house of Beth-maalo; and let fire come out from the men of Sicima and from the house of Beth-maalo, and devour Abimelech.",
+        "kjv": "But if not, let fire come out from Abimelech, and devour the men of Shechem, and the house of Millo; and let fire come out from the men of Shechem, and from the house of Millo, and devour Abimelech."
+      }
+    },
+    {
+      "num": 21,
+      "geez": "ወጐየ ፡ ኢዮአታም ፡ ወሮጸ ፡ ውስተ ፡ ፍኖት ፡ ወአምሠጠ ፡ ውስተ ፡ ራራ ፡ ወነበረ ፡ ህየ ፡ እምነ ፡ ገጸ ፡ አቢሜሌክ\n                  ፡ እኁሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወጐየ",
+          "t": "wägwäyä",
+          "gl": ""
+        },
+        {
+          "g": "ኢዮአታም",
+          "t": "ʾiyoʾätamə",
+          "gl": ""
+        },
+        {
+          "g": "ወሮጸ",
+          "t": "wäroṣä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ፍኖት",
+          "t": "fənotə",
+          "gl": ""
+        },
+        {
+          "g": "ወአምሠጠ",
+          "t": "wäʾäməśäṭä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ራራ",
+          "t": "rara",
+          "gl": ""
+        },
+        {
+          "g": "ወነበረ",
+          "t": "wänäbärä",
+          "gl": ""
+        },
+        {
+          "g": "ህየ",
+          "t": "həyä",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ገጸ",
+          "t": "gäṣä",
+          "gl": ""
+        },
+        {
+          "g": "አቢሜሌክ",
+          "t": "ʾäbimelekə",
+          "gl": ""
+        },
+        {
+          "g": "እኁሁ",
+          "t": "ʾəḫuhu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Joatham fled, and ran away, and went as far as Bæer, and dwelt there out of the way of his brother Abimelech.",
+        "kjv": "And Jotham ran away, and fled, and went to Beer, and dwelt there, for fear of Abimelech his brother."
+      }
+    },
+    {
+      "num": 22,
+      "geez": "ወ[ተ]መልአከ ፡ አቢሜሌክ ፡ ለቤተ ፡ እስራኤል ፡ ሠለስተ ፡ ዓመተ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተመልአከ",
+          "t": "wätämäləʾäkä",
+          "gl": ""
+        },
+        {
+          "g": "አቢሜሌክ",
+          "t": "ʾäbimelekə",
+          "gl": ""
+        },
+        {
+          "g": "ለቤተ",
+          "t": "läbetä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ሠለስተ",
+          "t": "śäläsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዓመተ",
+          "t": "ʿamätä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Abimelech reigned over Israel three years.",
+        "kjv": "When Abimelech had reigned three years over Israel,"
+      }
+    },
+    {
+      "num": 23,
+      "geez": "ወፈነወ ፡ እግዚአብሔር ፡ ጋኔነ ፡ እኩየ ፡ ማእከለ ፡ አቢሜሌክ ፡ ወማእከለ ፡ ሰብአ ፡ ሲቂሞን ፡ ወክሕድዎ ፡ ሰብአ ፡\n                  ሲቂሞን ፡ ለቤተ ፡ አቢሜሌክ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወፈነወ",
+          "t": "wäfänäwä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ጋኔነ",
+          "t": "ganenä",
+          "gl": ""
+        },
+        {
+          "g": "እኩየ",
+          "t": "ʾəkuyä",
+          "gl": ""
+        },
+        {
+          "g": "ማእከለ",
+          "t": "maʾəkälä",
+          "gl": ""
+        },
+        {
+          "g": "አቢሜሌክ",
+          "t": "ʾäbimelekə",
+          "gl": ""
+        },
+        {
+          "g": "ወማእከለ",
+          "t": "wämaʾəkälä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብአ",
+          "t": "säbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሲቂሞን",
+          "t": "siqimonə",
+          "gl": ""
+        },
+        {
+          "g": "ወክሕድዎ",
+          "t": "wäkəḥədəwo",
+          "gl": ""
+        },
+        {
+          "g": "ሰብአ",
+          "t": "säbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሲቂሞን",
+          "t": "siqimonə",
+          "gl": ""
+        },
+        {
+          "g": "ለቤተ",
+          "t": "läbetä",
+          "gl": ""
+        },
+        {
+          "g": "አቢሜሌክ",
+          "t": "ʾäbimelekə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And God sent an evil spirit between Abimelech and the men of Sicima; and the men of Sicima dealt treacherously with the house of Abimelech:",
+        "kjv": "Then God sent an evil spirit between Abimelech and the men of Shechem; and the men of Shechem dealt treacherously with Abimelech:"
+      }
+    },
+    {
+      "num": 24,
+      "geez": "ከመ ፡ ይግባእ ፡ ኀጢአቱ ፡ ዘ፸ደቂቀ ፡ ኢየሮቦዓም ፡ ወደሞሙ ፡ ወይትፈደዮ ፡ ለአቢሜሌክ ፡ እኁሆሙ ፡ ዘቀተሎሙ ፡\n                  ወላዕለ ፡ ሰብአ ፡ ሲቂሞን ፡ እለ ፡ አጽንዕዋ ፡ ለእዴሁ ፡ ከመ ፡ ይቅትሎሙ ፡ ለአኀዊሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይግባእ",
+          "t": "yəgəbaʾə",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአቱ",
+          "t": "ḫäṭiʾätu",
+          "gl": ""
+        },
+        {
+          "g": "ዘ፸ደቂቀ",
+          "t": "zä70däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ኢየሮቦዓም",
+          "t": "ʾiyäroboʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ወደሞሙ",
+          "t": "wädämomu",
+          "gl": ""
+        },
+        {
+          "g": "ወይትፈደዮ",
+          "t": "wäyətəfädäyo",
+          "gl": ""
+        },
+        {
+          "g": "ለአቢሜሌክ",
+          "t": "läʾäbimelekə",
+          "gl": ""
+        },
+        {
+          "g": "እኁሆሙ",
+          "t": "ʾəḫuhomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘቀተሎሙ",
+          "t": "zäqätälomu",
+          "gl": ""
+        },
+        {
+          "g": "ወላዕለ",
+          "t": "wälaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብአ",
+          "t": "säbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሲቂሞን",
+          "t": "siqimonə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "አጽንዕዋ",
+          "t": "ʾäṣənəʿəwa",
+          "gl": ""
+        },
+        {
+          "g": "ለእዴሁ",
+          "t": "läʾədehu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይቅትሎሙ",
+          "t": "yəqətəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ለአኀዊሁ",
+          "t": "läʾäḫäwihu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "to bring the injury done to the seventy sons of Jerobaal, and to lay their blood upon their brother Abimelech, who slew them, and upon the men of Sicima, because they strengthened his hands to slay his brethren.",
+        "kjv": "That the cruelty done to the threescore and ten sons of Jerubbaal might come, and their blood be laid upon Abimelech their brother, which slew them; and upon the men of Shechem, which aided him in the killing of his brethren."
+      }
+    },
+    {
+      "num": 25,
+      "geez": "ወአንበሩ ፡ ሎቱ ፡ ሰብአ ፡ ሲቂሞን ፡ ማዕገተ ፡ ውስተ ፡ አርእስተ ፡ አድባር ፡ ወየሀይዱ ፡ ኵሎ ፡ ዘየኀልፍ ፡ ፍኖተ\n                  ፡ እንተ ፡ ላዕሌሆሙ ፡ ወዜነውዎ ፡ ለአቢሜሌክ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአንበሩ",
+          "t": "wäʾänəbäru",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ሰብአ",
+          "t": "säbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሲቂሞን",
+          "t": "siqimonə",
+          "gl": ""
+        },
+        {
+          "g": "ማዕገተ",
+          "t": "maʿəgätä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አርእስተ",
+          "t": "ʾärəʾəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አድባር",
+          "t": "ʾädəbarə",
+          "gl": ""
+        },
+        {
+          "g": "ወየሀይዱ",
+          "t": "wäyähäyədu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ዘየኀልፍ",
+          "t": "zäyäḫäləfə",
+          "gl": ""
+        },
+        {
+          "g": "ፍኖተ",
+          "t": "fənotä",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሆሙ",
+          "t": "laʿəlehomu",
+          "gl": ""
+        },
+        {
+          "g": "ወዜነውዎ",
+          "t": "wäzenäwəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለአቢሜሌክ",
+          "t": "läʾäbimelekə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the men of Sicima set liers in wait against him on the top of the mountains, and robbed every one who passed by them on the way; and it was reported to the king Abimelech.",
+        "kjv": "And the men of Shechem set liers in wait for him in the top of the mountains, and they robbed all that came along that way by them: and it was told Abimelech."
+      }
+    },
+    {
+      "num": 26,
+      "geez": "[ወመጽአ ፡] ጋአድ ፡ ወልደ ፡ አቤድ ፡ ወአኀዊሁ ፡ ውስተ ፡ ሲቂማ ፡ ወኀብሩ ፡ ምስሌሁ ፡ ሰብአ ፡ ሲቂማ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወመጽአ",
+          "t": "wämäṣəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ጋአድ",
+          "t": "gaʾädə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "አቤድ",
+          "t": "ʾäbedə",
+          "gl": ""
+        },
+        {
+          "g": "ወአኀዊሁ",
+          "t": "wäʾäḫäwihu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሲቂማ",
+          "t": "siqima",
+          "gl": ""
+        },
+        {
+          "g": "ወኀብሩ",
+          "t": "wäḫäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሁ",
+          "t": "məsəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ሰብአ",
+          "t": "säbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሲቂማ",
+          "t": "siqima",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Gaal son of Jobel came, and his brethren, and passed by Sicima, and the men of Sicima trusted in him.",
+        "kjv": "And Gaal the son of Ebed came with his brethren, and went over to Shechem: and the men of Shechem put their confidence in him."
+      }
+    },
+    {
+      "num": 27,
+      "geez": "ወወፅኡ ፡ ሐቅለ ፡ ወቀሠሙ ፡ አዕጻዳተ ፡ ወይኖሙ ፡ ወአኬዱ ፡ ወገብሩ ፡ በዓለ ፡ ወቦኡ ፡ ቤተ ፡ አምላከሙ ፡ ወበልዑ\n                  ፡ ወሰትዩ ፡ ወረገምዎ ፡ ለአቢሜሌክ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወወፅኡ",
+          "t": "wäwäṣ́əʾu",
+          "gl": ""
+        },
+        {
+          "g": "ሐቅለ",
+          "t": "ḥäqəlä",
+          "gl": ""
+        },
+        {
+          "g": "ወቀሠሙ",
+          "t": "wäqäśämu",
+          "gl": ""
+        },
+        {
+          "g": "አዕጻዳተ",
+          "t": "ʾäʿəṣadatä",
+          "gl": ""
+        },
+        {
+          "g": "ወይኖሙ",
+          "t": "wäyənomu",
+          "gl": ""
+        },
+        {
+          "g": "ወአኬዱ",
+          "t": "wäʾäkedu",
+          "gl": ""
+        },
+        {
+          "g": "ወገብሩ",
+          "t": "wägäbəru",
+          "gl": ""
+        },
+        {
+          "g": "በዓለ",
+          "t": "bäʿalä",
+          "gl": ""
+        },
+        {
+          "g": "ወቦኡ",
+          "t": "wäboʾu",
+          "gl": ""
+        },
+        {
+          "g": "ቤተ",
+          "t": "betä",
+          "gl": ""
+        },
+        {
+          "g": "አምላከሙ",
+          "t": "ʾäməlakämu",
+          "gl": ""
+        },
+        {
+          "g": "ወበልዑ",
+          "t": "wäbäləʿu",
+          "gl": ""
+        },
+        {
+          "g": "ወሰትዩ",
+          "t": "wäsätəyu",
+          "gl": ""
+        },
+        {
+          "g": "ወረገምዎ",
+          "t": "wärägäməwo",
+          "gl": ""
+        },
+        {
+          "g": "ለአቢሜሌክ",
+          "t": "läʾäbimelekə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they went out into the field, and gathered their grapes, and trod them, and made merry; and they brought the grapes into the house of their god, and ate and drank, and cursed Abimelech.",
+        "kjv": "And they went out into the fields, and gathered their vineyards, and trode the grapes, and made merry, and went into the house of their god, and did eat and drink, and cursed Abimelech."
+      }
+    },
+    {
+      "num": 28,
+      "geez": "ወይቤ ፡ ጋድ ፡ ወልደ ፡ አቤድ ፡ መኑ ፡ ውእቱ ፡ አቢሜሌክ ፡ ወመኑ ፡ ውእቱ ፡ ወልደ ፡ ሴኬም ፡ ከመ ፡ ንትቀነይ ፡\n                  ሎቱ ፡ አኮኑ ፡ ውእቱ ፡ ወልደ ፡ ሮቦዓም ፡ ወዜቡል ፡ (ወ)ዐቃቢሁ ፡ ገብሩ ፡ ወሰብአ ፡ ኤሞር ፡ አቡሁ ፡ ለሴኬም ፡\n                  ወለምንት ፡ ንትቀነይ ፡ ሎቱ ፡ ንሕነ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "ጋድ",
+          "t": "gadə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "አቤድ",
+          "t": "ʾäbedə",
+          "gl": ""
+        },
+        {
+          "g": "መኑ",
+          "t": "mänu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "አቢሜሌክ",
+          "t": "ʾäbimelekə",
+          "gl": ""
+        },
+        {
+          "g": "ወመኑ",
+          "t": "wämänu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ሴኬም",
+          "t": "sekemə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ንትቀነይ",
+          "t": "nətəqänäyə",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "አኮኑ",
+          "t": "ʾäkonu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ሮቦዓም",
+          "t": "roboʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ወዜቡል",
+          "t": "wäzebulə",
+          "gl": ""
+        },
+        {
+          "g": "ወዐቃቢሁ",
+          "t": "wäʿäqabihu",
+          "gl": ""
+        },
+        {
+          "g": "ገብሩ",
+          "t": "gäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ወሰብአ",
+          "t": "wäsäbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ኤሞር",
+          "t": "ʾemorə",
+          "gl": ""
+        },
+        {
+          "g": "አቡሁ",
+          "t": "ʾäbuhu",
+          "gl": ""
+        },
+        {
+          "g": "ለሴኬም",
+          "t": "läsekemə",
+          "gl": ""
+        },
+        {
+          "g": "ወለምንት",
+          "t": "wälämənətə",
+          "gl": ""
+        },
+        {
+          "g": "ንትቀነይ",
+          "t": "nətəqänäyə",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ንሕነ",
+          "t": "nəḥənä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Gaal the son of Jobel said, Who is Abimelech, and who is the son of Sychem, that we should serve him? Is he not the son of Jerobaal, and is not Zebul his steward, his servant with the son of Emmor the father of Sychem? and why should we serve him?",
+        "kjv": "And Gaal the son of Ebed said, Who is Abimelech, and who is Shechem, that we should serve him? is not he the son of Jerubbaal? and Zebul his officer? serve the men of Hamor the father of Shechem: for why should we serve him?"
+      }
+    },
+    {
+      "num": 29,
+      "geez": "ወመኑ ፡ እመ ፡ አግብኦ ፡ ለዝክቱ ፡ ሕዝብ ፡ ውስተ ፡ እዴየ ፡ ወኣፍልሶ ፡ ለአቢሜሌክ ፡ ወእበሎ ፡ ለአቢሜሌክ ፡\n                  አብዝኅ ፡ ኀይለከ ፡ ወፃእ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወመኑ",
+          "t": "wämänu",
+          "gl": ""
+        },
+        {
+          "g": "እመ",
+          "t": "ʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "አግብኦ",
+          "t": "ʾägəbəʾo",
+          "gl": ""
+        },
+        {
+          "g": "ለዝክቱ",
+          "t": "läzəkətu",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴየ",
+          "t": "ʾədeyä",
+          "gl": ""
+        },
+        {
+          "g": "ወኣፍልሶ",
+          "t": "wäʾafələso",
+          "gl": ""
+        },
+        {
+          "g": "ለአቢሜሌክ",
+          "t": "läʾäbimelekə",
+          "gl": ""
+        },
+        {
+          "g": "ወእበሎ",
+          "t": "wäʾəbälo",
+          "gl": ""
+        },
+        {
+          "g": "ለአቢሜሌክ",
+          "t": "läʾäbimelekə",
+          "gl": ""
+        },
+        {
+          "g": "አብዝኅ",
+          "t": "ʾäbəzəḫə",
+          "gl": ""
+        },
+        {
+          "g": "ኀይለከ",
+          "t": "ḫäyəläkä",
+          "gl": ""
+        },
+        {
+          "g": "ወፃእ",
+          "t": "wäṣ́aʾə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And would that this people were under my hand! then would I remove Abimelech, and I would say to him, Multiply thy host, and come out.",
+        "kjv": "And would to God this people were under my hand! then would I remove Abimelech. And he said to Abimelech, Increase thine army, and come out."
+      }
+    },
+    {
+      "num": 30,
+      "geez": "ወሰምዐ ፡ ዜቡል ፡ መልአከ ፡ ሀገር ፡ ዘይቤ ፡ ጋድ ፡ ወልደ ፡ አቤድ ፡ ወተምዕዐ ፡ መዐተ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሰምዐ",
+          "t": "wäsäməʿä",
+          "gl": ""
+        },
+        {
+          "g": "ዜቡል",
+          "t": "zebulə",
+          "gl": ""
+        },
+        {
+          "g": "መልአከ",
+          "t": "mäləʾäkä",
+          "gl": ""
+        },
+        {
+          "g": "ሀገር",
+          "t": "hägärə",
+          "gl": ""
+        },
+        {
+          "g": "ዘይቤ",
+          "t": "zäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "ጋድ",
+          "t": "gadə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "አቤድ",
+          "t": "ʾäbedə",
+          "gl": ""
+        },
+        {
+          "g": "ወተምዕዐ",
+          "t": "wätäməʿəʿä",
+          "gl": ""
+        },
+        {
+          "g": "መዐተ",
+          "t": "mäʿätä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Zebul the ruler of the city heard the words of Gaal the son of Jobel, and he was very angry.",
+        "kjv": "And when Zebul the ruler of the city heard the words of Gaal the son of Ebed, his anger was kindled."
+      }
+    },
+    {
+      "num": 31,
+      "geez": "ወፈነወ ፡ መ[ላ]እክተ ፡ ኀበ ፡ አቢሜሌክ ፡ ምስለ ፡ አምኃ ፡ እንዘ ፡ ይብል ፡ ናሁአ ፡ [ጋድ]አ ፡ ወልደ ፡ አቤድ ፡\n                  ወአኀዊሁ ፡ መጽኡ ፡ ውስተ ፡ ሲቂማ ፡ ወናሁ ፡ ይትቃተልዋ ፡ ለሀገር ፡ በእንቲአከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወፈነወ",
+          "t": "wäfänäwä",
+          "gl": ""
+        },
+        {
+          "g": "መላእክተ",
+          "t": "mälaʾəkətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "አቢሜሌክ",
+          "t": "ʾäbimelekə",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "አምኃ",
+          "t": "ʾäməḫa",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ይብል",
+          "t": "yəbələ",
+          "gl": ""
+        },
+        {
+          "g": "ናሁአ",
+          "t": "nahuʾä",
+          "gl": ""
+        },
+        {
+          "g": "ጋድአ",
+          "t": "gadəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "አቤድ",
+          "t": "ʾäbedə",
+          "gl": ""
+        },
+        {
+          "g": "ወአኀዊሁ",
+          "t": "wäʾäḫäwihu",
+          "gl": ""
+        },
+        {
+          "g": "መጽኡ",
+          "t": "mäṣəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሲቂማ",
+          "t": "siqima",
+          "gl": ""
+        },
+        {
+          "g": "ወናሁ",
+          "t": "wänahu",
+          "gl": ""
+        },
+        {
+          "g": "ይትቃተልዋ",
+          "t": "yətəqatäləwa",
+          "gl": ""
+        },
+        {
+          "g": "ለሀገር",
+          "t": "lähägärə",
+          "gl": ""
+        },
+        {
+          "g": "በእንቲአከ",
+          "t": "bäʾənətiʾäkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he sent messengers to Abimelech secretly, saying, Behold, Gaal the son of Jobel and his brethren are come to Sychem; and behold, they have besieged the city against thee.",
+        "kjv": "And he sent messengers unto Abimelech privily, saying, Behold, Gaal the son of Ebed and his brethren be come to Shechem; and, behold, they fortify the city against thee."
+      }
+    },
+    {
+      "num": 32,
+      "geez": "ወይእዜኒ ፡ ተንሥእ ፡ በሌሊት ፡ አንተ ፡ ወሕዝብ ፡ ዘምስሌከ ፡ ወዕግት ፡ ውስተ ፡ ሐቅል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይእዜኒ",
+          "t": "wäyəʾəzeni",
+          "gl": ""
+        },
+        {
+          "g": "ተንሥእ",
+          "t": "tänəśəʾə",
+          "gl": ""
+        },
+        {
+          "g": "በሌሊት",
+          "t": "bälelitə",
+          "gl": ""
+        },
+        {
+          "g": "አንተ",
+          "t": "ʾänətä",
+          "gl": ""
+        },
+        {
+          "g": "ወሕዝብ",
+          "t": "wäḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ዘምስሌከ",
+          "t": "zäməsəlekä",
+          "gl": ""
+        },
+        {
+          "g": "ወዕግት",
+          "t": "wäʿəgətə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሐቅል",
+          "t": "ḥäqələ",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And now rise up by night, thou and the people with thee, and lay wait in the field.",
+        "kjv": "Now therefore up by night, thou and the people that is with thee, and lie in wait in the field:"
+      }
+    },
+    {
+      "num": 33,
+      "geez": "ወበጽባሕ ፡ ጊዜ ፡ ይሠርቅ ፡ ፀሐይ ፡ ጊሥ ፡ ወሩዳአ ፡ ለሀገርአ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበጽባሕ",
+          "t": "wäbäṣəbaḥə",
+          "gl": ""
+        },
+        {
+          "g": "ጊዜ",
+          "t": "gize",
+          "gl": ""
+        },
+        {
+          "g": "ይሠርቅ",
+          "t": "yəśärəqə",
+          "gl": ""
+        },
+        {
+          "g": "ፀሐይ",
+          "t": "ṣ́äḥäyə",
+          "gl": ""
+        },
+        {
+          "g": "ጊሥ",
+          "t": "giśə",
+          "gl": ""
+        },
+        {
+          "g": "ወሩዳአ",
+          "t": "wärudaʾä",
+          "gl": ""
+        },
+        {
+          "g": "ለሀገርአ",
+          "t": "lähägärəʾä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it shall come to pass in the morning at sunrising, thou shalt rise up early and draw toward the city; and behold, he and the people with him will come forth against thee, and thou shalt do to him according to thy power.",
+        "kjv": "And it shall be, that in the morning, as soon as the sun is up, thou shalt rise early, and set upon the city: and, behold, when he and the people that is with him come out against thee, then mayest thou do to them as thou shalt find occasion."
+      }
+    },
+    {
+      "num": 34,
+      "geez": "ወመጽአ ፡ ውእቱ ፡ ወሕዝብ ፡ ዘምስሌሁ ፡ በሌሊት ፡ ወዐገትዋ ፡ ለሲቂማ ፡ [በ]አርባዕቱ ፡ ሰራዊት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወመጽአ",
+          "t": "wämäṣəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ወሕዝብ",
+          "t": "wäḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ዘምስሌሁ",
+          "t": "zäməsəlehu",
+          "gl": ""
+        },
+        {
+          "g": "በሌሊት",
+          "t": "bälelitə",
+          "gl": ""
+        },
+        {
+          "g": "ወዐገትዋ",
+          "t": "wäʿägätəwa",
+          "gl": ""
+        },
+        {
+          "g": "ለሲቂማ",
+          "t": "läsiqima",
+          "gl": ""
+        },
+        {
+          "g": "በአርባዕቱ",
+          "t": "bäʾärəbaʿətu",
+          "gl": ""
+        },
+        {
+          "g": "ሰራዊት",
+          "t": "särawitə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Abimelech and all the people with him rose up by night, and formed an ambuscade against Sychem in four companies.",
+        "kjv": "And Abimelech rose up, and all the people that were with him, by night, and they laid wait against Shechem in four companies."
+      }
+    },
+    {
+      "num": 35,
+      "geez": "ወሶበ ፡ ጸብሐ ፡ ወፅአ ፡ [ጋድ ፡] ወልደ ፡ አቤድ ፡ ወቆመ ፡ ኀበ ፡ ኆኅተ ፡ አንቀጸ ፡ ሀገር ፡ ወተንሥአ ፡\n                  አቢሜሌክ ፡ ወሕዝብ ፡ ዘምስሌሁ ፡ እምኀበ ፡ የዐግቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሶበ",
+          "t": "wäsobä",
+          "gl": ""
+        },
+        {
+          "g": "ጸብሐ",
+          "t": "ṣäbəḥä",
+          "gl": ""
+        },
+        {
+          "g": "ወፅአ",
+          "t": "wäṣ́əʾä",
+          "gl": ""
+        },
+        {
+          "g": "ጋድ",
+          "t": "gadə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "አቤድ",
+          "t": "ʾäbedə",
+          "gl": ""
+        },
+        {
+          "g": "ወቆመ",
+          "t": "wäqomä",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ኆኅተ",
+          "t": "ḫoḫətä",
+          "gl": ""
+        },
+        {
+          "g": "አንቀጸ",
+          "t": "ʾänəqäṣä",
+          "gl": ""
+        },
+        {
+          "g": "ሀገር",
+          "t": "hägärə",
+          "gl": ""
+        },
+        {
+          "g": "ወተንሥአ",
+          "t": "wätänəśəʾä",
+          "gl": ""
+        },
+        {
+          "g": "አቢሜሌክ",
+          "t": "ʾäbimelekə",
+          "gl": ""
+        },
+        {
+          "g": "ወሕዝብ",
+          "t": "wäḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ዘምስሌሁ",
+          "t": "zäməsəlehu",
+          "gl": ""
+        },
+        {
+          "g": "እምኀበ",
+          "t": "ʾəməḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "የዐግቱ",
+          "t": "yäʿägətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Gaal the son of Jobel went forth, and stood by the door of the gate of the city: and Abimelech and the people with him rose up from the ambuscade.",
+        "kjv": "And Gaal the son of Ebed went out, and stood in the entering of the gate of the city: and Abimelech rose up, and the people that were with him, from lying in wait."
+      }
+    },
+    {
+      "num": 36,
+      "geez": "ወርእየ ፡ ጋድ ፡ ወልደ ፡ አቤድ ፡ ሕዝበ ፡ ወይቤሎ ፡ ለዜቡል ፡ ናሁ ፡ ሕዝብ ፡ ይወርድ ፡ እምነ ፡ ርእሰ ፡ ደብር ፡\n                  ወይቤሎ ፡ ዜቡል ፡ ጽላሎተ ፡ አድባር ፡ ትሬኢ ፡ አንተሰ ፡ ከመ ፡ ሰብእ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወርእየ",
+          "t": "wärəʾəyä",
+          "gl": ""
+        },
+        {
+          "g": "ጋድ",
+          "t": "gadə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "አቤድ",
+          "t": "ʾäbedə",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝበ",
+          "t": "ḥəzəbä",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ለዜቡል",
+          "t": "läzebulə",
+          "gl": ""
+        },
+        {
+          "g": "ናሁ",
+          "t": "nahu",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ይወርድ",
+          "t": "yəwärədə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ርእሰ",
+          "t": "rəʾəsä",
+          "gl": ""
+        },
+        {
+          "g": "ደብር",
+          "t": "däbərə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ዜቡል",
+          "t": "zebulə",
+          "gl": ""
+        },
+        {
+          "g": "ጽላሎተ",
+          "t": "ṣəlalotä",
+          "gl": ""
+        },
+        {
+          "g": "አድባር",
+          "t": "ʾädəbarə",
+          "gl": ""
+        },
+        {
+          "g": "ትሬኢ",
+          "t": "təreʾi",
+          "gl": ""
+        },
+        {
+          "g": "አንተሰ",
+          "t": "ʾänətäsä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Gaal the son of Jobel saw the people, and said to Zebul, Behold, a people comes down from the top of the mountains: and Zebul said to him, Thou seest the shadow of the mountains as men.",
+        "kjv": "And when Gaal saw the people, he said to Zebul, Behold, there come people down from the top of the mountains. And Zebul said unto him, Thou seest the shadow of the mountains as if they were men."
+      }
+    },
+    {
+      "num": 37,
+      "geez": "ወደገመ ፡ ዓዲ ፡ ጋድ ፡ ብሂሎቶ ፡ ወይቤሎ ፡ ናሁ ፡ ሕዝብ ፡ ይወርድ ፡ መንገለ ፡ ባሕር ፡ እምነ ፡ ኀበ ፡ ሕንብርተ\n                  ፡ ምድር ፡ ወአሐዱ ፡ ሰርዌ ፡ ይመጽእ ፡ እምነ ፡ ፍኖተ ፡ ኦ [መ] ፡ አንጸሮ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወደገመ",
+          "t": "wädägämä",
+          "gl": ""
+        },
+        {
+          "g": "ዓዲ",
+          "t": "ʿadi",
+          "gl": ""
+        },
+        {
+          "g": "ጋድ",
+          "t": "gadə",
+          "gl": ""
+        },
+        {
+          "g": "ብሂሎቶ",
+          "t": "bəhiloto",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ናሁ",
+          "t": "nahu",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ይወርድ",
+          "t": "yəwärədə",
+          "gl": ""
+        },
+        {
+          "g": "መንገለ",
+          "t": "mänəgälä",
+          "gl": ""
+        },
+        {
+          "g": "ባሕር",
+          "t": "baḥərə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ሕንብርተ",
+          "t": "ḥənəbərətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ወአሐዱ",
+          "t": "wäʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "ሰርዌ",
+          "t": "särəwe",
+          "gl": ""
+        },
+        {
+          "g": "ይመጽእ",
+          "t": "yəmäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ፍኖተ",
+          "t": "fənotä",
+          "gl": ""
+        },
+        {
+          "g": "ኦ መ",
+          "t": "ʾo mä",
+          "gl": ""
+        },
+        {
+          "g": "አንጸሮ",
+          "t": "ʾänəṣäro",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Gaal continued to speak and said, Behold, a people comes down westward from the part bordering on the middle of the land, and another company comes by the way of Helon Maonenim.",
+        "kjv": "And Gaal spake again and said, See there come people down by the middle of the land, and another company come along by the plain of Meonenim."
+      }
+    },
+    {
+      "num": 38,
+      "geez": "ወይቤሎ ፡ ዜቡል ፡ አይቴ ፡ ውእቱ ፡ ይእዜ ፡ ዝክቱ ፡ አፉከ ፡ ዘትቤ ፡ መኑ ፡ ውእቱ ፡ አቢሜሌክ ፡ ከመ ፡ ንትቀነይ\n                  ፡ ሎቱ ፡ አኮኑ ፡ ዝንቱ ፡ ውእቱ ፡ ሕዝብ ፡ ዘተዐየርከ ፡ ፃእኬ ፡ ይእዜ ፡ ወተቃተሎሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ዜቡል",
+          "t": "zebulə",
+          "gl": ""
+        },
+        {
+          "g": "አይቴ",
+          "t": "ʾäyəte",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ይእዜ",
+          "t": "yəʾəze",
+          "gl": ""
+        },
+        {
+          "g": "ዝክቱ",
+          "t": "zəkətu",
+          "gl": ""
+        },
+        {
+          "g": "አፉከ",
+          "t": "ʾäfukä",
+          "gl": ""
+        },
+        {
+          "g": "ዘትቤ",
+          "t": "zätəbe",
+          "gl": ""
+        },
+        {
+          "g": "መኑ",
+          "t": "mänu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "አቢሜሌክ",
+          "t": "ʾäbimelekə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ንትቀነይ",
+          "t": "nətəqänäyə",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "አኮኑ",
+          "t": "ʾäkonu",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ዘተዐየርከ",
+          "t": "zätäʿäyärəkä",
+          "gl": ""
+        },
+        {
+          "g": "ፃእኬ",
+          "t": "ṣ́aʾəke",
+          "gl": ""
+        },
+        {
+          "g": "ይእዜ",
+          "t": "yəʾəze",
+          "gl": ""
+        },
+        {
+          "g": "ወተቃተሎሙ",
+          "t": "wätäqatälomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Zebul said to him, And where is thy mouth as thou spokest, Who is Abimelech that we should serve him? Is not this the people whom thou despisedst? go forth now, and set the battle in array against him.",
+        "kjv": "Then said Zebul unto him, Where is now thy mouth, wherewith thou saidst, Who is Abimelech, that we should serve him? is not this the people that thou hast despised? go out, I pray now, and fight with them."
+      }
+    },
+    {
+      "num": 39,
+      "geez": "ወወፅአ ፡ ጋድ ፡ እምነ ፡ ቅድሜሆሙ ፡ ለሰብአ ፡ ሲቂማ ፡ ወተቃተሎ ፡ ለአቢሜሌክ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወወፅአ",
+          "t": "wäwäṣ́əʾä",
+          "gl": ""
+        },
+        {
+          "g": "ጋድ",
+          "t": "gadə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ቅድሜሆሙ",
+          "t": "qədəmehomu",
+          "gl": ""
+        },
+        {
+          "g": "ለሰብአ",
+          "t": "läsäbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሲቂማ",
+          "t": "siqima",
+          "gl": ""
+        },
+        {
+          "g": "ወተቃተሎ",
+          "t": "wätäqatälo",
+          "gl": ""
+        },
+        {
+          "g": "ለአቢሜሌክ",
+          "t": "läʾäbimelekə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Gaal went forth before the men of Sychem, and set the battle in array against Abimelech.",
+        "kjv": "And Gaal went out before the men of Shechem, and fought with Abimelech."
+      }
+    },
+    {
+      "num": 40,
+      "geez": "ወዴገኖ ፡ አቤሜሌክ ፡ ወጐየ ፡ እምቅድመ ፡ ገጹ ፡ ወወድቁ ፡ ብዙኃን ፡ ወተቀትሉ ፡ እስከ ፡ አንቀጸ ፡ ሀገር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዴገኖ",
+          "t": "wädegäno",
+          "gl": ""
+        },
+        {
+          "g": "አቤሜሌክ",
+          "t": "ʾäbemelekə",
+          "gl": ""
+        },
+        {
+          "g": "ወጐየ",
+          "t": "wägwäyä",
+          "gl": ""
+        },
+        {
+          "g": "እምቅድመ",
+          "t": "ʾəməqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ገጹ",
+          "t": "gäṣu",
+          "gl": ""
+        },
+        {
+          "g": "ወወድቁ",
+          "t": "wäwädəqu",
+          "gl": ""
+        },
+        {
+          "g": "ብዙኃን",
+          "t": "bəzuḫanə",
+          "gl": ""
+        },
+        {
+          "g": "ወተቀትሉ",
+          "t": "wätäqätəlu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "አንቀጸ",
+          "t": "ʾänəqäṣä",
+          "gl": ""
+        },
+        {
+          "g": "ሀገር",
+          "t": "hägärə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Abimelech pursued him, and he fled from before him; and many fell down slain as far as the door of the gate.",
+        "kjv": "And Abimelech chased him, and he fled before him, and many were overthrown and wounded, even unto the entering of the gate."
+      }
+    },
+    {
+      "num": 41,
+      "geez": "ወነበረ ፡ አቢሜሌክ ፡ ውስተ ፡ አሪማ ፡ ወአውፅኦሙ ፡ ዜቡል ፡ ለጋእድ ፡ ወለአኀዊሁ ፡ ወከልኦሙ ፡ ነቢረ ፡ ውስተ ፡\n                  ሲቂማ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነበረ",
+          "t": "wänäbärä",
+          "gl": ""
+        },
+        {
+          "g": "አቢሜሌክ",
+          "t": "ʾäbimelekə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አሪማ",
+          "t": "ʾärima",
+          "gl": ""
+        },
+        {
+          "g": "ወአውፅኦሙ",
+          "t": "wäʾäwəṣ́əʾomu",
+          "gl": ""
+        },
+        {
+          "g": "ዜቡል",
+          "t": "zebulə",
+          "gl": ""
+        },
+        {
+          "g": "ለጋእድ",
+          "t": "lägaʾədə",
+          "gl": ""
+        },
+        {
+          "g": "ወለአኀዊሁ",
+          "t": "wäläʾäḫäwihu",
+          "gl": ""
+        },
+        {
+          "g": "ወከልኦሙ",
+          "t": "wäkäləʾomu",
+          "gl": ""
+        },
+        {
+          "g": "ነቢረ",
+          "t": "näbirä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሲቂማ",
+          "t": "siqima",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Abimelech entered into Arema, and Zebul cast out Gaal and his brethren, so that they should not dwell in Sychem.",
+        "kjv": "And Abimelech dwelt at Arumah: and Zebul thrust out Gaal and his brethren, that they should not dwell in Shechem."
+      }
+    },
+    {
+      "num": 42,
+      "geez": "ወእምዝ ፡ በሳኒታ ፡ ወፅአ ፡ ሕዝብ ፡ ውስተ ፡ ገዳም ፡ ወዜነውዎ ፡ ለአቢሜሌክ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእምዝ",
+          "t": "wäʾəməzə",
+          "gl": ""
+        },
+        {
+          "g": "በሳኒታ",
+          "t": "bäsanita",
+          "gl": ""
+        },
+        {
+          "g": "ወፅአ",
+          "t": "wäṣ́əʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ገዳም",
+          "t": "gädamə",
+          "gl": ""
+        },
+        {
+          "g": "ወዜነውዎ",
+          "t": "wäzenäwəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለአቢሜሌክ",
+          "t": "läʾäbimelekə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it came to pass on the second day that the people went out into the field, and one brought word to Abimelech.",
+        "kjv": "And it came to pass on the morrow, that the people went out into the field; and they told Abimelech."
+      }
+    },
+    {
+      "num": 43,
+      "geez": "ወነሥአ ፡ ሕዝቦ ፡ ወከፈሎሙ ፡ ለሠለስቱ ፡ ሰራዊት ፡ ወዐገተ ፡ ቦሙ ፡ ወሶበ ፡ ይኔጽር ፡ ወናሁ ፡ ሕዝብ ፡ ይወፅእ ፡\n                  እምነ ፡ ሀገር ፡ ወተንሥአ ፡ ላዕሌሆሙ ፡ ወቀተሎመ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነሥአ",
+          "t": "wänäśəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝቦ",
+          "t": "ḥəzəbo",
+          "gl": ""
+        },
+        {
+          "g": "ወከፈሎሙ",
+          "t": "wäkäfälomu",
+          "gl": ""
+        },
+        {
+          "g": "ለሠለስቱ",
+          "t": "läśäläsətu",
+          "gl": ""
+        },
+        {
+          "g": "ሰራዊት",
+          "t": "särawitə",
+          "gl": ""
+        },
+        {
+          "g": "ወዐገተ",
+          "t": "wäʿägätä",
+          "gl": ""
+        },
+        {
+          "g": "ቦሙ",
+          "t": "bomu",
+          "gl": ""
+        },
+        {
+          "g": "ወሶበ",
+          "t": "wäsobä",
+          "gl": ""
+        },
+        {
+          "g": "ይኔጽር",
+          "t": "yəneṣərə",
+          "gl": ""
+        },
+        {
+          "g": "ወናሁ",
+          "t": "wänahu",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ይወፅእ",
+          "t": "yəwäṣ́əʾə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ሀገር",
+          "t": "hägärə",
+          "gl": ""
+        },
+        {
+          "g": "ወተንሥአ",
+          "t": "wätänəśəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሆሙ",
+          "t": "laʿəlehomu",
+          "gl": ""
+        },
+        {
+          "g": "ወቀተሎመ",
+          "t": "wäqätälomä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he took the people, and divided them into three companies, and formed an ambush in the field; and he looked, and, behold, the people went forth out of the city, and he rose up against them, and smote them.",
+        "kjv": "And he took the people, and divided them into three companies, and laid wait in the field, and looked, and, behold, the people were come forth out of the city; and he rose up against them, and smote them."
+      }
+    },
+    {
+      "num": 44,
+      "geez": "ወአቢሜሌክሰ ፡ ወሰርዌ ፡ ዘምስሌሁ ፡ ቆሙ ፡ ዲፓ ፡ ኀበ ፡ ኆኅተ ፡ አንቀጸ ፡ ሀገር ፡ ወእልክቱሰ ፡ ክልኤቱ ፡ ሰራዊት\n                  ፡ ተዘርዉ ፡ ውስተ ፡ ኵሉ ፡ ገዳም ፡ ወቀተልዎሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአቢሜሌክሰ",
+          "t": "wäʾäbimelekəsä",
+          "gl": ""
+        },
+        {
+          "g": "ወሰርዌ",
+          "t": "wäsärəwe",
+          "gl": ""
+        },
+        {
+          "g": "ዘምስሌሁ",
+          "t": "zäməsəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ቆሙ",
+          "t": "qomu",
+          "gl": ""
+        },
+        {
+          "g": "ዲፓ",
+          "t": "dipa",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ኆኅተ",
+          "t": "ḫoḫətä",
+          "gl": ""
+        },
+        {
+          "g": "አንቀጸ",
+          "t": "ʾänəqäṣä",
+          "gl": ""
+        },
+        {
+          "g": "ሀገር",
+          "t": "hägärə",
+          "gl": ""
+        },
+        {
+          "g": "ወእልክቱሰ",
+          "t": "wäʾələkətusä",
+          "gl": ""
+        },
+        {
+          "g": "ክልኤቱ",
+          "t": "kələʾetu",
+          "gl": ""
+        },
+        {
+          "g": "ሰራዊት",
+          "t": "särawitə",
+          "gl": ""
+        },
+        {
+          "g": "ተዘርዉ",
+          "t": "täzärəwu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ገዳም",
+          "t": "gädamə",
+          "gl": ""
+        },
+        {
+          "g": "ወቀተልዎሙ",
+          "t": "wäqätäləwomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Abimelech and the chiefs of companies that were with him rushed forward, and stood by the door of the gate of the city; and the two other companies rushed forward upon all that were in the field, and smote them.",
+        "kjv": "And Abimelech, and the company that was with him, rushed forward, and stood in the entering of the gate of the city: and the two other companies ran upon all the people that were in the fields, and slew them."
+      }
+    },
+    {
+      "num": 45,
+      "geez": "ወአቢሜሌክሰ ፡ ይትቃተል ፡ ምስለ ፡ ሀገር ፡ ኵላ ፡ ይእተ ፡ ዕለተ ፡ ወአስተጋብእዋ ፡ ለሀገር ፡ ወሕዝበሰ ፡ ዘውስቴታ\n                  ፡ ቀተለ ፡ ወዘርአ ፡ ውስቴታ ፡ ፄወ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአቢሜሌክሰ",
+          "t": "wäʾäbimelekəsä",
+          "gl": ""
+        },
+        {
+          "g": "ይትቃተል",
+          "t": "yətəqatälə",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሀገር",
+          "t": "hägärə",
+          "gl": ""
+        },
+        {
+          "g": "ኵላ",
+          "t": "kwəla",
+          "gl": ""
+        },
+        {
+          "g": "ይእተ",
+          "t": "yəʾətä",
+          "gl": ""
+        },
+        {
+          "g": "ዕለተ",
+          "t": "ʿəlätä",
+          "gl": ""
+        },
+        {
+          "g": "ወአስተጋብእዋ",
+          "t": "wäʾäsətägabəʾəwa",
+          "gl": ""
+        },
+        {
+          "g": "ለሀገር",
+          "t": "lähägärə",
+          "gl": ""
+        },
+        {
+          "g": "ወሕዝበሰ",
+          "t": "wäḥəzəbäsä",
+          "gl": ""
+        },
+        {
+          "g": "ዘውስቴታ",
+          "t": "zäwəsəteta",
+          "gl": ""
+        },
+        {
+          "g": "ቀተለ",
+          "t": "qätälä",
+          "gl": ""
+        },
+        {
+          "g": "ወዘርአ",
+          "t": "wäzärəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ውስቴታ",
+          "t": "wəsəteta",
+          "gl": ""
+        },
+        {
+          "g": "ፄወ",
+          "t": "ṣ́ewä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Abimelech fought against the city all that day, and took the city, and slew the people that were in it, and destroyed the city, and sowed it with salt.",
+        "kjv": "And Abimelech fought against the city all that day; and he took the city, and slew the people that was therein, and beat down the city, and sowed it with salt."
+      }
+    },
+    {
+      "num": 46,
+      "geez": "ወሰምዑ ፡ ኵሎሙ ፡ ሰብአ ፡ ማኅፈደ ፡ ሲቂሞን ፡ ወቦኡ ፡ ውስተ ፡ ጸወነ ፡ ቤተ ፡ በዓል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሰምዑ",
+          "t": "wäsäməʿu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ሰብአ",
+          "t": "säbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ማኅፈደ",
+          "t": "maḫəfädä",
+          "gl": ""
+        },
+        {
+          "g": "ሲቂሞን",
+          "t": "siqimonə",
+          "gl": ""
+        },
+        {
+          "g": "ወቦኡ",
+          "t": "wäboʾu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ጸወነ",
+          "t": "ṣäwänä",
+          "gl": ""
+        },
+        {
+          "g": "ቤተ",
+          "t": "betä",
+          "gl": ""
+        },
+        {
+          "g": "በዓል",
+          "t": "bäʿalə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And all the men of the tower of Sychem heard, and came to the gathering of Bæthel-berith.",
+        "kjv": "And when all the men of the tower of Shechem heard that, they entered into an hold of the house of the god Berith."
+      }
+    },
+    {
+      "num": 47,
+      "geez": "ወዜነውዎ ፡ ለአቢሜሌክ ፡ ከመ ፡ ተጋብኡ ፡ ኵሉ ፡ ሰብአ ፡ ማኅፈደ ፡ ሲቂማ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዜነውዎ",
+          "t": "wäzenäwəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለአቢሜሌክ",
+          "t": "läʾäbimelekə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ተጋብኡ",
+          "t": "tägabəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ሰብአ",
+          "t": "säbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ማኅፈደ",
+          "t": "maḫəfädä",
+          "gl": ""
+        },
+        {
+          "g": "ሲቂማ",
+          "t": "siqima",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it was reported to Abimelech, that all the men of the tower of Sychem were gathered together.",
+        "kjv": "And it was told Abimelech, that all the men of the tower of Shechem were gathered together."
+      }
+    },
+    {
+      "num": 48,
+      "geez": "ወዐርገ ፡ አቢሜሌክ ፡ ውስተ ፡ ደብረ ፡ ሄርሞን ፡ ውእቱ ፡ ወሕዝብ ፡ ዘምስሌሁ ፡ ወነሥአ ፡ አቢሜሌክ ፡ ጕድበ ፡ ውስተ\n                  ፡ እዴሁ ፡ ወገመደ ፡ ጾረ ፡ ዕፀው ፡ ወነሥአ ፡ ወጾሮ ፡ ውስተ ፡ መታክፊሁ ፡ ወይቤሎሙ ፡ ለሕዝብ ፡ ለእለ ፡ ምስሌሁ ፡\n                  ዘከመ ፡ ርኢክሙኒ ፡ እገብር ፡ ግበሩ ፡ አንትሙኒ ፡ ፍጡነ ፡ ከመ ፡ አነ ፡ ገበርኩ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዐርገ",
+          "t": "wäʿärəgä",
+          "gl": ""
+        },
+        {
+          "g": "አቢሜሌክ",
+          "t": "ʾäbimelekə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ደብረ",
+          "t": "däbərä",
+          "gl": ""
+        },
+        {
+          "g": "ሄርሞን",
+          "t": "herəmonə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ወሕዝብ",
+          "t": "wäḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ዘምስሌሁ",
+          "t": "zäməsəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ወነሥአ",
+          "t": "wänäśəʾä",
+          "gl": ""
+        },
+        {
+          "g": "አቢሜሌክ",
+          "t": "ʾäbimelekə",
+          "gl": ""
+        },
+        {
+          "g": "ጕድበ",
+          "t": "gwədəbä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        },
+        {
+          "g": "ወገመደ",
+          "t": "wägämädä",
+          "gl": ""
+        },
+        {
+          "g": "ጾረ",
+          "t": "ṣorä",
+          "gl": ""
+        },
+        {
+          "g": "ዕፀው",
+          "t": "ʿəṣ́äwə",
+          "gl": ""
+        },
+        {
+          "g": "ወነሥአ",
+          "t": "wänäśəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ወጾሮ",
+          "t": "wäṣoro",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "መታክፊሁ",
+          "t": "mätakəfihu",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎሙ",
+          "t": "wäyəbelomu",
+          "gl": ""
+        },
+        {
+          "g": "ለሕዝብ",
+          "t": "läḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ለእለ",
+          "t": "läʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሁ",
+          "t": "məsəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ዘከመ",
+          "t": "zäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ርኢክሙኒ",
+          "t": "rəʾikəmuni",
+          "gl": ""
+        },
+        {
+          "g": "እገብር",
+          "t": "ʾəgäbərə",
+          "gl": ""
+        },
+        {
+          "g": "ግበሩ",
+          "t": "gəbäru",
+          "gl": ""
+        },
+        {
+          "g": "አንትሙኒ",
+          "t": "ʾänətəmuni",
+          "gl": ""
+        },
+        {
+          "g": "ፍጡነ",
+          "t": "fəṭunä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "ገበርኩ",
+          "t": "gäbärəku",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Abimelech went up to the mount of Selmon, and all the people that were with him; and Abimelech took an axe in his hand, and cut down a branch of a tree, and took it, and laid it on his shoulders; and said to the people that were with him, What ye see me doing, do quickly as I.",
+        "kjv": "And Abimelech gat him up to mount Zalmon, he and all the people that were with him; and Abimelech took an axe in his hand, and cut down a bough from the trees, and took it, and laid it on his shoulder, and said unto the people that were with him, What ye have seen me do, make haste, and do as I have done."
+      }
+    },
+    {
+      "num": 49,
+      "geez": "ወገዘሙ ፡ እሙንቱኒ ፡ ኵሎሙ ፡ ጾሮሙ ፡ ወነሥኡ ፡ ወተለውዎ ፡ ለአቢሜሌክ ፡ ወአንበሩ ፡ ኀበ ፡ ጸወን ፡ ወአውዐዩ ፡\n                  ላዕሌሆሙ ፡ ጸወኖሙ ፡ በእሳት ፡ ወሞቱ ፡ ኵሎሙ ፡ ሰብአ ፡ ሲቂማ ፡ ዘማኅፈዱ ፡ ወየአክሉ ፡ ዐሠርተ ፡ ምእተ ፡ ብእሲ ፡\n                  ወአንስት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወገዘሙ",
+          "t": "wägäzämu",
+          "gl": ""
+        },
+        {
+          "g": "እሙንቱኒ",
+          "t": "ʾəmunətuni",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ጾሮሙ",
+          "t": "ṣoromu",
+          "gl": ""
+        },
+        {
+          "g": "ወነሥኡ",
+          "t": "wänäśəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ወተለውዎ",
+          "t": "wätäläwəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለአቢሜሌክ",
+          "t": "läʾäbimelekə",
+          "gl": ""
+        },
+        {
+          "g": "ወአንበሩ",
+          "t": "wäʾänəbäru",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ጸወን",
+          "t": "ṣäwänə",
+          "gl": ""
+        },
+        {
+          "g": "ወአውዐዩ",
+          "t": "wäʾäwəʿäyu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሆሙ",
+          "t": "laʿəlehomu",
+          "gl": ""
+        },
+        {
+          "g": "ጸወኖሙ",
+          "t": "ṣäwänomu",
+          "gl": ""
+        },
+        {
+          "g": "በእሳት",
+          "t": "bäʾəsatə",
+          "gl": ""
+        },
+        {
+          "g": "ወሞቱ",
+          "t": "wämotu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ሰብአ",
+          "t": "säbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሲቂማ",
+          "t": "siqima",
+          "gl": ""
+        },
+        {
+          "g": "ዘማኅፈዱ",
+          "t": "zämaḫəfädu",
+          "gl": ""
+        },
+        {
+          "g": "ወየአክሉ",
+          "t": "wäyäʾäkəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዐሠርተ",
+          "t": "ʿäśärətä",
+          "gl": ""
+        },
+        {
+          "g": "ምእተ",
+          "t": "məʾətä",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ወአንስት",
+          "t": "wäʾänəsətə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they cut down likewise even every man a branch, and went after Abimelech, and laid them against the place of gathering, and burnt the place of gathering over them with fire; and they died, even all the men of the tower of Sicima, about a thousand men and women.",
+        "kjv": "And all the people likewise cut down every man his bough, and followed Abimelech, and put them to the hold, and set the hold on fire upon them; so that all the men of the tower of Shechem died also, about a thousand men and women."
+      }
+    },
+    {
+      "num": 50,
+      "geez": "ወሖረ ፡ አቢሜሌክ ፡ ውስተ ፡ ቴቤስ ፡ ወነበሩ ፡ ላዕሌሃ ፡ ወአስተጋብእዋ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሖረ",
+          "t": "wäḥorä",
+          "gl": ""
+        },
+        {
+          "g": "አቢሜሌክ",
+          "t": "ʾäbimelekə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ቴቤስ",
+          "t": "tebesə",
+          "gl": ""
+        },
+        {
+          "g": "ወነበሩ",
+          "t": "wänäbäru",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሃ",
+          "t": "laʿəleha",
+          "gl": ""
+        },
+        {
+          "g": "ወአስተጋብእዋ",
+          "t": "wäʾäsətägabəʾəwa",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Abimelech went out of Bæthel-berith, and encamped against Thebes, and took it.",
+        "kjv": "Then went Abimelech to Thebez, and encamped against Thebez, and took it."
+      }
+    },
+    {
+      "num": 51,
+      "geez": "ወቦቱ ፡ ማኅፈደ ፡ ዐቢየ ፡ ውስተ ፡ ማእከለ ፡ ሀገር ፡ ወተጸወኑ ፡ ኵሎሙ ፡ ህየ ፡ ዕደዊሆሙ ፡ ወአንስቲያሆሙ ፡ ወኵሉ\n                  ፡ ዐበይተ ፡ ሀገር ፡ ወዐጸዉ ፡ ላዕሌሆሙ ፡ ወዐርጉ ፡ ውስተ ፡ ናሕሰ ፡ ማኅፈድ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወቦቱ",
+          "t": "wäbotu",
+          "gl": ""
+        },
+        {
+          "g": "ማኅፈደ",
+          "t": "maḫəfädä",
+          "gl": ""
+        },
+        {
+          "g": "ዐቢየ",
+          "t": "ʿäbiyä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ማእከለ",
+          "t": "maʾəkälä",
+          "gl": ""
+        },
+        {
+          "g": "ሀገር",
+          "t": "hägärə",
+          "gl": ""
+        },
+        {
+          "g": "ወተጸወኑ",
+          "t": "wätäṣäwänu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ህየ",
+          "t": "həyä",
+          "gl": ""
+        },
+        {
+          "g": "ዕደዊሆሙ",
+          "t": "ʿədäwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወአንስቲያሆሙ",
+          "t": "wäʾänəsətiyahomu",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዐበይተ",
+          "t": "ʿäbäyətä",
+          "gl": ""
+        },
+        {
+          "g": "ሀገር",
+          "t": "hägärə",
+          "gl": ""
+        },
+        {
+          "g": "ወዐጸዉ",
+          "t": "wäʿäṣäwu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሆሙ",
+          "t": "laʿəlehomu",
+          "gl": ""
+        },
+        {
+          "g": "ወዐርጉ",
+          "t": "wäʿärəgu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ናሕሰ",
+          "t": "naḥəsä",
+          "gl": ""
+        },
+        {
+          "g": "ማኅፈድ",
+          "t": "maḫəfädə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And there was a strong tower in the midst of the city; and thither all the men and the women of the city fled, and shut the door without them, and went up on the roof of the tower.",
+        "kjv": "But there was a strong tower within the city, and thither fled all the men and women, and all they of the city, and shut it to them, and gat them up to the top of the tower."
+      }
+    },
+    {
+      "num": 52,
+      "geez": "ወሖረ ፡ አቢሜሌክ ፡ ኀበ ፡ ማኅፈድ ፡ ወተቃተልዎ ፡ ወቀርበ ፡ አቢሜሌክ ፡ ኀበ ፡ ኆኅተ ፡ ማኅፈድ ፡ ከመ ፡ ያውዕዮ ፡\n                  በእሳት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሖረ",
+          "t": "wäḥorä",
+          "gl": ""
+        },
+        {
+          "g": "አቢሜሌክ",
+          "t": "ʾäbimelekə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ማኅፈድ",
+          "t": "maḫəfädə",
+          "gl": ""
+        },
+        {
+          "g": "ወተቃተልዎ",
+          "t": "wätäqatäləwo",
+          "gl": ""
+        },
+        {
+          "g": "ወቀርበ",
+          "t": "wäqärəbä",
+          "gl": ""
+        },
+        {
+          "g": "አቢሜሌክ",
+          "t": "ʾäbimelekə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ኆኅተ",
+          "t": "ḫoḫətä",
+          "gl": ""
+        },
+        {
+          "g": "ማኅፈድ",
+          "t": "maḫəfädə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ያውዕዮ",
+          "t": "yawəʿəyo",
+          "gl": ""
+        },
+        {
+          "g": "በእሳት",
+          "t": "bäʾəsatə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Abimelech drew near to the tower, and they besieged it; and Abimelech drew near to the door of the tower to burn it with fire.",
+        "kjv": "And Abimelech came unto the tower, and fought against it, and went hard unto the door of the tower to burn it with fire."
+      }
+    },
+    {
+      "num": 53,
+      "geez": "ወወገረቶ ፡ አሐቲ ፡ ብእሲት ፡ በስባረ ፡ ማሕረጽ ፡ ውስተ ፡ ርእሱ ፡ ለአቢሜሌክ ፡ ወቀጥቀጠቶ ፡ መልታሕቶ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወወገረቶ",
+          "t": "wäwägäräto",
+          "gl": ""
+        },
+        {
+          "g": "አሐቲ",
+          "t": "ʾäḥäti",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲት",
+          "t": "bəʾəsitə",
+          "gl": ""
+        },
+        {
+          "g": "በስባረ",
+          "t": "bäsəbarä",
+          "gl": ""
+        },
+        {
+          "g": "ማሕረጽ",
+          "t": "maḥəräṣə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ርእሱ",
+          "t": "rəʾəsu",
+          "gl": ""
+        },
+        {
+          "g": "ለአቢሜሌክ",
+          "t": "läʾäbimelekə",
+          "gl": ""
+        },
+        {
+          "g": "ወቀጥቀጠቶ",
+          "t": "wäqäṭəqäṭäto",
+          "gl": ""
+        },
+        {
+          "g": "መልታሕቶ",
+          "t": "mälətaḥəto",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And a woman cast a piece of a millstone upon the head of Abimelech, and broke his skull.",
+        "kjv": "And a certain woman cast a piece of a millstone upon Abimelech’s head, and all to brake his skull."
+      }
+    },
+    {
+      "num": 54,
+      "geez": "ወጸርኀ ፡ ፍጡነ ፡ ለቍልዔሁ ፡ ዘይጸውር ፡ ንዋዮ ፡ ወይቤሎ ፡ ምላኅ ፡ መጥባኅተ ፡ ወቅትለኒ ፡ ከመ ፡ ኢይበሉኒ ፡\n                  ብእሲት ፡ ቀተለቶ ፡ ወወግኦ ፡ ቍልዔሁ ፡ ወሞተ ፡ አቢሜሌክ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወጸርኀ",
+          "t": "wäṣärəḫä",
+          "gl": ""
+        },
+        {
+          "g": "ፍጡነ",
+          "t": "fəṭunä",
+          "gl": ""
+        },
+        {
+          "g": "ለቍልዔሁ",
+          "t": "läqwələʿehu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይጸውር",
+          "t": "zäyəṣäwərə",
+          "gl": ""
+        },
+        {
+          "g": "ንዋዮ",
+          "t": "nəwayo",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ምላኅ",
+          "t": "məlaḫə",
+          "gl": ""
+        },
+        {
+          "g": "መጥባኅተ",
+          "t": "mäṭəbaḫətä",
+          "gl": ""
+        },
+        {
+          "g": "ወቅትለኒ",
+          "t": "wäqətəläni",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ኢይበሉኒ",
+          "t": "ʾiyəbäluni",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲት",
+          "t": "bəʾəsitə",
+          "gl": ""
+        },
+        {
+          "g": "ቀተለቶ",
+          "t": "qätäläto",
+          "gl": ""
+        },
+        {
+          "g": "ወወግኦ",
+          "t": "wäwägəʾo",
+          "gl": ""
+        },
+        {
+          "g": "ቍልዔሁ",
+          "t": "qwələʿehu",
+          "gl": ""
+        },
+        {
+          "g": "ወሞተ",
+          "t": "wämotä",
+          "gl": ""
+        },
+        {
+          "g": "አቢሜሌክ",
+          "t": "ʾäbimelekə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he cried out quickly to the young man his armour-bearer, and said to him, Draw thy sword, and slay me, lest at any time they should say, A woman slew him: and his young man thrust him through and he died.",
+        "kjv": "Then he called hastily unto the young man his armourbearer, and said unto him, Draw thy sword, and slay me, that men say not of me, A woman slew him. And his young man thrust him through, and he died."
+      }
+    },
+    {
+      "num": 55,
+      "geez": "ወርእዩ ፡ ሰብአ ፡ እስራኤል ፡ ከመ ፡ ሞተ ፡ አቢሜሌክ ፡ ወአተዉ ፡ ኵሎሙ ፡ በሓውርቲሆሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወርእዩ",
+          "t": "wärəʾəyu",
+          "gl": ""
+        },
+        {
+          "g": "ሰብአ",
+          "t": "säbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ሞተ",
+          "t": "motä",
+          "gl": ""
+        },
+        {
+          "g": "አቢሜሌክ",
+          "t": "ʾäbimelekə",
+          "gl": ""
+        },
+        {
+          "g": "ወአተዉ",
+          "t": "wäʾätäwu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "በሓውርቲሆሙ",
+          "t": "bäḥawərətihomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the men of Israel saw that Abimelech was dead; and they went each to his place.",
+        "kjv": "And when the men of Israel saw that Abimelech was dead, they departed every man unto his place."
+      }
+    },
+    {
+      "num": 56,
+      "geez": "ወፈደዮ ፡ እግዚአብሔር ፡ ለአቢሜሌክ ፡ እኪተ ፡ እንተ ፡ ገብረ ፡ ላዕለ ፡ አቡሁ ፡ ዘቀተለ ፡ ፸አኀዊሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወፈደዮ",
+          "t": "wäfädäyo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለአቢሜሌክ",
+          "t": "läʾäbimelekə",
+          "gl": ""
+        },
+        {
+          "g": "እኪተ",
+          "t": "ʾəkitä",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ገብረ",
+          "t": "gäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "አቡሁ",
+          "t": "ʾäbuhu",
+          "gl": ""
+        },
+        {
+          "g": "ዘቀተለ",
+          "t": "zäqätälä",
+          "gl": ""
+        },
+        {
+          "g": "፸አኀዊሁ",
+          "t": "70ʾäḫäwihu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "So God requited the wickedness of Abimelech, which he wrought against his father, in slaying his seventy brethren.",
+        "kjv": "Thus God rendered the wickedness of Abimelech, which he did unto his father, in slaying his seventy brethren:"
+      }
+    },
+    {
+      "num": 57,
+      "geez": "ወኵሎ ፡ እኪቶሙ ፡ ለሰብአ ፡ ሲቂማ ፡ ፈደዮሙ ፡ እግዚአብሔር ፡ ላዕለ ፡ ርእሶሙ ፡ ወበጽሖሙ ፡ መርገመ ፡ ኢዮአታም ፡\n                  ወልደ ፡ ሮቦዓም ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "እኪቶሙ",
+          "t": "ʾəkitomu",
+          "gl": ""
+        },
+        {
+          "g": "ለሰብአ",
+          "t": "läsäbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሲቂማ",
+          "t": "siqima",
+          "gl": ""
+        },
+        {
+          "g": "ፈደዮሙ",
+          "t": "fädäyomu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ርእሶሙ",
+          "t": "rəʾəsomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበጽሖሙ",
+          "t": "wäbäṣəḥomu",
+          "gl": ""
+        },
+        {
+          "g": "መርገመ",
+          "t": "märəgämä",
+          "gl": ""
+        },
+        {
+          "g": "ኢዮአታም",
+          "t": "ʾiyoʾätamə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "ሮቦዓም",
+          "t": "roboʿamə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And all the wickedness of the men of Sychem God requited upon their head; and the curse of Joatham the son of Jerobaal came upon them.",
+        "kjv": "And all the evil of the men of Shechem did God render upon their heads: and upon them came the curse of Jotham the son of Jerubbaal."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

@@ -1,0 +1,2579 @@
+{
+  "book": "Num",
+  "chapter": 5,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወነበቦ ፡ እግዚአብሔር ፡ ለሙሴ ፡ ወይቤሎ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነበቦ",
+          "t": "wänäbäbo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord spoke to Moses, saying,",
+        "kjv": "And the LORD spake unto Moses, saying,"
+      }
+    },
+    {
+      "num": 2,
+      "geez": "አዝዞሙ ፡ ለደቂቀ ፡ እስራኤል ፡ ከመ ፡ ያውፅኡ ፡ እምውስተ ፡ ትዕይንት ፡ ኵሎ ፡ ዘለምጽ ፡ ወኵሎ ፡ ዘይትከዐዎ ፡\n                  ዘርኡ ፡ ወኵሎ ፡ ዘቦቱ ፡ ርኩሰ ፡ ውስተ ፡ ነፍሱ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "አዝዞሙ",
+          "t": "ʾäzəzomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ያውፅኡ",
+          "t": "yawəṣ́əʾu",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ትዕይንት",
+          "t": "təʿəyənətə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ዘለምጽ",
+          "t": "zäläməṣə",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ዘይትከዐዎ",
+          "t": "zäyətəkäʿäwo",
+          "gl": ""
+        },
+        {
+          "g": "ዘርኡ",
+          "t": "zärəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ዘቦቱ",
+          "t": "zäbotu",
+          "gl": ""
+        },
+        {
+          "g": "ርኩሰ",
+          "t": "rəkusä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ነፍሱ",
+          "t": "näfəsu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Charge the children of Israel, and let them send forth out of the camp every leper, and every one who has an issue of the reins, and every one who is unclean from a dead body.",
+        "kjv": "Command the children of Israel, that they put out of the camp every leper, and every one that hath an issue, and whosoever is defiled by the dead:"
+      }
+    },
+    {
+      "num": 3,
+      "geez": "እምተባዕት ፡ እስከ ፡ አንስቱ ፡ ወያውፅእዎሙ ፡ አፍአ ፡ እምትዕይንት ፡ ወኢያርኵሱ ፡ ተዓይኒሆሙ ፡ ዘውስቴቱ ፡ እመጽእ\n                  ፡ አነ ፡ ኀቤሆሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እምተባዕት",
+          "t": "ʾəmətäbaʿətə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "አንስቱ",
+          "t": "ʾänəsətu",
+          "gl": ""
+        },
+        {
+          "g": "ወያውፅእዎሙ",
+          "t": "wäyawəṣ́əʾəwomu",
+          "gl": ""
+        },
+        {
+          "g": "አፍአ",
+          "t": "ʾäfəʾä",
+          "gl": ""
+        },
+        {
+          "g": "እምትዕይንት",
+          "t": "ʾəmətəʿəyənətə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢያርኵሱ",
+          "t": "wäʾiyarəkwəsu",
+          "gl": ""
+        },
+        {
+          "g": "ተዓይኒሆሙ",
+          "t": "täʿayənihomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘውስቴቱ",
+          "t": "zäwəsətetu",
+          "gl": ""
+        },
+        {
+          "g": "እመጽእ",
+          "t": "ʾəmäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "ኀቤሆሙ",
+          "t": "ḫäbehomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Whether male or female, send them forth out of the camp; and they shall not defile their camps in which I dwell among them.",
+        "kjv": "Both male and female shall ye put out, without the camp shall ye put them; that they defile not their camps, in the midst whereof I dwell."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወገብሩ ፡ ከማሁ ፡ ደቂቀ ፡ እስራኤል ፡ ወአውፅእዎሙ ፡ አፍአ ፡ እምትዕይንት ፡ በከመ ፡ ይቤሎ ፡ እግዚአብሔር ፡ ለሙሴ\n                  ፡ ከማሁ ፡ ገብሩ ፡ ደቂቀ ፡ እስራኤል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወገብሩ",
+          "t": "wägäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ከማሁ",
+          "t": "kämahu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወአውፅእዎሙ",
+          "t": "wäʾäwəṣ́əʾəwomu",
+          "gl": ""
+        },
+        {
+          "g": "አፍአ",
+          "t": "ʾäfəʾä",
+          "gl": ""
+        },
+        {
+          "g": "እምትዕይንት",
+          "t": "ʾəmətəʿəyənətə",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ይቤሎ",
+          "t": "yəbelo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ከማሁ",
+          "t": "kämahu",
+          "gl": ""
+        },
+        {
+          "g": "ገብሩ",
+          "t": "gäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the children of Israel did so, and sent them out of the camp: as the Lord said to Moses, so did the children of Israel.",
+        "kjv": "And the children of Israel did so, and put them out without the camp: as the LORD spake unto Moses, so did the children of Israel."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወነበቦ ፡ እግዚአብሔር ፡ ለሙሴ ፡ ወይቤሎ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነበቦ",
+          "t": "wänäbäbo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord spoke to Moses, saying,",
+        "kjv": "And the LORD spake unto Moses, saying,"
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ንግሮሙ ፡ ለደቂቀ ፡ እስራኤል ፡ ወበሎሙ ፡ እመኒ ፡ ብእሲ ፡ ወእመኒ ፡ ብእሲት ፡ እመቦ ፡ ዘገብረ ፡ እምኵሉ ፡ ኀጣይእ\n                  ፡ ዘይገብር ፡ እጓለ ፡ እመ ፡ ሕያው ፡ ተዐዊሮ ፡ ወእመኒ ፡ በኢያእምሮ ፡ ወነስሐት ፡ ይእቲ ፡ ነፍስ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ንግሮሙ",
+          "t": "nəgəromu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወበሎሙ",
+          "t": "wäbälomu",
+          "gl": ""
+        },
+        {
+          "g": "እመኒ",
+          "t": "ʾəmäni",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ወእመኒ",
+          "t": "wäʾəmäni",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲት",
+          "t": "bəʾəsitə",
+          "gl": ""
+        },
+        {
+          "g": "እመቦ",
+          "t": "ʾəmäbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘገብረ",
+          "t": "zägäbərä",
+          "gl": ""
+        },
+        {
+          "g": "እምኵሉ",
+          "t": "ʾəməkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ኀጣይእ",
+          "t": "ḫäṭayəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ዘይገብር",
+          "t": "zäyəgäbərə",
+          "gl": ""
+        },
+        {
+          "g": "እጓለ",
+          "t": "ʾəgwalä",
+          "gl": ""
+        },
+        {
+          "g": "እመ",
+          "t": "ʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ሕያው",
+          "t": "ḥəyawə",
+          "gl": ""
+        },
+        {
+          "g": "ተዐዊሮ",
+          "t": "täʿäwiro",
+          "gl": ""
+        },
+        {
+          "g": "ወእመኒ",
+          "t": "wäʾəmäni",
+          "gl": ""
+        },
+        {
+          "g": "በኢያእምሮ",
+          "t": "bäʾiyaʾəməro",
+          "gl": ""
+        },
+        {
+          "g": "ወነስሐት",
+          "t": "wänäsəḥätə",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ነፍስ",
+          "t": "näfəsə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Speak to the children of Israel, saying, Every man or woman who shall commit any sin that is common to man, or if that soul shall in anywise have neglected the commandment and transgressed;",
+        "kjv": "Speak unto the children of Israel, When a man or woman shall commit any sin that men commit, to do a trespass against the LORD, and that person be guilty;"
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወአይድዐት ፡ ኀጢአታ ፡ ዘገብረት ፡ ወያገብእ ፡ ዘነስሐ ፡ ርአሰ ፡ ንዋዩ ፡ ወኃምስተ ፡ እዴሁ ፡ ይዌስክ ፡ ላዕሌሁ ፡\n                  ወያገብእ ፡ ለባዕለ ፡ ንዋዩ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአይድዐት",
+          "t": "wäʾäyədəʿätə",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአታ",
+          "t": "ḫäṭiʾäta",
+          "gl": ""
+        },
+        {
+          "g": "ዘገብረት",
+          "t": "zägäbərätə",
+          "gl": ""
+        },
+        {
+          "g": "ወያገብእ",
+          "t": "wäyagäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ዘነስሐ",
+          "t": "zänäsəḥä",
+          "gl": ""
+        },
+        {
+          "g": "ርአሰ",
+          "t": "rəʾäsä",
+          "gl": ""
+        },
+        {
+          "g": "ንዋዩ",
+          "t": "nəwayu",
+          "gl": ""
+        },
+        {
+          "g": "ወኃምስተ",
+          "t": "wäḫaməsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        },
+        {
+          "g": "ይዌስክ",
+          "t": "yəwesəkə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ወያገብእ",
+          "t": "wäyagäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ለባዕለ",
+          "t": "läbaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ንዋዩ",
+          "t": "nəwayu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "that person shall confess the sin which he has committed, and shall make satisfaction for his trespass: he shall pay the principal, and shall add to it the fifth part, and shall make restoration to him against whom he has trespassed.",
+        "kjv": "Then they shall confess their sin which they have done: and he shall recompense his trespass with the principal thereof, and add unto it the fifth part thereof, and give it unto him against whom he hath trespassed."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወእመሰ ፡ አልቦቱ ፡ ሰብአ ፡ ዘየኀሥሦ ፡ ወአልቦ ፡ ኀሣሤ ፡ ዘይትፈደዮ ፡ ለእግዚአብሔር ፡ ውእቱ ፡ ዘንስሓሁ ፡ ወይሁቦ\n                  ፡ ለካህን ፡ ዘእንበለ ፡ በግዕ ፡ ዘቦቱ ፡ ያስተሰሪ ፡ ሎቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "አልቦቱ",
+          "t": "ʾäləbotu",
+          "gl": ""
+        },
+        {
+          "g": "ሰብአ",
+          "t": "säbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ዘየኀሥሦ",
+          "t": "zäyäḫäśəśo",
+          "gl": ""
+        },
+        {
+          "g": "ወአልቦ",
+          "t": "wäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ኀሣሤ",
+          "t": "ḫäśaśe",
+          "gl": ""
+        },
+        {
+          "g": "ዘይትፈደዮ",
+          "t": "zäyətəfädäyo",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘንስሓሁ",
+          "t": "zänəsəḥahu",
+          "gl": ""
+        },
+        {
+          "g": "ወይሁቦ",
+          "t": "wäyəhubo",
+          "gl": ""
+        },
+        {
+          "g": "ለካህን",
+          "t": "läkahənə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእንበለ",
+          "t": "zäʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "በግዕ",
+          "t": "bägəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ዘቦቱ",
+          "t": "zäbotu",
+          "gl": ""
+        },
+        {
+          "g": "ያስተሰሪ",
+          "t": "yasətäsäri",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But if a man have no near kinsman, so as to make satisfaction for his trespass to him, the trespass-offering paid to the Lord shall be for the priest, besides the ram of atonement, by which he shall make atonement with it for him.",
+        "kjv": "But if the man have no kinsman to recompense the trespass unto, let the trespass be recompensed unto the LORD, even to the priest; beside the ram of the atonement, whereby an atonement shall be made for him."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወኵሉ ፡ እምቀዳሚ ፡ ዘያበውኡ ፡ ወኵሉ ፡ ብፅዓቲሆሙ ፡ ለደቂቀ ፡ እስራኤል ፡ ዘያበውኡ ፡ ለእግዚአብሔር ፡ ለካህን ፡\n                  ውእቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "እምቀዳሚ",
+          "t": "ʾəməqädami",
+          "gl": ""
+        },
+        {
+          "g": "ዘያበውኡ",
+          "t": "zäyabäwəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ብፅዓቲሆሙ",
+          "t": "bəṣ́əʿatihomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ዘያበውኡ",
+          "t": "zäyabäwəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለካህን",
+          "t": "läkahənə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And every first-fruits in all the sanctified things among the children of Israel, whatsoever they shall offer to the Lord, shall be for the priest himself.",
+        "kjv": "And every offering of all the holy things of the children of Israel, which they bring unto the priest, shall be his."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወብፅዓቲሁ ፡ ለለ፩ለካህን ፡ ዘተመጠዎ ፡ ሎቱ ፡ ውእቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወብፅዓቲሁ",
+          "t": "wäbəṣ́əʿatihu",
+          "gl": ""
+        },
+        {
+          "g": "ለለ፩ለካህን",
+          "t": "lälä1läkahənə",
+          "gl": ""
+        },
+        {
+          "g": "ዘተመጠዎ",
+          "t": "zätämäṭäwo",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the hallowed things of every man shall be his; and whatever man shall give any thing to the priest, the gift shall be his.",
+        "kjv": "And every man’s hallowed things shall be his: whatsoever any man giveth the priest, it shall be his."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወነበቦ ፡ እግዚአብሔር ፡ ለሙሴ ፡ ወይቤሎ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነበቦ",
+          "t": "wänäbäbo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord spoke to Moses, saying,",
+        "kjv": "And the LORD spake unto Moses, saying,"
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ንግሮሙ ፡ ለደቂቀ ፡ እስራኤል ፡ ወበሎሙ ፡ ብእሲ ፡ ብእሲ ፡ ለእመቦ ፡ ዘአበሰት ፡ ብእሲቱ ፡ ወተዐወረቶ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ንግሮሙ",
+          "t": "nəgəromu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወበሎሙ",
+          "t": "wäbälomu",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ለእመቦ",
+          "t": "läʾəmäbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘአበሰት",
+          "t": "zäʾäbäsätə",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲቱ",
+          "t": "bəʾəsitu",
+          "gl": ""
+        },
+        {
+          "g": "ወተዐወረቶ",
+          "t": "wätäʿäwäräto",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Speak to the children of Israel, and thou shalt say to them, Whosesoever wife shall transgress against him, and slight and despise him,",
+        "kjv": "Speak unto the children of Israel, and say unto them, If any man’s wife go aside, and commit a trespass against him,"
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወቦ ፡ ዘሰክበ ፡ ምስሌሃ ፡ ተዐዊራ ፡ ወዘመወት ፡ ወኢያእመረ ፡ ምታ ፡ ወኀብአት ፡ እምኔሁ ፡ እንዘ ፡ ርኵስት ፡ ይእቲ\n                  ፡ ወአልቦቱ ፡ ስምዐ ፡ ዘይዛለፋ ፡ ወእመኒ ፡ ንጽሕት ፡ ይእቲ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወቦ",
+          "t": "wäbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘሰክበ",
+          "t": "zäsäkəbä",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሃ",
+          "t": "məsəleha",
+          "gl": ""
+        },
+        {
+          "g": "ተዐዊራ",
+          "t": "täʿäwira",
+          "gl": ""
+        },
+        {
+          "g": "ወዘመወት",
+          "t": "wäzämäwätə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢያእመረ",
+          "t": "wäʾiyaʾəmärä",
+          "gl": ""
+        },
+        {
+          "g": "ምታ",
+          "t": "məta",
+          "gl": ""
+        },
+        {
+          "g": "ወኀብአት",
+          "t": "wäḫäbəʾätə",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ርኵስት",
+          "t": "rəkwəsətə",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ወአልቦቱ",
+          "t": "wäʾäləbotu",
+          "gl": ""
+        },
+        {
+          "g": "ስምዐ",
+          "t": "səməʿä",
+          "gl": ""
+        },
+        {
+          "g": "ዘይዛለፋ",
+          "t": "zäyəzaläfa",
+          "gl": ""
+        },
+        {
+          "g": "ወእመኒ",
+          "t": "wäʾəmäni",
+          "gl": ""
+        },
+        {
+          "g": "ንጽሕት",
+          "t": "nəṣəḥətə",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and supposing any one shall lie with her carnally, and the thing shall be hid from the eyes of her husband, and she should conceal it and be herself defiled, and there be no witness with her, and she should not be taken;",
+        "kjv": "And a man lie with her carnally, and it be hid from the eyes of her husband, and be kept close, and she be defiled, and there be no witness against her, neither she be taken with the manner;"
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወመጽአ ፡ ላዕሌሁ ፡ መንፈሰ ፡ ቀንእ ፡ ወቀንአ ፡ ላዕለ ፡ ብእሲቱ ፡ እንዘ ፡ ርኵስት ፡ ይእቲ ፡ ወእመኒ ፡ እንዘ ፡\n                  ኢኮነት ፡ ርኵስተ ፡ ወመጽአ ፡ ላዕሌሁ ፡ መንፈሰ ፡ ቀንእ ፡ ወቀንአ ፡ ላዕለ ፡ ብእሲቱ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወመጽአ",
+          "t": "wämäṣəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "መንፈሰ",
+          "t": "mänəfäsä",
+          "gl": ""
+        },
+        {
+          "g": "ቀንእ",
+          "t": "qänəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወቀንአ",
+          "t": "wäqänəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲቱ",
+          "t": "bəʾəsitu",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ርኵስት",
+          "t": "rəkwəsətə",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ወእመኒ",
+          "t": "wäʾəmäni",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ኢኮነት",
+          "t": "ʾikonätə",
+          "gl": ""
+        },
+        {
+          "g": "ርኵስተ",
+          "t": "rəkwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ወመጽአ",
+          "t": "wämäṣəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "መንፈሰ",
+          "t": "mänəfäsä",
+          "gl": ""
+        },
+        {
+          "g": "ቀንእ",
+          "t": "qänəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወቀንአ",
+          "t": "wäqänəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲቱ",
+          "t": "bəʾəsitu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and there should come upon him a spirit of jealousy, and he should be jealous of his wife, and she be defiled; or there should come upon him a spirit of jealousy, and he should be jealous of his wife, and she should not be defiled;",
+        "kjv": "And the spirit of jealousy come upon him, and he be jealous of his wife, and she be defiled: or if the spirit of jealousy come upon him, and he be jealous of his wife, and she be not defiled:"
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ያመጽኣ ፡ ውእቱ ፡ ብእሲ ፡ ለብእሲቱ ፡ ኀበ ፡ ካህን ፡ ወያመጽእ ፡ ቍርባኖ ፡ በእንቲአሃ ፡ ዓሥርተ ፡ እዴሃ ፡\n                  ለመስፈርተ ፡ ኢፍ ፡ ሐሪጸ ፡ ስገም ፡ ወኢይሰውጥ ፡ ላዕሌሁ ፡ ቅብአ ፡ ወኢይወዲ ፡ ዲቤሁ ፡ ስኂነ ፡ እስመ ፡ መሥዋዕተ ፡\n                  ሕገ ፡ ቀንእ ፡ ውእቱ ፡ መሥዋዕተ ፡ ተዝካር ፡ ዘያዜክር ፡ ኀጢአተ ፡ ውእቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ያመጽኣ",
+          "t": "yamäṣəʾa",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ለብእሲቱ",
+          "t": "läbəʾəsitu",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ወያመጽእ",
+          "t": "wäyamäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ቍርባኖ",
+          "t": "qwərəbano",
+          "gl": ""
+        },
+        {
+          "g": "በእንቲአሃ",
+          "t": "bäʾənətiʾäha",
+          "gl": ""
+        },
+        {
+          "g": "ዓሥርተ",
+          "t": "ʿaśərətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሃ",
+          "t": "ʾədeha",
+          "gl": ""
+        },
+        {
+          "g": "ለመስፈርተ",
+          "t": "lämäsəfärətä",
+          "gl": ""
+        },
+        {
+          "g": "ኢፍ",
+          "t": "ʾifə",
+          "gl": ""
+        },
+        {
+          "g": "ሐሪጸ",
+          "t": "ḥäriṣä",
+          "gl": ""
+        },
+        {
+          "g": "ስገም",
+          "t": "səgämə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይሰውጥ",
+          "t": "wäʾiyəsäwəṭə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ቅብአ",
+          "t": "qəbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይወዲ",
+          "t": "wäʾiyəwädi",
+          "gl": ""
+        },
+        {
+          "g": "ዲቤሁ",
+          "t": "dibehu",
+          "gl": ""
+        },
+        {
+          "g": "ስኂነ",
+          "t": "səḫinä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕተ",
+          "t": "mäśəwaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "ሕገ",
+          "t": "ḥəgä",
+          "gl": ""
+        },
+        {
+          "g": "ቀንእ",
+          "t": "qänəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕተ",
+          "t": "mäśəwaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "ተዝካር",
+          "t": "täzəkarə",
+          "gl": ""
+        },
+        {
+          "g": "ዘያዜክር",
+          "t": "zäyazekərə",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአተ",
+          "t": "ḫäṭiʾätä",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "then shall the man bring his wife to the priest, and shall bring his gift for her, the tenth part of an ephah of barley-meal: he shall not pour oil upon it, neither shall he put frankincense upon it; for it is a sacrifice of jealousy, a sacrifice of memorial, recalling sin to remembrance.",
+        "kjv": "Then shall the man bring his wife unto the priest, and he shall bring her offering for her, the tenth part of an ephah of barley meal; he shall pour no oil upon it, nor put frankincense thereon; for it is an offering of jealousy, an offering of memorial, bringing iniquity to remembrance."
+      }
+    },
+    {
+      "num": 16,
+      "geez": "ወያመጽኣ ፡ ኀበ ፡ ካህን ፡ ወያቀውማ ፡ ቅድመ ፡ እግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያመጽኣ",
+          "t": "wäyamäṣəʾa",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ወያቀውማ",
+          "t": "wäyaqäwəma",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the priest shall bring her, and cause her to stand before the Lord.",
+        "kjv": "And the priest shall bring her near, and set her before the LORD:"
+      }
+    },
+    {
+      "num": 17,
+      "geez": "ወይነሥእ ፡ ካህን ፡ ማየ ፡ ጥዑም ፡ ንጹሐ ፡ በግምዔ ፡ ልሕኵት ፡ ወይነሥእ ፡ ካህን ፡ መሬተ ፡ እምውስተ ፡ ደብተራ ፡\n                  ዘመርጡል ፡ እምነ ፡ ምድሩ ፡ ወይወድዮ ፡ ውስተ ፡ ውእቱ ፡ ማይ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይነሥእ",
+          "t": "wäyənäśəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ማየ",
+          "t": "mayä",
+          "gl": ""
+        },
+        {
+          "g": "ጥዑም",
+          "t": "ṭəʿumə",
+          "gl": ""
+        },
+        {
+          "g": "ንጹሐ",
+          "t": "nəṣuḥä",
+          "gl": ""
+        },
+        {
+          "g": "በግምዔ",
+          "t": "bägəməʿe",
+          "gl": ""
+        },
+        {
+          "g": "ልሕኵት",
+          "t": "ləḥəkwətə",
+          "gl": ""
+        },
+        {
+          "g": "ወይነሥእ",
+          "t": "wäyənäśəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "መሬተ",
+          "t": "märetä",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ደብተራ",
+          "t": "däbətära",
+          "gl": ""
+        },
+        {
+          "g": "ዘመርጡል",
+          "t": "zämärəṭulə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ምድሩ",
+          "t": "mədəru",
+          "gl": ""
+        },
+        {
+          "g": "ወይወድዮ",
+          "t": "wäyəwädəyo",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ማይ",
+          "t": "mayə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the priest shall take pure running water in an earthen vessel, and he shall take of the dust that is on the floor of the tabernacle of witness, and the priest having taken it shall cast it into the water.",
+        "kjv": "And the priest shall take holy water in an earthen vessel; and of the dust that is in the floor of the tabernacle the priest shall take, and put it into the water:"
+      }
+    },
+    {
+      "num": 18,
+      "geez": "ወያቀውማ ፡ ካህን ፡ ለይእቲ ፡ ብእሲት ፡ ቅድመ ፡ እግዚአብሔር ፡ ወይከሥታ ፡ ርእሳ ፡ ለይእቲ ፡ ብእሲት ፡ ወይሜጥዋ ፡\n                  ውስተ ፡ እዴሃ ፡ ዝክተ ፡ መሥዋዕተ ፡ ተዝካር ፡ መሥዋዕተ ፡ ዘሕገ ፡ ቀንእ ፡ ወውስተ ፡ እዴሁሰ ፡ ለካህን ፡ ዝክቱ ፡ ማየ\n                  ፡ ዘለፋ ፡ ዘርጉም ፡ ውእቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያቀውማ",
+          "t": "wäyaqäwəma",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ለይእቲ",
+          "t": "läyəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲት",
+          "t": "bəʾəsitə",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወይከሥታ",
+          "t": "wäyəkäśəta",
+          "gl": ""
+        },
+        {
+          "g": "ርእሳ",
+          "t": "rəʾəsa",
+          "gl": ""
+        },
+        {
+          "g": "ለይእቲ",
+          "t": "läyəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲት",
+          "t": "bəʾəsitə",
+          "gl": ""
+        },
+        {
+          "g": "ወይሜጥዋ",
+          "t": "wäyəmeṭəwa",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሃ",
+          "t": "ʾədeha",
+          "gl": ""
+        },
+        {
+          "g": "ዝክተ",
+          "t": "zəkətä",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕተ",
+          "t": "mäśəwaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "ተዝካር",
+          "t": "täzəkarə",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕተ",
+          "t": "mäśəwaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "ዘሕገ",
+          "t": "zäḥəgä",
+          "gl": ""
+        },
+        {
+          "g": "ቀንእ",
+          "t": "qänəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወውስተ",
+          "t": "wäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁሰ",
+          "t": "ʾədehusä",
+          "gl": ""
+        },
+        {
+          "g": "ለካህን",
+          "t": "läkahənə",
+          "gl": ""
+        },
+        {
+          "g": "ዝክቱ",
+          "t": "zəkətu",
+          "gl": ""
+        },
+        {
+          "g": "ማየ",
+          "t": "mayä",
+          "gl": ""
+        },
+        {
+          "g": "ዘለፋ",
+          "t": "zäläfa",
+          "gl": ""
+        },
+        {
+          "g": "ዘርጉም",
+          "t": "zärəgumə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the priest shall cause the woman to stand before the Lord, and shall uncover the head of the woman, and shall put into her hands the sacrifice of memorial, the sacrifice of jealousy; and in the hand of the priest shall be the water of this conviction that brings the curse.",
+        "kjv": "And the priest shall set the woman before the LORD, and uncover the woman’s head, and put the offering of memorial in her hands, which is the jealousy offering: and the priest shall have in his hand the bitter water that causeth the curse:"
+      }
+    },
+    {
+      "num": 19,
+      "geez": "ወያምሕላ ፡ ካህን ፡ ለይእቲ ፡ ብእሲት ፡ ወይብላ ፡ ለእመ ፡ አልቦ ፡ ዘሰከበ ፡ ምስሌኪ ፡ ወኢተዐወርኪ ፡ ምተኪ ፡\n                  ወኢገመንኪ ፡ ርእሰኪ ፡ ንጽሕተ ፡ ኩኒ ፡ እምነ ፡ ዝንቱ ፡ ማየ ፡ ዘለፋ ፡ ዘርጉም ፡ ውእቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያምሕላ",
+          "t": "wäyaməḥəla",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ለይእቲ",
+          "t": "läyəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲት",
+          "t": "bəʾəsitə",
+          "gl": ""
+        },
+        {
+          "g": "ወይብላ",
+          "t": "wäyəbəla",
+          "gl": ""
+        },
+        {
+          "g": "ለእመ",
+          "t": "läʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "አልቦ",
+          "t": "ʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘሰከበ",
+          "t": "zäsäkäbä",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌኪ",
+          "t": "məsəleki",
+          "gl": ""
+        },
+        {
+          "g": "ወኢተዐወርኪ",
+          "t": "wäʾitäʿäwärəki",
+          "gl": ""
+        },
+        {
+          "g": "ምተኪ",
+          "t": "mətäki",
+          "gl": ""
+        },
+        {
+          "g": "ወኢገመንኪ",
+          "t": "wäʾigämänəki",
+          "gl": ""
+        },
+        {
+          "g": "ርእሰኪ",
+          "t": "rəʾəsäki",
+          "gl": ""
+        },
+        {
+          "g": "ንጽሕተ",
+          "t": "nəṣəḥətä",
+          "gl": ""
+        },
+        {
+          "g": "ኩኒ",
+          "t": "kuni",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ማየ",
+          "t": "mayä",
+          "gl": ""
+        },
+        {
+          "g": "ዘለፋ",
+          "t": "zäläfa",
+          "gl": ""
+        },
+        {
+          "g": "ዘርጉም",
+          "t": "zärəgumə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the priest shall adjure her, and shall say to the woman, If no one has lain with thee, and if thou hast not transgressed so as to be polluted, being under the power of thy husband, be free from this water of the conviction that causes the curse.",
+        "kjv": "And the priest shall charge her by an oath, and say unto the woman, If no man have lain with thee, and if thou hast not gone aside to uncleanness with another instead of thy husband, be thou free from this bitter water that causeth the curse:"
+      }
+    },
+    {
+      "num": 20,
+      "geez": "ወእመሰ ፡ ተዐወርኪ ፡ ምተኪ ፡ ወገመንኪ ፡ ርእሰኪ ፡ ወቦቱ ፡ ዘሰክበ ፡ ምስሌኪ ፡ ባዕድ ፡ ዘእንበለ ፡ ምትኪ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "ተዐወርኪ",
+          "t": "täʿäwärəki",
+          "gl": ""
+        },
+        {
+          "g": "ምተኪ",
+          "t": "mətäki",
+          "gl": ""
+        },
+        {
+          "g": "ወገመንኪ",
+          "t": "wägämänəki",
+          "gl": ""
+        },
+        {
+          "g": "ርእሰኪ",
+          "t": "rəʾəsäki",
+          "gl": ""
+        },
+        {
+          "g": "ወቦቱ",
+          "t": "wäbotu",
+          "gl": ""
+        },
+        {
+          "g": "ዘሰክበ",
+          "t": "zäsäkəbä",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌኪ",
+          "t": "məsəleki",
+          "gl": ""
+        },
+        {
+          "g": "ባዕድ",
+          "t": "baʿədə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእንበለ",
+          "t": "zäʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "ምትኪ",
+          "t": "mətəki",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But if being a married woman thou hast transgressed, or been polluted, and any one has lain with thee, beside thy husband:",
+        "kjv": "But if thou hast gone aside to another instead of thy husband, and if thou be defiled, and some man have lain with thee beside thine husband:"
+      }
+    },
+    {
+      "num": 21,
+      "geez": "ወያምሕላ ፡ ካህን ፡ ለይእቲ ፡ ብእሲት ፡ በዝንቱ ፡ መሐላ ፡ ዘመርገም ፡ ወይብላ ፡ ካህን ፡ ለይእቲ ፡ ብእሲት ፡\n                  ርግምተ ፡ ለይረሲኪ ፡ እግዚአብሔር ፡ ወይደምስስኪ ፡ እምነ ፡ ማእከለ ፡ ሕዝብ[ኪ] ፡ ከመ ፡ ያውድቆ ፡ እግዚአብሔር ፡\n                  ለገቦኪ ፡ ወይሥራ ፡ ለከርሥኪ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያምሕላ",
+          "t": "wäyaməḥəla",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ለይእቲ",
+          "t": "läyəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲት",
+          "t": "bəʾəsitə",
+          "gl": ""
+        },
+        {
+          "g": "በዝንቱ",
+          "t": "bäzənətu",
+          "gl": ""
+        },
+        {
+          "g": "መሐላ",
+          "t": "mäḥäla",
+          "gl": ""
+        },
+        {
+          "g": "ዘመርገም",
+          "t": "zämärəgämə",
+          "gl": ""
+        },
+        {
+          "g": "ወይብላ",
+          "t": "wäyəbəla",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ለይእቲ",
+          "t": "läyəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲት",
+          "t": "bəʾəsitə",
+          "gl": ""
+        },
+        {
+          "g": "ርግምተ",
+          "t": "rəgəmətä",
+          "gl": ""
+        },
+        {
+          "g": "ለይረሲኪ",
+          "t": "läyəräsiki",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወይደምስስኪ",
+          "t": "wäyədäməsəsəki",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ማእከለ",
+          "t": "maʾəkälä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብኪ",
+          "t": "ḥəzəbəki",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ያውድቆ",
+          "t": "yawədəqo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለገቦኪ",
+          "t": "lägäboki",
+          "gl": ""
+        },
+        {
+          "g": "ወይሥራ",
+          "t": "wäyəśəra",
+          "gl": ""
+        },
+        {
+          "g": "ለከርሥኪ",
+          "t": "läkärəśəki",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "then the priest shall adjure the woman by the oaths of this curse, and the priest shall say to the woman, The Lord bring thee into a curse and under an oath in the midst of thy people, in that the Lord should cause thy thigh to rot and thy belly to swell;",
+        "kjv": "Then the priest shall charge the woman with an oath of cursing, and the priest shall say unto the woman, The LORD make thee a curse and an oath among thy people, when the LORD doth make thy thigh to rot, and thy belly to swell;"
+      }
+    },
+    {
+      "num": 22,
+      "geez": "ወይባእ ፡ ዝንቱ ፡ ማይ ፡ ርጉም ፡ ውስተ ፡ ከርሥኪ ፡ ወይሥራ ፡ ለማኅፀንኪ ፡ ወይደቀ ፡ ገቦኪ ፡ ወትብል ፡ ይእቲ ፡\n                  ብእሲት ፡ አሜን ፡ ወአሜን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይባእ",
+          "t": "wäyəbaʾə",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ማይ",
+          "t": "mayə",
+          "gl": ""
+        },
+        {
+          "g": "ርጉም",
+          "t": "rəgumə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ከርሥኪ",
+          "t": "kärəśəki",
+          "gl": ""
+        },
+        {
+          "g": "ወይሥራ",
+          "t": "wäyəśəra",
+          "gl": ""
+        },
+        {
+          "g": "ለማኅፀንኪ",
+          "t": "lämaḫəṣ́änəki",
+          "gl": ""
+        },
+        {
+          "g": "ወይደቀ",
+          "t": "wäyədäqä",
+          "gl": ""
+        },
+        {
+          "g": "ገቦኪ",
+          "t": "gäboki",
+          "gl": ""
+        },
+        {
+          "g": "ወትብል",
+          "t": "wätəbələ",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲት",
+          "t": "bəʾəsitə",
+          "gl": ""
+        },
+        {
+          "g": "አሜን",
+          "t": "ʾämenə",
+          "gl": ""
+        },
+        {
+          "g": "ወአሜን",
+          "t": "wäʾämenə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and this water bringing the curse shall enter into thy womb to cause thy belly to swell, and thy thigh to rot. And the woman shall say, So be it, So be it.",
+        "kjv": "And this water that causeth the curse shall go into thy bowels, to make thy belly to swell, and thy thigh to rot: And the woman shall say, Amen, amen."
+      }
+    },
+    {
+      "num": 23,
+      "geez": "ወይጽሕፎ ፡ ካህን ፡ ለዝንቱ ፡ መርገም ፡ ውስተ ፡ መጽሐፍ ፡ ወየኀፅቦ ፡ በውስተ ፡ ማየ ፡ ዘለፋ ፡ ዘርጉም ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይጽሕፎ",
+          "t": "wäyəṣəḥəfo",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ለዝንቱ",
+          "t": "läzənətu",
+          "gl": ""
+        },
+        {
+          "g": "መርገም",
+          "t": "märəgämə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "መጽሐፍ",
+          "t": "mäṣəḥäfə",
+          "gl": ""
+        },
+        {
+          "g": "ወየኀፅቦ",
+          "t": "wäyäḫäṣ́əbo",
+          "gl": ""
+        },
+        {
+          "g": "በውስተ",
+          "t": "bäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ማየ",
+          "t": "mayä",
+          "gl": ""
+        },
+        {
+          "g": "ዘለፋ",
+          "t": "zäläfa",
+          "gl": ""
+        },
+        {
+          "g": "ዘርጉም",
+          "t": "zärəgumə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the priest shall write these curses in a book, and shall blot them out with the water of the conviction that brings the curse.",
+        "kjv": "And the priest shall write these curses in a book, and he shall blot them out with the bitter water:"
+      }
+    },
+    {
+      "num": 24,
+      "geez": "ወይበውእ ፡ ውእቱ ፡ ማየ ፡ ዘለፋ ፡ ዘርጉም ፡ ውስተ ፡ ከርሣ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይበውእ",
+          "t": "wäyəbäwəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ማየ",
+          "t": "mayä",
+          "gl": ""
+        },
+        {
+          "g": "ዘለፋ",
+          "t": "zäläfa",
+          "gl": ""
+        },
+        {
+          "g": "ዘርጉም",
+          "t": "zärəgumə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ከርሣ",
+          "t": "kärəśa",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he shall cause the woman to drink the water of the conviction that brings the curse; and the water of the conviction that brings the curse shall enter into her.",
+        "kjv": "And he shall cause the woman to drink the bitter water that causeth the curse: and the water that causeth the curse shall enter into her, and become bitter."
+      }
+    },
+    {
+      "num": 25,
+      "geez": "ወይትሜጠው ፡ ካህን ፡ እምውስተ ፡ እዴሃ ፡ ዝክተ ፡ መሥዋዕተ ፡ ቀንእ ፡ ወያነብሮ ፡ ለውእቱ ፡ መሥዋዕት ፡ ቅድመ ፡\n                  እግዚአብሔር ፡ ወያበው[ኦ] ፡ ኀበ ፡ ምሥዋዕ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይትሜጠው",
+          "t": "wäyətəmeṭäwə",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሃ",
+          "t": "ʾədeha",
+          "gl": ""
+        },
+        {
+          "g": "ዝክተ",
+          "t": "zəkətä",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕተ",
+          "t": "mäśəwaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "ቀንእ",
+          "t": "qänəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወያነብሮ",
+          "t": "wäyanäbəro",
+          "gl": ""
+        },
+        {
+          "g": "ለውእቱ",
+          "t": "läwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕት",
+          "t": "mäśəwaʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወያበውኦ",
+          "t": "wäyabäwəʾo",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ምሥዋዕ",
+          "t": "məśəwaʿə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the priest shall take from the hand of the woman the sacrifice of jealousy, and shall present the sacrifice before the Lord, and shall bring it to the altar.",
+        "kjv": "Then the priest shall take the jealousy offering out of the woman’s hand, and shall wave the offering before the LORD, and offer it upon the altar:"
+      }
+    },
+    {
+      "num": 26,
+      "geez": "ወይዘግን ፡ ካህን ፡ እምውስተ ፡ ውእቱ ፡ መሥዋዕ[ት] ፡ ዝክራ ፡ ወይወድዮ ፡ ውስተ ፡ ምሥዋዕ ፡ ወእምድኅረ ፡ ዝንቱ ፡\n                  ያሰትያ ፡ ለይእቲ ፡ ብእሲት ፡ ውእተ ፡ ማየ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይዘግን",
+          "t": "wäyəzägənə",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕት",
+          "t": "mäśəwaʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ዝክራ",
+          "t": "zəkəra",
+          "gl": ""
+        },
+        {
+          "g": "ወይወድዮ",
+          "t": "wäyəwädəyo",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምሥዋዕ",
+          "t": "məśəwaʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምድኅረ",
+          "t": "wäʾəmədəḫərä",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ያሰትያ",
+          "t": "yasätəya",
+          "gl": ""
+        },
+        {
+          "g": "ለይእቲ",
+          "t": "läyəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲት",
+          "t": "bəʾəsitə",
+          "gl": ""
+        },
+        {
+          "g": "ውእተ",
+          "t": "wəʾətä",
+          "gl": ""
+        },
+        {
+          "g": "ማየ",
+          "t": "mayä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the priest shall take a handful of the sacrifice as a memorial of it, and shall offer it up upon the altar; and afterwards he shall cause the woman to drink the water.",
+        "kjv": "And the priest shall take an handful of the offering, even the memorial thereof, and burn it upon the altar, and afterward shall cause the woman to drink the water."
+      }
+    },
+    {
+      "num": 27,
+      "geez": "ወለእመ ፡ ገመነት ፡ ርእሳ ፡ ወተዐወረቶ ፡ ለምታ ፡ ይበውእ ፡ ውእቱ ፡ ማየ ፡ ዘለፋ ፡ ዘርጉም ፡ ውስተ ፡ ከርሣ ፡\n                  ወይወሥራ ፡ ለከርሣ ፡ ወይወድቅ ፡ ገቦሃ ፡ ወትከውን ፡ ይእቲ ፡ ብእሲት ፡ መርገመ ፡ ውስተ ፡ ሕዝባ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለእመ",
+          "t": "wäläʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ገመነት",
+          "t": "gämänätə",
+          "gl": ""
+        },
+        {
+          "g": "ርእሳ",
+          "t": "rəʾəsa",
+          "gl": ""
+        },
+        {
+          "g": "ወተዐወረቶ",
+          "t": "wätäʿäwäräto",
+          "gl": ""
+        },
+        {
+          "g": "ለምታ",
+          "t": "läməta",
+          "gl": ""
+        },
+        {
+          "g": "ይበውእ",
+          "t": "yəbäwəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ማየ",
+          "t": "mayä",
+          "gl": ""
+        },
+        {
+          "g": "ዘለፋ",
+          "t": "zäläfa",
+          "gl": ""
+        },
+        {
+          "g": "ዘርጉም",
+          "t": "zärəgumə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ከርሣ",
+          "t": "kärəśa",
+          "gl": ""
+        },
+        {
+          "g": "ወይወሥራ",
+          "t": "wäyəwäśəra",
+          "gl": ""
+        },
+        {
+          "g": "ለከርሣ",
+          "t": "läkärəśa",
+          "gl": ""
+        },
+        {
+          "g": "ወይወድቅ",
+          "t": "wäyəwädəqə",
+          "gl": ""
+        },
+        {
+          "g": "ገቦሃ",
+          "t": "gäboha",
+          "gl": ""
+        },
+        {
+          "g": "ወትከውን",
+          "t": "wätəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲት",
+          "t": "bəʾəsitə",
+          "gl": ""
+        },
+        {
+          "g": "መርገመ",
+          "t": "märəgämä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝባ",
+          "t": "ḥəzəba",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it shall come to pass, if she be defiled, and have altogether escaped the notice of her husband, then the water of the conviction that brings the curse shall enter into her; and she shall swell in her belly, and her thigh shall rot, and the woman shall be for a curse in the midst of her people.",
+        "kjv": "And when he hath made her to drink the water, then it shall come to pass, that, if she be defiled, and have done trespass against her husband, that the water that causeth the curse shall enter into her, and become bitter, and her belly shall swell, and her thigh shall rot: and the woman shall be a curse among her people."
+      }
+    },
+    {
+      "num": 28,
+      "geez": "ወእመሰ ፡ አገመነት ፡ ርእሳ ፡ ወንጽሕት ፡ ይእቲ ፡ ያነጽሓ ፡ ወዘርአ ፡ ይከውና ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "አገመነት",
+          "t": "ʾägämänätə",
+          "gl": ""
+        },
+        {
+          "g": "ርእሳ",
+          "t": "rəʾəsa",
+          "gl": ""
+        },
+        {
+          "g": "ወንጽሕት",
+          "t": "wänəṣəḥətə",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "ያነጽሓ",
+          "t": "yanäṣəḥa",
+          "gl": ""
+        },
+        {
+          "g": "ወዘርአ",
+          "t": "wäzärəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ይከውና",
+          "t": "yəkäwəna",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But if the woman have not been polluted, and be clean, then shall she be guiltless and shall conceive seed.",
+        "kjv": "And if the woman be not defiled, but be clean; then she shall be free, and shall conceive seed."
+      }
+    },
+    {
+      "num": 29,
+      "geez": "ዝንቱ ፡ ሕገ ፡ ቀንእ ፡ ለብእሲት ፡ እንተ ፡ አበሰት ፡ ላዕለ ፡ ምታ ፡ ወገመነት ፡ ርእሳ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ሕገ",
+          "t": "ḥəgä",
+          "gl": ""
+        },
+        {
+          "g": "ቀንእ",
+          "t": "qänəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ለብእሲት",
+          "t": "läbəʾəsitə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "አበሰት",
+          "t": "ʾäbäsätə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ምታ",
+          "t": "məta",
+          "gl": ""
+        },
+        {
+          "g": "ወገመነት",
+          "t": "wägämänätə",
+          "gl": ""
+        },
+        {
+          "g": "ርእሳ",
+          "t": "rəʾəsa",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "This is the law of jealousy, wherein a married woman should happen to transgress, and be defiled;",
+        "kjv": "This is the law of jealousies, when a wife goeth aside to another instead of her husband, and is defiled;"
+      }
+    },
+    {
+      "num": 30,
+      "geez": "ወለብእሲኒ ፡ ዘመጽአ ፡ ላዕሌሁ ፡ መንፈሰ ፡ ቀንእ ፡ ወቀንአ ፡ ላዕለ ፡ ብእሲቱ ፡ ወያቀውማ ፡ ለብእሲቱ ፡ ቅድመ ፡\n                  እግዚአብሔር ፡ ወይገብር ፡ ላቲ ፡ ካህን ፡ ኵሎ ፡ [ዘንተ ፡ ሕገ] ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለብእሲኒ",
+          "t": "wäläbəʾəsini",
+          "gl": ""
+        },
+        {
+          "g": "ዘመጽአ",
+          "t": "zämäṣəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "መንፈሰ",
+          "t": "mänəfäsä",
+          "gl": ""
+        },
+        {
+          "g": "ቀንእ",
+          "t": "qänəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወቀንአ",
+          "t": "wäqänəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲቱ",
+          "t": "bəʾəsitu",
+          "gl": ""
+        },
+        {
+          "g": "ወያቀውማ",
+          "t": "wäyaqäwəma",
+          "gl": ""
+        },
+        {
+          "g": "ለብእሲቱ",
+          "t": "läbəʾəsitu",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወይገብር",
+          "t": "wäyəgäbərə",
+          "gl": ""
+        },
+        {
+          "g": "ላቲ",
+          "t": "lati",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ዘንተ",
+          "t": "zänətä",
+          "gl": ""
+        },
+        {
+          "g": "ሕገ",
+          "t": "ḥəgä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "or in the case of a man on whomsoever the spirit of jealousy should come, and he should be jealous of his wife, and he should place his wife before the Lord, and the priest shall execute towards her all this law.",
+        "kjv": "Or when the spirit of jealousy cometh upon him, and he be jealous over his wife, and shall set the woman before the LORD, and the priest shall execute upon her all this law."
+      }
+    },
+    {
+      "num": 31,
+      "geez": "ወንጹሕ ፡ ውእቱ ፡ ብእሲ ፡ እምነ ፡ ኀጢአት ፡ ወይእቲሰ ፡ ብእሲት ፡ ትነሥእ ፡ ኀጢአታ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወንጹሕ",
+          "t": "wänəṣuḥə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአት",
+          "t": "ḫäṭiʾätə",
+          "gl": ""
+        },
+        {
+          "g": "ወይእቲሰ",
+          "t": "wäyəʾətisä",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲት",
+          "t": "bəʾəsitə",
+          "gl": ""
+        },
+        {
+          "g": "ትነሥእ",
+          "t": "tənäśəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአታ",
+          "t": "ḫäṭiʾäta",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Then the man shall be clear from sin, and that woman shall bear her sin.",
+        "kjv": "Then shall the man be guiltless from iniquity, and this woman shall bear her iniquity."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

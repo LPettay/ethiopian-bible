@@ -1,0 +1,3008 @@
+{
+  "book": "Jdt",
+  "chapter": 7,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወበሳኒታ፡ አዘዘ፡ ሆሎፎርኒስ፡ ለኵሉ፡ ሐራሁ፡ ወለኵሉ፡ ሕዝቡ፡ እለ፡ ፀብዑ፡ ምስሌሁ፡ ከመ፡ ይግዓዙ፡ ቤጤልዋ፡ ወይሑሩ፡ ይቅድሙ፡ ውስተ፡ ፍትሐታተ፡ አድባር፡ ወይትቃተልዎሙ፡ ለደቂቀ፡ እስራኤል።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበሳኒታ",
+          "t": "wäbäsanita",
+          "gl": ""
+        },
+        {
+          "g": "አዘዘ",
+          "t": "ʾäzäzä",
+          "gl": ""
+        },
+        {
+          "g": "ሆሎፎርኒስ",
+          "t": "holoforənisə",
+          "gl": ""
+        },
+        {
+          "g": "ለኵሉ",
+          "t": "läkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ሐራሁ",
+          "t": "ḥärahu",
+          "gl": ""
+        },
+        {
+          "g": "ወለኵሉ",
+          "t": "wäläkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝቡ",
+          "t": "ḥəzəbu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ፀብዑ",
+          "t": "ṣ́äbəʿu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌሁ",
+          "t": "məsəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይግዓዙ",
+          "t": "yəgəʿazu",
+          "gl": ""
+        },
+        {
+          "g": "ቤጤልዋ",
+          "t": "beṭeləwa",
+          "gl": ""
+        },
+        {
+          "g": "ወይሑሩ",
+          "t": "wäyəḥuru",
+          "gl": ""
+        },
+        {
+          "g": "ይቅድሙ",
+          "t": "yəqədəmu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ፍትሐታተ",
+          "t": "fətəḥätatä",
+          "gl": ""
+        },
+        {
+          "g": "አድባር",
+          "t": "ʾädəbarə",
+          "gl": ""
+        },
+        {
+          "g": "ወይትቃተልዎሙ",
+          "t": "wäyətəqatäləwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The next day Holofernes commanded all his army, and all his people which were come to take his part, that they should remove their camp against Bethulia, to take aforehand the ascents of the hill country, and to make war against the children of Israel."
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ወወረዱ፡ ይእተ፡ አሚረ፡ ኵሉ፡ ብእሲ፡ ጽኑዓኒሆሙ፡ ወኃያላኒሆሙ፡ ዕደው፡ መስተቃትላን፡ ዐሠርቱ፡ ወሰብዐቱ፡ ፼፡ ዘበእግር፡ ወዘፈረስ፡ ፼፡ ወ፳፻፡ ዘእንበለ፡ ምስለ፡ ንዋይ፡ ወዘእንበለ፡ ዕደው፡ እለ፡ ኢሮዱ፡ አጋርያን፡ ብዙኃን፡ ጥቀ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወወረዱ",
+          "t": "wäwärädu",
+          "gl": ""
+        },
+        {
+          "g": "ይእተ",
+          "t": "yəʾətä",
+          "gl": ""
+        },
+        {
+          "g": "አሚረ",
+          "t": "ʾämirä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ጽኑዓኒሆሙ",
+          "t": "ṣənuʿanihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወኃያላኒሆሙ",
+          "t": "wäḫayalanihomu",
+          "gl": ""
+        },
+        {
+          "g": "ዕደው",
+          "t": "ʿədäwə",
+          "gl": ""
+        },
+        {
+          "g": "መስተቃትላን",
+          "t": "mäsətäqatəlanə",
+          "gl": ""
+        },
+        {
+          "g": "ዐሠርቱ",
+          "t": "ʿäśärətu",
+          "gl": ""
+        },
+        {
+          "g": "ወሰብዐቱ",
+          "t": "wäsäbəʿätu",
+          "gl": ""
+        },
+        {
+          "g": "፼",
+          "t": "10000",
+          "gl": ""
+        },
+        {
+          "g": "ዘበእግር",
+          "t": "zäbäʾəgərə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘፈረስ",
+          "t": "wäzäfäräsə",
+          "gl": ""
+        },
+        {
+          "g": "፼",
+          "t": "10000",
+          "gl": ""
+        },
+        {
+          "g": "ወ፳፻",
+          "t": "wä20100",
+          "gl": ""
+        },
+        {
+          "g": "ዘእንበለ",
+          "t": "zäʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ንዋይ",
+          "t": "nəwayə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘእንበለ",
+          "t": "wäzäʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "ዕደው",
+          "t": "ʿədäwə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኢሮዱ",
+          "t": "ʾirodu",
+          "gl": ""
+        },
+        {
+          "g": "አጋርያን",
+          "t": "ʾägarəyanə",
+          "gl": ""
+        },
+        {
+          "g": "ብዙኃን",
+          "t": "bəzuḫanə",
+          "gl": ""
+        },
+        {
+          "g": "ጥቀ",
+          "t": "ṭəqä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Then their strong men removed their camps in that day, and the army of the men of war was an hundred and seventy thousand footmen, and twelve thousand horsemen, beside the baggage, and other men that were afoot among them, a very great multitude."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወኀደሩ፡ ውስተ፡ ዓውሎንያ፡ ገቦሃ፡ ለቤጤልዋ፡ ኀበ፡ ነቅዕ፡ ወበጽሐ፡ ተዓይኒሆሙ፡ ኑኁ፡ እስከ፡ ዶታይም፡ ወእስከ፡ ቤልሜም፡ ወግድሙ፡ እስከ፡ ቅያስም፡ እምነ፡ ቤጤልዋ፡ እንተ፡ እምቅድመ፡ አስዲራሎም።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኀደሩ",
+          "t": "wäḫädäru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዓውሎንያ",
+          "t": "ʿawəlonəya",
+          "gl": ""
+        },
+        {
+          "g": "ገቦሃ",
+          "t": "gäboha",
+          "gl": ""
+        },
+        {
+          "g": "ለቤጤልዋ",
+          "t": "läbeṭeləwa",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ነቅዕ",
+          "t": "näqəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወበጽሐ",
+          "t": "wäbäṣəḥä",
+          "gl": ""
+        },
+        {
+          "g": "ተዓይኒሆሙ",
+          "t": "täʿayənihomu",
+          "gl": ""
+        },
+        {
+          "g": "ኑኁ",
+          "t": "nuḫu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዶታይም",
+          "t": "dotayəmə",
+          "gl": ""
+        },
+        {
+          "g": "ወእስከ",
+          "t": "wäʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ቤልሜም",
+          "t": "beləmemə",
+          "gl": ""
+        },
+        {
+          "g": "ወግድሙ",
+          "t": "wägədəmu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ቅያስም",
+          "t": "qəyasəmə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ቤጤልዋ",
+          "t": "beṭeləwa",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "እምቅድመ",
+          "t": "ʾəməqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "አስዲራሎም",
+          "t": "ʾäsədiralomə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they camped in the valley near unto Bethulia, by the fountain, and they spread themselves in breadth over Dothaim even to Belthem, and in length from Bethulia unto Cyamon, which is over against Esdraelom."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወሶበ፡ ርእዩ፡ ብዝኆሙ፡ ደቂቀ፡ እስራኤል፡ ደንገጹ፡ ጥቀ፡ ወተበሀሉ፡ በበይናቲሆሙ፡ የአጽውዎ፡ ይእዜ፡ ለኵሉ፡ ገጸ፡ ምድር፡ እሉ፡ ወአልቦ፡ ዘይክል፡ ፀዊረ፡ ክበዶሙ፡ ኢአድባር፡ ወኢአውግር፡ ወኢቈላት።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሶበ",
+          "t": "wäsobä",
+          "gl": ""
+        },
+        {
+          "g": "ርእዩ",
+          "t": "rəʾəyu",
+          "gl": ""
+        },
+        {
+          "g": "ብዝኆሙ",
+          "t": "bəzəḫomu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ደንገጹ",
+          "t": "dänəgäṣu",
+          "gl": ""
+        },
+        {
+          "g": "ጥቀ",
+          "t": "ṭəqä",
+          "gl": ""
+        },
+        {
+          "g": "ወተበሀሉ",
+          "t": "wätäbähälu",
+          "gl": ""
+        },
+        {
+          "g": "በበይናቲሆሙ",
+          "t": "bäbäyənatihomu",
+          "gl": ""
+        },
+        {
+          "g": "የአጽውዎ",
+          "t": "yäʾäṣəwəwo",
+          "gl": ""
+        },
+        {
+          "g": "ይእዜ",
+          "t": "yəʾəze",
+          "gl": ""
+        },
+        {
+          "g": "ለኵሉ",
+          "t": "läkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ገጸ",
+          "t": "gäṣä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "እሉ",
+          "t": "ʾəlu",
+          "gl": ""
+        },
+        {
+          "g": "ወአልቦ",
+          "t": "wäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘይክል",
+          "t": "zäyəkələ",
+          "gl": ""
+        },
+        {
+          "g": "ፀዊረ",
+          "t": "ṣ́äwirä",
+          "gl": ""
+        },
+        {
+          "g": "ክበዶሙ",
+          "t": "kəbädomu",
+          "gl": ""
+        },
+        {
+          "g": "ኢአድባር",
+          "t": "ʾiʾädəbarə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢአውግር",
+          "t": "wäʾiʾäwəgərə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢቈላት",
+          "t": "wäʾiqwälatə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Now the children of Israel, when they saw the multitude of them, were greatly troubled, and said every one to his neighbour, Now will these men lick up the face of the earth; for neither the high mountains, nor the valleys, nor the hills, are able to bear their weight."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወነሥኡ፡ ኵሎሙ፡ ንዋየ፡ ሐቅሎሙ፡ ወአንደዱ፡ እሳተ፡ ውስተ፡ ማኅፈዲሆሙ፡ ወነበሩ፡ የዓቅቡ፡ ኵላ፡ ይእተ፡ ሌሊተ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነሥኡ",
+          "t": "wänäśəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ንዋየ",
+          "t": "nəwayä",
+          "gl": ""
+        },
+        {
+          "g": "ሐቅሎሙ",
+          "t": "ḥäqəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ወአንደዱ",
+          "t": "wäʾänədädu",
+          "gl": ""
+        },
+        {
+          "g": "እሳተ",
+          "t": "ʾəsatä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ማኅፈዲሆሙ",
+          "t": "maḫəfädihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወነበሩ",
+          "t": "wänäbäru",
+          "gl": ""
+        },
+        {
+          "g": "የዓቅቡ",
+          "t": "yäʿaqəbu",
+          "gl": ""
+        },
+        {
+          "g": "ኵላ",
+          "t": "kwəla",
+          "gl": ""
+        },
+        {
+          "g": "ይእተ",
+          "t": "yəʾətä",
+          "gl": ""
+        },
+        {
+          "g": "ሌሊተ",
+          "t": "lelitä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Then every man took up his weapons of war, and when they had kindled fires upon their towers, they remained and watched all that night."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወበሳኒታ፡ ዕለት፡ አውፅአ፡ ሆሎፎርኒስ፡ ኵሎ፡ አፍራሲሁ፡ ቅድሜሆሙ፡ ለደቂቀ፡ እስራኤል፡ እለ፡ ውስተ፡ ቤጤልዋ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበሳኒታ",
+          "t": "wäbäsanita",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "አውፅአ",
+          "t": "ʾäwəṣ́əʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሆሎፎርኒስ",
+          "t": "holoforənisə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "አፍራሲሁ",
+          "t": "ʾäfərasihu",
+          "gl": ""
+        },
+        {
+          "g": "ቅድሜሆሙ",
+          "t": "qədəmehomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ቤጤልዋ",
+          "t": "beṭeləwa",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But in the second day Holofernes brought forth all his horsemen in the sight of the children of Israel which were in Bethulia,"
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወፈነወ፡ ሰብአ፡ ዓይን፡ ይርአዩ፡ ፍሥሐታተ፡ አህጉሪሆሙ፡ ወይዑዱ፡ አንቅዕተ፡ ማያቲሆሙ፡ ይቅድምዎ፡ በጺሐ፡ ህየ፡ ወይትዐየንዎሙ፡ ዕደው፡ መስተቃትላን፡ ወውእቱሰ፡ ሮጸ፡ ምስለ፡ ሕዝቡ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወፈነወ",
+          "t": "wäfänäwä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብአ",
+          "t": "säbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ዓይን",
+          "t": "ʿayənə",
+          "gl": ""
+        },
+        {
+          "g": "ይርአዩ",
+          "t": "yərəʾäyu",
+          "gl": ""
+        },
+        {
+          "g": "ፍሥሐታተ",
+          "t": "fəśəḥätatä",
+          "gl": ""
+        },
+        {
+          "g": "አህጉሪሆሙ",
+          "t": "ʾähəgurihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወይዑዱ",
+          "t": "wäyəʿudu",
+          "gl": ""
+        },
+        {
+          "g": "አንቅዕተ",
+          "t": "ʾänəqəʿətä",
+          "gl": ""
+        },
+        {
+          "g": "ማያቲሆሙ",
+          "t": "mayatihomu",
+          "gl": ""
+        },
+        {
+          "g": "ይቅድምዎ",
+          "t": "yəqədəməwo",
+          "gl": ""
+        },
+        {
+          "g": "በጺሐ",
+          "t": "bäṣiḥä",
+          "gl": ""
+        },
+        {
+          "g": "ህየ",
+          "t": "həyä",
+          "gl": ""
+        },
+        {
+          "g": "ወይትዐየንዎሙ",
+          "t": "wäyətəʿäyänəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ዕደው",
+          "t": "ʿədäwə",
+          "gl": ""
+        },
+        {
+          "g": "መስተቃትላን",
+          "t": "mäsətäqatəlanə",
+          "gl": ""
+        },
+        {
+          "g": "ወውእቱሰ",
+          "t": "wäwəʾətusä",
+          "gl": ""
+        },
+        {
+          "g": "ሮጸ",
+          "t": "roṣä",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝቡ",
+          "t": "ḥəzəbu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and viewed the passages up to the city, and came to the fountains of their waters, and took them, and set garrisons of men of war over them, and he himself removed toward his people."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወመጽኡ፡ ኀቤሁ፡ ኵሉ፡ መላእክተ፡ ደቂቀ፡ ኤሳው፡ ወኵሎሙ፡ መሳፍንተ፡ ቤተ፡ ሞዓብ፡ ወመኳንንተ፡ ጰራልያ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወመጽኡ",
+          "t": "wämäṣəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ኀቤሁ",
+          "t": "ḫäbehu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "መላእክተ",
+          "t": "mälaʾəkətä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ኤሳው",
+          "t": "ʾesawə",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎሙ",
+          "t": "wäkwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "መሳፍንተ",
+          "t": "mäsafənətä",
+          "gl": ""
+        },
+        {
+          "g": "ቤተ",
+          "t": "betä",
+          "gl": ""
+        },
+        {
+          "g": "ሞዓብ",
+          "t": "moʿabə",
+          "gl": ""
+        },
+        {
+          "g": "ወመኳንንተ",
+          "t": "wämäkwanənətä",
+          "gl": ""
+        },
+        {
+          "g": "ጰራልያ",
+          "t": "ṗäraləya",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Then came unto him all the chief of the children of Esau, and all the governors of the people of Moab, and the captains of the sea coast, and said,"
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወይቤልዎ፡ ስማዕ፡ እግዚኦ፡ ቃለነ፡ ከመ፡ ኢይኩን፡ ሙስና፡ ላዕለ፡ ሕዝብከ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤልዎ",
+          "t": "wäyəbeləwo",
+          "gl": ""
+        },
+        {
+          "g": "ስማዕ",
+          "t": "səmaʿə",
+          "gl": ""
+        },
+        {
+          "g": "እግዚኦ",
+          "t": "ʾəgəziʾo",
+          "gl": ""
+        },
+        {
+          "g": "ቃለነ",
+          "t": "qalänä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ኢይኩን",
+          "t": "ʾiyəkunə",
+          "gl": ""
+        },
+        {
+          "g": "ሙስና",
+          "t": "musəna",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብከ",
+          "t": "ḥəzəbəkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Let our lord now hear a word, that there be not an overthrow in thine army."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "እስመ፡ ዝንቱ፡ ሕዝበ፡ ደቂቀ፡ እስራኤል፡ አኮ፡ በኵናቶ፡ ዘይትዌከሉ፡ አላ፡ በላዕለ፡ አጽዋኒሆሙ፡ ወአድባሪሆሙ፡ እለ፡ ይነብሩ፡ ውስቴቶሙ፡ እስመ፡ አልቦ፡ ምዕራግ፡ ለአድባሪሆሙ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝበ",
+          "t": "ḥəzəbä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "አኮ",
+          "t": "ʾäko",
+          "gl": ""
+        },
+        {
+          "g": "በኵናቶ",
+          "t": "bäkwənato",
+          "gl": ""
+        },
+        {
+          "g": "ዘይትዌከሉ",
+          "t": "zäyətəwekälu",
+          "gl": ""
+        },
+        {
+          "g": "አላ",
+          "t": "ʾäla",
+          "gl": ""
+        },
+        {
+          "g": "በላዕለ",
+          "t": "bälaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "አጽዋኒሆሙ",
+          "t": "ʾäṣəwanihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወአድባሪሆሙ",
+          "t": "wäʾädəbarihomu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ውስቴቶሙ",
+          "t": "wəsətetomu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አልቦ",
+          "t": "ʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ምዕራግ",
+          "t": "məʿəragə",
+          "gl": ""
+        },
+        {
+          "g": "ለአድባሪሆሙ",
+          "t": "läʾädəbarihomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For this people of the children of Israel do not trust in their spears, but in the height of the mountains wherein they dwell, because it is not easy to come up to the tops of their mountains."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወይእዜኒ፡ እግዚኦ፡ ኢትትቃተሎሙ፡ በሕገ፡ ቀትል፡ ወአልቦ፡ ዘይመውት፡ እምነ፡ ሰብእከ፡ ወኢአሐዱ፡ ብእሲ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይእዜኒ",
+          "t": "wäyəʾəzeni",
+          "gl": ""
+        },
+        {
+          "g": "እግዚኦ",
+          "t": "ʾəgəziʾo",
+          "gl": ""
+        },
+        {
+          "g": "ኢትትቃተሎሙ",
+          "t": "ʾitətəqatälomu",
+          "gl": ""
+        },
+        {
+          "g": "በሕገ",
+          "t": "bäḥəgä",
+          "gl": ""
+        },
+        {
+          "g": "ቀትል",
+          "t": "qätələ",
+          "gl": ""
+        },
+        {
+          "g": "ወአልቦ",
+          "t": "wäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘይመውት",
+          "t": "zäyəmäwətə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእከ",
+          "t": "säbəʾəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢአሐዱ",
+          "t": "wäʾiʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Now therefore, my lord, fight not against them in battle array, and there shall not so much as one man of thy people perish."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወባሕቱ፡ ጽንሖሙ፡ ምስለ፡ ተዓይኒከ፡ ወይዕቀቡ፡ ኵሎ፡ ዕደወ፡ ኃይልከ፡ ወደቂቅከ፡ ኵሎ፡ አንቅዕተ፡ ማያቲሆሙ፡ ዘይነቅዕ፡ እምጕንደ፡ ደብር፡ ያጸንዑ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወባሕቱ",
+          "t": "wäbaḥətu",
+          "gl": ""
+        },
+        {
+          "g": "ጽንሖሙ",
+          "t": "ṣənəḥomu",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ተዓይኒከ",
+          "t": "täʿayənikä",
+          "gl": ""
+        },
+        {
+          "g": "ወይዕቀቡ",
+          "t": "wäyəʿəqäbu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ዕደወ",
+          "t": "ʿədäwä",
+          "gl": ""
+        },
+        {
+          "g": "ኃይልከ",
+          "t": "ḫayələkä",
+          "gl": ""
+        },
+        {
+          "g": "ወደቂቅከ",
+          "t": "wädäqiqəkä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "አንቅዕተ",
+          "t": "ʾänəqəʿətä",
+          "gl": ""
+        },
+        {
+          "g": "ማያቲሆሙ",
+          "t": "mayatihomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይነቅዕ",
+          "t": "zäyənäqəʿə",
+          "gl": ""
+        },
+        {
+          "g": "እምጕንደ",
+          "t": "ʾəməgwənədä",
+          "gl": ""
+        },
+        {
+          "g": "ደብር",
+          "t": "däbərə",
+          "gl": ""
+        },
+        {
+          "g": "ያጸንዑ",
+          "t": "yaṣänəʿu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Remain in thy camp, and keep all the men of thine army, and let thy servants get into their hands the fountain of water, which issueth forth of the foot of the mountain:"
+      }
+    },
+    {
+      "num": 13,
+      "geez": "እስመ፡ እምህየ፡ ይቀድሑ፡ ኵሎሙ፡ እለ፡ ይነብሩ፡ ቤጤልዋ፡ ወይቀትሎሙ፡ ጽምዕ፡ ወያገብኡ፡ ድኅሬሆሙ፡ ወንሕነኒ፡ ወሕዝብነኒ፡ ነዓርግ፡ ኀበ፡ ቅሩበ፡ አጽዋኒሆሙ፡ ወአርእስተ፡ አድባሪሆሙ፡ ወነኃድር፡ ህየ፡ ወነዓቅቦሙ፡ ከመ፡ አልቦ፡ ዘይወጽእ፡ እምኔሆሙ፡ ወኢአሐዱ፡ ብእሲ፡ እምውስተ፡ አህጉሪሆሙ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "እምህየ",
+          "t": "ʾəməhəyä",
+          "gl": ""
+        },
+        {
+          "g": "ይቀድሑ",
+          "t": "yəqädəḥu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ቤጤልዋ",
+          "t": "beṭeləwa",
+          "gl": ""
+        },
+        {
+          "g": "ወይቀትሎሙ",
+          "t": "wäyəqätəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ጽምዕ",
+          "t": "ṣəməʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወያገብኡ",
+          "t": "wäyagäbəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ድኅሬሆሙ",
+          "t": "dəḫərehomu",
+          "gl": ""
+        },
+        {
+          "g": "ወንሕነኒ",
+          "t": "wänəḥənäni",
+          "gl": ""
+        },
+        {
+          "g": "ወሕዝብነኒ",
+          "t": "wäḥəzəbənäni",
+          "gl": ""
+        },
+        {
+          "g": "ነዓርግ",
+          "t": "näʿarəgə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ቅሩበ",
+          "t": "qərubä",
+          "gl": ""
+        },
+        {
+          "g": "አጽዋኒሆሙ",
+          "t": "ʾäṣəwanihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወአርእስተ",
+          "t": "wäʾärəʾəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አድባሪሆሙ",
+          "t": "ʾädəbarihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወነኃድር",
+          "t": "wänäḫadərə",
+          "gl": ""
+        },
+        {
+          "g": "ህየ",
+          "t": "həyä",
+          "gl": ""
+        },
+        {
+          "g": "ወነዓቅቦሙ",
+          "t": "wänäʿaqəbomu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "አልቦ",
+          "t": "ʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘይወጽእ",
+          "t": "zäyəwäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሆሙ",
+          "t": "ʾəmənehomu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢአሐዱ",
+          "t": "wäʾiʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አህጉሪሆሙ",
+          "t": "ʾähəgurihomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "for all the inhabitants of Bethulia have their water thence; so shall thirst kill them, and they shall give up their city, and we and our people shall go up to the tops of the mountains that are near, and will camp upon them, to watch that none go out of the city."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወይጠፍኡ፡ በረሀብ፡ እሙንቱኒ፡ ወአንስቲያሆሙኒ፡ ወውሉዶሙኒ፡ ዘእንበለ፡ ይትቃተልዎሙ፡ ወይትነጽሑ፡ በውስተ፡ ፍና፡ አህጉሪሆሙ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይጠፍኡ",
+          "t": "wäyəṭäfəʾu",
+          "gl": ""
+        },
+        {
+          "g": "በረሀብ",
+          "t": "bärähäbə",
+          "gl": ""
+        },
+        {
+          "g": "እሙንቱኒ",
+          "t": "ʾəmunətuni",
+          "gl": ""
+        },
+        {
+          "g": "ወአንስቲያሆሙኒ",
+          "t": "wäʾänəsətiyahomuni",
+          "gl": ""
+        },
+        {
+          "g": "ወውሉዶሙኒ",
+          "t": "wäwəludomuni",
+          "gl": ""
+        },
+        {
+          "g": "ዘእንበለ",
+          "t": "zäʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "ይትቃተልዎሙ",
+          "t": "yətəqatäləwomu",
+          "gl": ""
+        },
+        {
+          "g": "ወይትነጽሑ",
+          "t": "wäyətənäṣəḥu",
+          "gl": ""
+        },
+        {
+          "g": "በውስተ",
+          "t": "bäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ፍና",
+          "t": "fəna",
+          "gl": ""
+        },
+        {
+          "g": "አህጉሪሆሙ",
+          "t": "ʾähəgurihomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "So they and their wives and their children shall be consumed with famine, and before the sword come against them, they shall be overthrown in the streets where they dwell."
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ወትትቤቀሎሙ፡ እኩየ፡ በቀለ፡ እስመ፡ አዕረሩ፡ ወኢተቀበሉከ፡ በሰላም።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትትቤቀሎሙ",
+          "t": "wätətəbeqälomu",
+          "gl": ""
+        },
+        {
+          "g": "እኩየ",
+          "t": "ʾəkuyä",
+          "gl": ""
+        },
+        {
+          "g": "በቀለ",
+          "t": "bäqälä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አዕረሩ",
+          "t": "ʾäʿəräru",
+          "gl": ""
+        },
+        {
+          "g": "ወኢተቀበሉከ",
+          "t": "wäʾitäqäbälukä",
+          "gl": ""
+        },
+        {
+          "g": "በሰላም",
+          "t": "bäsälamə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Thus shalt thou render them an evil reward; because they rebelled, and met not thy person peaceably."
+      }
+    },
+    {
+      "num": 16,
+      "geez": "ወአደመ፡ ቃሎሙ፡ በቅድሜሁ፡ ለሆሎፎርኒስ፡ ወቅድመ፡ ኵሉ፡ ሰብኡ፡ ወአዘዘ፡ ይግበሩ፡ በከመ፡ ይገብሩ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአደመ",
+          "t": "wäʾädämä",
+          "gl": ""
+        },
+        {
+          "g": "ቃሎሙ",
+          "t": "qalomu",
+          "gl": ""
+        },
+        {
+          "g": "በቅድሜሁ",
+          "t": "bäqədəmehu",
+          "gl": ""
+        },
+        {
+          "g": "ለሆሎፎርኒስ",
+          "t": "läholoforənisə",
+          "gl": ""
+        },
+        {
+          "g": "ወቅድመ",
+          "t": "wäqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ሰብኡ",
+          "t": "säbəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ወአዘዘ",
+          "t": "wäʾäzäzä",
+          "gl": ""
+        },
+        {
+          "g": "ይግበሩ",
+          "t": "yəgəbäru",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ይገብሩ",
+          "t": "yəgäbəru",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And these words pleased Holofernes and all his servants, and he appointed to do as they had spoken."
+      }
+    },
+    {
+      "num": 17,
+      "geez": "ወግዕዙ፡ ተዓይኒሆሙ፡ ለደቂቀ፡ አሞን፡ ወምስሌሆሙ፡ ፶፻፡ ደቂቀ፡ አሶር፡ ወኃደሩ፡ ውስተ፡ ዓውሎኒ፡ ወቀደሙ፡ አጽንኦ፡ ማያቲሆሙ፡ ወአንቅዕቲሆሙ፡ ለደቂቀ፡ እስራኤል።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወግዕዙ",
+          "t": "wägəʿəzu",
+          "gl": ""
+        },
+        {
+          "g": "ተዓይኒሆሙ",
+          "t": "täʿayənihomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "አሞን",
+          "t": "ʾämonə",
+          "gl": ""
+        },
+        {
+          "g": "ወምስሌሆሙ",
+          "t": "wäməsəlehomu",
+          "gl": ""
+        },
+        {
+          "g": "፶፻",
+          "t": "50100",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "አሶር",
+          "t": "ʾäsorə",
+          "gl": ""
+        },
+        {
+          "g": "ወኃደሩ",
+          "t": "wäḫadäru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዓውሎኒ",
+          "t": "ʿawəloni",
+          "gl": ""
+        },
+        {
+          "g": "ወቀደሙ",
+          "t": "wäqädämu",
+          "gl": ""
+        },
+        {
+          "g": "አጽንኦ",
+          "t": "ʾäṣənəʾo",
+          "gl": ""
+        },
+        {
+          "g": "ማያቲሆሙ",
+          "t": "mayatihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወአንቅዕቲሆሙ",
+          "t": "wäʾänəqəʿətihomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "So the camp of the children of Ammon departed, and with them five thousand of the Assyrians, and they pitched in the valley, and took the waters, and the fountains of the waters of the children of Israel."
+      }
+    },
+    {
+      "num": 18,
+      "geez": "ወዐርጉ፡ ደቂቀ፡ ኤሳው፡ ወደቂቀ፡ አሞን፡ ወኃደሩ፡ ውስተ፡ አድባር፡ አንፃረ፡ ዶታይም፡ ወፈነዉ፡ እምውስቴቶሙ፡ እለ፡ መንገለ፡ ዓረብ፡ ዘአዜብ፡ ወኤጴልዮጤን፡ ዘአንፃረ፡ ኤጴራቤል፡ ዘገቦ፡ ኩሲ፡ በኀበ፡ ፈለገ፡ ምኩር፡ ወዘተርፈ፡ ሠራዊቶሙ፡ ለፋርስ፡ ተዓየኑ፡ ውስተ፡ ገዳም፡ ወከደኑ፡ ውስተ፡ ኵሉ፡ ገጸ፡ ምድር፡ ወእምዝ፡ ዓግአዙ፡ ተአይኒሆሙ፡ ወንዋዮሙኒ፡ ብዙኃ፡ ሰብእ፡ ጥቀ፡ ዘአልቦ፡ ዘይበዝኆሙ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዐርጉ",
+          "t": "wäʿärəgu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ኤሳው",
+          "t": "ʾesawə",
+          "gl": ""
+        },
+        {
+          "g": "ወደቂቀ",
+          "t": "wädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "አሞን",
+          "t": "ʾämonə",
+          "gl": ""
+        },
+        {
+          "g": "ወኃደሩ",
+          "t": "wäḫadäru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አድባር",
+          "t": "ʾädəbarə",
+          "gl": ""
+        },
+        {
+          "g": "አንፃረ",
+          "t": "ʾänəṣ́arä",
+          "gl": ""
+        },
+        {
+          "g": "ዶታይም",
+          "t": "dotayəmə",
+          "gl": ""
+        },
+        {
+          "g": "ወፈነዉ",
+          "t": "wäfänäwu",
+          "gl": ""
+        },
+        {
+          "g": "እምውስቴቶሙ",
+          "t": "ʾəməwəsətetomu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "መንገለ",
+          "t": "mänəgälä",
+          "gl": ""
+        },
+        {
+          "g": "ዓረብ",
+          "t": "ʿaräbə",
+          "gl": ""
+        },
+        {
+          "g": "ዘአዜብ",
+          "t": "zäʾäzebə",
+          "gl": ""
+        },
+        {
+          "g": "ወኤጴልዮጤን",
+          "t": "wäʾeṗeləyoṭenə",
+          "gl": ""
+        },
+        {
+          "g": "ዘአንፃረ",
+          "t": "zäʾänəṣ́arä",
+          "gl": ""
+        },
+        {
+          "g": "ኤጴራቤል",
+          "t": "ʾeṗerabelə",
+          "gl": ""
+        },
+        {
+          "g": "ዘገቦ",
+          "t": "zägäbo",
+          "gl": ""
+        },
+        {
+          "g": "ኩሲ",
+          "t": "kusi",
+          "gl": ""
+        },
+        {
+          "g": "በኀበ",
+          "t": "bäḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ፈለገ",
+          "t": "fälägä",
+          "gl": ""
+        },
+        {
+          "g": "ምኩር",
+          "t": "məkurə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘተርፈ",
+          "t": "wäzätärəfä",
+          "gl": ""
+        },
+        {
+          "g": "ሠራዊቶሙ",
+          "t": "śärawitomu",
+          "gl": ""
+        },
+        {
+          "g": "ለፋርስ",
+          "t": "läfarəsə",
+          "gl": ""
+        },
+        {
+          "g": "ተዓየኑ",
+          "t": "täʿayänu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ገዳም",
+          "t": "gädamə",
+          "gl": ""
+        },
+        {
+          "g": "ወከደኑ",
+          "t": "wäkädänu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ገጸ",
+          "t": "gäṣä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምዝ",
+          "t": "wäʾəməzə",
+          "gl": ""
+        },
+        {
+          "g": "ዓግአዙ",
+          "t": "ʿagəʾäzu",
+          "gl": ""
+        },
+        {
+          "g": "ተአይኒሆሙ",
+          "t": "täʾäyənihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወንዋዮሙኒ",
+          "t": "wänəwayomuni",
+          "gl": ""
+        },
+        {
+          "g": "ብዙኃ",
+          "t": "bəzuḫa",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ጥቀ",
+          "t": "ṭəqä",
+          "gl": ""
+        },
+        {
+          "g": "ዘአልቦ",
+          "t": "zäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘይበዝኆሙ",
+          "t": "zäyəbäzəḫomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Then the children of Esau went up with the children of Ammon, and camped in the hill country over against Dothaim: and they sent some of them toward the south, and toward the east, over against Ekrebel, which is near unto Chusi, that is upon the brook Mochmur; and the rest of the army of the Assyrians camped in the plain, and covered the face of the whole land; and their tents and carriages were pitched to a very great multitude."
+      }
+    },
+    {
+      "num": 19,
+      "geez": "ወጸርሑ፡ ደቂቀ፡ እስራኤል፡ ኀበ፡ እግዚአብሔር፡ አምላኮሙ፡ እስመ፡ አንበዘት፡ ነፍሶሙ፡ እስመ፡ አገትዎሙ፡ ኵሉ፡ ፀሮሙ፡ ወአልቦሙ፡ ሙፃእ፡ እምነ፡ ማዕከሎሙ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወጸርሑ",
+          "t": "wäṣärəḥu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላኮሙ",
+          "t": "ʾäməlakomu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አንበዘት",
+          "t": "ʾänəbäzätə",
+          "gl": ""
+        },
+        {
+          "g": "ነፍሶሙ",
+          "t": "näfəsomu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አገትዎሙ",
+          "t": "ʾägätəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ፀሮሙ",
+          "t": "ṣ́äromu",
+          "gl": ""
+        },
+        {
+          "g": "ወአልቦሙ",
+          "t": "wäʾäləbomu",
+          "gl": ""
+        },
+        {
+          "g": "ሙፃእ",
+          "t": "muṣ́aʾə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ማዕከሎሙ",
+          "t": "maʿəkälomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Then the children of Israel cried unto the Lord their God, because their heart failed, for all their enemies had compassed them round about, and there was no way to escape out from among them."
+      }
+    },
+    {
+      "num": 20,
+      "geez": "ወነበሩ፡ ደቂቀ፡ አሶር፡ ምስለ፡ ኵሉ፡ ተዓይኒሆሙ፡ የዓግትዎሙ፡ አጋሮሙኒ፡ ወሰብአ፡ ሠረገላትኒ፡ ወሰብአ፡ አፍራስኒ፡ ሠሉሰ፡ ወረቡዓ፡ መዋዕለ፡ ወኃልቀ፡ ኵሉ፡ ሙዳየ፡ ማዮሙ፡ ለእለ፡ ይነብሩ፡ ቤጤልዋ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነበሩ",
+          "t": "wänäbäru",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "አሶር",
+          "t": "ʾäsorə",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ተዓይኒሆሙ",
+          "t": "täʿayənihomu",
+          "gl": ""
+        },
+        {
+          "g": "የዓግትዎሙ",
+          "t": "yäʿagətəwomu",
+          "gl": ""
+        },
+        {
+          "g": "አጋሮሙኒ",
+          "t": "ʾägaromuni",
+          "gl": ""
+        },
+        {
+          "g": "ወሰብአ",
+          "t": "wäsäbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሠረገላትኒ",
+          "t": "śärägälatəni",
+          "gl": ""
+        },
+        {
+          "g": "ወሰብአ",
+          "t": "wäsäbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "አፍራስኒ",
+          "t": "ʾäfərasəni",
+          "gl": ""
+        },
+        {
+          "g": "ሠሉሰ",
+          "t": "śälusä",
+          "gl": ""
+        },
+        {
+          "g": "ወረቡዓ",
+          "t": "wäräbuʿa",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕለ",
+          "t": "mäwaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ወኃልቀ",
+          "t": "wäḫaləqä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ሙዳየ",
+          "t": "mudayä",
+          "gl": ""
+        },
+        {
+          "g": "ማዮሙ",
+          "t": "mayomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእለ",
+          "t": "läʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ቤጤልዋ",
+          "t": "beṭeləwa",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Thus all the company of Assur remained about them, both their footmen, chariots, and horsemen, four and thirty days, so that all their vessels of water failed all the inhabitants of Bethulia."
+      }
+    },
+    {
+      "num": 21,
+      "geez": "ወአልቦ፡ ዘይሰትዩ፡ ማይ፡ ወዘያረውዮሙ፡ ወበመስፈርት፡ ገብኡ፡ ይስተዩ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአልቦ",
+          "t": "wäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘይሰትዩ",
+          "t": "zäyəsätəyu",
+          "gl": ""
+        },
+        {
+          "g": "ማይ",
+          "t": "mayə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘያረውዮሙ",
+          "t": "wäzäyaräwəyomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበመስፈርት",
+          "t": "wäbämäsəfärətə",
+          "gl": ""
+        },
+        {
+          "g": "ገብኡ",
+          "t": "gäbəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ይስተዩ",
+          "t": "yəsətäyu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the cisterns were emptied, and they had not water to drink their fill for one day; for they gave them drink by measure."
+      }
+    },
+    {
+      "num": 22,
+      "geez": "ወሐሙ፡ ደቂቆሙ፡ ወአንስቲያሆሙ፡ ወወራዙቶሙ፡ ወሐልቁ፡ በጽምዕ፡ ወይወድቁ፡ ውስተ፡ መርህበ፡ ሀገር፡ ወውስተ፡ ፍናወ፡ አናቅጽ፡ ወአልቦሙ፡ ኃይል፡ እንከ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሐሙ",
+          "t": "wäḥämu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቆሙ",
+          "t": "däqiqomu",
+          "gl": ""
+        },
+        {
+          "g": "ወአንስቲያሆሙ",
+          "t": "wäʾänəsətiyahomu",
+          "gl": ""
+        },
+        {
+          "g": "ወወራዙቶሙ",
+          "t": "wäwärazutomu",
+          "gl": ""
+        },
+        {
+          "g": "ወሐልቁ",
+          "t": "wäḥäləqu",
+          "gl": ""
+        },
+        {
+          "g": "በጽምዕ",
+          "t": "bäṣəməʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወይወድቁ",
+          "t": "wäyəwädəqu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "መርህበ",
+          "t": "märəhəbä",
+          "gl": ""
+        },
+        {
+          "g": "ሀገር",
+          "t": "hägärə",
+          "gl": ""
+        },
+        {
+          "g": "ወውስተ",
+          "t": "wäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ፍናወ",
+          "t": "fənawä",
+          "gl": ""
+        },
+        {
+          "g": "አናቅጽ",
+          "t": "ʾänaqəṣə",
+          "gl": ""
+        },
+        {
+          "g": "ወአልቦሙ",
+          "t": "wäʾäləbomu",
+          "gl": ""
+        },
+        {
+          "g": "ኃይል",
+          "t": "ḫayələ",
+          "gl": ""
+        },
+        {
+          "g": "እንከ",
+          "t": "ʾənəkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Therefore their young children were out of heart, and their women and young men fainted for thirst, and fell down in the streets of the city, and by the passages of the gates, and there was no longer any strength in them."
+      }
+    },
+    {
+      "num": 23,
+      "geez": "ወተጋብኡ፡ ኵሉ፡ ሕዝብ፡ ላዕለ፡ ዖዝያን፡ ወመላእክተ፡ ሀገርኒ፡ ወወራዙትኒ፡ ወአንስትኒ፡ ወደቂቅኒ፡ ወጸርሑ፡ በዓቢይ፡ ቃል፡ ወይቤሉ፡ በቅድመ፡ ኵሉ፡ ሊቃውንቲሆሙ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተጋብኡ",
+          "t": "wätägabəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ዖዝያን",
+          "t": "ʿozəyanə",
+          "gl": ""
+        },
+        {
+          "g": "ወመላእክተ",
+          "t": "wämälaʾəkətä",
+          "gl": ""
+        },
+        {
+          "g": "ሀገርኒ",
+          "t": "hägärəni",
+          "gl": ""
+        },
+        {
+          "g": "ወወራዙትኒ",
+          "t": "wäwärazutəni",
+          "gl": ""
+        },
+        {
+          "g": "ወአንስትኒ",
+          "t": "wäʾänəsətəni",
+          "gl": ""
+        },
+        {
+          "g": "ወደቂቅኒ",
+          "t": "wädäqiqəni",
+          "gl": ""
+        },
+        {
+          "g": "ወጸርሑ",
+          "t": "wäṣärəḥu",
+          "gl": ""
+        },
+        {
+          "g": "በዓቢይ",
+          "t": "bäʿabiyə",
+          "gl": ""
+        },
+        {
+          "g": "ቃል",
+          "t": "qalə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሉ",
+          "t": "wäyəbelu",
+          "gl": ""
+        },
+        {
+          "g": "በቅድመ",
+          "t": "bäqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ሊቃውንቲሆሙ",
+          "t": "liqawənətihomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Then all the people assembled to Ozias, and to the chief of the city, both young men, and women, and children, and cried with a loud voice, and said before all the elders,"
+      }
+    },
+    {
+      "num": 24,
+      "geez": "ይፍታሕ፡ እግዚአብሔር፡ ማዕከሌነ፡ ወማዕከሌክሙ፡ ከመ፡ ትግበሩ፡ ላዕሌነ፡ ዓቢየ፡ ግፍዐ፡ ዘኢተናገርክሙ፡ ዳህነ፡ በሰላም፡ ምስለ፡ ደቂቀ፡ አሶር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ይፍታሕ",
+          "t": "yəfətaḥə",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ማዕከሌነ",
+          "t": "maʿəkälenä",
+          "gl": ""
+        },
+        {
+          "g": "ወማዕከሌክሙ",
+          "t": "wämaʿəkälekəmu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ትግበሩ",
+          "t": "təgəbäru",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌነ",
+          "t": "laʿəlenä",
+          "gl": ""
+        },
+        {
+          "g": "ዓቢየ",
+          "t": "ʿabiyä",
+          "gl": ""
+        },
+        {
+          "g": "ግፍዐ",
+          "t": "gəfəʿä",
+          "gl": ""
+        },
+        {
+          "g": "ዘኢተናገርክሙ",
+          "t": "zäʾitänagärəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ዳህነ",
+          "t": "dahənä",
+          "gl": ""
+        },
+        {
+          "g": "በሰላም",
+          "t": "bäsälamə",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "አሶር",
+          "t": "ʾäsorə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "God be judge between us and you: for ye have done us great injury, in that ye have not required peace of the children of Assur."
+      }
+    },
+    {
+      "num": 25,
+      "geez": "ወይእዜሰ፡ ኃጣእነ፡ ዘይረድአነ፡ ሦጠነ፡ እግዚአብሔር፡ ውስተ፡ እዴሆሙ፡ ከመ፡ ንደቅ፡ ቅድሜሆሙ፡ በጽምዕ፡ በዓቢይ፡ ኃጕል።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይእዜሰ",
+          "t": "wäyəʾəzesä",
+          "gl": ""
+        },
+        {
+          "g": "ኃጣእነ",
+          "t": "ḫaṭaʾənä",
+          "gl": ""
+        },
+        {
+          "g": "ዘይረድአነ",
+          "t": "zäyərädəʾänä",
+          "gl": ""
+        },
+        {
+          "g": "ሦጠነ",
+          "t": "śoṭänä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሆሙ",
+          "t": "ʾədehomu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ንደቅ",
+          "t": "nədäqə",
+          "gl": ""
+        },
+        {
+          "g": "ቅድሜሆሙ",
+          "t": "qədəmehomu",
+          "gl": ""
+        },
+        {
+          "g": "በጽምዕ",
+          "t": "bäṣəməʿə",
+          "gl": ""
+        },
+        {
+          "g": "በዓቢይ",
+          "t": "bäʿabiyə",
+          "gl": ""
+        },
+        {
+          "g": "ኃጕል",
+          "t": "ḫagwələ",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For now we have no helper: but God hath sold us into their hands, that we should be thrown down before them with thirst and great destruction."
+      }
+    },
+    {
+      "num": 26,
+      "geez": "ወይእዜኒ፡ ግርሩ፡ ሎሙ፡ ወአግብኡ፡ ኵሎ፡ አህጉሪክሙ፡ ወይበርብሩ፡ ሕዝበ፡ ሆሎፎርኒስ፡ ወኵሉ፡ ኃይሉ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይእዜኒ",
+          "t": "wäyəʾəzeni",
+          "gl": ""
+        },
+        {
+          "g": "ግርሩ",
+          "t": "gərəru",
+          "gl": ""
+        },
+        {
+          "g": "ሎሙ",
+          "t": "lomu",
+          "gl": ""
+        },
+        {
+          "g": "ወአግብኡ",
+          "t": "wäʾägəbəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "አህጉሪክሙ",
+          "t": "ʾähəgurikəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወይበርብሩ",
+          "t": "wäyəbärəbəru",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝበ",
+          "t": "ḥəzəbä",
+          "gl": ""
+        },
+        {
+          "g": "ሆሎፎርኒስ",
+          "t": "holoforənisə",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ኃይሉ",
+          "t": "ḫayəlu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Now therefore call them unto you, and deliver the whole city for a spoil to the people of Holofernes, and to all his army."
+      }
+    },
+    {
+      "num": 27,
+      "geez": "እስመ፡ ይኄይሰነ፡ ይበርብሩነ፡ ወንትቀነይ፡ ሎሙ፡ ወትሕየው፡ ነፍስነ፡ ወኢንርአይ፡ ሞተ፡ ደቂቅነ፡ በአዕይንቲነ፡ እስመ፡ ኀልቀት፡ ነፍሶሙ፡ ለአንስቲያነ፡ ወደቂቅነ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ይኄይሰነ",
+          "t": "yəḫeyəsänä",
+          "gl": ""
+        },
+        {
+          "g": "ይበርብሩነ",
+          "t": "yəbärəbərunä",
+          "gl": ""
+        },
+        {
+          "g": "ወንትቀነይ",
+          "t": "wänətəqänäyə",
+          "gl": ""
+        },
+        {
+          "g": "ሎሙ",
+          "t": "lomu",
+          "gl": ""
+        },
+        {
+          "g": "ወትሕየው",
+          "t": "wätəḥəyäwə",
+          "gl": ""
+        },
+        {
+          "g": "ነፍስነ",
+          "t": "näfəsənä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢንርአይ",
+          "t": "wäʾinərəʾäyə",
+          "gl": ""
+        },
+        {
+          "g": "ሞተ",
+          "t": "motä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቅነ",
+          "t": "däqiqənä",
+          "gl": ""
+        },
+        {
+          "g": "በአዕይንቲነ",
+          "t": "bäʾäʿəyənətinä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኀልቀት",
+          "t": "ḫäləqätə",
+          "gl": ""
+        },
+        {
+          "g": "ነፍሶሙ",
+          "t": "näfəsomu",
+          "gl": ""
+        },
+        {
+          "g": "ለአንስቲያነ",
+          "t": "läʾänəsətiyanä",
+          "gl": ""
+        },
+        {
+          "g": "ወደቂቅነ",
+          "t": "wädäqiqənä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For it is better for us to be made a spoil unto them, than to die for thirst: for we will be his servants, that our souls may live, and not see the death of our infants before our eyes, nor our wives nor our children to die."
+      }
+    },
+    {
+      "num": 28,
+      "geez": "ወናሁ፡ ናሰምዕ፡ ለክሙ፡ ሰማየ፡ ወምድረ፡ ወአምላከ፡ አበዊነ፡ ዘውእቱ፡ ይኴንነነ፡ በከመ፡ ኃጣውኢነ፡ ወበከመ፡ ኃጣውኢሆሙ፡ ለአበዊነ፡ ከመ፡ ኢትግበሩ፡ ዘንተ፡ ነገረ፡ ዮም፡ በዛቲ፡ ዕለት።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወናሁ",
+          "t": "wänahu",
+          "gl": ""
+        },
+        {
+          "g": "ናሰምዕ",
+          "t": "nasäməʿə",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ሰማየ",
+          "t": "sämayä",
+          "gl": ""
+        },
+        {
+          "g": "ወምድረ",
+          "t": "wämədərä",
+          "gl": ""
+        },
+        {
+          "g": "ወአምላከ",
+          "t": "wäʾäməlakä",
+          "gl": ""
+        },
+        {
+          "g": "አበዊነ",
+          "t": "ʾäbäwinä",
+          "gl": ""
+        },
+        {
+          "g": "ዘውእቱ",
+          "t": "zäwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ይኴንነነ",
+          "t": "yəkwenənänä",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ኃጣውኢነ",
+          "t": "ḫaṭawəʾinä",
+          "gl": ""
+        },
+        {
+          "g": "ወበከመ",
+          "t": "wäbäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ኃጣውኢሆሙ",
+          "t": "ḫaṭawəʾihomu",
+          "gl": ""
+        },
+        {
+          "g": "ለአበዊነ",
+          "t": "läʾäbäwinä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ኢትግበሩ",
+          "t": "ʾitəgəbäru",
+          "gl": ""
+        },
+        {
+          "g": "ዘንተ",
+          "t": "zänətä",
+          "gl": ""
+        },
+        {
+          "g": "ነገረ",
+          "t": "nägärä",
+          "gl": ""
+        },
+        {
+          "g": "ዮም",
+          "t": "yomə",
+          "gl": ""
+        },
+        {
+          "g": "በዛቲ",
+          "t": "bäzati",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "We take to witness against you the heaven and the earth, and our God and Lord of our fathers, which punisheth us according to our sins and the sins of our fathers, that he do not according as we have said this day."
+      }
+    },
+    {
+      "num": 29,
+      "geez": "ወኮነ፡ ብካይ፡ ዓቢይ፡ በማዕከለ፡ ማኅበሮሙ፡ ወበከዩ፡ ኵሎሙ፡ ኅቡረ፡ ወጸርሑ፡ በዓቢይ፡ ቃል፡ ኀበ፡ እግዚአብሔር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኮነ",
+          "t": "wäkonä",
+          "gl": ""
+        },
+        {
+          "g": "ብካይ",
+          "t": "bəkayə",
+          "gl": ""
+        },
+        {
+          "g": "ዓቢይ",
+          "t": "ʿabiyə",
+          "gl": ""
+        },
+        {
+          "g": "በማዕከለ",
+          "t": "bämaʿəkälä",
+          "gl": ""
+        },
+        {
+          "g": "ማኅበሮሙ",
+          "t": "maḫəbäromu",
+          "gl": ""
+        },
+        {
+          "g": "ወበከዩ",
+          "t": "wäbäkäyu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ኅቡረ",
+          "t": "ḫəburä",
+          "gl": ""
+        },
+        {
+          "g": "ወጸርሑ",
+          "t": "wäṣärəḥu",
+          "gl": ""
+        },
+        {
+          "g": "በዓቢይ",
+          "t": "bäʿabiyə",
+          "gl": ""
+        },
+        {
+          "g": "ቃል",
+          "t": "qalə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Then there was great weeping with one consent in the midst of the assembly; and they cried unto the Lord God with a loud voice."
+      }
+    },
+    {
+      "num": 30,
+      "geez": "ወይቤሎሙ፡ ኦዝያስ፡ ተአመኑ፡ አኃዊነ፡ ወተዓገሡ፡ ዓዲ፡ ሐሙሰ፡ መዋዕለ፡ እስከ፡ ይመይጥ፡ እግዚአብሔር፡ አምላክነ፡ ምሕረቶ፡ መንገሌነ፡ እስመ፡ አኮ፡ ለዝሉፉ፡ ዘይገድፈነ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎሙ",
+          "t": "wäyəbelomu",
+          "gl": ""
+        },
+        {
+          "g": "ኦዝያስ",
+          "t": "ʾozəyasə",
+          "gl": ""
+        },
+        {
+          "g": "ተአመኑ",
+          "t": "täʾämänu",
+          "gl": ""
+        },
+        {
+          "g": "አኃዊነ",
+          "t": "ʾäḫawinä",
+          "gl": ""
+        },
+        {
+          "g": "ወተዓገሡ",
+          "t": "wätäʿagäśu",
+          "gl": ""
+        },
+        {
+          "g": "ዓዲ",
+          "t": "ʿadi",
+          "gl": ""
+        },
+        {
+          "g": "ሐሙሰ",
+          "t": "ḥämusä",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕለ",
+          "t": "mäwaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ይመይጥ",
+          "t": "yəmäyəṭə",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላክነ",
+          "t": "ʾäməlakənä",
+          "gl": ""
+        },
+        {
+          "g": "ምሕረቶ",
+          "t": "məḥəräto",
+          "gl": ""
+        },
+        {
+          "g": "መንገሌነ",
+          "t": "mänəgälenä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አኮ",
+          "t": "ʾäko",
+          "gl": ""
+        },
+        {
+          "g": "ለዝሉፉ",
+          "t": "läzəlufu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይገድፈነ",
+          "t": "zäyəgädəfänä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Then said Ozias to them, Brethren, be of good courage, let us yet endure five days, in the which space the Lord our God may turn his mercy toward us; for he will not forsake us utterly."
+      }
+    },
+    {
+      "num": 31,
+      "geez": "ወእምከመ፡ ኃለፉ፡ እማንቱ፡ መዋዕል፡ ወኢመጽአ፡ ረድኤቱ፡ ላዕሌነ፡ ንገብር፡ ዘከመ፡ ትቤሉ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእምከመ",
+          "t": "wäʾəməkämä",
+          "gl": ""
+        },
+        {
+          "g": "ኃለፉ",
+          "t": "ḫaläfu",
+          "gl": ""
+        },
+        {
+          "g": "እማንቱ",
+          "t": "ʾəmanətu",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕል",
+          "t": "mäwaʿələ",
+          "gl": ""
+        },
+        {
+          "g": "ወኢመጽአ",
+          "t": "wäʾimäṣəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ረድኤቱ",
+          "t": "rädəʾetu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌነ",
+          "t": "laʿəlenä",
+          "gl": ""
+        },
+        {
+          "g": "ንገብር",
+          "t": "nəgäbərə",
+          "gl": ""
+        },
+        {
+          "g": "ዘከመ",
+          "t": "zäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ትቤሉ",
+          "t": "təbelu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if these days pass, and there come no help unto us, I will do according to your word."
+      }
+    },
+    {
+      "num": 32,
+      "geez": "ወዘረዎሙ፡ ለሕዝብ፡ ውስተ፡ ትዕይንቶሙ፡ ወውስተ፡ ማኅፈዲሆሙ፡ ወውስተ፡ ዐረፍተ፡ ሀገሮሙ፡ ወሖሩ፡ ወፈነዉ፡ አንስቲያሆሙ፡ ወሕሙማን፡ እሙንቱ፡ ጥቀ፡ ውስተ፡ ሀገር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዘረዎሙ",
+          "t": "wäzäräwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለሕዝብ",
+          "t": "läḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ትዕይንቶሙ",
+          "t": "təʿəyənətomu",
+          "gl": ""
+        },
+        {
+          "g": "ወውስተ",
+          "t": "wäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ማኅፈዲሆሙ",
+          "t": "maḫəfädihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወውስተ",
+          "t": "wäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዐረፍተ",
+          "t": "ʿäräfətä",
+          "gl": ""
+        },
+        {
+          "g": "ሀገሮሙ",
+          "t": "hägäromu",
+          "gl": ""
+        },
+        {
+          "g": "ወሖሩ",
+          "t": "wäḥoru",
+          "gl": ""
+        },
+        {
+          "g": "ወፈነዉ",
+          "t": "wäfänäwu",
+          "gl": ""
+        },
+        {
+          "g": "አንስቲያሆሙ",
+          "t": "ʾänəsətiyahomu",
+          "gl": ""
+        },
+        {
+          "g": "ወሕሙማን",
+          "t": "wäḥəmumanə",
+          "gl": ""
+        },
+        {
+          "g": "እሙንቱ",
+          "t": "ʾəmunətu",
+          "gl": ""
+        },
+        {
+          "g": "ጥቀ",
+          "t": "ṭəqä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሀገር",
+          "t": "hägärə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he dispersed the people, every one to their own charge; and they went unto the walls and towers of their city, and sent the women and children into their houses; and they were brought very low in the city."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    }
+  }
+}

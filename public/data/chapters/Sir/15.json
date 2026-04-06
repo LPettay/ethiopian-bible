@@ -1,0 +1,953 @@
+{
+  "book": "Sir",
+  "chapter": 15,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ፈራሄ፡ እግዚአብሔር፡ ይገብር፡ ከመዝ፡ ወዘየዐቅብ፡ ሕጎ፡ ይረክባ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ፈራሄ",
+          "t": "färahe",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ይገብር",
+          "t": "yəgäbərə",
+          "gl": ""
+        },
+        {
+          "g": "ከመዝ",
+          "t": "kämäzə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘየዐቅብ",
+          "t": "wäzäyäʿäqəbə",
+          "gl": ""
+        },
+        {
+          "g": "ሕጎ",
+          "t": "ḥəgo",
+          "gl": ""
+        },
+        {
+          "g": "ይረክባ",
+          "t": "yəräkəba",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "He that feareth the Lord will do good; and he that hath the knowledge of the law shall obtain her;"
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ወትጸንሖ፡ ከመ፡ እሙ፡ ወተሐቅፎ፡ ከመ፡ ብእሲት፡ ድንግል።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትጸንሖ",
+          "t": "wätəṣänəḥo",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "እሙ",
+          "t": "ʾəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወተሐቅፎ",
+          "t": "wätäḥäqəfo",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲት",
+          "t": "bəʾəsitə",
+          "gl": ""
+        },
+        {
+          "g": "ድንግል",
+          "t": "dənəgələ",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and as a mother shall she meet him, and receive him as a wife married of a virgin."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወትሴስዮ፡ እክለ፡ ጥበብ፡ ወታሰትዮ፡ ማየ፡ አእምሮ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትሴስዮ",
+          "t": "wätəsesəyo",
+          "gl": ""
+        },
+        {
+          "g": "እክለ",
+          "t": "ʾəkəlä",
+          "gl": ""
+        },
+        {
+          "g": "ጥበብ",
+          "t": "ṭəbäbə",
+          "gl": ""
+        },
+        {
+          "g": "ወታሰትዮ",
+          "t": "wätasätəyo",
+          "gl": ""
+        },
+        {
+          "g": "ማየ",
+          "t": "mayä",
+          "gl": ""
+        },
+        {
+          "g": "አእምሮ",
+          "t": "ʾäʾəməro",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "With the bread of understanding shall she feed him, and give him the water of wisdom to drink."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወይትመረጐዝ፡ ባቲ፡ ወኢይተነትን፡ ወይትአመን፡ ባቲ፡ ወኢይትኀፈር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይትመረጐዝ",
+          "t": "wäyətəmärägwäzə",
+          "gl": ""
+        },
+        {
+          "g": "ባቲ",
+          "t": "bati",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይተነትን",
+          "t": "wäʾiyətänätənə",
+          "gl": ""
+        },
+        {
+          "g": "ወይትአመን",
+          "t": "wäyətəʾämänə",
+          "gl": ""
+        },
+        {
+          "g": "ባቲ",
+          "t": "bati",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይትኀፈር",
+          "t": "wäʾiyətəḫäfärə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "He shall be stayed upon her, and shall not be moved; and shall rely upon her, and shall not be confounded."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወታዐቢዮ፡ እምነ፡ ቢጹ፡ ወበማእከለ፡ ብዙኃን፡ ይከሥት፡ አፉሁ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወታዐቢዮ",
+          "t": "wätaʿäbiyo",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ቢጹ",
+          "t": "biṣu",
+          "gl": ""
+        },
+        {
+          "g": "ወበማእከለ",
+          "t": "wäbämaʾəkälä",
+          "gl": ""
+        },
+        {
+          "g": "ብዙኃን",
+          "t": "bəzuḫanə",
+          "gl": ""
+        },
+        {
+          "g": "ይከሥት",
+          "t": "yəkäśətə",
+          "gl": ""
+        },
+        {
+          "g": "አፉሁ",
+          "t": "ʾäfuhu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "She shall exalt him above his neighbours, and in the midst of the congregation shall she open his mouth."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወትሁቦ፡ አክሊለ፡ (ጥበብ፡ወ)ትፍሥሕት፡ ወሐሤት፡ ወይወርስ፡ ስመ፡ ዘለዓለም።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትሁቦ",
+          "t": "wätəhubo",
+          "gl": ""
+        },
+        {
+          "g": "አክሊለ",
+          "t": "ʾäkəlilä",
+          "gl": ""
+        },
+        {
+          "g": "ጥበብ",
+          "t": "ṭəbäbə",
+          "gl": ""
+        },
+        {
+          "g": "ወትፍሥሕት",
+          "t": "wätəfəśəḥətə",
+          "gl": ""
+        },
+        {
+          "g": "ወሐሤት",
+          "t": "wäḥäśetə",
+          "gl": ""
+        },
+        {
+          "g": "ወይወርስ",
+          "t": "wäyəwärəsə",
+          "gl": ""
+        },
+        {
+          "g": "ስመ",
+          "t": "səmä",
+          "gl": ""
+        },
+        {
+          "g": "ዘለዓለም",
+          "t": "zäläʿalämə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "He shall find joy and a crown of gladness, and she shall cause him to inherit an everlasting name."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወአብዳንሰ፡ ኢይረክብዋ፡ ወኃጥኣንሰ፡ ኢይሬእይዋ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአብዳንሰ",
+          "t": "wäʾäbədanəsä",
+          "gl": ""
+        },
+        {
+          "g": "ኢይረክብዋ",
+          "t": "ʾiyəräkəbəwa",
+          "gl": ""
+        },
+        {
+          "g": "ወኃጥኣንሰ",
+          "t": "wäḫaṭəʾanəsä",
+          "gl": ""
+        },
+        {
+          "g": "ኢይሬእይዋ",
+          "t": "ʾiyəreʾəyəwa",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But foolish men shall not attain unto her, and sinners shall not see her."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ርሕቅት፡ እምነ፡ ዕቡያን፡ ወሐሳውያንኒ፡ ኢይዜከርዋ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ርሕቅት",
+          "t": "rəḥəqətə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ዕቡያን",
+          "t": "ʿəbuyanə",
+          "gl": ""
+        },
+        {
+          "g": "ወሐሳውያንኒ",
+          "t": "wäḥäsawəyanəni",
+          "gl": ""
+        },
+        {
+          "g": "ኢይዜከርዋ",
+          "t": "ʾiyəzekärəwa",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For she is far from pride, and men that are liars cannot remember her."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ኢኮነ፡ አዳመ፡ ቃለ፡ አፉሁ፡ ለኃጥእ፡ እስመ፡ ኢኮነ፡ በፍርሃተ፡ እግዚአብሔር፡ ዘይነብብ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኢኮነ",
+          "t": "ʾikonä",
+          "gl": ""
+        },
+        {
+          "g": "አዳመ",
+          "t": "ʾädamä",
+          "gl": ""
+        },
+        {
+          "g": "ቃለ",
+          "t": "qalä",
+          "gl": ""
+        },
+        {
+          "g": "አፉሁ",
+          "t": "ʾäfuhu",
+          "gl": ""
+        },
+        {
+          "g": "ለኃጥእ",
+          "t": "läḫaṭəʾə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኢኮነ",
+          "t": "ʾikonä",
+          "gl": ""
+        },
+        {
+          "g": "በፍርሃተ",
+          "t": "bäfərəhatä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ዘይነብብ",
+          "t": "zäyənäbəbə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Praise is not seemly in the mouth of a sinner, for it was not sent him of the Lord."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "በጥበብ፡ ይነግርዋ፡ ለአምሳል፡ ወእግዚአብሔር፡ ይረድኦ፡ ለዘ፡ ይትሜሀር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "በጥበብ",
+          "t": "bäṭəbäbə",
+          "gl": ""
+        },
+        {
+          "g": "ይነግርዋ",
+          "t": "yənägərəwa",
+          "gl": ""
+        },
+        {
+          "g": "ለአምሳል",
+          "t": "läʾäməsalə",
+          "gl": ""
+        },
+        {
+          "g": "ወእግዚአብሔር",
+          "t": "wäʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ይረድኦ",
+          "t": "yərädəʾo",
+          "gl": ""
+        },
+        {
+          "g": "ለዘ",
+          "t": "läzä",
+          "gl": ""
+        },
+        {
+          "g": "ይትሜሀር",
+          "t": "yətəmehärə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For praise shall be uttered in wisdom, and the Lord will prosper it."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ኢትበል፡ በእንተ፡ እግዚአብሔር፡ ተሐረምኩ፡ ወዘውእቱ፡ ጸልአ፡ ኢትግበር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኢትበል",
+          "t": "ʾitəbälə",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ተሐረምኩ",
+          "t": "täḥäräməku",
+          "gl": ""
+        },
+        {
+          "g": "ወዘውእቱ",
+          "t": "wäzäwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ጸልአ",
+          "t": "ṣäləʾä",
+          "gl": ""
+        },
+        {
+          "g": "ኢትግበር",
+          "t": "ʾitəgəbärə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Say not thou, It is through the Lord that I fell away: for thou oughtest not to do the things that he hateth."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወኢትበል፡ ውእቱ፡ አስሐተኒ፡ ውእቱሰ፡ ኢይፈቅድ፡ ብእሴ፡ ኃጥእ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኢትበል",
+          "t": "wäʾitəbälə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "አስሐተኒ",
+          "t": "ʾäsəḥätäni",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱሰ",
+          "t": "wəʾətusä",
+          "gl": ""
+        },
+        {
+          "g": "ኢይፈቅድ",
+          "t": "ʾiyəfäqədə",
+          "gl": ""
+        },
+        {
+          "g": "ብእሴ",
+          "t": "bəʾəse",
+          "gl": ""
+        },
+        {
+          "g": "ኃጥእ",
+          "t": "ḫaṭəʾə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Say not thou, He hath caused me to err: for he hath no need of the sinful man."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "እስመ፡ ኵሎ፡ ርኩስ፡ ጸልአ፡ እግዚአብሔር፤….።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ርኩስ",
+          "t": "rəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ጸልአ",
+          "t": "ṣäləʾä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር…",
+          "t": "ʾəgəziʾäbəḥerə…",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The Lord hateth all abomination; and they that fear God love it not."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ውእቱ፡ ገብሮ፡ ለእጓለ፡ እመሕያው፡ ቀዳሚሁ፡ ወኀደጎ፡ በግዕዙ፡ በዘፈቀደ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ገብሮ",
+          "t": "gäbəro",
+          "gl": ""
+        },
+        {
+          "g": "ለእጓለ",
+          "t": "läʾəgwalä",
+          "gl": ""
+        },
+        {
+          "g": "እመሕያው",
+          "t": "ʾəmäḥəyawə",
+          "gl": ""
+        },
+        {
+          "g": "ቀዳሚሁ",
+          "t": "qädamihu",
+          "gl": ""
+        },
+        {
+          "g": "ወኀደጎ",
+          "t": "wäḫädägo",
+          "gl": ""
+        },
+        {
+          "g": "በግዕዙ",
+          "t": "bägəʿəzu",
+          "gl": ""
+        },
+        {
+          "g": "በዘፈቀደ",
+          "t": "bäzäfäqädä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "He himself made man from the beginning, and left him in the hand of his counsel;"
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ወለእመሰ፡ ትፈቅድ፡ ትዕቀብ፡ ትእዛዞ፡ ወትግበር፡ ሃይማኖተ፡ ፈቃዱ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለእመሰ",
+          "t": "wäläʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "ትፈቅድ",
+          "t": "təfäqədə",
+          "gl": ""
+        },
+        {
+          "g": "ትዕቀብ",
+          "t": "təʿəqäbə",
+          "gl": ""
+        },
+        {
+          "g": "ትእዛዞ",
+          "t": "təʾəzazo",
+          "gl": ""
+        },
+        {
+          "g": "ወትግበር",
+          "t": "wätəgəbärə",
+          "gl": ""
+        },
+        {
+          "g": "ሃይማኖተ",
+          "t": "hayəmanotä",
+          "gl": ""
+        },
+        {
+          "g": "ፈቃዱ",
+          "t": "fäqadu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "if thou wilt, to keep the commandments, and to perform acceptable faithfulness."
+      }
+    },
+    {
+      "num": 16,
+      "geez": "ናሁ፡ አንበረ፡ ለከ፡ እሳተ፡ ወማየ፡ ከመ፡ ትደይ፡ እዴከ፡ ኀበ፡ ኀረይከ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ናሁ",
+          "t": "nahu",
+          "gl": ""
+        },
+        {
+          "g": "አንበረ",
+          "t": "ʾänəbärä",
+          "gl": ""
+        },
+        {
+          "g": "ለከ",
+          "t": "läkä",
+          "gl": ""
+        },
+        {
+          "g": "እሳተ",
+          "t": "ʾəsatä",
+          "gl": ""
+        },
+        {
+          "g": "ወማየ",
+          "t": "wämayä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ትደይ",
+          "t": "tədäyə",
+          "gl": ""
+        },
+        {
+          "g": "እዴከ",
+          "t": "ʾədekä",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ኀረይከ",
+          "t": "ḫäräyəkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "He hath set fire and water before thee: stretch forth thy hand unto whether thou wilt."
+      }
+    },
+    {
+      "num": 17,
+      "geez": "ሕይወትኒ፡ ወሞትኒ፡ ቅድሜሁ፡ ለእጓለ፡ እመሕያው፡ ወዘኀረየ፡ እምውስቴቱ፡ ይሁብዎ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ሕይወትኒ",
+          "t": "ḥəyəwätəni",
+          "gl": ""
+        },
+        {
+          "g": "ወሞትኒ",
+          "t": "wämotəni",
+          "gl": ""
+        },
+        {
+          "g": "ቅድሜሁ",
+          "t": "qədəmehu",
+          "gl": ""
+        },
+        {
+          "g": "ለእጓለ",
+          "t": "läʾəgwalä",
+          "gl": ""
+        },
+        {
+          "g": "እመሕያው",
+          "t": "ʾəmäḥəyawə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘኀረየ",
+          "t": "wäzäḫäräyä",
+          "gl": ""
+        },
+        {
+          "g": "እምውስቴቱ",
+          "t": "ʾəməwəsətetu",
+          "gl": ""
+        },
+        {
+          "g": "ይሁብዎ",
+          "t": "yəhubəwo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Before man is life and death; and whether he liketh shall be given him."
+      }
+    },
+    {
+      "num": 18,
+      "geez": "እስመ፡ ብዙኅ፡ ጥበበሁ፡ ለእግዚአብሔር፡ ጽኑዕ፡ ኀይሉ፡ ወያአምር፡ ኵሎ፡ ወይሬኢ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ብዙኅ",
+          "t": "bəzuḫə",
+          "gl": ""
+        },
+        {
+          "g": "ጥበበሁ",
+          "t": "ṭəbäbähu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ጽኑዕ",
+          "t": "ṣənuʿə",
+          "gl": ""
+        },
+        {
+          "g": "ኀይሉ",
+          "t": "ḫäyəlu",
+          "gl": ""
+        },
+        {
+          "g": "ወያአምር",
+          "t": "wäyaʾämərə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ወይሬኢ",
+          "t": "wäyəreʾi",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For the wisdom of the Lord is great, and he is mighty in power, and beholdeth all things:"
+      }
+    },
+    {
+      "num": 19,
+      "geez": "ወአዕይንቲሁኒ፡ ኀበ፡ እለ፡ ይፈርህዎ፡ ውእቱ፡ ያአምር፡ ኵሎ፡ ግብሮ፡ ለእጓለ፡ እመሕያው።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአዕይንቲሁኒ",
+          "t": "wäʾäʿəyənətihuni",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይፈርህዎ",
+          "t": "yəfärəhəwo",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ያአምር",
+          "t": "yaʾämərə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ግብሮ",
+          "t": "gəbəro",
+          "gl": ""
+        },
+        {
+          "g": "ለእጓለ",
+          "t": "läʾəgwalä",
+          "gl": ""
+        },
+        {
+          "g": "እመሕያው",
+          "t": "ʾəmäḥəyawə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and his eyes are upon them that fear him, and he knoweth every work of man."
+      }
+    },
+    {
+      "num": 20,
+      "geez": "ወውእቱሰ፡ አልቦ፡ ለዘ፡ አዘዘ፡ ይግበሩ፡ ኀጢአተ፡ ወኢያብሐ፡ ወኢለመኑሂ፡ ከመ፡ ያአብሱ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወውእቱሰ",
+          "t": "wäwəʾətusä",
+          "gl": ""
+        },
+        {
+          "g": "አልቦ",
+          "t": "ʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ለዘ",
+          "t": "läzä",
+          "gl": ""
+        },
+        {
+          "g": "አዘዘ",
+          "t": "ʾäzäzä",
+          "gl": ""
+        },
+        {
+          "g": "ይግበሩ",
+          "t": "yəgəbäru",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአተ",
+          "t": "ḫäṭiʾätä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢያብሐ",
+          "t": "wäʾiyabəḥä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢለመኑሂ",
+          "t": "wäʾilämänuhi",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ያአብሱ",
+          "t": "yaʾäbəsu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "He hath commanded no man to do wickedly, neither hath he given any man licence to sin."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    }
+  }
+}

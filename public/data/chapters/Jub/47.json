@@ -1,0 +1,931 @@
+{
+  "book": "Jub",
+  "chapter": 47,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወበሱባዔ ፡ ሳብዕ ፡ በሳብዕ ፡ ዓመት ፡ በዘ ፡ አርብዓ ፡ ወሰብዓቱ ፡ ኢዩቤልዉ ፡ መጽአ ፡ አቡከ ፡ እምድረ ፡ ከናአን ፡ ወተወለድከ ፡ በራብዕ ፡ ሱባዔ ፡ በሳድስ ፡ ዓመቱ ፡ በዘ ፡ አርብዓ ፡ ወሰማኒቱ ፡ ኢዮቤሌዎን ፡ ዘውእቱ ፡ መዋዕለ ፡ ምንዳቤ ፡ ላዕለ ፡ ውሉደ ፡ እስራኤል ።",
+      "translation": "And in the seventh week, in the seventh year, in the forty-seventh jubilee, thy father went forth [2303 A.M.] from the land of Canaan, and thou wast born in the fourth week, in the sixth year thereof, in the [2330 A.M.] forty-eighth jubilee; this was the time of tribulation on the children of Israel. And Pharaoh, king of Egypt, issued a command regarding them that they should cast all their male children which were born into the river. And they cast them in for seven months until the day that thou wast born And thy mother hid thee for three months, and they told regarding her. And she made an ark for thee, and covered it with pitch and asphalt, and placed it in the flags on the bank of the river, and she placed thee in it seven days, and thy mother came by night and suckled thee, and by day Miriam, thy sister, guarded thee from the birds. And in those days Tharmuth, the daughter of Pharaoh, came to bathe in the river, and she heard thy voice crying, and she told her maidens to bring thee forth, and they brought thee unto her. And she took thee out of the ark, and she had compassion on thee. And thy sister said unto her: 'Shall I go and call unto thee one of the Hebrew women to nurse and suckle this babe for thee?' And she said <unto her>: 'Go.' And she went and called thy mother Jochebed, and she gave her wages, and she nursed thee. And afterwards, when thou wast grown up, they brought thee unto the daughter of Pharaoh, and thou didst become her son, and Amram thy father taught thee writing, and after thou hadst completed three weeks they brought thee into the royal court. And thou wast three weeks of years at court until the time [2351-] when thou didst go forth from the royal court and didst see an Egyptian smiting thy friend who was [2372 A.M.] of the children of Israel, and thou didst slay him and hide him in the sand. And on the second day thou didst and two of the children of Israel striving together, and thou didst say to him who was doing the wrong: 'Why dost thou smite thy brother?' And he was angry and indignant, and said: 'Who made thee a prince and a judge over us? Thinkest thou to kill me as thou killedst the Egyptian yesterday?' And thou didst fear and flee on account of these words.",
+      "words": [
+        {
+          "g": "ወበሱባዔ",
+          "t": "wäbäsubaʿe",
+          "gl": ""
+        },
+        {
+          "g": "ሳብዕ",
+          "t": "sabəʿə",
+          "gl": ""
+        },
+        {
+          "g": "በሳብዕ",
+          "t": "bäsabəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ዓመት",
+          "t": "ʿamätə",
+          "gl": ""
+        },
+        {
+          "g": "በዘ",
+          "t": "bäzä",
+          "gl": ""
+        },
+        {
+          "g": "አርብዓ",
+          "t": "ʾärəbəʿa",
+          "gl": ""
+        },
+        {
+          "g": "ወሰብዓቱ",
+          "t": "wäsäbəʿatu",
+          "gl": ""
+        },
+        {
+          "g": "ኢዩቤልዉ",
+          "t": "ʾiyubeləwu",
+          "gl": ""
+        },
+        {
+          "g": "መጽአ",
+          "t": "mäṣəʾä",
+          "gl": ""
+        },
+        {
+          "g": "አቡከ",
+          "t": "ʾäbukä",
+          "gl": ""
+        },
+        {
+          "g": "እምድረ",
+          "t": "ʾəmədərä",
+          "gl": ""
+        },
+        {
+          "g": "ከናአን",
+          "t": "känaʾänə",
+          "gl": ""
+        },
+        {
+          "g": "ወተወለድከ",
+          "t": "wätäwälädəkä",
+          "gl": ""
+        },
+        {
+          "g": "በራብዕ",
+          "t": "bärabəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ሱባዔ",
+          "t": "subaʿe",
+          "gl": ""
+        },
+        {
+          "g": "በሳድስ",
+          "t": "bäsadəsə",
+          "gl": ""
+        },
+        {
+          "g": "ዓመቱ",
+          "t": "ʿamätu",
+          "gl": ""
+        },
+        {
+          "g": "በዘ",
+          "t": "bäzä",
+          "gl": ""
+        },
+        {
+          "g": "አርብዓ",
+          "t": "ʾärəbəʿa",
+          "gl": ""
+        },
+        {
+          "g": "ወሰማኒቱ",
+          "t": "wäsämanitu",
+          "gl": ""
+        },
+        {
+          "g": "ኢዮቤሌዎን",
+          "t": "ʾiyobelewonə",
+          "gl": ""
+        },
+        {
+          "g": "ዘውእቱ",
+          "t": "zäwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕለ",
+          "t": "mäwaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ምንዳቤ",
+          "t": "mənədabe",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ውሉደ",
+          "t": "wəludä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "geez": "ወአዘዘ ፡ ንጉሠ ፡ ግብጽ ፡ ፈርዖን ፡ ትእዛዘ ፡ ላዕሌሆሙ ፡ ከመ ፡ ይግድፉ ፡ ውሉዶሙ ፡ ኵሎ ፡ ሮሰ ፡ ዘተወልደ ፡ ውስተ ፡ ፈለግ ፡",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአዘዘ",
+          "t": "wäʾäzäzä",
+          "gl": ""
+        },
+        {
+          "g": "ንጉሠ",
+          "t": "nəguśä",
+          "gl": ""
+        },
+        {
+          "g": "ግብጽ",
+          "t": "gəbəṣə",
+          "gl": ""
+        },
+        {
+          "g": "ፈርዖን",
+          "t": "färəʿonə",
+          "gl": ""
+        },
+        {
+          "g": "ትእዛዘ",
+          "t": "təʾəzazä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሆሙ",
+          "t": "laʿəlehomu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይግድፉ",
+          "t": "yəgədəfu",
+          "gl": ""
+        },
+        {
+          "g": "ውሉዶሙ",
+          "t": "wəludomu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ሮሰ",
+          "t": "rosä",
+          "gl": ""
+        },
+        {
+          "g": "ዘተወልደ",
+          "t": "zätäwälədä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ፈለግ",
+          "t": "fälägə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "geez": "ወነበሩ ፡ እንዘ ፡ ይገድፉ ፡ ሰብዐተ ፡ ወርኀ ፡ እስከ ፡ አመ ፡ ዕለተ ፡ ተወለድከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነበሩ",
+          "t": "wänäbäru",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ይገድፉ",
+          "t": "yəgädəfu",
+          "gl": ""
+        },
+        {
+          "g": "ሰብዐተ",
+          "t": "säbəʿätä",
+          "gl": ""
+        },
+        {
+          "g": "ወርኀ",
+          "t": "wärəḫä",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ዕለተ",
+          "t": "ʿəlätä",
+          "gl": ""
+        },
+        {
+          "g": "ተወለድከ",
+          "t": "täwälädəkä",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 4,
+      "geez": "ወገብረት ፡ ለከ ፡ ነፍቀ ፡ ወለበጠታ ፡ ፒሳ ፡ ወአስፋሊጦ ፡ ወአንበረቶ ፡ ውስተ ፡ ሣዕር ፡ ኀበ ፡ ድንጋገ ፡ ፈለግ ፡ ወአንበረተከ ፡ ውስቴታ ፡ ሰቡዐ ፡ መዋዕለ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወገብረት",
+          "t": "wägäbərätə",
+          "gl": ""
+        },
+        {
+          "g": "ለከ",
+          "t": "läkä",
+          "gl": ""
+        },
+        {
+          "g": "ነፍቀ",
+          "t": "näfəqä",
+          "gl": ""
+        },
+        {
+          "g": "ወለበጠታ",
+          "t": "wäläbäṭäta",
+          "gl": ""
+        },
+        {
+          "g": "ፒሳ",
+          "t": "pisa",
+          "gl": ""
+        },
+        {
+          "g": "ወአስፋሊጦ",
+          "t": "wäʾäsəfaliṭo",
+          "gl": ""
+        },
+        {
+          "g": "ወአንበረቶ",
+          "t": "wäʾänəbäräto",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሣዕር",
+          "t": "śaʿərə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ድንጋገ",
+          "t": "dənəgagä",
+          "gl": ""
+        },
+        {
+          "g": "ፈለግ",
+          "t": "fälägə",
+          "gl": ""
+        },
+        {
+          "g": "ወአንበረተከ",
+          "t": "wäʾänəbärätäkä",
+          "gl": ""
+        },
+        {
+          "g": "ውስቴታ",
+          "t": "wəsəteta",
+          "gl": ""
+        },
+        {
+          "g": "ሰቡዐ",
+          "t": "säbuʿä",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕለ",
+          "t": "mäwaʿəlä",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 5,
+      "geez": "ወበውእቱ ፡ መዋዕል ፡ ወፅአት ፡ ተርሙት ፡ ወለተ ፡ ፈርዖን ፡ ከመ ፡ ትትኀፀብ ፡ በውስተ ፡ ፈለግ ፡ ወሰምዐት ፡ ቃለከ ፡ እንዘ ፡ ትበኪ ፡ ወትቤ ፡ ለዕብራዊያቲሃ ፡ ከመ ፡ ያምጽአከ ፡ ወአምጽአከ ፡ ኀቤሃ ፡ 6 ወአውፅአተከ ፡ እምነፍቅ ፡ ወምሕረተከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበውእቱ",
+          "t": "wäbäwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕል",
+          "t": "mäwaʿələ",
+          "gl": ""
+        },
+        {
+          "g": "ወፅአት",
+          "t": "wäṣ́əʾätə",
+          "gl": ""
+        },
+        {
+          "g": "ተርሙት",
+          "t": "tärəmutə",
+          "gl": ""
+        },
+        {
+          "g": "ወለተ",
+          "t": "wälätä",
+          "gl": ""
+        },
+        {
+          "g": "ፈርዖን",
+          "t": "färəʿonə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ትትኀፀብ",
+          "t": "tətəḫäṣ́äbə",
+          "gl": ""
+        },
+        {
+          "g": "በውስተ",
+          "t": "bäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ፈለግ",
+          "t": "fälägə",
+          "gl": ""
+        },
+        {
+          "g": "ወሰምዐት",
+          "t": "wäsäməʿätə",
+          "gl": ""
+        },
+        {
+          "g": "ቃለከ",
+          "t": "qaläkä",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ትበኪ",
+          "t": "təbäki",
+          "gl": ""
+        },
+        {
+          "g": "ወትቤ",
+          "t": "wätəbe",
+          "gl": ""
+        },
+        {
+          "g": "ለዕብራዊያቲሃ",
+          "t": "läʿəbərawiyatiha",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ያምጽአከ",
+          "t": "yaməṣəʾäkä",
+          "gl": ""
+        },
+        {
+          "g": "ወአምጽአከ",
+          "t": "wäʾäməṣəʾäkä",
+          "gl": ""
+        },
+        {
+          "g": "ኀቤሃ",
+          "t": "ḫäbeha",
+          "gl": ""
+        },
+        {
+          "g": "6 ወአውፅአተከ",
+          "t": "6 wäʾäwəṣ́əʾätäkä",
+          "gl": ""
+        },
+        {
+          "g": "እምነፍቅ",
+          "t": "ʾəmənäfəqə",
+          "gl": ""
+        },
+        {
+          "g": "ወምሕረተከ",
+          "t": "wäməḥərätäkä",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 7,
+      "geez": "ወትቤላ ፡ እኅርከ ፡ እሖርኑ ፡ ወእጸውዕ ፡ ለኪ ፡ አሐተ ፡ እምዕብራዊያት ፡ እንተ ፡ ተሐፅኖ ፡ ወታጠብዎ ፡ ለኪ ፡ ለዝ ፡ ሕፃን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትቤላ",
+          "t": "wätəbela",
+          "gl": ""
+        },
+        {
+          "g": "እኅርከ",
+          "t": "ʾəḫərəkä",
+          "gl": ""
+        },
+        {
+          "g": "እሖርኑ",
+          "t": "ʾəḥorənu",
+          "gl": ""
+        },
+        {
+          "g": "ወእጸውዕ",
+          "t": "wäʾəṣäwəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ለኪ",
+          "t": "läki",
+          "gl": ""
+        },
+        {
+          "g": "አሐተ",
+          "t": "ʾäḥätä",
+          "gl": ""
+        },
+        {
+          "g": "እምዕብራዊያት",
+          "t": "ʾəməʿəbərawiyatə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ተሐፅኖ",
+          "t": "täḥäṣ́əno",
+          "gl": ""
+        },
+        {
+          "g": "ወታጠብዎ",
+          "t": "wätaṭäbəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለኪ",
+          "t": "läki",
+          "gl": ""
+        },
+        {
+          "g": "ለዝ",
+          "t": "läzə",
+          "gl": ""
+        },
+        {
+          "g": "ሕፃን",
+          "t": "ḥəṣ́anə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 8,
+      "geez": "ወሖረት ፡ ወጸውዐታ ፡ ለእምከ ፡ ለኢዮክቤት ፡ ወወሀበታ ፡ ዐስበ ፡ ወሐፀነተከ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሖረት",
+          "t": "wäḥorätə",
+          "gl": ""
+        },
+        {
+          "g": "ወጸውዐታ",
+          "t": "wäṣäwəʿäta",
+          "gl": ""
+        },
+        {
+          "g": "ለእምከ",
+          "t": "läʾəməkä",
+          "gl": ""
+        },
+        {
+          "g": "ለኢዮክቤት",
+          "t": "läʾiyokəbetə",
+          "gl": ""
+        },
+        {
+          "g": "ወወሀበታ",
+          "t": "wäwähäbäta",
+          "gl": ""
+        },
+        {
+          "g": "ዐስበ",
+          "t": "ʿäsəbä",
+          "gl": ""
+        },
+        {
+          "g": "ወሐፀነተከ",
+          "t": "wäḥäṣ́änätäkä",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 9,
+      "geez": "ወእምዝ ፡ ልሂቀከ ፡ ወሰዱከ ፡ ቤተ ፡ ፈርዖን ፡ ወኮንከ ፡ ውሉዳ ፡ ወመሀረከ ፡ ዕብራን ፡ አቡከ ፡ መጽሐፈ ፡ ወእምዘ ፡ ፈጸምከ ፡ ሠለስተ ፡ ሱባዔ ፡ አብአከ ፡ ውስተ ፡ ዐጸደ ፡ መንግሥት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእምዝ",
+          "t": "wäʾəməzə",
+          "gl": ""
+        },
+        {
+          "g": "ልሂቀከ",
+          "t": "ləhiqäkä",
+          "gl": ""
+        },
+        {
+          "g": "ወሰዱከ",
+          "t": "wäsädukä",
+          "gl": ""
+        },
+        {
+          "g": "ቤተ",
+          "t": "betä",
+          "gl": ""
+        },
+        {
+          "g": "ፈርዖን",
+          "t": "färəʿonə",
+          "gl": ""
+        },
+        {
+          "g": "ወኮንከ",
+          "t": "wäkonəkä",
+          "gl": ""
+        },
+        {
+          "g": "ውሉዳ",
+          "t": "wəluda",
+          "gl": ""
+        },
+        {
+          "g": "ወመሀረከ",
+          "t": "wämähäräkä",
+          "gl": ""
+        },
+        {
+          "g": "ዕብራን",
+          "t": "ʿəbəranə",
+          "gl": ""
+        },
+        {
+          "g": "አቡከ",
+          "t": "ʾäbukä",
+          "gl": ""
+        },
+        {
+          "g": "መጽሐፈ",
+          "t": "mäṣəḥäfä",
+          "gl": ""
+        },
+        {
+          "g": "ወእምዘ",
+          "t": "wäʾəməzä",
+          "gl": ""
+        },
+        {
+          "g": "ፈጸምከ",
+          "t": "fäṣäməkä",
+          "gl": ""
+        },
+        {
+          "g": "ሠለስተ",
+          "t": "śäläsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሱባዔ",
+          "t": "subaʿe",
+          "gl": ""
+        },
+        {
+          "g": "አብአከ",
+          "t": "ʾäbəʾäkä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዐጸደ",
+          "t": "ʿäṣädä",
+          "gl": ""
+        },
+        {
+          "g": "መንግሥት",
+          "t": "mänəgəśətə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 10,
+      "geez": "ወሀለውከ ፡ ውስተ ፡ ዐጸድ ፡ ሠለስተ ፡ ሱባዔ ፡ ዓመት ፡ እስከ ፡ መዋዕል ፡ አመ ፡ ወፃእከ ፡ እምዐጸደ ፡ መንግሥት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሀለውከ",
+          "t": "wähäläwəkä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዐጸድ",
+          "t": "ʿäṣädə",
+          "gl": ""
+        },
+        {
+          "g": "ሠለስተ",
+          "t": "śäläsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሱባዔ",
+          "t": "subaʿe",
+          "gl": ""
+        },
+        {
+          "g": "ዓመት",
+          "t": "ʿamätə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕል",
+          "t": "mäwaʿələ",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ወፃእከ",
+          "t": "wäṣ́aʾəkä",
+          "gl": ""
+        },
+        {
+          "g": "እምዐጸደ",
+          "t": "ʾəməʿäṣädä",
+          "gl": ""
+        },
+        {
+          "g": "መንግሥት",
+          "t": "mänəgəśətə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 11,
+      "geez": "ወበሳኒታ ፡ ዕለት ፡ ረከብከ ፡ ክልኤተ ፡ እንዘ ፡ ይትባአሱ ፡ እምውሉደ ፡ እስራኤል ፡ ወትቤሎ ፡ ለዘይትዔገል ፡ ለምንት ፡ ትዘብጥ ፡ እኅዋከ ፡ 12 ወተምዕዐ ፡ ወተቈጥዐ ፡ ወይቤ ፡ መኑ ፡ ሤመከ ፡ ላዕሌነ ፡ መልአከ ፡ ወመኰንነ ፡ ትቅትለኒኑ ፡ ትፈቅድ ፡ በከመ ፡ ቀተልኮ ፡ ለግብጻዊ ፡ ወፈራህከ ፡ ወጐየይከ ፡ እምቅድመ ፡ ዝንቱ ፡ ነገር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወበሳኒታ",
+          "t": "wäbäsanita",
+          "gl": ""
+        },
+        {
+          "g": "ዕለት",
+          "t": "ʿəlätə",
+          "gl": ""
+        },
+        {
+          "g": "ረከብከ",
+          "t": "räkäbəkä",
+          "gl": ""
+        },
+        {
+          "g": "ክልኤተ",
+          "t": "kələʾetä",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ይትባአሱ",
+          "t": "yətəbaʾäsu",
+          "gl": ""
+        },
+        {
+          "g": "እምውሉደ",
+          "t": "ʾəməwəludä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወትቤሎ",
+          "t": "wätəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ለዘይትዔገል",
+          "t": "läzäyətəʿegälə",
+          "gl": ""
+        },
+        {
+          "g": "ለምንት",
+          "t": "lämənətə",
+          "gl": ""
+        },
+        {
+          "g": "ትዘብጥ",
+          "t": "təzäbəṭə",
+          "gl": ""
+        },
+        {
+          "g": "እኅዋከ",
+          "t": "ʾəḫəwakä",
+          "gl": ""
+        },
+        {
+          "g": "12 ወተምዕዐ",
+          "t": "12 wätäməʿəʿä",
+          "gl": ""
+        },
+        {
+          "g": "ወተቈጥዐ",
+          "t": "wätäqwäṭəʿä",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "መኑ",
+          "t": "mänu",
+          "gl": ""
+        },
+        {
+          "g": "ሤመከ",
+          "t": "śemäkä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌነ",
+          "t": "laʿəlenä",
+          "gl": ""
+        },
+        {
+          "g": "መልአከ",
+          "t": "mäləʾäkä",
+          "gl": ""
+        },
+        {
+          "g": "ወመኰንነ",
+          "t": "wämäkwänənä",
+          "gl": ""
+        },
+        {
+          "g": "ትቅትለኒኑ",
+          "t": "təqətəläninu",
+          "gl": ""
+        },
+        {
+          "g": "ትፈቅድ",
+          "t": "təfäqədə",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ቀተልኮ",
+          "t": "qätäləko",
+          "gl": ""
+        },
+        {
+          "g": "ለግብጻዊ",
+          "t": "lägəbəṣawi",
+          "gl": ""
+        },
+        {
+          "g": "ወፈራህከ",
+          "t": "wäfärahəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወጐየይከ",
+          "t": "wägwäyäyəkä",
+          "gl": ""
+        },
+        {
+          "g": "እምቅድመ",
+          "t": "ʾəməqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ነገር",
+          "t": "nägärə",
+          "gl": ""
+        }
+      ]
+    }
+  ]
+}

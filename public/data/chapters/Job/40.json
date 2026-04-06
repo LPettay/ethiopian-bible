@@ -1,0 +1,1637 @@
+{
+  "book": "Job",
+  "chapter": 40,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወተሰጥዎ፡ እግዚአብሔር፡ ለኢዮብ፡ ወይቤሎ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተሰጥዎ",
+          "t": "wätäsäṭəwo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለኢዮብ",
+          "t": "läʾiyobə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord God answered Job, and said,",
+        "kjv": "Moreover the LORD answered Job, and said,"
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ምስለ፡ ቢጽከኑ፡ ዘትትዋቀሥ፡ አንተ፡ ከመ፡ ትትዋሣእ፡ እንዘ፡ እግዚአብሔር፡ ይዘልፈከ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ቢጽከኑ",
+          "t": "biṣəkänu",
+          "gl": ""
+        },
+        {
+          "g": "ዘትትዋቀሥ",
+          "t": "zätətəwaqäśə",
+          "gl": ""
+        },
+        {
+          "g": "አንተ",
+          "t": "ʾänətä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ትትዋሣእ",
+          "t": "tətəwaśaʾə",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ይዘልፈከ",
+          "t": "yəzäləfäkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Will any one pervert judgment with the Mighty One? and he that reproves God, let him return it for answer.",
+        "kjv": "Shall he that contendeth with the Almighty instruct him? he that reproveth God, let him answer it."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወተሰጥዎ፡ ኢዮብ፡ ለእግዚአብሔር፡ ወይቤሎ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተሰጥዎ",
+          "t": "wätäsäṭəwo",
+          "gl": ""
+        },
+        {
+          "g": "ኢዮብ",
+          "t": "ʾiyobə",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Job answered and said to the Lord,",
+        "kjv": "Then Job answered the LORD, and said,"
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ምንት፡ ብየ፡ ዘአወሥእ፡ እንዘ፡ ትሜህረኒ፡ ወምንትኑ፡ አነ፡ ከመ፡ እትዋቀሥ፡ ምስለ፡ እግዚአብሔር፡ እነዘ፡ ዘንተ፡ አሰምዕ፡ ወምንትኑ፡ ዘአወሥአ፡ አነ፡ ዘእንበለ፡ ዘእወዲ፡ እዴየ፡ ዲበ፡ አፉየ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ምንት",
+          "t": "mənətə",
+          "gl": ""
+        },
+        {
+          "g": "ብየ",
+          "t": "bəyä",
+          "gl": ""
+        },
+        {
+          "g": "ዘአወሥእ",
+          "t": "zäʾäwäśəʾə",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ትሜህረኒ",
+          "t": "təmehəräni",
+          "gl": ""
+        },
+        {
+          "g": "ወምንትኑ",
+          "t": "wämənətənu",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "እትዋቀሥ",
+          "t": "ʾətəwaqäśə",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "እነዘ",
+          "t": "ʾənäzä",
+          "gl": ""
+        },
+        {
+          "g": "ዘንተ",
+          "t": "zänətä",
+          "gl": ""
+        },
+        {
+          "g": "አሰምዕ",
+          "t": "ʾäsäməʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወምንትኑ",
+          "t": "wämənətənu",
+          "gl": ""
+        },
+        {
+          "g": "ዘአወሥአ",
+          "t": "zäʾäwäśəʾä",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "ዘእንበለ",
+          "t": "zäʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "ዘእወዲ",
+          "t": "zäʾəwädi",
+          "gl": ""
+        },
+        {
+          "g": "እዴየ",
+          "t": "ʾədeyä",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "አፉየ",
+          "t": "ʾäfuyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Why do I yet plead? being rebuked even while reproving the Lord: hearing such things, whereas I am nothing: and what shall I answer to these arguments? I will lay my hand upon my mouth.",
+        "kjv": "Behold, I am vile; what shall I answer thee? I will lay mine hand upon my mouth."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ምዕረ፡ ነበብኩ፡ ወኢይደግም፡ እንከ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ምዕረ",
+          "t": "məʿərä",
+          "gl": ""
+        },
+        {
+          "g": "ነበብኩ",
+          "t": "näbäbəku",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይደግም",
+          "t": "wäʾiyədägəmə",
+          "gl": ""
+        },
+        {
+          "g": "እንከ",
+          "t": "ʾənəkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "I have spoken once; but I will not do so a second time.",
+        "kjv": "Once have I spoken; but I will not answer: yea, twice; but I will proceed no further."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወዓዲ፡ ተሠጥዎ፡ እግዚአብሔር፡ ለኢዮብ፡ እምደመና፡ ወይቤሎ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዓዲ",
+          "t": "wäʿadi",
+          "gl": ""
+        },
+        {
+          "g": "ተሠጥዎ",
+          "t": "täśäṭəwo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለኢዮብ",
+          "t": "läʾiyobə",
+          "gl": ""
+        },
+        {
+          "g": "እምደመና",
+          "t": "ʾəmədämäna",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord yet again answered and spoke to Job out of the cloud, saying,",
+        "kjv": "Then answered the LORD unto Job out of the whirlwind, and said,"
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ዳዕሙ፡ ቅንት፡ ሐቌከ፡ ከመ፡ ብእሲ፡ ወእሴአለከ፡ ወአንተ፡ አውሥአኒ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዳዕሙ",
+          "t": "daʿəmu",
+          "gl": ""
+        },
+        {
+          "g": "ቅንት",
+          "t": "qənətə",
+          "gl": ""
+        },
+        {
+          "g": "ሐቌከ",
+          "t": "ḥäqwekä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ወእሴአለከ",
+          "t": "wäʾəseʾäläkä",
+          "gl": ""
+        },
+        {
+          "g": "ወአንተ",
+          "t": "wäʾänətä",
+          "gl": ""
+        },
+        {
+          "g": "አውሥአኒ",
+          "t": "ʾäwəśəʾäni",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Nay, gird up now thy loins like a man; and I will ask thee, and do thou answer me.",
+        "kjv": "Gird up thy loins now like a man: I will demand of thee, and declare thou unto me."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወአመ፡ አኮ፡ ኅደግ፡ ፍትሕየ፡ ይመስለከኑ፡ ካልእ፡ ዘይኴንነከ፡ ዳዕሙ፡ ከመ፡ ታስተርኢ፡ ጽድቀከ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአመ",
+          "t": "wäʾämä",
+          "gl": ""
+        },
+        {
+          "g": "አኮ",
+          "t": "ʾäko",
+          "gl": ""
+        },
+        {
+          "g": "ኅደግ",
+          "t": "ḫədägə",
+          "gl": ""
+        },
+        {
+          "g": "ፍትሕየ",
+          "t": "fətəḥəyä",
+          "gl": ""
+        },
+        {
+          "g": "ይመስለከኑ",
+          "t": "yəmäsəläkänu",
+          "gl": ""
+        },
+        {
+          "g": "ካልእ",
+          "t": "kaləʾə",
+          "gl": ""
+        },
+        {
+          "g": "ዘይኴንነከ",
+          "t": "zäyəkwenənäkä",
+          "gl": ""
+        },
+        {
+          "g": "ዳዕሙ",
+          "t": "daʿəmu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ታስተርኢ",
+          "t": "tasətärəʾi",
+          "gl": ""
+        },
+        {
+          "g": "ጽድቀከ",
+          "t": "ṣədəqäkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Do not set aside my judgment: and dost thou think that I have dealt with thee in any other way, than that thou mightest appear to be righteous?",
+        "kjv": "Wilt thou also disannul my judgment? wilt thou condemn me, that thou mayest be righteous?"
+      }
+    },
+    {
+      "num": 9,
+      "geez": "መዝራፅትከኑ፡ ከመ፡ እግዚአብሔር፡ ወቃልከኑ፡ ከመ፡ ነጐድጓድ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "መዝራፅትከኑ",
+          "t": "mäzəraṣ́ətəkänu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወቃልከኑ",
+          "t": "wäqaləkänu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ነጐድጓድ",
+          "t": "nägwädəgwadə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Hast thou an arm like the Lord's? or dost thou thunder with a voice like his?",
+        "kjv": "Hast thou an arm like God? or canst thou thunder with a voice like him?"
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ልበስ፡ እስኩ፡ ኃይለ፡ ዘእምአርያም፡ ወተረሠይ፡ በክብር፡ ወበስብሐት።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ልበስ",
+          "t": "ləbäsə",
+          "gl": ""
+        },
+        {
+          "g": "እስኩ",
+          "t": "ʾəsəku",
+          "gl": ""
+        },
+        {
+          "g": "ኃይለ",
+          "t": "ḫayəlä",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምአርያም",
+          "t": "zäʾəməʾärəyamə",
+          "gl": ""
+        },
+        {
+          "g": "ወተረሠይ",
+          "t": "wätäräśäyə",
+          "gl": ""
+        },
+        {
+          "g": "በክብር",
+          "t": "bäkəbərə",
+          "gl": ""
+        },
+        {
+          "g": "ወበስብሐት",
+          "t": "wäbäsəbəḥätə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Assume now a lofty bearing and power; and clothe thyself with glory and honour.",
+        "kjv": "Deck thyself now with majesty and excellency; and array thyself with glory and beauty."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወፈኑ፡ መላእክተ፡ ሞት፡ ወአኅሥሮ፡ ለጸላኢከ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወፈኑ",
+          "t": "wäfänu",
+          "gl": ""
+        },
+        {
+          "g": "መላእክተ",
+          "t": "mälaʾəkətä",
+          "gl": ""
+        },
+        {
+          "g": "ሞት",
+          "t": "motə",
+          "gl": ""
+        },
+        {
+          "g": "ወአኅሥሮ",
+          "t": "wäʾäḫəśəro",
+          "gl": ""
+        },
+        {
+          "g": "ለጸላኢከ",
+          "t": "läṣälaʾikä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And send forth messengers with wrath; and lay low every haughty one.",
+        "kjv": "Cast abroad the rage of thy wrath: and behold every one that is proud, and abase him."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወአጥፍኦሙ፡ ለዕቡያን፡ ወበጊዜሃ፡ ድፍኖሙ፡ ለረሲዓን፡ ወአብልዮሙ፡ ኅቡረ፡ ውስተ፡ ምድር፡ በአፍኣ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአጥፍኦሙ",
+          "t": "wäʾäṭəfəʾomu",
+          "gl": ""
+        },
+        {
+          "g": "ለዕቡያን",
+          "t": "läʿəbuyanə",
+          "gl": ""
+        },
+        {
+          "g": "ወበጊዜሃ",
+          "t": "wäbägizeha",
+          "gl": ""
+        },
+        {
+          "g": "ድፍኖሙ",
+          "t": "dəfənomu",
+          "gl": ""
+        },
+        {
+          "g": "ለረሲዓን",
+          "t": "läräsiʿanə",
+          "gl": ""
+        },
+        {
+          "g": "ወአብልዮሙ",
+          "t": "wäʾäbələyomu",
+          "gl": ""
+        },
+        {
+          "g": "ኅቡረ",
+          "t": "ḫəburä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "በአፍኣ",
+          "t": "bäʾäfəʾa",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Bring down also the proud man; and consume at once the ungodly.",
+        "kjv": "Look on every one that is proud, and bring him low; and tread down the wicked in their place."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወምላእ፡ ውስተ፡ ገጾሙ፡ ኀሣረ፡ ወኅብኦሙ፡ ውስተ፡ ምድር፡ በአፍኣ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወምላእ",
+          "t": "wäməlaʾə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ገጾሙ",
+          "t": "gäṣomu",
+          "gl": ""
+        },
+        {
+          "g": "ኀሣረ",
+          "t": "ḫäśarä",
+          "gl": ""
+        },
+        {
+          "g": "ወኅብኦሙ",
+          "t": "wäḫəbəʾomu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "በአፍኣ",
+          "t": "bäʾäfəʾa",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And hide them together in the earth; and fill their faces with shame.",
+        "kjv": "Hide them in the dust together; and bind their faces in secret."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወአነሂ፡ አአምነከ፡ ከመ፡ ትክል፡ የማንከ፡ አድኅኖ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአነሂ",
+          "t": "wäʾänähi",
+          "gl": ""
+        },
+        {
+          "g": "አአምነከ",
+          "t": "ʾäʾämənäkä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ትክል",
+          "t": "təkələ",
+          "gl": ""
+        },
+        {
+          "g": "የማንከ",
+          "t": "yämanəkä",
+          "gl": ""
+        },
+        {
+          "g": "አድኅኖ",
+          "t": "ʾädəḫəno",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Then will I confess that thy right hand can save thee.",
+        "kjv": "Then will I also confess unto thee that thine own right hand can save thee."
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ወናሁ፡ አራዊትኒ፡ በኀቤከ፡ ከመ፡ እንስሳ፡ ይትረዐይ፡ ሣዕረ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወናሁ",
+          "t": "wänahu",
+          "gl": ""
+        },
+        {
+          "g": "አራዊትኒ",
+          "t": "ʾärawitəni",
+          "gl": ""
+        },
+        {
+          "g": "በኀቤከ",
+          "t": "bäḫäbekä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "እንስሳ",
+          "t": "ʾənəsəsa",
+          "gl": ""
+        },
+        {
+          "g": "ይትረዐይ",
+          "t": "yətəräʿäyə",
+          "gl": ""
+        },
+        {
+          "g": "ሣዕረ",
+          "t": "śaʿərä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But now look at the wild beasts with thee; they eat grass like oxen.",
+        "kjv": "Behold now behemoth, which I made with thee; he eateth grass as an ox."
+      }
+    },
+    {
+      "num": 16,
+      "geez": "ወናሁ፡ ኃይሉ፡ ውስተ፡ ሐቌሁ፡ ወጽንዑ፡ ውስተ፡ ኅንብርተ፡ ከርሡ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወናሁ",
+          "t": "wänahu",
+          "gl": ""
+        },
+        {
+          "g": "ኃይሉ",
+          "t": "ḫayəlu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሐቌሁ",
+          "t": "ḥäqwehu",
+          "gl": ""
+        },
+        {
+          "g": "ወጽንዑ",
+          "t": "wäṣənəʿu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኅንብርተ",
+          "t": "ḫənəbərətä",
+          "gl": ""
+        },
+        {
+          "g": "ከርሡ",
+          "t": "kärəśu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Behold now, his strength is in his loins, and his force is in the navel of his belly.",
+        "kjv": "Lo now, his strength is in his loins, and his force is in the navel of his belly."
+      }
+    },
+    {
+      "num": 17,
+      "geez": "ወአቀመ፡ ዘባኖ፡ (ዘነቦ)፡ ከመ፡ ዕፀቄጵርስስ፡ ወሥረዊሁኒ፡ ጽፉር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአቀመ",
+          "t": "wäʾäqämä",
+          "gl": ""
+        },
+        {
+          "g": "ዘባኖ",
+          "t": "zäbano",
+          "gl": ""
+        },
+        {
+          "g": "ዘነቦ",
+          "t": "zänäbo",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ዕፀቄጵርስስ",
+          "t": "ʿəṣ́äqeṗərəsəsə",
+          "gl": ""
+        },
+        {
+          "g": "ወሥረዊሁኒ",
+          "t": "wäśəräwihuni",
+          "gl": ""
+        },
+        {
+          "g": "ጽፉር",
+          "t": "ṣəfurə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "He sets up his tail like a cypress; and his nerves are wrapped together.",
+        "kjv": "He moveth his tail like a cedar: the sinews of his stones are wrapped together."
+      }
+    },
+    {
+      "num": 18,
+      "geez": "ወአፅዕምተ፡ ገበዋቲሁኒ፡ ዘብርት፡ ወአፅዕምተ፡ ዘባኑሂ፡ ዘሐፂን፡ ስብኮ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአፅዕምተ",
+          "t": "wäʾäṣ́əʿəmətä",
+          "gl": ""
+        },
+        {
+          "g": "ገበዋቲሁኒ",
+          "t": "gäbäwatihuni",
+          "gl": ""
+        },
+        {
+          "g": "ዘብርት",
+          "t": "zäbərətə",
+          "gl": ""
+        },
+        {
+          "g": "ወአፅዕምተ",
+          "t": "wäʾäṣ́əʿəmətä",
+          "gl": ""
+        },
+        {
+          "g": "ዘባኑሂ",
+          "t": "zäbanuhi",
+          "gl": ""
+        },
+        {
+          "g": "ዘሐፂን",
+          "t": "zäḥäṣ́inə",
+          "gl": ""
+        },
+        {
+          "g": "ስብኮ",
+          "t": "səbəko",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "His sides are sides of brass; and his backbone is as cast iron.",
+        "kjv": "His bones are as strong pieces of brass; his bones are like bars of iron."
+      }
+    },
+    {
+      "num": 19,
+      "geez": "ዝ፡ ውእቱ፡ ቀዳሜ፡ ተግባሩ፡ ለእግዚአብሔር፡ ወተገቢሮሂ፡ ሰሐቅዎ፡ መላእክቲሁ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዝ",
+          "t": "zə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ቀዳሜ",
+          "t": "qädame",
+          "gl": ""
+        },
+        {
+          "g": "ተግባሩ",
+          "t": "tägəbaru",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወተገቢሮሂ",
+          "t": "wätägäbirohi",
+          "gl": ""
+        },
+        {
+          "g": "ሰሐቅዎ",
+          "t": "säḥäqəwo",
+          "gl": ""
+        },
+        {
+          "g": "መላእክቲሁ",
+          "t": "mälaʾəkətihu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "This is the chief of the creation of the Lord; made to be played with by his angels.",
+        "kjv": "He is the chief of the ways of God: he that made him can make his sword to approach unto him."
+      }
+    },
+    {
+      "num": 20,
+      "geez": "ወሖረ፡ ውስተ፡ ደብር፡ ነዋኅ፡ ወገበወረ፡ ብሔረ፡ ለእንስሳሁ፡ በውስተ፡ ቊር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሖረ",
+          "t": "wäḥorä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ደብር",
+          "t": "däbərə",
+          "gl": ""
+        },
+        {
+          "g": "ነዋኅ",
+          "t": "näwaḫə",
+          "gl": ""
+        },
+        {
+          "g": "ወገበወረ",
+          "t": "wägäbäwärä",
+          "gl": ""
+        },
+        {
+          "g": "ብሔረ",
+          "t": "bəḥerä",
+          "gl": ""
+        },
+        {
+          "g": "ለእንስሳሁ",
+          "t": "läʾənəsəsahu",
+          "gl": ""
+        },
+        {
+          "g": "በውስተ",
+          "t": "bäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ቊር",
+          "t": "qwirə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And when he has gone up to a steep mountain, he causes joy to the quadrupeds in the deep.",
+        "kjv": "Surely the mountains bring him forth food, where all the beasts of the field play."
+      }
+    },
+    {
+      "num": 21,
+      "geez": "ወይሰክብ፡ ታሕተ፡ ኵሉ፡ ዕፅ፡ ውስተ፡ ሰት፡ ወሰማዝ፡ ወብርዕ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይሰክብ",
+          "t": "wäyəsäkəbə",
+          "gl": ""
+        },
+        {
+          "g": "ታሕተ",
+          "t": "taḥətä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዕፅ",
+          "t": "ʿəṣ́ə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሰት",
+          "t": "sätə",
+          "gl": ""
+        },
+        {
+          "g": "ወሰማዝ",
+          "t": "wäsämazə",
+          "gl": ""
+        },
+        {
+          "g": "ወብርዕ",
+          "t": "wäbərəʿə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "He lies under trees of every kind, by the papyrus, and reed, and bulrush.",
+        "kjv": "He lieth under the shady trees, in the covert of the reed, and fens."
+      }
+    },
+    {
+      "num": 22,
+      "geez": "ወይጼልሎ፡ አመ፡ ዳዕሮ፡ ወአብትረ፡ ልብኔ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይጼልሎ",
+          "t": "wäyəṣeləlo",
+          "gl": ""
+        },
+        {
+          "g": "አመ",
+          "t": "ʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ዳዕሮ",
+          "t": "daʿəro",
+          "gl": ""
+        },
+        {
+          "g": "ወአብትረ",
+          "t": "wäʾäbətərä",
+          "gl": ""
+        },
+        {
+          "g": "ልብኔ",
+          "t": "ləbəne",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the great trees make a shadow over him with their branches, and so do the bushes of the field.",
+        "kjv": "The shady trees cover him with their shadow; the willows of the brook compass him about."
+      }
+    },
+    {
+      "num": 23,
+      "geez": "ወእመሂ፡ መጽአ፡ ማይ፡ ብዙኅ፡ ኢያነክሮ፡ ወይትአመን፡ ከመ፡ ይትሜጠዎ፡ ለዮርዳኖስ፡ በአፉሁ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሂ",
+          "t": "wäʾəmähi",
+          "gl": ""
+        },
+        {
+          "g": "መጽአ",
+          "t": "mäṣəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ማይ",
+          "t": "mayə",
+          "gl": ""
+        },
+        {
+          "g": "ብዙኅ",
+          "t": "bəzuḫə",
+          "gl": ""
+        },
+        {
+          "g": "ኢያነክሮ",
+          "t": "ʾiyanäkəro",
+          "gl": ""
+        },
+        {
+          "g": "ወይትአመን",
+          "t": "wäyətəʾämänə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይትሜጠዎ",
+          "t": "yətəmeṭäwo",
+          "gl": ""
+        },
+        {
+          "g": "ለዮርዳኖስ",
+          "t": "läyorədanosə",
+          "gl": ""
+        },
+        {
+          "g": "በአፉሁ",
+          "t": "bäʾäfuhu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "If there should be a flood, he will not perceive it; he trusts that Jordan will rush up into his mouth.",
+        "kjv": "Behold, he drinketh up a river, and hasteth not: he trusteth that he can draw up Jordan into his mouth."
+      }
+    },
+    {
+      "num": 24,
+      "geez": "ወይትዌከፎ፡ በዓይኑ፡ ወይትየመጥ፡ ወየዓቅብ፡ አንፎ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይትዌከፎ",
+          "t": "wäyətəwekäfo",
+          "gl": ""
+        },
+        {
+          "g": "በዓይኑ",
+          "t": "bäʿayənu",
+          "gl": ""
+        },
+        {
+          "g": "ወይትየመጥ",
+          "t": "wäyətəyämäṭə",
+          "gl": ""
+        },
+        {
+          "g": "ወየዓቅብ",
+          "t": "wäyäʿaqəbə",
+          "gl": ""
+        },
+        {
+          "g": "አንፎ",
+          "t": "ʾänəfo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Yet one shall take him in his sight; one shall catch him with a cord, and pierce his nose.",
+        "kjv": "He taketh it with his eyes: his nose pierceth through snares."
+      }
+    },
+    {
+      "num": 25,
+      "geez": "ወታመጽኦኑ፡ ለከይሲ፡ በመሥገርት፡ ወትወዲ፡ ሎቱ፡ ዝማማተ፡ ውስተ፡ አንፉ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወታመጽኦኑ",
+          "t": "wätamäṣəʾonu",
+          "gl": ""
+        },
+        {
+          "g": "ለከይሲ",
+          "t": "läkäyəsi",
+          "gl": ""
+        },
+        {
+          "g": "በመሥገርት",
+          "t": "bämäśəgärətə",
+          "gl": ""
+        },
+        {
+          "g": "ወትወዲ",
+          "t": "wätəwädi",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ዝማማተ",
+          "t": "zəmamatä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አንፉ",
+          "t": "ʾänəfu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But wilt thou catch the serpent with a hook, and put a halter about his nose?"
+      }
+    },
+    {
+      "num": 26,
+      "geez": "ወተአስር፡ ሎቱ፡ ኀልቀተ፡ ውስተ፡ ሕልበቱ፡ ወትሰቊር፡ አንፎ፡ በኅርወት።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተአስር",
+          "t": "wätäʾäsərə",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ኀልቀተ",
+          "t": "ḫäləqätä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሕልበቱ",
+          "t": "ḥələbätu",
+          "gl": ""
+        },
+        {
+          "g": "ወትሰቊር",
+          "t": "wätəsäqwirə",
+          "gl": ""
+        },
+        {
+          "g": "አንፎ",
+          "t": "ʾänəfo",
+          "gl": ""
+        },
+        {
+          "g": "በኅርወት",
+          "t": "bäḫərəwätə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Or wilt thou fasten a ring in his nostril, and bore his lip with a clasp?"
+      }
+    },
+    {
+      "num": 27,
+      "geez": "ወያመሥአከ፡ ለከ፡ እንዘ፡ ይትጋነይ፡ ወይዬውሃከ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያመሥአከ",
+          "t": "wäyamäśəʾäkä",
+          "gl": ""
+        },
+        {
+          "g": "ለከ",
+          "t": "läkä",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ይትጋነይ",
+          "t": "yətəganäyə",
+          "gl": ""
+        },
+        {
+          "g": "ወይዬውሃከ",
+          "t": "wäyəyewəhakä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Will he address thee with a petition? softly, with the voice of a suppliant?"
+      }
+    },
+    {
+      "num": 28,
+      "geez": "ወይትካየድኑ፡ ምስሌከ፡ ኪዳነ፡ ወትነሥኦ፡ ለከ፡ ምስሌከ፡ ይኩንከ፡ ገብረ፡ ዘለዓለም።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይትካየድኑ",
+          "t": "wäyətəkayädənu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌከ",
+          "t": "məsəlekä",
+          "gl": ""
+        },
+        {
+          "g": "ኪዳነ",
+          "t": "kidanä",
+          "gl": ""
+        },
+        {
+          "g": "ወትነሥኦ",
+          "t": "wätənäśəʾo",
+          "gl": ""
+        },
+        {
+          "g": "ለከ",
+          "t": "läkä",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌከ",
+          "t": "məsəlekä",
+          "gl": ""
+        },
+        {
+          "g": "ይኩንከ",
+          "t": "yəkunəkä",
+          "gl": ""
+        },
+        {
+          "g": "ገብረ",
+          "t": "gäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ዘለዓለም",
+          "t": "zäläʿalämə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And will he make a covenant with thee? and wilt thou take him for a perpetual servant?"
+      }
+    },
+    {
+      "num": 29,
+      "geez": "ወተአስሮኑ፡ ከመ፡ ዖፈ፡ ደቂቀ፡ ወትትዋነዮ፡ ከመ፡ ዖፍ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተአስሮኑ",
+          "t": "wätäʾäsəronu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ዖፈ",
+          "t": "ʿofä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ወትትዋነዮ",
+          "t": "wätətəwanäyo",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ዖፍ",
+          "t": "ʿofə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And wilt thou play with him as with a bird? or bind him as a sparrow for a child?"
+      }
+    },
+    {
+      "num": 30,
+      "geez": "ወአሕዛብኒ፡ ይትጋነዩ፡ ሎቱ፡ ወይትዌከፍዎ፡ ሕዝበ፡ ፊንቆን።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአሕዛብኒ",
+          "t": "wäʾäḥəzabəni",
+          "gl": ""
+        },
+        {
+          "g": "ይትጋነዩ",
+          "t": "yətəganäyu",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ወይትዌከፍዎ",
+          "t": "wäyətəwekäfəwo",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝበ",
+          "t": "ḥəzəbä",
+          "gl": ""
+        },
+        {
+          "g": "ፊንቆን",
+          "t": "finəqonə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And do the nations feed upon him, and the nations of the Phœnicians share him?"
+      }
+    },
+    {
+      "num": 31,
+      "geez": "ወአመ፡ ኵሉ፡ አዕዋፍ፡ ተጋብኡ፡ ኢያመጽኡ፡ አሐተ፡ እማእሰ፡ ዘባኑ፡ ወኢመሠግራን፡ በአሕማር፡ ርእሶ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአመ",
+          "t": "wäʾämä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "አዕዋፍ",
+          "t": "ʾäʿəwafə",
+          "gl": ""
+        },
+        {
+          "g": "ተጋብኡ",
+          "t": "tägabəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ኢያመጽኡ",
+          "t": "ʾiyamäṣəʾu",
+          "gl": ""
+        },
+        {
+          "g": "አሐተ",
+          "t": "ʾäḥätä",
+          "gl": ""
+        },
+        {
+          "g": "እማእሰ",
+          "t": "ʾəmaʾəsä",
+          "gl": ""
+        },
+        {
+          "g": "ዘባኑ",
+          "t": "zäbanu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢመሠግራን",
+          "t": "wäʾimäśägəranə",
+          "gl": ""
+        },
+        {
+          "g": "በአሕማር",
+          "t": "bäʾäḥəmarə",
+          "gl": ""
+        },
+        {
+          "g": "ርእሶ",
+          "t": "rəʾəso",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And all the ships come together would not be able to bear the mere skin of his tail; neither shall they carry his head in fishing-vessels."
+      }
+    },
+    {
+      "num": 32,
+      "geez": "ወትወዲ፡ እዴከ፡ ሎቱ፡ ለገሢሦቱ፡ ተዘከር፡ ዘፀብዓከ፡ በሥጋከ፡ ወኢትድግም፡ እንከ፡፡ 33፡ ወርኢከሂ፡ ነገሮ፡ ወኢፈራህከ፡ ወኢያንከርከ፡ እስመ፡ ሊተ፡ አስተዳለውከ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትወዲ",
+          "t": "wätəwädi",
+          "gl": ""
+        },
+        {
+          "g": "እዴከ",
+          "t": "ʾədekä",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ለገሢሦቱ",
+          "t": "lägäśiśotu",
+          "gl": ""
+        },
+        {
+          "g": "ተዘከር",
+          "t": "täzäkärə",
+          "gl": ""
+        },
+        {
+          "g": "ዘፀብዓከ",
+          "t": "zäṣ́äbəʿakä",
+          "gl": ""
+        },
+        {
+          "g": "በሥጋከ",
+          "t": "bäśəgakä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢትድግም",
+          "t": "wäʾitədəgəmə",
+          "gl": ""
+        },
+        {
+          "g": "እንከ",
+          "t": "ʾənəkä",
+          "gl": ""
+        },
+        {
+          "g": "33",
+          "t": "33",
+          "gl": ""
+        },
+        {
+          "g": "ወርኢከሂ",
+          "t": "wärəʾikähi",
+          "gl": ""
+        },
+        {
+          "g": "ነገሮ",
+          "t": "nägäro",
+          "gl": ""
+        },
+        {
+          "g": "ወኢፈራህከ",
+          "t": "wäʾifärahəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢያንከርከ",
+          "t": "wäʾiyanəkärəkä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ሊተ",
+          "t": "litä",
+          "gl": ""
+        },
+        {
+          "g": "አስተዳለውከ",
+          "t": "ʾäsətädaläwəkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But thou shalt lay thy hand upon him once, remembering the war that is waged by his mouth; and let it not be done any more."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

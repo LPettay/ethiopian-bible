@@ -1,0 +1,2769 @@
+{
+  "book": "Gen",
+  "chapter": 37,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወነበረ ፡ ያዕቆብ ፡ ውስተ ፡ ምድር ፡ እንተ ፡ ውስቴታ ፡ ነበረ ፡ አቡሁ ፡ ውስተ ፡ ምድረ ፡ ከናአን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነበረ",
+          "t": "wänäbärä",
+          "gl": ""
+        },
+        {
+          "g": "ያዕቆብ",
+          "t": "yaʿəqobə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ውስቴታ",
+          "t": "wəsəteta",
+          "gl": ""
+        },
+        {
+          "g": "ነበረ",
+          "t": "näbärä",
+          "gl": ""
+        },
+        {
+          "g": "አቡሁ",
+          "t": "ʾäbuhu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድረ",
+          "t": "mədərä",
+          "gl": ""
+        },
+        {
+          "g": "ከናአን",
+          "t": "känaʾänə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Jacob dwelt in the land where his father sojourned, in the land of Chanaan.",
+        "kjv": "And Jacob dwelt in the land wherein his father was a stranger, in the land of Canaan."
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ወከመዝ ፡ ውእቱ ፡ ፍጥረቱ ፡ ለያዕቆብ ፡ ወኮኖ ፡ ለዮሴፍ ፡ ዐሠርቱ ፡ ወሰባዕቱ ፡ ዓመቱ ፡ ወይርዒ ፡ ምስለ ፡ አኀዊሁ\n                  ፡ አባግዐ ፡ አቡሁ ፡ ወወሬዛ ፡ ውእቱ ፡ ምስለ ፡ ደቂቀ ፡ ባላ ፡ ወምስለ ፡ ደቂቀ ፡ ዘለፋ ፡ አንስቲያ ፡ አቡሁ ፡\n                  ወአምጽኡ ፡ ላዕለ ፡ ዮሴፍ ፡ ውዴተ ፡ እኪተ ፡ ኀበ ፡ አቡሁ ፡ እስራኤል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወከመዝ",
+          "t": "wäkämäzə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ፍጥረቱ",
+          "t": "fəṭərätu",
+          "gl": ""
+        },
+        {
+          "g": "ለያዕቆብ",
+          "t": "läyaʿəqobə",
+          "gl": ""
+        },
+        {
+          "g": "ወኮኖ",
+          "t": "wäkono",
+          "gl": ""
+        },
+        {
+          "g": "ለዮሴፍ",
+          "t": "läyosefə",
+          "gl": ""
+        },
+        {
+          "g": "ዐሠርቱ",
+          "t": "ʿäśärətu",
+          "gl": ""
+        },
+        {
+          "g": "ወሰባዕቱ",
+          "t": "wäsäbaʿətu",
+          "gl": ""
+        },
+        {
+          "g": "ዓመቱ",
+          "t": "ʿamätu",
+          "gl": ""
+        },
+        {
+          "g": "ወይርዒ",
+          "t": "wäyərəʿi",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "አኀዊሁ",
+          "t": "ʾäḫäwihu",
+          "gl": ""
+        },
+        {
+          "g": "አባግዐ",
+          "t": "ʾäbagəʿä",
+          "gl": ""
+        },
+        {
+          "g": "አቡሁ",
+          "t": "ʾäbuhu",
+          "gl": ""
+        },
+        {
+          "g": "ወወሬዛ",
+          "t": "wäwäreza",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ባላ",
+          "t": "bala",
+          "gl": ""
+        },
+        {
+          "g": "ወምስለ",
+          "t": "wäməsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ዘለፋ",
+          "t": "zäläfa",
+          "gl": ""
+        },
+        {
+          "g": "አንስቲያ",
+          "t": "ʾänəsətiya",
+          "gl": ""
+        },
+        {
+          "g": "አቡሁ",
+          "t": "ʾäbuhu",
+          "gl": ""
+        },
+        {
+          "g": "ወአምጽኡ",
+          "t": "wäʾäməṣəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ዮሴፍ",
+          "t": "yosefə",
+          "gl": ""
+        },
+        {
+          "g": "ውዴተ",
+          "t": "wədetä",
+          "gl": ""
+        },
+        {
+          "g": "እኪተ",
+          "t": "ʾəkitä",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "አቡሁ",
+          "t": "ʾäbuhu",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And these are the generations of Jacob. And Joseph was seventeen years old, feeding the sheep of his father with his brethren, being young; with the sons of Balla, and with the sons of Zelpha, the wives of his father; and Joseph brought to Israel their father their evil reproach.",
+        "kjv": "These are the generations of Jacob. Joseph, being seventeen years old, was feeding the flock with his brethren; and the lad was with the sons of Bilhah, and with the sons of Zilpah, his father’s wives: and Joseph brought unto his father their evil report."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወያዕቆብሰ ፡ ያፈቅሮ ፡ ለዮሴፍ ፡ እምነ ፡ ኵሎሙ ፡ ደቂቁ ፡ እስመ ፡ በርሥዐቲሁ ፡ ወለዶ ፡ ወገብረ ፡ ሎቱ ፡ ክዳነ ፡\n                  ዘሕብረ ፡ ዐሥቅ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያዕቆብሰ",
+          "t": "wäyaʿəqobəsä",
+          "gl": ""
+        },
+        {
+          "g": "ያፈቅሮ",
+          "t": "yafäqəro",
+          "gl": ""
+        },
+        {
+          "g": "ለዮሴፍ",
+          "t": "läyosefə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቁ",
+          "t": "däqiqu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "በርሥዐቲሁ",
+          "t": "bärəśəʿätihu",
+          "gl": ""
+        },
+        {
+          "g": "ወለዶ",
+          "t": "wälädo",
+          "gl": ""
+        },
+        {
+          "g": "ወገብረ",
+          "t": "wägäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ክዳነ",
+          "t": "kədanä",
+          "gl": ""
+        },
+        {
+          "g": "ዘሕብረ",
+          "t": "zäḥəbərä",
+          "gl": ""
+        },
+        {
+          "g": "ዐሥቅ",
+          "t": "ʿäśəqə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Jacob loved Joseph more than all his sons, because he was to him the son of old age; and he made for him a coat of many colours.",
+        "kjv": "Now Israel loved Joseph more than all his children, because he was the son of his old age: and he made him a coat of many colours."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወሶበ ፡ ርእዩ ፡ አኀዊሁ ፡ ከመ ፡ ኪያሁ ፡ ያፈቅር ፡ አቡሆሙ ፡ እምነ ፡ ኵሎሙ ፡ አኀዋሁ ፡ ጸልእዎ ፡ አኀዊሁ ፡\n                  ወኢክህሉ ፡ ተናግሮቶ ፡ ቃለ ፡ ሠናየ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሶበ",
+          "t": "wäsobä",
+          "gl": ""
+        },
+        {
+          "g": "ርእዩ",
+          "t": "rəʾəyu",
+          "gl": ""
+        },
+        {
+          "g": "አኀዊሁ",
+          "t": "ʾäḫäwihu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ኪያሁ",
+          "t": "kiyahu",
+          "gl": ""
+        },
+        {
+          "g": "ያፈቅር",
+          "t": "yafäqərə",
+          "gl": ""
+        },
+        {
+          "g": "አቡሆሙ",
+          "t": "ʾäbuhomu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ",
+          "t": "kwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "አኀዋሁ",
+          "t": "ʾäḫäwahu",
+          "gl": ""
+        },
+        {
+          "g": "ጸልእዎ",
+          "t": "ṣäləʾəwo",
+          "gl": ""
+        },
+        {
+          "g": "አኀዊሁ",
+          "t": "ʾäḫäwihu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢክህሉ",
+          "t": "wäʾikəhəlu",
+          "gl": ""
+        },
+        {
+          "g": "ተናግሮቶ",
+          "t": "tänagəroto",
+          "gl": ""
+        },
+        {
+          "g": "ቃለ",
+          "t": "qalä",
+          "gl": ""
+        },
+        {
+          "g": "ሠናየ",
+          "t": "śänayä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And his brethren having seen that his father loved him more than all his sons, hated him, and could not speak anything peaceable to him.",
+        "kjv": "And when his brethren saw that their father loved him more than all his brethren, they hated him, and could not speak peaceably unto him."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወሐለመ ፡ ዮሴፍ ፡ ሕልመ ፡ ወነገሮሙ ፡ ለአኀዊሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሐለመ",
+          "t": "wäḥälämä",
+          "gl": ""
+        },
+        {
+          "g": "ዮሴፍ",
+          "t": "yosefə",
+          "gl": ""
+        },
+        {
+          "g": "ሕልመ",
+          "t": "ḥələmä",
+          "gl": ""
+        },
+        {
+          "g": "ወነገሮሙ",
+          "t": "wänägäromu",
+          "gl": ""
+        },
+        {
+          "g": "ለአኀዊሁ",
+          "t": "läʾäḫäwihu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Joseph dreamed a dream, and reported it to his brethren.",
+        "kjv": "And Joseph dreamed a dream, and he told it his brethren: and they hated him yet the more."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወይቤሎሙ ፡ ስምዕዎ ፡ ለዝንቱ ፡ ሕልም ፡ ዘሐለምኩ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎሙ",
+          "t": "wäyəbelomu",
+          "gl": ""
+        },
+        {
+          "g": "ስምዕዎ",
+          "t": "səməʿəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለዝንቱ",
+          "t": "läzənətu",
+          "gl": ""
+        },
+        {
+          "g": "ሕልም",
+          "t": "ḥələmə",
+          "gl": ""
+        },
+        {
+          "g": "ዘሐለምኩ",
+          "t": "zäḥäläməku",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he said to them, Hear this dream which I have dreamed.",
+        "kjv": "And he said unto them, Hear, I pray you, this dream which I have dreamed:"
+      }
+    },
+    {
+      "num": 7,
+      "geez": "እሬኢ ፡ ከላስስቲክሙ ፡ ዘዘዚአክሙ ፡ ማእከለ ፡ ገዳም ፡ ወተንሥአ ፡ ክልስስት ፡ ዘዚአየ ፡ ወቆመ ፡ ወተመይጡ ፡\n                  ከላስስቲክሙ ፡ ወሰገዱ ፡ ለዘዚአየ ፡ ክልስስት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እሬኢ",
+          "t": "ʾəreʾi",
+          "gl": ""
+        },
+        {
+          "g": "ከላስስቲክሙ",
+          "t": "kälasəsətikəmu",
+          "gl": ""
+        },
+        {
+          "g": "ዘዘዚአክሙ",
+          "t": "zäzäziʾäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ማእከለ",
+          "t": "maʾəkälä",
+          "gl": ""
+        },
+        {
+          "g": "ገዳም",
+          "t": "gädamə",
+          "gl": ""
+        },
+        {
+          "g": "ወተንሥአ",
+          "t": "wätänəśəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ክልስስት",
+          "t": "kələsəsətə",
+          "gl": ""
+        },
+        {
+          "g": "ዘዚአየ",
+          "t": "zäziʾäyä",
+          "gl": ""
+        },
+        {
+          "g": "ወቆመ",
+          "t": "wäqomä",
+          "gl": ""
+        },
+        {
+          "g": "ወተመይጡ",
+          "t": "wätämäyəṭu",
+          "gl": ""
+        },
+        {
+          "g": "ከላስስቲክሙ",
+          "t": "kälasəsətikəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወሰገዱ",
+          "t": "wäsägädu",
+          "gl": ""
+        },
+        {
+          "g": "ለዘዚአየ",
+          "t": "läzäziʾäyä",
+          "gl": ""
+        },
+        {
+          "g": "ክልስስት",
+          "t": "kələsəsətə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "I thought ye were binding sheaves in the middle of the field, and my sheaf stood up and was erected, and your sheaves turned round, and did obeisance to my sheaf.",
+        "kjv": "For, behold, we were binding sheaves in the field, and, lo, my sheaf arose, and also stood upright; and, behold, your sheaves stood round about, and made obeisance to my sheaf."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወይቤልዎ ፡ ነጊሠኑ ፡ ትነግሥ ፡ ላዕሌነ ፡ ወሚመ ፡ እግዚአኑ ፡ ትከውነነ ፡ ወአፈድፈዱ ፡ ዓዲ ፡ ጸሊኦቶ ፡ በእንተ ፡\n                  ሕልሙ ፡ ወበእንተ ፡ ነገሩ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤልዎ",
+          "t": "wäyəbeləwo",
+          "gl": ""
+        },
+        {
+          "g": "ነጊሠኑ",
+          "t": "nägiśänu",
+          "gl": ""
+        },
+        {
+          "g": "ትነግሥ",
+          "t": "tənägəśə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌነ",
+          "t": "laʿəlenä",
+          "gl": ""
+        },
+        {
+          "g": "ወሚመ",
+          "t": "wämimä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአኑ",
+          "t": "ʾəgəziʾänu",
+          "gl": ""
+        },
+        {
+          "g": "ትከውነነ",
+          "t": "təkäwənänä",
+          "gl": ""
+        },
+        {
+          "g": "ወአፈድፈዱ",
+          "t": "wäʾäfädəfädu",
+          "gl": ""
+        },
+        {
+          "g": "ዓዲ",
+          "t": "ʿadi",
+          "gl": ""
+        },
+        {
+          "g": "ጸሊኦቶ",
+          "t": "ṣäliʾoto",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ሕልሙ",
+          "t": "ḥələmu",
+          "gl": ""
+        },
+        {
+          "g": "ወበእንተ",
+          "t": "wäbäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ነገሩ",
+          "t": "nägäru",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And his brethren said to him, Shalt thou indeed reign over us, or shalt thou indeed be lord over us? And they hated him still more for his dreams and for his words.",
+        "kjv": "And his brethren said to him, Shalt thou indeed reign over us? or shalt thou indeed have dominion over us? And they hated him yet the more for his dreams, and for his words."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወደገመ ፡ ዓዲ ፡ ወርእየ ፡ ሕልመ ፡ ወነገሮ ፡ ለአቡሁ ፡ ወይቤሎ ፡ ናሁ ፡ ሐለምኩ ፡ ካልአ ፡ ሕልመ ፡ ወከመዝ ፡\n                  ሕልሙ ፡ ፀሓይ ፡ ወወርኅ ፡ ወዐሠርቱ ፡ ወአሐዱ ፡ ከዋክብት ፡ ይሰግዱ ፡ ሊተ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወደገመ",
+          "t": "wädägämä",
+          "gl": ""
+        },
+        {
+          "g": "ዓዲ",
+          "t": "ʿadi",
+          "gl": ""
+        },
+        {
+          "g": "ወርእየ",
+          "t": "wärəʾəyä",
+          "gl": ""
+        },
+        {
+          "g": "ሕልመ",
+          "t": "ḥələmä",
+          "gl": ""
+        },
+        {
+          "g": "ወነገሮ",
+          "t": "wänägäro",
+          "gl": ""
+        },
+        {
+          "g": "ለአቡሁ",
+          "t": "läʾäbuhu",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ናሁ",
+          "t": "nahu",
+          "gl": ""
+        },
+        {
+          "g": "ሐለምኩ",
+          "t": "ḥäläməku",
+          "gl": ""
+        },
+        {
+          "g": "ካልአ",
+          "t": "kaləʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሕልመ",
+          "t": "ḥələmä",
+          "gl": ""
+        },
+        {
+          "g": "ወከመዝ",
+          "t": "wäkämäzə",
+          "gl": ""
+        },
+        {
+          "g": "ሕልሙ",
+          "t": "ḥələmu",
+          "gl": ""
+        },
+        {
+          "g": "ፀሓይ",
+          "t": "ṣ́äḥayə",
+          "gl": ""
+        },
+        {
+          "g": "ወወርኅ",
+          "t": "wäwärəḫə",
+          "gl": ""
+        },
+        {
+          "g": "ወዐሠርቱ",
+          "t": "wäʿäśärətu",
+          "gl": ""
+        },
+        {
+          "g": "ወአሐዱ",
+          "t": "wäʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "ከዋክብት",
+          "t": "käwakəbətə",
+          "gl": ""
+        },
+        {
+          "g": "ይሰግዱ",
+          "t": "yəsägədu",
+          "gl": ""
+        },
+        {
+          "g": "ሊተ",
+          "t": "litä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he dreamed another dream, and related it to his father, and to his brethren, and said, Behold, I have dreamed another dream: as it were the sun, and the moon, and the eleven stars did me reverence.",
+        "kjv": "And he dreamed yet another dream, and told it his brethren, and said, Behold, I have dreamed a dream more; and, behold, the sun and the moon and the eleven stars made obeisance to me."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወገሠጾ ፡ አቡሁ ፡ ወይቤሎ ፡ ምንት ፡ ውእቱ ፡ ዝንቱ ፡ ሕልምከ ፡ ዘሐለምከ ፡ አሐዝብ ፡ ንመጽእ ፡ አነ ፡ ወእምከ ፡\n                  ወአኀዊከ ፡ ወንሰግድ ፡ ለከ ፡ ዲበ ፡ ምድር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወገሠጾ",
+          "t": "wägäśäṣo",
+          "gl": ""
+        },
+        {
+          "g": "አቡሁ",
+          "t": "ʾäbuhu",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ምንት",
+          "t": "mənətə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ሕልምከ",
+          "t": "ḥələməkä",
+          "gl": ""
+        },
+        {
+          "g": "ዘሐለምከ",
+          "t": "zäḥäläməkä",
+          "gl": ""
+        },
+        {
+          "g": "አሐዝብ",
+          "t": "ʾäḥäzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ንመጽእ",
+          "t": "nəmäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "ወእምከ",
+          "t": "wäʾəməkä",
+          "gl": ""
+        },
+        {
+          "g": "ወአኀዊከ",
+          "t": "wäʾäḫäwikä",
+          "gl": ""
+        },
+        {
+          "g": "ወንሰግድ",
+          "t": "wänəsägədə",
+          "gl": ""
+        },
+        {
+          "g": "ለከ",
+          "t": "läkä",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And his father rebuked him, and said to him, What is this dream which thou hast dreamed? shall indeed both I and thy mother and thy brethren come and bow before thee to the earth?",
+        "kjv": "And he told it to his father, and to his brethren: and his father rebuked him, and said unto him, What is this dream that thou hast dreamed? Shall I and thy mother and thy brethren indeed come to bow down ourselves to thee to the earth?"
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወቀንኡ ፡ ላዕሌሁ ፡ አኀዊሁ ፡ ወአቡሆሙሰ ፡ ዐቀቦ ፡ ለዝንቱ ፡ ነገር ፡ በልቡ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወቀንኡ",
+          "t": "wäqänəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "አኀዊሁ",
+          "t": "ʾäḫäwihu",
+          "gl": ""
+        },
+        {
+          "g": "ወአቡሆሙሰ",
+          "t": "wäʾäbuhomusä",
+          "gl": ""
+        },
+        {
+          "g": "ዐቀቦ",
+          "t": "ʿäqäbo",
+          "gl": ""
+        },
+        {
+          "g": "ለዝንቱ",
+          "t": "läzənətu",
+          "gl": ""
+        },
+        {
+          "g": "ነገር",
+          "t": "nägärə",
+          "gl": ""
+        },
+        {
+          "g": "በልቡ",
+          "t": "bäləbu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And his brethren envied him; but his father observed the saying.",
+        "kjv": "And his brethren envied him; but his father observed the saying."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወሖሩ ፡ አኀዊሁ ፡ ይርዐዩ ፡ አባግዒሆሙ ፡ ውስተ ፡ ሴኬም ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሖሩ",
+          "t": "wäḥoru",
+          "gl": ""
+        },
+        {
+          "g": "አኀዊሁ",
+          "t": "ʾäḫäwihu",
+          "gl": ""
+        },
+        {
+          "g": "ይርዐዩ",
+          "t": "yərəʿäyu",
+          "gl": ""
+        },
+        {
+          "g": "አባግዒሆሙ",
+          "t": "ʾäbagəʿihomu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሴኬም",
+          "t": "sekemə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And his brethren went to feed the sheep of their father to Sychem.",
+        "kjv": "And his brethren went to feed their father’s flock in Shechem."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወይቤሎ ፡ እስራኤል ፡ ለዮሴፍ ፡ አኮኑ ፡ አኀዊከ ፡ ውስተ ፡ ሴኬም ፡ ነዓ ፡ እልአከ ፡ ኀቤሆሙ ፡ ወይቤሎ ፡ ኦሆ ፡\n                  ነየ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ለዮሴፍ",
+          "t": "läyosefə",
+          "gl": ""
+        },
+        {
+          "g": "አኮኑ",
+          "t": "ʾäkonu",
+          "gl": ""
+        },
+        {
+          "g": "አኀዊከ",
+          "t": "ʾäḫäwikä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሴኬም",
+          "t": "sekemə",
+          "gl": ""
+        },
+        {
+          "g": "ነዓ",
+          "t": "näʿa",
+          "gl": ""
+        },
+        {
+          "g": "እልአከ",
+          "t": "ʾələʾäkä",
+          "gl": ""
+        },
+        {
+          "g": "ኀቤሆሙ",
+          "t": "ḫäbehomu",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ኦሆ",
+          "t": "ʾoho",
+          "gl": ""
+        },
+        {
+          "g": "ነየ",
+          "t": "näyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Israel said to Joseph, Do not thy brethren feed their flock in Sychem? Come, I will send thee to them; and he said to him, Behold, I am here.",
+        "kjv": "And Israel said unto Joseph, Do not thy brethren feed the flock in Shechem? come, and I will send thee unto them. And he said to him, Here am I."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወይቤሎ ፡ ሑር ፡ ርኢ ፡ ለእመ ፡ ዳኅናንኑ ፡ አኀዊከ ፡ ወአባግዒሆሙኒ ፡ ወዜንወኒ ፡ ወፈነዎ ፡ እምነ ፡ ቈላተ ፡\n                  ኬብሮን ፡ ወበጽሐ ፡ ውስተ ፡ ሴኬም ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ሑር",
+          "t": "ḥurə",
+          "gl": ""
+        },
+        {
+          "g": "ርኢ",
+          "t": "rəʾi",
+          "gl": ""
+        },
+        {
+          "g": "ለእመ",
+          "t": "läʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ዳኅናንኑ",
+          "t": "daḫənanənu",
+          "gl": ""
+        },
+        {
+          "g": "አኀዊከ",
+          "t": "ʾäḫäwikä",
+          "gl": ""
+        },
+        {
+          "g": "ወአባግዒሆሙኒ",
+          "t": "wäʾäbagəʿihomuni",
+          "gl": ""
+        },
+        {
+          "g": "ወዜንወኒ",
+          "t": "wäzenəwäni",
+          "gl": ""
+        },
+        {
+          "g": "ወፈነዎ",
+          "t": "wäfänäwo",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ቈላተ",
+          "t": "qwälatä",
+          "gl": ""
+        },
+        {
+          "g": "ኬብሮን",
+          "t": "kebəronə",
+          "gl": ""
+        },
+        {
+          "g": "ወበጽሐ",
+          "t": "wäbäṣəḥä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሴኬም",
+          "t": "sekemə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Israel said to him, Go and see if thy brethren and the sheep are well, and bring me word; and he sent him out of the valley of Chebron, and he came to Sychem.",
+        "kjv": "And he said to him, Go, I pray thee, see whether it be well with thy brethren, and well with the flocks; and bring me word again. So he sent him out of the vale of Hebron, and he came to Shechem."
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ወረከቦ ፡ ፩ብእሲ ፡ እንዘ ፡ የዓይል ፡ ወይሳኲ ፡ ውስተ ፡ ገዳም ፡ ወተስእሎ ፡ ወይቤሎ ፡ መነ ፡ ተኀሥሥ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወረከቦ",
+          "t": "wäräkäbo",
+          "gl": ""
+        },
+        {
+          "g": "፩ብእሲ",
+          "t": "1bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "የዓይል",
+          "t": "yäʿayələ",
+          "gl": ""
+        },
+        {
+          "g": "ወይሳኲ",
+          "t": "wäyəsakwi",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ገዳም",
+          "t": "gädamə",
+          "gl": ""
+        },
+        {
+          "g": "ወተስእሎ",
+          "t": "wätäsəʾəlo",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "መነ",
+          "t": "mänä",
+          "gl": ""
+        },
+        {
+          "g": "ተኀሥሥ",
+          "t": "täḫäśəśə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And a man found him wandering in the field; and the man asked him, saying, What seekest thou?",
+        "kjv": "And a certain man found him, and, behold, he was wandering in the field: and the man asked him, saying, What seekest thou?"
+      }
+    },
+    {
+      "num": 16,
+      "geez": "ወይቤሎ ፡ ዮሴፍ ፡ አይድዐኒ ፡ አይቴ ፡ ይርዕዩ ፡ አኀዊየ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ዮሴፍ",
+          "t": "yosefə",
+          "gl": ""
+        },
+        {
+          "g": "አይድዐኒ",
+          "t": "ʾäyədəʿäni",
+          "gl": ""
+        },
+        {
+          "g": "አይቴ",
+          "t": "ʾäyəte",
+          "gl": ""
+        },
+        {
+          "g": "ይርዕዩ",
+          "t": "yərəʿəyu",
+          "gl": ""
+        },
+        {
+          "g": "አኀዊየ",
+          "t": "ʾäḫäwiyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he said, I am seeking my brethren; tell me where they feed their flocks.",
+        "kjv": "And he said, I seek my brethren: tell me, I pray thee, where they feed their flocks."
+      }
+    },
+    {
+      "num": 17,
+      "geez": "ወይቤሎ ፡ ውእቱ ፡ ብእሲ ፡ ግዕዙ ፡ እምዝየሰ ፡ ወሰማዕክዎሙ ፡ ባሕቱ ፡ ይብሉ ፡ ነሐውር ፡ [ዶ]ታዮን ፡ ወሖረ ፡\n                  ዮሴፍ ፡ ወተለዎሙ ፡ ለአኀዊሁ ፡ ወረከቦሙ ፡ በ[ዶ]ታዮን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ግዕዙ",
+          "t": "gəʿəzu",
+          "gl": ""
+        },
+        {
+          "g": "እምዝየሰ",
+          "t": "ʾəməzəyäsä",
+          "gl": ""
+        },
+        {
+          "g": "ወሰማዕክዎሙ",
+          "t": "wäsämaʿəkəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ባሕቱ",
+          "t": "baḥətu",
+          "gl": ""
+        },
+        {
+          "g": "ይብሉ",
+          "t": "yəbəlu",
+          "gl": ""
+        },
+        {
+          "g": "ነሐውር",
+          "t": "näḥäwərə",
+          "gl": ""
+        },
+        {
+          "g": "ዶታዮን",
+          "t": "dotayonə",
+          "gl": ""
+        },
+        {
+          "g": "ወሖረ",
+          "t": "wäḥorä",
+          "gl": ""
+        },
+        {
+          "g": "ዮሴፍ",
+          "t": "yosefə",
+          "gl": ""
+        },
+        {
+          "g": "ወተለዎሙ",
+          "t": "wätäläwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለአኀዊሁ",
+          "t": "läʾäḫäwihu",
+          "gl": ""
+        },
+        {
+          "g": "ወረከቦሙ",
+          "t": "wäräkäbomu",
+          "gl": ""
+        },
+        {
+          "g": "በዶታዮን",
+          "t": "bädotayonə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the man said to him, They have departed hence, for I heard them saying, Let us go to Dothaim; and Joseph went after his brethren, and found them in Dothaim.",
+        "kjv": "And the man said, They are departed hence; for I heard them say, Let us go to Dothan. And Joseph went after his brethren, and found them in Dothan."
+      }
+    },
+    {
+      "num": 18,
+      "geez": "ወቀደሙ ፡ ርእዮቶ ፡ እምርሑቅ ፡ ዘእንበለ ፡ ይቅረብ ፡ ኀቤሆሙ ፡ ወአሕሠሙ ፡ ለቀቲሎቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወቀደሙ",
+          "t": "wäqädämu",
+          "gl": ""
+        },
+        {
+          "g": "ርእዮቶ",
+          "t": "rəʾəyoto",
+          "gl": ""
+        },
+        {
+          "g": "እምርሑቅ",
+          "t": "ʾəmərəḥuqə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእንበለ",
+          "t": "zäʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "ይቅረብ",
+          "t": "yəqəräbə",
+          "gl": ""
+        },
+        {
+          "g": "ኀቤሆሙ",
+          "t": "ḫäbehomu",
+          "gl": ""
+        },
+        {
+          "g": "ወአሕሠሙ",
+          "t": "wäʾäḥəśämu",
+          "gl": ""
+        },
+        {
+          "g": "ለቀቲሎቱ",
+          "t": "läqätilotu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they spied him from a distance before he drew nigh to them, and they wickedly took counsel to slay him.",
+        "kjv": "And when they saw him afar off, even before he came near unto them, they conspired against him to slay him."
+      }
+    },
+    {
+      "num": 19,
+      "geez": "ወተባሀሉ ፡ አሐዱ ፡ ምስለ ፡ ካልኡ ፡ ነዋ ፡ ዝኩ ፡ ሐላሚ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተባሀሉ",
+          "t": "wätäbahälu",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ካልኡ",
+          "t": "kaləʾu",
+          "gl": ""
+        },
+        {
+          "g": "ነዋ",
+          "t": "näwa",
+          "gl": ""
+        },
+        {
+          "g": "ዝኩ",
+          "t": "zəku",
+          "gl": ""
+        },
+        {
+          "g": "ሐላሚ",
+          "t": "ḥälami",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And each said to his brother, Behold, that dreamer comes.",
+        "kjv": "And they said one to another, Behold, this dreamer cometh."
+      }
+    },
+    {
+      "num": 20,
+      "geez": "ንዑ ፡ ንቅትሎ ፡ ወንግድፎ ፡ ውስተ ፡ አሐዱ ፡ እምእላንቱ ፡ ግብ ፡ ወንበል ፡ አርዌ ፡ እኩይ ፡ በልዖ ፡ ወንርአይ ፡\n                  ምንት ፡ ውእቱ ፡ ሕለሚሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ንዑ",
+          "t": "nəʿu",
+          "gl": ""
+        },
+        {
+          "g": "ንቅትሎ",
+          "t": "nəqətəlo",
+          "gl": ""
+        },
+        {
+          "g": "ወንግድፎ",
+          "t": "wänəgədəfo",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "እምእላንቱ",
+          "t": "ʾəməʾəlanətu",
+          "gl": ""
+        },
+        {
+          "g": "ግብ",
+          "t": "gəbə",
+          "gl": ""
+        },
+        {
+          "g": "ወንበል",
+          "t": "wänəbälə",
+          "gl": ""
+        },
+        {
+          "g": "አርዌ",
+          "t": "ʾärəwe",
+          "gl": ""
+        },
+        {
+          "g": "እኩይ",
+          "t": "ʾəkuyə",
+          "gl": ""
+        },
+        {
+          "g": "በልዖ",
+          "t": "bäləʿo",
+          "gl": ""
+        },
+        {
+          "g": "ወንርአይ",
+          "t": "wänərəʾäyə",
+          "gl": ""
+        },
+        {
+          "g": "ምንት",
+          "t": "mənətə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ሕለሚሁ",
+          "t": "ḥəlämihu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Now then come, let us kill him, and cast him into one of the pits; and we will say, An evil wild beast has devoured him; and we shall see what his dreams will be.",
+        "kjv": "Come now therefore, and let us slay him, and cast him into some pit, and we will say, Some evil beast hath devoured him: and we shall see what will become of his dreams."
+      }
+    },
+    {
+      "num": 21,
+      "geez": "ወሶበ ፡ ርእዮ ፡ አድኀኖ ፡ ሩቤል ፡ እምእዴሆሙ ፡ ወይቤሎሙ ፡ ኢትቅትሉ ፡ ነፍሶ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሶበ",
+          "t": "wäsobä",
+          "gl": ""
+        },
+        {
+          "g": "ርእዮ",
+          "t": "rəʾəyo",
+          "gl": ""
+        },
+        {
+          "g": "አድኀኖ",
+          "t": "ʾädəḫäno",
+          "gl": ""
+        },
+        {
+          "g": "ሩቤል",
+          "t": "rubelə",
+          "gl": ""
+        },
+        {
+          "g": "እምእዴሆሙ",
+          "t": "ʾəməʾədehomu",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎሙ",
+          "t": "wäyəbelomu",
+          "gl": ""
+        },
+        {
+          "g": "ኢትቅትሉ",
+          "t": "ʾitəqətəlu",
+          "gl": ""
+        },
+        {
+          "g": "ነፍሶ",
+          "t": "näfəso",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Ruben having heard it, rescued him out of their hands, and said, Let us not kill him.",
+        "kjv": "And Reuben heard it, and he delivered him out of their hands; and said, Let us not kill him."
+      }
+    },
+    {
+      "num": 22,
+      "geez": "ወኢትክዐዉ ፡ ደሞሂ ፡ ውስተ ፡ አሐዱ ፡ እምእላንቱ ፡ ዐዘቅት ፡ እለ ፡ ውስተ ፡ ገዳም ፡ ደይዎ ፡ ወእዴክሙ ፡ ባሕቱ ፡\n                  ኢታውርዱ ፡ ላዕሌሁ ፡ ወከመ ፡ ያድኅኖ ፡ እምእዴሆሙ ፡ ወያግብኦ ፡ ኀበ ፡ አቡሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኢትክዐዉ",
+          "t": "wäʾitəkəʿäwu",
+          "gl": ""
+        },
+        {
+          "g": "ደሞሂ",
+          "t": "dämohi",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "እምእላንቱ",
+          "t": "ʾəməʾəlanətu",
+          "gl": ""
+        },
+        {
+          "g": "ዐዘቅት",
+          "t": "ʿäzäqətə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ገዳም",
+          "t": "gädamə",
+          "gl": ""
+        },
+        {
+          "g": "ደይዎ",
+          "t": "däyəwo",
+          "gl": ""
+        },
+        {
+          "g": "ወእዴክሙ",
+          "t": "wäʾədekəmu",
+          "gl": ""
+        },
+        {
+          "g": "ባሕቱ",
+          "t": "baḥətu",
+          "gl": ""
+        },
+        {
+          "g": "ኢታውርዱ",
+          "t": "ʾitawərədu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ወከመ",
+          "t": "wäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ያድኅኖ",
+          "t": "yadəḫəno",
+          "gl": ""
+        },
+        {
+          "g": "እምእዴሆሙ",
+          "t": "ʾəməʾədehomu",
+          "gl": ""
+        },
+        {
+          "g": "ወያግብኦ",
+          "t": "wäyagəbəʾo",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "አቡሁ",
+          "t": "ʾäbuhu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Ruben said to them, Shed not blood; cast him into one of these pits in the wilderness, but do not lay your hand upon him; that he might rescue him out of their hands, and restore him to his father.",
+        "kjv": "And Reuben said unto them, Shed no blood, but cast him into this pit that is in the wilderness, and lay no hand upon him; that he might rid him out of their hands, to deliver him to his father again."
+      }
+    },
+    {
+      "num": 23,
+      "geez": "ወእምዝ ፡ ሶበ ፡ በጽሐ ፡ ዮሴፍ ፡ ኀቤሆሙ ፡ ሰለብዎ ፡ ክዳኖ ፡ ዘዐሥቅ ፡ ዘይለብስ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእምዝ",
+          "t": "wäʾəməzə",
+          "gl": ""
+        },
+        {
+          "g": "ሶበ",
+          "t": "sobä",
+          "gl": ""
+        },
+        {
+          "g": "በጽሐ",
+          "t": "bäṣəḥä",
+          "gl": ""
+        },
+        {
+          "g": "ዮሴፍ",
+          "t": "yosefə",
+          "gl": ""
+        },
+        {
+          "g": "ኀቤሆሙ",
+          "t": "ḫäbehomu",
+          "gl": ""
+        },
+        {
+          "g": "ሰለብዎ",
+          "t": "säläbəwo",
+          "gl": ""
+        },
+        {
+          "g": "ክዳኖ",
+          "t": "kədano",
+          "gl": ""
+        },
+        {
+          "g": "ዘዐሥቅ",
+          "t": "zäʿäśəqə",
+          "gl": ""
+        },
+        {
+          "g": "ዘይለብስ",
+          "t": "zäyəläbəsə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it came to pass, when Joseph came to his brethren, that they stripped Joseph of his many-coloured coat that was upon him.",
+        "kjv": "And it came to pass, when Joseph was come unto his brethren, that they stript Joseph out of his coat, his coat of many colours that was on him;"
+      }
+    },
+    {
+      "num": 24,
+      "geez": "ወነሥእዎ ፡ ወወረውዎ ፡ ውስተ ፡ ዐዘቅት ፡ ወዐዘቅታ ፡ ሐዳስ ፡ ወአልባቲ ፡ ማየ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነሥእዎ",
+          "t": "wänäśəʾəwo",
+          "gl": ""
+        },
+        {
+          "g": "ወወረውዎ",
+          "t": "wäwäräwəwo",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዐዘቅት",
+          "t": "ʿäzäqətə",
+          "gl": ""
+        },
+        {
+          "g": "ወዐዘቅታ",
+          "t": "wäʿäzäqəta",
+          "gl": ""
+        },
+        {
+          "g": "ሐዳስ",
+          "t": "ḥädasə",
+          "gl": ""
+        },
+        {
+          "g": "ወአልባቲ",
+          "t": "wäʾäləbati",
+          "gl": ""
+        },
+        {
+          "g": "ማየ",
+          "t": "mayä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they took him and cast him into the pit; and the pit was empty, it had not water.",
+        "kjv": "And they took him, and cast him into a pit: and the pit was empty, there was no water in it."
+      }
+    },
+    {
+      "num": 25,
+      "geez": "ወነበሩ ፡ ይብልዑ ፡ እክለ ፡ ወሶበ ፡ ያሌዕሉ ፡ አዕይንቲሆሙ ፡ ይሬእዩ ፡ ናሁ ፡ ሠያጢ ፡ አሐዱ ፡ ይመጽእ ፡ እምነ ፡\n                  ገለአድ ፡ ይስማኤላዊ ፡ ውእቱ ፡ ወጽዑን ፡ አግማሊሆሙ ፡ አፈዋተ ፡ ወርጢነ ፡ ወማየ ፡ ልብን ፡ ወየሐውሩ ፡ ያውርዱ ፡ ብሔረ\n                  ፡ ግብጽ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነበሩ",
+          "t": "wänäbäru",
+          "gl": ""
+        },
+        {
+          "g": "ይብልዑ",
+          "t": "yəbələʿu",
+          "gl": ""
+        },
+        {
+          "g": "እክለ",
+          "t": "ʾəkəlä",
+          "gl": ""
+        },
+        {
+          "g": "ወሶበ",
+          "t": "wäsobä",
+          "gl": ""
+        },
+        {
+          "g": "ያሌዕሉ",
+          "t": "yaleʿəlu",
+          "gl": ""
+        },
+        {
+          "g": "አዕይንቲሆሙ",
+          "t": "ʾäʿəyənətihomu",
+          "gl": ""
+        },
+        {
+          "g": "ይሬእዩ",
+          "t": "yəreʾəyu",
+          "gl": ""
+        },
+        {
+          "g": "ናሁ",
+          "t": "nahu",
+          "gl": ""
+        },
+        {
+          "g": "ሠያጢ",
+          "t": "śäyaṭi",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "ይመጽእ",
+          "t": "yəmäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ገለአድ",
+          "t": "gäläʾädə",
+          "gl": ""
+        },
+        {
+          "g": "ይስማኤላዊ",
+          "t": "yəsəmaʾelawi",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ወጽዑን",
+          "t": "wäṣəʿunə",
+          "gl": ""
+        },
+        {
+          "g": "አግማሊሆሙ",
+          "t": "ʾägəmalihomu",
+          "gl": ""
+        },
+        {
+          "g": "አፈዋተ",
+          "t": "ʾäfäwatä",
+          "gl": ""
+        },
+        {
+          "g": "ወርጢነ",
+          "t": "wärəṭinä",
+          "gl": ""
+        },
+        {
+          "g": "ወማየ",
+          "t": "wämayä",
+          "gl": ""
+        },
+        {
+          "g": "ልብን",
+          "t": "ləbənə",
+          "gl": ""
+        },
+        {
+          "g": "ወየሐውሩ",
+          "t": "wäyäḥäwəru",
+          "gl": ""
+        },
+        {
+          "g": "ያውርዱ",
+          "t": "yawərədu",
+          "gl": ""
+        },
+        {
+          "g": "ብሔረ",
+          "t": "bəḥerä",
+          "gl": ""
+        },
+        {
+          "g": "ግብጽ",
+          "t": "gəbəṣə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they sat down to eat bread; and having lifted up their eyes they beheld, and lo, Ismaelitish travellers came from Galaad, and their camels were heavily loaded with spices, and resin, and myrrh; and they went to bring them to Egypt.",
+        "kjv": "And they sat down to eat bread: and they lifted up their eyes and looked, and, behold, a company of Ishmeelites came from Gilead with their camels bearing spicery and balm and myrrh, going to carry it down to Egypt."
+      }
+    },
+    {
+      "num": 26,
+      "geez": "ወይቤሎሙ ፡ ይሁዳ ፡ ለአኅዊሁ ፡ ምንተ ፡ ይበቍዐነ ፡ ለእመ ፡ ቀተልናሁ ፡ ለእኁነ ፡ ወኀባእነ ፡ ደሞ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤሎሙ",
+          "t": "wäyəbelomu",
+          "gl": ""
+        },
+        {
+          "g": "ይሁዳ",
+          "t": "yəhuda",
+          "gl": ""
+        },
+        {
+          "g": "ለአኅዊሁ",
+          "t": "läʾäḫəwihu",
+          "gl": ""
+        },
+        {
+          "g": "ምንተ",
+          "t": "mənətä",
+          "gl": ""
+        },
+        {
+          "g": "ይበቍዐነ",
+          "t": "yəbäqwəʿänä",
+          "gl": ""
+        },
+        {
+          "g": "ለእመ",
+          "t": "läʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ቀተልናሁ",
+          "t": "qätälənahu",
+          "gl": ""
+        },
+        {
+          "g": "ለእኁነ",
+          "t": "läʾəḫunä",
+          "gl": ""
+        },
+        {
+          "g": "ወኀባእነ",
+          "t": "wäḫäbaʾənä",
+          "gl": ""
+        },
+        {
+          "g": "ደሞ",
+          "t": "dämo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Judas said to his brethren, What profit is it if we slay our brother, and conceal his blood?",
+        "kjv": "And Judah said unto his brethren, What profit is it if we slay our brother, and conceal his blood?"
+      }
+    },
+    {
+      "num": 27,
+      "geez": "ንዑ ፡ ንሢጦ ፡ ኀበ ፡ እሉ ፡ ይስማዔላውያን ፡ ወእዴነሰ ፡ ኢናውርድ ፡ ላዕሌሁ ፡ እስመ ፡ እኁነ ፡ ውእቱ ፡ ወሥጋነ ፡\n                  ወሰምዕዎ ፡ አኀዊሁ ፡ ዘይቤሎሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ንዑ",
+          "t": "nəʿu",
+          "gl": ""
+        },
+        {
+          "g": "ንሢጦ",
+          "t": "nəśiṭo",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "እሉ",
+          "t": "ʾəlu",
+          "gl": ""
+        },
+        {
+          "g": "ይስማዔላውያን",
+          "t": "yəsəmaʿelawəyanə",
+          "gl": ""
+        },
+        {
+          "g": "ወእዴነሰ",
+          "t": "wäʾədenäsä",
+          "gl": ""
+        },
+        {
+          "g": "ኢናውርድ",
+          "t": "ʾinawərədə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "እኁነ",
+          "t": "ʾəḫunä",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ወሥጋነ",
+          "t": "wäśəganä",
+          "gl": ""
+        },
+        {
+          "g": "ወሰምዕዎ",
+          "t": "wäsäməʿəwo",
+          "gl": ""
+        },
+        {
+          "g": "አኀዊሁ",
+          "t": "ʾäḫäwihu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይቤሎሙ",
+          "t": "zäyəbelomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Come, let us sell him to these Ismaelites, but let not our hands be upon him, because he is our brother and our flesh; and his brethren hearkened.",
+        "kjv": "Come, and let us sell him to the Ishmeelites, and let not our hand be upon him; for he is our brother and our flesh. And his brethren were content."
+      }
+    },
+    {
+      "num": 28,
+      "geez": "[ወ]እንዘ ፡ የኀልፉ ፡ እሙንቱ ፡ ይስማዔላውያን ፡ ሤጥዎ ፡ ኀቤሆሙ ፡ ወሰሐብዎ ፡ አኀዊሁ ፡ ወአውፅእዎ ፡ እምነ ፡\n                  ዐዘቅት ፡ ወሤጥዎ ፡ ለዮሴፍ ፡ ኀበ ፡ ይስማዔላውያን ፡ በ[ዕሥራ ፡] ዲናር ፡ ወወሰዱዎ ፡ ለዮሴፍ ፡ ብሔረ ፡ ግብጽ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእንዘ",
+          "t": "wäʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "የኀልፉ",
+          "t": "yäḫäləfu",
+          "gl": ""
+        },
+        {
+          "g": "እሙንቱ",
+          "t": "ʾəmunətu",
+          "gl": ""
+        },
+        {
+          "g": "ይስማዔላውያን",
+          "t": "yəsəmaʿelawəyanə",
+          "gl": ""
+        },
+        {
+          "g": "ሤጥዎ",
+          "t": "śeṭəwo",
+          "gl": ""
+        },
+        {
+          "g": "ኀቤሆሙ",
+          "t": "ḫäbehomu",
+          "gl": ""
+        },
+        {
+          "g": "ወሰሐብዎ",
+          "t": "wäsäḥäbəwo",
+          "gl": ""
+        },
+        {
+          "g": "አኀዊሁ",
+          "t": "ʾäḫäwihu",
+          "gl": ""
+        },
+        {
+          "g": "ወአውፅእዎ",
+          "t": "wäʾäwəṣ́əʾəwo",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ዐዘቅት",
+          "t": "ʿäzäqətə",
+          "gl": ""
+        },
+        {
+          "g": "ወሤጥዎ",
+          "t": "wäśeṭəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለዮሴፍ",
+          "t": "läyosefə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ይስማዔላውያን",
+          "t": "yəsəmaʿelawəyanə",
+          "gl": ""
+        },
+        {
+          "g": "በዕሥራ",
+          "t": "bäʿəśəra",
+          "gl": ""
+        },
+        {
+          "g": "ዲናር",
+          "t": "dinarə",
+          "gl": ""
+        },
+        {
+          "g": "ወወሰዱዎ",
+          "t": "wäwäsäduwo",
+          "gl": ""
+        },
+        {
+          "g": "ለዮሴፍ",
+          "t": "läyosefə",
+          "gl": ""
+        },
+        {
+          "g": "ብሔረ",
+          "t": "bəḥerä",
+          "gl": ""
+        },
+        {
+          "g": "ግብጽ",
+          "t": "gəbəṣə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the men, the merchants of Madian, went by, and they drew and lifted Joseph out of the pit, and sold Joseph to the Ismaelites for twenty pieces of gold; and they brought Joseph down into Egypt.",
+        "kjv": "Then there passed by Midianites merchantmen; and they drew and lifted up Joseph out of the pit, and sold Joseph to the Ishmeelites for twenty pieces of silver: and they brought Joseph into Egypt."
+      }
+    },
+    {
+      "num": 29,
+      "geez": "ወገብአ ፡ ሩቤል ፡ ኀበ ፡ ዐዘቅት ፡ ወሶበ ፡ ኢረከቦ ፡ ሠጠጠ ፡ አልባሲሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወገብአ",
+          "t": "wägäbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሩቤል",
+          "t": "rubelə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ዐዘቅት",
+          "t": "ʿäzäqətə",
+          "gl": ""
+        },
+        {
+          "g": "ወሶበ",
+          "t": "wäsobä",
+          "gl": ""
+        },
+        {
+          "g": "ኢረከቦ",
+          "t": "ʾiräkäbo",
+          "gl": ""
+        },
+        {
+          "g": "ሠጠጠ",
+          "t": "śäṭäṭä",
+          "gl": ""
+        },
+        {
+          "g": "አልባሲሁ",
+          "t": "ʾäləbasihu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Ruben returned to the pit, and sees not Joseph in the pit; and he rent his garments.",
+        "kjv": "And Reuben returned unto the pit; and, behold, Joseph was not in the pit; and he rent his clothes."
+      }
+    },
+    {
+      "num": 30,
+      "geez": "ወገብአ ፡ ኀበ ፡ አኀዊሁ ፡ ወይቤሎሙ ፡ ኢሀሎ ፡ ወልድ ፡ ውስተ ፡ ዐዘቅት ፡ ወአይቴ ፡ አሐውር ፡ እንከ ፡ አነ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወገብአ",
+          "t": "wägäbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "አኀዊሁ",
+          "t": "ʾäḫäwihu",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎሙ",
+          "t": "wäyəbelomu",
+          "gl": ""
+        },
+        {
+          "g": "ኢሀሎ",
+          "t": "ʾihälo",
+          "gl": ""
+        },
+        {
+          "g": "ወልድ",
+          "t": "wälədə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዐዘቅት",
+          "t": "ʿäzäqətə",
+          "gl": ""
+        },
+        {
+          "g": "ወአይቴ",
+          "t": "wäʾäyəte",
+          "gl": ""
+        },
+        {
+          "g": "አሐውር",
+          "t": "ʾäḥäwərə",
+          "gl": ""
+        },
+        {
+          "g": "እንከ",
+          "t": "ʾənəkä",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he returned to his brethren and said, The boy is not; and I, whither am I yet to go?",
+        "kjv": "And he returned unto his brethren, and said, The child is not; and I, whither shall I go?"
+      }
+    },
+    {
+      "num": 31,
+      "geez": "ወነሥኡ ፡ ክዳኖ ፡ ዘዐሥቅ ፡ ወሐረዱ ፡ ላዕሌሁ ፡ ማሕስአ ፡ ጠሊ ፡ ወመልእዎ ፡ ደመ ፡ ለክዳኑ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነሥኡ",
+          "t": "wänäśəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ክዳኖ",
+          "t": "kədano",
+          "gl": ""
+        },
+        {
+          "g": "ዘዐሥቅ",
+          "t": "zäʿäśəqə",
+          "gl": ""
+        },
+        {
+          "g": "ወሐረዱ",
+          "t": "wäḥärädu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ማሕስአ",
+          "t": "maḥəsəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ጠሊ",
+          "t": "ṭäli",
+          "gl": ""
+        },
+        {
+          "g": "ወመልእዎ",
+          "t": "wämäləʾəwo",
+          "gl": ""
+        },
+        {
+          "g": "ደመ",
+          "t": "dämä",
+          "gl": ""
+        },
+        {
+          "g": "ለክዳኑ",
+          "t": "läkədanu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And having taken the coat of Joseph, they slew a kid of the goats, and stained the coat with the blood.",
+        "kjv": "And they took Joseph’s coat, and killed a kid of the goats, and dipped the coat in the blood;"
+      }
+    },
+    {
+      "num": 32,
+      "geez": "ወወሰዱ ፡ ኀበ ፡ አቡሆሙ ፡ ወይቤልዎ ፡ ዘንተ ፡ (ደሙ ፡) ረከብነ ፡ ወርኢአ ፡ እመ ፡ ውእቱኑ ፡ ክዳኑ ፡ ለወልድከ ፡\n                  ወለእመሂ ፡ ኢኮነ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወወሰዱ",
+          "t": "wäwäsädu",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "አቡሆሙ",
+          "t": "ʾäbuhomu",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤልዎ",
+          "t": "wäyəbeləwo",
+          "gl": ""
+        },
+        {
+          "g": "ዘንተ",
+          "t": "zänətä",
+          "gl": ""
+        },
+        {
+          "g": "ደሙ",
+          "t": "dämu",
+          "gl": ""
+        },
+        {
+          "g": "ረከብነ",
+          "t": "räkäbənä",
+          "gl": ""
+        },
+        {
+          "g": "ወርኢአ",
+          "t": "wärəʾiʾä",
+          "gl": ""
+        },
+        {
+          "g": "እመ",
+          "t": "ʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱኑ",
+          "t": "wəʾətunu",
+          "gl": ""
+        },
+        {
+          "g": "ክዳኑ",
+          "t": "kədanu",
+          "gl": ""
+        },
+        {
+          "g": "ለወልድከ",
+          "t": "läwälədəkä",
+          "gl": ""
+        },
+        {
+          "g": "ወለእመሂ",
+          "t": "wäläʾəmähi",
+          "gl": ""
+        },
+        {
+          "g": "ኢኮነ",
+          "t": "ʾikonä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they sent the coat of many colours; and they brought it to their father, and said, This have we found; know if it be thy son's coat or no.",
+        "kjv": "And they sent the coat of many colours, and they brought it to their father; and said, This have we found: know now whether it be thy son’s coat or no."
+      }
+    },
+    {
+      "num": 33,
+      "geez": "ወአእሚሮ ፡ ይቤ ፡ ክዳኑ ፡ ለወልድየ ፡ ውእቱ ፡ ወአርዌ ፡ እኩይ ፡ በልዖ ፡ አርዌ ፡ መሠጦ ፡ ለዮሴፍ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአእሚሮ",
+          "t": "wäʾäʾəmiro",
+          "gl": ""
+        },
+        {
+          "g": "ይቤ",
+          "t": "yəbe",
+          "gl": ""
+        },
+        {
+          "g": "ክዳኑ",
+          "t": "kədanu",
+          "gl": ""
+        },
+        {
+          "g": "ለወልድየ",
+          "t": "läwälədəyä",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ወአርዌ",
+          "t": "wäʾärəwe",
+          "gl": ""
+        },
+        {
+          "g": "እኩይ",
+          "t": "ʾəkuyə",
+          "gl": ""
+        },
+        {
+          "g": "በልዖ",
+          "t": "bäləʿo",
+          "gl": ""
+        },
+        {
+          "g": "አርዌ",
+          "t": "ʾärəwe",
+          "gl": ""
+        },
+        {
+          "g": "መሠጦ",
+          "t": "mäśäṭo",
+          "gl": ""
+        },
+        {
+          "g": "ለዮሴፍ",
+          "t": "läyosefə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he recognised it, and said, It is my son's coat, an evil wild beast has devoured him; a wild beast has carried off Joseph.",
+        "kjv": "And he knew it, and said, It is my son’s coat; an evil beast hath devoured him; Joseph is without doubt rent in pieces."
+      }
+    },
+    {
+      "num": 34,
+      "geez": "ወሠጠጠ ፡ አልባሲሁ ፡ ያዕቆብ ፡ ወለብሰ ፡ ሠቀ ፡ ያዕቆብ ፡ ወቀነተ ፡ ውስተ ፡ ሐቌሁ ፡ ወላሐዎ ፡ ለወልዱ ፡ ብዙኀ ፡\n                  መዋዕለ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሠጠጠ",
+          "t": "wäśäṭäṭä",
+          "gl": ""
+        },
+        {
+          "g": "አልባሲሁ",
+          "t": "ʾäləbasihu",
+          "gl": ""
+        },
+        {
+          "g": "ያዕቆብ",
+          "t": "yaʿəqobə",
+          "gl": ""
+        },
+        {
+          "g": "ወለብሰ",
+          "t": "wäläbəsä",
+          "gl": ""
+        },
+        {
+          "g": "ሠቀ",
+          "t": "śäqä",
+          "gl": ""
+        },
+        {
+          "g": "ያዕቆብ",
+          "t": "yaʿəqobə",
+          "gl": ""
+        },
+        {
+          "g": "ወቀነተ",
+          "t": "wäqänätä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ሐቌሁ",
+          "t": "ḥäqwehu",
+          "gl": ""
+        },
+        {
+          "g": "ወላሐዎ",
+          "t": "wälaḥäwo",
+          "gl": ""
+        },
+        {
+          "g": "ለወልዱ",
+          "t": "läwälədu",
+          "gl": ""
+        },
+        {
+          "g": "ብዙኀ",
+          "t": "bəzuḫä",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕለ",
+          "t": "mäwaʿəlä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Jacob rent his clothes, and put sackcloth on his loins, and mourned for his son many days.",
+        "kjv": "And Jacob rent his clothes, and put sackcloth upon his loins, and mourned for his son many days."
+      }
+    },
+    {
+      "num": 35,
+      "geez": "ወተጋብኡ ፡ ደቂቁ ፡ ወአዋልዲሁ ፡ ወመጽኡ ፡ ያስተብቍዕዎ ፡ ለአቡሆሙ ፡ ከመ ፡ ያንግፍዎ ፡ ላሖ ፡ ወአበዮሙ ፡ ነጊፈ ፡\n                  ላሖ ፡ ወይቤ ፡ እወርድ ፡ ዳእሙ ፡ ውስተ ፡ መቃብር ፡ ኀበ ፡ ወልድየ ፡ እንዘ ፡ እላሕዎ ፡ ወበከየ ፡ አቡሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወተጋብኡ",
+          "t": "wätägabəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቁ",
+          "t": "däqiqu",
+          "gl": ""
+        },
+        {
+          "g": "ወአዋልዲሁ",
+          "t": "wäʾäwalədihu",
+          "gl": ""
+        },
+        {
+          "g": "ወመጽኡ",
+          "t": "wämäṣəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ያስተብቍዕዎ",
+          "t": "yasətäbəqwəʿəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለአቡሆሙ",
+          "t": "läʾäbuhomu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ያንግፍዎ",
+          "t": "yanəgəfəwo",
+          "gl": ""
+        },
+        {
+          "g": "ላሖ",
+          "t": "laḥo",
+          "gl": ""
+        },
+        {
+          "g": "ወአበዮሙ",
+          "t": "wäʾäbäyomu",
+          "gl": ""
+        },
+        {
+          "g": "ነጊፈ",
+          "t": "nägifä",
+          "gl": ""
+        },
+        {
+          "g": "ላሖ",
+          "t": "laḥo",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "እወርድ",
+          "t": "ʾəwärədə",
+          "gl": ""
+        },
+        {
+          "g": "ዳእሙ",
+          "t": "daʾəmu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "መቃብር",
+          "t": "mäqabərə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ወልድየ",
+          "t": "wälədəyä",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "እላሕዎ",
+          "t": "ʾəlaḥəwo",
+          "gl": ""
+        },
+        {
+          "g": "ወበከየ",
+          "t": "wäbäkäyä",
+          "gl": ""
+        },
+        {
+          "g": "አቡሁ",
+          "t": "ʾäbuhu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And all his sons and his daughters gathered themselves together, and came to comfort him; but he would not be comforted, saying, I will go down to my son mourning to Hades; and his father wept for him.",
+        "kjv": "And all his sons and all his daughters rose up to comfort him; but he refused to be comforted; and he said, For I will go down into the grave unto my son mourning. Thus his father wept for him."
+      }
+    },
+    {
+      "num": 36,
+      "geez": "ወእልክቱሰ ፡ ይስማዔላውያን ፡ ሤጥዎ ፡ ለዮሴፍ ፡ ብሔረ ፡ ግብጽ ፡ ኀበ ፡ ጴጠፍራ ፡ ሊቂ ፡ መበስላኒሁ ፡ ለፈርዖን\n                  ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእልክቱሰ",
+          "t": "wäʾələkətusä",
+          "gl": ""
+        },
+        {
+          "g": "ይስማዔላውያን",
+          "t": "yəsəmaʿelawəyanə",
+          "gl": ""
+        },
+        {
+          "g": "ሤጥዎ",
+          "t": "śeṭəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለዮሴፍ",
+          "t": "läyosefə",
+          "gl": ""
+        },
+        {
+          "g": "ብሔረ",
+          "t": "bəḥerä",
+          "gl": ""
+        },
+        {
+          "g": "ግብጽ",
+          "t": "gəbəṣə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ጴጠፍራ",
+          "t": "ṗeṭäfəra",
+          "gl": ""
+        },
+        {
+          "g": "ሊቂ",
+          "t": "liqi",
+          "gl": ""
+        },
+        {
+          "g": "መበስላኒሁ",
+          "t": "mäbäsəlanihu",
+          "gl": ""
+        },
+        {
+          "g": "ለፈርዖን",
+          "t": "läfärəʿonə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Madianites sold Joseph into Egypt; to Petephres, the eunuch of Pharao, captain of the guard.",
+        "kjv": "And the Midianites sold him into Egypt unto Potiphar, an officer of Pharaoh’s, and captain of the guard."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

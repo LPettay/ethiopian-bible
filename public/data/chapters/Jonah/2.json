@@ -1,0 +1,753 @@
+{
+  "book": "Jonah",
+  "chapter": 2,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወአዘዘ፡ እግዚአብሔር፡ ዓንበሬ፡ ዓቢየ፡ የሐቶ፡ ለዮናስ፡ ወነበረ፡ ዮናስ፡ ውስተ፡ ከርሠ፡ ዐንበሪ፡ ሠሉሰ፡ ዕለተ፡ ወሠሉሰ፡ ሌሊተ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአዘዘ",
+          "t": "wäʾäzäzä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ዓንበሬ",
+          "t": "ʿanəbäre",
+          "gl": ""
+        },
+        {
+          "g": "ዓቢየ",
+          "t": "ʿabiyä",
+          "gl": ""
+        },
+        {
+          "g": "የሐቶ",
+          "t": "yäḥäto",
+          "gl": ""
+        },
+        {
+          "g": "ለዮናስ",
+          "t": "läyonasə",
+          "gl": ""
+        },
+        {
+          "g": "ወነበረ",
+          "t": "wänäbärä",
+          "gl": ""
+        },
+        {
+          "g": "ዮናስ",
+          "t": "yonasə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ከርሠ",
+          "t": "kärəśä",
+          "gl": ""
+        },
+        {
+          "g": "ዐንበሪ",
+          "t": "ʿänəbäri",
+          "gl": ""
+        },
+        {
+          "g": "ሠሉሰ",
+          "t": "śälusä",
+          "gl": ""
+        },
+        {
+          "g": "ዕለተ",
+          "t": "ʿəlätä",
+          "gl": ""
+        },
+        {
+          "g": "ወሠሉሰ",
+          "t": "wäśälusä",
+          "gl": ""
+        },
+        {
+          "g": "ሌሊተ",
+          "t": "lelitä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Now the Lord had commanded a great whale to swallow up Jonas: and Jonas was in the belly of the whale three days and three nights.",
+        "kjv": "Then Jonah prayed unto the LORD his God out of the fish’s belly,"
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ወጸለየ፡ ዮናስ፡ በውስተ፡ ከርሰ፡ ዐንበሪ፡ ኀበ፡ እግዚአብሔር፡ አምላኩ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወጸለየ",
+          "t": "wäṣäläyä",
+          "gl": ""
+        },
+        {
+          "g": "ዮናስ",
+          "t": "yonasə",
+          "gl": ""
+        },
+        {
+          "g": "በውስተ",
+          "t": "bäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ከርሰ",
+          "t": "kärəsä",
+          "gl": ""
+        },
+        {
+          "g": "ዐንበሪ",
+          "t": "ʿänəbäri",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላኩ",
+          "t": "ʾäməlaku",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Jonas prayed to the Lord his God out of the belly of the whale,",
+        "kjv": "And said, I cried by reason of mine affliction unto the LORD, and he heard me; out of the belly of hell cried I, and thou heardest my voice."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወይቤ፡ አውየውኩ፡ በምንዳቤየ፡ ኀበ፡ እግዚአብሔር፡ አምላኪየ፡ ወሰምዐኒ፡ በውስተ፡ ከርሠ፡ ለሲኦል፡ ጽራኀየ፡ ወሰምዐኒ፡ ቃልየ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይቤ",
+          "t": "wäyəbe",
+          "gl": ""
+        },
+        {
+          "g": "አውየውኩ",
+          "t": "ʾäwəyäwəku",
+          "gl": ""
+        },
+        {
+          "g": "በምንዳቤየ",
+          "t": "bämənədabeyä",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላኪየ",
+          "t": "ʾäməlakiyä",
+          "gl": ""
+        },
+        {
+          "g": "ወሰምዐኒ",
+          "t": "wäsäməʿäni",
+          "gl": ""
+        },
+        {
+          "g": "በውስተ",
+          "t": "bäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ከርሠ",
+          "t": "kärəśä",
+          "gl": ""
+        },
+        {
+          "g": "ለሲኦል",
+          "t": "läsiʾolə",
+          "gl": ""
+        },
+        {
+          "g": "ጽራኀየ",
+          "t": "ṣəraḫäyä",
+          "gl": ""
+        },
+        {
+          "g": "ወሰምዐኒ",
+          "t": "wäsäməʿäni",
+          "gl": ""
+        },
+        {
+          "g": "ቃልየ",
+          "t": "qaləyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and said, I cried in my affliction to the Lord my God, and he hearkened to me, even to my cry out of the belly of hell: thou heardest my voice.",
+        "kjv": "For thou hadst cast me into the deep, in the midst of the seas; and the floods compassed me about: all thy billows and thy waves passed over me."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወወሮከኒ፡ ውስተ፡ ልበ፡ ቀላየ፡ ባሕር፡ ወዐጉኒ፡ አፍላግ፡ ወመጽአ፡ ኲሎ፡ ማዕበልከ፡ ወሞገድከ፡ እንተ፡ ላዕሌየ፡ ኀለፈ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወወሮከኒ",
+          "t": "wäwärokäni",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ልበ",
+          "t": "ləbä",
+          "gl": ""
+        },
+        {
+          "g": "ቀላየ",
+          "t": "qälayä",
+          "gl": ""
+        },
+        {
+          "g": "ባሕር",
+          "t": "baḥərə",
+          "gl": ""
+        },
+        {
+          "g": "ወዐጉኒ",
+          "t": "wäʿäguni",
+          "gl": ""
+        },
+        {
+          "g": "አፍላግ",
+          "t": "ʾäfəlagə",
+          "gl": ""
+        },
+        {
+          "g": "ወመጽአ",
+          "t": "wämäṣəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ኲሎ",
+          "t": "kwilo",
+          "gl": ""
+        },
+        {
+          "g": "ማዕበልከ",
+          "t": "maʿəbäləkä",
+          "gl": ""
+        },
+        {
+          "g": "ወሞገድከ",
+          "t": "wämogädəkä",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌየ",
+          "t": "laʿəleyä",
+          "gl": ""
+        },
+        {
+          "g": "ኀለፈ",
+          "t": "ḫäläfä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Thou didst cast me into the depths of the heart of the sea, and the floods compassed me: all thy billows and thy waves have passed upon me.",
+        "kjv": "Then I said, I am cast out of thy sight; yet I will look again toward thy holy temple."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "አንሰ፡ እቤ፡ ገደፍከኒኑ፡ እንጋ፡ እምቅድመ፡ አዕይንቲከ፡ እደግምኑ፡ ርእየ፡ ቤተ፡ መቅደስከ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "አንሰ",
+          "t": "ʾänəsä",
+          "gl": ""
+        },
+        {
+          "g": "እቤ",
+          "t": "ʾəbe",
+          "gl": ""
+        },
+        {
+          "g": "ገደፍከኒኑ",
+          "t": "gädäfəkäninu",
+          "gl": ""
+        },
+        {
+          "g": "እንጋ",
+          "t": "ʾənəga",
+          "gl": ""
+        },
+        {
+          "g": "እምቅድመ",
+          "t": "ʾəməqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "አዕይንቲከ",
+          "t": "ʾäʿəyənətikä",
+          "gl": ""
+        },
+        {
+          "g": "እደግምኑ",
+          "t": "ʾədägəmənu",
+          "gl": ""
+        },
+        {
+          "g": "ርእየ",
+          "t": "rəʾəyä",
+          "gl": ""
+        },
+        {
+          "g": "ቤተ",
+          "t": "betä",
+          "gl": ""
+        },
+        {
+          "g": "መቅደስከ",
+          "t": "mäqədäsəkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And I said, I am cast out of thy presence: shall I indeed look again toward thy holy temple?",
+        "kjv": "The waters compassed me about, even to the soul: the depth closed me round about, the weeds were wrapped about my head."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ውኀዘ፡ ማይ፡ እስከ፡ ነፍስየ፡ ወዐገተኒ፡ ቀላይ፡ በታሕቱ፡ ወተሠጥመ፡ ርአስየ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ውኀዘ",
+          "t": "wəḫäzä",
+          "gl": ""
+        },
+        {
+          "g": "ማይ",
+          "t": "mayə",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ነፍስየ",
+          "t": "näfəsəyä",
+          "gl": ""
+        },
+        {
+          "g": "ወዐገተኒ",
+          "t": "wäʿägätäni",
+          "gl": ""
+        },
+        {
+          "g": "ቀላይ",
+          "t": "qälayə",
+          "gl": ""
+        },
+        {
+          "g": "በታሕቱ",
+          "t": "bätaḥətu",
+          "gl": ""
+        },
+        {
+          "g": "ወተሠጥመ",
+          "t": "wätäśäṭəmä",
+          "gl": ""
+        },
+        {
+          "g": "ርአስየ",
+          "t": "rəʾäsəyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Water was poured around me to the soul: the lowest deep compassed me, my head went down",
+        "kjv": "I went down to the bottoms of the mountains; the earth with her bars was about me for ever: yet hast thou brought up my life from corruption, O LORD my God."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ውስተ፡ ንቅዓታተ፡ ደብር፡ ዋዋራድ፡ ውስተ፡ ምድር፡ እንተ፡ ዕጽው፡ መናስግቲሃ፡ እምፍጥረተ፡ ዓለም፡ ትዕርግ፡ ሕይወትየ፡ ዘእንበለ፡ ሙስና፡ ኀቤከ፡ እግዚኦ፡ አምላኪየ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ንቅዓታተ",
+          "t": "nəqəʿatatä",
+          "gl": ""
+        },
+        {
+          "g": "ደብር",
+          "t": "däbərə",
+          "gl": ""
+        },
+        {
+          "g": "ዋዋራድ",
+          "t": "wawaradə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ዕጽው",
+          "t": "ʿəṣəwə",
+          "gl": ""
+        },
+        {
+          "g": "መናስግቲሃ",
+          "t": "mänasəgətiha",
+          "gl": ""
+        },
+        {
+          "g": "እምፍጥረተ",
+          "t": "ʾəməfəṭərätä",
+          "gl": ""
+        },
+        {
+          "g": "ዓለም",
+          "t": "ʿalämə",
+          "gl": ""
+        },
+        {
+          "g": "ትዕርግ",
+          "t": "təʿərəgə",
+          "gl": ""
+        },
+        {
+          "g": "ሕይወትየ",
+          "t": "ḥəyəwätəyä",
+          "gl": ""
+        },
+        {
+          "g": "ዘእንበለ",
+          "t": "zäʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "ሙስና",
+          "t": "musəna",
+          "gl": ""
+        },
+        {
+          "g": "ኀቤከ",
+          "t": "ḫäbekä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚኦ",
+          "t": "ʾəgəziʾo",
+          "gl": ""
+        },
+        {
+          "g": "አምላኪየ",
+          "t": "ʾäməlakiyä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "to the clefts of the mountains; I went down into the earth, whose bars are the everlasting barriers: yet, O Lord my God, let my ruined life be restored.",
+        "kjv": "When my soul fainted within me I remembered the LORD: and my prayer came in unto thee, into thine holy temple."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ሶበ፡ ኀልቀት፡ ነፍስየ፡ ትዝክርክዎ፡ ለእግዚአብሔር፡ ትብጻሕ፡ ጸሎትየ፡ ቅድሜከ፡ ጽርሐ፡ መቅደስከ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ሶበ",
+          "t": "sobä",
+          "gl": ""
+        },
+        {
+          "g": "ኀልቀት",
+          "t": "ḫäləqätə",
+          "gl": ""
+        },
+        {
+          "g": "ነፍስየ",
+          "t": "näfəsəyä",
+          "gl": ""
+        },
+        {
+          "g": "ትዝክርክዎ",
+          "t": "təzəkərəkəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ትብጻሕ",
+          "t": "təbəṣaḥə",
+          "gl": ""
+        },
+        {
+          "g": "ጸሎትየ",
+          "t": "ṣälotəyä",
+          "gl": ""
+        },
+        {
+          "g": "ቅድሜከ",
+          "t": "qədəmekä",
+          "gl": ""
+        },
+        {
+          "g": "ጽርሐ",
+          "t": "ṣərəḥä",
+          "gl": ""
+        },
+        {
+          "g": "መቅደስከ",
+          "t": "mäqədäsəkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "When my soul was failing me, I remembered the Lord; and may my prayer come to thee into thy holy temple.",
+        "kjv": "They that observe lying vanities forsake their own mercy."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "እለሰ፡ ዐቀቡ፡ ከንቶ፡ ወሐሰተ፡ ገደፋ፡ ሣህሎሙ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እለሰ",
+          "t": "ʾəläsä",
+          "gl": ""
+        },
+        {
+          "g": "ዐቀቡ",
+          "t": "ʿäqäbu",
+          "gl": ""
+        },
+        {
+          "g": "ከንቶ",
+          "t": "känəto",
+          "gl": ""
+        },
+        {
+          "g": "ወሐሰተ",
+          "t": "wäḥäsätä",
+          "gl": ""
+        },
+        {
+          "g": "ገደፋ",
+          "t": "gädäfa",
+          "gl": ""
+        },
+        {
+          "g": "ሣህሎሙ",
+          "t": "śahəlomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "They that observe vanities and lies have forsaken their own mercy.",
+        "kjv": "But I will sacrifice unto thee with the voice of thanksgiving; I will pay that that I have vowed. Salvation is of the LORD."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "አንሰ፡ ምስለ፡ ቃለ፡ ስብሐት፡ ወተጋኝ፡ እሠውዕ፡ ለከ፡ መጠነ፡ ጸለይኩ፡ በሕይወትየ፡ አዐስዮ፡ ለእግዚአብሔር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "አንሰ",
+          "t": "ʾänəsä",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ቃለ",
+          "t": "qalä",
+          "gl": ""
+        },
+        {
+          "g": "ስብሐት",
+          "t": "səbəḥätə",
+          "gl": ""
+        },
+        {
+          "g": "ወተጋኝ",
+          "t": "wätägañə",
+          "gl": ""
+        },
+        {
+          "g": "እሠውዕ",
+          "t": "ʾəśäwəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ለከ",
+          "t": "läkä",
+          "gl": ""
+        },
+        {
+          "g": "መጠነ",
+          "t": "mäṭänä",
+          "gl": ""
+        },
+        {
+          "g": "ጸለይኩ",
+          "t": "ṣäläyəku",
+          "gl": ""
+        },
+        {
+          "g": "በሕይወትየ",
+          "t": "bäḥəyəwätəyä",
+          "gl": ""
+        },
+        {
+          "g": "አዐስዮ",
+          "t": "ʾäʿäsəyo",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But I will sacrifice to thee with the voice of praise and thanksgiving: all that I have vowed I will pay to thee, the Lord of my salvation.",
+        "kjv": "And the LORD spake unto the fish, and it vomited out Jonah upon the dry land."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወአዘዞ፡ እግዚአብሔር፡ ለውእቱ፡ ዓንበሪ፡ ወአውፅኦ፡ ሌናስ፡ ውስተ፡ ምድር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአዘዞ",
+          "t": "wäʾäzäzo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለውእቱ",
+          "t": "läwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዓንበሪ",
+          "t": "ʿanəbäri",
+          "gl": ""
+        },
+        {
+          "g": "ወአውፅኦ",
+          "t": "wäʾäwəṣ́əʾo",
+          "gl": ""
+        },
+        {
+          "g": "ሌናስ",
+          "t": "lenasə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the whale was commanded by the Lord, and it cast up Jonas on the dry land."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

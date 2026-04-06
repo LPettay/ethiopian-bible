@@ -1,0 +1,570 @@
+{
+  "book": "Sir",
+  "chapter": 33,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ተሣሀለነ፡ እግዚኦ፡ አምላከ፡ ኵሉ፡ ኀይል፡ ወተመየጠነ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ተሣሀለነ",
+          "t": "täśahälänä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚኦ",
+          "t": "ʾəgəziʾo",
+          "gl": ""
+        },
+        {
+          "g": "አምላከ",
+          "t": "ʾäməlakä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ኀይል",
+          "t": "ḫäyələ",
+          "gl": ""
+        },
+        {
+          "g": "ወተመየጠነ",
+          "t": "wätämäyäṭänä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Have mercy upon us, O Lord God of all, and behold us:"
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ፈኑ፡ ፍርሀተከ፡ ላዕለ፡ ኵሉ፡ አሕዛብ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ፈኑ",
+          "t": "fänu",
+          "gl": ""
+        },
+        {
+          "g": "ፍርሀተከ",
+          "t": "fərəhätäkä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "አሕዛብ",
+          "t": "ʾäḥəzabə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and send thy fear upon all the nations that seek not after thee."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወአንሥእ፡ እዴከ፡ ላዕለ፡ ሕዝብ፡ ነኪር፡ ወይርአዩ፡ ኀይለከ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአንሥእ",
+          "t": "wäʾänəśəʾə",
+          "gl": ""
+        },
+        {
+          "g": "እዴከ",
+          "t": "ʾədekä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብ",
+          "t": "ḥəzəbə",
+          "gl": ""
+        },
+        {
+          "g": "ነኪር",
+          "t": "näkirə",
+          "gl": ""
+        },
+        {
+          "g": "ወይርአዩ",
+          "t": "wäyərəʾäyu",
+          "gl": ""
+        },
+        {
+          "g": "ኀይለከ",
+          "t": "ḫäyəläkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Lift up thy hand against the strange nations, and let them see thy power."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "በከመ፡ እንዘ፡ ይሬእዩ፡ እሙንቱ፡ ተቀደስከ፡ በኀቤነ፡ ከማሁ፡ እንዘ፡ ንሕነሂ፡ ንሬኢ፡ ተሰባሕ፡ በኀቤሆሙ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ይሬእዩ",
+          "t": "yəreʾəyu",
+          "gl": ""
+        },
+        {
+          "g": "እሙንቱ",
+          "t": "ʾəmunətu",
+          "gl": ""
+        },
+        {
+          "g": "ተቀደስከ",
+          "t": "täqädäsəkä",
+          "gl": ""
+        },
+        {
+          "g": "በኀቤነ",
+          "t": "bäḫäbenä",
+          "gl": ""
+        },
+        {
+          "g": "ከማሁ",
+          "t": "kämahu",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ንሕነሂ",
+          "t": "nəḥənähi",
+          "gl": ""
+        },
+        {
+          "g": "ንሬኢ",
+          "t": "nəreʾi",
+          "gl": ""
+        },
+        {
+          "g": "ተሰባሕ",
+          "t": "täsäbaḥə",
+          "gl": ""
+        },
+        {
+          "g": "በኀቤሆሙ",
+          "t": "bäḫäbehomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "As thou wast sanctified in us before them: so be thou magnified among them before us."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወያአምሩከ፡ እሙንቱኒ፡ በከመ፡ አእመርናከ፡ ንሕነ፡ እስመ፡ አልቦ፡ አምላክ፡ ዘእንበሌከ፡ እግዚኦ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያአምሩከ",
+          "t": "wäyaʾämərukä",
+          "gl": ""
+        },
+        {
+          "g": "እሙንቱኒ",
+          "t": "ʾəmunətuni",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "አእመርናከ",
+          "t": "ʾäʾəmärənakä",
+          "gl": ""
+        },
+        {
+          "g": "ንሕነ",
+          "t": "nəḥənä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አልቦ",
+          "t": "ʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "አምላክ",
+          "t": "ʾäməlakə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእንበሌከ",
+          "t": "zäʾənəbälekä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚኦ",
+          "t": "ʾəgəziʾo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And let them know thee, as we have known thee, that there is no God but only thou, O God."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "አርኢ፡ ተኣምሪከ፡ ወክሥት፡ ስብሐቲከ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "አርኢ",
+          "t": "ʾärəʾi",
+          "gl": ""
+        },
+        {
+          "g": "ተኣምሪከ",
+          "t": "täʾamərikä",
+          "gl": ""
+        },
+        {
+          "g": "ወክሥት",
+          "t": "wäkəśətə",
+          "gl": ""
+        },
+        {
+          "g": "ስብሐቲከ",
+          "t": "səbəḥätikä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Shew new signs, and make other strange wonders: glorify thy hand and thy right arm, that they may set forth thy wondrous works."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "በኀይለ፡ እዴከ፡ ወበክብረ፡ የማንከ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "በኀይለ",
+          "t": "bäḫäyəlä",
+          "gl": ""
+        },
+        {
+          "g": "እዴከ",
+          "t": "ʾədekä",
+          "gl": ""
+        },
+        {
+          "g": "ወበክብረ",
+          "t": "wäbäkəbərä",
+          "gl": ""
+        },
+        {
+          "g": "የማንከ",
+          "t": "yämanəkä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Raise up indignation, and pour out wrath: take away the adversary, and destroy the enemy."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "አምጽእ፡ መንሱተ፡ ወፈኑ፡ መቅሠፍተ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "አምጽእ",
+          "t": "ʾäməṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "መንሱተ",
+          "t": "mänəsutä",
+          "gl": ""
+        },
+        {
+          "g": "ወፈኑ",
+          "t": "wäfänu",
+          "gl": ""
+        },
+        {
+          "g": "መቅሠፍተ",
+          "t": "mäqəśäfətä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Make the time short, remember the covenant, and let them declare thy wonderful works."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወሠርዎ፡ ለዐማፂ፡ ወቀጥቅጦ፡ ለፀራዊ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሠርዎ",
+          "t": "wäśärəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለዐማፂ",
+          "t": "läʿämaṣ́i",
+          "gl": ""
+        },
+        {
+          "g": "ወቀጥቅጦ",
+          "t": "wäqäṭəqəṭo",
+          "gl": ""
+        },
+        {
+          "g": "ለፀራዊ",
+          "t": "läṣ́ärawi",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Let him that escapeth be consumed by the rage of the fire; and let them perish that oppress the people."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ተዘከር፡ መሐላሆሙ፡ ወአፍጥና፡ ለዕለቶሙ፤….።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ተዘከር",
+          "t": "täzäkärə",
+          "gl": ""
+        },
+        {
+          "g": "መሐላሆሙ",
+          "t": "mäḥälahomu",
+          "gl": ""
+        },
+        {
+          "g": "ወአፍጥና",
+          "t": "wäʾäfəṭəna",
+          "gl": ""
+        },
+        {
+          "g": "ለዕለቶሙ…",
+          "t": "läʿəlätomu…",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Smite in sunder the heads of the rulers of the heathen, that say, There is none other but we."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወቅሥፎሙ፡ በመዐት፡ ወበእሳት፡ ወአጥፍኦሙ፡ ለእለ፡ አምሠጡ፡ እምውስቴቶሙ፡ ወእለ፡ አሕሠሙ፡ ላዕለ፡ ሕዝብከ፡ ይርከቦሙ፡ ሞቶሙ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወቅሥፎሙ",
+          "t": "wäqəśəfomu",
+          "gl": ""
+        },
+        {
+          "g": "በመዐት",
+          "t": "bämäʿätə",
+          "gl": ""
+        },
+        {
+          "g": "ወበእሳት",
+          "t": "wäbäʾəsatə",
+          "gl": ""
+        },
+        {
+          "g": "ወአጥፍኦሙ",
+          "t": "wäʾäṭəfəʾomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእለ",
+          "t": "läʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "አምሠጡ",
+          "t": "ʾäməśäṭu",
+          "gl": ""
+        },
+        {
+          "g": "እምውስቴቶሙ",
+          "t": "ʾəməwəsətetomu",
+          "gl": ""
+        },
+        {
+          "g": "ወእለ",
+          "t": "wäʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "አሕሠሙ",
+          "t": "ʾäḥəśämu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝብከ",
+          "t": "ḥəzəbəkä",
+          "gl": ""
+        },
+        {
+          "g": "ይርከቦሙ",
+          "t": "yərəkäbomu",
+          "gl": ""
+        },
+        {
+          "g": "ሞቶሙ",
+          "t": "motomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Gather all the tribes of Jacob together."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወስብሮሙ፡ አርእስቲሆሙ፡ ለመላእክተ፡ ፀር፡ እለ፡ ይብሉ፡ አልቦ፡ ባዕደ፡ ዘእንበሌነ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወስብሮሙ",
+          "t": "wäsəbəromu",
+          "gl": ""
+        },
+        {
+          "g": "አርእስቲሆሙ",
+          "t": "ʾärəʾəsətihomu",
+          "gl": ""
+        },
+        {
+          "g": "ለመላእክተ",
+          "t": "lämälaʾəkətä",
+          "gl": ""
+        },
+        {
+          "g": "ፀር",
+          "t": "ṣ́ärə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይብሉ",
+          "t": "yəbəlu",
+          "gl": ""
+        },
+        {
+          "g": "አልቦ",
+          "t": "ʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ባዕደ",
+          "t": "baʿədä",
+          "gl": ""
+        },
+        {
+          "g": "ዘእንበሌነ",
+          "t": "zäʾənəbälenä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "A cheerful and good heart will have a care of his meat and diet."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወአስተጋብኦሙ፡ ለኵሎሙ፡ ዘርአ፡ ያዕቆብ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአስተጋብኦሙ",
+          "t": "wäʾäsətägabəʾomu",
+          "gl": ""
+        },
+        {
+          "g": "ለኵሎሙ",
+          "t": "läkwəlomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘርአ",
+          "t": "zärəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ያዕቆብ",
+          "t": "yaʿəqobə",
+          "gl": ""
+        }
+      ]
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    }
+  }
+}

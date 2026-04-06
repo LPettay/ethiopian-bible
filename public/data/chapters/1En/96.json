@@ -1,0 +1,817 @@
+{
+  "book": "1En",
+  "chapter": 96,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ተሰፈዉ፡ ጻድቃን፡ እስመ፡ ፍጡነ፡ ይትሀጐሉ፡ ኃጥኣን፡ እምቅድሜክሙ፡ ወሥልጣን፡ ይከውን፡ ለክሙ፡ ዲቤሆሙ፡ በከመ፡ ፈቀድክሙ።",
+      "translation": "Be hopeful, ye righteous; for suddenly shall the sinners perish before you, And ye shall have lordship over them according to your desires.",
+      "words": [
+        {
+          "g": "ተሰፈዉ",
+          "t": "täsäfäwu",
+          "gl": ""
+        },
+        {
+          "g": "ጻድቃን",
+          "t": "ṣadəqanə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ፍጡነ",
+          "t": "fəṭunä",
+          "gl": ""
+        },
+        {
+          "g": "ይትሀጐሉ",
+          "t": "yətəhägwälu",
+          "gl": ""
+        },
+        {
+          "g": "ኃጥኣን",
+          "t": "ḫaṭəʾanə",
+          "gl": ""
+        },
+        {
+          "g": "እምቅድሜክሙ",
+          "t": "ʾəməqədəmekəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወሥልጣን",
+          "t": "wäśələṭanə",
+          "gl": ""
+        },
+        {
+          "g": "ይከውን",
+          "t": "yəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ዲቤሆሙ",
+          "t": "dibehomu",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ፈቀድክሙ",
+          "t": "fäqädəkəmu",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "geez": "ወበዕለተ፡ ምንዳቤሆሙ፡ ለኃጥኣን፡ ይትሌዐሉ፡ ወይትነሥኡ፡ ከመ፡ አንስርት፡ ዕጕለ፡ ዚኣክሙ፡ ወፈድፋደ፡ እምነ፡ አውስት፡ ይከውን፡ ምጽላልክሙ፡ ወተዐርጉ፡ ወትበውኡ፡ በንድለታተ፡ ምድር፡ ወበንቅዐታተ፡ ኰኵሕ፡ ለዓለም፡ ከመ፡ ግሔ፡ እምቅድመ፡ ዐማፅያን፡ ወይንእኩ፡ ዲቤክሙ።",
+      "translation": "[And in the day of the tribulation of the sinners, Your children shall mount and rise as eagles, And higher than the vultures will be your nest, And ye shall ascend and enter the crevices of the earth, And the clefts of the rock for ever as coneys before the unrighteous, And the sirens shall sigh because of you—and weep.]",
+      "words": [
+        {
+          "g": "ወበዕለተ",
+          "t": "wäbäʿəlätä",
+          "gl": ""
+        },
+        {
+          "g": "ምንዳቤሆሙ",
+          "t": "mənədabehomu",
+          "gl": ""
+        },
+        {
+          "g": "ለኃጥኣን",
+          "t": "läḫaṭəʾanə",
+          "gl": ""
+        },
+        {
+          "g": "ይትሌዐሉ",
+          "t": "yətəleʿälu",
+          "gl": ""
+        },
+        {
+          "g": "ወይትነሥኡ",
+          "t": "wäyətənäśəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "አንስርት",
+          "t": "ʾänəsərətə",
+          "gl": ""
+        },
+        {
+          "g": "ዕጕለ",
+          "t": "ʿəgwəlä",
+          "gl": ""
+        },
+        {
+          "g": "ዚኣክሙ",
+          "t": "ziʾakəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወፈድፋደ",
+          "t": "wäfädəfadä",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "አውስት",
+          "t": "ʾäwəsətə",
+          "gl": ""
+        },
+        {
+          "g": "ይከውን",
+          "t": "yəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ምጽላልክሙ",
+          "t": "məṣəlaləkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወተዐርጉ",
+          "t": "wätäʿärəgu",
+          "gl": ""
+        },
+        {
+          "g": "ወትበውኡ",
+          "t": "wätəbäwəʾu",
+          "gl": ""
+        },
+        {
+          "g": "በንድለታተ",
+          "t": "bänədəlätatä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ወበንቅዐታተ",
+          "t": "wäbänəqəʿätatä",
+          "gl": ""
+        },
+        {
+          "g": "ኰኵሕ",
+          "t": "kwäkwəḥə",
+          "gl": ""
+        },
+        {
+          "g": "ለዓለም",
+          "t": "läʿalämə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ግሔ",
+          "t": "gəḥe",
+          "gl": ""
+        },
+        {
+          "g": "እምቅድመ",
+          "t": "ʾəməqədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ዐማፅያን",
+          "t": "ʿämaṣ́əyanə",
+          "gl": ""
+        },
+        {
+          "g": "ወይንእኩ",
+          "t": "wäyənəʾəku",
+          "gl": ""
+        },
+        {
+          "g": "ዲቤክሙ",
+          "t": "dibekəmu",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "geez": "ወአንትሙ፡ ኢትከውኑ፡ ከማሆሙ፡ አላ፡ ሰማዕተ፡ ይከውን፡ ዲቤክሙ፡ ዝንቱ፡ ከመ፡ ሱቱፋነ፡ ኮንክሙ፡ ለኃጥኣን፡ ወይበክዩ፡ ከመ፡ ጼዴናታት፡ ወአንትሙሰ፡ ኢትፍርሁ፡ እለ፡ ሐመምክሙ፡ እስመ፡ ፈውስ፡ ይከውነክሙ፡ ወብርሃን፡ ብሩህ፡ ያበርህ፡ ለክሙ፡ ወቃለ፡ ዕረፍት፡ ትሰምዑ፡ እምሰማይ።",
+      "translation": "Wherefore fear not, ye that have suffered; For healing shall be your portion, And a bright light shall enlighten you, And the voice of rest ye shall hear from heaven.",
+      "words": [
+        {
+          "g": "ወአንትሙ",
+          "t": "wäʾänətəmu",
+          "gl": ""
+        },
+        {
+          "g": "ኢትከውኑ",
+          "t": "ʾitəkäwənu",
+          "gl": ""
+        },
+        {
+          "g": "ከማሆሙ",
+          "t": "kämahomu",
+          "gl": ""
+        },
+        {
+          "g": "አላ",
+          "t": "ʾäla",
+          "gl": ""
+        },
+        {
+          "g": "ሰማዕተ",
+          "t": "sämaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "ይከውን",
+          "t": "yəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ዲቤክሙ",
+          "t": "dibekəmu",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ሱቱፋነ",
+          "t": "sutufanä",
+          "gl": ""
+        },
+        {
+          "g": "ኮንክሙ",
+          "t": "konəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ለኃጥኣን",
+          "t": "läḫaṭəʾanə",
+          "gl": ""
+        },
+        {
+          "g": "ወይበክዩ",
+          "t": "wäyəbäkəyu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ጼዴናታት",
+          "t": "ṣedenatatə",
+          "gl": ""
+        },
+        {
+          "g": "ወአንትሙሰ",
+          "t": "wäʾänətəmusä",
+          "gl": ""
+        },
+        {
+          "g": "ኢትፍርሁ",
+          "t": "ʾitəfərəhu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሐመምክሙ",
+          "t": "ḥämäməkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ፈውስ",
+          "t": "fäwəsə",
+          "gl": ""
+        },
+        {
+          "g": "ይከውነክሙ",
+          "t": "yəkäwənäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወብርሃን",
+          "t": "wäbərəhanə",
+          "gl": ""
+        },
+        {
+          "g": "ብሩህ",
+          "t": "bəruhə",
+          "gl": ""
+        },
+        {
+          "g": "ያበርህ",
+          "t": "yabärəhə",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወቃለ",
+          "t": "wäqalä",
+          "gl": ""
+        },
+        {
+          "g": "ዕረፍት",
+          "t": "ʿəräfətə",
+          "gl": ""
+        },
+        {
+          "g": "ትሰምዑ",
+          "t": "təsäməʿu",
+          "gl": ""
+        },
+        {
+          "g": "እምሰማይ",
+          "t": "ʾəməsämayə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 4,
+      "geez": "አሌ፡ ለክሙ፡ ኃጥኣን፡ እስመ፡ ብዕልክሙ፡ ያመስለክሙ፡ ጻድቃነ፡ ወልብክሙ፡ ይዛለፈክሙ፡ ከመ፡ ኃጥኣን፡ አንትሙ፡ ወዝንቱ፡ ነገር፡ ይከውን፡ ዲቤክሙ፡ ሰማዕተ፡ ለተዝካረ፡ እከያት።",
+      "translation": "Woe unto you, ye sinners, for your riches make you appear like the righteous, But your hearts convict you of being sinners, And this fact shall be a testimony against you for a memorial of (your) evil deeds.",
+      "words": [
+        {
+          "g": "አሌ",
+          "t": "ʾäle",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ኃጥኣን",
+          "t": "ḫaṭəʾanə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ብዕልክሙ",
+          "t": "bəʿələkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ያመስለክሙ",
+          "t": "yamäsəläkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ጻድቃነ",
+          "t": "ṣadəqanä",
+          "gl": ""
+        },
+        {
+          "g": "ወልብክሙ",
+          "t": "wäləbəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ይዛለፈክሙ",
+          "t": "yəzaläfäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ኃጥኣን",
+          "t": "ḫaṭəʾanə",
+          "gl": ""
+        },
+        {
+          "g": "አንትሙ",
+          "t": "ʾänətəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወዝንቱ",
+          "t": "wäzənətu",
+          "gl": ""
+        },
+        {
+          "g": "ነገር",
+          "t": "nägärə",
+          "gl": ""
+        },
+        {
+          "g": "ይከውን",
+          "t": "yəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ዲቤክሙ",
+          "t": "dibekəmu",
+          "gl": ""
+        },
+        {
+          "g": "ሰማዕተ",
+          "t": "sämaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "ለተዝካረ",
+          "t": "lätäzəkarä",
+          "gl": ""
+        },
+        {
+          "g": "እከያት",
+          "t": "ʾəkäyatə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 5,
+      "geez": "አሌ፡ ለክሙ፡ እለ፡ ትበልዑ፡ ስብሐ፡ ሥርናይ፡ ወትሰትዩ፡ ኀይለ፡ ሥርወ፡ ነቅዕ፡ ወትከይድዎሙ፡ ለኃጥኣን፡ በኀይልክሙ።",
+      "translation": "Woe to you who devour the finest of the wheat, And drink wine in large bowls, And tread under foot the lowly with your might.",
+      "words": [
+        {
+          "g": "አሌ",
+          "t": "ʾäle",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ትበልዑ",
+          "t": "təbäləʿu",
+          "gl": ""
+        },
+        {
+          "g": "ስብሐ",
+          "t": "səbəḥä",
+          "gl": ""
+        },
+        {
+          "g": "ሥርናይ",
+          "t": "śərənayə",
+          "gl": ""
+        },
+        {
+          "g": "ወትሰትዩ",
+          "t": "wätəsätəyu",
+          "gl": ""
+        },
+        {
+          "g": "ኀይለ",
+          "t": "ḫäyəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሥርወ",
+          "t": "śərəwä",
+          "gl": ""
+        },
+        {
+          "g": "ነቅዕ",
+          "t": "näqəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወትከይድዎሙ",
+          "t": "wätəkäyədəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለኃጥኣን",
+          "t": "läḫaṭəʾanə",
+          "gl": ""
+        },
+        {
+          "g": "በኀይልክሙ",
+          "t": "bäḫäyələkəmu",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 6,
+      "geez": "አሌ፡ ለክሙ፡ እለ፡ ትሰትዩ፡ ማየ፡ በኵሉ፡ ጊዜ፡ እስመ፡ ፍጡነ፡ ትትፈደዩ፡ ወትትዌድኡ፡ ወትየብሱ፡ እስመ፡ ኀደግሙ፡ ነቅዐ፡ ሕይወት።",
+      "translation": "Woe to you who drink water from every fountain, For suddenly shall ye be consumed and wither away, Because ye have forsaken the fountain of life.",
+      "words": [
+        {
+          "g": "አሌ",
+          "t": "ʾäle",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ትሰትዩ",
+          "t": "təsätəyu",
+          "gl": ""
+        },
+        {
+          "g": "ማየ",
+          "t": "mayä",
+          "gl": ""
+        },
+        {
+          "g": "በኵሉ",
+          "t": "bäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ጊዜ",
+          "t": "gize",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ፍጡነ",
+          "t": "fəṭunä",
+          "gl": ""
+        },
+        {
+          "g": "ትትፈደዩ",
+          "t": "tətəfädäyu",
+          "gl": ""
+        },
+        {
+          "g": "ወትትዌድኡ",
+          "t": "wätətəwedəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ወትየብሱ",
+          "t": "wätəyäbəsu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኀደግሙ",
+          "t": "ḫädägəmu",
+          "gl": ""
+        },
+        {
+          "g": "ነቅዐ",
+          "t": "näqəʿä",
+          "gl": ""
+        },
+        {
+          "g": "ሕይወት",
+          "t": "ḥəyəwätə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 7,
+      "geez": "አሌ፡ ለክሙ፡ እለ፡ ትገብሩ፡ ዐመፃ፡ ወጕሕሉተ፡ ወፅርፈተ፡ ወዝንቱ፡ ተዝካረ፡ ይከውን፡ ዲቤክሙ፡ ለእከይ።",
+      "translation": "Woe to you who work unrighteousness And deceit and blasphemy: It shall be a memorial against you for evil.",
+      "words": [
+        {
+          "g": "አሌ",
+          "t": "ʾäle",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ትገብሩ",
+          "t": "təgäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ዐመፃ",
+          "t": "ʿämäṣ́a",
+          "gl": ""
+        },
+        {
+          "g": "ወጕሕሉተ",
+          "t": "wägwəḥəlutä",
+          "gl": ""
+        },
+        {
+          "g": "ወፅርፈተ",
+          "t": "wäṣ́ərəfätä",
+          "gl": ""
+        },
+        {
+          "g": "ወዝንቱ",
+          "t": "wäzənətu",
+          "gl": ""
+        },
+        {
+          "g": "ተዝካረ",
+          "t": "täzəkarä",
+          "gl": ""
+        },
+        {
+          "g": "ይከውን",
+          "t": "yəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ዲቤክሙ",
+          "t": "dibekəmu",
+          "gl": ""
+        },
+        {
+          "g": "ለእከይ",
+          "t": "läʾəkäyə",
+          "gl": ""
+        }
+      ]
+    },
+    {
+      "num": 8,
+      "geez": "አሌ፡ ለክሙ፡ ኃጥኣን፡ እለ፡ በኀይል፡ ትኰርዕዎ፡ ለጻድቅ፡ እስመ፡ ትመጽእ፡ ዕለተ፡ ሀጕልክሙ፡ ወበእማንቱ፡ መዋዕል፡ ይመጽኣ፡ ለጻድቃን፡ መዋዕል፡ ብዙኃት፡ ወኄራት፡ በዕለተ፡ ኵነኔ፡ ዚኣክሙ።",
+      "translation": "Woe to you, ye mighty, Who with might oppress the righteous; For the day of your destruction is coming. In those days many and good days shall come to the righteous—in the day of your judgement.",
+      "words": [
+        {
+          "g": "አሌ",
+          "t": "ʾäle",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ኃጥኣን",
+          "t": "ḫaṭəʾanə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "በኀይል",
+          "t": "bäḫäyələ",
+          "gl": ""
+        },
+        {
+          "g": "ትኰርዕዎ",
+          "t": "təkwärəʿəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለጻድቅ",
+          "t": "läṣadəqə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ትመጽእ",
+          "t": "təmäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ዕለተ",
+          "t": "ʿəlätä",
+          "gl": ""
+        },
+        {
+          "g": "ሀጕልክሙ",
+          "t": "hägwələkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወበእማንቱ",
+          "t": "wäbäʾəmanətu",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕል",
+          "t": "mäwaʿələ",
+          "gl": ""
+        },
+        {
+          "g": "ይመጽኣ",
+          "t": "yəmäṣəʾa",
+          "gl": ""
+        },
+        {
+          "g": "ለጻድቃን",
+          "t": "läṣadəqanə",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕል",
+          "t": "mäwaʿələ",
+          "gl": ""
+        },
+        {
+          "g": "ብዙኃት",
+          "t": "bəzuḫatə",
+          "gl": ""
+        },
+        {
+          "g": "ወኄራት",
+          "t": "wäḫeratə",
+          "gl": ""
+        },
+        {
+          "g": "በዕለተ",
+          "t": "bäʿəlätä",
+          "gl": ""
+        },
+        {
+          "g": "ኵነኔ",
+          "t": "kwənäne",
+          "gl": ""
+        },
+        {
+          "g": "ዚኣክሙ",
+          "t": "ziʾakəmu",
+          "gl": ""
+        }
+      ]
+    }
+  ]
+}

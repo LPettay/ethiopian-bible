@@ -1,0 +1,3862 @@
+{
+  "book": "Num",
+  "chapter": 4,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወነበቦሙ ፡ እግዚአብሔር ፡ ለሙሴ ፡ ወለአሮን ፡ ወይቤሎሙ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነበቦሙ",
+          "t": "wänäbäbomu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ወለአሮን",
+          "t": "wäläʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎሙ",
+          "t": "wäyəbelomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord spoke to Moses and Aaron, saying,",
+        "kjv": "And the LORD spake unto Moses and unto Aaron, saying,"
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ፍልጥዎሙ ፡ ለደቂቀ ፡ ቃዓት ፡ እምነ ፡ ማእከሎሙ ፡ ለደቂቀ ፡ ሌዊ ፡ በበሕዘቢሆሙ ፡ ወበበቤተ ፡ አበዊሆሙ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ፍልጥዎሙ",
+          "t": "fələṭəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ቃዓት",
+          "t": "qaʿatə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ማእከሎሙ",
+          "t": "maʾəkälomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ሌዊ",
+          "t": "lewi",
+          "gl": ""
+        },
+        {
+          "g": "በበሕዘቢሆሙ",
+          "t": "bäbäḥəzäbihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበቤተ",
+          "t": "wäbäbäbetä",
+          "gl": ""
+        },
+        {
+          "g": "አበዊሆሙ",
+          "t": "ʾäbäwihomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Take the sum of the children of Caath from the midst of the sons of Levi, after their families, according to the houses of their fathers' households;",
+        "kjv": "Take the sum of the sons of Kohath from among the sons of Levi, after their families, by the house of their fathers,"
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ዘእምዕሥራ ፡ ወኀምስቱ ፡ ዓም ፡ ወላዕሉ ፡ እምኔሁ ፡ እስከ ፡ ዘኀምሳ ፡ ዓም ፡ ኵሉ ፡ ዘይበውእ ፡ ይግበር ፡ ግብረ ፡\n                  ኵሉ ፡ ምግባር ፡ ዘውስተ ፡ ደብተራ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዘእምዕሥራ",
+          "t": "zäʾəməʿəśəra",
+          "gl": ""
+        },
+        {
+          "g": "ወኀምስቱ",
+          "t": "wäḫäməsətu",
+          "gl": ""
+        },
+        {
+          "g": "ዓም",
+          "t": "ʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ወላዕሉ",
+          "t": "wälaʿəlu",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዘኀምሳ",
+          "t": "zäḫäməsa",
+          "gl": ""
+        },
+        {
+          "g": "ዓም",
+          "t": "ʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይበውእ",
+          "t": "zäyəbäwəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ይግበር",
+          "t": "yəgəbärə",
+          "gl": ""
+        },
+        {
+          "g": "ግብረ",
+          "t": "gəbərä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ምግባር",
+          "t": "məgəbarə",
+          "gl": ""
+        },
+        {
+          "g": "ዘውስተ",
+          "t": "zäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ደብተራ",
+          "t": "däbətära",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "from twenty-five years old and upward until fifty years, every one that goes in to minister, to do all the works in the tabernacle of witness.",
+        "kjv": "From thirty years old and upward even until fifty years old, all that enter into the host, to do the work in the tabernacle of the congregation."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወዝንቱ ፡ ውእቱ ፡ ግብሮሙ ፡ ለደቂቀ ፡ ቃዓት ፡ በውስተ ፡ ደብተራ ፡ ዘመርጡል ፡ ቅድሳት ፡ ዘቅዱሳን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዝንቱ",
+          "t": "wäzənətu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ግብሮሙ",
+          "t": "gəbəromu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ቃዓት",
+          "t": "qaʿatə",
+          "gl": ""
+        },
+        {
+          "g": "በውስተ",
+          "t": "bäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ደብተራ",
+          "t": "däbətära",
+          "gl": ""
+        },
+        {
+          "g": "ዘመርጡል",
+          "t": "zämärəṭulə",
+          "gl": ""
+        },
+        {
+          "g": "ቅድሳት",
+          "t": "qədəsatə",
+          "gl": ""
+        },
+        {
+          "g": "ዘቅዱሳን",
+          "t": "zäqədusanə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And these are the works of the sons of Caath in the tabernacle of witness; it is most holy.",
+        "kjv": "This shall be the service of the sons of Kohath in the tabernacle of the congregation, about the most holy things:"
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወይበውኡ ፡ አሮን ፡ ወደቂቁ ፡ ሶበ ፡ ያነሥእ ፡ ትዕይን[ት] ፡ ወያወርዱ ፡ መንጦላዕተ ፡ ዘይሴውር ፡ ወይከድንዋ ፡ ቦቱ\n                  ፡ ለታቦት ፡ ዘመርጡል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይበውኡ",
+          "t": "wäyəbäwəʾu",
+          "gl": ""
+        },
+        {
+          "g": "አሮን",
+          "t": "ʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ወደቂቁ",
+          "t": "wädäqiqu",
+          "gl": ""
+        },
+        {
+          "g": "ሶበ",
+          "t": "sobä",
+          "gl": ""
+        },
+        {
+          "g": "ያነሥእ",
+          "t": "yanäśəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ትዕይንት",
+          "t": "təʿəyənətə",
+          "gl": ""
+        },
+        {
+          "g": "ወያወርዱ",
+          "t": "wäyawärədu",
+          "gl": ""
+        },
+        {
+          "g": "መንጦላዕተ",
+          "t": "mänəṭolaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "ዘይሴውር",
+          "t": "zäyəsewərə",
+          "gl": ""
+        },
+        {
+          "g": "ወይከድንዋ",
+          "t": "wäyəkädənəwa",
+          "gl": ""
+        },
+        {
+          "g": "ቦቱ",
+          "t": "botu",
+          "gl": ""
+        },
+        {
+          "g": "ለታቦት",
+          "t": "lätabotə",
+          "gl": ""
+        },
+        {
+          "g": "ዘመርጡል",
+          "t": "zämärəṭulə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Aaron and his sons shall go in, when the camp is about to move, and shall take down the shadowing veil, and shall cover with it the ark of the testimony.",
+        "kjv": "And when the camp setteth forward, Aaron shall come, and his sons, and they shall take down the covering vail, and cover the ark of testimony with it:"
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወይወድዩ ፡ መልዕልቶ ፡ ክዳነ ፡ ዘማእሰ ፡ ምጺጺት ፡ ወይወድዩ ፡ መልዕልቶሙ ፡ ልብሰ ፡ ዘኵለንታሁ ፡ ዘደረከኖ ፡\n                  ወያስተዋድድዋ ፡ ውስተ ፡ መጻውርቲሃ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይወድዩ",
+          "t": "wäyəwädəyu",
+          "gl": ""
+        },
+        {
+          "g": "መልዕልቶ",
+          "t": "mäləʿələto",
+          "gl": ""
+        },
+        {
+          "g": "ክዳነ",
+          "t": "kədanä",
+          "gl": ""
+        },
+        {
+          "g": "ዘማእሰ",
+          "t": "zämaʾəsä",
+          "gl": ""
+        },
+        {
+          "g": "ምጺጺት",
+          "t": "məṣiṣitə",
+          "gl": ""
+        },
+        {
+          "g": "ወይወድዩ",
+          "t": "wäyəwädəyu",
+          "gl": ""
+        },
+        {
+          "g": "መልዕልቶሙ",
+          "t": "mäləʿələtomu",
+          "gl": ""
+        },
+        {
+          "g": "ልብሰ",
+          "t": "ləbəsä",
+          "gl": ""
+        },
+        {
+          "g": "ዘኵለንታሁ",
+          "t": "zäkwəlänətahu",
+          "gl": ""
+        },
+        {
+          "g": "ዘደረከኖ",
+          "t": "zädäräkäno",
+          "gl": ""
+        },
+        {
+          "g": "ወያስተዋድድዋ",
+          "t": "wäyasətäwadədəwa",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "መጻውርቲሃ",
+          "t": "mäṣawərətiha",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they shall put on it a cover, even a blue skin, and put on it above a garment all of blue, and shall put the staves through the rings.",
+        "kjv": "And shall put thereon the covering of badgers’ skins, and shall spread over it a cloth wholly of blue, and shall put in the staves thereof."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወዲበ ፡ ማእድኒ ፡ እንተ ፡ ሥርዐት ፡ ይወድዩ ፡ ልብሰ ፡ ዘኵለንታሁ ፡ ዘሕብረ ፡ ከብድ ፡ ወመጻብሕቲሃኒ ፡\n                  ወአጽሕልቲሃኒ ፡ ወመዳምኅተኒ ፡ ወመዋጽሕቲሃኒ ፡ በዘ ፡ ቦቱ ፡ ያወጽኅ ፡ ወኅብስተኒ ፡ ዘይሠርዑ ፡ በኵሉ ፡ ጊዜ ፡ ላዕሌሃ\n                  ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዲበ",
+          "t": "wädibä",
+          "gl": ""
+        },
+        {
+          "g": "ማእድኒ",
+          "t": "maʾədəni",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ሥርዐት",
+          "t": "śərəʿätə",
+          "gl": ""
+        },
+        {
+          "g": "ይወድዩ",
+          "t": "yəwädəyu",
+          "gl": ""
+        },
+        {
+          "g": "ልብሰ",
+          "t": "ləbəsä",
+          "gl": ""
+        },
+        {
+          "g": "ዘኵለንታሁ",
+          "t": "zäkwəlänətahu",
+          "gl": ""
+        },
+        {
+          "g": "ዘሕብረ",
+          "t": "zäḥəbərä",
+          "gl": ""
+        },
+        {
+          "g": "ከብድ",
+          "t": "käbədə",
+          "gl": ""
+        },
+        {
+          "g": "ወመጻብሕቲሃኒ",
+          "t": "wämäṣabəḥətihani",
+          "gl": ""
+        },
+        {
+          "g": "ወአጽሕልቲሃኒ",
+          "t": "wäʾäṣəḥələtihani",
+          "gl": ""
+        },
+        {
+          "g": "ወመዳምኅተኒ",
+          "t": "wämädaməḫətäni",
+          "gl": ""
+        },
+        {
+          "g": "ወመዋጽሕቲሃኒ",
+          "t": "wämäwaṣəḥətihani",
+          "gl": ""
+        },
+        {
+          "g": "በዘ",
+          "t": "bäzä",
+          "gl": ""
+        },
+        {
+          "g": "ቦቱ",
+          "t": "botu",
+          "gl": ""
+        },
+        {
+          "g": "ያወጽኅ",
+          "t": "yawäṣəḫə",
+          "gl": ""
+        },
+        {
+          "g": "ወኅብስተኒ",
+          "t": "wäḫəbəsətäni",
+          "gl": ""
+        },
+        {
+          "g": "ዘይሠርዑ",
+          "t": "zäyəśärəʿu",
+          "gl": ""
+        },
+        {
+          "g": "በኵሉ",
+          "t": "bäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ጊዜ",
+          "t": "gize",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሃ",
+          "t": "laʿəleha",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they shall put on the table set forth for shew-bread a cloth all of purple, and the dishes, and the censers, and the cups, and the vessels with which one offers drink-offerings; and the continual loaves shall be upon it.",
+        "kjv": "And upon the table of shewbread they shall spread a cloth of blue, and put thereon the dishes, and the spoons, and the bowls, and covers to cover withal: and the continual bread shall be thereon:"
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወይወድዩ ፡ ላዕሌሃ ፡ ልብሰ ፡ ለይ ፡ ወይከድንዋ ፡ መክዳና ፡ ዘማእሰ ፡ ምጺጺት ፡ ወያስተዋድድዋ ፡ ውስተ ፡ መጻውርቲሃ\n                  ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይወድዩ",
+          "t": "wäyəwädəyu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሃ",
+          "t": "laʿəleha",
+          "gl": ""
+        },
+        {
+          "g": "ልብሰ",
+          "t": "ləbəsä",
+          "gl": ""
+        },
+        {
+          "g": "ለይ",
+          "t": "läyə",
+          "gl": ""
+        },
+        {
+          "g": "ወይከድንዋ",
+          "t": "wäyəkädənəwa",
+          "gl": ""
+        },
+        {
+          "g": "መክዳና",
+          "t": "mäkədana",
+          "gl": ""
+        },
+        {
+          "g": "ዘማእሰ",
+          "t": "zämaʾəsä",
+          "gl": ""
+        },
+        {
+          "g": "ምጺጺት",
+          "t": "məṣiṣitə",
+          "gl": ""
+        },
+        {
+          "g": "ወያስተዋድድዋ",
+          "t": "wäyasətäwadədəwa",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "መጻውርቲሃ",
+          "t": "mäṣawərətiha",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they shall put upon it a scarlet cloth, and they shall cover it with a blue covering of skin, and they shall put the staves into it.",
+        "kjv": "And they shall spread upon them a cloth of scarlet, and cover the same with a covering of badgers’ skins, and shall put in the staves thereof."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወይነሥኡ ፡ ልብሰ ፡ ደረከኖ ፡ ወይከድንዋ ፡ ለመራናት ፡ እንተ ፡ ላዕሌሃ ፡ ያኃትዉ ፡ ወመኃትዊሃኒ ፡ ወጕጠታቲሃ ፡\n                  ወበዘ ፡ ቦቱ ፡ ያሤንይዋ ፡ ወኵሎ ፡ ግምዓቲሃ ፡ ዘቅብእ ፡ ዘእምውስቴቱ ፡ ይገብርዋ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይነሥኡ",
+          "t": "wäyənäśəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ልብሰ",
+          "t": "ləbəsä",
+          "gl": ""
+        },
+        {
+          "g": "ደረከኖ",
+          "t": "däräkäno",
+          "gl": ""
+        },
+        {
+          "g": "ወይከድንዋ",
+          "t": "wäyəkädənəwa",
+          "gl": ""
+        },
+        {
+          "g": "ለመራናት",
+          "t": "lämäranatə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሃ",
+          "t": "laʿəleha",
+          "gl": ""
+        },
+        {
+          "g": "ያኃትዉ",
+          "t": "yaḫatəwu",
+          "gl": ""
+        },
+        {
+          "g": "ወመኃትዊሃኒ",
+          "t": "wämäḫatəwihani",
+          "gl": ""
+        },
+        {
+          "g": "ወጕጠታቲሃ",
+          "t": "wägwəṭätatiha",
+          "gl": ""
+        },
+        {
+          "g": "ወበዘ",
+          "t": "wäbäzä",
+          "gl": ""
+        },
+        {
+          "g": "ቦቱ",
+          "t": "botu",
+          "gl": ""
+        },
+        {
+          "g": "ያሤንይዋ",
+          "t": "yaśenəyəwa",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ግምዓቲሃ",
+          "t": "gəməʿatiha",
+          "gl": ""
+        },
+        {
+          "g": "ዘቅብእ",
+          "t": "zäqəbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምውስቴቱ",
+          "t": "zäʾəməwəsətetu",
+          "gl": ""
+        },
+        {
+          "g": "ይገብርዋ",
+          "t": "yəgäbərəwa",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they shall take a blue covering, and cover the candlestick that gives light, and its lamps, and its snuffers, and its funnels, and all the vessels of oil with which they minister.",
+        "kjv": "And they shall take a cloth of blue, and cover the candlestick of the light, and his lamps, and his tongs, and his snuffdishes, and all the oil vessels thereof, wherewith they minister unto it:"
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወይወድይዋ ፡ ላቲ ፡ ወለኵሉ ፡ ንዋያ ፡ ውስተ ፡ መክደና ፡ ዘማእሰ ፡ ምጺጺት ፡ ወያስተዋድድዋ ፡ ውስተ ፡ መጻውርቲሃ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይወድይዋ",
+          "t": "wäyəwädəyəwa",
+          "gl": ""
+        },
+        {
+          "g": "ላቲ",
+          "t": "lati",
+          "gl": ""
+        },
+        {
+          "g": "ወለኵሉ",
+          "t": "wäläkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ንዋያ",
+          "t": "nəwaya",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "መክደና",
+          "t": "mäkədäna",
+          "gl": ""
+        },
+        {
+          "g": "ዘማእሰ",
+          "t": "zämaʾəsä",
+          "gl": ""
+        },
+        {
+          "g": "ምጺጺት",
+          "t": "məṣiṣitə",
+          "gl": ""
+        },
+        {
+          "g": "ወያስተዋድድዋ",
+          "t": "wäyasətäwadədəwa",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "መጻውርቲሃ",
+          "t": "mäṣawərətiha",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they shall put it, and all its vessels, into a blue skin cover; and they shall put it on bearers.",
+        "kjv": "And they shall put it and all the vessels thereof within a covering of badgers’ skins, and shall put it upon a bar."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወለምሥዋዕኒ ፡ ዘወርቅ ፡ ይገለብብዎ ፡ በልብስ ፡ ዘደረከኖ ፡ ወይከድንዎ ፡ እምላዕሉ ፡ በማእሰ ፡ ምጺጺት ፡\n                  ወያስተዋድድዎ ፡ ውስተ ፡ መጻውርቲሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለምሥዋዕኒ",
+          "t": "wäläməśəwaʿəni",
+          "gl": ""
+        },
+        {
+          "g": "ዘወርቅ",
+          "t": "zäwärəqə",
+          "gl": ""
+        },
+        {
+          "g": "ይገለብብዎ",
+          "t": "yəgäläbəbəwo",
+          "gl": ""
+        },
+        {
+          "g": "በልብስ",
+          "t": "bäləbəsə",
+          "gl": ""
+        },
+        {
+          "g": "ዘደረከኖ",
+          "t": "zädäräkäno",
+          "gl": ""
+        },
+        {
+          "g": "ወይከድንዎ",
+          "t": "wäyəkädənəwo",
+          "gl": ""
+        },
+        {
+          "g": "እምላዕሉ",
+          "t": "ʾəməlaʿəlu",
+          "gl": ""
+        },
+        {
+          "g": "በማእሰ",
+          "t": "bämaʾəsä",
+          "gl": ""
+        },
+        {
+          "g": "ምጺጺት",
+          "t": "məṣiṣitə",
+          "gl": ""
+        },
+        {
+          "g": "ወያስተዋድድዎ",
+          "t": "wäyasətäwadədəwo",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "መጻውርቲሁ",
+          "t": "mäṣawərətihu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they shall put a blue cloth for a cover on the golden altar, and shall cover it with a blue skin cover, and put in its staves.",
+        "kjv": "And upon the golden altar they shall spread a cloth of blue, and cover it with a covering of badgers’ skins, and shall put to the staves thereof:"
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወይነሥኡ ፡ ኵሎ ፡ ንዋየ ፡ ግብር ፡ በዘ ፡ ቦቱ ፡ ይገብሩ ፡ ወይወድይዎ ፡ ውስተ ፡ ልብስ ፡ ዘደረከኖ ፡ ወይከድንዎ ፡\n                  በማእሰ ፡ ምጺጺት ፡ ወያነብርዎ ፡ ውስተ ፡ መጻውርቲሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይነሥኡ",
+          "t": "wäyənäśəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ንዋየ",
+          "t": "nəwayä",
+          "gl": ""
+        },
+        {
+          "g": "ግብር",
+          "t": "gəbərə",
+          "gl": ""
+        },
+        {
+          "g": "በዘ",
+          "t": "bäzä",
+          "gl": ""
+        },
+        {
+          "g": "ቦቱ",
+          "t": "botu",
+          "gl": ""
+        },
+        {
+          "g": "ይገብሩ",
+          "t": "yəgäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ወይወድይዎ",
+          "t": "wäyəwädəyəwo",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ልብስ",
+          "t": "ləbəsə",
+          "gl": ""
+        },
+        {
+          "g": "ዘደረከኖ",
+          "t": "zädäräkäno",
+          "gl": ""
+        },
+        {
+          "g": "ወይከድንዎ",
+          "t": "wäyəkädənəwo",
+          "gl": ""
+        },
+        {
+          "g": "በማእሰ",
+          "t": "bämaʾəsä",
+          "gl": ""
+        },
+        {
+          "g": "ምጺጺት",
+          "t": "məṣiṣitə",
+          "gl": ""
+        },
+        {
+          "g": "ወያነብርዎ",
+          "t": "wäyanäbərəwo",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "መጻውርቲሁ",
+          "t": "mäṣawərətihu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they shall take all the instruments of service, with which they minister in the sanctuary: and shall place them in a cloth of blue, and shall cover them with blue skin covering, and put them upon staves.",
+        "kjv": "And they shall take all the instruments of ministry, wherewith they minister in the sanctuary, and put them in a cloth of blue, and cover them with a covering of badgers’ skins, and shall put them on a bar:"
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወመክደነሂ ፡ ያነብርዎ ፡ ውስተ ፡ ምሥዋዕ ፡ ወይከድኑ ፡ ላዕሌሁ ፡ ልብሰ ፡ ዘሕብረ ፡ ከብድ ፡ ኵለንታሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወመክደነሂ",
+          "t": "wämäkədänähi",
+          "gl": ""
+        },
+        {
+          "g": "ያነብርዎ",
+          "t": "yanäbərəwo",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምሥዋዕ",
+          "t": "məśəwaʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወይከድኑ",
+          "t": "wäyəkädənu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ልብሰ",
+          "t": "ləbəsä",
+          "gl": ""
+        },
+        {
+          "g": "ዘሕብረ",
+          "t": "zäḥəbərä",
+          "gl": ""
+        },
+        {
+          "g": "ከብድ",
+          "t": "käbədə",
+          "gl": ""
+        },
+        {
+          "g": "ኵለንታሁ",
+          "t": "kwəlänətahu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he shall put the covering on the altar, and they shall cover it with a cloth all of purple.",
+        "kjv": "And they shall take away the ashes from the altar, and spread a purple cloth thereon:"
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወይወድዩ ፡ ውስቴቱ ፡ ኵሎ ፡ ንዋየ ፡ ግብሮሙ ፡ በዘ ፡ ቦቱ ፡ ይገብሩ ፡ ወመዓጥንተሂ ፡ ወመኋስስተኒ ፡ ወፍያላተኒ ፡\n                  ወመክደኖሙ ፡ ወኵ[ሎ] ፡ ንዋየ ፡ ምሥዋዕ ፡ ወይ[ወድ]ዩ ፡ ላዕሌሁ ፡ መክዳኖ ፡ ዘማእሰ ፡ ምጺጺት ፡ ወያነብርዎ ፡ ዲበ ፡\n                  መጻውርቲሁ ፡ ወይነሥኡ ፡ ልብሰ ፡ ዘሕብረ ፡ ከብድ ፡ ወይከድንዎ ፡ ለማዕከክ ፡ ወለመከየዱ ፡ ወይወድይዎ ፡ ውስተ ፡ መክደኑ\n                  ፡ ዘማእሰ ፡ ምጺጺት ፡ ወያነብርዎ ፡ ውስተ ፡ መጻውርቲሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይወድዩ",
+          "t": "wäyəwädəyu",
+          "gl": ""
+        },
+        {
+          "g": "ውስቴቱ",
+          "t": "wəsətetu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ንዋየ",
+          "t": "nəwayä",
+          "gl": ""
+        },
+        {
+          "g": "ግብሮሙ",
+          "t": "gəbəromu",
+          "gl": ""
+        },
+        {
+          "g": "በዘ",
+          "t": "bäzä",
+          "gl": ""
+        },
+        {
+          "g": "ቦቱ",
+          "t": "botu",
+          "gl": ""
+        },
+        {
+          "g": "ይገብሩ",
+          "t": "yəgäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ወመዓጥንተሂ",
+          "t": "wämäʿaṭənətähi",
+          "gl": ""
+        },
+        {
+          "g": "ወመኋስስተኒ",
+          "t": "wämäḫwasəsətäni",
+          "gl": ""
+        },
+        {
+          "g": "ወፍያላተኒ",
+          "t": "wäfəyalatäni",
+          "gl": ""
+        },
+        {
+          "g": "ወመክደኖሙ",
+          "t": "wämäkədänomu",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ንዋየ",
+          "t": "nəwayä",
+          "gl": ""
+        },
+        {
+          "g": "ምሥዋዕ",
+          "t": "məśəwaʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወይወድዩ",
+          "t": "wäyəwädəyu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "መክዳኖ",
+          "t": "mäkədano",
+          "gl": ""
+        },
+        {
+          "g": "ዘማእሰ",
+          "t": "zämaʾəsä",
+          "gl": ""
+        },
+        {
+          "g": "ምጺጺት",
+          "t": "məṣiṣitə",
+          "gl": ""
+        },
+        {
+          "g": "ወያነብርዎ",
+          "t": "wäyanäbərəwo",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "መጻውርቲሁ",
+          "t": "mäṣawərətihu",
+          "gl": ""
+        },
+        {
+          "g": "ወይነሥኡ",
+          "t": "wäyənäśəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ልብሰ",
+          "t": "ləbəsä",
+          "gl": ""
+        },
+        {
+          "g": "ዘሕብረ",
+          "t": "zäḥəbərä",
+          "gl": ""
+        },
+        {
+          "g": "ከብድ",
+          "t": "käbədə",
+          "gl": ""
+        },
+        {
+          "g": "ወይከድንዎ",
+          "t": "wäyəkädənəwo",
+          "gl": ""
+        },
+        {
+          "g": "ለማዕከክ",
+          "t": "lämaʿəkäkə",
+          "gl": ""
+        },
+        {
+          "g": "ወለመከየዱ",
+          "t": "wälämäkäyädu",
+          "gl": ""
+        },
+        {
+          "g": "ወይወድይዎ",
+          "t": "wäyəwädəyəwo",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "መክደኑ",
+          "t": "mäkədänu",
+          "gl": ""
+        },
+        {
+          "g": "ዘማእሰ",
+          "t": "zämaʾəsä",
+          "gl": ""
+        },
+        {
+          "g": "ምጺጺት",
+          "t": "məṣiṣitə",
+          "gl": ""
+        },
+        {
+          "g": "ወያነብርዎ",
+          "t": "wäyanäbərəwo",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "መጻውርቲሁ",
+          "t": "mäṣawərətihu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they shall put upon it all the vessels with which they minister upon it, and the fire-pans, and the flesh-hooks, and the cups, and the cover, and all the vessels of the altar; and they shall put on it a blue cover of skins, and shall put in its staves; and they shall take a purple cloth, and cover the laver and its foot, and they shall put it into a blue cover of skin, and put it on bars.",
+        "kjv": "And they shall put upon it all the vessels thereof, wherewith they minister about it, even the censers, the fleshhooks, and the shovels, and the basons, all the vessels of the altar; and they shall spread upon it a covering of badgers’ skins, and put to the staves of it."
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ወፈጺሞሙ ፡ አሮን ፡ ወደቂቁ ፡ ከዲነ ፡ ዘቅድሳት ፡ ወኵሉ ፡ ንዋየ ፡ ዘቅድሳት ፡ ሶበ ፡ ያነሥእ ፡ ትዕይን[ት] ፡\n                  ወእምዝ ፡ ይበውኡ ፡ ደቂቀ ፡ ቃዓት ፡ ይትመጠዉ ፡ ወኢይገስሱ ፡ ዘቅድሳት ፡ ከመ ፡ ኢይሙ[ቱ] ፡ ዝንቱ ፡ ዘይነሥኡ ፡ ደቂቀ\n                  ፡ ቃዓት ፡ እምውስተ ፡ ደብተራ ፡ ዘመርጡል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወፈጺሞሙ",
+          "t": "wäfäṣimomu",
+          "gl": ""
+        },
+        {
+          "g": "አሮን",
+          "t": "ʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ወደቂቁ",
+          "t": "wädäqiqu",
+          "gl": ""
+        },
+        {
+          "g": "ከዲነ",
+          "t": "kädinä",
+          "gl": ""
+        },
+        {
+          "g": "ዘቅድሳት",
+          "t": "zäqədəsatə",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ንዋየ",
+          "t": "nəwayä",
+          "gl": ""
+        },
+        {
+          "g": "ዘቅድሳት",
+          "t": "zäqədəsatə",
+          "gl": ""
+        },
+        {
+          "g": "ሶበ",
+          "t": "sobä",
+          "gl": ""
+        },
+        {
+          "g": "ያነሥእ",
+          "t": "yanäśəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ትዕይንት",
+          "t": "təʿəyənətə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምዝ",
+          "t": "wäʾəməzə",
+          "gl": ""
+        },
+        {
+          "g": "ይበውኡ",
+          "t": "yəbäwəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ቃዓት",
+          "t": "qaʿatə",
+          "gl": ""
+        },
+        {
+          "g": "ይትመጠዉ",
+          "t": "yətəmäṭäwu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይገስሱ",
+          "t": "wäʾiyəgäsəsu",
+          "gl": ""
+        },
+        {
+          "g": "ዘቅድሳት",
+          "t": "zäqədəsatə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ኢይሙቱ",
+          "t": "ʾiyəmutu",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይነሥኡ",
+          "t": "zäyənäśəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ቃዓት",
+          "t": "qaʿatə",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ደብተራ",
+          "t": "däbətära",
+          "gl": ""
+        },
+        {
+          "g": "ዘመርጡል",
+          "t": "zämärəṭulə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Aaron and his sons shall finish covering the holy things, and all the holy vessels, when the camp begins to move; and afterwards the sons of Caath shall go in to take up the furniture; but shall not touch the holy things, lest they die: these shall the sons of Caath bear in the tabernacle of witness.",
+        "kjv": "And when Aaron and his sons have made an end of covering the sanctuary, and all the vessels of the sanctuary, as the camp is to set forward; after that, the sons of Kohath shall come to bear it: but they shall not touch any holy thing, lest they die. These things are the burden of the sons of Kohath in the tabernacle of the congregation."
+      }
+    },
+    {
+      "num": 16,
+      "geez": "ወሥዩም ፡ ውእቱ ፡ እልዓዛር ፡ ወልደ ፡ አሮን ፡ ካህን ፡ ላዕለ ፡ ቅብአ ፡ ማኅቶት ፡ ወላዕለ ፡ ዕጣን ፡ ዘየዐጥኑ ፡\n                  ወላዕለ ፡ መሥዋዕት ፡ ዘኵሉ ፡ አሚር ፡ ወላዕለ ፡ ቅብእ ፡ ዘይቀብኡ ፡ ወላዕለ ፡ ኵሉ ፡ ደብተራ ፡ ሥዩም ፡ ውእቱ ፡\n                  ወላዕለ ፡ ኵሉ ፡ ዘሀለወ ፡ ውስተ ፡ ቅድሳት ፡ ወላዕለ ፡ ኵሉ ፡ ግብር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሥዩም",
+          "t": "wäśəyumə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "እልዓዛር",
+          "t": "ʾələʿazarə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "አሮን",
+          "t": "ʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ቅብአ",
+          "t": "qəbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ማኅቶት",
+          "t": "maḫətotə",
+          "gl": ""
+        },
+        {
+          "g": "ወላዕለ",
+          "t": "wälaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ዕጣን",
+          "t": "ʿəṭanə",
+          "gl": ""
+        },
+        {
+          "g": "ዘየዐጥኑ",
+          "t": "zäyäʿäṭənu",
+          "gl": ""
+        },
+        {
+          "g": "ወላዕለ",
+          "t": "wälaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕት",
+          "t": "mäśəwaʿətə",
+          "gl": ""
+        },
+        {
+          "g": "ዘኵሉ",
+          "t": "zäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "አሚር",
+          "t": "ʾämirə",
+          "gl": ""
+        },
+        {
+          "g": "ወላዕለ",
+          "t": "wälaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ቅብእ",
+          "t": "qəbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ዘይቀብኡ",
+          "t": "zäyəqäbəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ወላዕለ",
+          "t": "wälaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ደብተራ",
+          "t": "däbətära",
+          "gl": ""
+        },
+        {
+          "g": "ሥዩም",
+          "t": "śəyumə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ወላዕለ",
+          "t": "wälaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘሀለወ",
+          "t": "zähäläwä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ቅድሳት",
+          "t": "qədəsatə",
+          "gl": ""
+        },
+        {
+          "g": "ወላዕለ",
+          "t": "wälaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ግብር",
+          "t": "gəbərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Eleazar the son of Aaron the priest is overseer—the oil of the light, and the incense of composition, and the daily meat-offering and the anointing oil, are his charge; even the oversight of the whole tabernacle, and all things that are in it in the holy place, in all the works.",
+        "kjv": "And to the office of Eleazar the son of Aaron the priest pertaineth the oil for the light, and the sweet incense, and the daily meat offering, and the anointing oil, and the oversight of all the tabernacle, and of all that therein is, in the sanctuary, and in the vessels thereof."
+      }
+    },
+    {
+      "num": 17,
+      "geez": "ወነበቦ ፡ እግዚአብሔር ፡ ለሙሴ ፡ ወለአሮን ፡ ወይቤሎሙ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነበቦ",
+          "t": "wänäbäbo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ወለአሮን",
+          "t": "wäläʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎሙ",
+          "t": "wäyəbelomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord spoke to Moses and Aaron, saying,",
+        "kjv": "And the LORD spake unto Moses and unto Aaron, saying,"
+      }
+    },
+    {
+      "num": 18,
+      "geez": "ኢትሥርውዎሙ ፡ ለነገደ ፡ ሕዝቡ ፡ ለቃዓት ፡ እምነ ፡ ማእከሎሙ ፡ ለሌዋውያን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኢትሥርውዎሙ",
+          "t": "ʾitəśərəwəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለነገደ",
+          "t": "länägädä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዝቡ",
+          "t": "ḥəzəbu",
+          "gl": ""
+        },
+        {
+          "g": "ለቃዓት",
+          "t": "läqaʿatə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ማእከሎሙ",
+          "t": "maʾəkälomu",
+          "gl": ""
+        },
+        {
+          "g": "ለሌዋውያን",
+          "t": "lälewawəyanə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Ye shall not destroy the family of Caath from the tribe out of the midst of the Levites.",
+        "kjv": "Cut ye not off the tribe of the families of the Kohathites from among the Levites:"
+      }
+    },
+    {
+      "num": 19,
+      "geez": "ወከመዝ ፡ ግበሩ ፡ ሎሙ ፡ ወየሐይዉ ፡ ወኢይመውቱ ፡ ሶበ ፡ ለበዊኦቶሙ ፡ ውስተ ፡ ቅድሳት ፡ ዘቅዱሳን ፡ አሮን ፡\n                  ወደቂቁ ፡ ይባኡ ፡ ወያስተዳልዉ ፡ ሎሙ ፡ ጾሮሙ ፡ ለለ ፡ አሐዱ ፡ እምኔሆሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወከመዝ",
+          "t": "wäkämäzə",
+          "gl": ""
+        },
+        {
+          "g": "ግበሩ",
+          "t": "gəbäru",
+          "gl": ""
+        },
+        {
+          "g": "ሎሙ",
+          "t": "lomu",
+          "gl": ""
+        },
+        {
+          "g": "ወየሐይዉ",
+          "t": "wäyäḥäyəwu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይመውቱ",
+          "t": "wäʾiyəmäwətu",
+          "gl": ""
+        },
+        {
+          "g": "ሶበ",
+          "t": "sobä",
+          "gl": ""
+        },
+        {
+          "g": "ለበዊኦቶሙ",
+          "t": "läbäwiʾotomu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ቅድሳት",
+          "t": "qədəsatə",
+          "gl": ""
+        },
+        {
+          "g": "ዘቅዱሳን",
+          "t": "zäqədusanə",
+          "gl": ""
+        },
+        {
+          "g": "አሮን",
+          "t": "ʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ወደቂቁ",
+          "t": "wädäqiqu",
+          "gl": ""
+        },
+        {
+          "g": "ይባኡ",
+          "t": "yəbaʾu",
+          "gl": ""
+        },
+        {
+          "g": "ወያስተዳልዉ",
+          "t": "wäyasətädaləwu",
+          "gl": ""
+        },
+        {
+          "g": "ሎሙ",
+          "t": "lomu",
+          "gl": ""
+        },
+        {
+          "g": "ጾሮሙ",
+          "t": "ṣoromu",
+          "gl": ""
+        },
+        {
+          "g": "ለለ",
+          "t": "lälä",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሆሙ",
+          "t": "ʾəmənehomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "This do ye to them, and they shall live and not die, when they approach the holy of holies: Let Aaron and his sons advance, and they shall place them each in his post for bearing.",
+        "kjv": "But thus do unto them, that they may live, and not die, when they approach unto the most holy things: Aaron and his sons shall go in, and appoint them every one to his service and to his burden:"
+      }
+    },
+    {
+      "num": 20,
+      "geez": "ወኢይባኡ ፡ ግብተ ፡ ይርአዩ ፡ ቅድሳተ ፡ ወይሙቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኢይባኡ",
+          "t": "wäʾiyəbaʾu",
+          "gl": ""
+        },
+        {
+          "g": "ግብተ",
+          "t": "gəbətä",
+          "gl": ""
+        },
+        {
+          "g": "ይርአዩ",
+          "t": "yərəʾäyu",
+          "gl": ""
+        },
+        {
+          "g": "ቅድሳተ",
+          "t": "qədəsatä",
+          "gl": ""
+        },
+        {
+          "g": "ወይሙቱ",
+          "t": "wäyəmutu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And so they shall by no means go in to look suddenly upon the holy things, and die.",
+        "kjv": "But they shall not go in to see when the holy things are covered, lest they die."
+      }
+    },
+    {
+      "num": 21,
+      "geez": "ወነበቦ ፡ እግዚአብሔር ፡ ለሙሴ ፡ ወይቤሎ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነበቦ",
+          "t": "wänäbäbo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord spoke to Moses, saying,",
+        "kjv": "And the LORD spake unto Moses, saying,"
+      }
+    },
+    {
+      "num": 22,
+      "geez": "አሐዝ ፡ ኈልቆሙ ፡ ለደቂቀ ፡ ጌድሶን ፡ እምጥንቱ ፡ በበ ፡ አብያተ ፡ አበዊሆሙ ፡ ወበበ ፡ ሕዘቢሆሙ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "አሐዝ",
+          "t": "ʾäḥäzə",
+          "gl": ""
+        },
+        {
+          "g": "ኈልቆሙ",
+          "t": "ḫwäləqomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ጌድሶን",
+          "t": "gedəsonə",
+          "gl": ""
+        },
+        {
+          "g": "እምጥንቱ",
+          "t": "ʾəməṭənətu",
+          "gl": ""
+        },
+        {
+          "g": "በበ",
+          "t": "bäbä",
+          "gl": ""
+        },
+        {
+          "g": "አብያተ",
+          "t": "ʾäbəyatä",
+          "gl": ""
+        },
+        {
+          "g": "አበዊሆሙ",
+          "t": "ʾäbäwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበ",
+          "t": "wäbäbä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዘቢሆሙ",
+          "t": "ḥəzäbihomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Take the sum of the children of Gedson, and these according to the houses of their lineage, according to their families.",
+        "kjv": "Take also the sum of the sons of Gershon, throughout the houses of their fathers, by their families;"
+      }
+    },
+    {
+      "num": 23,
+      "geez": "ዘእም፳ወ፭ዓም ፡ ወላዕሉ ፡ እምኔሁ ፡ እስከ ፡ ዘ፶ዓም ፡ ኈልቆሙ ፡ ኵሎ ፡ ዘይበውእ ፡ ይግበር ፡ ግብረ ፡ ውስተ ፡\n                  ደብተራ ፡ ዘመርጡል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዘእም፳ወ፭ዓም",
+          "t": "zäʾəmə20wä5ʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ወላዕሉ",
+          "t": "wälaʿəlu",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዘ፶ዓም",
+          "t": "zä50ʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ኈልቆሙ",
+          "t": "ḫwäləqomu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ዘይበውእ",
+          "t": "zäyəbäwəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ይግበር",
+          "t": "yəgəbärə",
+          "gl": ""
+        },
+        {
+          "g": "ግብረ",
+          "t": "gəbərä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ደብተራ",
+          "t": "däbətära",
+          "gl": ""
+        },
+        {
+          "g": "ዘመርጡል",
+          "t": "zämärəṭulə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Take the number of them from five and twenty years old and upwards until the age of fifty, every one that goes in to minister, to do his business in the tabernacle of witness.",
+        "kjv": "From thirty years old and upward until fifty years old shalt thou number them; all that enter in to perform the service, to do the work in the tabernacle of the congregation."
+      }
+    },
+    {
+      "num": 24,
+      "geez": "ወዝንቱ ፡ ውእቱ ፡ ግብሮሙ ፡ ለነገደ ፡ ጌድሶን ፡ ዘይገብሩ ፡ ወዘይጸውሩ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዝንቱ",
+          "t": "wäzənətu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ግብሮሙ",
+          "t": "gəbəromu",
+          "gl": ""
+        },
+        {
+          "g": "ለነገደ",
+          "t": "länägädä",
+          "gl": ""
+        },
+        {
+          "g": "ጌድሶን",
+          "t": "gedəsonə",
+          "gl": ""
+        },
+        {
+          "g": "ዘይገብሩ",
+          "t": "zäyəgäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ወዘይጸውሩ",
+          "t": "wäzäyəṣäwəru",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "This is the public service of the family of Gedson, to minister and to bear.",
+        "kjv": "This is the service of the families of the Gershonites, to serve, and for burdens:"
+      }
+    },
+    {
+      "num": 25,
+      "geez": "አሥቃቃተ ፡ ዘደብተራ ፡ ወደብተራሂ ፡ ዘመርጡል ፡ ወመክደና ፡ ወመክደን ፡ ዘምጺጺት ፡ ዘዲቤሃ ፡ ዘእምላዕሉ ፡ ወመክደን\n                  ፡ ዘኆኅተ ፡ ደብተራ ፡ ዘመርጡል ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "አሥቃቃተ",
+          "t": "ʾäśəqaqatä",
+          "gl": ""
+        },
+        {
+          "g": "ዘደብተራ",
+          "t": "zädäbətära",
+          "gl": ""
+        },
+        {
+          "g": "ወደብተራሂ",
+          "t": "wädäbətärahi",
+          "gl": ""
+        },
+        {
+          "g": "ዘመርጡል",
+          "t": "zämärəṭulə",
+          "gl": ""
+        },
+        {
+          "g": "ወመክደና",
+          "t": "wämäkədäna",
+          "gl": ""
+        },
+        {
+          "g": "ወመክደን",
+          "t": "wämäkədänə",
+          "gl": ""
+        },
+        {
+          "g": "ዘምጺጺት",
+          "t": "zäməṣiṣitə",
+          "gl": ""
+        },
+        {
+          "g": "ዘዲቤሃ",
+          "t": "zädibeha",
+          "gl": ""
+        },
+        {
+          "g": "ዘእምላዕሉ",
+          "t": "zäʾəməlaʿəlu",
+          "gl": ""
+        },
+        {
+          "g": "ወመክደን",
+          "t": "wämäkədänə",
+          "gl": ""
+        },
+        {
+          "g": "ዘኆኅተ",
+          "t": "zäḫoḫətä",
+          "gl": ""
+        },
+        {
+          "g": "ደብተራ",
+          "t": "däbətära",
+          "gl": ""
+        },
+        {
+          "g": "ዘመርጡል",
+          "t": "zämärəṭulə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they shall bear the skins of the tabernacle, and the tabernacle of witness, and its veil, and the blue cover that was on it above, and the cover of the door of the tabernacle of witness.",
+        "kjv": "And they shall bear the curtains of the tabernacle, and the tabernacle of the congregation, his covering, and the covering of the badgers’ skins that is above upon it, and the hanging for the door of the tabernacle of the congregation,"
+      }
+    },
+    {
+      "num": 26,
+      "geez": "ወአልባሰ ፡ ዐጸድኒ ፡ ወኵሉ ፡ ደብተራ ፡ ዘመርጡል ፡ ወፈድፋዳተኒ ፡ ወኵ[ሎ] ፡ ንዋየ ፡ ግብሮሙ ፡ ወኵ[ሎ] ፡ በዘ ፡\n                  ቦቱ ፡ ይገብሩ ፡ ወይገብሩ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአልባሰ",
+          "t": "wäʾäləbasä",
+          "gl": ""
+        },
+        {
+          "g": "ዐጸድኒ",
+          "t": "ʿäṣädəni",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ደብተራ",
+          "t": "däbətära",
+          "gl": ""
+        },
+        {
+          "g": "ዘመርጡል",
+          "t": "zämärəṭulə",
+          "gl": ""
+        },
+        {
+          "g": "ወፈድፋዳተኒ",
+          "t": "wäfädəfadatäni",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ንዋየ",
+          "t": "nəwayä",
+          "gl": ""
+        },
+        {
+          "g": "ግብሮሙ",
+          "t": "gəbəromu",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "በዘ",
+          "t": "bäzä",
+          "gl": ""
+        },
+        {
+          "g": "ቦቱ",
+          "t": "botu",
+          "gl": ""
+        },
+        {
+          "g": "ይገብሩ",
+          "t": "yəgäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ወይገብሩ",
+          "t": "wäyəgäbəru",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And all the curtains of the court which were upon the tabernacle of witness, and the appendages, and all the vessels of service that they minister with they shall attend to.",
+        "kjv": "And the hangings of the court, and the hanging for the door of the gate of the court, which is by the tabernacle and by the altar round about, and their cords, and all the instruments of their service, and all that is made for them: so shall they serve."
+      }
+    },
+    {
+      "num": 27,
+      "geez": "በከመ ፡ አዘዝዎሙ ፡ አሮን ፡ ወደቂቁ ፡ ከማሁ ፡ ይኩን ፡ ግብሮሙ ፡ ለደቂቀ ፡ ጌድሶን ፡ በኵሉ ፡ ሕቢቶሙ ፡ ወበኵሉ ፡\n                  ግብሮሙ ፡ ወኈ[ል]ቆሙ ፡ በበ ፡ አስማቲሆሙ ፡ ለኵሉ ፡ ዘይጸውሩ ፡ እሙንቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "አዘዝዎሙ",
+          "t": "ʾäzäzəwomu",
+          "gl": ""
+        },
+        {
+          "g": "አሮን",
+          "t": "ʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ወደቂቁ",
+          "t": "wädäqiqu",
+          "gl": ""
+        },
+        {
+          "g": "ከማሁ",
+          "t": "kämahu",
+          "gl": ""
+        },
+        {
+          "g": "ይኩን",
+          "t": "yəkunə",
+          "gl": ""
+        },
+        {
+          "g": "ግብሮሙ",
+          "t": "gəbəromu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ጌድሶን",
+          "t": "gedəsonə",
+          "gl": ""
+        },
+        {
+          "g": "በኵሉ",
+          "t": "bäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ሕቢቶሙ",
+          "t": "ḥəbitomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበኵሉ",
+          "t": "wäbäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ግብሮሙ",
+          "t": "gəbəromu",
+          "gl": ""
+        },
+        {
+          "g": "ወኈልቆሙ",
+          "t": "wäḫwäləqomu",
+          "gl": ""
+        },
+        {
+          "g": "በበ",
+          "t": "bäbä",
+          "gl": ""
+        },
+        {
+          "g": "አስማቲሆሙ",
+          "t": "ʾäsəmatihomu",
+          "gl": ""
+        },
+        {
+          "g": "ለኵሉ",
+          "t": "läkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይጸውሩ",
+          "t": "zäyəṣäwəru",
+          "gl": ""
+        },
+        {
+          "g": "እሙንቱ",
+          "t": "ʾəmunətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "According to the direction of Aaron and his sons shall be the ministry of the sons of Gedson, in all their ministries, and in all their works; and thou shalt take account of them by name in all things borne by them.",
+        "kjv": "At the appointment of Aaron and his sons shall be all the service of the sons of the Gershonites, in all their burdens, and in all their service: and ye shall appoint unto them in charge all their burdens."
+      }
+    },
+    {
+      "num": 28,
+      "geez": "ዝንቱ ፡ ውእቱ ፡ ሕቢቶሙ ፡ ለደቂቀ ፡ ጌድሶን ፡ በውስተ ፡ ደብተራ ፡ ዘመርጡል ፡ ወሊቆሙ ፡ ይታመር ፡ ወልደ ፡ አሮን\n                  ፡ ካህን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ሕቢቶሙ",
+          "t": "ḥəbitomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ጌድሶን",
+          "t": "gedəsonə",
+          "gl": ""
+        },
+        {
+          "g": "በውስተ",
+          "t": "bäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ደብተራ",
+          "t": "däbətära",
+          "gl": ""
+        },
+        {
+          "g": "ዘመርጡል",
+          "t": "zämärəṭulə",
+          "gl": ""
+        },
+        {
+          "g": "ወሊቆሙ",
+          "t": "wäliqomu",
+          "gl": ""
+        },
+        {
+          "g": "ይታመር",
+          "t": "yətamärə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "አሮን",
+          "t": "ʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "This is the service of the sons of Gedson in the tabernacle of witness, and their charge by the hand of Ithamar the son of Aaron the priest.",
+        "kjv": "This is the service of the families of the sons of Gershon in the tabernacle of the congregation: and their charge shall be under the hand of Ithamar the son of Aaron the priest."
+      }
+    },
+    {
+      "num": 29,
+      "geez": "ወደቂቀ ፡ ሜራሪኒ ፡ በበ ፡ ሕዘቢሆሙ ፡ ወበበ ፡ አብያተ ፡ አበዊሆሙ ፡ ኈልቆሙ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወደቂቀ",
+          "t": "wädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ሜራሪኒ",
+          "t": "merarini",
+          "gl": ""
+        },
+        {
+          "g": "በበ",
+          "t": "bäbä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዘቢሆሙ",
+          "t": "ḥəzäbihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበ",
+          "t": "wäbäbä",
+          "gl": ""
+        },
+        {
+          "g": "አብያተ",
+          "t": "ʾäbəyatä",
+          "gl": ""
+        },
+        {
+          "g": "አበዊሆሙ",
+          "t": "ʾäbäwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ኈልቆሙ",
+          "t": "ḫwäləqomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The sons of Merari according to their families, according to the houses of their lineage, take ye the number of them.",
+        "kjv": "As for the sons of Merari, thou shalt number them after their families, by the house of their fathers;"
+      }
+    },
+    {
+      "num": 30,
+      "geez": "ዘእም ፡ ፳ወ፭ዓም ፡ ወላዕሉ ፡ እምኔሁ ፡ እስከ ፡ ዘ፶ዓም ፡ ኈልቆሙ ፡ ኵሉ ፡ ዘይበውእ ፡ ይግበር ፡ ግብረ ፡ ደብተራ\n                  ፡ ዘመርጡል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዘእም",
+          "t": "zäʾəmə",
+          "gl": ""
+        },
+        {
+          "g": "፳ወ፭ዓም",
+          "t": "20wä5ʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ወላዕሉ",
+          "t": "wälaʿəlu",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዘ፶ዓም",
+          "t": "zä50ʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ኈልቆሙ",
+          "t": "ḫwäləqomu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይበውእ",
+          "t": "zäyəbäwəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ይግበር",
+          "t": "yəgəbärə",
+          "gl": ""
+        },
+        {
+          "g": "ግብረ",
+          "t": "gəbərä",
+          "gl": ""
+        },
+        {
+          "g": "ደብተራ",
+          "t": "däbətära",
+          "gl": ""
+        },
+        {
+          "g": "ዘመርጡል",
+          "t": "zämärəṭulə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Take the number of them from five and twenty years old and upwards until fifty years old, every one that goes in to perform the services of the tabernacle of witness.",
+        "kjv": "From thirty years old and upward even unto fifty years old shalt thou number them, every one that entereth into the service, to do the work of the tabernacle of the congregation."
+      }
+    },
+    {
+      "num": 31,
+      "geez": "ወዝንቱ ፡ ውእቱ ፡ ሕቢቶሙ ፡ ዘይጸውሩ ፡ እሙንቱ ፡ በኵሉ ፡ ግብሮሙ ፡ ዘውስተ ፡ ደብተራ ፡ ዘመርጡል ፡ አርእስቲሃ ፡\n                  ለደብተራ ፡ ወመናስግቲሃ ፡ ወአዕማዲሃ ፡ ወመካይዲሆን ፡ ወመካድንተ ፡ ወመናብርቲሆሙ ፡ ወአዕማዲሆሙ ፡ ወመንጦላዕተ ፡ ኆኅተ ፡\n                  ደብተራ ፡ ዘመርጡል ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዝንቱ",
+          "t": "wäzənətu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ሕቢቶሙ",
+          "t": "ḥəbitomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይጸውሩ",
+          "t": "zäyəṣäwəru",
+          "gl": ""
+        },
+        {
+          "g": "እሙንቱ",
+          "t": "ʾəmunətu",
+          "gl": ""
+        },
+        {
+          "g": "በኵሉ",
+          "t": "bäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ግብሮሙ",
+          "t": "gəbəromu",
+          "gl": ""
+        },
+        {
+          "g": "ዘውስተ",
+          "t": "zäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ደብተራ",
+          "t": "däbətära",
+          "gl": ""
+        },
+        {
+          "g": "ዘመርጡል",
+          "t": "zämärəṭulə",
+          "gl": ""
+        },
+        {
+          "g": "አርእስቲሃ",
+          "t": "ʾärəʾəsətiha",
+          "gl": ""
+        },
+        {
+          "g": "ለደብተራ",
+          "t": "lädäbətära",
+          "gl": ""
+        },
+        {
+          "g": "ወመናስግቲሃ",
+          "t": "wämänasəgətiha",
+          "gl": ""
+        },
+        {
+          "g": "ወአዕማዲሃ",
+          "t": "wäʾäʿəmadiha",
+          "gl": ""
+        },
+        {
+          "g": "ወመካይዲሆን",
+          "t": "wämäkayədihonə",
+          "gl": ""
+        },
+        {
+          "g": "ወመካድንተ",
+          "t": "wämäkadənətä",
+          "gl": ""
+        },
+        {
+          "g": "ወመናብርቲሆሙ",
+          "t": "wämänabərətihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወአዕማዲሆሙ",
+          "t": "wäʾäʿəmadihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወመንጦላዕተ",
+          "t": "wämänəṭolaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "ኆኅተ",
+          "t": "ḫoḫətä",
+          "gl": ""
+        },
+        {
+          "g": "ደብተራ",
+          "t": "däbətära",
+          "gl": ""
+        },
+        {
+          "g": "ዘመርጡል",
+          "t": "zämärəṭulə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And these are the charges of the things borne by them according to all their works in the tabernacle of witness: they shall bear the chapiters of the tabernacle, and the bars, and its pillars, and its sockets, and the veil, and there shall be their sockets, and their pillars, and the curtain of the door of the tabernacle.",
+        "kjv": "And this is the charge of their burden, according to all their service in the tabernacle of the congregation; the boards of the tabernacle, and the bars thereof, and the pillars thereof, and sockets thereof,"
+      }
+    },
+    {
+      "num": 32,
+      "geez": "ወአዕማደ ፡ አውደ ፡ ዐጸድ ፡ ወመካይዲሆን ፡ ወመታክሊሆን ፡ ወመታግርቲሆን ፡ ወኵሎ ፡ ንዋዮን ፡ ወኵሎ ፡ ንዋየ ፡\n                  ግብሮሙ ፤ በበአስማቲሆሙ ፡ ትኌልቆሙ ፡ ወኵሎ ፡ ንዋየ ፡ ሕቢቶሙ ፡ ዘይጸውሩ ፡ እሙንቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአዕማደ",
+          "t": "wäʾäʿəmadä",
+          "gl": ""
+        },
+        {
+          "g": "አውደ",
+          "t": "ʾäwədä",
+          "gl": ""
+        },
+        {
+          "g": "ዐጸድ",
+          "t": "ʿäṣädə",
+          "gl": ""
+        },
+        {
+          "g": "ወመካይዲሆን",
+          "t": "wämäkayədihonə",
+          "gl": ""
+        },
+        {
+          "g": "ወመታክሊሆን",
+          "t": "wämätakəlihonə",
+          "gl": ""
+        },
+        {
+          "g": "ወመታግርቲሆን",
+          "t": "wämätagərətihonə",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ንዋዮን",
+          "t": "nəwayonə",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ንዋየ",
+          "t": "nəwayä",
+          "gl": ""
+        },
+        {
+          "g": "ግብሮሙ  በበአስማቲሆሙ",
+          "t": "gəbəromu  bäbäʾäsəmatihomu",
+          "gl": ""
+        },
+        {
+          "g": "ትኌልቆሙ",
+          "t": "təḫweləqomu",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ንዋየ",
+          "t": "nəwayä",
+          "gl": ""
+        },
+        {
+          "g": "ሕቢቶሙ",
+          "t": "ḥəbitomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይጸውሩ",
+          "t": "zäyəṣäwəru",
+          "gl": ""
+        },
+        {
+          "g": "እሙንቱ",
+          "t": "ʾəmunətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they shall bear the pillars of the court round about, and there shall be their sockets, and they shall bear the pillars of the veil of the door of the court, and their sockets and their pins, and their cords, and all their furniture, and all their instruments of service: take ye their number by name, and all the articles of the charge of the things borne by them.",
+        "kjv": "And the pillars of the court round about, and their sockets, and their pins, and their cords, with all their instruments, and with all their service: and by name ye shall reckon the instruments of the charge of their burden."
+      }
+    },
+    {
+      "num": 33,
+      "geez": "ዝንቱ ፡ ውእቱ ፡ ሕቢቶሙ ፡ ለነገደ ፡ ደቂቀ ፡ ሜራሪ ፡ በኵሉ ፡ ግብሮሙ ፡ ዘውስተ ፡ ደብተራ ፡ ዘመርጡል ፡ ወእሙንቱኒ\n                  ፡ ላዕለ ፡ ይታመር ፡ ወልደ ፡ አሮን ፡ ካህን ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ሕቢቶሙ",
+          "t": "ḥəbitomu",
+          "gl": ""
+        },
+        {
+          "g": "ለነገደ",
+          "t": "länägädä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ሜራሪ",
+          "t": "merari",
+          "gl": ""
+        },
+        {
+          "g": "በኵሉ",
+          "t": "bäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ግብሮሙ",
+          "t": "gəbəromu",
+          "gl": ""
+        },
+        {
+          "g": "ዘውስተ",
+          "t": "zäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ደብተራ",
+          "t": "däbətära",
+          "gl": ""
+        },
+        {
+          "g": "ዘመርጡል",
+          "t": "zämärəṭulə",
+          "gl": ""
+        },
+        {
+          "g": "ወእሙንቱኒ",
+          "t": "wäʾəmunətuni",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይታመር",
+          "t": "yətamärə",
+          "gl": ""
+        },
+        {
+          "g": "ወልደ",
+          "t": "wälədä",
+          "gl": ""
+        },
+        {
+          "g": "አሮን",
+          "t": "ʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "This is the ministration of the family of the sons of Merari in all their works in the tabernacle of witness, by the hand of Ithamar the son of Aaron the priest.",
+        "kjv": "This is the service of the families of the sons of Merari, according to all their service, in the tabernacle of the congregation, under the hand of Ithamar the son of Aaron the priest."
+      }
+    },
+    {
+      "num": 34,
+      "geez": "ወኈለቍዎሙ ፡ ሙሴ ፡ ወአሮን ፡ ወመላእክቲሆሙ ፡ ለእስራኤል ፡ ለደቂቀ ፡ ቃዓት ፡ በበ ፡ ሕዘቢሆሙ ፡ ወበበ ፡ አብያተ ፡\n                  አበዊሆሙ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኈለቍዎሙ",
+          "t": "wäḫwäläqwəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ወአሮን",
+          "t": "wäʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ወመላእክቲሆሙ",
+          "t": "wämälaʾəkətihomu",
+          "gl": ""
+        },
+        {
+          "g": "ለእስራኤል",
+          "t": "läʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ቃዓት",
+          "t": "qaʿatə",
+          "gl": ""
+        },
+        {
+          "g": "በበ",
+          "t": "bäbä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዘቢሆሙ",
+          "t": "ḥəzäbihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበ",
+          "t": "wäbäbä",
+          "gl": ""
+        },
+        {
+          "g": "አብያተ",
+          "t": "ʾäbəyatä",
+          "gl": ""
+        },
+        {
+          "g": "አበዊሆሙ",
+          "t": "ʾäbäwihomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And Moses and Aaron and the rulers of Israel took the number of the sons of Caath according to their families, according to the houses of their lineage;",
+        "kjv": "And Moses and Aaron and the chief of the congregation numbered the sons of the Kohathites after their families, and after the house of their fathers,"
+      }
+    },
+    {
+      "num": 35,
+      "geez": "ዘእም፳ወ፭ዓም ፡ ወላዕሉ ፡ እምኔሁ ፡ እስከ ፡ ዘ፶ዓም ፡ ኵሉ ፡ ዘይበውእ ፡ ከመ ፡ ይግበር ፡ ውስተ ፡ ግብረ ፡ ደብተራ\n                  ፡ ዘመርጡል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዘእም፳ወ፭ዓም",
+          "t": "zäʾəmə20wä5ʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ወላዕሉ",
+          "t": "wälaʿəlu",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዘ፶ዓም",
+          "t": "zä50ʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይበውእ",
+          "t": "zäyəbäwəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይግበር",
+          "t": "yəgəbärə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ግብረ",
+          "t": "gəbərä",
+          "gl": ""
+        },
+        {
+          "g": "ደብተራ",
+          "t": "däbətära",
+          "gl": ""
+        },
+        {
+          "g": "ዘመርጡል",
+          "t": "zämärəṭulə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "from five and twenty years old and upwards to the age of fifty years, every one that goes in to minister and do service in the tabernacle of witness.",
+        "kjv": "From thirty years old and upward even unto fifty years old, every one that entereth into the service, for the work in the tabernacle of the congregation:"
+      }
+    },
+    {
+      "num": 36,
+      "geez": "ወኮነ ፡ ኍለቊሆሙ ፡ ዘበበ ፡ ሕዘቢሆሙ ፡ ፳፻፯፻፶ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኮነ",
+          "t": "wäkonä",
+          "gl": ""
+        },
+        {
+          "g": "ኍለቊሆሙ",
+          "t": "ḫwəläqwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘበበ",
+          "t": "zäbäbä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዘቢሆሙ",
+          "t": "ḥəzäbihomu",
+          "gl": ""
+        },
+        {
+          "g": "፳፻፯፻፶",
+          "t": "20100710050",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the numbering of them according to their families was two thousand, seven hundred and fifty.",
+        "kjv": "And those that were numbered of them by their families were two thousand seven hundred and fifty."
+      }
+    },
+    {
+      "num": 37,
+      "geez": "ዝንቱ ፡ ውእቱ ፡ ኍለቊሆሙ ፡ ለደቂቀ ፡ ቃዓት ፡ ለኵሉ ፡ እለ ፡ ይበውኡ ፡ ውስተ ፡ ግብረ ፡ ደብተራ ፡ ዘመርጡል ፡\n                  በከመ ፡ ኈለቍዎሙ ፡ ሙሴ ፡ ወአሮን ፡ በቃለ ፡ እግዚአብሔር ፡ ወበእደ ፡ ሙሴ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ኍለቊሆሙ",
+          "t": "ḫwəläqwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ቃዓት",
+          "t": "qaʿatə",
+          "gl": ""
+        },
+        {
+          "g": "ለኵሉ",
+          "t": "läkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይበውኡ",
+          "t": "yəbäwəʾu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ግብረ",
+          "t": "gəbərä",
+          "gl": ""
+        },
+        {
+          "g": "ደብተራ",
+          "t": "däbətära",
+          "gl": ""
+        },
+        {
+          "g": "ዘመርጡል",
+          "t": "zämärəṭulə",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ኈለቍዎሙ",
+          "t": "ḫwäläqwəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ወአሮን",
+          "t": "wäʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "በቃለ",
+          "t": "bäqalä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወበእደ",
+          "t": "wäbäʾədä",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "This is the numbering of the family of Caath, every one that ministers in the tabernacle of witness, as Moses and Aaron numbered them by the word of the Lord, by the hand of Moses.",
+        "kjv": "These were they that were numbered of the families of the Kohathites, all that might do service in the tabernacle of the congregation, which Moses and Aaron did number according to the commandment of the LORD by the hand of Moses."
+      }
+    },
+    {
+      "num": 38,
+      "geez": "ወኈለቍዎሙ ፡ ለደቂቀ ፡ ጌድሶን ፡ በበ ፡ ሕዘቢሆሙ ፡ ወበበ ፡ አብያተ ፡ አበዊሆሙ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኈለቍዎሙ",
+          "t": "wäḫwäläqwəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ጌድሶን",
+          "t": "gedəsonə",
+          "gl": ""
+        },
+        {
+          "g": "በበ",
+          "t": "bäbä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዘቢሆሙ",
+          "t": "ḥəzäbihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበ",
+          "t": "wäbäbä",
+          "gl": ""
+        },
+        {
+          "g": "አብያተ",
+          "t": "ʾäbəyatä",
+          "gl": ""
+        },
+        {
+          "g": "አበዊሆሙ",
+          "t": "ʾäbäwihomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the sons of Gedson were numbered according to their families, according to the houses of their lineage,",
+        "kjv": "And those that were numbered of the sons of Gershon, throughout their families, and by the house of their fathers,"
+      }
+    },
+    {
+      "num": 39,
+      "geez": "ዘእም፳ወ፭ዓም ፡ ወላዕሉ ፡ እምኔሁ ፡ እስከ ፡ ዘ፶ዓም ፡ ኵሉ ፡ ዘይበውእ ፡ ውስተ ፡ ግብር ፡ ከመ ፡ ይግበር ፡ ግብረ\n                  ፡ ደብተራ ፡ ዘመርጡል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዘእም፳ወ፭ዓም",
+          "t": "zäʾəmə20wä5ʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ወላዕሉ",
+          "t": "wälaʿəlu",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዘ፶ዓም",
+          "t": "zä50ʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይበውእ",
+          "t": "zäyəbäwəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ግብር",
+          "t": "gəbərə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይግበር",
+          "t": "yəgəbärə",
+          "gl": ""
+        },
+        {
+          "g": "ግብረ",
+          "t": "gəbərä",
+          "gl": ""
+        },
+        {
+          "g": "ደብተራ",
+          "t": "däbətära",
+          "gl": ""
+        },
+        {
+          "g": "ዘመርጡል",
+          "t": "zämärəṭulə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "from five and twenty years old and upward till fifty years old, every one that goes in to minister and to do the services in the tabernacle of witness.",
+        "kjv": "From thirty years old and upward even unto fifty years old, every one that entereth into the service, for the work in the tabernacle of the congregation,"
+      }
+    },
+    {
+      "num": 40,
+      "geez": "ወኮነ ፡ ኍለቊሆሙ ፡ ዘበበ ፡ ሕዘቢሆሙ ፡ ወበበ ፡ አብያተ ፡ አበዊሆሙ ፡ ፳፻፯፻፴ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኮነ",
+          "t": "wäkonä",
+          "gl": ""
+        },
+        {
+          "g": "ኍለቊሆሙ",
+          "t": "ḫwəläqwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ዘበበ",
+          "t": "zäbäbä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዘቢሆሙ",
+          "t": "ḥəzäbihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበ",
+          "t": "wäbäbä",
+          "gl": ""
+        },
+        {
+          "g": "አብያተ",
+          "t": "ʾäbəyatä",
+          "gl": ""
+        },
+        {
+          "g": "አበዊሆሙ",
+          "t": "ʾäbäwihomu",
+          "gl": ""
+        },
+        {
+          "g": "፳፻፯፻፴",
+          "t": "20100710030",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the numbering of them according to their families, according to the houses of their lineage, was two thousand six hundred and thirty.",
+        "kjv": "Even those that were numbered of them, throughout their families, by the house of their fathers, were two thousand and six hundred and thirty."
+      }
+    },
+    {
+      "num": 41,
+      "geez": "ዝንቱ ፡ ውእቱ ፡ ኍለቊሆሙ ፡ ለነገደ ፡ ደቂቀ ፡ ጌድሶን ፡ ኵሉ ፡ እለ ፡ ይጸውሩ ፡ ውስተ ፡ ደብተራ ፡ ዘመርጡል ፡\n                  እለ ፡ ኈለቍዎሙ ፡ ሙሴ ፡ ወአሮን ፡ በቃለ ፡ እግዚአብሔር ፡ ወበእደ ፡ ሙሴ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ኍለቊሆሙ",
+          "t": "ḫwəläqwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ለነገደ",
+          "t": "länägädä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ጌድሶን",
+          "t": "gedəsonə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይጸውሩ",
+          "t": "yəṣäwəru",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ደብተራ",
+          "t": "däbətära",
+          "gl": ""
+        },
+        {
+          "g": "ዘመርጡል",
+          "t": "zämärəṭulə",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኈለቍዎሙ",
+          "t": "ḫwäläqwəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ወአሮን",
+          "t": "wäʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "በቃለ",
+          "t": "bäqalä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወበእደ",
+          "t": "wäbäʾədä",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "This is the numbering of the family of the sons of Gedson, every one who ministers in the tabernacle of witness; whom Moses and Aaron numbered by the word of the Lord, by the hand of Moses.",
+        "kjv": "These are they that were numbered of the families of the sons of Gershon, of all that might do service in the tabernacle of the congregation, whom Moses and Aaron did number according to the commandment of the LORD."
+      }
+    },
+    {
+      "num": 42,
+      "geez": "ወኈለቍዎሙ ፡ ለነገደ ፡ ደቂቀ ፡ ሜራሪ ፡ በበ ፡ ሕዘቢሆሙ ፡ ወበበ ፡ አብያተ ፡ አበዊሆሙ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኈለቍዎሙ",
+          "t": "wäḫwäläqwəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለነገደ",
+          "t": "länägädä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ሜራሪ",
+          "t": "merari",
+          "gl": ""
+        },
+        {
+          "g": "በበ",
+          "t": "bäbä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዘቢሆሙ",
+          "t": "ḥəzäbihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበ",
+          "t": "wäbäbä",
+          "gl": ""
+        },
+        {
+          "g": "አብያተ",
+          "t": "ʾäbəyatä",
+          "gl": ""
+        },
+        {
+          "g": "አበዊሆሙ",
+          "t": "ʾäbäwihomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And also the family of the sons of Merari were numbered according to their divisions, according to the house of their fathers;",
+        "kjv": "And those that were numbered of the families of the sons of Merari, throughout their families, by the house of their fathers,"
+      }
+    },
+    {
+      "num": 43,
+      "geez": "ዘእም፳ወ፭ዓም ፡ ወላዕሉ ፡ እምኔሁ ፡ እስከ ፡ ዘ፶ዓም ፡ ኵሉ ፡ ዘይበውእ ፡ ይግበር ፡ ውስተ ፡ ግብረ ፡ ደብተራ ፡\n                  ዘመርጡል ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዘእም፳ወ፭ዓም",
+          "t": "zäʾəmə20wä5ʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ወላዕሉ",
+          "t": "wälaʿəlu",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዘ፶ዓም",
+          "t": "zä50ʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይበውእ",
+          "t": "zäyəbäwəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ይግበር",
+          "t": "yəgəbärə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ግብረ",
+          "t": "gəbərä",
+          "gl": ""
+        },
+        {
+          "g": "ደብተራ",
+          "t": "däbətära",
+          "gl": ""
+        },
+        {
+          "g": "ዘመርጡል",
+          "t": "zämärəṭulə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "from five and twenty years old and upward till fifty years old, every one that goes in to minister in the services of the tabernacle of witness.",
+        "kjv": "From thirty years old and upward even unto fifty years old, every one that entereth into the service, for the work in the tabernacle of the congregation,"
+      }
+    },
+    {
+      "num": 44,
+      "geez": "ወኮነ ፡ ኍለቊሆሙ ፡ በበ ፡ ሕዘቢሆሙ ፡ ወበበ ፡ አብያተ ፡ አበዊሆሙ ፡ ፴፻፪፻ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኮነ",
+          "t": "wäkonä",
+          "gl": ""
+        },
+        {
+          "g": "ኍለቊሆሙ",
+          "t": "ḫwəläqwihomu",
+          "gl": ""
+        },
+        {
+          "g": "በበ",
+          "t": "bäbä",
+          "gl": ""
+        },
+        {
+          "g": "ሕዘቢሆሙ",
+          "t": "ḥəzäbihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበ",
+          "t": "wäbäbä",
+          "gl": ""
+        },
+        {
+          "g": "አብያተ",
+          "t": "ʾäbəyatä",
+          "gl": ""
+        },
+        {
+          "g": "አበዊሆሙ",
+          "t": "ʾäbäwihomu",
+          "gl": ""
+        },
+        {
+          "g": "፴፻፪፻",
+          "t": "301002100",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the numbering of them according to their families, according to the houses of their lineage, was three thousand and two hundred.",
+        "kjv": "Even those that were numbered of them after their families, were three thousand and two hundred."
+      }
+    },
+    {
+      "num": 45,
+      "geez": "ዝንቱ ፡ ውእቱ ፡ ኍለቊሆሙ ፡ ለነገደ ፡ ደቂቀ ፡ ሜራሪ ፡ እለ ፡ ኈለቍዎሙ ፡ ሙሴ ፡ ወአሮን ፡ በቃለ ፡ እግዚአብሔር ፡\n                  ወበእደ ፡ ሙሴ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ኍለቊሆሙ",
+          "t": "ḫwəläqwihomu",
+          "gl": ""
+        },
+        {
+          "g": "ለነገደ",
+          "t": "länägädä",
+          "gl": ""
+        },
+        {
+          "g": "ደቂቀ",
+          "t": "däqiqä",
+          "gl": ""
+        },
+        {
+          "g": "ሜራሪ",
+          "t": "merari",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኈለቍዎሙ",
+          "t": "ḫwäläqwəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ወአሮን",
+          "t": "wäʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "በቃለ",
+          "t": "bäqalä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወበእደ",
+          "t": "wäbäʾədä",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "This is the numbering of the family of the sons of Merari, whom Moses and Aaron numbered by the word of the Lord, by the hand of Moses.",
+        "kjv": "These be those that were numbered of the families of the sons of Merari, whom Moses and Aaron numbered according to the word of the LORD by the hand of Moses."
+      }
+    },
+    {
+      "num": 46,
+      "geez": "ኵሉ ፡ እለ ፡ ተኈለቁ ፡ እለ ፡ ኈለቍዎሙ ፡ ሙሴ ፡ ወአሮን ፡ ወመላእክቲሆሙ ፡ ለደቂቀ ፡ እስራኤል ፡ ለሌዋውያን ፡\n                  በበሕዘቢሆሙ ፡ ወበበ ፡ አብያተ ፡ አበዊሆሙ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ተኈለቁ",
+          "t": "täḫwäläqu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኈለቍዎሙ",
+          "t": "ḫwäläqwəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ሙሴ",
+          "t": "muse",
+          "gl": ""
+        },
+        {
+          "g": "ወአሮን",
+          "t": "wäʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ወመላእክቲሆሙ",
+          "t": "wämälaʾəkətihomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ለሌዋውያን",
+          "t": "lälewawəyanə",
+          "gl": ""
+        },
+        {
+          "g": "በበሕዘቢሆሙ",
+          "t": "bäbäḥəzäbihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበ",
+          "t": "wäbäbä",
+          "gl": ""
+        },
+        {
+          "g": "አብያተ",
+          "t": "ʾäbəyatä",
+          "gl": ""
+        },
+        {
+          "g": "አበዊሆሙ",
+          "t": "ʾäbäwihomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "All that were numbered, whom Moses and Aaron and the rulers of Israel numbered, namely, the Levites, according to their families and according to the houses of their lineage,",
+        "kjv": "All those that were numbered of the Levites, whom Moses and Aaron and the chief of Israel numbered, after their families, and after the house of their fathers,"
+      }
+    },
+    {
+      "num": 47,
+      "geez": "ዘእም፳ወ፭ዓም ፡ ወላዕሉ ፡ እምኔሁ ፡ እስከ ፡ ዘ፶ዓም ፡ ኵሉ ፡ ዘይበውእ ፡ ውስተ ፡ ግብረ ፡ ምግባረ ፡ ግብር ፡\n                  ዘይጸውሩ ፡ ዘደብተራ ፡ ዘመርጡል ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዘእም፳ወ፭ዓም",
+          "t": "zäʾəmə20wä5ʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ወላዕሉ",
+          "t": "wälaʿəlu",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ዘ፶ዓም",
+          "t": "zä50ʿamə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይበውእ",
+          "t": "zäyəbäwəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ግብረ",
+          "t": "gəbərä",
+          "gl": ""
+        },
+        {
+          "g": "ምግባረ",
+          "t": "məgəbarä",
+          "gl": ""
+        },
+        {
+          "g": "ግብር",
+          "t": "gəbərə",
+          "gl": ""
+        },
+        {
+          "g": "ዘይጸውሩ",
+          "t": "zäyəṣäwəru",
+          "gl": ""
+        },
+        {
+          "g": "ዘደብተራ",
+          "t": "zädäbətära",
+          "gl": ""
+        },
+        {
+          "g": "ዘመርጡል",
+          "t": "zämärəṭulə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "from five and twenty years old and upward till fifty years old, every one that goes in to the service of the works, and the charge of the things that are carried in the tabernacle of witness.",
+        "kjv": "From thirty years old and upward even unto fifty years old, every one that came to do the service of the ministry, and the service of the burden in the tabernacle of the congregation,"
+      }
+    },
+    {
+      "num": 48,
+      "geez": "ኮኑ ፡ እለ ፡ ተኈለቁ ፡ ፹፻[፭]፻፹ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኮኑ",
+          "t": "konu",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ተኈለቁ",
+          "t": "täḫwäläqu",
+          "gl": ""
+        },
+        {
+          "g": "፹፻፭፻፹",
+          "t": "80100510080",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And they that were numbered were eight thousand five hundred and eighty.",
+        "kjv": "Even those that were numbered of them, were eight thousand and five hundred and fourscore."
+      }
+    },
+    {
+      "num": 49,
+      "geez": "በቃለ ፡ እግዚአብሔር ፡ ተኈለቁ ፡ ለለ ፡ ብእሲ ፡ ብእሲ ፡ በበ ፡ ምግባሪሆሙ ፡ ወበበ ፡ ጾሮሙ ፡ ወተኈለቁ ፡ በከመ ፡\n                  አዘዞ ፡ እግዚአብሔር ፡ ለሙሴ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "በቃለ",
+          "t": "bäqalä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ተኈለቁ",
+          "t": "täḫwäläqu",
+          "gl": ""
+        },
+        {
+          "g": "ለለ",
+          "t": "lälä",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "በበ",
+          "t": "bäbä",
+          "gl": ""
+        },
+        {
+          "g": "ምግባሪሆሙ",
+          "t": "məgəbarihomu",
+          "gl": ""
+        },
+        {
+          "g": "ወበበ",
+          "t": "wäbäbä",
+          "gl": ""
+        },
+        {
+          "g": "ጾሮሙ",
+          "t": "ṣoromu",
+          "gl": ""
+        },
+        {
+          "g": "ወተኈለቁ",
+          "t": "wätäḫwäläqu",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "አዘዞ",
+          "t": "ʾäzäzo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "He reviewed them by the word of the Lord by the hand of Moses, appointing each man severally over their respective work, and over their burdens; and they were numbered, as the Lord commanded Moses.",
+        "kjv": "According to the commandment of the LORD they were numbered by the hand of Moses, every one according to his service, and according to his burden: thus were they numbered of him, as the LORD commanded Moses."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

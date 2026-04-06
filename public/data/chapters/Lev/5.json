@@ -1,0 +1,2452 @@
+{
+  "book": "Lev",
+  "chapter": 5,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወእመሰ ፡ ነፍስ ፡ አበሰት ፡ እንተ ፡ ስምዐ ፡ ኮነት ፡ ወሰምዐት ፡ ቃለ ፡ አምሐልዋ ፡ ወያአምር ፡ ወርእየ ፡ ለእመ ፡\n                  ኢአይድዐ ፡ ኀጢአተ ፡ ይከውኖ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "ነፍስ",
+          "t": "näfəsə",
+          "gl": ""
+        },
+        {
+          "g": "አበሰት",
+          "t": "ʾäbäsätə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ስምዐ",
+          "t": "səməʿä",
+          "gl": ""
+        },
+        {
+          "g": "ኮነት",
+          "t": "konätə",
+          "gl": ""
+        },
+        {
+          "g": "ወሰምዐት",
+          "t": "wäsäməʿätə",
+          "gl": ""
+        },
+        {
+          "g": "ቃለ",
+          "t": "qalä",
+          "gl": ""
+        },
+        {
+          "g": "አምሐልዋ",
+          "t": "ʾäməḥäləwa",
+          "gl": ""
+        },
+        {
+          "g": "ወያአምር",
+          "t": "wäyaʾämərə",
+          "gl": ""
+        },
+        {
+          "g": "ወርእየ",
+          "t": "wärəʾəyä",
+          "gl": ""
+        },
+        {
+          "g": "ለእመ",
+          "t": "läʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኢአይድዐ",
+          "t": "ʾiʾäyədəʿä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአተ",
+          "t": "ḫäṭiʾätä",
+          "gl": ""
+        },
+        {
+          "g": "ይከውኖ",
+          "t": "yəkäwəno",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if a soul sin, and hear the voice of swearing, and he is a witness or has seen or been conscious, if he do not report it, he shall bear his iniquity.",
+        "kjv": "And if a soul sin, and hear the voice of swearing, and is a witness, whether he hath seen or known of it; if he do not utter it, then he shall bear his iniquity."
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ወእመቦ ፡ ነፍስ ፡ እንተ ፡ ገሰሰት ፡ እምኵሉ ፡ ርኩስ ፡ አው ፡ ምውተ ፡ አው ፡ ብላዐ ፡ አርዌ ፡ ወዘኢኮነ ፡ ንጹሐ\n                  ፡ አው ፡ በድነ ፡ ርኩሰ ፡ ወዘኢኮነ ፡ ንጹሐ ፡ አው ፡ በድነ ፡ እንስሳ ፡ ዘኢኮነ ፡ ንጹሐ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመቦ",
+          "t": "wäʾəmäbo",
+          "gl": ""
+        },
+        {
+          "g": "ነፍስ",
+          "t": "näfəsə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ገሰሰት",
+          "t": "gäsäsätə",
+          "gl": ""
+        },
+        {
+          "g": "እምኵሉ",
+          "t": "ʾəməkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ርኩስ",
+          "t": "rəkusə",
+          "gl": ""
+        },
+        {
+          "g": "አው",
+          "t": "ʾäwə",
+          "gl": ""
+        },
+        {
+          "g": "ምውተ",
+          "t": "məwətä",
+          "gl": ""
+        },
+        {
+          "g": "አው",
+          "t": "ʾäwə",
+          "gl": ""
+        },
+        {
+          "g": "ብላዐ",
+          "t": "bəlaʿä",
+          "gl": ""
+        },
+        {
+          "g": "አርዌ",
+          "t": "ʾärəwe",
+          "gl": ""
+        },
+        {
+          "g": "ወዘኢኮነ",
+          "t": "wäzäʾikonä",
+          "gl": ""
+        },
+        {
+          "g": "ንጹሐ",
+          "t": "nəṣuḥä",
+          "gl": ""
+        },
+        {
+          "g": "አው",
+          "t": "ʾäwə",
+          "gl": ""
+        },
+        {
+          "g": "በድነ",
+          "t": "bädənä",
+          "gl": ""
+        },
+        {
+          "g": "ርኩሰ",
+          "t": "rəkusä",
+          "gl": ""
+        },
+        {
+          "g": "ወዘኢኮነ",
+          "t": "wäzäʾikonä",
+          "gl": ""
+        },
+        {
+          "g": "ንጹሐ",
+          "t": "nəṣuḥä",
+          "gl": ""
+        },
+        {
+          "g": "አው",
+          "t": "ʾäwə",
+          "gl": ""
+        },
+        {
+          "g": "በድነ",
+          "t": "bädənä",
+          "gl": ""
+        },
+        {
+          "g": "እንስሳ",
+          "t": "ʾənəsəsa",
+          "gl": ""
+        },
+        {
+          "g": "ዘኢኮነ",
+          "t": "zäʾikonä",
+          "gl": ""
+        },
+        {
+          "g": "ንጹሐ",
+          "t": "nəṣuḥä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "That soul which shall touch any unclean thing, or carcase, or that which is unclean being taken of beasts, or the dead bodies of abominable reptiles which are unclean, or carcases of unclean cattle,",
+        "kjv": "Or if a soul touch any unclean thing, whether it be a carcase of an unclean beast, or a carcase of unclean cattle, or the carcase of unclean creeping things, and if it be hidden from him; he also shall be unclean, and guilty."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "አው ፡ እመ ፡ ገሰሰ ፡ እምር[ኵሰ] ፡ ሰብእ ፡ እምነ ፡ ኵሉ ፡ ርኩስ ፡ እምከመ ፡ ገሰሰ ፡ ይረኵስ ፡ ወእመኒ ፡ እንዘ\n                  ፡ ኢያአምር ፡ ወእምዝ ፡ ተዐውቆ ፡ ወነስሐ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "አው",
+          "t": "ʾäwə",
+          "gl": ""
+        },
+        {
+          "g": "እመ",
+          "t": "ʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ገሰሰ",
+          "t": "gäsäsä",
+          "gl": ""
+        },
+        {
+          "g": "እምርኵሰ",
+          "t": "ʾəmərəkwəsä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ርኩስ",
+          "t": "rəkusə",
+          "gl": ""
+        },
+        {
+          "g": "እምከመ",
+          "t": "ʾəməkämä",
+          "gl": ""
+        },
+        {
+          "g": "ገሰሰ",
+          "t": "gäsäsä",
+          "gl": ""
+        },
+        {
+          "g": "ይረኵስ",
+          "t": "yəräkwəsə",
+          "gl": ""
+        },
+        {
+          "g": "ወእመኒ",
+          "t": "wäʾəmäni",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ኢያአምር",
+          "t": "ʾiyaʾämərə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምዝ",
+          "t": "wäʾəməzə",
+          "gl": ""
+        },
+        {
+          "g": "ተዐውቆ",
+          "t": "täʿäwəqo",
+          "gl": ""
+        },
+        {
+          "g": "ወነስሐ",
+          "t": "wänäsəḥä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "or should touch the uncleanness of a man, of whatever kind, which he may touch and be defiled by, and it should have escaped him, but afterwards he should know,—then he shall have transgressed.",
+        "kjv": "Or if he touch the uncleanness of man, whatsoever uncleanness it be that a man shall be defiled withal, and it be hid from him; when he knoweth of it, then he shall be guilty."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወነፍስ ፡ እመ ፡ መሐለ ፡ ወነበበ ፡ በከናፍሪሁ ፡ ለገቢረ ፡ እኪት ፡ አው ፡ ለገቢረ ፡ ሠናይት ፡ በእንተ ፡ ኵሉ ፡\n                  እምከመ ፡ ሰብእ ፡ መሐለ ፡ እንዘ ፡ ኢያአምር ፡ ወእምዝ ፡ ተዐውቆ ፡ ወአበሰ ፡ በአሐዱ ፡ እምዝንቱ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነፍስ",
+          "t": "wänäfəsə",
+          "gl": ""
+        },
+        {
+          "g": "እመ",
+          "t": "ʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "መሐለ",
+          "t": "mäḥälä",
+          "gl": ""
+        },
+        {
+          "g": "ወነበበ",
+          "t": "wänäbäbä",
+          "gl": ""
+        },
+        {
+          "g": "በከናፍሪሁ",
+          "t": "bäkänafərihu",
+          "gl": ""
+        },
+        {
+          "g": "ለገቢረ",
+          "t": "lägäbirä",
+          "gl": ""
+        },
+        {
+          "g": "እኪት",
+          "t": "ʾəkitə",
+          "gl": ""
+        },
+        {
+          "g": "አው",
+          "t": "ʾäwə",
+          "gl": ""
+        },
+        {
+          "g": "ለገቢረ",
+          "t": "lägäbirä",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይት",
+          "t": "śänayətə",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "እምከመ",
+          "t": "ʾəməkämä",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "መሐለ",
+          "t": "mäḥälä",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ኢያአምር",
+          "t": "ʾiyaʾämərə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምዝ",
+          "t": "wäʾəməzə",
+          "gl": ""
+        },
+        {
+          "g": "ተዐውቆ",
+          "t": "täʿäwəqo",
+          "gl": ""
+        },
+        {
+          "g": "ወአበሰ",
+          "t": "wäʾäbäsä",
+          "gl": ""
+        },
+        {
+          "g": "በአሐዱ",
+          "t": "bäʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "እምዝንቱ",
+          "t": "ʾəməzənətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "That unrighteous soul, which determines with his lips to do evil or to do good according to whatsoever a man may determine with an oath, and it shall have escaped his notice, and he shall afterwards know it, and so he should sin in some one of these things:—",
+        "kjv": "Or if a soul swear, pronouncing with his lips to do evil, or to do good, whatsoever it be that a man shall pronounce with an oath, and it be hid from him; when he knoweth of it, then he shall be guilty in one of these."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወአይድዐ ፡ ኀጢአቶ ፡ እንተ ፡ አበሰ ፡ ባቲ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአይድዐ",
+          "t": "wäʾäyədəʿä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአቶ",
+          "t": "ḫäṭiʾäto",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "አበሰ",
+          "t": "ʾäbäsä",
+          "gl": ""
+        },
+        {
+          "g": "ባቲ",
+          "t": "bati",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "then shall he declare his sin in the things wherein he has sinned by that sin.",
+        "kjv": "And it shall be, when he shall be guilty in one of these things, that he shall confess that he hath sinned in that thing:"
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ያመጽእ ፡ ለእግዚአብሔር ፡ በእንተ ፡ ኀጢአቱ ፡ እንተ ፡ አበሰ ፡ በግዕተ ፡ አንስተ ፡ እምውስተ ፡ አባግዕ ፡ አው ፡\n                  ጠሊተ ፡ እምውስተ ፡ አጣሊ ፡ በእንተ ፡ ኀጢአቱ ፡ ወያስተሰሪ ፡ ሉቱ ፡ ካህን ፡ በእንተ ፡ ኀጢአቱ ፡ እንተ ፡ አበሰ ፡\n                  ወትትኀደግ ፡ ሎቱ ፡ ኀጢአቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ያመጽእ",
+          "t": "yamäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአቱ",
+          "t": "ḫäṭiʾätu",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "አበሰ",
+          "t": "ʾäbäsä",
+          "gl": ""
+        },
+        {
+          "g": "በግዕተ",
+          "t": "bägəʿətä",
+          "gl": ""
+        },
+        {
+          "g": "አንስተ",
+          "t": "ʾänəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አባግዕ",
+          "t": "ʾäbagəʿə",
+          "gl": ""
+        },
+        {
+          "g": "አው",
+          "t": "ʾäwə",
+          "gl": ""
+        },
+        {
+          "g": "ጠሊተ",
+          "t": "ṭälitä",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አጣሊ",
+          "t": "ʾäṭali",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአቱ",
+          "t": "ḫäṭiʾätu",
+          "gl": ""
+        },
+        {
+          "g": "ወያስተሰሪ",
+          "t": "wäyasətäsäri",
+          "gl": ""
+        },
+        {
+          "g": "ሉቱ",
+          "t": "lutu",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአቱ",
+          "t": "ḫäṭiʾätu",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "አበሰ",
+          "t": "ʾäbäsä",
+          "gl": ""
+        },
+        {
+          "g": "ወትትኀደግ",
+          "t": "wätətəḫädägə",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአቱ",
+          "t": "ḫäṭiʾätu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he shall bring for his transgressions against the Lord, for his sin which he has sinned, a ewe lamb of the flock, or a kid of the goats, for a sin-offering; and the priest shall make an atonement for him for his sin which he has sinned, and his sin shall be forgiven him.",
+        "kjv": "And he shall bring his trespass offering unto the LORD for his sin which he hath sinned, a female from the flock, a lamb or a kid of the goats, for a sin offering; and the priest shall make an atonement for him concerning his sin."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወእመሰ ፡ አልቦ ፡ ውስተ ፡ እዴሁ ፡ ወኢየአክል ፡ ለሤጠ ፡ በግዕ ፡ ያመጽእ ፡ በእንተ ፡ ኀጢአቱ ፡ እንተ ፡ አበሰ ፡\n                  ክልኤተ ፡ መዓንቀ ፡ አው ፡ ክልኤተ ፡ እጕለ ፡ ርግብ ፡ ለእግዚአብሔር ፡ አሐዱ ፡ በእንተ ፡ ኀጢአቱ ፡ ወአሐዱ ፡ ለመሥዋዕት\n                  ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "አልቦ",
+          "t": "ʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢየአክል",
+          "t": "wäʾiyäʾäkələ",
+          "gl": ""
+        },
+        {
+          "g": "ለሤጠ",
+          "t": "läśeṭä",
+          "gl": ""
+        },
+        {
+          "g": "በግዕ",
+          "t": "bägəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ያመጽእ",
+          "t": "yamäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአቱ",
+          "t": "ḫäṭiʾätu",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "አበሰ",
+          "t": "ʾäbäsä",
+          "gl": ""
+        },
+        {
+          "g": "ክልኤተ",
+          "t": "kələʾetä",
+          "gl": ""
+        },
+        {
+          "g": "መዓንቀ",
+          "t": "mäʿanəqä",
+          "gl": ""
+        },
+        {
+          "g": "አው",
+          "t": "ʾäwə",
+          "gl": ""
+        },
+        {
+          "g": "ክልኤተ",
+          "t": "kələʾetä",
+          "gl": ""
+        },
+        {
+          "g": "እጕለ",
+          "t": "ʾəgwəlä",
+          "gl": ""
+        },
+        {
+          "g": "ርግብ",
+          "t": "rəgəbə",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአቱ",
+          "t": "ḫäṭiʾätu",
+          "gl": ""
+        },
+        {
+          "g": "ወአሐዱ",
+          "t": "wäʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "ለመሥዋዕት",
+          "t": "lämäśəwaʿətə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if he cannot afford a sheep, he shall bring for his sin which he has sinned, two turtle-doves or two young pigeons to the Lord; one for a sin-offering, and the other for a burnt-offering.",
+        "kjv": "And if he be not able to bring a lamb, then he shall bring for his trespass, which he hath committed, two turtledoves, or two young pigeons, unto the LORD; one for a sin offering, and the other for a burnt offering."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ወያመጽእ ፡ ኀበ ፡ ካህን ፡ ወያበውእ ፡ ካህን ፡ ዘበእንተ ፡ ኀጢአት ፡ ይቀድም ፡ ወየሐርዶ ፡ ካህን ፡ ክሣዶ ፡\n                  ወኢያወቅዮ ፡ ርእሶ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያመጽእ",
+          "t": "wäyamäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ወያበውእ",
+          "t": "wäyabäwəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ዘበእንተ",
+          "t": "zäbäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአት",
+          "t": "ḫäṭiʾätə",
+          "gl": ""
+        },
+        {
+          "g": "ይቀድም",
+          "t": "yəqädəmə",
+          "gl": ""
+        },
+        {
+          "g": "ወየሐርዶ",
+          "t": "wäyäḥärədo",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ክሣዶ",
+          "t": "kəśado",
+          "gl": ""
+        },
+        {
+          "g": "ወኢያወቅዮ",
+          "t": "wäʾiyawäqəyo",
+          "gl": ""
+        },
+        {
+          "g": "ርእሶ",
+          "t": "rəʾəso",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he shall bring them to the priest, and the priest shall bring the sin-offering first; and the priest shall pinch off the head from the neck, and shall not divide the body.",
+        "kjv": "And he shall bring them unto the priest, who shall offer that which is for the sin offering first, and wring off his head from his neck, but shall not divide it asunder:"
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወይነዝኅ ፡ እምነ ፡ ደም ፡ ዘበእንተ ፡ ኀጢአት ፡ ውስተ ፡ አረፍተ ፡ ምሥዋዕ ፡ ወዘተርፈ ፡ ደሞ ፡ ያንጸፈጽፍ ፡ ውስተ\n                  ፡ ምንባረ ፡ ምሥዋዕ ፡ እስመ ፡ ዘበእንተ ፡ ኀጢአት ፡ ውእቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይነዝኅ",
+          "t": "wäyənäzəḫə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ደም",
+          "t": "dämə",
+          "gl": ""
+        },
+        {
+          "g": "ዘበእንተ",
+          "t": "zäbäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአት",
+          "t": "ḫäṭiʾätə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አረፍተ",
+          "t": "ʾäräfətä",
+          "gl": ""
+        },
+        {
+          "g": "ምሥዋዕ",
+          "t": "məśəwaʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘተርፈ",
+          "t": "wäzätärəfä",
+          "gl": ""
+        },
+        {
+          "g": "ደሞ",
+          "t": "dämo",
+          "gl": ""
+        },
+        {
+          "g": "ያንጸፈጽፍ",
+          "t": "yanəṣäfäṣəfə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምንባረ",
+          "t": "mənəbarä",
+          "gl": ""
+        },
+        {
+          "g": "ምሥዋዕ",
+          "t": "məśəwaʿə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ዘበእንተ",
+          "t": "zäbäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአት",
+          "t": "ḫäṭiʾätə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he shall sprinkle of the blood of the sin-offering on the side of the altar, but the rest of the blood he shall drop at the foot of the altar, for it is a sin-offering.",
+        "kjv": "And he shall sprinkle of the blood of the sin offering upon the side of the altar; and the rest of the blood shall be wrung out at the bottom of the altar: it is a sin offering."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወለካልኡኒ ፡ ይገብሮ ፡ መሥዋዕተ ፡ በከመ ፡ ሕጉ ፡ ወያስተሰሪ ፡ ሎቱ ፡ ካህን ፡ በእንተ ፡ ኀጢአቱ ፡ እንተ ፡ አበሰ\n                  ፡ ወይትኀደግ ፡ ሎቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለካልኡኒ",
+          "t": "wäläkaləʾuni",
+          "gl": ""
+        },
+        {
+          "g": "ይገብሮ",
+          "t": "yəgäbəro",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕተ",
+          "t": "mäśəwaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "በከመ",
+          "t": "bäkämä",
+          "gl": ""
+        },
+        {
+          "g": "ሕጉ",
+          "t": "ḥəgu",
+          "gl": ""
+        },
+        {
+          "g": "ወያስተሰሪ",
+          "t": "wäyasətäsäri",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአቱ",
+          "t": "ḫäṭiʾätu",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "አበሰ",
+          "t": "ʾäbäsä",
+          "gl": ""
+        },
+        {
+          "g": "ወይትኀደግ",
+          "t": "wäyətəḫädägə",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he shall make the second a whole-burnt-offering, as it is fit; and the priest shall make atonement for his sin which he has sinned, and it shall be forgiven him.",
+        "kjv": "And he shall offer the second for a burnt offering, according to the manner: and the priest shall make an atonement for him for his sin which he hath sinned, and it shall be forgiven him."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወእመሰ ፡ አልቦ ፡ ውስተ ፡ እዴሁ ፡ ወኢየአክል ፡ ለዘውገ ፡ መዓንቅ ፡ ወለክልኤቱ ፡ እጕለ ፡ ርግብ ፡ ያመጽእ ፡\n                  ቍርባኖ ፡ በእንተ ፡ ኀጢአቱ ፡ ስንዳሌ ፡ ዓሥርተ ፡ እድ ፡ ዘመስፈርተ ፡ ኢፍ ፡ በእንተ ፡ ኀጢአቱ ፡ ወኢይወዲ ፡ ውስቴቱ ፡\n                  ቅብአ ፡ ወኢያነብር ፡ ላዕሌሁ ፡ ስኂነ ፡ እስመ ፡ በእንተ ፡ ኀጢአት ፡ ውእቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "አልቦ",
+          "t": "ʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢየአክል",
+          "t": "wäʾiyäʾäkələ",
+          "gl": ""
+        },
+        {
+          "g": "ለዘውገ",
+          "t": "läzäwəgä",
+          "gl": ""
+        },
+        {
+          "g": "መዓንቅ",
+          "t": "mäʿanəqə",
+          "gl": ""
+        },
+        {
+          "g": "ወለክልኤቱ",
+          "t": "wäläkələʾetu",
+          "gl": ""
+        },
+        {
+          "g": "እጕለ",
+          "t": "ʾəgwəlä",
+          "gl": ""
+        },
+        {
+          "g": "ርግብ",
+          "t": "rəgəbə",
+          "gl": ""
+        },
+        {
+          "g": "ያመጽእ",
+          "t": "yamäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ቍርባኖ",
+          "t": "qwərəbano",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአቱ",
+          "t": "ḫäṭiʾätu",
+          "gl": ""
+        },
+        {
+          "g": "ስንዳሌ",
+          "t": "sənədale",
+          "gl": ""
+        },
+        {
+          "g": "ዓሥርተ",
+          "t": "ʿaśərətä",
+          "gl": ""
+        },
+        {
+          "g": "እድ",
+          "t": "ʾədə",
+          "gl": ""
+        },
+        {
+          "g": "ዘመስፈርተ",
+          "t": "zämäsəfärətä",
+          "gl": ""
+        },
+        {
+          "g": "ኢፍ",
+          "t": "ʾifə",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአቱ",
+          "t": "ḫäṭiʾätu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይወዲ",
+          "t": "wäʾiyəwädi",
+          "gl": ""
+        },
+        {
+          "g": "ውስቴቱ",
+          "t": "wəsətetu",
+          "gl": ""
+        },
+        {
+          "g": "ቅብአ",
+          "t": "qəbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢያነብር",
+          "t": "wäʾiyanäbərə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ስኂነ",
+          "t": "səḫinä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአት",
+          "t": "ḫäṭiʾätə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if he cannot afford a pair of turtle-doves, or two young pigeons, then shall he bring as his gift for his sin, the tenth part of an ephah of fine flour for a sin-offering; he shall not pour oil upon it, nor shall he put frankincense upon it, because it is a sin-offering.",
+        "kjv": "But if he be not able to bring two turtledoves, or two young pigeons, then he that sinned shall bring for his offering the tenth part of an ephah of fine flour for a sin offering; he shall put no oil upon it, neither shall he put any frankincense thereon: for it is a sin offering."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወያመጽእ ፡ ኀበ ፡ ካህን ፡ ወይዘግን ፡ እምኔሁ ፡ ካህን ፡ ምልአ ፡ ሕፍኑ ፡ በእንተ ፡ ተዝካሩ ፡ ወይወድዮ ፡ ውስተ ፡\n                  ምሥዋዕ ፡ ላዕለ ፡ ቍርባኑ ፡ ለእግዚአብሔር ፡ እስመ ፡ ዘኀጢአት ፡ ውእቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያመጽእ",
+          "t": "wäyamäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ወይዘግን",
+          "t": "wäyəzägənə",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ምልአ",
+          "t": "mələʾä",
+          "gl": ""
+        },
+        {
+          "g": "ሕፍኑ",
+          "t": "ḥəfənu",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ተዝካሩ",
+          "t": "täzəkaru",
+          "gl": ""
+        },
+        {
+          "g": "ወይወድዮ",
+          "t": "wäyəwädəyo",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምሥዋዕ",
+          "t": "məśəwaʿə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ቍርባኑ",
+          "t": "qwərəbanu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ዘኀጢአት",
+          "t": "zäḫäṭiʾätə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he shall bring it to the priest; and the priest having taken a handful of it, shall lay the memorial of it on the altar of whole-burnt-offerings to the Lord; it is a sin-offering.",
+        "kjv": "Then shall he bring it to the priest, and the priest shall take his handful of it, even a memorial thereof, and burn it on the altar, according to the offerings made by fire unto the LORD: it is a sin offering."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወያስተሰሪ ፡ ሎቱ ፡ ካህን ፡ በእንተ ፡ ኀጢአቱ ፡ እንተ ፡ አበሰ ፡ በአሐዱ ፡ እምእሉ ፡ ወይትኀደግ ፡ ሎቱ ፡ ወዘተርፈ\n                  ፡ ይከውን ፡ ለካህን ፡ ከመ ፡ መሥዋዕተ ፡ ስንዳሌ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያስተሰሪ",
+          "t": "wäyasətäsäri",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአቱ",
+          "t": "ḫäṭiʾätu",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "አበሰ",
+          "t": "ʾäbäsä",
+          "gl": ""
+        },
+        {
+          "g": "በአሐዱ",
+          "t": "bäʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "እምእሉ",
+          "t": "ʾəməʾəlu",
+          "gl": ""
+        },
+        {
+          "g": "ወይትኀደግ",
+          "t": "wäyətəḫädägə",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ወዘተርፈ",
+          "t": "wäzätärəfä",
+          "gl": ""
+        },
+        {
+          "g": "ይከውን",
+          "t": "yəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ለካህን",
+          "t": "läkahənə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "መሥዋዕተ",
+          "t": "mäśəwaʿətä",
+          "gl": ""
+        },
+        {
+          "g": "ስንዳሌ",
+          "t": "sənədale",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the priest shall make atonement for him for his sin, which he has sinned in one of these things, and it shall be forgiven him; and that which is left shall be the priest's, as an offering of fine flour.",
+        "kjv": "And the priest shall make an atonement for him as touching his sin that he hath sinned in one of these, and it shall be forgiven him: and the remnant shall be the priest’s, as a meat offering."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወነበቦ ፡ እግዚአብሔር ፡ ለሙሴ ፡ ወይቤሎ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነበቦ",
+          "t": "wänäbäbo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord spoke to Moses, saying,",
+        "kjv": "And the LORD spake unto Moses, saying,"
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ነፍስ ፡ ለእመ ፡ ረሲዐ ፡ ረስዐት ፡ ወአበሰት ፡ እንዘ ፡ ኢትፈቅድ ፡ ላዕለ ፡ ቅድሳተ ፡ እግዚአብሔር ፡ ያመጽእ ፡\n                  በእንተ ፡ ንስሓሁ ፡ ለእግዚአብሔር ፡ ሐርጌ ፡ ንጹሐ ፡ እምውስተ ፡ አባግዕ ፡ ዘሤጠ ፡ ሰቅሎን ፡ በሰቅል ፡ ዘቅዱስ ፡\n                  በእንተ ፡ ዘነስሐ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ነፍስ",
+          "t": "näfəsə",
+          "gl": ""
+        },
+        {
+          "g": "ለእመ",
+          "t": "läʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ረሲዐ",
+          "t": "räsiʿä",
+          "gl": ""
+        },
+        {
+          "g": "ረስዐት",
+          "t": "räsəʿätə",
+          "gl": ""
+        },
+        {
+          "g": "ወአበሰት",
+          "t": "wäʾäbäsätə",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ኢትፈቅድ",
+          "t": "ʾitəfäqədə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ቅድሳተ",
+          "t": "qədəsatä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ያመጽእ",
+          "t": "yamäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ንስሓሁ",
+          "t": "nəsəḥahu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ሐርጌ",
+          "t": "ḥärəge",
+          "gl": ""
+        },
+        {
+          "g": "ንጹሐ",
+          "t": "nəṣuḥä",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አባግዕ",
+          "t": "ʾäbagəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ዘሤጠ",
+          "t": "zäśeṭä",
+          "gl": ""
+        },
+        {
+          "g": "ሰቅሎን",
+          "t": "säqəlonə",
+          "gl": ""
+        },
+        {
+          "g": "በሰቅል",
+          "t": "bäsäqələ",
+          "gl": ""
+        },
+        {
+          "g": "ዘቅዱስ",
+          "t": "zäqədusə",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ዘነስሐ",
+          "t": "zänäsəḥä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The soul which shall be really unconscious, and shall sin unwillingly in any of the holy things of the Lord, shall even bring to the Lord for his transgression, a ram of the flock without blemish, valued according to shekels of silver according to the shekel of the sanctuary, for his transgression wherein he transgressed.",
+        "kjv": "If a soul commit a trespass, and sin through ignorance, in the holy things of the LORD; then he shall bring for his trespass unto the LORD a ram without blemish out of the flocks, with thy estimation by shekels of silver, after the shekel of the sanctuary, for a trespass offering:"
+      }
+    },
+    {
+      "num": 16,
+      "geez": "ወይፈዲ ፡ ዘአበሰ ፡ ላዕለ ፡ ቅድሳት ፡ ወይዌስክ ፡ ዓዲ ፡ ላዕሌሁ ፡ ኃምስተ ፡ እዴሁ ፡ ወይሁቦ ፡ ለካህን ፡\n                  ወያስተሰሪ ፡ ሎቱ ፡ ካህን ፡ በውእቱ ፡ ሐርጌ ፡ ዘንስሓሁ ፡ ወይትኀደግ ፡ ሎቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይፈዲ",
+          "t": "wäyəfädi",
+          "gl": ""
+        },
+        {
+          "g": "ዘአበሰ",
+          "t": "zäʾäbäsä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ቅድሳት",
+          "t": "qədəsatə",
+          "gl": ""
+        },
+        {
+          "g": "ወይዌስክ",
+          "t": "wäyəwesəkə",
+          "gl": ""
+        },
+        {
+          "g": "ዓዲ",
+          "t": "ʿadi",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ኃምስተ",
+          "t": "ḫaməsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        },
+        {
+          "g": "ወይሁቦ",
+          "t": "wäyəhubo",
+          "gl": ""
+        },
+        {
+          "g": "ለካህን",
+          "t": "läkahənə",
+          "gl": ""
+        },
+        {
+          "g": "ወያስተሰሪ",
+          "t": "wäyasətäsäri",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "በውእቱ",
+          "t": "bäwəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ሐርጌ",
+          "t": "ḥärəge",
+          "gl": ""
+        },
+        {
+          "g": "ዘንስሓሁ",
+          "t": "zänəsəḥahu",
+          "gl": ""
+        },
+        {
+          "g": "ወይትኀደግ",
+          "t": "wäyətəḫädägə",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he shall make compensation for that wherein he has sinned in the holy things; and he shall add the fifth part to it, and give it to the priest; and the priest shall make atonement for him with the ram of transgression, and his sin shall be forgiven him.",
+        "kjv": "And he shall make amends for the harm that he hath done in the holy thing, and shall add the fifth part thereto, and give it unto the priest: and the priest shall make an atonement for him with the ram of the trespass offering, and it shall be forgiven him."
+      }
+    },
+    {
+      "num": 17,
+      "geez": "ወነፍስ ፡ እመ ፡ አበሰት ፡ ወገብረ ፡ አሐተ ፡ እምትእዛዘ ፡ እግዚአብሔር ፡ ዘኢይከውን ፡ ለገቢር ፡ በኢያእምሮ ፡\n                  ወነስሐ ፡ በእንተ ፡ ዘኮነቶ ፡ ኀጢአት ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነፍስ",
+          "t": "wänäfəsə",
+          "gl": ""
+        },
+        {
+          "g": "እመ",
+          "t": "ʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "አበሰት",
+          "t": "ʾäbäsätə",
+          "gl": ""
+        },
+        {
+          "g": "ወገብረ",
+          "t": "wägäbərä",
+          "gl": ""
+        },
+        {
+          "g": "አሐተ",
+          "t": "ʾäḥätä",
+          "gl": ""
+        },
+        {
+          "g": "እምትእዛዘ",
+          "t": "ʾəmətəʾəzazä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ዘኢይከውን",
+          "t": "zäʾiyəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ለገቢር",
+          "t": "lägäbirə",
+          "gl": ""
+        },
+        {
+          "g": "በኢያእምሮ",
+          "t": "bäʾiyaʾəməro",
+          "gl": ""
+        },
+        {
+          "g": "ወነስሐ",
+          "t": "wänäsəḥä",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ዘኮነቶ",
+          "t": "zäkonäto",
+          "gl": ""
+        },
+        {
+          "g": "ኀጢአት",
+          "t": "ḫäṭiʾätə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the soul which shall sin, and do one thing against any of the commandments of the Lord, which it is not right to do, and has not known it, and shall have transgressed, and shall have contracted guilt,",
+        "kjv": "And if a soul sin, and commit any of these things which are forbidden to be done by the commandments of the LORD; though he wist it not, yet is he guilty, and shall bear his iniquity."
+      }
+    },
+    {
+      "num": 18,
+      "geez": "ያመጽእ ፡ ሐርጌ ፡ እምውስተ ፡ አባግዕ ፡ ንጹ[ሐ] ፡ ዘሤጡ ፡ ብሩር ፡ በእንተ ፡ ንስሓሁ ፡ ኀበ ፡ ካህን ፡ ወያስተሰሪ\n                  ፡ ሎቱ ፡ ካህን ፡ በእንተ ፡ ረሲዖቱ ፡ ዘረስዐ ፡ ወበዘ ፡ ኢያእመረ ፡ ወይትኀደግ ፡ ሎቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ያመጽእ",
+          "t": "yamäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ሐርጌ",
+          "t": "ḥärəge",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አባግዕ",
+          "t": "ʾäbagəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ንጹሐ",
+          "t": "nəṣuḥä",
+          "gl": ""
+        },
+        {
+          "g": "ዘሤጡ",
+          "t": "zäśeṭu",
+          "gl": ""
+        },
+        {
+          "g": "ብሩር",
+          "t": "bərurə",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ንስሓሁ",
+          "t": "nəsəḥahu",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ወያስተሰሪ",
+          "t": "wäyasətäsäri",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ረሲዖቱ",
+          "t": "räsiʿotu",
+          "gl": ""
+        },
+        {
+          "g": "ዘረስዐ",
+          "t": "zäräsəʿä",
+          "gl": ""
+        },
+        {
+          "g": "ወበዘ",
+          "t": "wäbäzä",
+          "gl": ""
+        },
+        {
+          "g": "ኢያእመረ",
+          "t": "ʾiyaʾəmärä",
+          "gl": ""
+        },
+        {
+          "g": "ወይትኀደግ",
+          "t": "wäyətəḫädägə",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "he shall even bring a ram without blemish from the flock, valued at a price of silver for his transgression to the priest; and the priest shall make atonement for his trespass of ignorance, wherein he ignorantly trespassed, and he knew it not; and it shall be forgiven him.",
+        "kjv": "And he shall bring a ram without blemish out of the flock, with thy estimation, for a trespass offering, unto the priest: and the priest shall make an atonement for him concerning his ignorance wherein he erred and wist it not, and it shall be forgiven him."
+      }
+    },
+    {
+      "num": 19,
+      "geez": "እስመ ፡ ነሲሖ ፡ በንስሓ ፡ ነስሐ ፡ ቅድመ ፡ እግዚአብሔር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ነሲሖ",
+          "t": "näsiḥo",
+          "gl": ""
+        },
+        {
+          "g": "በንስሓ",
+          "t": "bänəsəḥa",
+          "gl": ""
+        },
+        {
+          "g": "ነስሐ",
+          "t": "näsəḥä",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For he has surely been guilty of transgression before the Lord.",
+        "kjv": "It is a trespass offering: he hath certainly trespassed against the LORD."
+      }
+    },
+    {
+      "num": 20,
+      "geez": "ወነበቦ ፡ እግዚአብሔር ፡ ለሙሴ ፡ ወይቤሎ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነበቦ",
+          "t": "wänäbäbo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎ",
+          "t": "wäyəbelo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord spoke to Moses, saying,"
+      }
+    },
+    {
+      "num": 21,
+      "geez": "ነፍስ ፡ እመ ፡ አበሰት ፡ ወአስተተት ፡ ወተሀየየት ፡ ትእዛዘ ፡ እግዚአብሔር ፡ ወሐሰዎ ፡ ለካልኡ ፡ በእንተ ፡\n                  ዘአማኅፀኖ ፡ አው ፡ በእንተ ፡ ዘተሳተፉ ፡ አው ፡ በእንተ ፡ ዘሄዶ ፡ አው ፡ እመቦ ፡ ዘዐመዖ ፡ ለካልኡ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ነፍስ",
+          "t": "näfəsə",
+          "gl": ""
+        },
+        {
+          "g": "እመ",
+          "t": "ʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "አበሰት",
+          "t": "ʾäbäsätə",
+          "gl": ""
+        },
+        {
+          "g": "ወአስተተት",
+          "t": "wäʾäsətätätə",
+          "gl": ""
+        },
+        {
+          "g": "ወተሀየየት",
+          "t": "wätähäyäyätə",
+          "gl": ""
+        },
+        {
+          "g": "ትእዛዘ",
+          "t": "təʾəzazä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወሐሰዎ",
+          "t": "wäḥäsäwo",
+          "gl": ""
+        },
+        {
+          "g": "ለካልኡ",
+          "t": "läkaləʾu",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ዘአማኅፀኖ",
+          "t": "zäʾämaḫəṣ́äno",
+          "gl": ""
+        },
+        {
+          "g": "አው",
+          "t": "ʾäwə",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ዘተሳተፉ",
+          "t": "zätäsatäfu",
+          "gl": ""
+        },
+        {
+          "g": "አው",
+          "t": "ʾäwə",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ዘሄዶ",
+          "t": "zähedo",
+          "gl": ""
+        },
+        {
+          "g": "አው",
+          "t": "ʾäwə",
+          "gl": ""
+        },
+        {
+          "g": "እመቦ",
+          "t": "ʾəmäbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘዐመዖ",
+          "t": "zäʿämäʿo",
+          "gl": ""
+        },
+        {
+          "g": "ለካልኡ",
+          "t": "läkaləʾu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The soul which shall have sinned, and wilfully overlooked the commandments of the Lord, and shall have dealt falsely in the affairs of his neighbour in the matter of a deposit, or concerning fellowship, or concerning plunder, or has in anything wronged his neighbour,"
+      }
+    },
+    {
+      "num": 22,
+      "geez": "አው ፡ እመ ፡ ረከበ ፡ ዘገደፉ ፡ ወሐሰወ ፡ በእንቲአሁ ፡ ወመሐለ ፡ በዐመፃ ፡ በእንተ ፡ አሐዱ ፡ እምኵሉ ፡ ዝንቱ ፡\n                  ዘይገብር ፡ ሰብእ ፡ ዘኢይከውን ፡ ለአበሳ ፡ ቦሙ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "አው",
+          "t": "ʾäwə",
+          "gl": ""
+        },
+        {
+          "g": "እመ",
+          "t": "ʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ረከበ",
+          "t": "räkäbä",
+          "gl": ""
+        },
+        {
+          "g": "ዘገደፉ",
+          "t": "zägädäfu",
+          "gl": ""
+        },
+        {
+          "g": "ወሐሰወ",
+          "t": "wäḥäsäwä",
+          "gl": ""
+        },
+        {
+          "g": "በእንቲአሁ",
+          "t": "bäʾənətiʾähu",
+          "gl": ""
+        },
+        {
+          "g": "ወመሐለ",
+          "t": "wämäḥälä",
+          "gl": ""
+        },
+        {
+          "g": "በዐመፃ",
+          "t": "bäʿämäṣ́a",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "እምኵሉ",
+          "t": "ʾəməkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይገብር",
+          "t": "zäyəgäbərə",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ዘኢይከውን",
+          "t": "zäʾiyəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "ለአበሳ",
+          "t": "läʾäbäsa",
+          "gl": ""
+        },
+        {
+          "g": "ቦሙ",
+          "t": "bomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "or has found that which was lost, and shall have lied concerning it, and shall have sworn unjustly concerning any one of all the things, whatsoever a man may do, so as to sin hereby;"
+      }
+    },
+    {
+      "num": 23,
+      "geez": "ወእምከመ ፡ አበሰ ፡ ወእምዝ ፡ ነስሐ ፡ ወአግብአ ፡ ዘነሥአ ፡ ወሄደ ፡ አው ፡ ዘዐመፀ ፡ ወገፍዐ ፡ አው ፡ ማሕፀኖ ፡\n                  እመቦ ፡ ዘአማሕፀኖ ፡ አው ፡ ዘገደፉ ፡ ዘረከ[በ] ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእምከመ",
+          "t": "wäʾəməkämä",
+          "gl": ""
+        },
+        {
+          "g": "አበሰ",
+          "t": "ʾäbäsä",
+          "gl": ""
+        },
+        {
+          "g": "ወእምዝ",
+          "t": "wäʾəməzə",
+          "gl": ""
+        },
+        {
+          "g": "ነስሐ",
+          "t": "näsəḥä",
+          "gl": ""
+        },
+        {
+          "g": "ወአግብአ",
+          "t": "wäʾägəbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ዘነሥአ",
+          "t": "zänäśəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ወሄደ",
+          "t": "wähedä",
+          "gl": ""
+        },
+        {
+          "g": "አው",
+          "t": "ʾäwə",
+          "gl": ""
+        },
+        {
+          "g": "ዘዐመፀ",
+          "t": "zäʿämäṣ́ä",
+          "gl": ""
+        },
+        {
+          "g": "ወገፍዐ",
+          "t": "wägäfəʿä",
+          "gl": ""
+        },
+        {
+          "g": "አው",
+          "t": "ʾäwə",
+          "gl": ""
+        },
+        {
+          "g": "ማሕፀኖ",
+          "t": "maḥəṣ́äno",
+          "gl": ""
+        },
+        {
+          "g": "እመቦ",
+          "t": "ʾəmäbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘአማሕፀኖ",
+          "t": "zäʾämaḥəṣ́äno",
+          "gl": ""
+        },
+        {
+          "g": "አው",
+          "t": "ʾäwə",
+          "gl": ""
+        },
+        {
+          "g": "ዘገደፉ",
+          "t": "zägädäfu",
+          "gl": ""
+        },
+        {
+          "g": "ዘረከበ",
+          "t": "zäräkäbä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "it shall come to pass, whensoever he shall have sinned, and transgressed, that he shall restore the plunder which he has seized, or redress the injury which he has committed, or restore the deposit which was entrusted to him, or the lost article which he has found"
+      }
+    },
+    {
+      "num": 24,
+      "geez": "እምነ ፡ ኵሉ ፡ ዘመሐለ ፡ በእንቲአሁ ፡ በዐመፃ ፡ ወአግብአ ፡ ርእሰ ፡ ንዋዩ ፡ ወዓዲ ፡ ይዌስክ ፡ ኃምስተ ፡ እዴሁ ፡\n                  ላዕሌሁ ፡ ወያገብእ ፡ ለባዕሉ ፡ በዕለተ ፡ ዘለፍዎ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘመሐለ",
+          "t": "zämäḥälä",
+          "gl": ""
+        },
+        {
+          "g": "በእንቲአሁ",
+          "t": "bäʾənətiʾähu",
+          "gl": ""
+        },
+        {
+          "g": "በዐመፃ",
+          "t": "bäʿämäṣ́a",
+          "gl": ""
+        },
+        {
+          "g": "ወአግብአ",
+          "t": "wäʾägəbəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ርእሰ",
+          "t": "rəʾəsä",
+          "gl": ""
+        },
+        {
+          "g": "ንዋዩ",
+          "t": "nəwayu",
+          "gl": ""
+        },
+        {
+          "g": "ወዓዲ",
+          "t": "wäʿadi",
+          "gl": ""
+        },
+        {
+          "g": "ይዌስክ",
+          "t": "yəwesəkə",
+          "gl": ""
+        },
+        {
+          "g": "ኃምስተ",
+          "t": "ḫaməsətä",
+          "gl": ""
+        },
+        {
+          "g": "እዴሁ",
+          "t": "ʾədehu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ወያገብእ",
+          "t": "wäyagäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ለባዕሉ",
+          "t": "läbaʿəlu",
+          "gl": ""
+        },
+        {
+          "g": "በዕለተ",
+          "t": "bäʿəlätä",
+          "gl": ""
+        },
+        {
+          "g": "ዘለፍዎ",
+          "t": "zäläfəwo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "of any kind, about which he swore unjustly, he shall even restore it in full; and he shall add to it a fifth part besides; he shall restore it to him whose it is in the day in which he happens to be convicted."
+      }
+    },
+    {
+      "num": 25,
+      "geez": "ወያመጽእ ፡ ዘበእንተ ፡ ንስሓሁ ፡ ለእግዚአብሔር ፡ በግዐ ፡ እምውስተ ፡ አባግዕ ፡ ንጹሐ ፡ ሤጠ ፡ ንስሓሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያመጽእ",
+          "t": "wäyamäṣəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ዘበእንተ",
+          "t": "zäbäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ንስሓሁ",
+          "t": "nəsəḥahu",
+          "gl": ""
+        },
+        {
+          "g": "ለእግዚአብሔር",
+          "t": "läʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "በግዐ",
+          "t": "bägəʿä",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አባግዕ",
+          "t": "ʾäbagəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ንጹሐ",
+          "t": "nəṣuḥä",
+          "gl": ""
+        },
+        {
+          "g": "ሤጠ",
+          "t": "śeṭä",
+          "gl": ""
+        },
+        {
+          "g": "ንስሓሁ",
+          "t": "nəsəḥahu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he shall bring to the Lord for his trespass, a ram of the flock, without blemish, of value to the amount of the thing in which he trespassed."
+      }
+    },
+    {
+      "num": 26,
+      "geez": "ወያስተሰሪ ፡ ሎቱ ፡ ካህን ፡ ቅድመ ፡ እግዚአብሔር ፡ ወይትኀደግ ፡ ሎቱ ፡ በበይነ ፡ አሐዱ ፡ እምኵሉ ፡ ዘገብረ ፡\n                  ወነስሐ ፡ በእንቲአሁ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወያስተሰሪ",
+          "t": "wäyasətäsäri",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "ካህን",
+          "t": "kahənə",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ወይትኀደግ",
+          "t": "wäyətəḫädägə",
+          "gl": ""
+        },
+        {
+          "g": "ሎቱ",
+          "t": "lotu",
+          "gl": ""
+        },
+        {
+          "g": "በበይነ",
+          "t": "bäbäyənä",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "እምኵሉ",
+          "t": "ʾəməkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘገብረ",
+          "t": "zägäbərä",
+          "gl": ""
+        },
+        {
+          "g": "ወነስሐ",
+          "t": "wänäsəḥä",
+          "gl": ""
+        },
+        {
+          "g": "በእንቲአሁ",
+          "t": "bäʾənətiʾähu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the priest shall make atonement for him before the Lord, and he shall be forgiven for any one of all the things which he did and trespassed in it."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

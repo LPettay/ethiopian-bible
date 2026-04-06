@@ -1,0 +1,967 @@
+{
+  "book": "Isa",
+  "chapter": 16,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "እፌንዎሙ፡ ከመ፡ አራዊት፡ ውስተ፡ ምድረ፡ ኰኵሕ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እፌንዎሙ",
+          "t": "ʾəfenəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "አራዊት",
+          "t": "ʾärawitə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድረ",
+          "t": "mədərä",
+          "gl": ""
+        },
+        {
+          "g": "ኰኵሕ",
+          "t": "kwäkwəḥə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "I will send as it were reptiles on the land: is not the mount of the daughter of Sion a desolate rock?",
+        "kjv": "Send ye the lamb to the ruler of the land from Sela to the wilderness, unto the mount of the daughter of Zion."
+      }
+    },
+    {
+      "num": 2,
+      "geez": "እስመ፡ ኮንኪ፡ ከመ፡ ዖፍ፡ እንተ፡ አስረረት፡ እጐሊሃ፡ ወኀደገት፤ ወኮንኪ፡ ወለተ፡ ሞአብ፤ ከመ፡ መሐስአ፡ አባግዕ፡ ስቡሕ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኮንኪ",
+          "t": "konəki",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ዖፍ",
+          "t": "ʿofə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "አስረረት",
+          "t": "ʾäsərärätə",
+          "gl": ""
+        },
+        {
+          "g": "እጐሊሃ",
+          "t": "ʾəgwäliha",
+          "gl": ""
+        },
+        {
+          "g": "ወኀደገት ወኮንኪ",
+          "t": "wäḫädägätə wäkonəki",
+          "gl": ""
+        },
+        {
+          "g": "ወለተ",
+          "t": "wälätä",
+          "gl": ""
+        },
+        {
+          "g": "ሞአብ ከመ",
+          "t": "moʾäbə kämä",
+          "gl": ""
+        },
+        {
+          "g": "መሐስአ",
+          "t": "mäḥäsəʾä",
+          "gl": ""
+        },
+        {
+          "g": "አባግዕ",
+          "t": "ʾäbagəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ስቡሕ",
+          "t": "səbuḥə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For thou shalt be as a young bird taken away from a bird that has flown: even thou shalt be so, daughter of Moab: and then do thou, O Arnon,",
+        "kjv": "For it shall be, that, as a wandering bird cast out of the nest, so the daughters of Moab shall be at the fords of Arnon."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወትመክር፡ ብዙኀ፡ አርኖን፡ ከመ፡ ትግበር፡ ላቲ፡ ዳሰ፡ ኀበ፡ ትነብር፡ ውስተ፡ ምስሐግ፡ ወትረ፣፡ መዓልተ፡ ወሌሊተ፡ ይደነግፁ፡ ወይሜምዑ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወትመክር",
+          "t": "wätəmäkərə",
+          "gl": ""
+        },
+        {
+          "g": "ብዙኀ",
+          "t": "bəzuḫä",
+          "gl": ""
+        },
+        {
+          "g": "አርኖን",
+          "t": "ʾärənonə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ትግበር",
+          "t": "təgəbärə",
+          "gl": ""
+        },
+        {
+          "g": "ላቲ",
+          "t": "lati",
+          "gl": ""
+        },
+        {
+          "g": "ዳሰ",
+          "t": "dasä",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "ትነብር",
+          "t": "tənäbərə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምስሐግ",
+          "t": "məsəḥägə",
+          "gl": ""
+        },
+        {
+          "g": "ወትረ",
+          "t": "wätərä",
+          "gl": ""
+        },
+        {
+          "g": "መዓልተ",
+          "t": "mäʿalətä",
+          "gl": ""
+        },
+        {
+          "g": "ወሌሊተ",
+          "t": "wälelitä",
+          "gl": ""
+        },
+        {
+          "g": "ይደነግፁ",
+          "t": "yədänägəṣ́u",
+          "gl": ""
+        },
+        {
+          "g": "ወይሜምዑ",
+          "t": "wäyəmeməʿu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "take farther counsel, and continually make thou a shelter from grief: they flee in darkness at mid-day; they are amazed; be not thou led captive.",
+        "kjv": "Take counsel, execute judgment; make thy shadow as the night in the midst of the noonday; hide the outcasts; bewray not him that wandereth."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወኢታንብሮሙ፡ ምስሌከ፡ ለእለ፡ ወተጉ፡ እምነ፡ ሞአብ፡ ከመ፡ ይኩኑክሙ፡ ሐፁረክሙ፡ ውስተ፡ ገጸ፡ እለ፡ ሮዱክሙ፤ እስመ፡ ኀልቁ፡ መስተቃትላን፡ ወተሐጕለ፡ መልአክ፡ ዘላዕለ፡ ኵሉ፡ ምድር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኢታንብሮሙ",
+          "t": "wäʾitanəbəromu",
+          "gl": ""
+        },
+        {
+          "g": "ምስሌከ",
+          "t": "məsəlekä",
+          "gl": ""
+        },
+        {
+          "g": "ለእለ",
+          "t": "läʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ወተጉ",
+          "t": "wätägu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ሞአብ",
+          "t": "moʾäbə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይኩኑክሙ",
+          "t": "yəkunukəmu",
+          "gl": ""
+        },
+        {
+          "g": "ሐፁረክሙ",
+          "t": "ḥäṣ́uräkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ገጸ",
+          "t": "gäṣä",
+          "gl": ""
+        },
+        {
+          "g": "እለ",
+          "t": "ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሮዱክሙ እስመ",
+          "t": "rodukəmu ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ኀልቁ",
+          "t": "ḫäləqu",
+          "gl": ""
+        },
+        {
+          "g": "መስተቃትላን",
+          "t": "mäsətäqatəlanə",
+          "gl": ""
+        },
+        {
+          "g": "ወተሐጕለ",
+          "t": "wätäḥägwəlä",
+          "gl": ""
+        },
+        {
+          "g": "መልአክ",
+          "t": "mäləʾäkə",
+          "gl": ""
+        },
+        {
+          "g": "ዘላዕለ",
+          "t": "zälaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The fugitives of Moab shall sojourn with thee; they shall be to you a shelter from the face of the pursuer: for thine alliance has been taken away, and the oppressing ruler has perished from off the earth.",
+        "kjv": "Let mine outcasts dwell with thee, Moab; be thou a covert to them from the face of the spoiler: for the extortioner is at an end, the spoiler ceaseth, the oppressors are consumed out of the land."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወይረትዕ፡ መንበሩ፡ በምጽዋት፡ ወይነብር፡ ውስቴቱ፡ በጽድቅ፣፡ ወይኴንን፡ በቤተ፡ ዳዊት፡ ወየኀሥሥ፡ ፍትሐ፡ ወይዴግን፡ ጽድቀ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይረትዕ",
+          "t": "wäyərätəʿə",
+          "gl": ""
+        },
+        {
+          "g": "መንበሩ",
+          "t": "mänəbäru",
+          "gl": ""
+        },
+        {
+          "g": "በምጽዋት",
+          "t": "bäməṣəwatə",
+          "gl": ""
+        },
+        {
+          "g": "ወይነብር",
+          "t": "wäyənäbərə",
+          "gl": ""
+        },
+        {
+          "g": "ውስቴቱ",
+          "t": "wəsətetu",
+          "gl": ""
+        },
+        {
+          "g": "በጽድቅ",
+          "t": "bäṣədəqə",
+          "gl": ""
+        },
+        {
+          "g": "ወይኴንን",
+          "t": "wäyəkwenənə",
+          "gl": ""
+        },
+        {
+          "g": "በቤተ",
+          "t": "bäbetä",
+          "gl": ""
+        },
+        {
+          "g": "ዳዊት",
+          "t": "dawitə",
+          "gl": ""
+        },
+        {
+          "g": "ወየኀሥሥ",
+          "t": "wäyäḫäśəśə",
+          "gl": ""
+        },
+        {
+          "g": "ፍትሐ",
+          "t": "fətəḥä",
+          "gl": ""
+        },
+        {
+          "g": "ወይዴግን",
+          "t": "wäyədegənə",
+          "gl": ""
+        },
+        {
+          "g": "ጽድቀ",
+          "t": "ṣədəqä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And a throne shall be established with mercy; and one shall sit upon it with truth in the tabernacle of David, judging, and earnestly seeking judgments, and hasting righteousness.",
+        "kjv": "And in mercy shall the throne be established: and he shall sit upon it in truth in the tabernacle of David, judging, and seeking judgment, and hasting righteousness."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ሰማዕነ፡ ትዕቢተ፡ ሞአብ፡ ወጽዕለተ፡ ፈድፋደ፣፡ ወአእተትኩ፡ ትዕቢተ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ሰማዕነ",
+          "t": "sämaʿənä",
+          "gl": ""
+        },
+        {
+          "g": "ትዕቢተ",
+          "t": "təʿəbitä",
+          "gl": ""
+        },
+        {
+          "g": "ሞአብ",
+          "t": "moʾäbə",
+          "gl": ""
+        },
+        {
+          "g": "ወጽዕለተ",
+          "t": "wäṣəʿəlätä",
+          "gl": ""
+        },
+        {
+          "g": "ፈድፋደ",
+          "t": "fädəfadä",
+          "gl": ""
+        },
+        {
+          "g": "ወአእተትኩ",
+          "t": "wäʾäʾətätəku",
+          "gl": ""
+        },
+        {
+          "g": "ትዕቢተ",
+          "t": "təʿəbitä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "We have heard of the pride of Moab; he is very proud. I have cut off his pride: thy prophecy shall not be thus, no not thus.",
+        "kjv": "We have heard of the pride of Moab; he is very proud: even of his haughtiness, and his pride, and his wrath: but his lies shall not be so."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወውዑ፡ ሞአብ፡ እስመ፡ በሞአብ፡ አውየዉ፡ ኵሎሙ፤ እለ፡ ይነብሩ፡ ዴሴም፡ ይስሕጡ፡ ወኢይትኀፈሩ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወውዑ",
+          "t": "wäwəʿu",
+          "gl": ""
+        },
+        {
+          "g": "ሞአብ",
+          "t": "moʾäbə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "በሞአብ",
+          "t": "bämoʾäbə",
+          "gl": ""
+        },
+        {
+          "g": "አውየዉ",
+          "t": "ʾäwəyäwu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎሙ እለ",
+          "t": "kwəlomu ʾəlä",
+          "gl": ""
+        },
+        {
+          "g": "ይነብሩ",
+          "t": "yənäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ዴሴም",
+          "t": "desemə",
+          "gl": ""
+        },
+        {
+          "g": "ይስሕጡ",
+          "t": "yəsəḥəṭu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይትኀፈሩ",
+          "t": "wäʾiyətəḫäfäru",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Moab shall howl; for all shall howl in the land of Moab: but thou shalt care for them that dwell in Seth, and thou shalt not be ashamed.",
+        "kjv": "Therefore shall Moab howl for Moab, every one shall howl: for the foundations of Kirhareseth shall ye mourn; surely they are stricken."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ሐቅለ፡ ሐሴቦን፡ ይላሕዉ፤ ወይነ፡ ሴባማ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ሐቅለ",
+          "t": "ḥäqəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሐሴቦን",
+          "t": "ḥäsebonə",
+          "gl": ""
+        },
+        {
+          "g": "ይላሕዉ ወይነ",
+          "t": "yəlaḥəwu wäyənä",
+          "gl": ""
+        },
+        {
+          "g": "ሴባማ",
+          "t": "sebama",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The plains of Esebon shall mourn, the vine of Sebama: swallowing up the nations, trample ye her vines, even to Jazer: ye shall not come together; wander ye in the desert: they that were sent are deserted, for they have gone over to the sea.",
+        "kjv": "For the fields of Heshbon languish, and the vine of Sibmah: the lords of the heathen have broken down the principal plants thereof, they are come even unto Jazer, they wandered through the wilderness: her branches are stretched out, they are gone over the sea."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "በእንተ፡ ዝንቱ፡ እበኪ፡ ከመ፡ ብካየ፡ ኢያዜር፡ ወይነ፡ ሴባማ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "እበኪ",
+          "t": "ʾəbäki",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ብካየ",
+          "t": "bəkayä",
+          "gl": ""
+        },
+        {
+          "g": "ኢያዜር",
+          "t": "ʾiyazerə",
+          "gl": ""
+        },
+        {
+          "g": "ወይነ",
+          "t": "wäyənä",
+          "gl": ""
+        },
+        {
+          "g": "ሴባማ",
+          "t": "sebama",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Therefore will I weep as with the weeping of Jazer for the vine of Sebama; Esebon and Eleale have cast down thy trees; for I will trample on thy harvest and on thy vintages, and all thy plants shall fall.",
+        "kjv": "Therefore I will bewail with the weeping of Jazer the vine of Sibmah: I will water thee with my tears, O Heshbon, and Elealeh: for the shouting for thy summer fruits and for thy harvest is fallen."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወእሥዕር፡ ትፍሥሕተ፡ ወኃሴተ፡ እምወይን፡ ወኢይትፌሥሑ፡ እንከ፡ በወይን፡ ወኢያከይዱ፡ ወይነ፡ ውስተ፡ ምክያድ፡ እስመ፡ ጠፍአ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእሥዕር",
+          "t": "wäʾəśəʿərə",
+          "gl": ""
+        },
+        {
+          "g": "ትፍሥሕተ",
+          "t": "təfəśəḥətä",
+          "gl": ""
+        },
+        {
+          "g": "ወኃሴተ",
+          "t": "wäḫasetä",
+          "gl": ""
+        },
+        {
+          "g": "እምወይን",
+          "t": "ʾəməwäyənə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይትፌሥሑ",
+          "t": "wäʾiyətəfeśəḥu",
+          "gl": ""
+        },
+        {
+          "g": "እንከ",
+          "t": "ʾənəkä",
+          "gl": ""
+        },
+        {
+          "g": "በወይን",
+          "t": "bäwäyənə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢያከይዱ",
+          "t": "wäʾiyakäyədu",
+          "gl": ""
+        },
+        {
+          "g": "ወይነ",
+          "t": "wäyənä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምክያድ",
+          "t": "məkəyadə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ጠፍአ",
+          "t": "ṭäfəʾä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And gladness and rejoicing shall be taken away from the vineyards; and they shall not rejoice at all in thy vineyards; and they shall not at all tread wine into the vats; for the vintage has ceased.",
+        "kjv": "And gladness is taken away, and joy out of the plentiful field; and in the vineyards there shall be no singing, neither shall there be shouting: the treaders shall tread out no wine in their presses; I have made their vintage shouting to cease."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "በእንተ፡ ዝንቱ፡ ትነቁ፡ ከርሥየ፡ ከመ፡ መሰንቆ፡ በእንተ፡ ሞአብ፡ ወአዕፅምትየ፡ ከመ፡ አረፍት፡ እንተ፡ ገየሩ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ትነቁ",
+          "t": "tənäqu",
+          "gl": ""
+        },
+        {
+          "g": "ከርሥየ",
+          "t": "kärəśəyä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "መሰንቆ",
+          "t": "mäsänəqo",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ሞአብ",
+          "t": "moʾäbə",
+          "gl": ""
+        },
+        {
+          "g": "ወአዕፅምትየ",
+          "t": "wäʾäʿəṣ́əmətəyä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "አረፍት",
+          "t": "ʾäräfətə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ገየሩ",
+          "t": "gäyäru",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Therefore my belly shall sound as a harp for Moab, and thou hast repaired my inward parts as a wall.",
+        "kjv": "Wherefore my bowels shall sound like an harp for Moab, and mine inward parts for Kirharesh."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወይከውነከ፡ ለኃሣር፡ እስመ፡ ሰርሐት፡ ሞአብ፡ በጣዖታ፡ ወተሐውር፡ ኀበ፡ አማልክቲሃ፡ ትጸሊ፣፡ ወኢይክሉ፡ እንከ፡ አድኅኖታ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይከውነከ",
+          "t": "wäyəkäwənäkä",
+          "gl": ""
+        },
+        {
+          "g": "ለኃሣር",
+          "t": "läḫaśarə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ሰርሐት",
+          "t": "särəḥätə",
+          "gl": ""
+        },
+        {
+          "g": "ሞአብ",
+          "t": "moʾäbə",
+          "gl": ""
+        },
+        {
+          "g": "በጣዖታ",
+          "t": "bäṭaʿota",
+          "gl": ""
+        },
+        {
+          "g": "ወተሐውር",
+          "t": "wätäḥäwərə",
+          "gl": ""
+        },
+        {
+          "g": "ኀበ",
+          "t": "ḫäbä",
+          "gl": ""
+        },
+        {
+          "g": "አማልክቲሃ",
+          "t": "ʾämaləkətiha",
+          "gl": ""
+        },
+        {
+          "g": "ትጸሊ",
+          "t": "təṣäli",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይክሉ",
+          "t": "wäʾiyəkəlu",
+          "gl": ""
+        },
+        {
+          "g": "እንከ",
+          "t": "ʾənəkä",
+          "gl": ""
+        },
+        {
+          "g": "አድኅኖታ",
+          "t": "ʾädəḫənota",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And it shall be to thy shame, (for Moab is wearied at the altars,) that he shall go in to the idols thereof to pray, but they shall not be at all able to deliver him.",
+        "kjv": "And it shall come to pass, when it is seen that Moab is weary on the high place, that he shall come to his sanctuary to pray; but he shall not prevail."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ዝንቱ፡ ነገር፡ ዘነበበ፡ እግዚአብሔር፡ በእንተ፡ ሞአብ፣፡ ዘነበበ፡ ቀዲሙ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ነገር",
+          "t": "nägärə",
+          "gl": ""
+        },
+        {
+          "g": "ዘነበበ",
+          "t": "zänäbäbä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ሞአብ",
+          "t": "moʾäbə",
+          "gl": ""
+        },
+        {
+          "g": "ዘነበበ",
+          "t": "zänäbäbä",
+          "gl": ""
+        },
+        {
+          "g": "ቀዲሙ",
+          "t": "qädimu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "This is the word which the Lord spoke against Moab, when he spoke.",
+        "kjv": "This is the word that the LORD hath spoken concerning Moab since that time."
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወይእዜኒ፡ እብል፤ ዘሠለስቱ፡ ዓመተ፡ ዓሳብ፡ የኀሥር፡ ክብረ፡ ሞአብ፡ እምኵሉ፡ ብዕላ፡ ብዙኅ፡ ወኢትተርፍ፡ ኅዳጠ፡ ወኢትረክብ፡ እንከ፡ ክብራ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወይእዜኒ",
+          "t": "wäyəʾəzeni",
+          "gl": ""
+        },
+        {
+          "g": "እብል ዘሠለስቱ",
+          "t": "ʾəbələ zäśäläsətu",
+          "gl": ""
+        },
+        {
+          "g": "ዓመተ",
+          "t": "ʿamätä",
+          "gl": ""
+        },
+        {
+          "g": "ዓሳብ",
+          "t": "ʿasabə",
+          "gl": ""
+        },
+        {
+          "g": "የኀሥር",
+          "t": "yäḫäśərə",
+          "gl": ""
+        },
+        {
+          "g": "ክብረ",
+          "t": "kəbərä",
+          "gl": ""
+        },
+        {
+          "g": "ሞአብ",
+          "t": "moʾäbə",
+          "gl": ""
+        },
+        {
+          "g": "እምኵሉ",
+          "t": "ʾəməkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ብዕላ",
+          "t": "bəʿəla",
+          "gl": ""
+        },
+        {
+          "g": "ብዙኅ",
+          "t": "bəzuḫə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢትተርፍ",
+          "t": "wäʾitətärəfə",
+          "gl": ""
+        },
+        {
+          "g": "ኅዳጠ",
+          "t": "ḫədaṭä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢትረክብ",
+          "t": "wäʾitəräkəbə",
+          "gl": ""
+        },
+        {
+          "g": "እንከ",
+          "t": "ʾənəkä",
+          "gl": ""
+        },
+        {
+          "g": "ክብራ",
+          "t": "kəbəra",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And now I say, In three years, of the years of an hireling, the glory of Moab shall be dishonoured with all his great wealth; and he shall be left few in number, and not honoured.",
+        "kjv": "But now the LORD hath spoken, saying, Within three years, as the years of an hireling, and the glory of Moab shall be contemned, with all that great multitude; and the remnant shall be very small and feeble."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

@@ -1,0 +1,925 @@
+{
+  "book": "Eccl",
+  "chapter": 6,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ቦ፡ እኩይ፡ ዘርኢኩ፡ እምታሕተ፡ ፀሐይ፡ ወብዝኅት፡ ይእቲ፡ በላዕለ፡ ኵሉ፡ ሰብእ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ቦ",
+          "t": "bo",
+          "gl": ""
+        },
+        {
+          "g": "እኩይ",
+          "t": "ʾəkuyə",
+          "gl": ""
+        },
+        {
+          "g": "ዘርኢኩ",
+          "t": "zärəʾiku",
+          "gl": ""
+        },
+        {
+          "g": "እምታሕተ",
+          "t": "ʾəmətaḥətä",
+          "gl": ""
+        },
+        {
+          "g": "ፀሐይ",
+          "t": "ṣ́äḥäyə",
+          "gl": ""
+        },
+        {
+          "g": "ወብዝኅት",
+          "t": "wäbəzəḫətə",
+          "gl": ""
+        },
+        {
+          "g": "ይእቲ",
+          "t": "yəʾəti",
+          "gl": ""
+        },
+        {
+          "g": "በላዕለ",
+          "t": "bälaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "There is an evil which I have seen under the sun, and it is abundant with man:",
+        "kjv": "There is an evil which I have seen under the sun, and it is common among men:"
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ብእሲ፡ ዘወሀቦ፡ እግዚአብሔር፡ ብዕለ፡ ወጥሪተ፡ ወክብረ፡ ወአልቦ፡ ዘይከልኣ፡ ለነፍሱ፡ እምኵሉ፡ ዘፈተወት፡ ወኢያሥለጦ፡ እግዚአብሔር፡ ከመ፡ ይባላዕ፡ እምኔሁ፡ እስመ፡ ብእሲ፡ ነግድ፡ ይበልዖ፡ ወዝኒ፡ ከንቱ፡ ውእቱ፡ ወደዌ፡ እኪት።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ዘወሀቦ",
+          "t": "zäwähäbo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ብዕለ",
+          "t": "bəʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ወጥሪተ",
+          "t": "wäṭəritä",
+          "gl": ""
+        },
+        {
+          "g": "ወክብረ",
+          "t": "wäkəbərä",
+          "gl": ""
+        },
+        {
+          "g": "ወአልቦ",
+          "t": "wäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘይከልኣ",
+          "t": "zäyəkäləʾa",
+          "gl": ""
+        },
+        {
+          "g": "ለነፍሱ",
+          "t": "länäfəsu",
+          "gl": ""
+        },
+        {
+          "g": "እምኵሉ",
+          "t": "ʾəməkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘፈተወት",
+          "t": "zäfätäwätə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢያሥለጦ",
+          "t": "wäʾiyaśəläṭo",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ይባላዕ",
+          "t": "yəbalaʿə",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ብእሲ",
+          "t": "bəʾəsi",
+          "gl": ""
+        },
+        {
+          "g": "ነግድ",
+          "t": "nägədə",
+          "gl": ""
+        },
+        {
+          "g": "ይበልዖ",
+          "t": "yəbäləʿo",
+          "gl": ""
+        },
+        {
+          "g": "ወዝኒ",
+          "t": "wäzəni",
+          "gl": ""
+        },
+        {
+          "g": "ከንቱ",
+          "t": "känətu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ወደዌ",
+          "t": "wädäwe",
+          "gl": ""
+        },
+        {
+          "g": "እኪት",
+          "t": "ʾəkitə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "a man to whom God shall give wealth, and substance, and honour, and he wants nothing for his soul of all things that he shall desire, yet God shall not give him power to eat of it, for a stranger shall devour it: this is vanity, and an evil infirmity.",
+        "kjv": "A man to whom God hath given riches, wealth, and honour, so that he wanteth nothing for his soul of all that he desireth, yet God giveth him not power to eat thereof, but a stranger eateth it: this is vanity, and it is an evil disease."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ወለእመ፡ ወለደ፡ ብእሴ፡ ምእተ፡ ወብዙኀ፡ ዓመታተ፡ ኀይወ፡ ወብዙኀ፡ ኮነ፡ መዋዕለ፡ ዓመታቲሁ፡ ወነፍሱሂ፡ ኢትጸግብ፡ እምሠናይት፡ ወግንዘቱሂ፡ ኢኮኖ፡ እቤ፡ አነ፡ ይኄይስ፡ እምኔሁ፡ ዳሕፅ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወለእመ",
+          "t": "wäläʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ወለደ",
+          "t": "wälädä",
+          "gl": ""
+        },
+        {
+          "g": "ብእሴ",
+          "t": "bəʾəse",
+          "gl": ""
+        },
+        {
+          "g": "ምእተ",
+          "t": "məʾətä",
+          "gl": ""
+        },
+        {
+          "g": "ወብዙኀ",
+          "t": "wäbəzuḫä",
+          "gl": ""
+        },
+        {
+          "g": "ዓመታተ",
+          "t": "ʿamätatä",
+          "gl": ""
+        },
+        {
+          "g": "ኀይወ",
+          "t": "ḫäyəwä",
+          "gl": ""
+        },
+        {
+          "g": "ወብዙኀ",
+          "t": "wäbəzuḫä",
+          "gl": ""
+        },
+        {
+          "g": "ኮነ",
+          "t": "konä",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕለ",
+          "t": "mäwaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ዓመታቲሁ",
+          "t": "ʿamätatihu",
+          "gl": ""
+        },
+        {
+          "g": "ወነፍሱሂ",
+          "t": "wänäfəsuhi",
+          "gl": ""
+        },
+        {
+          "g": "ኢትጸግብ",
+          "t": "ʾitəṣägəbə",
+          "gl": ""
+        },
+        {
+          "g": "እምሠናይት",
+          "t": "ʾəməśänayətə",
+          "gl": ""
+        },
+        {
+          "g": "ወግንዘቱሂ",
+          "t": "wägənəzätuhi",
+          "gl": ""
+        },
+        {
+          "g": "ኢኮኖ",
+          "t": "ʾikono",
+          "gl": ""
+        },
+        {
+          "g": "እቤ",
+          "t": "ʾəbe",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "ይኄይስ",
+          "t": "yəḫeyəsə",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "ዳሕፅ",
+          "t": "daḥəṣ́ə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "If a man beget a hundred children, and live many years, yea, however abundant the days of his years shall be, yet if his soul shall not be satisfied with good, and also he have no burial; I said, An untimely birth is better than he.",
+        "kjv": "If a man beget an hundred children, and live many years, so that the days of his years be many, and his soul be not filled with good, and also that he have no burial; I say, that an untimely birth is better than he."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "እስመ፡ በከንቱ፡ መጽአ፡ ወውስተ፡ ጽልመት፡ የሐውር፡ ወበጽልመት፡ ስሙ፡ ይትከደን።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "በከንቱ",
+          "t": "bäkänətu",
+          "gl": ""
+        },
+        {
+          "g": "መጽአ",
+          "t": "mäṣəʾä",
+          "gl": ""
+        },
+        {
+          "g": "ወውስተ",
+          "t": "wäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ጽልመት",
+          "t": "ṣələmätə",
+          "gl": ""
+        },
+        {
+          "g": "የሐውር",
+          "t": "yäḥäwərə",
+          "gl": ""
+        },
+        {
+          "g": "ወበጽልመት",
+          "t": "wäbäṣələmätə",
+          "gl": ""
+        },
+        {
+          "g": "ስሙ",
+          "t": "səmu",
+          "gl": ""
+        },
+        {
+          "g": "ይትከደን",
+          "t": "yətəkädänə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For he came in vanity, and departs in darkness, and his name shall be covered in darkness.",
+        "kjv": "For he cometh in with vanity, and departeth in darkness, and his name shall be covered with darkness."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወፀሐየኒ፡ ኢርእየ፡ ወኢያእመረ፡ ዕረፍቱ፡ ለዝ፡ እምዝ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወፀሐየኒ",
+          "t": "wäṣ́äḥäyäni",
+          "gl": ""
+        },
+        {
+          "g": "ኢርእየ",
+          "t": "ʾirəʾəyä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢያእመረ",
+          "t": "wäʾiyaʾəmärä",
+          "gl": ""
+        },
+        {
+          "g": "ዕረፍቱ",
+          "t": "ʿəräfətu",
+          "gl": ""
+        },
+        {
+          "g": "ለዝ",
+          "t": "läzə",
+          "gl": ""
+        },
+        {
+          "g": "እምዝ",
+          "t": "ʾəməzə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Moreover he has not seen the sun, nor known rest: there is no more rest to this one than another.",
+        "kjv": "Moreover he hath not seen the sun, nor known any thing: this hath more rest than the other."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወሶበ፡ ሐይወ፡ ዓሠርተ፡ ምእተ፡ ምሕዋረ፡ ዓመት፡ ወሠናይተ፡ ኢርእየ፡ አኮኑ፡ ውስተ፡ መካን፡ አሐዱ፡ ኵሉ፡ የሐውር።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሶበ",
+          "t": "wäsobä",
+          "gl": ""
+        },
+        {
+          "g": "ሐይወ",
+          "t": "ḥäyəwä",
+          "gl": ""
+        },
+        {
+          "g": "ዓሠርተ",
+          "t": "ʿaśärətä",
+          "gl": ""
+        },
+        {
+          "g": "ምእተ",
+          "t": "məʾətä",
+          "gl": ""
+        },
+        {
+          "g": "ምሕዋረ",
+          "t": "məḥəwarä",
+          "gl": ""
+        },
+        {
+          "g": "ዓመት",
+          "t": "ʿamätə",
+          "gl": ""
+        },
+        {
+          "g": "ወሠናይተ",
+          "t": "wäśänayətä",
+          "gl": ""
+        },
+        {
+          "g": "ኢርእየ",
+          "t": "ʾirəʾəyä",
+          "gl": ""
+        },
+        {
+          "g": "አኮኑ",
+          "t": "ʾäkonu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "መካን",
+          "t": "mäkanə",
+          "gl": ""
+        },
+        {
+          "g": "አሐዱ",
+          "t": "ʾäḥädu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "የሐውር",
+          "t": "yäḥäwərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Though he has lived to the return of a thousand years, yet he has seen no good: do not all go to one place?",
+        "kjv": "Yea, though he live a thousand years twice told, yet hath he seen no good: do not all go to one place?"
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወኵሉ፡ ሥራኁለሰብእ፡ በአፉሁ፡ ወነፍሱሰ፡ ኢትመልእ፡ ብዕለ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ሥራኁለሰብእ",
+          "t": "śəraḫuläsäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "በአፉሁ",
+          "t": "bäʾäfuhu",
+          "gl": ""
+        },
+        {
+          "g": "ወነፍሱሰ",
+          "t": "wänäfəsusä",
+          "gl": ""
+        },
+        {
+          "g": "ኢትመልእ",
+          "t": "ʾitəmäləʾə",
+          "gl": ""
+        },
+        {
+          "g": "ብዕለ",
+          "t": "bəʿəlä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "All the labour of a man is for his mouth, and yet the appetite shall not be satisfied.",
+        "kjv": "All the labour of man is for his mouth, and yet the appetite is not filled."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "ምንት፡ ፍድፋዴሁ፡ ለጠቢብ፡ እምዐብድ፡ በእንተ፡ ምንት፡ ነዳይ፡ የአምር፡ ሐዊረ፡ ቅድመ፡ ሕይወት።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ምንት",
+          "t": "mənətə",
+          "gl": ""
+        },
+        {
+          "g": "ፍድፋዴሁ",
+          "t": "fədəfadehu",
+          "gl": ""
+        },
+        {
+          "g": "ለጠቢብ",
+          "t": "läṭäbibə",
+          "gl": ""
+        },
+        {
+          "g": "እምዐብድ",
+          "t": "ʾəməʿäbədə",
+          "gl": ""
+        },
+        {
+          "g": "በእንተ",
+          "t": "bäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ምንት",
+          "t": "mənətə",
+          "gl": ""
+        },
+        {
+          "g": "ነዳይ",
+          "t": "nädayə",
+          "gl": ""
+        },
+        {
+          "g": "የአምር",
+          "t": "yäʾämərə",
+          "gl": ""
+        },
+        {
+          "g": "ሐዊረ",
+          "t": "ḥäwirä",
+          "gl": ""
+        },
+        {
+          "g": "ቅድመ",
+          "t": "qədəmä",
+          "gl": ""
+        },
+        {
+          "g": "ሕይወት",
+          "t": "ḥəyəwätə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For what advantage has the wise man over the fool, since even the poor knows how to walk in the direction of life?",
+        "kjv": "For what hath the wise more than the fool? what hath the poor, that knoweth to walk before the living?"
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ይኄይስ፡ ርእይ፡ በዓይን፡ እምኀዊር፡ በነፍስ፡ ወዝኒ፡ ከንቱ፡ ወፍትወተ፡ ነፍስ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ይኄይስ",
+          "t": "yəḫeyəsə",
+          "gl": ""
+        },
+        {
+          "g": "ርእይ",
+          "t": "rəʾəyə",
+          "gl": ""
+        },
+        {
+          "g": "በዓይን",
+          "t": "bäʿayənə",
+          "gl": ""
+        },
+        {
+          "g": "እምኀዊር",
+          "t": "ʾəməḫäwirə",
+          "gl": ""
+        },
+        {
+          "g": "በነፍስ",
+          "t": "bänäfəsə",
+          "gl": ""
+        },
+        {
+          "g": "ወዝኒ",
+          "t": "wäzəni",
+          "gl": ""
+        },
+        {
+          "g": "ከንቱ",
+          "t": "känətu",
+          "gl": ""
+        },
+        {
+          "g": "ወፍትወተ",
+          "t": "wäfətəwätä",
+          "gl": ""
+        },
+        {
+          "g": "ነፍስ",
+          "t": "näfəsə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "The sight of the eyes is better than that which wanders in soul: this is also vanity, and waywardness of spirit.",
+        "kjv": "Better is the sight of the eyes than the wandering of the desire: this is also vanity and vexation of spirit."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ኵሉ፡ ዘኮነ፡ ናሁ፡ ተሰምየ፡ ስሙ፡ ወተአምረ፡ ከመ፡ ውእቱ፡ ሰብእ፡ ወኢይክል፡ ተጋእዞ፡ ምስለ፡ ዘይፀንዕ፡ እምኔሁ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘኮነ",
+          "t": "zäkonä",
+          "gl": ""
+        },
+        {
+          "g": "ናሁ",
+          "t": "nahu",
+          "gl": ""
+        },
+        {
+          "g": "ተሰምየ",
+          "t": "täsäməyä",
+          "gl": ""
+        },
+        {
+          "g": "ስሙ",
+          "t": "səmu",
+          "gl": ""
+        },
+        {
+          "g": "ወተአምረ",
+          "t": "wätäʾämərä",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ሰብእ",
+          "t": "säbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይክል",
+          "t": "wäʾiyəkələ",
+          "gl": ""
+        },
+        {
+          "g": "ተጋእዞ",
+          "t": "tägaʾəzo",
+          "gl": ""
+        },
+        {
+          "g": "ምስለ",
+          "t": "məsəlä",
+          "gl": ""
+        },
+        {
+          "g": "ዘይፀንዕ",
+          "t": "zäyəṣ́änəʿə",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "If anything has been, its name has already been called: and it is known what man is; neither can he contend with him who is stronger than he.",
+        "kjv": "That which hath been is named already, and it is known that it is man: neither may he contend with him that is mightier than he."
+      }
+    },
+    {
+      "num": 11,
+      "geez": "እስመቦ፡ ከንቶ፡ ነገረ፡ ዘያበዝኅ፡ ምንት፡ ፍድፋዴሁ፡ ለሰብእ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመቦ",
+          "t": "ʾəsəmäbo",
+          "gl": ""
+        },
+        {
+          "g": "ከንቶ",
+          "t": "känəto",
+          "gl": ""
+        },
+        {
+          "g": "ነገረ",
+          "t": "nägärä",
+          "gl": ""
+        },
+        {
+          "g": "ዘያበዝኅ",
+          "t": "zäyabäzəḫə",
+          "gl": ""
+        },
+        {
+          "g": "ምንት",
+          "t": "mənətə",
+          "gl": ""
+        },
+        {
+          "g": "ፍድፋዴሁ",
+          "t": "fədəfadehu",
+          "gl": ""
+        },
+        {
+          "g": "ለሰብእ",
+          "t": "läsäbəʾə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For there are many things which increase vanity.",
+        "kjv": "Seeing there be many things that increase vanity, what is man the better?"
+      }
+    },
+    {
+      "num": 12,
+      "geez": "መኑ፡ ውእቱ፡ ዘየአምር፡ ምንት፡ ውእቱ፡ ሠናይ፡ ለሰብእ፡ በሕይወቱ፡ እንዘ፡ ኊልቈ፡ መዋዕለ፡ ሕይወቱ፡ ከንቱ፡ ወግብሩ፡ ከመ፡ ጽላሎት፡ መኑ፡ ያየድዖ፡ ለሰብእ፡ ዘይከውን፡ እምድኅሬሁ፡ በታሕተ፡ ፀሐይ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "መኑ",
+          "t": "mänu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘየአምር",
+          "t": "zäyäʾämərə",
+          "gl": ""
+        },
+        {
+          "g": "ምንት",
+          "t": "mənətə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ሠናይ",
+          "t": "śänayə",
+          "gl": ""
+        },
+        {
+          "g": "ለሰብእ",
+          "t": "läsäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "በሕይወቱ",
+          "t": "bäḥəyəwätu",
+          "gl": ""
+        },
+        {
+          "g": "እንዘ",
+          "t": "ʾənəzä",
+          "gl": ""
+        },
+        {
+          "g": "ኊልቈ",
+          "t": "ḫwiləqwä",
+          "gl": ""
+        },
+        {
+          "g": "መዋዕለ",
+          "t": "mäwaʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ሕይወቱ",
+          "t": "ḥəyəwätu",
+          "gl": ""
+        },
+        {
+          "g": "ከንቱ",
+          "t": "känətu",
+          "gl": ""
+        },
+        {
+          "g": "ወግብሩ",
+          "t": "wägəbəru",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "ጽላሎት",
+          "t": "ṣəlalotə",
+          "gl": ""
+        },
+        {
+          "g": "መኑ",
+          "t": "mänu",
+          "gl": ""
+        },
+        {
+          "g": "ያየድዖ",
+          "t": "yayädəʿo",
+          "gl": ""
+        },
+        {
+          "g": "ለሰብእ",
+          "t": "läsäbəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ዘይከውን",
+          "t": "zäyəkäwənə",
+          "gl": ""
+        },
+        {
+          "g": "እምድኅሬሁ",
+          "t": "ʾəmədəḫərehu",
+          "gl": ""
+        },
+        {
+          "g": "በታሕተ",
+          "t": "bätaḥətä",
+          "gl": ""
+        },
+        {
+          "g": "ፀሐይ",
+          "t": "ṣ́äḥäyə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "What advantage has a man? for who knows what is good for a man in his life, during the number of the life of the days of his vanity? and he has spent them as a shadow; for who shall tell a man what shall be after him under the sun?",
+        "kjv": "For who knoweth what is good for man in this life, all the days of his vain life which he spendeth as a shadow? for who can tell a man what shall be after him under the sun?"
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}

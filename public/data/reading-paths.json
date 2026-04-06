@@ -1,0 +1,701 @@
+{
+  "paths": [
+    {
+      "id": "the-full-story",
+      "name": "The Full Story",
+      "description": "All texts in narrative chronological order, from creation to the eschaton.",
+      "sections": [
+        {
+          "name": "I. Origins",
+          "description": "Creation, the antediluvian world, the Flood, and the scattering of nations.",
+          "entries": [
+            {"book": "Gen", "startChapter": 1, "endChapter": 11, "label": "Genesis 1–11: Creation through Babel"},
+            {"book": "Jub", "startChapter": 1, "endChapter": 10, "label": "Jubilees 1–10: The angelic retelling of primeval history"},
+            {"book": "1En", "startChapter": 1, "endChapter": 36, "label": "1 Enoch 1–36: The Book of Watchers"},
+            {"book": "TestLd", "startChapter": 1, "endChapter": 5, "label": "Testament of Our Lord 1–5: Adam's testament to Seth"}
+          ]
+        },
+        {
+          "name": "II. Patriarchs & Exodus",
+          "description": "Abraham, Isaac, Jacob, Joseph, and the deliverance from Egypt.",
+          "entries": [
+            {"book": "Gen", "startChapter": 12, "endChapter": 50, "label": "Genesis 12–50: The patriarchal narratives"},
+            {"book": "Jub", "startChapter": 11, "endChapter": 50, "label": "Jubilees 11–50: Patriarchs through Exodus in jubilee framework"},
+            {"book": "Exod", "startChapter": 1, "endChapter": 40, "label": "Exod: Deliverance and Sinai covenant"},
+            {"book": "Lev", "startChapter": 1, "endChapter": 27, "label": "Leviticus: Holiness code and sacrificial law"},
+            {"book": "Num", "startChapter": 1, "endChapter": 36, "label": "Numbers: Wilderness wandering"},
+            {"book": "Deut", "startChapter": 1, "endChapter": 34, "label": "Deuteronomy: Moses' final addresses"}
+          ]
+        },
+        {
+          "name": "III. Land & Kingship",
+          "description": "Conquest, judges, the united and divided monarchy, and the Ethiopian royal claim.",
+          "entries": [
+            {"book": "Josh", "startChapter": 1, "endChapter": 24, "label": "Josh: Conquest of Canaan"},
+            {"book": "Judg", "startChapter": 1, "endChapter": 21, "label": "Judg: The tribal period"},
+            {"book": "Ruth", "startChapter": 1, "endChapter": 4, "label": "Ruth: Loyalty in the time of judges"},
+            {"book": "Kings", "startChapter": 1, "endChapter": 25, "label": "Kings: From Samuel through the exile"},
+            {"book": "KN", "startChapter": 1, "endChapter": 119, "label": "Kebra Nagast: The Glory of Kings — Solomon, Sheba, and the Ark's journey to Ethiopia"}
+          ]
+        },
+        {
+          "name": "IV. Wisdom",
+          "description": "The wisdom tradition from suffering to mystical union.",
+          "entries": [
+            {"book": "Job", "startChapter": 1, "endChapter": 42, "label": "Job: The problem of innocent suffering"},
+            {"book": "Prov", "startChapter": 1, "endChapter": 26, "label": "Proverbs: Collected practical wisdom"},
+            {"book": "Sir", "startChapter": 1, "endChapter": 51, "label": "Sirach: Wisdom of Ben Sira — tradition accumulated"},
+            {"book": "Wis", "startChapter": 1, "endChapter": 19, "label": "Wisdom of Solomon: Cosmic wisdom personified"},
+            {"book": "Eccl", "startChapter": 1, "endChapter": 12, "label": "Ecclesiastes: The limits of wisdom"},
+            {"book": "Song", "startChapter": 1, "endChapter": 8, "label": "Song of Songs: Love poetry as mystical allegory"}
+          ]
+        },
+        {
+          "name": "V. Prophets",
+          "description": "The prophetic witness from the 8th century BCE through the apocalyptic tradition.",
+          "entries": [
+            {"book": "Isa", "startChapter": 1, "endChapter": 66, "label": "Isaiah: From judgment to the Suffering Servant and new creation"},
+            {"book": "Joel", "startChapter": 1, "endChapter": 3, "label": "Joel: The Day of the Lord and the outpouring of the Spirit"},
+            {"book": "Jonah", "startChapter": 1, "endChapter": 4, "label": "Jonah: God's mercy beyond Israel"},
+            {"book": "Lam", "startChapter": 1, "endChapter": 5, "label": "Lamentations: Grief over Jerusalem's destruction"}
+          ]
+        },
+        {
+          "name": "VI. Exile & Resistance",
+          "description": "Survival in exile, return, and the literature of resistance under oppression.",
+          "entries": [
+            {"book": "Ezra", "startChapter": 1, "endChapter": 13, "label": "Book of Ezra: Return and restoration"},
+            {"book": "Tob", "startChapter": 1, "endChapter": 14, "label": "Tobit: Faithfulness in diaspora"},
+            {"book": "Jdt", "startChapter": 1, "endChapter": 16, "label": "Jdt: A woman delivers Israel"},
+            {"book": "1Meq", "startChapter": 1, "endChapter": 36, "label": "1 Maccabees: The Hasmonean revolt"},
+            {"book": "3Meq", "startChapter": 1, "endChapter": 10, "label": "3 Meqabyan: Ethiopian martyrdom narrative — not the Greek Maccabees"},
+            {"book": "4Bar", "startChapter": 1, "endChapter": 9, "label": "4 Baruch: Jeremiah's companion through exile and return"},
+            {"book": "ApEz", "startChapter": 1, "endChapter": 10, "label": "Apocalypse of Ezra: Visions of judgment and the world to come"}
+          ]
+        },
+        {
+          "name": "VII. Heavenly Architecture",
+          "description": "The later sections of 1 Enoch: calendar, visions, and the shape of the cosmos.",
+          "entries": [
+            {"book": "1En", "startChapter": 72, "endChapter": 82, "label": "1 Enoch 72–82: Astronomical Book — the 364-day solar calendar"},
+            {"book": "1En", "startChapter": 83, "endChapter": 90, "label": "1 Enoch 83–90: Book of Dream Visions — the Animal Apocalypse"},
+            {"book": "1En", "startChapter": 37, "endChapter": 71, "label": "1 Enoch 37–71: Book of Parables — the Son of Man"},
+            {"book": "1En", "startChapter": 91, "endChapter": 108, "label": "1 Enoch 91–108: Epistle of Enoch — the Apocalypse of Weeks"},
+            {"book": "MysHE", "startChapter": 1, "endChapter": 4, "label": "Mysteries of Heaven and Earth: Ethiopian cosmological vision"},
+            {"book": "Teach", "startChapter": 1, "endChapter": 5, "label": "Teaching of Mysteries: Hidden knowledge revealed"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "genesis-jubilees",
+      "name": "Genesis & Jubilees Side by Side",
+      "description": "Read Jubilees alongside Genesis to see how the Angel of the Presence retells and reinterprets sacred history. Jubilees adds angelic framework, precise calendar dates, and halakhic rulings absent from Genesis.",
+      "sections": [
+        {
+          "name": "Creation & Sabbath",
+          "entries": [
+            {"book": "Jub", "startChapter": 2, "endChapter": 2, "label": "Jubilees 2: Creation in angelic framework"},
+            {"book": "Gen", "startChapter": 1, "endChapter": 2, "label": "Genesis 1–2:3: The seven days"},
+            {"book": "Jub", "startChapter": 2, "endChapter": 2, "note": "Jubilees adds: angels celebrate the first Sabbath in heaven. 22 categories of creation work. The Sabbath is cosmic, not merely human."}
+          ]
+        },
+        {
+          "name": "Garden & Fall",
+          "entries": [
+            {"book": "Jub", "startChapter": 3, "endChapter": 3, "label": "Jubilees 3: The Garden, naming, and expulsion"},
+            {"book": "Gen", "startChapter": 2, "endChapter": 3, "label": "Genesis 2:4–3:24: Eden through the Fall"},
+            {"book": "Jub", "startChapter": 3, "endChapter": 3, "note": "Jubilees adds: Adam enters the Garden on the 40th day, Eve on the 80th (matching Levitical purification periods). Animals originally speak. The Fall has a precise date."}
+          ]
+        },
+        {
+          "name": "Cain, Abel & the Generations",
+          "entries": [
+            {"book": "Jub", "startChapter": 4, "endChapter": 4, "label": "Jubilees 4: From Cain through the genealogies"},
+            {"book": "Gen", "startChapter": 4, "endChapter": 5, "label": "Genesis 4–5: Cain and Abel, the line of Seth"},
+            {"book": "Jub", "startChapter": 4, "endChapter": 4, "note": "Jubilees adds: Enoch is taken to the Garden of Eden to record judgment. He is the first to learn writing. Named wives for all patriarchs (Awan, Azura, etc.)."}
+          ]
+        },
+        {
+          "name": "Watchers, Flood & Babel",
+          "entries": [
+            {"book": "Jub", "startChapter": 5, "endChapter": 10, "label": "Jubilees 5–10: The angels, the Flood, Noah's partition, Babel"},
+            {"book": "Gen", "startChapter": 6, "endChapter": 11, "label": "Genesis 6–11: Nephilim, Flood, Table of Nations, Tower of Babel"},
+            {"book": "Jub", "startChapter": 5, "endChapter": 10, "note": "Jubilees adds: Mastema asks God to retain 1/10 of the demons for testing humanity. Noah receives medical knowledge to combat demonic diseases. Detailed geographic partition of the earth among Shem, Ham, and Japheth."}
+          ]
+        },
+        {
+          "name": "Abraham Cycle",
+          "entries": [
+            {"book": "Jub", "startChapter": 11, "endChapter": 23, "label": "Jubilees 11–23: Abraham from Ur to death"},
+            {"book": "Gen", "startChapter": 12, "endChapter": 25, "label": "Genesis 12–25: Abraham's call through his death"},
+            {"book": "Jub", "startChapter": 11, "endChapter": 23, "note": "Jubilees adds: Young Abraham destroys idols and discovers God through astronomy. Mastema tests Abraham (not God directly). The binding of Isaac is Mastema's idea (cf. Satan in Job). Extensive apocalyptic material in Abraham's farewell (Jub 23)."}
+          ]
+        },
+        {
+          "name": "Jacob & Joseph",
+          "entries": [
+            {"book": "Jub", "startChapter": 24, "endChapter": 45, "label": "Jubilees 24–45: Isaac, Jacob, and Joseph"},
+            {"book": "Gen", "startChapter": 25, "endChapter": 50, "label": "Genesis 25–50: From Isaac's sons through Joseph in Egypt"},
+            {"book": "Jub", "startChapter": 24, "endChapter": 45, "note": "Jubilees adds: Detailed war narratives — Jacob and his sons fight the Amorites and Esau. Rebecca's prophecy about the two nations. Extended testaments and blessings. Bilhah incident treated differently."}
+          ]
+        },
+        {
+          "name": "Exodus in Jubilee Framework",
+          "entries": [
+            {"book": "Jub", "startChapter": 46, "endChapter": 50, "label": "Jubilees 46–50: Exodus and final Sabbath legislation"},
+            {"book": "Exod", "startChapter": 1, "endChapter": 15, "label": "Exodus 1–15: Slavery, plagues, and the Red Sea"},
+            {"book": "Jub", "startChapter": 46, "endChapter": 50, "note": "Jubilees ends with strict Sabbath laws that carry the death penalty. The Passover dating is tied to the 364-day calendar. The final chapters frame all of history within the jubilee system — 50 jubilees from creation to entry into Canaan."}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "watchers",
+      "name": "The Watchers",
+      "description": "The complete fallen angels narrative: four verses in Genesis become an entire mythology of transgression, forbidden knowledge, and divine judgment.",
+      "sections": [
+        {
+          "name": "The Seed Text",
+          "entries": [
+            {"book": "Gen", "startChapter": 6, "endChapter": 6, "label": "Genesis 6:1-4: The Nephilim — sons of God and daughters of men. The entire trigger in four verses."}
+          ]
+        },
+        {
+          "name": "The Full Account",
+          "entries": [
+            {"book": "1En", "startChapter": 6, "endChapter": 11, "label": "1 Enoch 6–11: The descent of the Watchers. Semyaza leads 200 angels to Mount Hermon. They teach metallurgy, cosmetics, sorcery, astrology. The earth cries out."},
+            {"book": "1En", "startChapter": 12, "endChapter": 16, "label": "1 Enoch 12–16: Enoch intercedes for the Watchers. God refuses mercy. The Watchers are bound until the great judgment."}
+          ]
+        },
+        {
+          "name": "Enoch's Journeys",
+          "entries": [
+            {"book": "1En", "startChapter": 17, "endChapter": 19, "label": "1 Enoch 17–19: First journey — Enoch sees the prison of the fallen stars and the abyss of fire."},
+            {"book": "1En", "startChapter": 20, "endChapter": 36, "label": "1 Enoch 20–36: Second journey — the geography of heaven and Sheol. The tree of life. The ends of the earth."}
+          ]
+        },
+        {
+          "name": "The Flood as Consequence",
+          "entries": [
+            {"book": "Jub", "startChapter": 5, "endChapter": 7, "label": "Jubilees 5–7: The Flood as divine response to Watcher corruption. Noah's sacrifice and covenant."},
+            {"book": "Jub", "startChapter": 10, "endChapter": 10, "label": "Jubilees 10: Mastema's bargain — God binds 9/10 of the demons but allows 1/10 to remain under Mastema's authority to test humanity."}
+          ]
+        },
+        {
+          "name": "Post-Exilic Echo",
+          "entries": [
+            {"book": "4Bar", "startChapter": 1, "endChapter": 9, "label": "4 Baruch: Jeremiah and Baruch through the destruction. The connection between heavenly rebellion and earthly exile."}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wisdom-journey",
+      "name": "The Wisdom Journey",
+      "description": "A path through the wisdom literature from the rawness of suffering to the heights of mystical union. Each text asks the same question differently: what does it mean to live well?",
+      "sections": [
+        {
+          "name": "Suffering",
+          "entries": [
+            {"book": "Job", "startChapter": 1, "endChapter": 42, "label": "Job: When wisdom fails. An innocent man suffers and God answers from the whirlwind — but does not explain."}
+          ]
+        },
+        {
+          "name": "Practical Wisdom",
+          "entries": [
+            {"book": "Prov", "startChapter": 1, "endChapter": 26, "label": "Proverbs: The fear of the Lord is the beginning of wisdom. Practical maxims for daily life."}
+          ]
+        },
+        {
+          "name": "Wisdom's Limits",
+          "entries": [
+            {"book": "Eccl", "startChapter": 1, "endChapter": 12, "label": "Ecclesiastes: Vanity of vanities. The Preacher has tried everything and found it all hebel — vapor, breath, meaningless."}
+          ]
+        },
+        {
+          "name": "Accumulated Tradition",
+          "entries": [
+            {"book": "Sir", "startChapter": 1, "endChapter": 51, "label": "Sirach: Ben Sira's school. Wisdom grounded in Torah, priesthood, and the fear of God. The hymn to the ancestors (Sir 44–50)."}
+          ]
+        },
+        {
+          "name": "Cosmic Wisdom",
+          "entries": [
+            {"book": "Wis", "startChapter": 1, "endChapter": 19, "label": "Wisdom of Solomon: Wisdom as divine emanation. The righteous who died are in God's hand. The longest meditation on immortality in the Hebrew tradition."}
+          ]
+        },
+        {
+          "name": "Mystical Union",
+          "entries": [
+            {"book": "Song", "startChapter": 1, "endChapter": 8, "label": "Song of Songs: Love poetry read as allegory of the soul's desire for God. 'I am black and beautiful' — a text the Ethiopian tradition claims with special affection."}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "enoch-complete",
+      "name": "1 Enoch Complete",
+      "description": "1 Enoch as a unified work in five parts, composed across centuries (3rd century BCE to 1st century CE). Preserved complete only in Ge'ez. Each section has its own literary character, theology, and historical setting.",
+      "sections": [
+        {
+          "name": "Book of Watchers (1–36)",
+          "description": "The oldest section. Angelic rebellion, Enoch's intercession, and cosmic geography.",
+          "entries": [
+            {"book": "1En", "startChapter": 1, "endChapter": 5, "label": "1 Enoch 1–5: The opening theophany. Quoted in Jude 14–15."},
+            {"book": "1En", "startChapter": 6, "endChapter": 11, "label": "1 Enoch 6–11: The Watchers' descent and the corruption of creation."},
+            {"book": "1En", "startChapter": 12, "endChapter": 16, "label": "1 Enoch 12–16: Enoch's commission. He tells the Watchers their petition is denied."},
+            {"book": "1En", "startChapter": 17, "endChapter": 19, "label": "1 Enoch 17–19: First cosmic journey."},
+            {"book": "1En", "startChapter": 20, "endChapter": 36, "label": "1 Enoch 20–36: Second cosmic journey. Seven archangels. The tree of life. Sheol's four compartments."}
+          ]
+        },
+        {
+          "name": "Book of Parables (37–71)",
+          "description": "The Son of Man tradition. Not found at Qumran — possibly the latest section. Central to Ethiopian Christology.",
+          "entries": [
+            {"book": "1En", "startChapter": 37, "endChapter": 44, "label": "1 Enoch 37–44: First Parable. The coming judgment. Wisdom finds no dwelling on earth."},
+            {"book": "1En", "startChapter": 45, "endChapter": 57, "label": "1 Enoch 45–57: Second Parable. The Elect One / Son of Man sits on the throne of glory."},
+            {"book": "1En", "startChapter": 58, "endChapter": 69, "label": "1 Enoch 58–69: Third Parable. Final judgment of the kings and the mighty."},
+            {"book": "1En", "startChapter": 70, "endChapter": 71, "label": "1 Enoch 70–71: Enoch is translated and identified with the Son of Man."}
+          ]
+        },
+        {
+          "name": "Astronomical Book (72–82)",
+          "description": "The 364-day solar calendar. Possibly the oldest material in 1 Enoch. The calendar that Jubilees also insists upon.",
+          "entries": [
+            {"book": "1En", "startChapter": 72, "endChapter": 75, "label": "1 Enoch 72–75: The sun's gates, the lunar cycle, and the 364-day year."},
+            {"book": "1En", "startChapter": 76, "endChapter": 79, "label": "1 Enoch 76–79: Winds, stars, and the cosmic order."},
+            {"book": "1En", "startChapter": 80, "endChapter": 82, "label": "1 Enoch 80–82: The corruption of the calendar in the last days. Uriel's instruction to Enoch."}
+          ]
+        },
+        {
+          "name": "Book of Dream Visions (83–90)",
+          "description": "Two dream visions: the Flood and the Animal Apocalypse — all of Israelite history as a fable of animals.",
+          "entries": [
+            {"book": "1En", "startChapter": 83, "endChapter": 84, "label": "1 Enoch 83–84: First vision — the coming Flood. Enoch's prayer."},
+            {"book": "1En", "startChapter": 85, "endChapter": 90, "label": "1 Enoch 85–90: The Animal Apocalypse. Adam is a white bull. Israel are sheep. The Maccabean revolt is encoded. History ends with a new white bull — the Messiah."}
+          ]
+        },
+        {
+          "name": "Epistle of Enoch (91–108)",
+          "description": "Enoch's testament to his children. Contains the Apocalypse of Weeks (93 + 91:11-17) — all of history in ten periods.",
+          "entries": [
+            {"book": "1En", "startChapter": 91, "endChapter": 93, "label": "1 Enoch 91–93: The Apocalypse of Weeks. Ten periods from Enoch to the new heaven."},
+            {"book": "1En", "startChapter": 94, "endChapter": 105, "label": "1 Enoch 94–105: Woes against the rich and the sinners. A text of radical social critique."},
+            {"book": "1En", "startChapter": 106, "endChapter": 108, "label": "1 Enoch 106–108: The birth of Noah (a luminous, terrifying child). Final exhortation."}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kebra-nagast",
+      "name": "The Kebra Nagast",
+      "description": "The Glory of the Kings — the national epic of Ethiopia. How Solomon met the Queen of Sheba, how their son Menelik brought the Ark of the Covenant to Axum, and why Ethiopia is the new Israel.",
+      "sections": [
+        {
+          "name": "The Wisdom of Solomon",
+          "entries": [
+            {"book": "KN", "startChapter": 1, "endChapter": 20, "label": "Kebra Nagast 1–20: Solomon's wisdom and the fame that reached Sheba."}
+          ]
+        },
+        {
+          "name": "The Queen's Journey",
+          "entries": [
+            {"book": "KN", "startChapter": 21, "endChapter": 40, "label": "Kebra Nagast 21–40: Makeda travels to Jerusalem. Solomon's stratagem. Menelik is conceived."}
+          ]
+        },
+        {
+          "name": "The Son Returns",
+          "entries": [
+            {"book": "KN", "startChapter": 41, "endChapter": 65, "label": "Kebra Nagast 41–65: Menelik I grows up in Ethiopia, journeys to his father Solomon, and is anointed king."}
+          ]
+        },
+        {
+          "name": "The Ark Departs",
+          "entries": [
+            {"book": "KN", "startChapter": 66, "endChapter": 90, "label": "Kebra Nagast 66–90: The Ark of the Covenant is taken from Jerusalem to Ethiopia. Solomon grieves. God confirms the transfer."}
+          ]
+        },
+        {
+          "name": "Ethiopia as New Israel",
+          "entries": [
+            {"book": "KN", "startChapter": 91, "endChapter": 119, "label": "Kebra Nagast 91–119: Theological justification. Ethiopia inherits the covenant. Christological interpretation. The dynasty of Solomon endures."}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ethiopian-unique",
+      "name": "Unique to Ethiopia",
+      "description": "The texts preserved only in the Ethiopian Orthodox canon — found in no other Christian tradition. These are the books that make the Ethiopian Bible distinctive.",
+      "sections": [
+        {
+          "name": "Apocalyptic & Visionary",
+          "entries": [
+            {"book": "1En", "startChapter": 1, "endChapter": 108, "label": "1 Enoch: Complete — 108 chapters preserved only in Ge'ez. Fragments at Qumran confirm antiquity."},
+            {"book": "Jub", "startChapter": 1, "endChapter": 50, "label": "Jubilees: Complete — the 'Little Genesis.' Retells Genesis–Exodus with angelic chronology."}
+          ]
+        },
+        {
+          "name": "The Ethiopian Maccabees",
+          "entries": [
+            {"book": "3Meq", "startChapter": 1, "endChapter": 10, "label": "3 Meqabyan: Entirely unrelated to Greek Maccabees. Ethiopian martyrdom narratives about Meqabis, Abisa, and Seyon."}
+          ]
+        },
+        {
+          "name": "National Epic",
+          "entries": [
+            {"book": "KN", "startChapter": 1, "endChapter": 119, "label": "Kebra Nagast: The Glory of Kings. The founding myth of Ethiopian civilization and its Solomonic dynasty."}
+          ]
+        },
+        {
+          "name": "Esoteric & Liturgical",
+          "entries": [
+            {"book": "Lef", "startChapter": 1, "endChapter": 7, "label": "Bandlet of Righteousness: Mystical text on righteousness, often worn as a protective amulet scroll."},
+            {"book": "MysHE", "startChapter": 1, "endChapter": 4, "label": "Mysteries of Heaven and Earth: Cosmological vision — the structure of the heavens, the nature of God, the Trinity."},
+            {"book": "Teach", "startChapter": 1, "endChapter": 5, "label": "Teaching of Mysteries: Hidden knowledge tradition."},
+            {"book": "TestLd", "startChapter": 1, "endChapter": 60, "label": "Testament of Our Lord: Church order attributed to Christ, including liturgical instructions and apocalyptic prophecy."},
+            {"book": "Sinod", "startChapter": 1, "endChapter": 36, "label": "Sinodos of Qefreya: Church canons and ecclesiastical legislation."},
+            {"book": "Synax", "startChapter": 1, "endChapter": 1, "label": "Synaxarion: The Ethiopian book of saints — daily commemorations throughout the liturgical year."}
+          ]
+        }
+      ]
+    }
+  ],
+
+  "parallels": {
+    "Jub:1": {
+      "refs": [],
+      "note": "No direct Genesis parallel. Moses on Sinai receives the command to write. The Angel of the Presence is ordered to dictate all of history. This framing device makes all of Jubilees an angelic revelation."
+    },
+    "Jub:2": {
+      "refs": [{"book": "Gen", "start": 1, "end": 2}],
+      "note": "Retells creation with angelic framework. Angels celebrate the first Sabbath in heaven. 22 categories of creation (matching the 22 letters of the Hebrew alphabet). Sabbath sanctification is cosmic law, not merely Sinai legislation."
+    },
+    "Jub:3": {
+      "refs": [{"book": "Gen", "start": 2, "end": 3}],
+      "note": "Garden and Fall retold. Adam enters the Garden on the 40th day, Eve on the 80th — matching Levitical purification periods (Lev 12). Animals originally speak. The serpent's punishment is detailed. Eden has a precise geography."
+    },
+    "Jub:4": {
+      "refs": [{"book": "Gen", "start": 4, "end": 5}],
+      "note": "Cain and Abel, then the genealogies. Jubilees names all the wives: Awan (Cain's wife, his sister), Azura (Seth's wife). Enoch is taken to the Garden of Eden to record the judgment of the world. He invents writing."
+    },
+    "Jub:5": {
+      "refs": [{"book": "Gen", "start": 6, "end": 6}],
+      "note": "The Watchers' corruption and the decree of judgment. Expands Genesis 6:1-4. God sends the flood because of angelic-human hybridization and the violence their offspring caused."
+    },
+    "Jub:6": {
+      "refs": [{"book": "Gen", "start": 8, "end": 9}],
+      "note": "Noah's exit from the ark, his sacrifice, and the covenant. Jubilees adds detailed festival legislation: the Feast of Weeks is tied to Noah's covenant, not just Sinai. Blood prohibition is absolute."
+    },
+    "Jub:7": {
+      "refs": [{"book": "Gen", "start": 9, "end": 9}],
+      "note": "Noah's testament to his sons. Jubilees adds: Noah plants a vineyard on the first of the month (calendar precision), and gives detailed agricultural and ethical instruction absent from Genesis."
+    },
+    "Jub:8": {
+      "refs": [{"book": "Gen", "start": 10, "end": 10}],
+      "note": "The division of the earth among Noah's three sons. Jubilees provides a detailed geography — Shem receives the center (including Jerusalem), Ham the south, Japheth the north. This geographic partition is sworn by oath."
+    },
+    "Jub:9": {
+      "refs": [{"book": "Gen", "start": 10, "end": 10}],
+      "note": "Continuation of geographic partition. Canaan transgresses by settling in Shem's territory — this becomes the theological justification for Israel's claim to the land. Genesis has none of this geography."
+    },
+    "Jub:10": {
+      "refs": [{"book": "Gen", "start": 11, "end": 11}],
+      "note": "Babel and its aftermath. But the critical addition: Noah's grandsons ask for relief from demons. God orders all demons bound, but Mastema begs to retain 1/10 to test humanity. God agrees. This is the origin of evil's persistence after the Flood."
+    },
+    "Jub:11": {
+      "refs": [{"book": "Gen", "start": 11, "end": 12}],
+      "note": "Abraham's birth and youth. Jubilees adds: young Abraham observes the stars and deduces monotheism. He burns his father's idol house. Ravens devour seed-grain until Abraham invents a plow that buries seed — an etiological tale absent from Genesis."
+    },
+    "Jub:12": {
+      "refs": [{"book": "Gen", "start": 12, "end": 12}],
+      "note": "Abraham's call and journey. Jubilees adds: Abraham prays in Hebrew, and God opens his mouth to speak it — Hebrew is the language of creation, lost at Babel, restored to Abraham alone."
+    },
+    "Jub:13": {
+      "refs": [{"book": "Gen", "start": 12, "end": 13}],
+      "note": "Abraham in Canaan and Egypt. Jubilees adds the tithe to Melchizedek with elaborate detail and makes the first fruits offering a perpetual statute."
+    },
+    "Jub:14": {
+      "refs": [{"book": "Gen", "start": 15, "end": 15}],
+      "note": "The covenant between the pieces. The 400-year prophecy. Jubilees dates it precisely within the jubilee system."
+    },
+    "Jub:15": {
+      "refs": [{"book": "Gen", "start": 16, "end": 17}],
+      "note": "Ishmael and the circumcision covenant. Jubilees insists on the 8th day and warns that those who delay are 'children of destruction.' The polemic against other circumcision practices is sharper than Genesis."
+    },
+    "Jub:16": {
+      "refs": [{"book": "Gen", "start": 18, "end": 18}],
+      "note": "The three visitors and the promise of Isaac. Jubilees adds the celebration of the Feast of Tabernacles by Abraham — projecting later festivals back to the patriarchs."
+    },
+    "Jub:17": {
+      "refs": [{"book": "Gen", "start": 21, "end": 22}],
+      "note": "The binding of Isaac (the Aqedah). In Genesis, God tests Abraham. In Jubilees, Mastema proposes the test — exactly as Satan proposes Job's testing. This shifts the theology significantly."
+    },
+    "Jub:18": {
+      "refs": [{"book": "Gen", "start": 22, "end": 22}],
+      "note": "Continuation of the Aqedah and its aftermath. Jubilees names the date: 12th of the first month, linking the binding to Passover. Sarah dies when she hears (cf. Genesis 23 — Jubilees makes the connection explicit)."
+    },
+    "Jub:19": {
+      "refs": [{"book": "Gen", "start": 23, "end": 24}],
+      "note": "Sarah's death, burial at Machpelah, and the search for Isaac's wife. Jubilees adds Rebecca's oracle and a blessing that explicitly transfers the Abrahamic covenant."
+    },
+    "Jub:22": {
+      "refs": [{"book": "Gen", "start": 25, "end": 25}],
+      "note": "Abraham's farewell. Jubilees 22–23 expand Genesis 25 into a major apocalyptic testament. Abraham warns against idolatry, sexual impurity, and eating blood. His death becomes an occasion for prophecy about the end of days."
+    },
+    "Jub:23": {
+      "refs": [{"book": "Gen", "start": 25, "end": 25}],
+      "note": "The apocalypse of Abraham's death. Jubilees 23:11-31 has no Genesis parallel — it is a freestanding apocalypse about declining lifespans, corruption, and eventual restoration. One of the most important eschatological passages in Jubilees."
+    },
+    "Jub:24": {
+      "refs": [{"book": "Gen", "start": 25, "end": 26}],
+      "note": "Isaac and the wells. Jubilees adds a curse on the Philistines and blesses Isaac's seed with language that echoes later Zionist theology."
+    },
+    "Jub:25": {
+      "refs": [{"book": "Gen", "start": 27, "end": 27}],
+      "note": "Rebecca's plan and Jacob's blessing. Jubilees makes Rebecca more central — she has prophetic knowledge that Jacob must receive the blessing. Her role is elevated from clever strategist to divine agent."
+    },
+    "Jub:27": {
+      "refs": [{"book": "Gen", "start": 27, "end": 28}],
+      "note": "Jacob flees to Haran. Jubilees adds Rebecca's emotional farewell and a detailed itinerary. The dream at Bethel is tied to the angelic revelation framework."
+    },
+    "Jub:32": {
+      "refs": [{"book": "Gen", "start": 32, "end": 35}],
+      "note": "Jacob at Bethel, the tithe, Dinah's rape. Jubilees adds: Levi receives the priesthood at Bethel — this is the origin of the Levitical priesthood, placed centuries before Sinai. Simeon and Levi's violence at Shechem is justified, not condemned."
+    },
+    "Jub:34": {
+      "refs": [{"book": "Gen", "start": 34, "end": 35}],
+      "note": "War narratives. Jubilees 34 and 37-38 contain wars between Jacob's sons and the Amorites, and between Jacob and Esau — material entirely absent from Genesis. The patriarch is a warrior, not just a herdsman."
+    },
+    "Jub:39": {
+      "refs": [{"book": "Gen", "start": 37, "end": 39}],
+      "note": "Joseph sold into Egypt, Potiphar's wife. Jubilees follows Genesis closely here but adds the date of the Day of Atonement as connected to the brothers' deception of Jacob."
+    },
+    "Jub:46": {
+      "refs": [{"book": "Exod", "start": 1, "end": 2}],
+      "note": "The transition to Exodus. Israel in Egypt, the new pharaoh, the oppression. Jubilees compresses the Egyptian sojourn and links it to the jubilee count."
+    },
+    "Jub:48": {
+      "refs": [{"book": "Exod", "start": 7, "end": 12}],
+      "note": "The plagues and Passover. Jubilees adds: Mastema helps the Egyptian magicians and actively tries to kill Moses. The contest is not just Moses vs. Pharaoh but the Angel of the Presence vs. Mastema."
+    },
+    "Jub:49": {
+      "refs": [{"book": "Exod", "start": 12, "end": 13}],
+      "note": "Passover legislation. Jubilees gives the most detailed Passover rules in any Jewish text. No bone may be broken. It must be eaten in the sanctuary (not houses). The 364-day calendar is mandatory."
+    },
+    "Jub:50": {
+      "refs": [{"book": "Exod", "start": 14, "end": 15}],
+      "note": "The Red Sea crossing and final Sabbath laws. Jubilees ends abruptly with severe Sabbath legislation: death for carrying burdens, marital relations, lighting fires, or traveling on Sabbath. The harshest Sabbath code in Jewish literature."
+    },
+    "1En:1": {
+      "refs": [],
+      "note": "The opening theophany. God will come from Sinai with ten thousand holy ones. Quoted directly in Jude 14-15 — one of the strongest canonical acknowledgments of Enoch's authority."
+    },
+    "1En:6": {
+      "refs": [{"book": "Gen", "start": 6, "end": 6}],
+      "note": "Genesis 6:1-4 in four verses becomes here an elaborate narrative. Two hundred Watchers descend on Mount Hermon, swear an oath, and take human wives. Their leaders are named: Semyaza, Azazel, and 18 others."
+    },
+    "1En:7": {
+      "refs": [{"book": "Gen", "start": 6, "end": 6}],
+      "note": "The Watchers teach forbidden knowledge: metalworking (weapons, jewelry), cosmetics, sorcery, root-cutting, astrology. Their giant offspring devour all human production, then turn on humanity itself. Genesis says only 'the Nephilim were on the earth.'"
+    },
+    "1En:8": {
+      "refs": [{"book": "Gen", "start": 6, "end": 6}],
+      "note": "Azazel's specific teachings: swords, shields, breastplates, and the metals of the earth. The earth cries out against the violence. This chapter is the theological origin of the 'forbidden knowledge' motif."
+    },
+    "1En:10": {
+      "refs": [{"book": "Gen", "start": 6, "end": 7}],
+      "note": "God sends the archangels. Raphael binds Azazel in the desert of Dudael. Gabriel incites the giants to destroy each other. Michael binds Semyaza and the Watchers for seventy generations. The Flood follows."
+    },
+    "1En:14": {
+      "refs": [],
+      "note": "Enoch's throne vision — one of the earliest merkabah (divine chariot/throne) texts. Crystal walls, rivers of fire, and the Great Glory on a throne of cherubim. This influenced all later Jewish and Christian apocalyptic throne visions."
+    },
+    "1En:22": {
+      "refs": [],
+      "note": "The four compartments of Sheol. The dead are separated: righteous (with a spring of water), sinners who were not punished in life, sinners who were punished, and the merely dead. This geography of the afterlife influenced centuries of Jewish and Christian eschatology."
+    },
+    "1En:37": {
+      "refs": [],
+      "note": "Opening of the Book of Parables. The 'Head of Days' (a title for God found only here) and the introduction of the Elect One. This section's Son of Man Christology directly influenced the Gospel writers."
+    },
+    "1En:46": {
+      "refs": [],
+      "note": "The Son of Man appears: 'his face had the appearance of a man, and his face was full of grace like one of the holy angels.' He will overthrow kings. The conceptual bridge between Daniel 7 and the Gospels."
+    },
+    "1En:71": {
+      "refs": [],
+      "note": "Enoch is translated into heaven and told 'You are the Son of Man who was born to righteousness.' The identification of Enoch with the eschatological judge — the most controversial verse in 1 Enoch."
+    },
+    "1En:72": {
+      "refs": [{"book": "Jub", "start": 6, "end": 6}],
+      "note": "The Astronomical Book opens. The 364-day solar calendar — 4 seasons of 91 days, each with 13 weeks. This is the same calendar Jubilees insists upon. The Qumran community used it. The rabbis rejected it."
+    },
+    "1En:85": {
+      "refs": [],
+      "note": "The Animal Apocalypse begins. Adam is a white bull, Eve a heifer, Cain and Abel are a black and a red bull. All of Israelite history is told as animal allegory. The Maccabean revolt is the latest event — dating this section to ~165 BCE."
+    },
+    "1En:93": {
+      "refs": [],
+      "note": "The Apocalypse of Weeks. All of history in ten 'weeks': Enoch is born in the first, the Flood comes in the second, Abraham in the third, Sinai in the fourth, the Temple in the fifth, exile in the sixth, the current corrupt age is the seventh."
+    },
+    "1En:106": {
+      "refs": [{"book": "Gen", "start": 5, "end": 5}],
+      "note": "The birth of Noah. The child is born luminous and terrifying — his eyes light up the room, he opens his mouth and praises God. Lamech fears his son is from the Watchers. Methuselah consults Enoch, who confirms Noah is human and will survive the Flood."
+    },
+    "4Bar:1": {
+      "refs": [{"book": "KN", "start": 72, "end": 72}],
+      "note": "4 Baruch opens with the fall of Jerusalem. Jeremiah is commanded to bury the temple vessels. Baruch remains among the ruins. The parallel with the Kebra Nagast's treatment of the Ark's departure is thematic — sacred objects leaving Jerusalem."
+    },
+    "4Bar:3": {
+      "refs": [],
+      "note": "Abimelech (Ebed-Melech, Jeremiah's Ethiopian rescuer) falls asleep and wakes 66 years later — a Rip van Winkle motif. His basket of figs is still fresh. Time itself bends around God's purposes."
+    },
+    "4Bar:6": {
+      "refs": [],
+      "note": "Baruch sends a letter to Jeremiah in Babylon via an eagle. The eagle waits for the letter, flies to Babylon, and delivers it. One of the most unusual messenger narratives in biblical literature."
+    },
+    "KN:1": {
+      "refs": [{"book": "Kings", "start": 3, "end": 10}],
+      "note": "The Glory of Kings opens with Solomon's wisdom. The Ethiopian tradition claims that the Queen of Sheba (Makeda) visited Solomon and that their union produced Menelik I, through whom the Ark came to Axum."
+    },
+    "KN:28": {
+      "refs": [{"book": "Kings", "start": 10, "end": 10}],
+      "note": "Makeda arrives in Jerusalem. The Kebra Nagast expands 1 Kings 10 (the Queen of Sheba's visit) from a few verses into an epic narrative of conversion, seduction, and dynastic founding."
+    },
+    "KN:32": {
+      "refs": [],
+      "note": "Solomon's stratagem to sleep with Makeda — he serves her spiced food, makes her swear not to take anything in his house, then places water by her bed. She drinks in the night. He holds her to her oath. Menelik is conceived."
+    },
+    "KN:84": {
+      "refs": [],
+      "note": "The Ark is taken from the Temple. Azariah (son of the high priest Zadok) orchestrates the removal. The Ark flies through the air to Ethiopia. Solomon discovers the loss and weeps but is told by God that it is His will."
+    },
+    "AscIsa:1": {
+      "refs": [{"book": "Isa", "start": 1, "end": 1}],
+      "note": "The Martyrdom of Isaiah. King Manasseh, under the influence of the demon Beliar, has Isaiah sawn in two with a wood saw. Hebrews 11:37 ('they were sawn in two') is believed to reference this tradition."
+    },
+    "AscIsa:3": {
+      "refs": [],
+      "note": "Isaiah's vision: he ascends through seven heavens. Each heaven is more glorious than the last. Angels in the lower heavens fight; the upper heavens are at peace. In the seventh heaven, Isaiah sees God and the pre-incarnate Christ."
+    },
+    "3Meq:1": {
+      "refs": [{"book": "1Meq", "start": 1, "end": 1}],
+      "note": "The Ethiopian Meqabyan begin. Despite the name, these have no relationship to the Greek Maccabees in content, characters, or setting. The Ethiopian books are about pious martyrs named Meqabis, Abisa, and Seyon — purely Ethiopian compositions."
+    },
+    "Wis:1": {
+      "refs": [{"book": "Prov", "start": 1, "end": 9}],
+      "note": "Wisdom of Solomon opens with an appeal to rulers. Compare Proverbs 1–9 (Woman Wisdom). But Wisdom of Solomon goes further: Wisdom is 'a breath of the power of God, a pure emanation of the glory of the Almighty' (7:25) — personified divine attribute."
+    },
+    "Sir:1": {
+      "refs": [{"book": "Prov", "start": 1, "end": 1}],
+      "note": "Sirach opens like Proverbs: 'All wisdom is from the Lord.' But Sirach explicitly identifies wisdom with Torah (Sir 24) — a move Proverbs never makes. Ben Sira wrote in Hebrew around 180 BCE; his grandson translated to Greek around 132 BCE."
+    },
+    "Sir:44": {
+      "refs": [],
+      "note": "The Hymn to the Ancestors: 'Let us now praise famous men.' The longest sustained meditation on Israelite heroes in wisdom literature. From Enoch through Simon the High Priest — a theological reading of history through the lens of faithfulness."
+    },
+    "ApEz:1": {
+      "refs": [{"book": "Ezra", "start": 1, "end": 1}],
+      "note": "The Apocalypse of Ezra (sometimes called 4 Ezra in other traditions). Ezra's visions of judgment, theodicy, and the coming age. Parallels the canonical Ezra's concern with restoration but moves into full apocalyptic territory."
+    },
+    "Lef:1": {
+      "refs": [],
+      "note": "The Bandlet of Righteousness. A mystical text often written on parchment strips and worn as a protective amulet. Unique to Ethiopian Christianity — blends theology, magic, and material devotion."
+    },
+    "MysHE:1": {
+      "refs": [],
+      "note": "The Mysteries of Heaven and Earth. Ethiopian cosmological speculation — the structure of the heavens, the nature of the Trinity, the architecture of creation. Represents the tradition of esoteric knowledge in Ethiopian Christianity."
+    }
+  },
+
+  "contextNotes": {
+    "1En:1": "The opening blessing of Enoch. Quoted directly in Jude 14-15 — one of the few New Testament citations of a non-canonical text. Sets the tone: this is prophecy about the End, spoken before the Flood.",
+    "1En:6": "The Watchers descend on Mount Hermon and swear a mutual oath. The mountain's name is explained: 'Hermon' from the root h-r-m, meaning 'oath/curse.' Two hundred angels, twenty leaders, each named.",
+    "1En:12": "Enoch is commissioned as messenger between heaven and earth. He tells the Watchers that their petition for mercy has been denied. They who should have interceded for humans now need a human to intercede for them — a devastating reversal.",
+    "1En:14": "Enoch's throne vision — crystal walls, rivers of fire, the Great Glory. One of the earliest merkabah texts. The foundation of all later Jewish and Christian apocalyptic throne visions, including Revelation 4.",
+    "1En:17": "Enoch's first cosmic journey. He sees the prison of the stars that transgressed (fallen angels as wandering stars), the fiery abyss, and the corners of the earth. Sacred geography — not allegory.",
+    "1En:22": "The four compartments of Sheol — the dead separated by righteousness and whether they received justice in life. This passage shaped Jewish and Christian afterlife theology for centuries.",
+    "1En:37": "The Book of Parables begins. The Son of Man, the Elect One, the Head of Days. This section was not found at Qumran, leading to debate about its date. Ethiopian Christians read it as direct Christological prophecy.",
+    "1En:46": "The Son of Man is revealed. 'His countenance was full of grace, like one of the holy angels.' He existed before creation. He will judge the kings and the mighty. The conceptual bridge between Daniel 7 and Jesus' self-designation in the Gospels.",
+    "1En:54": "Chains are being prepared for the host of Azazel. The angels of punishment are readying instruments of torture. The kings and the mighty will be handed over to the angels of punishment. Unflinching eschatological violence.",
+    "1En:69": "The oath that holds creation together — the secret name by which heaven and earth are bound. Whoever knows the name has power over creation. This is deep Jewish mystical tradition embedded in apocalyptic narrative.",
+    "1En:71": "Enoch is translated into heaven and identified as the Son of Man. 'You are the Son of Man who was born to righteousness.' The most controversial verse in 1 Enoch — does a human become the eschatological judge?",
+    "1En:72": "The Astronomical Book. The sun rises and sets through six gates in the east and west. The year has 364 days — exactly 52 weeks. This calendar was used at Qumran and is assumed throughout Jubilees.",
+    "1En:80": "The calendar will be corrupted in the last days. Sinners will treat the year as 364 days when it should be... wait — this passage seems to undercut the very calendar 1 Enoch elsewhere promotes. Scholars debate whether this is a later addition.",
+    "1En:83": "Enoch's first dream vision: he sees the earth swallowed up into a great abyss. His grandfather Mahalalel tells him to pray. The vision is of the coming Flood — seen before it happens.",
+    "1En:85": "The Animal Apocalypse begins. Adam is a white bull, Eve a white heifer. Cain is a black bull, Abel a red bull. The entire history of Israel is retold as an animal fable. Foreigners are wild beasts. Angels are men or stars.",
+    "1En:90": "The Animal Apocalypse's climax. A great white bull is born (the Messiah). All animals are transformed into white cattle. The symbolic history ends with universal transformation. A remarkable vision of eschatological restoration.",
+    "1En:91": "The Apocalypse of Weeks begins (91:11-17 + chapter 93). All of history divided into ten 'weeks.' Scholars note the text was originally disordered — the end of the apocalypse is in chapter 91, the beginning in chapter 93.",
+    "1En:93": "The Apocalypse of Weeks proper. First week: Enoch. Second: the Flood. Third: Abraham. Fourth: Sinai. Fifth: the Temple. Sixth: blindness (the exile). Seventh: apostasy (the present age). Eighth-tenth: judgment and new creation.",
+    "1En:94": "The social critique begins. 'Woe to you who build your houses with the labor of others.' 'Woe to you who acquire gold and silver unjustly.' 'Woe to you who pervert the words of truth.' The voice of the oppressed poor.",
+    "1En:106": "The birth of Noah. He is born luminous — his body lights up the room. He opens his mouth and blesses God. His father Lamech fears the child is from the Watchers. The story links the Watcher narrative to the Flood narrative through Noah's miraculous birth.",
+    "Jub:1": "Moses on Mount Sinai. God commands the Angel of the Presence to dictate the entire history of the world from creation. Everything that follows is framed as angelic revelation to Moses — the most authoritative possible pedigree.",
+    "Jub:2": "Creation retold. Twenty-two works in six days — matching the twenty-two letters of the Hebrew alphabet. The angels are created on the first day. They keep the Sabbath in heaven before humans exist on earth. Calendar theology begins here.",
+    "Jub:4": "Enoch, the seventh from Adam, is taken to the Garden of Eden. He writes the judgment of the world. He is 'the first among men that are born on earth who learned writing and knowledge and wisdom.' Jubilees claims literacy began with Enoch.",
+    "Jub:5": "God judges the Watchers. Their children (the giants) kill each other. The Flood is decreed. The theological logic: angelic transgression corrupted all flesh, so all flesh must be destroyed. Only Noah found favor.",
+    "Jub:6": "Noah's covenant after the Flood. The 364-day calendar is revealed as eternal statute. The Feast of Weeks (Shavuot/Pentecost) is traced to this covenant — not to Sinai. Jubilees consistently backdates religious institutions to the patriarchs.",
+    "Jub:10": "The binding of demons. Noah's grandchildren are tormented by evil spirits. God orders them all bound. But Mastema (the chief demon) asks to keep one-tenth for testing humanity. God agrees. This is Jubilees' answer to the problem of evil after the Flood.",
+    "Jub:11": "Abraham's childhood. Young Abraham watches ravens devouring seed-grain and invents a seed-planting device that buries the seed. He debates astronomy with his father and deduces that the stars are not gods. A rationalist origin story for monotheism.",
+    "Jub:12": "God restores Hebrew to Abraham. Hebrew was the language of creation, spoken by all creatures before Babel. After Babel, only Abraham receives it back. The 'original language' motif — Hebrew as the tongue of paradise.",
+    "Jub:15": "Circumcision legislation. More severe than Genesis 17: circumcision on the eighth day is absolute. Angels were created circumcised. The Philistines and the Edomites are uncircumcised by nature and by destiny. Sharp ethnic boundary-drawing.",
+    "Jub:17": "The binding of Isaac — but Mastema, not God, proposes the test. Compare Job 1-2, where Satan proposes Job's testing. In Jubilees' theology, God does not directly test; the adversary does. A significant theological shift from Genesis 22.",
+    "Jub:23": "Abraham's death and the apocalypse of declining lifespans. From this point, life gets shorter, evil increases, children rebel against parents. But after the worst tribulation, lifespans will increase again toward 1,000 years. Eschatological hope.",
+    "Jub:32": "Levi receives the priesthood at Bethel. Jacob tithes and Levi is tenth — making Levi the tithe. This is the theological origin of the Levitical priesthood according to Jubilees, placed centuries before Sinai.",
+    "Jub:48": "The Exodus plagues. In Jubilees, Mastema actively aids the Egyptian magicians. The contest is cosmic: the Angel of the Presence vs. Mastema. When the firstborn die, Mastema is bound. When the Egyptians pursue, Mastema is released to harden their hearts.",
+    "Jub:49": "The Passover rules — the most detailed in Jewish literature. The lamb must be eaten in the Temple (not houses). No bone broken. No leftover allowed. All males from twenty years must observe it. The 364-day calendar dates are mandatory.",
+    "Jub:50": "Jubilees ends with Sabbath law. The death penalty for: carrying burdens, drawing water, lighting fire, riding animals, traveling by boat, striking animals, catching animals, fasting, or making war on the Sabbath. The strictest Sabbath code ever written.",
+    "KN:1": "The Glory of Kings opens with the wisdom of Solomon. The Ethiopian tradition claims the Ark of the Covenant was brought to Axum by Menelik I, son of Solomon and the Queen of Sheba. This is the founding narrative of Ethiopian civilization.",
+    "KN:21": "Tamrin, a merchant of Queen Makeda, visits Jerusalem and witnesses Solomon's wisdom. He returns to Ethiopia with reports that inspire the Queen to journey to Solomon herself. The commercial networks of the ancient world as vehicle for divine purpose.",
+    "KN:28": "Makeda arrives in Jerusalem. She is overwhelmed by Solomon's wisdom and converts from sun-worship to the God of Israel. 1 Kings 10 in a few verses; the Kebra Nagast builds an entire civilization on this encounter.",
+    "KN:30": "Solomon desires Makeda. The seduction narrative is frank: Solomon swears not to take her by force, but serves her spicy food and places water by her bed. When she drinks, he holds her to her oath. Statecraft as love story.",
+    "KN:32": "Menelik I is conceived. The union of Solomon and Makeda produces the heir who will transfer the covenant from Israel to Ethiopia. Political theology: the Solomonic dynasty's legitimacy rests on this night.",
+    "KN:52": "Menelik journeys to Jerusalem. Solomon recognizes his son and offers him the throne of Israel. Menelik refuses — his kingdom is Ethiopia. Solomon anoints him king. The two kingdoms, one lineage.",
+    "KN:84": "The Ark departs Jerusalem. Azariah removes the Ark from the Holy of Holies. It flies through the air. The Ark chooses Ethiopia. Solomon discovers the loss and mourns, but God tells him it was ordained. The most dramatic chapter in the book.",
+    "KN:95": "Theological justification: Ethiopia is the new Israel. The covenant has been transferred. The line of Judah continues through Menelik. The Ark resides in Axum. Ethiopia is not a gentile nation — it is the continuation of the chosen people.",
+    "KN:113": "Christological interpretation: the Kebra Nagast reads all of salvation history as leading to Ethiopia. Christ came from the line of David through Solomon. The Ethiopian church inherits both testaments. Supersessionist theology at its most complete.",
+    "4Bar:1": "Jerusalem falls. God tells Jeremiah to leave the city. Jeremiah buries the temple vessels. The pattern of sacred objects leaving Jerusalem before destruction — a theme shared with the Kebra Nagast.",
+    "4Bar:3": "Abimelech (Ebed-Melech the Ethiopian, from Jeremiah 38) is sent to gather figs. He falls asleep and wakes 66 years later. His figs are still fresh. Time is irrelevant to God's purposes. The Rip van Winkle of the Bible.",
+    "4Bar:5": "Baruch sends a letter to Jeremiah in Babylon. An eagle carries it. The eagle rests on a pillar and is revived by the letter's holiness. One of the most unusual scenes in biblical literature — an avian postal service.",
+    "4Bar:9": "The return from exile. The people cross the Jordan. Some who will not abandon their Babylonian wives are separated and eventually found Samaria. The origins of the Samaritan schism explained through interfaith marriage.",
+    "AscIsa:1": "Isaiah's martyrdom under Manasseh. The prophet is hiding in a hollow tree. Manasseh has the tree sawn in two. Isaiah does not cry out because the Holy Spirit sustains him. Hebrews 11:37 likely references this tradition.",
+    "AscIsa:3": "Isaiah's heavenly ascent begins. An angel takes him through seven heavens. In each heaven, the glory increases. The angels of the lower heavens quarrel; the upper heavens are peaceful. A vision of cosmic hierarchy.",
+    "AscIsa:5": "The seventh heaven. Isaiah sees God and the pre-incarnate Christ. He is told the plan of salvation: the Beloved will descend through all seven heavens disguised as an angel, becoming less glorious at each level, until he reaches earth as a man.",
+    "3Meq:1": "The Ethiopian Meqabyan open. These books share a name with the Greek Maccabees but nothing else — no Hasmoneans, no Antiochus, no Jerusalem Temple. They are Ethiopian compositions about martyrs named Meqabis, Abisa, and Seyon.",
+    "2Meq:1": "The second book of Ethiopian Maccabees. Continues the theme of faithfulness under persecution. The theology is distinctly Ethiopian: martyrdom as spiritual warfare, the body as temple, death as victory.",
+    "1Meq:1": "1 Maccabees opens with Alexander the Great and the Hellenistic crisis. The Hasmonean revolt begins. This is the Greek Maccabean text — included in the Ethiopian canon alongside the completely different Ethiopian Meqabyan.",
+    "Tob:1": "Tobit in the Assyrian exile. A story of faithfulness in diaspora, angelic intervention (Raphael), demonic threat (Asmodeus), and the healing power of fish organs. Beloved in Ethiopian tradition for its emphasis on almsgiving and family loyalty.",
+    "Jdt:1": "Judith opens with Nebuchadnezzar sending Holofernes to punish nations that refused alliance. A woman will save Israel — not by force, but by wisdom, beauty, and courage. The Ethiopian tradition honors Judith as a model of female heroism.",
+    "Sir:24": "The great Wisdom poem. Wisdom speaks in her own voice: 'I came forth from the mouth of the Most High.' She pitches her tent in Israel and is identified with 'the book of the covenant of the Most High God' — Wisdom IS Torah.",
+    "Sir:44": "'Let us now praise famous men.' The Hymn to the Ancestors begins — Enoch, Noah, Abraham, Moses, Aaron, Phinehas, Joshua, Samuel, David, Solomon, Elijah, Hezekiah, Isaiah, and culminates with Simon son of Onias, the high priest Ben Sira knew personally.",
+    "Wis:7": "Solomon speaks of Wisdom: 'She is a breath of the power of God, a pure emanation of the glory of the Almighty.' The highest personification of Wisdom in Jewish literature. She is 'an image of his goodness' — language that shaped Christian Logos theology.",
+    "Job:1": "The heavenly court scene. God asks the Accuser (ha-satan) about Job. The wager is made. Job's faithfulness will be tested to destruction. The question that frames the entire book: is disinterested righteousness possible?",
+    "Job:38": "God answers from the whirlwind. 'Where were you when I laid the foundation of the earth?' Four chapters of cosmic questions that never answer Job's complaint. The response is not explanation but overwhelming encounter.",
+    "Eccl:1": "'Vanity of vanities, says the Preacher.' Hebel — vapor, breath, absurdity. The Preacher has tried wisdom, pleasure, wealth, and work. All is vapor. Time is cyclical. There is nothing new under the sun.",
+    "Song:1": "'I am black and beautiful, O daughters of Jerusalem.' The Ethiopian church reads this with special affection — the beloved identifies herself as dark-skinned. The Song is read allegorically as the love between God and the church, or between Christ and the soul.",
+    "Ezra:1": "The Book of Ezra (incorporating material from Ezra-Nehemiah). The return from Babylon and the rebuilding of the Temple. In the Ethiopian tradition, this includes apocalyptic material not found in the Hebrew Ezra.",
+    "ApEz:1": "The Apocalypse of Ezra. Ezra asks God the questions Job asked: why do the righteous suffer? Why does Israel serve pagans? God replies with visions of the coming age. A bridge between prophetic theology and full apocalyptic.",
+    "Lef:1": "The Bandlet of Righteousness. A mystical text worn as a protective amulet scroll in Ethiopian tradition. Blends theology with material devotion — the word literally becomes armor for the body.",
+    "MysHE:1": "The Mysteries of Heaven and Earth. Ethiopian cosmological speculation about the structure of creation, the nature of the Trinity, and the hidden architecture of reality. Esoteric tradition preserved in the canonical Bible.",
+    "Teach:1": "The Teaching of Mysteries. Hidden knowledge revealed to the faithful. Part of the Ethiopian tradition of esoteric wisdom within orthodox Christianity.",
+    "TestLd:1": "The Testament of Our Lord. Church order attributed to Christ himself. Contains liturgical instructions, apocalyptic prophecy, and community rules. A text that shapes Ethiopian Christian practice.",
+    "Sinod:1": "The Sinodos of Qefreya. Ecclesiastical canons and church legislation. The legal backbone of the Ethiopian Orthodox Tewahedo Church — the rules by which the community governs itself.",
+    "Synax:1": "The Synaxarion — the Ethiopian book of saints. Daily commemorations throughout the liturgical year. Every day has its saints, its readings, its remembrance. The calendar as theology.",
+    "Gen:1": "In the beginning, God created the heavens and the earth. The foundation text. Read alongside Jubilees 2 for the angelic retelling, and alongside 1 Enoch 72 for the cosmic calendar that organizes creation's time.",
+    "Gen:6": "The sons of God saw the daughters of men. Four verses that generated an entire apocalyptic tradition. Read alongside 1 Enoch 6-16 for the full Watchers narrative and Jubilees 5 for the theological interpretation.",
+    "Gen:12": "The call of Abraham. In Genesis, it comes abruptly: 'Go from your country.' In Jubilees 11-12, it follows years of Abraham reasoning his way to monotheism and literally burning his father's idols.",
+    "Gen:22": "The binding of Isaac. In Genesis, God tests Abraham. In Jubilees 17, Mastema proposes the test. The same event, two radically different theologies of divine testing.",
+    "Exod:12": "The Passover. Read alongside Jubilees 49 for the strictest version of Passover law in Jewish literature. Jubilees insists the lamb must be eaten in the sanctuary, dates everything to the 364-day calendar, and applies the death penalty for violations.",
+    "Kings:3": "Solomon asks for wisdom. Read alongside Kebra Nagast 1-20, where Solomon's fame reaches Ethiopia and sets the entire national epic in motion.",
+    "Kings:10": "The Queen of Sheba visits Solomon. In Kings, a brief diplomatic visit. In the Kebra Nagast, the encounter that produces the Solomonic dynasty and transfers the Ark of the Covenant to Ethiopia.",
+    "Isa:6": "Isaiah's throne vision in the Temple. Read alongside Ascension of Isaiah 3-5 for the prophet's journey through seven heavens, and alongside 1 Enoch 14 for the earliest Jewish throne vision.",
+    "Isa:53": "The Suffering Servant. Ethiopian Christianity reads this as direct prophecy of Christ — the Ethiopian eunuch in Acts 8 was reading this very passage when Philip met him. The Ethiopian interpretive tradition has always been Christological here.",
+    "Joel:2": "The outpouring of the Spirit: 'Your sons and your daughters shall prophesy, your old men shall dream dreams.' Quoted by Peter at Pentecost (Acts 2). The Ethiopian church sees Pentecost as the fulfillment of Joel's prophecy for all nations.",
+    "Jonah:1": "God sends Jonah to Nineveh. He flees. The book's message — that God's mercy extends beyond Israel — resonates with the Ethiopian tradition's claim that God chose Ethiopia as covenant partner alongside (and then instead of) Israel.",
+    "Lam:1": "How lonely sits the city that was full of people. Jerusalem's destruction lamented. Read alongside 4 Baruch 1 for Jeremiah's perspective, and alongside Kebra Nagast 84 for the Ethiopian interpretation: the Ark had already left before destruction came.",
+    "Clem:1": "The Epistles of Peter to Clement. Early church correspondence preserved in the Ethiopian tradition. Part of the broader Christian literature that the Ethiopian canon chose to preserve when other traditions let it go.",
+    "Prov:1": "The fear of the Lord is the beginning of knowledge. Proverbs opens the wisdom tradition. Read alongside Sirach 1 for the same principle grounded in Torah, and alongside Wisdom 7 for its cosmic expansion.",
+    "Prov:8": "Wisdom speaks: 'The Lord created me at the beginning of his work.' Personified Wisdom as co-creator. This passage, alongside Sirach 24 and Wisdom 7, forms the Jewish wisdom Christology that shaped the Gospel of John's Logos theology."
+  }
+}

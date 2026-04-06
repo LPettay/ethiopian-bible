@@ -1,0 +1,3465 @@
+{
+  "book": "Lev",
+  "chapter": 11,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "ወነበቦሙ ፡ እግዚአብሔር ፡ ለሙሴ ፡ ወለአሮን ፡ ወይቤሎሙ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወነበቦሙ",
+          "t": "wänäbäbomu",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "ለሙሴ",
+          "t": "lämuse",
+          "gl": ""
+        },
+        {
+          "g": "ወለአሮን",
+          "t": "wäläʾäronə",
+          "gl": ""
+        },
+        {
+          "g": "ወይቤሎሙ",
+          "t": "wäyəbelomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the Lord spoke to Moses and Aaron, saying,",
+        "kjv": "And the LORD spake unto Moses and to Aaron, saying unto them,"
+      }
+    },
+    {
+      "num": 2,
+      "geez": "ንግርዎሙ ፡ ለደቂቀ ፡ እስራኤል ፡ ወበልዎሙ ፡ ዝንቱ ፡ ውእቱ ፡ እንስሳ ፡ ዘትበልዑ ፡ እምውስተ ፡ ኵሉ ፡ እንስሳ ፡\n                  ዘሀሎ ፡ ዲበ ፡ ምድር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ንግርዎሙ",
+          "t": "nəgərəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "ወበልዎሙ",
+          "t": "wäbäləwomu",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "እንስሳ",
+          "t": "ʾənəsəsa",
+          "gl": ""
+        },
+        {
+          "g": "ዘትበልዑ",
+          "t": "zätəbäləʿu",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "እንስሳ",
+          "t": "ʾənəsəsa",
+          "gl": ""
+        },
+        {
+          "g": "ዘሀሎ",
+          "t": "zähälo",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Speak ye to the sons of Israel, saying, These are the beasts which ye shall eat of all beasts that are upon the earth.",
+        "kjv": "Speak unto the children of Israel, saying, These are the beasts which ye shall eat among all the beasts that are on the earth."
+      }
+    },
+    {
+      "num": 3,
+      "geez": "ኵሉ ፡ እንስሳ ፡ ዘንፉቅ ፡ ሰኰናሁ ፡ ወሥጡቅ ፡ ጽፍሩ ፡ ማእከሉ ፡ ወእንተ ፡ ክልኤቲ ፡ ውእቱ ፡ ወዘይትመሠኳዕ ፡\n                  እምውስተ ፡ እንስሳ ፡ ኪያሁ ፡ ብልዑ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "እንስሳ",
+          "t": "ʾənəsəsa",
+          "gl": ""
+        },
+        {
+          "g": "ዘንፉቅ",
+          "t": "zänəfuqə",
+          "gl": ""
+        },
+        {
+          "g": "ሰኰናሁ",
+          "t": "säkwänahu",
+          "gl": ""
+        },
+        {
+          "g": "ወሥጡቅ",
+          "t": "wäśəṭuqə",
+          "gl": ""
+        },
+        {
+          "g": "ጽፍሩ",
+          "t": "ṣəfəru",
+          "gl": ""
+        },
+        {
+          "g": "ማእከሉ",
+          "t": "maʾəkälu",
+          "gl": ""
+        },
+        {
+          "g": "ወእንተ",
+          "t": "wäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ክልኤቲ",
+          "t": "kələʾeti",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ወዘይትመሠኳዕ",
+          "t": "wäzäyətəmäśäkwaʿə",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "እንስሳ",
+          "t": "ʾənəsəsa",
+          "gl": ""
+        },
+        {
+          "g": "ኪያሁ",
+          "t": "kiyahu",
+          "gl": ""
+        },
+        {
+          "g": "ብልዑ",
+          "t": "bələʿu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Every beast parting the hoof and making divisions of two claws, and chewing the cud among beasts, these ye shall eat.",
+        "kjv": "Whatsoever parteth the hoof, and is clovenfooted, and cheweth the cud, among the beasts, that shall ye eat."
+      }
+    },
+    {
+      "num": 4,
+      "geez": "ወዝንቱ ፡ ባሕቱ ፡ ዘኢትበልዑ ፡ እምውስተ ፡ ዘይትመሠኳዕ ፡ ወእምነ ፡ ዘንፉቅ ፡ ሰኰናሁ ፡ ገመል ፡ እስመ ፡ ይትመሠኳዕ\n                  ፡ ወኢኮነ ፡ ንፉቀ ፡ ሰኰናሁ ፡ ዝንቱ ፡ ርኩስ ፡ ውእቱ ፡ ለክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዝንቱ",
+          "t": "wäzənətu",
+          "gl": ""
+        },
+        {
+          "g": "ባሕቱ",
+          "t": "baḥətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘኢትበልዑ",
+          "t": "zäʾitəbäləʿu",
+          "gl": ""
+        },
+        {
+          "g": "እምውስተ",
+          "t": "ʾəməwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዘይትመሠኳዕ",
+          "t": "zäyətəmäśäkwaʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ዘንፉቅ",
+          "t": "zänəfuqə",
+          "gl": ""
+        },
+        {
+          "g": "ሰኰናሁ",
+          "t": "säkwänahu",
+          "gl": ""
+        },
+        {
+          "g": "ገመል",
+          "t": "gämälə",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ይትመሠኳዕ",
+          "t": "yətəmäśäkwaʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢኮነ",
+          "t": "wäʾikonä",
+          "gl": ""
+        },
+        {
+          "g": "ንፉቀ",
+          "t": "nəfuqä",
+          "gl": ""
+        },
+        {
+          "g": "ሰኰናሁ",
+          "t": "säkwänahu",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ርኩስ",
+          "t": "rəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But of these ye shall not eat, of those that chew the cud, and of those that part the hoofs, and divide claws; the camel, because it chews the cud, but does not divide the hoof, this is unclean to you.",
+        "kjv": "Nevertheless these shall ye not eat of them that chew the cud, or of them that divide the hoof: as the camel, because he cheweth the cud, but divideth not the hoof; he is unclean unto you."
+      }
+    },
+    {
+      "num": 5,
+      "geez": "ወደሲጶዳሂ ፡ እስመ ፡ ይትመሠኳዕ ፡ ወኢኮነ ፡ ንፉቀ ፡ ሰኰናሁ ፡ ወዝንቱኒ ፡ ርኩስ ፡ ውእቱ ፡ ለክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወደሲጶዳሂ",
+          "t": "wädäsiṗodahi",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ይትመሠኳዕ",
+          "t": "yətəmäśäkwaʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢኮነ",
+          "t": "wäʾikonä",
+          "gl": ""
+        },
+        {
+          "g": "ንፉቀ",
+          "t": "nəfuqä",
+          "gl": ""
+        },
+        {
+          "g": "ሰኰናሁ",
+          "t": "säkwänahu",
+          "gl": ""
+        },
+        {
+          "g": "ወዝንቱኒ",
+          "t": "wäzənətuni",
+          "gl": ""
+        },
+        {
+          "g": "ርኩስ",
+          "t": "rəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the rabbit, because it chews the cud, but does not divide the hoof, this is unclean to you.",
+        "kjv": "And the coney, because he cheweth the cud, but divideth not the hoof; he is unclean unto you."
+      }
+    },
+    {
+      "num": 6,
+      "geez": "ወኪሮግርሊዮስ[ኒ] ፡ እስመ ፡ ይትመሠኳዕ ፡ ወኢኮነ ፡ ንፉቀ ፡ ሰኰናሁ ፡ ወውእቱኒ ፡ ርኩስ ፡ ውእቱ ፡ ለክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኪሮግርሊዮስኒ",
+          "t": "wäkirogərəliyosəni",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ይትመሠኳዕ",
+          "t": "yətəmäśäkwaʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢኮነ",
+          "t": "wäʾikonä",
+          "gl": ""
+        },
+        {
+          "g": "ንፉቀ",
+          "t": "nəfuqä",
+          "gl": ""
+        },
+        {
+          "g": "ሰኰናሁ",
+          "t": "säkwänahu",
+          "gl": ""
+        },
+        {
+          "g": "ወውእቱኒ",
+          "t": "wäwəʾətuni",
+          "gl": ""
+        },
+        {
+          "g": "ርኩስ",
+          "t": "rəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the hare, because it does not chew the cud, and does not divide the hoof, this is unclean to you.",
+        "kjv": "And the hare, because he cheweth the cud, but divideth not the hoof; he is unclean unto you."
+      }
+    },
+    {
+      "num": 7,
+      "geez": "ወሐራውያኒ ፡ እስመ ፡ ንፉቅ ፡ ሰኰናሁ ፡ ወሥጡቅ ፡ እምነ ፡ ማእከለ ፡ ጽፈሪሁ ፡ ወኢይትመሠኳዕ ፡ ወውእቱኒ ፡ ርኩስ ፡\n                  ውእቱ ፡ ለክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሐራውያኒ",
+          "t": "wäḥärawəyani",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ንፉቅ",
+          "t": "nəfuqə",
+          "gl": ""
+        },
+        {
+          "g": "ሰኰናሁ",
+          "t": "säkwänahu",
+          "gl": ""
+        },
+        {
+          "g": "ወሥጡቅ",
+          "t": "wäśəṭuqə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ማእከለ",
+          "t": "maʾəkälä",
+          "gl": ""
+        },
+        {
+          "g": "ጽፈሪሁ",
+          "t": "ṣəfärihu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይትመሠኳዕ",
+          "t": "wäʾiyətəmäśäkwaʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወውእቱኒ",
+          "t": "wäwəʾətuni",
+          "gl": ""
+        },
+        {
+          "g": "ርኩስ",
+          "t": "rəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the swine, because this animal divides the hoof, and makes claws of the hoof, and it does not chew the cud, is unclean to you.",
+        "kjv": "And the swine, though he divide the hoof, and be clovenfooted, yet he cheweth not the cud; he is unclean to you."
+      }
+    },
+    {
+      "num": 8,
+      "geez": "እምነ ፡ ሥጋሆሙ ፡ ኢትብልዑ ፡ ወበድኖሙኒ ፡ ኢትግስሱ ፡ እስመ ፡ ርኩሳን ፡ ውእቶሙ ፡ ለክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ሥጋሆሙ",
+          "t": "śəgahomu",
+          "gl": ""
+        },
+        {
+          "g": "ኢትብልዑ",
+          "t": "ʾitəbələʿu",
+          "gl": ""
+        },
+        {
+          "g": "ወበድኖሙኒ",
+          "t": "wäbädənomuni",
+          "gl": ""
+        },
+        {
+          "g": "ኢትግስሱ",
+          "t": "ʾitəgəsəsu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ርኩሳን",
+          "t": "rəkusanə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቶሙ",
+          "t": "wəʾətomu",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Ye shall not eat of their flesh, and ye shall not touch their carcases; these are unclean to you.",
+        "kjv": "Of their flesh shall ye not eat, and their carcase shall ye not touch; they are unclean to you."
+      }
+    },
+    {
+      "num": 9,
+      "geez": "ወዝንቱ ፡ ዘትበልዑ ፡ እምነ ፡ ኵሉ ፡ ዘውስተ ፡ ማይ ፡ ኵሎ ፡ ዘቦ ፡ ክንፈ ፡ ወቅሣረ ፡ ዘሀሎ ፡ ውስተ ፡ ማይ ፡\n                  ወውስተ ፡ ባሕር ፡ ወውስተ ፡ አፍላግ ፡ ውእቱ ፡ ዘትበልዑ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዝንቱ",
+          "t": "wäzənətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘትበልዑ",
+          "t": "zätəbäləʿu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘውስተ",
+          "t": "zäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ማይ",
+          "t": "mayə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሎ",
+          "t": "kwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ዘቦ",
+          "t": "zäbo",
+          "gl": ""
+        },
+        {
+          "g": "ክንፈ",
+          "t": "kənəfä",
+          "gl": ""
+        },
+        {
+          "g": "ወቅሣረ",
+          "t": "wäqəśarä",
+          "gl": ""
+        },
+        {
+          "g": "ዘሀሎ",
+          "t": "zähälo",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ማይ",
+          "t": "mayə",
+          "gl": ""
+        },
+        {
+          "g": "ወውስተ",
+          "t": "wäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ባሕር",
+          "t": "baḥərə",
+          "gl": ""
+        },
+        {
+          "g": "ወውስተ",
+          "t": "wäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አፍላግ",
+          "t": "ʾäfəlagə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘትበልዑ",
+          "t": "zätəbäləʿu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And these are what ye shall eat of all that are in the waters: all things that have fins and scales in the waters, and in the seas, and in the brooks, these ye shall eat.",
+        "kjv": "These shall ye eat of all that are in the waters: whatsoever hath fins and scales in the waters, in the seas, and in the rivers, them shall ye eat."
+      }
+    },
+    {
+      "num": 10,
+      "geez": "ወኵሉ ፡ ዘአልቦ ፡ ክንፈ ፡ ወቅሣረ ፡ ዘውስተ ፡ ማይ ፡ ወዘውስተ ፡ ባሕር ፡ ወዘውስተ ፡ አፍላግ ፡ እምነ ፡ ኵሉ ፡\n                  ዘይጐሥዕ ፡ ማይ ፡ ወእምነ ፡ ኵሉ ፡ ነፍስ ፡ እንተ ፡ ሕያውት ፡ ውስተ ፡ ማይ ፡ ርኩስ ፡ ውእቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘአልቦ",
+          "t": "zäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ክንፈ",
+          "t": "kənəfä",
+          "gl": ""
+        },
+        {
+          "g": "ወቅሣረ",
+          "t": "wäqəśarä",
+          "gl": ""
+        },
+        {
+          "g": "ዘውስተ",
+          "t": "zäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ማይ",
+          "t": "mayə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘውስተ",
+          "t": "wäzäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ባሕር",
+          "t": "baḥərə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘውስተ",
+          "t": "wäzäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "አፍላግ",
+          "t": "ʾäfəlagə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይጐሥዕ",
+          "t": "zäyəgwäśəʿə",
+          "gl": ""
+        },
+        {
+          "g": "ማይ",
+          "t": "mayə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ነፍስ",
+          "t": "näfəsə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ሕያውት",
+          "t": "ḥəyawətə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ማይ",
+          "t": "mayə",
+          "gl": ""
+        },
+        {
+          "g": "ርኩስ",
+          "t": "rəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And all things which have not fins or scales in the water, or in the seas, and in the brooks, of all which the waters produce, and of every soul living in the water, are an abomination; and they shall be abominations to you.",
+        "kjv": "And all that have not fins and scales in the seas, and in the rivers, of all that move in the waters, and of any living thing which is in the waters, they shall be an abomination unto you:"
+      }
+    },
+    {
+      "num": 11,
+      "geez": "ወርኩሰ ፡ ይኩንክሙ ፡ እምነ ፡ ሥጋሆሙ ፡ ኢትብልዑ ፡ ወበድኖሙኒ ፡ አስቆርሩ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወርኩሰ",
+          "t": "wärəkusä",
+          "gl": ""
+        },
+        {
+          "g": "ይኩንክሙ",
+          "t": "yəkunəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ሥጋሆሙ",
+          "t": "śəgahomu",
+          "gl": ""
+        },
+        {
+          "g": "ኢትብልዑ",
+          "t": "ʾitəbələʿu",
+          "gl": ""
+        },
+        {
+          "g": "ወበድኖሙኒ",
+          "t": "wäbädənomuni",
+          "gl": ""
+        },
+        {
+          "g": "አስቆርሩ",
+          "t": "ʾäsəqorəru",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Ye shall not eat of their flesh, and ye shall abhor their carcases.",
+        "kjv": "They shall be even an abomination unto you; ye shall not eat of their flesh, but ye shall have their carcases in abomination."
+      }
+    },
+    {
+      "num": 12,
+      "geez": "ወኵሉ ፡ ዘአልቦ ፡ ክንፈ ፡ ወቅሣረ ፡ እምነ ፡ ዘውስተ ፡ ማይ ፡ ርኩስ ፡ ውእቱ ፡ ለክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘአልቦ",
+          "t": "zäʾäləbo",
+          "gl": ""
+        },
+        {
+          "g": "ክንፈ",
+          "t": "kənəfä",
+          "gl": ""
+        },
+        {
+          "g": "ወቅሣረ",
+          "t": "wäqəśarä",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ዘውስተ",
+          "t": "zäwəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ማይ",
+          "t": "mayə",
+          "gl": ""
+        },
+        {
+          "g": "ርኩስ",
+          "t": "rəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And all things that have not fins or scales of those that are in the waters, these are an abomination to you.",
+        "kjv": "Whatsoever hath no fins nor scales in the waters, that shall be an abomination unto you."
+      }
+    },
+    {
+      "num": 13,
+      "geez": "ወዝንቱ ፡ ዘታስቆርሩ ፡ እምነ ፡ አዕዋፍ ፡ ወዘኢትበልዑ ፡ እስመ ፡ ርኩስ ፡ ውእቱ ፡ ንስር ፡ ወግሪጳ ፡ ወአልያጦን ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዝንቱ",
+          "t": "wäzənətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘታስቆርሩ",
+          "t": "zätasəqorəru",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "አዕዋፍ",
+          "t": "ʾäʿəwafə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘኢትበልዑ",
+          "t": "wäzäʾitəbäləʿu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ርኩስ",
+          "t": "rəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ንስር",
+          "t": "nəsərə",
+          "gl": ""
+        },
+        {
+          "g": "ወግሪጳ",
+          "t": "wägəriṗa",
+          "gl": ""
+        },
+        {
+          "g": "ወአልያጦን",
+          "t": "wäʾäləyaṭonə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And these are the things which ye shall abhor of birds, and they shall not be eaten, they are an abomination: the eagle and the ossifrage, and the sea-eagle.",
+        "kjv": "And these are they which ye shall have in abomination among the fowls; they shall not be eaten, they are an abomination: the eagle, and the ossifrage, and the ospray,"
+      }
+    },
+    {
+      "num": 14,
+      "geez": "ወ[ጊጳ] ፡ ወግለውቃ ፡ ወሆባይ ፡ ወኵሉ ፡ ዘአምሳሉ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወጊጳ",
+          "t": "wägiṗa",
+          "gl": ""
+        },
+        {
+          "g": "ወግለውቃ",
+          "t": "wägəläwəqa",
+          "gl": ""
+        },
+        {
+          "g": "ወሆባይ",
+          "t": "wähobayə",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘአምሳሉ",
+          "t": "zäʾäməsalu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And the vulture, and the kite, and the like to it;",
+        "kjv": "And the vulture, and the kite after his kind;"
+      }
+    },
+    {
+      "num": 15,
+      "geez": "ወቋዕ ፡ ወኵሉ ፡ ዘአምሳሉ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወቋዕ",
+          "t": "wäqwaʿə",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘአምሳሉ",
+          "t": "zäʾäməsalu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and the sparrow, and the owl, and the sea-mew, and the like to it:",
+        "kjv": "Every raven after his kind;"
+      }
+    },
+    {
+      "num": 16,
+      "geez": "ወሰገኖ ፡ ወኵሉ ፡ ዘአምሳሉ ፡ ወለሮን ፡ ወዘአምሳሉ ፡ ወጕዛ ፡ ወዘአምሳሉ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወሰገኖ",
+          "t": "wäsägäno",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘአምሳሉ",
+          "t": "zäʾäməsalu",
+          "gl": ""
+        },
+        {
+          "g": "ወለሮን",
+          "t": "wäläronə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘአምሳሉ",
+          "t": "wäzäʾäməsalu",
+          "gl": ""
+        },
+        {
+          "g": "ወጕዛ",
+          "t": "wägwəza",
+          "gl": ""
+        },
+        {
+          "g": "ወዘአምሳሉ",
+          "t": "wäzäʾäməsalu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and every raven, and the birds like it, and the hawk and his like,",
+        "kjv": "And the owl, and the night hawk, and the cuckow, and the hawk after his kind,"
+      }
+    },
+    {
+      "num": 17,
+      "geez": "ወጉጓ ፡ ወቀጠራቅጤን ፡ ወኢብን ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወጉጓ",
+          "t": "wägugwa",
+          "gl": ""
+        },
+        {
+          "g": "ወቀጠራቅጤን",
+          "t": "wäqäṭäraqəṭenə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢብን",
+          "t": "wäʾibənə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and the night-raven and the cormorant and the stork,",
+        "kjv": "And the little owl, and the cormorant, and the great owl,"
+      }
+    },
+    {
+      "num": 18,
+      "geez": "ወጶርፍሪየና ፡ ወአድገ ፡ መረብ ፡ ወቀቀኖን ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወጶርፍሪየና",
+          "t": "wäṗorəfəriyäna",
+          "gl": ""
+        },
+        {
+          "g": "ወአድገ",
+          "t": "wäʾädəgä",
+          "gl": ""
+        },
+        {
+          "g": "መረብ",
+          "t": "märäbə",
+          "gl": ""
+        },
+        {
+          "g": "ወቀቀኖን",
+          "t": "wäqäqänonə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and the red-bill, and pelican, and swan,",
+        "kjv": "And the swan, and the pelican, and the gier eagle,"
+      }
+    },
+    {
+      "num": 19,
+      "geez": "ወአሮድዮን ፡ ወከራድርዮን ፡ ወዘይመስሎ ፡ ወኤጶጳ ፡ ወፅግነት ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወአሮድዮን",
+          "t": "wäʾärodəyonə",
+          "gl": ""
+        },
+        {
+          "g": "ወከራድርዮን",
+          "t": "wäkäradərəyonə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘይመስሎ",
+          "t": "wäzäyəmäsəlo",
+          "gl": ""
+        },
+        {
+          "g": "ወኤጶጳ",
+          "t": "wäʾeṗoṗa",
+          "gl": ""
+        },
+        {
+          "g": "ወፅግነት",
+          "t": "wäṣ́əgənätə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "and the heron, and the lapwing, and the like to it, and the hoopoe and the bat.",
+        "kjv": "And the stork, the heron after her kind, and the lapwing, and the bat."
+      }
+    },
+    {
+      "num": 20,
+      "geez": "ወኵሉ ፡ ዘይትሐወስ ፡ አዕዋፍ ፡ ዘየሐውር ፡ በአርባዕ ፡ ርኩስ ፡ ውእቱ ፡ ለክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይትሐወስ",
+          "t": "zäyətəḥäwäsə",
+          "gl": ""
+        },
+        {
+          "g": "አዕዋፍ",
+          "t": "ʾäʿəwafə",
+          "gl": ""
+        },
+        {
+          "g": "ዘየሐውር",
+          "t": "zäyäḥäwərə",
+          "gl": ""
+        },
+        {
+          "g": "በአርባዕ",
+          "t": "bäʾärəbaʿə",
+          "gl": ""
+        },
+        {
+          "g": "ርኩስ",
+          "t": "rəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And all winged creatures that creep, which go upon four feet, are abominations to you.",
+        "kjv": "All fowls that creep, going upon all four, shall be an abomination unto you."
+      }
+    },
+    {
+      "num": 21,
+      "geez": "አላ ፡ ዝንቱ ፡ ዘትበልፁ ፡ እምነ ፡ ዘይትሐወስ ፡ እምነ ፡ አዕዋፍ ፡ ዘየሐውር ፡ በአርባዕ ፡ ዘቦ ፡ አገዳ ፡ መልዕልተ\n                  ፡ እገሪሁ ፡ በዘ ፡ ይሠርር ፡ ቦቱ ፡ መልዕልተ ፡ ምድር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "አላ",
+          "t": "ʾäla",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘትበልፁ",
+          "t": "zätəbäləṣ́u",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ዘይትሐወስ",
+          "t": "zäyətəḥäwäsə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "አዕዋፍ",
+          "t": "ʾäʿəwafə",
+          "gl": ""
+        },
+        {
+          "g": "ዘየሐውር",
+          "t": "zäyäḥäwərə",
+          "gl": ""
+        },
+        {
+          "g": "በአርባዕ",
+          "t": "bäʾärəbaʿə",
+          "gl": ""
+        },
+        {
+          "g": "ዘቦ",
+          "t": "zäbo",
+          "gl": ""
+        },
+        {
+          "g": "አገዳ",
+          "t": "ʾägäda",
+          "gl": ""
+        },
+        {
+          "g": "መልዕልተ",
+          "t": "mäləʿələtä",
+          "gl": ""
+        },
+        {
+          "g": "እገሪሁ",
+          "t": "ʾəgärihu",
+          "gl": ""
+        },
+        {
+          "g": "በዘ",
+          "t": "bäzä",
+          "gl": ""
+        },
+        {
+          "g": "ይሠርር",
+          "t": "yəśärərə",
+          "gl": ""
+        },
+        {
+          "g": "ቦቱ",
+          "t": "botu",
+          "gl": ""
+        },
+        {
+          "g": "መልዕልተ",
+          "t": "mäləʿələtä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But these ye shall eat of the creeping winged animals, which go upon four feet, which have legs above their feet, to leap with on the earth.",
+        "kjv": "Yet these may ye eat of every flying creeping thing that goeth upon all four, which have legs above their feet, to leap withal upon the earth;"
+      }
+    },
+    {
+      "num": 22,
+      "geez": "ወዝንቱ ፡ ዘትበልዑ ፡ እምኔሁ ፡ ደገብያ ፡ ወዘአምሳሉ ፡ ወአ[ጣቃ]ን ፡ ወዘአምሳሉ ፡ ወኦፍዮማክን ፡ ወዘአምሳሉ ፡\n                  ወአንበጣ ፡ ወዘአምሳሉ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዝንቱ",
+          "t": "wäzənətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘትበልዑ",
+          "t": "zätəbäləʿu",
+          "gl": ""
+        },
+        {
+          "g": "እምኔሁ",
+          "t": "ʾəmənehu",
+          "gl": ""
+        },
+        {
+          "g": "ደገብያ",
+          "t": "dägäbəya",
+          "gl": ""
+        },
+        {
+          "g": "ወዘአምሳሉ",
+          "t": "wäzäʾäməsalu",
+          "gl": ""
+        },
+        {
+          "g": "ወአጣቃን",
+          "t": "wäʾäṭaqanə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘአምሳሉ",
+          "t": "wäzäʾäməsalu",
+          "gl": ""
+        },
+        {
+          "g": "ወኦፍዮማክን",
+          "t": "wäʾofəyomakənə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘአምሳሉ",
+          "t": "wäzäʾäməsalu",
+          "gl": ""
+        },
+        {
+          "g": "ወአንበጣ",
+          "t": "wäʾänəbäṭa",
+          "gl": ""
+        },
+        {
+          "g": "ወዘአምሳሉ",
+          "t": "wäzäʾäməsalu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And these of them ye shall eat: the caterpillar and his like, and the attacus and his like, and the cantharus and his like, and the locust and his like.",
+        "kjv": "Even these of them ye may eat; the locust after his kind, and the bald locust after his kind, and the beetle after his kind, and the grasshopper after his kind."
+      }
+    },
+    {
+      "num": 23,
+      "geez": "ወእምነ ፡ ዘይሠርር ፡ ዘአርባዕቱ ፡ እገሪሁ ፡ ርኵስ ፡ ውእቱ ፡ ለክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ዘይሠርር",
+          "t": "zäyəśärərə",
+          "gl": ""
+        },
+        {
+          "g": "ዘአርባዕቱ",
+          "t": "zäʾärəbaʿətu",
+          "gl": ""
+        },
+        {
+          "g": "እገሪሁ",
+          "t": "ʾəgärihu",
+          "gl": ""
+        },
+        {
+          "g": "ርኵስ",
+          "t": "rəkwəsə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Every creeping thing from among the birds, which has four feet, is an abomination to you.",
+        "kjv": "But all other flying creeping things, which have four feet, shall be an abomination unto you."
+      }
+    },
+    {
+      "num": 24,
+      "geez": "ወቦሙ ፡ ትረኵሱ ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወቦሙ",
+          "t": "wäbomu",
+          "gl": ""
+        },
+        {
+          "g": "ትረኵሱ",
+          "t": "təräkwəsu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And by these ye shall be defiled; every one that touches their carcases shall be unclean till the evening.",
+        "kjv": "And for these ye shall be unclean: whosoever toucheth the carcase of them shall be unclean until the even."
+      }
+    },
+    {
+      "num": 25,
+      "geez": "ኵሉ ፡ ዘገሰሰ ፡ በድኖሙ ፡ ርኩስ ፡ ውእቱ ፡ እስከ ፡ ሰርክ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘገሰሰ",
+          "t": "zägäsäsä",
+          "gl": ""
+        },
+        {
+          "g": "በድኖሙ",
+          "t": "bädənomu",
+          "gl": ""
+        },
+        {
+          "g": "ርኩስ",
+          "t": "rəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ሰርክ",
+          "t": "särəkə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And every one that takes of their dead bodies shall wash his garments, and shall be unclean till the evening.",
+        "kjv": "And whosoever beareth ought of the carcase of them shall wash his clothes, and be unclean until the even."
+      }
+    },
+    {
+      "num": 26,
+      "geez": "ወኵሉ ፡ ዘአልዐለ ፡ በድኖሙ ፡ የኀፅብ ፡ አልባሲሁ ፡ ወርኩስ ፡ ውእቱ ፡ እስከ ፡ ሰርክ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘአልዐለ",
+          "t": "zäʾäləʿälä",
+          "gl": ""
+        },
+        {
+          "g": "በድኖሙ",
+          "t": "bädənomu",
+          "gl": ""
+        },
+        {
+          "g": "የኀፅብ",
+          "t": "yäḫäṣ́əbə",
+          "gl": ""
+        },
+        {
+          "g": "አልባሲሁ",
+          "t": "ʾäləbasihu",
+          "gl": ""
+        },
+        {
+          "g": "ወርኩስ",
+          "t": "wärəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ሰርክ",
+          "t": "särəkə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And whichever among the beasts divides the hoof and makes claws, and does not chew the cud, shall be unclean to you; every one that touches their dead bodies shall be unclean till evening.",
+        "kjv": "The carcases of every beast which divideth the hoof, and is not clovenfooted, nor cheweth the cud, are unclean unto you: every one that toucheth them shall be unclean."
+      }
+    },
+    {
+      "num": 27,
+      "geez": "ወእምነ ፡ ኵሉ ፡ እንስሳ ፡ ዘንፉቅ ፡ ሰኰናሁ ፡ ወሥጡቅ ፡ ጽፈሪሁ ፡ ወኢይትመሠኳዕ ፡ ርኩስ ፡ ውእቱ ፡ ለክሙ ፡ ኵሉ\n                  ፡ ዘገሰሰ ፡ በድኖሙ ፡ ርኩስ ፡ ውእቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "እንስሳ",
+          "t": "ʾənəsəsa",
+          "gl": ""
+        },
+        {
+          "g": "ዘንፉቅ",
+          "t": "zänəfuqə",
+          "gl": ""
+        },
+        {
+          "g": "ሰኰናሁ",
+          "t": "säkwänahu",
+          "gl": ""
+        },
+        {
+          "g": "ወሥጡቅ",
+          "t": "wäśəṭuqə",
+          "gl": ""
+        },
+        {
+          "g": "ጽፈሪሁ",
+          "t": "ṣəfärihu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢይትመሠኳዕ",
+          "t": "wäʾiyətəmäśäkwaʿə",
+          "gl": ""
+        },
+        {
+          "g": "ርኩስ",
+          "t": "rəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘገሰሰ",
+          "t": "zägäsäsä",
+          "gl": ""
+        },
+        {
+          "g": "በድኖሙ",
+          "t": "bädənomu",
+          "gl": ""
+        },
+        {
+          "g": "ርኩስ",
+          "t": "rəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And every one among all the wild beasts that moves upon its fore feet, which goes on all four, is unclean to you; every one that touches their dead bodies shall be unclean till evening.",
+        "kjv": "And whatsoever goeth upon his paws, among all manner of beasts that go on all four, those are unclean unto you: whoso toucheth their carcase shall be unclean until the even."
+      }
+    },
+    {
+      "num": 28,
+      "geez": "ወኵሉ ፡ ዘየሐውር ፡ በእደዊሁ ፡ እምነ ፡ ኵሉ ፡ አራዊት ፡ ዘየሐውር ፡ በአርባዕቱ ፡ ርኩስ ፡ ውእቱ ፡ ለክሙ ፡ ኵሉ ፡\n                  ዘገሰሰ ፡ በድኖሙ ፡ ርኩስ ፡ ውእቱ ፡ እስከ ፡ ሰርክ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘየሐውር",
+          "t": "zäyäḥäwərə",
+          "gl": ""
+        },
+        {
+          "g": "በእደዊሁ",
+          "t": "bäʾədäwihu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "አራዊት",
+          "t": "ʾärawitə",
+          "gl": ""
+        },
+        {
+          "g": "ዘየሐውር",
+          "t": "zäyäḥäwərə",
+          "gl": ""
+        },
+        {
+          "g": "በአርባዕቱ",
+          "t": "bäʾärəbaʿətu",
+          "gl": ""
+        },
+        {
+          "g": "ርኩስ",
+          "t": "rəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘገሰሰ",
+          "t": "zägäsäsä",
+          "gl": ""
+        },
+        {
+          "g": "በድኖሙ",
+          "t": "bädənomu",
+          "gl": ""
+        },
+        {
+          "g": "ርኩስ",
+          "t": "rəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ሰርክ",
+          "t": "särəkə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he that takes of their dead bodies shall wash his garments, and shall be unclean till evening: these are unclean to you.",
+        "kjv": "And he that beareth the carcase of them shall wash his clothes, and be unclean until the even: they are unclean unto you."
+      }
+    },
+    {
+      "num": 29,
+      "geez": "ወዘጾረ ፡ በድኖሙ ፡ የኀፅብ ፡ አልባሲሲሁ ፡ ወርኩስ ፡ ውእቱ ፡ እስከ ፡ ሰርክ ፡ ወዝንቱ ፡ ዘርኩስ ፡ ውእቱ ፡ ለክሙ\n                  ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዘጾረ",
+          "t": "wäzäṣorä",
+          "gl": ""
+        },
+        {
+          "g": "በድኖሙ",
+          "t": "bädənomu",
+          "gl": ""
+        },
+        {
+          "g": "የኀፅብ",
+          "t": "yäḫäṣ́əbə",
+          "gl": ""
+        },
+        {
+          "g": "አልባሲሲሁ",
+          "t": "ʾäləbasisihu",
+          "gl": ""
+        },
+        {
+          "g": "ወርኩስ",
+          "t": "wärəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ሰርክ",
+          "t": "särəkə",
+          "gl": ""
+        },
+        {
+          "g": "ወዝንቱ",
+          "t": "wäzənətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘርኩስ",
+          "t": "zärəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And these are unclean to you of reptiles upon the earth, the weasel, and the mouse, and the lizard,",
+        "kjv": "These also shall be unclean unto you among the creeping things that creep upon the earth; the weasel, and the mouse, and the tortoise after his kind,"
+      }
+    },
+    {
+      "num": 30,
+      "geez": "ወእምነ ፡ ዘሕያውኒ ፡ ዘይትሐወስ ፡ ውስተ ፡ ምድር ፡ ዝንቱ ፡ ዘርኩስ ፡ ለክሙ ፡ አንጸዋ ፡ ወጽቍጽቌን ፡ ወኀገጽ ፡\n                  ወላጽቄት ፡ ወኀንጶን ፡ ወዐንጉግ ፡ ወጋሌ ፡ ወከሜሌዎን ፡ ወሰጳለክስ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ዘሕያውኒ",
+          "t": "zäḥəyawəni",
+          "gl": ""
+        },
+        {
+          "g": "ዘይትሐወስ",
+          "t": "zäyətəḥäwäsə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘርኩስ",
+          "t": "zärəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        },
+        {
+          "g": "አንጸዋ",
+          "t": "ʾänəṣäwa",
+          "gl": ""
+        },
+        {
+          "g": "ወጽቍጽቌን",
+          "t": "wäṣəqwəṣəqwenə",
+          "gl": ""
+        },
+        {
+          "g": "ወኀገጽ",
+          "t": "wäḫägäṣə",
+          "gl": ""
+        },
+        {
+          "g": "ወላጽቄት",
+          "t": "wälaṣəqetə",
+          "gl": ""
+        },
+        {
+          "g": "ወኀንጶን",
+          "t": "wäḫänəṗonə",
+          "gl": ""
+        },
+        {
+          "g": "ወዐንጉግ",
+          "t": "wäʿänəgugə",
+          "gl": ""
+        },
+        {
+          "g": "ወጋሌ",
+          "t": "wägale",
+          "gl": ""
+        },
+        {
+          "g": "ወከሜሌዎን",
+          "t": "wäkämelewonə",
+          "gl": ""
+        },
+        {
+          "g": "ወሰጳለክስ",
+          "t": "wäsäṗaläkəsə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "the ferret, and the chameleon, and the evet, and the newt, and the mole.",
+        "kjv": "And the ferret, and the chameleon, and the lizard, and the snail, and the mole."
+      }
+    },
+    {
+      "num": 31,
+      "geez": "ዝንቱ ፡ ዘርኩስ ፡ ለክሙ ፡ እምኵሉ ፡ ዘሕያው ፡ ዘይትሐወስ ፡ ዲበ ፡ ምድር ፡ ኵሉ ፡ ዘገሰሰ ፡ በድኖሙ ፡ ርኩስ ፡\n                  ውእቱ ፡ እስከ ፡ ሰርክ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘርኩስ",
+          "t": "zärəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        },
+        {
+          "g": "እምኵሉ",
+          "t": "ʾəməkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘሕያው",
+          "t": "zäḥəyawə",
+          "gl": ""
+        },
+        {
+          "g": "ዘይትሐወስ",
+          "t": "zäyətəḥäwäsə",
+          "gl": ""
+        },
+        {
+          "g": "ዲበ",
+          "t": "dibä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘገሰሰ",
+          "t": "zägäsäsä",
+          "gl": ""
+        },
+        {
+          "g": "በድኖሙ",
+          "t": "bädənomu",
+          "gl": ""
+        },
+        {
+          "g": "ርኩስ",
+          "t": "rəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ሰርክ",
+          "t": "särəkə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "These are unclean to you of all the reptiles which are on the earth; every one who touches their carcases shall be unclean till evening.",
+        "kjv": "These are unclean to you among all that creep: whosoever doth touch them, when they be dead, shall be unclean until the even."
+      }
+    },
+    {
+      "num": 32,
+      "geez": "ወኵሉ ፡ ውስተ ፡ ዘወድቀ ፡ በድኖሙ ፡ ርኩስ ፡ ውእቱ ፡ እምኵሉ ፡ ንዋየ ፡ ዕፅ ፡ አው ፡ ልብስ ፡ አው ፡ ማእስ ፡\n                  አው ፡ ኀስል ፡ እምኵሉ ፡ ንዋይ ፡ ዘይገብሩ ፡ ቦቱ ፡ ግብረ ፡ ውስተ ፡ ማይ ፡ ይጠምዕዎ ፡ ወርኩስ ፡ ውእቱ ፡ እስከ ፡\n                  ሰርክ ፡ ወእምዝ ፡ ንጹሕ ፡ ውእቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዘወድቀ",
+          "t": "zäwädəqä",
+          "gl": ""
+        },
+        {
+          "g": "በድኖሙ",
+          "t": "bädənomu",
+          "gl": ""
+        },
+        {
+          "g": "ርኩስ",
+          "t": "rəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "እምኵሉ",
+          "t": "ʾəməkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ንዋየ",
+          "t": "nəwayä",
+          "gl": ""
+        },
+        {
+          "g": "ዕፅ",
+          "t": "ʿəṣ́ə",
+          "gl": ""
+        },
+        {
+          "g": "አው",
+          "t": "ʾäwə",
+          "gl": ""
+        },
+        {
+          "g": "ልብስ",
+          "t": "ləbəsə",
+          "gl": ""
+        },
+        {
+          "g": "አው",
+          "t": "ʾäwə",
+          "gl": ""
+        },
+        {
+          "g": "ማእስ",
+          "t": "maʾəsə",
+          "gl": ""
+        },
+        {
+          "g": "አው",
+          "t": "ʾäwə",
+          "gl": ""
+        },
+        {
+          "g": "ኀስል",
+          "t": "ḫäsələ",
+          "gl": ""
+        },
+        {
+          "g": "እምኵሉ",
+          "t": "ʾəməkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ንዋይ",
+          "t": "nəwayə",
+          "gl": ""
+        },
+        {
+          "g": "ዘይገብሩ",
+          "t": "zäyəgäbəru",
+          "gl": ""
+        },
+        {
+          "g": "ቦቱ",
+          "t": "botu",
+          "gl": ""
+        },
+        {
+          "g": "ግብረ",
+          "t": "gəbərä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ማይ",
+          "t": "mayə",
+          "gl": ""
+        },
+        {
+          "g": "ይጠምዕዎ",
+          "t": "yəṭäməʿəwo",
+          "gl": ""
+        },
+        {
+          "g": "ወርኩስ",
+          "t": "wärəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ሰርክ",
+          "t": "särəkə",
+          "gl": ""
+        },
+        {
+          "g": "ወእምዝ",
+          "t": "wäʾəməzə",
+          "gl": ""
+        },
+        {
+          "g": "ንጹሕ",
+          "t": "nəṣuḥə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And on whatsoever one of their dead bodies shall fall it shall be unclean; whatever wooden vessel, or garment, or skin, or sack it may be, every vessel in which work should be done, shall be dipped in water, and shall be unclean till evening; and then it shall be clean.",
+        "kjv": "And upon whatsoever any of them, when they are dead, doth fall, it shall be unclean; whether it be any vessel of wood, or raiment, or skin, or sack, whatsoever vessel it be, wherein any work is done, it must be put into water, and it shall be unclean until the even; so it shall be cleansed."
+      }
+    },
+    {
+      "num": 33,
+      "geez": "ወኵሉ ፡ ንዋየ ፡ ልሕኵት ፡ ዘወድቀ ፡ ላዕሌሁ ፡ እምነ ፡ ዝንቱ ፡ ውስተ ፡ ከርሡ ፡ እምከመ ፡ ውስተ ፡ ውስጡ ፡ ወድቀ\n                  ፡ ርኩስ ፡ ውእቱ ፡ ይሰብርዎ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ንዋየ",
+          "t": "nəwayä",
+          "gl": ""
+        },
+        {
+          "g": "ልሕኵት",
+          "t": "ləḥəkwətə",
+          "gl": ""
+        },
+        {
+          "g": "ዘወድቀ",
+          "t": "zäwädəqä",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ከርሡ",
+          "t": "kärəśu",
+          "gl": ""
+        },
+        {
+          "g": "እምከመ",
+          "t": "ʾəməkämä",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ውስጡ",
+          "t": "wəsəṭu",
+          "gl": ""
+        },
+        {
+          "g": "ወድቀ",
+          "t": "wädəqä",
+          "gl": ""
+        },
+        {
+          "g": "ርኩስ",
+          "t": "rəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ይሰብርዎ",
+          "t": "yəsäbərəwo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And every earthen vessel into which one of these things shall fall, whatsoever is inside it, shall be unclean, and it shall be broken.",
+        "kjv": "And every earthen vessel, whereinto any of them falleth, whatsoever is in it shall be unclean; and ye shall break it."
+      }
+    },
+    {
+      "num": 34,
+      "geez": "ወኵሉ ፡ በዘ ፡ ትበልዑ ፡ እክለ ፡ ወእመኒ ፡ ተወድየ ፡ ውስቴቱ ፡ ማይ ፡ ርኩስ ፡ ውእቱ ፡ ለክሙ ፡ ወእመኒ ፡ ንዋየ\n                  ፡ ስቴ ፡ በዘ ፡ ቦቱ ፡ ትሰትዩ ፡ ርኩስ ፡ ውእቱኒ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "በዘ",
+          "t": "bäzä",
+          "gl": ""
+        },
+        {
+          "g": "ትበልዑ",
+          "t": "təbäləʿu",
+          "gl": ""
+        },
+        {
+          "g": "እክለ",
+          "t": "ʾəkəlä",
+          "gl": ""
+        },
+        {
+          "g": "ወእመኒ",
+          "t": "wäʾəmäni",
+          "gl": ""
+        },
+        {
+          "g": "ተወድየ",
+          "t": "täwädəyä",
+          "gl": ""
+        },
+        {
+          "g": "ውስቴቱ",
+          "t": "wəsətetu",
+          "gl": ""
+        },
+        {
+          "g": "ማይ",
+          "t": "mayə",
+          "gl": ""
+        },
+        {
+          "g": "ርኩስ",
+          "t": "rəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወእመኒ",
+          "t": "wäʾəmäni",
+          "gl": ""
+        },
+        {
+          "g": "ንዋየ",
+          "t": "nəwayä",
+          "gl": ""
+        },
+        {
+          "g": "ስቴ",
+          "t": "səte",
+          "gl": ""
+        },
+        {
+          "g": "በዘ",
+          "t": "bäzä",
+          "gl": ""
+        },
+        {
+          "g": "ቦቱ",
+          "t": "botu",
+          "gl": ""
+        },
+        {
+          "g": "ትሰትዩ",
+          "t": "təsätəyu",
+          "gl": ""
+        },
+        {
+          "g": "ርኩስ",
+          "t": "rəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱኒ",
+          "t": "wəʾətuni",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And all food that is eaten, on which water shall come from such a vessel, shall be unclean; and every beverage which is drunk in any such vessel, shall be unclean.",
+        "kjv": "Of all meat which may be eaten, that on which such water cometh shall be unclean: and all drink that may be drunk in every such vessel shall be unclean."
+      }
+    },
+    {
+      "num": 35,
+      "geez": "ወኵሉ ፡ ውስተ ፡ ዘወድቀ ፡ በድኖሙ ፡ ርኩስ ፡ ውእቱ ፡ ወእመሰ ፡ እቶን ፡ አው ፡ ምንባረ ፡ መቅጹት ፡ ትነሥትዎ ፡\n                  እስመ ፡ ርኩስ ፡ ወርኩስ ፡ ውእቱ ፡ ለክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ዘወድቀ",
+          "t": "zäwädəqä",
+          "gl": ""
+        },
+        {
+          "g": "በድኖሙ",
+          "t": "bädənomu",
+          "gl": ""
+        },
+        {
+          "g": "ርኩስ",
+          "t": "rəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "እቶን",
+          "t": "ʾətonə",
+          "gl": ""
+        },
+        {
+          "g": "አው",
+          "t": "ʾäwə",
+          "gl": ""
+        },
+        {
+          "g": "ምንባረ",
+          "t": "mənəbarä",
+          "gl": ""
+        },
+        {
+          "g": "መቅጹት",
+          "t": "mäqəṣutə",
+          "gl": ""
+        },
+        {
+          "g": "ትነሥትዎ",
+          "t": "tənäśətəwo",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ርኩስ",
+          "t": "rəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ወርኩስ",
+          "t": "wärəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And every thing on which there shall fall of their dead bodies shall be unclean; ovens and stands for jars shall be broken down: these are unclean, and they shall be unclean to you.",
+        "kjv": "And every thing whereupon any part of their carcase falleth shall be unclean; whether it be oven, or ranges for pots, they shall be broken down: for they are unclean, and shall be unclean unto you."
+      }
+    },
+    {
+      "num": 36,
+      "geez": "ዘእንበለ ፡ አንቅዕተ ፡ ማይ ፡ ወዐዘቃት ፡ ወአዕያጋተ ፡ ማይ ፡ ዝንቱ ፡ ዘንጹሕ ፡ ለክሙ ፡ ወዘገሰሰ ፡ በድኖሙ ፡\n                  ርኩስ ፡ ውእቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዘእንበለ",
+          "t": "zäʾənəbälä",
+          "gl": ""
+        },
+        {
+          "g": "አንቅዕተ",
+          "t": "ʾänəqəʿətä",
+          "gl": ""
+        },
+        {
+          "g": "ማይ",
+          "t": "mayə",
+          "gl": ""
+        },
+        {
+          "g": "ወዐዘቃት",
+          "t": "wäʿäzäqatə",
+          "gl": ""
+        },
+        {
+          "g": "ወአዕያጋተ",
+          "t": "wäʾäʿəyagatä",
+          "gl": ""
+        },
+        {
+          "g": "ማይ",
+          "t": "mayə",
+          "gl": ""
+        },
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ዘንጹሕ",
+          "t": "zänəṣuḥə",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወዘገሰሰ",
+          "t": "wäzägäsäsä",
+          "gl": ""
+        },
+        {
+          "g": "በድኖሙ",
+          "t": "bädənomu",
+          "gl": ""
+        },
+        {
+          "g": "ርኩስ",
+          "t": "rəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "Only if the water be of fountains of water, or a pool, or confluence of water, it shall be clean; but he that touches their carcases shall be unclean.",
+        "kjv": "Nevertheless a fountain or pit, wherein there is plenty of water, shall be clean: but that which toucheth their carcase shall be unclean."
+      }
+    },
+    {
+      "num": 37,
+      "geez": "ወእመሰ ፡ ወድቀ ፡ በድኖሙ ፡ ውስተ ፡ ኵሉ ፡ ዘርእ ፡ ዘይዘራእ ፡ ንጹሕ ፡ ውእቱ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመሰ",
+          "t": "wäʾəmäsä",
+          "gl": ""
+        },
+        {
+          "g": "ወድቀ",
+          "t": "wädəqä",
+          "gl": ""
+        },
+        {
+          "g": "በድኖሙ",
+          "t": "bädənomu",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘርእ",
+          "t": "zärəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ዘይዘራእ",
+          "t": "zäyəzäraʾə",
+          "gl": ""
+        },
+        {
+          "g": "ንጹሕ",
+          "t": "nəṣuḥə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if one of their carcases should fall upon any sowing seed which shall be sown, it shall be clean.",
+        "kjv": "And if any part of their carcase fall upon any sowing seed which is to be sown, it shall be clean."
+      }
+    },
+    {
+      "num": 38,
+      "geez": "ወእመ ፡ ባሕቱ ፡ ተክዕወ ፡ ማይ ፡ ላዕለ ፡ ኵሉ ፡ ዘርእ ፡ [ወ]ወድቀ ፡ በድኖሙ ፡ ላዕሌሁ ፡ ርኩስ ፡ ውእቱ ፡ ለክሙ\n                  ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመ",
+          "t": "wäʾəmä",
+          "gl": ""
+        },
+        {
+          "g": "ባሕቱ",
+          "t": "baḥətu",
+          "gl": ""
+        },
+        {
+          "g": "ተክዕወ",
+          "t": "täkəʿəwä",
+          "gl": ""
+        },
+        {
+          "g": "ማይ",
+          "t": "mayə",
+          "gl": ""
+        },
+        {
+          "g": "ላዕለ",
+          "t": "laʿəlä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘርእ",
+          "t": "zärəʾə",
+          "gl": ""
+        },
+        {
+          "g": "ወወድቀ",
+          "t": "wäwädəqä",
+          "gl": ""
+        },
+        {
+          "g": "በድኖሙ",
+          "t": "bädənomu",
+          "gl": ""
+        },
+        {
+          "g": "ላዕሌሁ",
+          "t": "laʿəlehu",
+          "gl": ""
+        },
+        {
+          "g": "ርኩስ",
+          "t": "rəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "But if water be poured on any seed, and one of their dead bodies fall upon it, it is unclean to you.",
+        "kjv": "But if any water be put upon the seed, and any part of their carcase fall thereon, it shall be unclean unto you."
+      }
+    },
+    {
+      "num": 39,
+      "geez": "ወእመቦ ፡ ዘሞተ ፡ እምእንስሳ ፡ ዘይከውነክሙ ፡ ለበሊዕ ፡ ዘገሰሰ ፡ በድኖሙ ፡ ርኩስ ፡ ውእቱ ፡ እስከ ፡ ሰርክ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወእመቦ",
+          "t": "wäʾəmäbo",
+          "gl": ""
+        },
+        {
+          "g": "ዘሞተ",
+          "t": "zämotä",
+          "gl": ""
+        },
+        {
+          "g": "እምእንስሳ",
+          "t": "ʾəməʾənəsəsa",
+          "gl": ""
+        },
+        {
+          "g": "ዘይከውነክሙ",
+          "t": "zäyəkäwənäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ለበሊዕ",
+          "t": "läbäliʿə",
+          "gl": ""
+        },
+        {
+          "g": "ዘገሰሰ",
+          "t": "zägäsäsä",
+          "gl": ""
+        },
+        {
+          "g": "በድኖሙ",
+          "t": "bädənomu",
+          "gl": ""
+        },
+        {
+          "g": "ርኩስ",
+          "t": "rəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ሰርክ",
+          "t": "särəkə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And if one of the cattle die, which it is lawful for you to eat, he that touches their carcases shall be unclean till evening.",
+        "kjv": "And if any beast, of which ye may eat, die; he that toucheth the carcase thereof shall be unclean until the even."
+      }
+    },
+    {
+      "num": 40,
+      "geez": "ወዘበልዐ ፡ ማውታሁ ፡ የኀፅብ ፡ አልባሲተ ፡ ወርኩስ ፡ ውእቱ ፡ እስከ ፡ ሰርክ ፡ ወዘአልዐለ ፡ በድኖሙ ፡ የኀፅብ ፡\n                  አልባሲሁ ፡ ወርኩስ ፡ ውእቱ ፡ እስከ ፡ ሰርክ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወዘበልዐ",
+          "t": "wäzäbäləʿä",
+          "gl": ""
+        },
+        {
+          "g": "ማውታሁ",
+          "t": "mawətahu",
+          "gl": ""
+        },
+        {
+          "g": "የኀፅብ",
+          "t": "yäḫäṣ́əbə",
+          "gl": ""
+        },
+        {
+          "g": "አልባሲተ",
+          "t": "ʾäləbasitä",
+          "gl": ""
+        },
+        {
+          "g": "ወርኩስ",
+          "t": "wärəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ሰርክ",
+          "t": "särəkə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘአልዐለ",
+          "t": "wäzäʾäləʿälä",
+          "gl": ""
+        },
+        {
+          "g": "በድኖሙ",
+          "t": "bädənomu",
+          "gl": ""
+        },
+        {
+          "g": "የኀፅብ",
+          "t": "yäḫäṣ́əbə",
+          "gl": ""
+        },
+        {
+          "g": "አልባሲሁ",
+          "t": "ʾäləbasihu",
+          "gl": ""
+        },
+        {
+          "g": "ወርኩስ",
+          "t": "wärəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "እስከ",
+          "t": "ʾəsəkä",
+          "gl": ""
+        },
+        {
+          "g": "ሰርክ",
+          "t": "särəkə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And he that eats of their carcases shall wash his garments, and be unclean till evening; and he that carries any of their carcases shall wash his garments, and bathe himself in water, and be unclean till evening.",
+        "kjv": "And he that eateth of the carcase of it shall wash his clothes, and be unclean until the even: he also that beareth the carcase of it shall wash his clothes, and be unclean until the even."
+      }
+    },
+    {
+      "num": 41,
+      "geez": "ወኵሉ ፡ ዘይትሐወስ ፡ ውስተ ፡ ምድር ፡ አርዌ ፡ ርኩስ ፡ ውእቱ ፡ ለክሙ ፡ ወኢትብልዕዎ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ዘይትሐወስ",
+          "t": "zäyətəḥäwäsə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "አርዌ",
+          "t": "ʾärəwe",
+          "gl": ""
+        },
+        {
+          "g": "ርኩስ",
+          "t": "rəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢትብልዕዎ",
+          "t": "wäʾitəbələʿəwo",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And every reptile that creeps on the earth, this shall be an abomination to you; it shall not be eaten.",
+        "kjv": "And every creeping thing that creepeth upon the earth shall be an abomination; it shall not be eaten."
+      }
+    },
+    {
+      "num": 42,
+      "geez": "ወኵሎ ፡ ዘየሐውር ፡ በከብዱ ፡ ወኵሎ ፡ ዘየሐውር ፡ በአርባዕ ፡ ለዝሉፉ ፡ ወዘብዘኅ ፡ እገሪሁ ፡ እምኵሉ ፡ አርዌ ፡\n                  ዘይትሐወስ ፡ ውስተ ፡ ምድር ፡ ኢትብልዕዎ ፡ እስመ ፡ ርኩስ ፡ ውእቱ ፡ ለክሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ዘየሐውር",
+          "t": "zäyäḥäwərə",
+          "gl": ""
+        },
+        {
+          "g": "በከብዱ",
+          "t": "bäkäbədu",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሎ",
+          "t": "wäkwəlo",
+          "gl": ""
+        },
+        {
+          "g": "ዘየሐውር",
+          "t": "zäyäḥäwərə",
+          "gl": ""
+        },
+        {
+          "g": "በአርባዕ",
+          "t": "bäʾärəbaʿə",
+          "gl": ""
+        },
+        {
+          "g": "ለዝሉፉ",
+          "t": "läzəlufu",
+          "gl": ""
+        },
+        {
+          "g": "ወዘብዘኅ",
+          "t": "wäzäbəzäḫə",
+          "gl": ""
+        },
+        {
+          "g": "እገሪሁ",
+          "t": "ʾəgärihu",
+          "gl": ""
+        },
+        {
+          "g": "እምኵሉ",
+          "t": "ʾəməkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "አርዌ",
+          "t": "ʾärəwe",
+          "gl": ""
+        },
+        {
+          "g": "ዘይትሐወስ",
+          "t": "zäyətəḥäwäsə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ኢትብልዕዎ",
+          "t": "ʾitəbələʿəwo",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "ርኩስ",
+          "t": "rəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ለክሙ",
+          "t": "läkəmu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And every animal that creeps on its belly, and every one that goes on four feet continually, which abounds with feet among all the reptiles creeping upon the earth—ye shall not eat it, for it is an abomination to you.",
+        "kjv": "Whatsoever goeth upon the belly, and whatsoever goeth upon all four, or whatsoever hath more feet among all creeping things that creep upon the earth, them ye shall not eat; for they are an abomination."
+      }
+    },
+    {
+      "num": 43,
+      "geez": "ወኢታርኵሱ ፡ ነፍሰክሙ ፡ በኵሉ ፡ አራዊት ፡ ዘይትሐወስ ፡ ውስተ ፡ ምድር ፡ ወኢትርኰሱ ፡ በእሉ ፡ ወኢትኩኑ ፡ ርኩሳነ\n                  ፡ ቦሙ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ወኢታርኵሱ",
+          "t": "wäʾitarəkwəsu",
+          "gl": ""
+        },
+        {
+          "g": "ነፍሰክሙ",
+          "t": "näfəsäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "በኵሉ",
+          "t": "bäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "አራዊት",
+          "t": "ʾärawitə",
+          "gl": ""
+        },
+        {
+          "g": "ዘይትሐወስ",
+          "t": "zäyətəḥäwäsə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        },
+        {
+          "g": "ወኢትርኰሱ",
+          "t": "wäʾitərəkwäsu",
+          "gl": ""
+        },
+        {
+          "g": "በእሉ",
+          "t": "bäʾəlu",
+          "gl": ""
+        },
+        {
+          "g": "ወኢትኩኑ",
+          "t": "wäʾitəkunu",
+          "gl": ""
+        },
+        {
+          "g": "ርኩሳነ",
+          "t": "rəkusanä",
+          "gl": ""
+        },
+        {
+          "g": "ቦሙ",
+          "t": "bomu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "And ye shall not defile your souls with any of the reptiles that creep upon the earth, and ye shall not be polluted with them, and ye shall not be unclean by them.",
+        "kjv": "Ye shall not make yourselves abominable with any creeping thing that creepeth, neither shall ye make yourselves unclean with them, that ye should be defiled thereby."
+      }
+    },
+    {
+      "num": 44,
+      "geez": "እስመ ፡ አነ ፡ እግዚአብሔ ፡ አምላክክሙ ፡ ወተቀደሱ ፡ ወቅዱሳነ ፡ ኩኑ ፡ እስመ ፡ አነ ፡ እግዚአብሔር ፡ አምላክክሙ ፡\n                  ቅዱስ ፡ አነ ፡ ወኢትገምኑ ፡ ነፍሰክሙ ፡ በኵሉ ፡ አራዊት ፡ ዘይትሐወስ ፡ ውስተ ፡ ምድር ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔ",
+          "t": "ʾəgəziʾäbəḥe",
+          "gl": ""
+        },
+        {
+          "g": "አምላክክሙ",
+          "t": "ʾäməlakəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወተቀደሱ",
+          "t": "wätäqädäsu",
+          "gl": ""
+        },
+        {
+          "g": "ወቅዱሳነ",
+          "t": "wäqədusanä",
+          "gl": ""
+        },
+        {
+          "g": "ኩኑ",
+          "t": "kunu",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላክክሙ",
+          "t": "ʾäməlakəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ቅዱስ",
+          "t": "qədusə",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "ወኢትገምኑ",
+          "t": "wäʾitəgämənu",
+          "gl": ""
+        },
+        {
+          "g": "ነፍሰክሙ",
+          "t": "näfəsäkəmu",
+          "gl": ""
+        },
+        {
+          "g": "በኵሉ",
+          "t": "bäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "አራዊት",
+          "t": "ʾärawitə",
+          "gl": ""
+        },
+        {
+          "g": "ዘይትሐወስ",
+          "t": "zäyətəḥäwäsə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For I am the Lord your God; and ye shall be sanctified, and ye shall be holy, because I the Lord your God am holy; and ye shall not defile your souls with any of the reptiles creeping upon the earth.",
+        "kjv": "For I am the LORD your God: ye shall therefore sanctify yourselves, and ye shall be holy; for I am holy: neither shall ye defile yourselves with any manner of creeping thing that creepeth upon the earth."
+      }
+    },
+    {
+      "num": 45,
+      "geez": "እስመ ፡ አነ ፡ እግዚአብሔር ፡ አምላክክሙ ፡ ዘአውፃእኩክሙ ፡ እምነ ፡ ምድረ ፡ ግብጽ ፡ ከመ ፡ እኩንክሙ ፡ አምላክክሙ\n                  ፡ ወትኩኑ ፡ ቅዱሳነ ፡ እስመ ፡ አነ ፡ ቅዱስ ፡ አነ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "እግዚአብሔር",
+          "t": "ʾəgəziʾäbəḥerə",
+          "gl": ""
+        },
+        {
+          "g": "አምላክክሙ",
+          "t": "ʾäməlakəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ዘአውፃእኩክሙ",
+          "t": "zäʾäwəṣ́aʾəkukəmu",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ምድረ",
+          "t": "mədərä",
+          "gl": ""
+        },
+        {
+          "g": "ግብጽ",
+          "t": "gəbəṣə",
+          "gl": ""
+        },
+        {
+          "g": "ከመ",
+          "t": "kämä",
+          "gl": ""
+        },
+        {
+          "g": "እኩንክሙ",
+          "t": "ʾəkunəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "አምላክክሙ",
+          "t": "ʾäməlakəkəmu",
+          "gl": ""
+        },
+        {
+          "g": "ወትኩኑ",
+          "t": "wätəkunu",
+          "gl": ""
+        },
+        {
+          "g": "ቅዱሳነ",
+          "t": "qədusanä",
+          "gl": ""
+        },
+        {
+          "g": "እስመ",
+          "t": "ʾəsəmä",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        },
+        {
+          "g": "ቅዱስ",
+          "t": "qədusə",
+          "gl": ""
+        },
+        {
+          "g": "አነ",
+          "t": "ʾänä",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "For I am the Lord who brought you up out of the land of Egypt to be your God; and ye shall be holy, for I the Lord am holy.",
+        "kjv": "For I am the LORD that bringeth you up out of the land of Egypt, to be your God: ye shall therefore be holy, for I am holy."
+      }
+    },
+    {
+      "num": 46,
+      "geez": "ዝንቱ ፡ ውእቱ ፡ ሕግ ፡ ዘበእንተ ፡ እንስሳ ፡ ወዘበእንተ ፡ አዕዋፍ ፡ ወዘበእንተ ፡ ኵሉ ፡ ነፍስ ፡ እንተ ፡ ትትሐወስ\n                  ፡ ውስተ ፡ ማይ ፡ ወኵሉ ፡ ነፍስ ፡ እንተ ፡ ትትሐወስ ፡ ውስተ ፡ ምድር ፤",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዝንቱ",
+          "t": "zənətu",
+          "gl": ""
+        },
+        {
+          "g": "ውእቱ",
+          "t": "wəʾətu",
+          "gl": ""
+        },
+        {
+          "g": "ሕግ",
+          "t": "ḥəgə",
+          "gl": ""
+        },
+        {
+          "g": "ዘበእንተ",
+          "t": "zäbäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "እንስሳ",
+          "t": "ʾənəsəsa",
+          "gl": ""
+        },
+        {
+          "g": "ወዘበእንተ",
+          "t": "wäzäbäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "አዕዋፍ",
+          "t": "ʾäʿəwafə",
+          "gl": ""
+        },
+        {
+          "g": "ወዘበእንተ",
+          "t": "wäzäbäʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ኵሉ",
+          "t": "kwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ነፍስ",
+          "t": "näfəsə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ትትሐወስ",
+          "t": "tətəḥäwäsə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ማይ",
+          "t": "mayə",
+          "gl": ""
+        },
+        {
+          "g": "ወኵሉ",
+          "t": "wäkwəlu",
+          "gl": ""
+        },
+        {
+          "g": "ነፍስ",
+          "t": "näfəsə",
+          "gl": ""
+        },
+        {
+          "g": "እንተ",
+          "t": "ʾənətä",
+          "gl": ""
+        },
+        {
+          "g": "ትትሐወስ",
+          "t": "tətəḥäwäsə",
+          "gl": ""
+        },
+        {
+          "g": "ውስተ",
+          "t": "wəsətä",
+          "gl": ""
+        },
+        {
+          "g": "ምድር",
+          "t": "mədərə",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "This is the law concerning beasts and birds and every living creature moving in the water, and every living creature creeping on the earth;",
+        "kjv": "This is the law of the beasts, and of the fowl, and of every living creature that moveth in the waters, and of every creature that creepeth upon the earth:"
+      }
+    },
+    {
+      "num": 47,
+      "geez": "ዘይፈልጥ ፡ ማእከለ ፡ ርኩስ ፡ ወማእከለ ፡ ንጹሕ ፡ ወታሌብዎሙ ፡ ለደቂቀ ፡ እስራኤል ፡ እምነ ፡ ሕያው ፡ ዘይበልዑ ፡\n                  ወእምነ ፡ ሕያው ፡ ዘኢይበልዑ ።",
+      "translation": "",
+      "words": [
+        {
+          "g": "ዘይፈልጥ",
+          "t": "zäyəfäləṭə",
+          "gl": ""
+        },
+        {
+          "g": "ማእከለ",
+          "t": "maʾəkälä",
+          "gl": ""
+        },
+        {
+          "g": "ርኩስ",
+          "t": "rəkusə",
+          "gl": ""
+        },
+        {
+          "g": "ወማእከለ",
+          "t": "wämaʾəkälä",
+          "gl": ""
+        },
+        {
+          "g": "ንጹሕ",
+          "t": "nəṣuḥə",
+          "gl": ""
+        },
+        {
+          "g": "ወታሌብዎሙ",
+          "t": "wätalebəwomu",
+          "gl": ""
+        },
+        {
+          "g": "ለደቂቀ",
+          "t": "lädäqiqä",
+          "gl": ""
+        },
+        {
+          "g": "እስራኤል",
+          "t": "ʾəsəraʾelə",
+          "gl": ""
+        },
+        {
+          "g": "እምነ",
+          "t": "ʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ሕያው",
+          "t": "ḥəyawə",
+          "gl": ""
+        },
+        {
+          "g": "ዘይበልዑ",
+          "t": "zäyəbäləʿu",
+          "gl": ""
+        },
+        {
+          "g": "ወእምነ",
+          "t": "wäʾəmənä",
+          "gl": ""
+        },
+        {
+          "g": "ሕያው",
+          "t": "ḥəyawə",
+          "gl": ""
+        },
+        {
+          "g": "ዘኢይበልዑ",
+          "t": "zäʾiyəbäləʿu",
+          "gl": ""
+        }
+      ],
+      "translations": {
+        "lxx": "to distinguish between the unclean and the clean; and between those that bring forth alive, such as should be eaten, and those that bring forth alive, such as should not be eaten.",
+        "kjv": "To make a difference between the unclean and the clean, and between the beast that may be eaten and the beast that may not be eaten."
+      }
+    }
+  ],
+  "translationSources": {
+    "lxx": {
+      "name": "Brenton LXX",
+      "year": 1851,
+      "tradition": "Septuagint"
+    },
+    "kjv": {
+      "name": "King James Version",
+      "year": 1611,
+      "tradition": "Masoretic"
+    }
+  }
+}
