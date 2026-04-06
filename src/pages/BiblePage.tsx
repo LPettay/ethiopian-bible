@@ -1,19 +1,21 @@
 import { useState, useEffect } from 'react'
-import { Link } from 'react-router-dom'
+import { Link, useNavigate } from 'react-router-dom'
 import type { Book } from '../types/bible'
 import { loadBooks, getBookSections } from '../lib/data'
 
-// Which books have dual (LXX+KJV), single (Ge'ez-source), or no English
-const DUAL_BOOKS = new Set([
-  'Gen', 'Exod', 'Lev', 'Num', 'Deut', 'Josh', 'Judg', 'Ruth',
-  'Job', 'Prov', 'Eccl', 'Song', 'Isa', 'Joel', 'Jonah', 'Lam',
-  'Tob', 'Jdt', 'Wis', 'Sir',
-])
-const SINGLE_BOOKS = new Set(['1En', 'Jub', '4Bar', 'KN'])
+// Translation status — detected at load time from chapter 1 data
+type TranslationStatus = 'dual' | 'single' | 'geez'
 
-function getTranslationStatus(abbrev: string): 'dual' | 'single' | 'geez' {
-  if (DUAL_BOOKS.has(abbrev)) return 'dual'
-  if (SINGLE_BOOKS.has(abbrev)) return 'single'
+async function detectTranslationStatus(abbrev: string): Promise<TranslationStatus> {
+  try {
+    const res = await fetch(`/ethiopian-bible/data/chapters/${abbrev}/1.json`)
+    if (!res.ok) return 'geez'
+    const ch = await res.json()
+    for (const v of ch.verses?.slice(0, 5) ?? []) {
+      if (v.translations?.lxx || v.translations?.kjv) return 'dual'
+      if (v.translation) return 'single'
+    }
+  } catch {}
   return 'geez'
 }
 
@@ -32,16 +34,28 @@ const SECTION_LABELS: Record<string, string> = {
 export function BiblePage() {
   const [books, setBooks] = useState<Book[]>([])
   const [selectedBook, setSelectedBook] = useState<Book | null>(null)
+  const [statuses, setStatuses] = useState<Record<string, TranslationStatus>>({})
+  const navigate = useNavigate()
 
   useEffect(() => {
-    loadBooks().then(setBooks)
+    loadBooks().then(async (loadedBooks) => {
+      setBooks(loadedBooks)
+      // Detect translation status for all books in parallel
+      const entries = await Promise.all(
+        loadedBooks.map(async (b) => {
+          const status = await detectTranslationStatus(b.abbrev)
+          return [b.abbrev, status] as const
+        })
+      )
+      setStatuses(Object.fromEntries(entries))
+    })
   }, [])
 
   const sections = getBookSections(books)
 
   // Chapter grid view
   if (selectedBook) {
-    const status = getTranslationStatus(selectedBook.abbrev)
+    const status = statuses[selectedBook.abbrev] || 'geez'
     const chapters = Array.from({ length: selectedBook.chapters }, (_, i) => i + 1)
 
     return (
@@ -117,13 +131,13 @@ export function BiblePage() {
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
             {section.books.map(book => {
-              const status = getTranslationStatus(book.abbrev)
+              const status = statuses[book.abbrev] || 'geez'
               const sl = STATUS_LABELS[status]
               return (
                 <button
                   key={book.abbrev}
                   onClick={() => book.chapters === 1
-                    ? (window.location.href = `/read/${book.abbrev}/1`)
+                    ? navigate(`/read/${book.abbrev}/1`)
                     : setSelectedBook(book)
                   }
                   className="flex items-center gap-3 p-3 rounded-lg bg-surface border border-border
