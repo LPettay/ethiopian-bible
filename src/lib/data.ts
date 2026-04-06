@@ -1,6 +1,6 @@
 import type { Book, Chapter } from '../types/bible'
 
-const DATA_BASE = '/data'
+const DATA_BASE = `${import.meta.env.BASE_URL}data`
 
 let booksCache: Book[] | null = null
 

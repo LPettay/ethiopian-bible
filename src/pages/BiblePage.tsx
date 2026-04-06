@@ -8,7 +8,7 @@ type TranslationStatus = 'dual' | 'single' | 'geez'
 
 async function detectTranslationStatus(abbrev: string): Promise<TranslationStatus> {
   try {
-    const res = await fetch(`/ethiopian-bible/data/chapters/${abbrev}/1.json`)
+    const res = await fetch(`${import.meta.env.BASE_URL}data/chapters/${abbrev}/1.json`)
     if (!res.ok) return 'geez'
     const ch = await res.json()
     for (const v of ch.verses?.slice(0, 5) ?? []) {
