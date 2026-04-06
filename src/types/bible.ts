@@ -75,7 +75,7 @@ export interface ReaderSettings {
 }
 
 export const DEFAULT_SETTINGS: ReaderSettings = {
-  readingMode: 'study',
+  readingMode: 'read',
   showTransliteration: true,
   showLxx: true,
   showKjv: true,
