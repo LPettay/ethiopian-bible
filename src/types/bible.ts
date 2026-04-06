@@ -4,10 +4,22 @@ export interface Word {
   gl: string   // gloss
 }
 
+export type TranslationTier = 'published' | 'lexicon' | 'ai-draft'
+
+export interface TranslationEntry {
+  text: string
+  tier: TranslationTier
+  confidence?: number       // 0-1, computed for ai-draft
+  source?: string           // "Charles 1917", "Brenton 1851", "AI (Claude)"
+  verifiedWords?: number    // how many words matched Dillmann
+  totalWords?: number       // total words in verse
+}
+
 export interface Translations {
   lxx?: string
   kjv?: string
   'geez-source'?: string
+  ai?: TranslationEntry     // AI-assisted translation with confidence metadata
 }
 
 export interface Verse {
@@ -71,6 +83,7 @@ export interface ReaderSettings {
   showLxx: boolean
   showKjv: boolean
   showGeezSource: boolean
+  showAiTranslation: boolean
   fontSize: number
 }
 
@@ -80,5 +93,6 @@ export const DEFAULT_SETTINGS: ReaderSettings = {
   showLxx: true,
   showKjv: true,
   showGeezSource: true,
+  showAiTranslation: true,
   fontSize: 20,
 }

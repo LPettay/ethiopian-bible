@@ -122,6 +122,16 @@ export function Settings({ open, onClose, settings, onUpdate }: SettingsProps) {
                 <span className="w-2.5 h-2.5 rounded-full bg-accent flex-shrink-0" aria-hidden="true" />
                 <span className="text-sm text-text">Ge'ez source text</span>
               </label>
+              <label className="flex items-center gap-3 cursor-pointer">
+                <input
+                  type="checkbox"
+                  checked={settings.showAiTranslation}
+                  onChange={e => onUpdate({ showAiTranslation: e.target.checked })}
+                  className="w-4 h-4 rounded border-border accent-accent"
+                />
+                <span className="w-2.5 h-2.5 rounded-full bg-ai flex-shrink-0" aria-hidden="true" />
+                <span className="text-sm text-text">AI draft translations</span>
+              </label>
             </div>
           </fieldset>
 

@@ -1,9 +1,10 @@
 import { useState, useCallback, memo } from 'react'
-import type { Verse, ReaderSettings } from '../types/bible'
+import type { Verse, ReaderSettings, TranslationEntry } from '../types/bible'
 import { WordCard } from './WordCard'
 import { ShareVerse } from './ShareVerse'
 import { AnnotationEditor } from './AnnotationEditor'
 import { VariantIndicator } from './VariantIndicator'
+import { ConfidenceBadge, ConfidencePill } from './ConfidenceBadge'
 
 interface VerseViewProps {
   verse: Verse
@@ -24,7 +25,7 @@ export const VerseView = memo(function VerseView({
   isBookmarked,
   onToggleBookmark,
 }: VerseViewProps) {
-  const { readingMode, showTransliteration, showLxx, showKjv, fontSize } = settings
+  const { readingMode, showTransliteration, showLxx, showKjv, showAiTranslation, fontSize } = settings
   const hasLxx = verse.translations?.lxx
   const hasKjv = verse.translations?.kjv
   const hasDual = hasLxx || hasKjv
@@ -83,18 +84,20 @@ export const VerseView = memo(function VerseView({
               hasDual={!!hasDual}
               showLxx={showLxx}
               showKjv={showKjv}
+              showAiTranslation={showAiTranslation}
               fontSize={fontSize}
             />
           )}
 
           {readingMode === 'read' && (
-            <ReadModeBlock verse={verse} fontSize={fontSize} />
+            <ReadModeBlock verse={verse} showAiTranslation={showAiTranslation} fontSize={fontSize} />
           )}
 
           {readingMode === 'compare' && (
             <CompareModeBlock
               verse={verse}
               hasDual={!!hasDual}
+              showAiTranslation={showAiTranslation}
               fontSize={fontSize}
             />
           )}
@@ -127,20 +130,29 @@ function TranslationBlock({
   hasDual,
   showLxx,
   showKjv,
+  showAiTranslation,
   fontSize,
 }: {
   verse: Verse
   hasDual: boolean
   showLxx: boolean
   showKjv: boolean
+  showAiTranslation: boolean
   fontSize: number
 }) {
+  const aiEntry = verse.translations?.ai
+
   if (!hasDual) {
     // Single-source book (e.g., 1 Enoch)
     return (
-      <p className="text-text leading-relaxed" style={{ fontSize: fontSize * 0.85 }}>
-        {verse.translation}
-      </p>
+      <div className="space-y-2">
+        <p className="text-text leading-relaxed" style={{ fontSize: fontSize * 0.85 }}>
+          {verse.translation}
+        </p>
+        {showAiTranslation && aiEntry && (
+          <AiTranslationBlock aiEntry={aiEntry} fontSize={fontSize} />
+        )}
+      </div>
     )
   }
 
@@ -172,8 +184,11 @@ function TranslationBlock({
           </p>
         </div>
       )}
+      {showAiTranslation && aiEntry && (
+        <AiTranslationBlock aiEntry={aiEntry} fontSize={fontSize} />
+      )}
       {/* Fallback if neither source toggled on but we have the generic translation */}
-      {!showLxx && !showKjv && verse.translation && (
+      {!showLxx && !showKjv && !showAiTranslation && verse.translation && (
         <p className="text-text leading-relaxed" style={{ fontSize: fontSize * 0.85 }}>
           {verse.translation}
         </p>
@@ -182,12 +197,26 @@ function TranslationBlock({
   )
 }
 
-function ReadModeBlock({ verse, fontSize }: { verse: Verse; fontSize: number }) {
+function ReadModeBlock({ verse, showAiTranslation, fontSize }: { verse: Verse; showAiTranslation: boolean; fontSize: number }) {
   // Clean reading: just the primary English text
-  const text = verse.translations?.lxx || verse.translations?.kjv || verse.translation
+  const scholarlyText = verse.translations?.lxx || verse.translations?.kjv || verse.translation
+  const aiEntry = verse.translations?.ai
+
+  // Use AI as fallback when no scholarly translation exists
+  if (!scholarlyText && showAiTranslation && aiEntry) {
+    return (
+      <div className="flex items-start gap-2">
+        <p className="text-text leading-relaxed" style={{ fontSize: fontSize * 0.9 }}>
+          {aiEntry.text}
+        </p>
+        <ConfidencePill confidence={aiEntry.confidence ?? 0} />
+      </div>
+    )
+  }
+
   return (
     <p className="text-text leading-relaxed" style={{ fontSize: fontSize * 0.9 }}>
-      {text}
+      {scholarlyText}
     </p>
   )
 }
@@ -195,17 +224,32 @@ function ReadModeBlock({ verse, fontSize }: { verse: Verse; fontSize: number }) 
 function CompareModeBlock({
   verse,
   hasDual,
+  showAiTranslation,
   fontSize,
 }: {
   verse: Verse
   hasDual: boolean
+  showAiTranslation: boolean
   fontSize: number
 }) {
+  const aiEntry = verse.translations?.ai
+
   if (!hasDual) {
+    // No scholarly dual sources — show generic + AI fallback
     return (
-      <p className="text-text leading-relaxed" style={{ fontSize: fontSize * 0.85 }}>
-        {verse.translation}
-      </p>
+      <div className="space-y-2">
+        <p className="text-text leading-relaxed" style={{ fontSize: fontSize * 0.85 }}>
+          {verse.translation}
+        </p>
+        {showAiTranslation && aiEntry && !verse.translation && (
+          <div className="flex items-start gap-2">
+            <p className="text-text leading-relaxed" style={{ fontSize: fontSize * 0.85 }}>
+              {aiEntry.text}
+            </p>
+            <ConfidencePill confidence={aiEntry.confidence ?? 0} />
+          </div>
+        )}
+      </div>
     )
   }
 
@@ -237,6 +281,47 @@ function CompareModeBlock({
           </p>
         </div>
       )}
+      {showAiTranslation && aiEntry && (
+        <div className="border-l-2 border-ai-border pl-3">
+          <span className="text-ai text-xs font-medium uppercase tracking-wide">
+            AI Draft
+          </span>
+          <p
+            className="text-text leading-relaxed mt-0.5"
+            style={{ fontSize: fontSize * 0.85 }}
+          >
+            {aiEntry.text}
+          </p>
+          <div className="mt-1">
+            <ConfidencePill confidence={aiEntry.confidence ?? 0} />
+          </div>
+        </div>
+      )}
+    </div>
+  )
+}
+
+/** Shared AI translation block for Study mode */
+function AiTranslationBlock({ aiEntry, fontSize }: { aiEntry: TranslationEntry; fontSize: number }) {
+  return (
+    <div className="border-l-2 border-ai-border pl-3">
+      <span className="text-ai text-xs font-medium uppercase tracking-wide">
+        AI Draft
+      </span>
+      <p
+        className="text-text leading-relaxed mt-0.5 bg-ai-bg rounded px-2 py-1"
+        style={{ fontSize: fontSize * 0.85 }}
+      >
+        {aiEntry.text}
+      </p>
+      <div className="mt-1.5">
+        <ConfidenceBadge
+          confidence={aiEntry.confidence ?? 0}
+          verifiedWords={aiEntry.verifiedWords}
+          totalWords={aiEntry.totalWords}
+          source={aiEntry.source}
+        />
+      </div>
     </div>
   )
 }

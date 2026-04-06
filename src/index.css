@@ -21,6 +21,9 @@
   --color-mt: #c76b6b;
   --color-mt-bg: rgba(199, 107, 107, 0.06);
   --color-mt-border: rgba(199, 107, 107, 0.4);
+  --color-ai: #d4943a;
+  --color-ai-bg: rgba(212, 148, 58, 0.06);
+  --color-ai-border: rgba(212, 148, 58, 0.4);
   --color-border: rgba(212, 168, 67, 0.1);
   --color-border-strong: rgba(212, 168, 67, 0.2);
   --font-geez: "Noto Sans Ethiopic", "Abyssinica SIL", serif;
