@@ -6,13 +6,15 @@ import { BookmarksPage } from './pages/BookmarksPage'
 import { WelcomePage } from './pages/WelcomePage'
 import { AboutPage } from './pages/AboutPage'
 import { DiscoverPage } from './pages/DiscoverPage'
+import { BiblePage } from './pages/BiblePage'
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/ethiopian-bible">
       <Routes>
         <Route element={<Layout />}>
           <Route path="/" element={<WelcomePage />} />
+          <Route path="/bible" element={<BiblePage />} />
           <Route path="/discover" element={<DiscoverPage />} />
           <Route path="/read/:book/:chapter" element={<ReaderPage />} />
           <Route path="/read/:book/:chapter/:verse" element={<ReaderPage />} />

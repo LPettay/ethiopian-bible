@@ -87,14 +87,14 @@ export function WelcomePage() {
           accent
         />
         <DoorCard
-          title="Start Reading"
-          desc="Begin with Genesis in Ge'ez with English translations."
-          to="/read/Gen/1"
+          title="Open the Bible"
+          desc="All 36 books, organized by section. Tap a book to start reading."
+          to="/bible"
         />
         <DoorCard
-          title="Explore All 36 Books"
-          desc="Browse the library, including texts unique to the Ethiopian canon."
-          action={() => window.dispatchEvent(new CustomEvent('open-book-picker'))}
+          title="Start with Genesis"
+          desc="Begin at the beginning — dual Septuagint and KJV translations."
+          to="/read/Gen/1"
         />
         <DoorCard
           title="Scholarly Comparison"
