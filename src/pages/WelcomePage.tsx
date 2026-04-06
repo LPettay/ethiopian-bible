@@ -51,7 +51,7 @@ export function WelcomePage() {
   return (
     <div className="flex flex-col items-center justify-center px-4 py-12 md:py-20 min-h-[80svh]">
       {/* Cross / Emblem */}
-      <div className="text-accent mb-6">
+      <div className="text-accent mb-6" aria-hidden="true">
         <svg className="w-14 h-14" viewBox="0 0 48 48" fill="none">
           <rect x="21" y="4" width="6" height="40" rx="1" fill="currentColor" opacity="0.9" />
           <rect x="8" y="14" width="32" height="6" rx="1" fill="currentColor" opacity="0.9" />
@@ -70,7 +70,7 @@ export function WelcomePage() {
       </p>
 
       {/* Ge'ez decorative text */}
-      <p className="font-geez text-accent/40 text-xl mt-4 tracking-widest">
+      <p className="font-geez text-accent/40 text-xl mt-4 tracking-widest" lang="gez">
         መጽሐፍ ቅዱስ
       </p>
 
@@ -95,9 +95,9 @@ function DoorCard({ title, desc, to, icon }: (typeof DOORS)[number]) {
                    hover:border-accent hover:bg-surface-hover transition-all group text-left cursor-pointer"
       >
         <div className="text-accent group-hover:text-accent-bright transition-colors">{icon}</div>
-        <h3 className="text-sm font-semibold text-text group-hover:text-accent-bright transition-colors">
+        <h2 className="text-sm font-semibold text-text group-hover:text-accent-bright transition-colors">
           {title}
-        </h3>
+        </h2>
         <p className="text-xs text-text-muted leading-relaxed">{desc}</p>
       </button>
     )

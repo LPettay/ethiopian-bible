@@ -254,7 +254,7 @@ export function ReaderPage() {
           onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
           className="fixed bottom-6 right-6 z-20 p-3 rounded-full bg-surface-raised border border-border-strong
                      shadow-lg text-text-muted hover:text-accent hover:border-accent transition-all cursor-pointer
-                     animate-fade-in"
+                     animate-simple-fade-in"
           aria-label="Back to top"
         >
           <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2} aria-hidden="true">

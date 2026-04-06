@@ -80,10 +80,12 @@ export function AnnotationEditor({ book, chapter, verse, onAnnotationChange }: A
             ? 'text-accent'
             : 'text-text-faint hover:text-accent'
         }`}
-        title={hasAnnotation ? 'Edit note' : 'Add note'}
+        aria-label={hasAnnotation ? 'Edit note' : 'Add note'}
+        aria-expanded={isOpen}
       >
         <svg
           className="w-3.5 h-3.5"
+          aria-hidden="true"
           fill={hasAnnotation ? 'currentColor' : 'none'}
           viewBox="0 0 24 24"
           stroke="currentColor"

@@ -163,7 +163,7 @@ export function Layout() {
       <BookPicker
         open={bookPickerOpen}
         onClose={() => setBookPickerOpen(false)}
-        
+        currentBook={params.book}
       />
       <Settings
         open={settingsOpen}
