@@ -1,41 +1,48 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Ethiopic:wght@400;600;700&family=Inter:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Ethiopic:wght@400;600;700&family=Crimson+Pro:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Inter:wght@400;500;600&display=swap');
 @import "tailwindcss";
 
 @theme {
-  --color-bg: #121210;
-  --color-surface: #1e1e1a;
-  --color-surface-raised: #2a2a24;
-  --color-surface-hover: #33332c;
-  --color-text: #e0ddd4;
-  --color-text-muted: #8a8878;
-  --color-text-faint: #5a5848;
-  --color-geez: #f5eedc;
-  --color-translit: #a89880;
-  --color-gloss: #c8b89a;
-  --color-accent: #d4a843;
-  --color-accent-dim: rgba(212, 168, 67, 0.15);
-  --color-accent-bright: #e6be5a;
-  --color-lxx: #7cb87c;
-  --color-lxx-bg: rgba(124, 184, 124, 0.06);
-  --color-lxx-border: rgba(124, 184, 124, 0.4);
-  --color-mt: #c76b6b;
-  --color-mt-bg: rgba(199, 107, 107, 0.06);
-  --color-mt-border: rgba(199, 107, 107, 0.4);
-  --color-ai: #d4943a;
-  --color-ai-bg: rgba(212, 148, 58, 0.06);
-  --color-ai-border: rgba(212, 148, 58, 0.4);
-  --color-border: rgba(212, 168, 67, 0.1);
-  --color-border-strong: rgba(212, 168, 67, 0.2);
+  /* Ethiopian manuscript palette — warm, aged, candlelit */
+  --color-bg: #1a1510;
+  --color-surface: #231e17;
+  --color-surface-raised: #2e2820;
+  --color-surface-hover: #372f25;
+  --color-text: #ede4d3;
+  --color-text-muted: #a09580;
+  --color-text-faint: #6d6050;
+  --color-geez: #f5ecd6;
+  --color-translit: #b8a588;
+  --color-gloss: #d4c4a0;
+  --color-accent: #c8952a;
+  --color-accent-dim: rgba(200, 149, 42, 0.12);
+  --color-accent-bright: #ddb044;
+  --color-lxx: #7aad6e;
+  --color-lxx-bg: rgba(122, 173, 110, 0.07);
+  --color-lxx-border: rgba(122, 173, 110, 0.35);
+  --color-mt: #b86060;
+  --color-mt-bg: rgba(184, 96, 96, 0.07);
+  --color-mt-border: rgba(184, 96, 96, 0.35);
+  --color-ai: #c8873a;
+  --color-ai-bg: rgba(200, 135, 58, 0.07);
+  --color-ai-border: rgba(200, 135, 58, 0.35);
+  --color-border: rgba(200, 160, 80, 0.08);
+  --color-border-strong: rgba(200, 160, 80, 0.16);
   --font-geez: "Noto Sans Ethiopic", "Abyssinica SIL", serif;
-  --font-body: "Inter", system-ui, sans-serif;
+  --font-body: "Crimson Pro", "Georgia", serif;
+  --font-ui: "Inter", system-ui, sans-serif;
 }
 
+/* --- Base --- */
 body {
   font-family: var(--font-body);
   background-color: var(--color-bg);
   color: var(--color-text);
   -webkit-font-smoothing: antialiased;
   margin: 0;
+  /* Subtle parchment grain texture */
+  background-image:
+    radial-gradient(ellipse at 20% 50%, rgba(200, 149, 42, 0.03) 0%, transparent 50%),
+    radial-gradient(ellipse at 80% 20%, rgba(200, 149, 42, 0.02) 0%, transparent 50%);
 }
 
 #root {
@@ -44,12 +51,51 @@ body {
   flex-direction: column;
 }
 
-::-webkit-scrollbar { width: 6px; }
-::-webkit-scrollbar-track { background: var(--color-bg); }
-::-webkit-scrollbar-thumb { background: #3d3d30; border-radius: 3px; }
-* { scrollbar-width: thin; scrollbar-color: #3d3d30 var(--color-bg); }
+/* --- Scrollbar --- */
+::-webkit-scrollbar { width: 5px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: rgba(200, 149, 42, 0.15); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: rgba(200, 149, 42, 0.3); }
+* { scrollbar-width: thin; scrollbar-color: rgba(200, 149, 42, 0.15) transparent; }
 
-/* Skip-to-content link */
+/* --- Typography --- */
+/* UI elements (nav, labels, buttons) use Inter */
+nav, button, [role="dialog"], .font-ui,
+summary, label, input, select, textarea {
+  font-family: var(--font-ui);
+}
+
+/* --- Ethiopian Cross Divider --- */
+.cross-divider {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin: 2rem 0;
+  color: var(--color-accent);
+  opacity: 0.25;
+}
+.cross-divider::before,
+.cross-divider::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: currentColor;
+}
+
+/* --- Verse styling --- */
+.verse-text {
+  font-family: var(--font-body);
+  font-size: 1.05rem;
+  line-height: 1.75;
+  letter-spacing: 0.01em;
+}
+
+/* Ge'ez text glow */
+.geez-glow {
+  text-shadow: 0 0 20px rgba(200, 149, 42, 0.08);
+}
+
+/* --- Skip-to-content --- */
 .skip-to-content {
   position: absolute;
   left: -9999px;
@@ -75,12 +121,11 @@ body {
   z-index: 100;
 }
 
-/* Animations */
+/* --- Animations --- */
 @keyframes tooltip-fade-in {
   from { opacity: 0; transform: translateX(-50%) translateY(4px); }
   to { opacity: 1; transform: translateX(-50%) translateY(0); }
 }
-
 .animate-fade-in {
   animation: tooltip-fade-in 0.15s ease-out;
 }
@@ -89,7 +134,6 @@ body {
   from { opacity: 0; transform: translateY(4px); }
   to { opacity: 1; transform: translateY(0); }
 }
-
 .animate-simple-fade-in {
   animation: simple-fade-in 0.2s ease-out;
 }
@@ -98,17 +142,15 @@ body {
   from { opacity: 0; transform: translateY(8px); }
   to { opacity: 1; transform: translateY(0); }
 }
-
 .animate-chapter-in {
   animation: chapter-fade-in 0.3s ease-out;
 }
 
-/* Loading skeleton shimmer */
+/* --- Loading skeleton --- */
 @keyframes shimmer {
   0% { background-position: -400px 0; }
   100% { background-position: 400px 0; }
 }
-
 .skeleton-line {
   height: 1em;
   border-radius: 0.25rem;

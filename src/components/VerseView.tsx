@@ -35,23 +35,23 @@ export const VerseView = memo(function VerseView({
   return (
     <div
       id={`verse-${verse.num}`}
-      className="group py-5 scroll-mt-20"
+      className="group py-4 scroll-mt-20"
       style={{ fontSize }}
     >
       {/* Verse number + bookmark + variant + actions */}
-      <div className="flex items-start gap-3">
-        <div className="flex-shrink-0 flex items-center gap-1 mt-0.5">
+      <div className="flex items-start gap-2">
+        <div className="flex-shrink-0 flex items-center gap-1 mt-1 w-8 justify-end">
           <button
             onClick={() => onToggleBookmark(verse.num)}
-            className="flex items-center gap-1 cursor-pointer select-none"
+            className="flex items-center gap-0.5 cursor-pointer select-none"
             aria-label={isBookmarked ? `Remove bookmark from verse ${verse.num}` : `Bookmark verse ${verse.num}`}
           >
-            <span className="text-accent font-semibold text-sm tabular-nums">
+            <span className="text-accent/50 text-xs tabular-nums font-body italic">
               {verse.num}
             </span>
             {isBookmarked && (
               <svg
-                className="w-3.5 h-3.5 text-accent fill-current"
+                className="w-3 h-3 text-accent fill-current"
                 viewBox="0 0 24 24"
                 aria-hidden="true"
               >
@@ -65,7 +65,7 @@ export const VerseView = memo(function VerseView({
         <div className="flex-1 space-y-3">
           {/* Study mode: word cards */}
           {readingMode === 'study' && verse.words.length > 0 && (
-            <div className="flex flex-wrap gap-2">
+            <div className="flex flex-wrap gap-1 items-baseline">
               {verse.words.map((word, i) => (
                 <WordCard
                   key={i}
@@ -146,7 +146,7 @@ function TranslationBlock({
     // Single-source book (e.g., 1 Enoch)
     return (
       <div className="space-y-2">
-        <p className="text-text leading-relaxed" style={{ fontSize: fontSize * 0.85 }}>
+        <p className="verse-text text-text" style={{ fontSize: fontSize * 0.85 }}>
           {verse.translation}
         </p>
         {showAiTranslation && aiEntry && (
@@ -157,14 +157,14 @@ function TranslationBlock({
   }
 
   return (
-    <div className="space-y-2">
+    <div className="space-y-2 mt-1">
       {showLxx && verse.translations?.lxx && (
-        <div className="border-l-2 border-lxx-border pl-3">
-          <span className="text-lxx text-xs font-medium uppercase tracking-wide">
-            LXX (Brenton)
+        <div className="border-l border-lxx-border/60 pl-3">
+          <span className="text-lxx/60 text-[0.65rem] font-body italic tracking-wide">
+            Septuagint
           </span>
           <p
-            className="text-text leading-relaxed mt-0.5 bg-lxx-bg rounded px-2 py-1"
+            className="verse-text text-text mt-0.5"
             style={{ fontSize: fontSize * 0.85 }}
           >
             {verse.translations.lxx}
@@ -172,12 +172,12 @@ function TranslationBlock({
         </div>
       )}
       {showKjv && verse.translations?.kjv && (
-        <div className="border-l-2 border-mt-border pl-3">
-          <span className="text-mt text-xs font-medium uppercase tracking-wide">
-            KJV
+        <div className="border-l border-mt-border/60 pl-3">
+          <span className="text-mt/60 text-[0.65rem] font-body italic tracking-wide">
+            King James
           </span>
           <p
-            className="text-text leading-relaxed mt-0.5 bg-mt-bg rounded px-2 py-1"
+            className="verse-text text-text mt-0.5"
             style={{ fontSize: fontSize * 0.85 }}
           >
             {verse.translations.kjv}
@@ -189,7 +189,7 @@ function TranslationBlock({
       )}
       {/* Fallback if neither source toggled on but we have the generic translation */}
       {!showLxx && !showKjv && !showAiTranslation && verse.translation && (
-        <p className="text-text leading-relaxed" style={{ fontSize: fontSize * 0.85 }}>
+        <p className="verse-text text-text" style={{ fontSize: fontSize * 0.85 }}>
           {verse.translation}
         </p>
       )}
@@ -206,7 +206,7 @@ function ReadModeBlock({ verse, showAiTranslation, fontSize }: { verse: Verse; s
   if (!scholarlyText && showAiTranslation && aiEntry) {
     return (
       <div className="flex items-start gap-2">
-        <p className="text-text leading-relaxed" style={{ fontSize: fontSize * 0.9 }}>
+        <p className="verse-text text-text" style={{ fontSize: fontSize * 0.9 }}>
           {aiEntry.text}
         </p>
         <ConfidencePill confidence={aiEntry.confidence ?? 0} />
@@ -215,7 +215,7 @@ function ReadModeBlock({ verse, showAiTranslation, fontSize }: { verse: Verse; s
   }
 
   return (
-    <p className="text-text leading-relaxed" style={{ fontSize: fontSize * 0.9 }}>
+    <p className="verse-text text-text" style={{ fontSize: fontSize * 0.9 }}>
       {scholarlyText}
     </p>
   )
@@ -256,12 +256,12 @@ function CompareModeBlock({
   return (
     <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
       {verse.translations?.lxx && (
-        <div className="border-l-2 border-lxx-border pl-3">
-          <span className="text-lxx text-xs font-medium uppercase tracking-wide">
-            LXX (Brenton)
+        <div className="border-l border-lxx-border/60 pl-3">
+          <span className="text-lxx/60 text-[0.65rem] font-body italic tracking-wide">
+            Septuagint
           </span>
           <p
-            className="text-text leading-relaxed mt-0.5"
+            className="verse-text text-text mt-0.5"
             style={{ fontSize: fontSize * 0.85 }}
           >
             {verse.translations.lxx}
@@ -269,12 +269,12 @@ function CompareModeBlock({
         </div>
       )}
       {verse.translations?.kjv && (
-        <div className="border-l-2 border-mt-border pl-3">
-          <span className="text-mt text-xs font-medium uppercase tracking-wide">
-            KJV
+        <div className="border-l border-mt-border/60 pl-3">
+          <span className="text-mt/60 text-[0.65rem] font-body italic tracking-wide">
+            King James
           </span>
           <p
-            className="text-text leading-relaxed mt-0.5"
+            className="verse-text text-text mt-0.5"
             style={{ fontSize: fontSize * 0.85 }}
           >
             {verse.translations.kjv}
@@ -282,12 +282,12 @@ function CompareModeBlock({
         </div>
       )}
       {showAiTranslation && aiEntry && (
-        <div className="border-l-2 border-ai-border pl-3">
-          <span className="text-ai text-xs font-medium uppercase tracking-wide">
+        <div className="border-l border-ai-border/60 pl-3">
+          <span className="text-ai/60 text-[0.65rem] font-body italic tracking-wide">
             AI Draft
           </span>
           <p
-            className="text-text leading-relaxed mt-0.5"
+            className="verse-text text-text mt-0.5"
             style={{ fontSize: fontSize * 0.85 }}
           >
             {aiEntry.text}
@@ -304,12 +304,12 @@ function CompareModeBlock({
 /** Shared AI translation block for Study mode */
 function AiTranslationBlock({ aiEntry, fontSize }: { aiEntry: TranslationEntry; fontSize: number }) {
   return (
-    <div className="border-l-2 border-ai-border pl-3">
-      <span className="text-ai text-xs font-medium uppercase tracking-wide">
+    <div className="border-l border-ai-border/60 pl-3">
+      <span className="text-ai/60 text-[0.65rem] font-body italic tracking-wide">
         AI Draft
       </span>
       <p
-        className="text-text leading-relaxed mt-0.5 bg-ai-bg rounded px-2 py-1"
+        className="verse-text text-text mt-0.5"
         style={{ fontSize: fontSize * 0.85 }}
       >
         {aiEntry.text}

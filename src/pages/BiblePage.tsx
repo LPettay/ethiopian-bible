@@ -59,39 +59,39 @@ export function BiblePage() {
     const chapters = Array.from({ length: selectedBook.chapters }, (_, i) => i + 1)
 
     return (
-      <div className="max-w-3xl mx-auto px-4 py-6">
+      <div className="max-w-3xl mx-auto px-4 py-8">
         <button
           onClick={() => setSelectedBook(null)}
-          className="text-accent text-sm mb-4 hover:text-accent-bright transition-colors cursor-pointer"
+          className="text-accent/60 text-sm mb-6 hover:text-accent transition-colors cursor-pointer font-body italic"
         >
-          &larr; All books
+          &larr; all books
         </button>
 
-        <div className="mb-6">
-          <h1 className="text-xl font-semibold text-text">
+        <div className="mb-8">
+          <h1 className="text-2xl font-body font-semibold text-text">
             {selectedBook.name}
           </h1>
           {(selectedBook.geez_name || selectedBook.geez) && (
-            <p className="font-geez text-geez/60 text-sm mt-0.5" lang="gez">
+            <p className="font-geez text-geez/40 text-base mt-1 geez-glow" lang="gez">
               {selectedBook.geez_name || selectedBook.geez}
             </p>
           )}
           <div className="flex items-center gap-2 mt-2">
-            <span className={`w-2 h-2 rounded-full ${STATUS_LABELS[status].dot}`} />
-            <span className="text-text-muted text-xs">{STATUS_LABELS[status].label}</span>
-            <span className="text-text-faint text-xs">&middot; {selectedBook.chapters} chapters</span>
+            <span className={`w-1.5 h-1.5 rounded-full ${STATUS_LABELS[status].dot}`} />
+            <span className="text-text-muted text-xs font-body">{STATUS_LABELS[status].label}</span>
+            <span className="text-text-faint text-xs font-body">&middot; {selectedBook.chapters} chapters</span>
           </div>
         </div>
 
-        <div className="grid grid-cols-6 sm:grid-cols-8 md:grid-cols-10 gap-2">
+        <div className="grid grid-cols-8 sm:grid-cols-10 md:grid-cols-12 gap-1">
           {chapters.map(ch => (
             <Link
               key={ch}
               to={`/read/${selectedBook.abbrev}/${ch}`}
-              className="aspect-square flex items-center justify-center rounded-lg
-                         bg-surface border border-border text-text text-sm font-medium
-                         hover:border-accent hover:bg-surface-hover hover:text-accent
-                         transition-all"
+              className="aspect-square flex items-center justify-center
+                         text-text-muted text-sm font-body
+                         hover:text-accent hover:bg-surface-hover/40
+                         transition-all rounded-sm"
             >
               {ch}
             </Link>
@@ -103,34 +103,37 @@ export function BiblePage() {
 
   // Book list view
   return (
-    <div className="max-w-3xl mx-auto px-4 py-6">
-      <div className="mb-6">
-        <h1 className="text-xl font-semibold text-text">The Ethiopian Bible</h1>
-        <p className="text-text-muted text-sm mt-1">
-          36 books &middot; 1,076 chapters &middot; tap any book to start reading
+    <div className="max-w-3xl mx-auto px-4 py-8">
+      <div className="mb-8">
+        <h1 className="text-2xl font-body font-semibold text-text">The Ethiopian Bible</h1>
+        <p className="text-text-muted text-sm mt-1 font-body italic">
+          36 books &middot; 1,076 chapters
         </p>
 
         {/* Legend */}
-        <div className="flex gap-4 mt-3 text-xs text-text-muted">
+        <div className="flex gap-4 mt-3 text-xs text-text-muted font-body">
           <span className="flex items-center gap-1.5">
-            <span className="w-2 h-2 rounded-full bg-lxx" /> LXX + KJV
+            <span className="w-1.5 h-1.5 rounded-full bg-lxx" /> LXX + KJV
           </span>
           <span className="flex items-center gap-1.5">
-            <span className="w-2 h-2 rounded-full bg-accent" /> English
+            <span className="w-1.5 h-1.5 rounded-full bg-accent" /> English
           </span>
           <span className="flex items-center gap-1.5">
-            <span className="w-2 h-2 rounded-full bg-text-faint" /> Ge'ez only
+            <span className="w-1.5 h-1.5 rounded-full bg-text-faint" /> Ge'ez only
           </span>
         </div>
       </div>
 
       {sections.map(section => (
-        <div key={section.label} className="mb-8">
-          <h2 className="text-xs uppercase tracking-widest text-text-muted mb-3 px-1">
+        <div key={section.label} className="mb-10">
+          <h2 className="text-xs uppercase tracking-widest text-accent/40 mb-4 flex items-center gap-3 font-body">
+            <svg viewBox="0 0 64 64" className="w-3 h-3 flex-shrink-0" aria-hidden="true">
+              <path d="M28 4h8v16h16v8H36v16h16v8H36v8h-8v-8H12v-8h16V28H12v-8h16V4z" fill="currentColor"/>
+            </svg>
             {SECTION_LABELS[section.label] || section.label}
           </h2>
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
-            {section.books.map(book => {
+          <div className="space-y-0">
+            {section.books.map((book, i) => {
               const status = statuses[book.abbrev] || 'geez'
               const sl = STATUS_LABELS[status]
               return (
@@ -140,28 +143,29 @@ export function BiblePage() {
                     ? navigate(`/read/${book.abbrev}/1`)
                     : setSelectedBook(book)
                   }
-                  className="flex items-center gap-3 p-3 rounded-lg bg-surface border border-border
-                             hover:border-accent hover:bg-surface-hover transition-all text-left
-                             cursor-pointer group"
+                  className={`flex items-center gap-3 w-full px-3 py-3
+                             hover:bg-surface-hover/40 transition-all text-left
+                             cursor-pointer group
+                             ${i < section.books.length - 1 ? 'border-b border-border/50' : ''}`}
                 >
                   {/* Status dot */}
-                  <span className={`w-2.5 h-2.5 rounded-full flex-shrink-0 ${sl.dot}`} />
+                  <span className={`w-1.5 h-1.5 rounded-full flex-shrink-0 opacity-60 ${sl.dot}`} />
 
                   {/* Book info */}
                   <div className="flex-1 min-w-0">
-                    <div className="text-sm font-medium text-text group-hover:text-accent-bright transition-colors truncate">
+                    <div className="text-sm font-body text-text group-hover:text-accent transition-colors truncate">
                       {book.name}
                     </div>
                     {(book.geez_name || book.geez) && (
-                      <div className="font-geez text-geez/40 text-xs truncate" lang="gez">
+                      <div className="font-geez text-geez/30 text-xs truncate" lang="gez">
                         {book.geez_name || book.geez}
                       </div>
                     )}
                   </div>
 
                   {/* Chapter count */}
-                  <span className="text-text-faint text-xs flex-shrink-0">
-                    {book.chapters} ch
+                  <span className="text-text-faint text-xs flex-shrink-0 font-body italic">
+                    {book.chapters}
                   </span>
                 </button>
               )

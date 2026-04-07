@@ -16,25 +16,25 @@ export const WordCard = memo(function WordCard({ word, showTransliteration, font
     <>
       <button
         onClick={() => setShowDetail(true)}
-        className="group flex flex-col items-center gap-1 rounded-lg bg-surface px-3 py-2.5
-                   border border-border hover:border-border-strong hover:bg-surface-hover
-                   transition-all duration-200 cursor-pointer select-none min-w-[4rem]"
+        className="group flex flex-col items-center gap-1.5 px-2 py-1.5
+                   rounded hover:bg-surface-hover/50
+                   transition-all duration-200 cursor-pointer select-none"
         aria-label={`${word.g}${word.gl ? ` — ${word.gl}` : ''}`}
       >
         <span
-          className="font-geez text-geez leading-tight"
+          className="font-geez text-geez leading-tight geez-glow"
           lang="gez"
-          style={{ fontSize: fontSize * 1.3 }}
+          style={{ fontSize: fontSize * 1.4 }}
         >
           {word.g}
         </span>
         {showTransliteration && (
-          <span className="text-translit text-xs italic leading-tight">
+          <span className="font-body text-translit italic leading-tight" style={{ fontSize: '0.75rem' }}>
             {word.t}
           </span>
         )}
         {word.gl && (
-          <span className="text-gloss text-xs leading-tight">
+          <span className="text-gloss text-xs leading-tight opacity-70">
             {word.gl}
           </span>
         )}
@@ -43,36 +43,37 @@ export const WordCard = memo(function WordCard({ word, showTransliteration, font
       {showDetail && (
         <div
           ref={trapRef}
-          className="fixed inset-0 z-50 flex items-center justify-center bg-black/60 p-4"
+          className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 p-4"
           onClick={() => setShowDetail(false)}
           role="dialog"
           aria-modal="true"
           aria-label={`Word detail: ${word.g}`}
         >
           <div
-            className="bg-surface-raised rounded-xl p-6 max-w-sm w-full border border-border-strong
-                       shadow-2xl"
+            className="bg-surface-raised max-w-xs w-full
+                       border-l-2 border-accent/30 pl-6 pr-5 py-6
+                       shadow-[0_8px_32px_rgba(0,0,0,0.4)]"
             onClick={e => e.stopPropagation()}
           >
-            <div className="text-center space-y-3">
-              <p className="font-geez text-geez text-4xl leading-relaxed" lang="gez">
+            <div className="space-y-3">
+              <p className="font-geez text-geez text-4xl leading-relaxed geez-glow" lang="gez">
                 {word.g}
               </p>
-              <p className="text-translit text-lg italic">
+              <p className="font-body text-translit text-lg italic">
                 {word.t}
               </p>
               {word.gl && (
-                <p className="text-accent text-base font-medium pt-2 border-t border-border">
+                <p className="font-body text-accent/80 text-base pt-2" style={{ borderTop: '1px solid rgba(200,160,80,0.1)' }}>
                   {word.gl}
                 </p>
               )}
             </div>
             <button
               onClick={() => setShowDetail(false)}
-              className="mt-6 w-full py-2 rounded-lg bg-surface hover:bg-surface-hover
-                         text-text-muted text-sm transition-colors cursor-pointer"
+              className="mt-5 text-text-faint text-xs font-body italic hover:text-text-muted
+                         transition-colors cursor-pointer"
             >
-              Close
+              close
             </button>
           </div>
         </div>
