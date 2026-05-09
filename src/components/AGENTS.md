@@ -40,3 +40,7 @@ Presentational React components. **Props in, JSX out.** No data fetching, no `lo
 1. Add `<Name>.tsx` here. Default-export the component or named-export — be consistent with neighbors.
 2. Add it to the **Files here** table above with a one-sentence purpose.
 3. If it has non-trivial branching, add a unit test under `tests/unit/components.test.tsx`.
+
+---
+
+<!-- last-reviewed: e0e38e3 -->

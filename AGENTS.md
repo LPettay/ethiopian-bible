@@ -28,7 +28,9 @@ Every `AGENTS.md` in the repo, with its purpose.
 │   ├── lib/AGENTS.md                Sole owner of public/data paths and localStorage keys
 │   └── pages/AGENTS.md              Route entrypoints — own URL params, delegate logic
 ├── tests/AGENTS.md                  Vitest unit tests; e2e dir reserved (Playwright not installed)
-└── public/data/AGENTS.md            Frozen content directory — Ge'ez + translations + reading paths
+├── public/data/AGENTS.md            Frozen content directory — Ge'ez + translations + reading paths
+└── scripts/AGENTS.md                Repo-hygiene tooling (M3) — bun-run check / stamp / lefthook
+    └── lib/AGENTS.md                Helper modules + per-check implementations
 ```
 
 Planned (land in M2):
@@ -44,7 +46,7 @@ Planned (land in M2):
 
 | Concern | Rule |
 |---|---|
-| Package manager | **`npm` only** for now (`package-lock.json` is the source of truth). Migration to bun is tracked as **M3** — do not preempt. |
+| Package manager | **`bun >= 1.1` only.** Never npm/yarn/pnpm. `bun.lock` is the source of truth; the matching wrong-PM lockfiles are forbidden by `scripts/lib/check-forbidden.ts`. See ADR-0008. |
 | Language | TypeScript strict (per `tsconfig.app.json`). No new `any` without a `// why: ...` comment. |
 | React | React 19. Hooks only. No class components. |
 | Routing | `react-router-dom` v7. **Only `src/pages/` and `App.tsx` may import from it.** Components must not. |
@@ -54,7 +56,7 @@ Planned (land in M2):
 | AGENTS.md scope | Every directory under `src/`, `tests/`, `public/data/` that contains files has an `AGENTS.md`. New directories require one in the same PR. |
 | Public surface | Deployed site URL shapes (`/read/:book/:chapter/:verse`, `/compare`, `/bookmarks`) are stable. Changes require an ADR (M2 onward). |
 | Comments | Explain *why*, not *what*. No narrating comments. |
-| Build & tests | `npm run build` and `npm test` must pass at every commit. |
+| Build & tests | `bun run build` and `bun run test` must pass at every commit. `bun run check` (presence + forbidden + freshness) and `bun run typecheck` are gated on every commit by lefthook. |
 | Deploy | GitHub Pages (`dist/index.html` copied to `404.html` for SPA routing). Do not change deploy plumbing in M1. |
 
 ---
@@ -86,8 +88,8 @@ These are deferred to a later milestone or version. If a contributor (human or A
 1. **Always read the relevant directory's `AGENTS.md`** before editing files in it.
 2. **Prefer editing existing files** over creating new ones.
 3. **Before suggesting a new dependency**, ask: does the standard library or an existing dep cover it?
-4. **Before running `npm install <pkg>`**, confirm with the human.
-5. **After substantive edits**, run `npm test` and `npm run build`. Both must pass.
+4. **Before running `bun add <pkg>`**, confirm with the human.
+5. **After substantive edits**, run `bun run test` and `bun run build`. Both must pass.
 6. **Structural decisions get ADRs** (from M2 onward). New directory, new dependency, schema change, URL-shape change — append a one-paragraph ADR to `docs/decisions/`.
 7. **Never commit directly to `main`.** One feature = one branch = one PR.
 8. **Do not edit `public/data/`** in M1. Content changes are gated on M5 (manifest) and M7 (provenance).
@@ -114,3 +116,7 @@ Decisions you can make autonomously:
 - Internal refactors that don't change behavior.
 - Adding tests.
 - Documentation improvements (excluding `public/data/` content).
+
+---
+
+<!-- last-reviewed: e0e38e3 -->

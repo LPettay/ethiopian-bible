@@ -51,3 +51,7 @@ The full machine-readable provenance manifest — every word back-traced to a sh
 - Code that reads this data → `src/lib/data.ts`
 - Type definitions for the data shape → `src/types/bible.ts`
 - UI that renders the data → `src/components/VerseView.tsx` and friends
+
+---
+
+<!-- last-reviewed: e0e38e3 -->
