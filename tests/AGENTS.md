@@ -31,3 +31,7 @@ Vitest unit tests. **No network** — fixtures only. The e2e directory exists as
 - Source under test → `src/`
 - The data the source operates on → `public/data/` (use fixtures, not real data)
 - The Vitest config → `vite.config.ts` (project root)
+
+---
+
+<!-- last-reviewed: e0e38e3 -->

@@ -49,3 +49,7 @@ A cycle in this graph is a bug.
 ## Status
 
 v0.1 deployed. v0.2 work is markdown-only (M1) and ADRs (M2) before any code lands.
+
+---
+
+<!-- last-reviewed: e0e38e3 -->

@@ -45,3 +45,7 @@ These URL shapes are **stable**. Changing one orphans every external bookmark an
 - Data fetching → `src/lib/data.ts`
 - `localStorage` → `src/lib/storage.ts`
 - The `<Routes>` tree itself → `src/App.tsx`
+
+---
+
+<!-- last-reviewed: e0e38e3 -->

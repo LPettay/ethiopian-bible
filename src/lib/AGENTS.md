@@ -31,3 +31,7 @@ The seam between the React UI and the outside world. **This directory is the sol
 ## Testing
 
 `lib/` is the easy test target — pure-ish TypeScript over JSON. Tests live in `tests/unit/data.test.ts`, `tests/unit/storage.test.ts`. They must run without network: load fixtures from disk, never hit `public/data/` over `fetch`.
+
+---
+
+<!-- last-reviewed: e0e38e3 -->
