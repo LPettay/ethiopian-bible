@@ -23,19 +23,14 @@ Every `AGENTS.md` in the repo, with its purpose.
 ```
 .
 ├── AGENTS.md                        ← you are here (constraints, scope, agent workflow)
+├── docs/AGENTS.md                   Architecture + ADR conventions
+│   └── decisions/AGENTS.md          ADR format + when to write one (ADRs 0001–0007 backfilled)
 ├── src/AGENTS.md                    Source root — dependency direction, module boundaries
 │   ├── components/AGENTS.md         Presentational components — props in, JSX out
 │   ├── lib/AGENTS.md                Sole owner of public/data paths and localStorage keys
 │   └── pages/AGENTS.md              Route entrypoints — own URL params, delegate logic
 ├── tests/AGENTS.md                  Vitest unit tests; e2e dir reserved (Playwright not installed)
 └── public/data/AGENTS.md            Frozen content directory — Ge'ez + translations + reading paths
-```
-
-Planned (land in M2):
-
-```
-└── docs/AGENTS.md                   Architecture + ADR conventions          (M2)
-    └── decisions/AGENTS.md          ADR format + when to write one          (M2)
 ```
 
 ---
@@ -96,7 +91,7 @@ These are deferred to a later milestone or version. If a contributor (human or A
 
 ## Index convention
 
-Every `AGENTS.md` carries an **Index** section with up to three sub-tables — include only the ones that apply: **Files here**, **Subdirectories**, **Planned (not yet created)**. The convention follows Tessera's ADR-0004; the equivalent ADR for this repo lands in M2.
+Every `AGENTS.md` carries an **Index** section with up to three sub-tables — include only the ones that apply: **Files here**, **Subdirectories**, **Planned (not yet created)**. The convention follows Tessera's ADR-0004; an equivalent ADR for this repo can be added later if/when the convention itself becomes load-bearing.
 
 ---
 
