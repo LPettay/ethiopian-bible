@@ -1,7 +1,8 @@
-import { describe, it, expect, beforeEach } from 'vitest'
+import { describe, it, expect, beforeEach, afterEach, vi } from 'vitest'
 import {
   dillmannSearchUrl,
   getGloss,
+  loadLexicon,
   setLexicon,
 } from '../../src/lib/lexicon'
 
@@ -62,5 +63,45 @@ describe('getGloss', () => {
   it('returns null when the loaded lexicon has no entry for the word', () => {
     setLexicon({ 'አዳም': { gloss: 'Adam', source: 'Dillmann' } })
     expect(getGloss(GEEZ)).toBeNull()
+  })
+})
+
+describe('loadLexicon', () => {
+  beforeEach(() => {
+    // Start each case with an empty module cache so loadLexicon actually fetches.
+    setLexicon(null)
+  })
+
+  afterEach(() => {
+    vi.restoreAllMocks()
+    setLexicon(null)
+  })
+
+  it('resolves to {} (never throws) when the lexicon file 404s', async () => {
+    vi.spyOn(globalThis, 'fetch').mockResolvedValue(
+      new Response('not found', { status: 404 }),
+    )
+    await expect(loadLexicon()).resolves.toEqual({})
+    // A 404 is an expected, non-fatal state: getGloss must still return null.
+    expect(getGloss(GEEZ)).toBeNull()
+  })
+
+  it('resolves to {} (never throws) when fetch itself rejects', async () => {
+    vi.spyOn(globalThis, 'fetch').mockRejectedValue(new Error('network down'))
+    await expect(loadLexicon()).resolves.toEqual({})
+    expect(getGloss(GEEZ)).toBeNull()
+  })
+
+  it('populates getGloss when given a stub payload', async () => {
+    const payload = { [GEEZ]: { gloss: 'book', source: 'Dillmann' } }
+    vi.spyOn(globalThis, 'fetch').mockResolvedValue(
+      new Response(JSON.stringify(payload), {
+        status: 200,
+        headers: { 'Content-Type': 'application/json' },
+      }),
+    )
+    await expect(loadLexicon()).resolves.toEqual(payload)
+    // After loading, getGloss surfaces the sourced gloss for the Ge'ez word.
+    expect(getGloss(GEEZ)).toEqual({ gloss: 'book', source: 'Dillmann' })
   })
 })
