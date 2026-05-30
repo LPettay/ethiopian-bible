@@ -11,6 +11,8 @@ The seam between the React UI and the outside world. **This directory is the sol
 | `data.ts` | The only module that reads chapter JSON, `books.json`, and `reading-paths.json`. Owns URL construction via `import.meta.env.BASE_URL` (see commit `9144745` — required for GitHub Pages). |
 | `storage.ts` | The only module that touches `localStorage`. Owns the key namespace and serialization format. |
 | `compare-data.ts` | Helpers for the compare view — joins parallel translations on a shared verse-id key. Pure functions over already-loaded data; does no fetching itself. |
+| `stub.ts` | Placeholder-book + Ge'ez-script predicates. `isStubBook(book)` (reads the `Book.stub` flag), `hasGeezScript(s)` (any Ethiopic U+1200–U+137F char), `isPlaceholderVerse(verse)` (verse whose `geez` field has no Ge'ez script). Pure; see ADR 0009. |
+| `lexicon.ts` | Client-side Ge'ez gloss lookup. `getGloss(geez)` returns an attributed `{gloss, source}` or `null` (never fabricates); `dillmannSearchUrl(geez)` builds a Beta Masaheft Dillmann link; `loadLexicon()` populates the cache from the **optional** `${BASE_URL}data/lexicon.json` (returns empty, never throws, when absent); `setLexicon()` seeds the cache for tests. Integrity-first; see ADR 0010. |
 
 ## Rules
 
@@ -30,7 +32,7 @@ The seam between the React UI and the outside world. **This directory is the sol
 
 ## Testing
 
-`lib/` is the easy test target — pure-ish TypeScript over JSON. Tests live in `tests/unit/data.test.ts`, `tests/unit/storage.test.ts`. They must run without network: load fixtures from disk, never hit `public/data/` over `fetch`.
+`lib/` is the easy test target — pure-ish TypeScript over JSON. Tests live in `tests/unit/data.test.ts`, `tests/unit/storage.test.ts`, `tests/unit/stub.test.ts`, `tests/unit/lexicon.test.ts`. They must run without network: load fixtures from disk (or seed via `setLexicon`), never hit `public/data/` over `fetch`.
 
 ---
 

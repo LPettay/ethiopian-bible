@@ -3,12 +3,14 @@ import { Outlet, Link, useParams, useNavigate } from 'react-router-dom'
 import { BookPicker } from './BookPicker'
 import { Settings } from './Settings'
 import { SearchPanel } from './SearchPanel'
+import { HelpModal } from './HelpModal'
 import { useSettings } from '../hooks/useSettings'
 
 export function Layout() {
   const [bookPickerOpen, setBookPickerOpen] = useState(false)
   const [settingsOpen, setSettingsOpen] = useState(false)
   const [searchOpen, setSearchOpen] = useState(false)
+  const [helpOpen, setHelpOpen] = useState(false)
   const [settings, updateSetting] = useSettings()
   const params = useParams<{ book?: string; chapter?: string }>()
   const navigate = useNavigate()
@@ -18,6 +20,21 @@ export function Layout() {
     const handler = () => setBookPickerOpen(true)
     window.addEventListener('open-book-picker', handler)
     return () => window.removeEventListener('open-book-picker', handler)
+  }, [])
+
+  // Open the keyboard-shortcuts help with "?" (unless typing in a field)
+  useEffect(() => {
+    const handler = (e: KeyboardEvent) => {
+      if (e.key !== '?') return
+      const tag = (e.target as HTMLElement)?.tagName
+      if (tag === 'INPUT' || tag === 'TEXTAREA' || (e.target as HTMLElement)?.isContentEditable) {
+        return
+      }
+      e.preventDefault()
+      setHelpOpen(true)
+    }
+    window.addEventListener('keydown', handler)
+    return () => window.removeEventListener('keydown', handler)
   }, [])
 
   const isReading = !!params.book
@@ -102,15 +119,25 @@ export function Layout() {
               aria-expanded={searchOpen}
               aria-haspopup="dialog"
               aria-label="Search"
-              className="p-2 text-text-faint hover:text-text-muted transition-colors cursor-pointer"
+              className="p-2 min-h-[44px] min-w-[44px] flex items-center justify-center text-text-faint hover:text-text-muted transition-colors cursor-pointer"
             >
               <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5} aria-hidden="true">
                 <path strokeLinecap="round" strokeLinejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
               </svg>
             </button>
             <Link
+              to="/reading-paths"
+              className="p-2 min-h-[44px] min-w-[44px] flex items-center justify-center text-text-faint hover:text-text-muted transition-colors"
+              aria-label="Guided reading paths"
+            >
+              <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5} aria-hidden="true">
+                <path strokeLinecap="round" strokeLinejoin="round"
+                  d="M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-.553-.894L15 4m0 13V4m0 0L9 7" />
+              </svg>
+            </Link>
+            <Link
               to="/compare"
-              className="p-2 text-text-faint hover:text-text-muted transition-colors"
+              className="p-2 min-h-[44px] min-w-[44px] flex items-center justify-center text-text-faint hover:text-text-muted transition-colors"
               aria-label="Compare translations"
             >
               <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5} aria-hidden="true">
@@ -120,7 +147,7 @@ export function Layout() {
             </Link>
             <Link
               to="/bookmarks"
-              className="p-2 text-text-faint hover:text-text-muted transition-colors"
+              className="p-2 min-h-[44px] min-w-[44px] flex items-center justify-center text-text-faint hover:text-text-muted transition-colors"
               aria-label="Bookmarks"
             >
               <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5} aria-hidden="true">
@@ -133,12 +160,24 @@ export function Layout() {
               aria-expanded={settingsOpen}
               aria-haspopup="dialog"
               aria-label="Settings"
-              className="p-2 text-text-faint hover:text-text-muted transition-colors cursor-pointer"
+              className="p-2 min-h-[44px] min-w-[44px] flex items-center justify-center text-text-faint hover:text-text-muted transition-colors cursor-pointer"
             >
               <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5} aria-hidden="true">
                 <path strokeLinecap="round" strokeLinejoin="round"
                   d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.066 2.573c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.573 1.066c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.066-2.573c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z" />
                 <path strokeLinecap="round" strokeLinejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+              </svg>
+            </button>
+            <button
+              onClick={() => setHelpOpen(true)}
+              aria-expanded={helpOpen}
+              aria-haspopup="dialog"
+              aria-label="Keyboard shortcuts"
+              className="p-2 min-h-[44px] min-w-[44px] flex items-center justify-center text-text-faint hover:text-text-muted transition-colors cursor-pointer"
+            >
+              <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5} aria-hidden="true">
+                <path strokeLinecap="round" strokeLinejoin="round"
+                  d="M8.228 9c.549-1.165 2.03-2 3.772-2 2.21 0 4 1.343 4 3 0 1.4-1.278 2.575-3.006 2.907-.542.104-.994.54-.994 1.093m0 3h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
             </button>
           </div>
@@ -172,6 +211,7 @@ export function Layout() {
         onUpdate={updateSetting}
       />
       <SearchPanel open={searchOpen} onClose={() => setSearchOpen(false)} />
+      <HelpModal open={helpOpen} onClose={() => setHelpOpen(false)} />
     </div>
   )
 }

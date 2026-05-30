@@ -10,6 +10,7 @@ Route entrypoints. Each page owns its URL params, page title, and top-level layo
 |---|---|
 | `WelcomePage.tsx` | Landing route (`/`). Intro + entry into the reader. |
 | `DiscoverPage.tsx` | Reading-paths overview, sourced from `public/data/reading-paths.json` via `lib/data.ts`. |
+| `ReadingPathsPage.tsx` | Curated guided-reading paths (`/reading-paths`). Fetches `public/data/reading-paths.json` and renders each path's sections as manuscript cards; labeled entries link into `/read/:book/:chapter`, note-only entries render as margin glosses. Owns non-blank loading + error states. |
 | `BiblePage.tsx` | Book browser — lists all books, links into the reader. |
 | `ReaderPage.tsx` | The interlinear reader (`/read/:book/:chapter/:verse`). Owns the URL params; loads chapter data via `lib/data.ts`; renders via `VerseView`. |
 | `ComparePage.tsx` | Side-by-side translation comparison (`/compare`). Loads parallel data via `lib/compare-data.ts`. |
@@ -33,6 +34,7 @@ These URL shapes are **stable**. Changing one orphans every external bookmark an
 |---|---|---|
 | `/` | — | `WelcomePage` |
 | `/discover` | — | `DiscoverPage` |
+| `/reading-paths` | — | `ReadingPathsPage` |
 | `/bible` | — | `BiblePage` |
 | `/read/:book/:chapter/:verse?` | `book` (abbrev), `chapter` (int), `verse` (int, optional) | `ReaderPage` |
 | `/compare` | query: translations + reference | `ComparePage` |

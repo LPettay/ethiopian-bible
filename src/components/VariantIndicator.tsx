@@ -1,4 +1,5 @@
-import { useState } from 'react'
+import { useState, useId } from 'react'
+import { KNOWN_VARIANTS, getVariantKey } from './variantIndicator.helpers'
 
 interface VariantIndicatorProps {
   book: string
@@ -6,47 +7,9 @@ interface VariantIndicatorProps {
   verse: number
 }
 
-interface VariantInfo {
-  description: string
-}
-
-/**
- * Known significant textual variants between LXX and MT/KJV traditions.
- * Key format: "BookAbbrev:Chapter:Verse"
- */
-const KNOWN_VARIANTS: Record<string, VariantInfo> = {
-  // Genesis 5 patriarchal chronology: LXX adds 100 years to each patriarch's age at begetting
-  'Gen:5:3': { description: 'Patriarch chronology: LXX reads 230 years, MT reads 130' },
-  'Gen:5:6': { description: 'Patriarch chronology: LXX reads 205 years, MT reads 105' },
-  'Gen:5:9': { description: 'Patriarch chronology: LXX reads 170 years, MT reads 70' },
-  'Gen:5:12': { description: 'Patriarch chronology: LXX reads 165 years, MT reads 65' },
-  'Gen:5:15': { description: 'Patriarch chronology: LXX reads 162 years, MT reads 62' },
-  'Gen:5:21': { description: 'Patriarch chronology: LXX reads 165 years, MT reads 65' },
-
-  // Genesis 11 post-flood chronology
-  'Gen:11:12': { description: 'Post-flood chronology: LXX includes Cainan, adds 100+ years' },
-  'Gen:11:13': { description: 'Post-flood chronology: LXX reads 330 years, MT reads 403' },
-
-  // Deuteronomy
-  'Deut:32:8': { description: 'LXX: "angels of God" / DSS: "sons of God"; MT: "sons of Israel"' },
-  'Deut:32:43': { description: 'LXX has expanded text with "sons of God" and additional clauses' },
-
-  // 1 Samuel
-  '1Sam:17:4': { description: 'Goliath\'s height: LXX reads "four cubits and a span" (~6\'6"), MT reads "six cubits" (~9\'6")' },
-
-  // Isaiah
-  'Isa:7:14': { description: 'LXX: "parthenos" (virgin); MT: "almah" (young woman)' },
-
-  // Job
-  'Job:42:17': { description: 'LXX adds extensive colophon identifying Job with Jobab, absent in MT' },
-}
-
-function getVariantKey(book: string, chapter: number, verse: number): string {
-  return `${book}:${chapter}:${verse}`
-}
-
 export function VariantIndicator({ book, chapter, verse }: VariantIndicatorProps) {
   const [showTooltip, setShowTooltip] = useState(false)
+  const tooltipId = useId()
   const key = getVariantKey(book, chapter, verse)
   const variant = KNOWN_VARIANTS[key]
 
@@ -54,18 +17,32 @@ export function VariantIndicator({ book, chapter, verse }: VariantIndicatorProps
 
   return (
     <span
-      className="relative inline-flex items-center cursor-help"
+      className="relative inline-flex items-center"
       onMouseEnter={() => setShowTooltip(true)}
       onMouseLeave={() => setShowTooltip(false)}
     >
-      {/* Diamond icon */}
-      <svg className="w-3 h-3 text-accent" viewBox="0 0 16 16" fill="currentColor">
-        <path d="M8 1l4 7-4 7-4-7z" />
-      </svg>
+      {/* Focusable trigger: opens on hover (mouse) and focus/click (keyboard). */}
+      <button
+        type="button"
+        className="inline-flex items-center bg-transparent border-0 p-0 m-0 cursor-help text-accent"
+        aria-expanded={showTooltip}
+        aria-describedby={showTooltip ? tooltipId : undefined}
+        aria-label="Textual variant. Show details."
+        onClick={() => setShowTooltip(v => !v)}
+        onFocus={() => setShowTooltip(true)}
+        onBlur={() => setShowTooltip(false)}
+      >
+        {/* Diamond icon */}
+        <svg className="w-3 h-3" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true">
+          <path d="M8 1l4 7-4 7-4-7z" />
+        </svg>
+      </button>
 
       {/* Tooltip */}
       {showTooltip && (
         <span
+          id={tooltipId}
+          role="tooltip"
           className="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 px-3 py-2 rounded-lg
                      bg-surface-raised border border-border-strong text-text text-xs leading-relaxed
                      whitespace-normal w-56 text-center shadow-xl pointer-events-none z-20"
@@ -79,9 +56,4 @@ export function VariantIndicator({ book, chapter, verse }: VariantIndicatorProps
       )}
     </span>
   )
-}
-
-/** Check if a verse has a known variant (for external use) */
-export function hasVariant(book: string, chapter: number, verse: number): boolean {
-  return !!KNOWN_VARIANTS[getVariantKey(book, chapter, verse)]
 }

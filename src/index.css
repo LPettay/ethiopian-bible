@@ -51,6 +51,15 @@ body {
   flex-direction: column;
 }
 
+/* --- Keyboard focus visibility --- */
+/* Every keyboard-focusable element gets a clear accent ring. Mouse clicks
+   (which do not match :focus-visible) stay clean. */
+:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
 /* --- Scrollbar --- */
 ::-webkit-scrollbar { width: 5px; }
 ::-webkit-scrollbar-track { background: transparent; }
@@ -157,4 +166,30 @@ summary, label, input, select, textarea {
   background: linear-gradient(90deg, var(--color-surface) 25%, var(--color-surface-raised) 50%, var(--color-surface) 75%);
   background-size: 800px 100%;
   animation: shimmer 1.5s ease-in-out infinite;
+}
+
+/* --- Reduced motion --- */
+/* Honor the OS-level "reduce motion" preference: neutralize entrance
+   animations and the loading shimmer, and tame incidental transitions. */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+
+  .animate-fade-in,
+  .animate-simple-fade-in,
+  .animate-chapter-in {
+    animation: none;
+  }
+
+  .skeleton-line {
+    animation: none;
+    /* Static mid-gradient so the skeleton still reads as a placeholder. */
+    background: var(--color-surface-raised);
+  }
 }

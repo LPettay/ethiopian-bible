@@ -11,7 +11,8 @@ Presentational React components. **Props in, JSX out.** No data fetching, no `lo
 | `AnnotationEditor.tsx` | Inline editor for verse annotations. Receives the current annotation + an `onSave` callback. |
 | `BookPicker.tsx` | Book + chapter selector. Receives the book list and current selection; emits navigation intents via callback. |
 | `ConfidenceBadge.tsx` | Visual badge for translation-confidence (high / medium / low / pending). Pure pass-through of a confidence value. |
-| `Layout.tsx` | App shell — header, nav, slot for page content. |
+| `HelpModal.tsx` | Keyboard-shortcuts dialog (`role="dialog"`, `aria-modal`, focus-trapped via `useFocusTrap` with Esc-to-close). Lists the real shortcuts from `useKeyboardNav`. Opened from `Layout`. |
+| `Layout.tsx` | App shell — header, nav, slot for page content. Owns the global book-picker modal and the `?`-key Help modal. |
 | `SearchPanel.tsx` | Search UI. Takes a search function and current query as props; does not own the index. |
 | `Settings.tsx` | Settings panel. Reads/writes via the `useSettings` hook (which is the lib-side seam). |
 | `ShareVerse.tsx` | Share-verse dialog. Receives the verse reference; produces share strings via prop callbacks. |
