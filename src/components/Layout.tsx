@@ -5,6 +5,7 @@ import { Settings } from './Settings'
 import { SearchPanel } from './SearchPanel'
 import { HelpModal } from './HelpModal'
 import { useSettings } from '../hooks/useSettings'
+import { loadBooks, getBookByAbbrev } from '../lib/data'
 
 export function Layout() {
   const [bookPickerOpen, setBookPickerOpen] = useState(false)
@@ -12,6 +13,7 @@ export function Layout() {
   const [searchOpen, setSearchOpen] = useState(false)
   const [helpOpen, setHelpOpen] = useState(false)
   const [settings, updateSetting] = useSettings()
+  const [totalChapters, setTotalChapters] = useState<number | null>(null)
   const params = useParams<{ book?: string; chapter?: string }>()
   const navigate = useNavigate()
 
@@ -36,6 +38,24 @@ export function Layout() {
     window.addEventListener('keydown', handler)
     return () => window.removeEventListener('keydown', handler)
   }, [])
+
+  // Load the current book's chapter count so the next-chapter arrow can respect
+  // the end of the book instead of navigating into a non-existent chapter. The
+  // count is resolved asynchronously so setState only fires from the promise
+  // callback (never synchronously within the effect body).
+  const book = params.book
+  useEffect(() => {
+    let cancelled = false
+    loadBooks()
+      .then(books => {
+        if (cancelled) return
+        setTotalChapters(book ? getBookByAbbrev(books, book)?.chapters ?? null : null)
+      })
+      .catch(() => {
+        if (!cancelled) setTotalChapters(null)
+      })
+    return () => { cancelled = true }
+  }, [book])
 
   const isReading = !!params.book
 
@@ -99,9 +119,13 @@ export function Layout() {
                 <button
                   onClick={() => {
                     const ch = Number(params.chapter)
-                    navigate(`/read/${params.book}/${ch + 1}`)
+                    if (totalChapters == null || ch < totalChapters) {
+                      navigate(`/read/${params.book}/${ch + 1}`)
+                    }
                   }}
-                  className="p-1 text-text-faint hover:text-text-muted transition-colors cursor-pointer"
+                  disabled={totalChapters != null && Number(params.chapter) >= totalChapters}
+                  className="p-1 text-text-faint hover:text-text-muted disabled:opacity-30
+                             transition-colors cursor-pointer disabled:cursor-default"
                   aria-label="Next chapter"
                 >
                   <svg className="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5} aria-hidden="true">

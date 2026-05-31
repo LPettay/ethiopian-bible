@@ -37,7 +37,12 @@ export function Settings({ open, onClose, settings, onUpdate, aiAvailable = fals
         <div className="p-6 space-y-7">
           {/* Header */}
           <div className="flex items-center justify-between">
-            <h2 className="text-base font-body italic text-text-muted">Settings</h2>
+            <div>
+              <h2 className="text-base font-body italic text-text-muted">Settings</h2>
+              <p className="text-[0.7rem] font-body italic text-text-faint mt-0.5">
+                Tap outside to close
+              </p>
+            </div>
             <button
               onClick={onClose}
               className="p-1 min-h-[44px] min-w-[44px] flex items-center justify-center text-text-faint hover:text-text-muted transition-colors cursor-pointer"

@@ -75,8 +75,8 @@ export const WordCard = memo(function WordCard({ word, showTransliteration, font
           aria-label={`Word detail: ${word.g}`}
         >
           <div
-            className="bg-surface-raised max-w-xs w-full
-                       border-l-2 border-accent/30 pl-6 pr-5 py-6
+            className="bg-surface-raised w-[min(100%-2rem,20rem)] mx-auto
+                       border-l-2 border-accent/30 pl-4 pr-4 sm:pl-6 sm:pr-5 py-6
                        shadow-[0_8px_32px_rgba(0,0,0,0.4)]"
             onClick={e => e.stopPropagation()}
           >

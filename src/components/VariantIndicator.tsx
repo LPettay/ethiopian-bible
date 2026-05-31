@@ -45,7 +45,7 @@ export function VariantIndicator({ book, chapter, verse }: VariantIndicatorProps
           role="tooltip"
           className="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 px-3 py-2 rounded-lg
                      bg-surface-raised border border-border-strong text-text text-xs leading-relaxed
-                     whitespace-normal w-56 text-center shadow-xl pointer-events-none z-20"
+                     whitespace-normal w-56 max-w-[calc(100vw-2rem)] text-center shadow-xl pointer-events-none z-20"
         >
           {variant.description}
           <span
