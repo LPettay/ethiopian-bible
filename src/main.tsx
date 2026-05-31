@@ -15,10 +15,14 @@ createRoot(document.getElementById('root')!).render(
   </StrictMode>,
 )
 
-// Register service worker for offline support
+// Register service worker for offline support. The script lives under Vite's
+// base (the site deploys to the GitHub Pages subpath `/ethiopian-bible/`), so a
+// hard-coded `/sw.js` 404s in production — register relative to BASE_URL and
+// scope the worker to that subpath. See src/lib/AGENTS.md on BASE_URL usage.
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', () => {
-    navigator.serviceWorker.register('/sw.js').catch((err) => {
+    const base = import.meta.env.BASE_URL
+    navigator.serviceWorker.register(`${base}sw.js`, { scope: base }).catch((err) => {
       console.warn('Service worker registration failed:', err)
     })
   })
