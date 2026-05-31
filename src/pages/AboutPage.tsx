@@ -10,7 +10,7 @@ export function AboutPage() {
           About This Project
         </h1>
         <p className="text-[1.05rem] text-text-muted max-w-[520px] mx-auto">
-          An open, free, and verifiable resource for the Ethiopian biblical canon.
+          An open, sourced reader for the Ethiopian biblical canon.
         </p>
       </section>
 
@@ -37,11 +37,45 @@ export function AboutPage() {
         </p>
 
         <div className="bg-surface border-l-[3px] border-accent pl-4 pr-4 py-3.5 rounded-r-md text-[0.9rem]">
-          The Ethiopian canon was formed in the 4th&ndash;7th century CE, before the narrowing
-          movements that reduced the Western canon. These texts were preserved by Ethiopian
-          monks who copied them by hand for over 1,500 years while the rest of the world
-          forgot them.
+          The Ethiopian canon was formed early (4th&ndash;7th century CE). The complete
+          texts of 1 Enoch and Jubilees survive only in Ge'ez, preserved by the Ethiopian
+          church through centuries of hand-copying; fragments were also known at Qumran
+          and to early church writers.
         </div>
+
+        <p className="mt-4 text-[0.9rem] text-text-muted leading-relaxed">
+          A point that is easy to muddle: 1 Enoch (originally Aramaic) and Jubilees
+          (originally Hebrew) are <strong>Second Temple Jewish works, not part of the
+          Septuagint</strong>. The Ethiopian church canonized them. That is a separate
+          matter from the Ethiopian Old Testament's <em>text</em>, which descends from
+          the Greek Septuagint (see the comparison page).
+        </p>
+      </section>
+
+      {/* ---- Section: About the Texts ---- */}
+      <section className="mb-12">
+        <h2 className="text-xl text-accent font-semibold mb-4">About the Texts</h2>
+
+        <p className="mb-4 text-[0.95rem] leading-relaxed">
+          Two distinct things are often run together. The first is a question of{' '}
+          <em>text-tradition</em>: which underlying manuscripts a translation follows.
+          The Ethiopian Old Testament is a <strong>daughter version of the Greek
+          Septuagint</strong>, translated during the Aksumite period (4th&ndash;6th
+          century CE). Brenton's 1851 English Septuagint &mdash; used here for the LXX
+          column &mdash; was translated from Codex Vaticanus. Protestant Old Testaments
+          instead follow the Masoretic Hebrew, which the King James Version renders.
+        </p>
+
+        <p className="mb-4 text-[0.95rem] leading-relaxed">
+          The second is a question of <em>which books</em> a canon includes. A few
+          books survive <em>complete only in Ge'ez</em> &mdash; chiefly 1 Enoch and
+          Jubilees. These are Second Temple Jewish compositions (1 Enoch in Aramaic,
+          Jubilees in Hebrew) that were known in fragments at Qumran and quoted by
+          early church writers, but whose full text was carried down only by the
+          Ethiopian church. They are not Septuagint books; keeping the two questions
+          separate &mdash; text-tradition versus canon &mdash; avoids a common
+          category error.
+        </p>
       </section>
 
       {/* ---- Section 2: How We Verify ---- */}
@@ -49,8 +83,8 @@ export function AboutPage() {
         <h2 className="text-xl text-accent font-semibold mb-4">How We Verify</h2>
 
         <p className="mb-4 text-[0.95rem] leading-relaxed">
-          Every factual claim on this site is cited to a published scholarly source.
-          We do not ask you to take our word for anything.
+          Each factual claim is cited to a published scholarly source, listed below and
+          linked from the comparison page so you can check it for yourself.
         </p>
 
         <h3 className="text-[0.95rem] font-semibold text-text mt-5 mb-2">Primary Sources</h3>
@@ -71,20 +105,19 @@ export function AboutPage() {
         <h3 className="text-[0.95rem] font-semibold text-text mt-5 mb-2">Data Sources</h3>
         <ul className="list-disc pl-5 mb-4 text-[0.9rem] leading-relaxed space-y-1.5">
           <li>
-            <a href="https://betamasaheft.eu/" target="_blank" rel="noopener noreferrer"
-               className="text-accent hover:underline">Beta Masaheft</a> &mdash; Ge'ez texts
+            Ge'ez &mdash; <a href="https://betamasaheft.eu/" target="_blank" rel="noopener noreferrer"
+               className="text-accent hover:underline">Beta Masaheft</a>{' '}
+            (Universit&auml;t Hamburg, CC BY-SA 4.0)
           </li>
-          <li>Brenton 1851 &mdash; Septuagint (LXX) English translation</li>
-          <li>King James Version &mdash; Masoretic tradition</li>
+          <li>Septuagint &mdash; Brenton (1851)</li>
+          <li>Masoretic &mdash; King James (1611)</li>
         </ul>
 
         <div className="bg-surface border-l-[3px] border-lxx pl-4 pr-4 py-3.5 rounded-r-md text-[0.9rem]">
-          <strong className="text-accent">You don't have to trust us. Check the sources yourself.</strong>{' '}
-          Our{' '}
+          Every claim links to its source. The full bibliography is on the{' '}
           <Link to="/compare" className="text-accent hover:underline">
             comparison page
-          </Link>{' '}
-          includes a full bibliography with every citation linked to its source.
+          </Link>.
         </div>
       </section>
 

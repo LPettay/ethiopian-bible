@@ -2,123 +2,132 @@ import { useState, useEffect, useRef, useCallback } from 'react'
 import { Link, useLocation } from 'react-router-dom'
 
 // ---------------------------------------------------------------------------
+// Provenance labels — single source of truth for this page.
+//
+// Format: 'Tradition — Edition (year)'. These mirror the canonical labels used
+// in the reader so a passage's textual source reads the same everywhere. The
+// values are deliberately value-neutral (tradition + edition), not church
+// affiliations.
+// ---------------------------------------------------------------------------
+
+const SOURCE_LABELS = {
+  /** KJV OT renders the Masoretic Hebrew. 'Masoretic' is a value-neutral term. */
+  masoretic: 'Masoretic — King James (1611)',
+  /** Brenton's 1851 English Septuagint, translated from Codex Vaticanus. */
+  septuagint: 'Septuagint — Brenton (1851)',
+} as const
+
+// ---------------------------------------------------------------------------
 // Types
 // ---------------------------------------------------------------------------
 
 interface Stop {
   num: number
-  question: string
-  reference: string
-  hook: string
+  /** Plain topic + reference, e.g. "Adam's age at Seth's birth (Genesis 5:3)". */
+  topic: string
   mt: { label: string; text: string }
   lxx: { label: string; text: string }
   body: string[]
-  /** Optional supporting note (DSS, NT witness, etc.) */
+  /** Optional supporting note, drawn only from verified citations. */
   witness?: string
-  /** Optional link to read more */
+  /** Optional link to read the passage in context. */
   readLink?: { label: string; to: string }
 }
 
 // ---------------------------------------------------------------------------
-// Data — the 5 stops
+// Data — the 5 places where the traditions diverge
 // ---------------------------------------------------------------------------
 
 const STOPS: Stop[] = [
   {
     num: 1,
-    question: 'How old was Adam?',
-    reference: 'Genesis 5:3',
-    hook: 'Your Bible says 130. The oldest witnesses say 230. A difference of 100 years \u2014 and it\u2019s not a typo.',
+    topic: 'Adam’s age at Seth’s birth (Genesis 5:3)',
     mt: {
-      label: 'Masoretic / Protestant',
+      label: SOURCE_LABELS.masoretic,
       text: 'Adam fathers Seth at age <strong>130</strong>.<br/>Creation to Abraham: ~2,008 years.',
     },
     lxx: {
-      label: 'Septuagint / Ethiopian',
-      text: 'Adam fathers Seth at age <strong>230</strong>.<br/>Creation to Abraham: ~3,394 years \u2014 <strong>1,386 years longer</strong>.',
+      label: SOURCE_LABELS.septuagint,
+      text: 'Adam fathers Seth at age <strong>230</strong>.<br/>Creation to Abraham: ~3,394 years.',
     },
     body: [
-      'The entire timeline of biblical history differs by nearly 1,400 years depending on which textual tradition you follow.',
-      'This isn\u2019t one verse. It\u2019s a systematic difference across every patriarch in Genesis 5 and 11.',
+      'This is not a single verse. The same kind of difference recurs across the patriarchs of Genesis 5 and 11, so the two traditions place creation roughly 1,400 years apart.',
     ],
-    witness: 'Luke 3:36 includes \u201CCainan, the son of Arphaxad\u201D \u2014 a patriarch found in the Septuagint but absent from the Masoretic Text. Luke used the longer timeline.',
+    witness:
+      'These numbers differ across manuscript traditions: Masoretic 130, Septuagint 230 (preserved in Codex Alexandrinus), Samaritan Pentateuch 130. Josephus also gives 230. The Dead Sea Scrolls preserve no Genesis 5 numbers. (Luke 3:36’s extra Cainan concerns Genesis 11, a separate question.)',
   },
   {
     num: 2,
-    question: 'How tall was Goliath?',
-    reference: '1 Samuel 17:4',
-    hook: '9 feet 9 inches \u2014 or 6 feet 9 inches? Three ancient witnesses agree on the shorter reading.',
+    topic: 'Goliath’s height (1 Samuel 17:4)',
     mt: {
-      label: 'Masoretic / Protestant',
-      text: '\u201CSix cubits and a span\u201D<br/><strong>~9 ft 9 in</strong> (2.97 m)',
+      label: SOURCE_LABELS.masoretic,
+      text: '“Six cubits and a span”<br/><strong>~9 ft 9 in</strong> (2.97 m)',
     },
     lxx: {
-      label: 'Septuagint / Ethiopian',
-      text: '\u201CFour cubits and a span\u201D<br/><strong>~6 ft 9 in</strong> (2.06 m)',
+      label: SOURCE_LABELS.septuagint,
+      text: '“Four cubits and a span”<br/><strong>~6 ft 9 in</strong> (2.06 m)',
     },
     body: [
-      'The Dead Sea Scrolls, Josephus, and the Septuagint all agree on the shorter reading.',
-      'At 6\u20199\u201D, Goliath is still a giant \u2014 taller than almost any human alive today \u2014 but he becomes a plausibly real person, not a mythological figure.',
+      'The Dead Sea Scrolls, Josephus, and the Septuagint agree on the shorter reading.',
+      'At 6’9”, Goliath remains a giant — taller than almost any human alive today — while reading as a plausibly real person rather than a mythological figure.',
     ],
-    witness: 'Dead Sea Scroll 4QSam\u1D43 reads \u201Cfour cubits and a span.\u201D Josephus (Antiquities 6.171, 1st century CE) agrees. Three ancient witnesses against one.',
+    witness:
+      'Dead Sea Scroll 4QSamᵃ reads “four cubits and a span”; Josephus, Antiquities 6.171 (1st century CE) agrees, as does the Septuagint (Tov, Textual Criticism of the Hebrew Bible, 3rd ed., 2012, 342).',
   },
   {
     num: 3,
-    question: 'Sons of God or Sons of Israel?',
-    reference: 'Deuteronomy 32:8',
-    hook: 'An older theology that scribes tried to erase. The Dead Sea Scrolls preserved it.',
+    topic: 'Sons of God or sons of Israel? (Deuteronomy 32:8)',
     mt: {
-      label: 'Masoretic / Protestant',
-      text: '\u201C...according to the number of the <strong>sons of Israel</strong>\u201D',
+      label: SOURCE_LABELS.masoretic,
+      text: '“...according to the number of the <strong>sons of Israel</strong>”',
     },
     lxx: {
-      label: 'Septuagint / Ethiopian',
-      text: '\u201C...according to the number of the <strong>angels of God</strong>\u201D',
+      label: SOURCE_LABELS.septuagint,
+      text: '“...according to the number of the <strong>angels of God</strong>”',
     },
     body: [
-      'The older reading preserves an ancient Israelite cosmology: God presides over a council of divine beings, each assigned to a nation, with Israel as YHWH\u2019s own portion.',
-      'This concept appears throughout Scripture \u2014 Psalm 82, Job 1\u20132, 1 Kings 22:19\u201322 \u2014 but was suppressed in this passage by later scribes uncomfortable with its implications.',
+      'The Septuagint and Qumran reading reflects an ancient Israelite cosmology: God presides over a divine council, each member assigned to a nation, with Israel as YHWH’s own portion.',
+      'The same picture appears elsewhere in Scripture — Psalm 82, Job 1–2, 1 Kings 22:19–22.',
     ],
-    witness: 'Dead Sea Scroll 4QDeut\u02B2 reads \u201Csons of God\u201D (\u05D1\u05E0\u05D9 \u05D0\u05DC\u05D4\u05D9\u05DD), confirming the LXX preserves the older reading. The ESV Study Bible has adopted the Qumran/LXX reading in its main text.',
+    witness:
+      'Dead Sea Scroll 4QDeutʲ reads “sons of God” (בני אלהים), matching the Septuagint against the Masoretic “sons of Israel.” The ESV adopts the Qumran/LXX reading in its main text (Heiser, “Deuteronomy 32:8 and the Sons of God,” Bibliotheca Sacra 158, 2001, 52–74).',
   },
   {
     num: 4,
-    question: 'The book that Jude quoted',
-    reference: 'Jude 14\u201315 / 1 Enoch 1:9',
-    hook: 'Your New Testament quotes a book that your Old Testament doesn\u2019t contain. The Ethiopian Bible has it.',
+    topic: 'The book that Jude quotes (Jude 14–15 / 1 Enoch 1:9)',
     mt: {
-      label: 'Jude 14\u201315',
-      text: '\u201CEnoch, the seventh from Adam, <em>prophesied</em> about these: \u2018See, the Lord is coming with thousands upon thousands of his holy ones to judge everyone.\u2019\u201D',
+      label: 'Jude 14–15',
+      text: '“Enoch, the seventh from Adam, <em>prophesied</em> about these: ‘See, the Lord is coming with thousands upon thousands of his holy ones to judge everyone.’”',
     },
     lxx: {
       label: '1 Enoch 1:9',
-      text: '\u201CBehold, he comes with ten thousand of his holy ones, to execute judgment upon all, and to convict all the ungodly of all their ungodly deeds.\u201D',
+      text: '“Behold, he comes with ten thousand of his holy ones, to execute judgment upon all, and to convict all the ungodly of all their ungodly deeds.”',
     },
     body: [
-      'Jude doesn\u2019t merely allude to Enoch. He names him, calls him a prophet, and quotes him verbatim.',
-      '1 Enoch survived complete only because the Ethiopian church preserved it \u2014 108 chapters, in Ge\u2019ez, for over 1,600 years.',
+      'Jude does not merely allude to Enoch. He names him, calls him a prophet, and quotes him — the clearest New Testament citation of a non-canonical work.',
+      '1 Enoch survives complete only in Ge’ez, preserved by the Ethiopian church across more than 1,600 years; it is absent from the major Septuagint codices.',
     ],
-    witness: 'The Protestant position treats this as citing a \u201Cpopular text,\u201D not endorsing it as Scripture. But Jude uses the same prophetic formula used for other prophets. The Ethiopian church sees this as evidence that Enoch belongs in the Bible.',
+    witness:
+      'Jude 14–15 quotes 1 Enoch 1:9 (Nickelsburg, 1 Enoch: A Commentary, Hermeneia, 2001, 9–14). The Protestant tradition reads this as citing a popular text rather than endorsing it as Scripture; the Ethiopian Orthodox tradition includes 1 Enoch in its canon.',
     readLink: { label: 'Read 1 Enoch, Chapter 1', to: '/read/1En/1' },
   },
   {
     num: 5,
-    question: 'Which Bible did the Apostles read?',
-    reference: 'The synthesis',
-    hook: 'The New Testament authors were reading an Old Testament closer to the Ethiopian Bible than to the one on your shelf.',
+    topic: 'Which Old Testament did the apostles quote? (a pattern)',
     mt: {
-      label: 'What the NT authors quoted',
-      text: '<strong>Matthew 1:23</strong> quotes the LXX Isaiah 7:14 (\u201Cvirgin\u201D).<br/><strong>Luke 3:36</strong> uses the LXX genealogy with the extra patriarch.<br/><strong>Hebrews 1:6</strong> quotes an expanded Deuteronomy 32:43 not found in the Masoretic Text.<br/><strong>Jude 14\u201315</strong> quotes 1 Enoch by name.',
+      label: 'What the NT authors quote',
+      text: '<strong>Matthew 1:23</strong> quotes the Septuagint Isaiah 7:14 (“virgin”).<br/><strong>Hebrews 1:6</strong> quotes an expanded Deuteronomy 32:43 not in the Masoretic Text.<br/><strong>Jude 14–15</strong> quotes 1 Enoch by name.',
     },
     lxx: {
-      label: 'What this means',
-      text: 'The Old Testament that shaped the New Testament was not the Masoretic Text that Protestant Bibles are translated from. It was a text closer to the Septuagint \u2014 the tradition preserved by the Ethiopian Orthodox Church.',
+      label: 'What this shows',
+      text: 'Across these passages, the New Testament authors quote an Old Testament closer to the Septuagint than to the Masoretic Text from which Protestant Bibles are translated.',
     },
     body: [
-      'This is not a claim about one verse or one variant. It is a pattern.',
-      'The authors of the Gospels, Hebrews, and Jude were reading \u2014 and quoting as authoritative Scripture \u2014 an Old Testament that included longer chronologies, expanded songs, divine council theology, and books like 1 Enoch.',
-      'The Ethiopian Bible preserves that tradition.',
+      'This is a pattern rather than a single variant: longer chronologies, an expanded Song of Moses, divine-council language, and the citation of 1 Enoch all point the same direction.',
+      'Luke 3:36 adds a patriarch, “Cainan,” matching the Septuagint genealogy — a point about the Genesis 11 line, whose status in the earliest Luke manuscripts is itself debated.',
     ],
+    witness:
+      'Matthew 1:23 follows the LXX Isaiah 7:14 “parthenos” (Jobes & Silva, Invitation to the Septuagint, 2nd ed., 2015, 189–191). On Luke’s extra Cainan in the Genesis 11 line, see Steinmann, JETS 60/4.',
   },
 ]
 
@@ -141,7 +150,7 @@ function StopCard({ stop, isVisible }: { stop: Stop; isVisible: boolean }) {
     <section
       id={`stop-${stop.num}`}
       className="min-h-screen flex items-center justify-center px-4 py-16 md:py-20 scroll-mt-16"
-      aria-label={`Stop ${stop.num}: ${stop.question}`}
+      aria-label={`Stop ${stop.num}: ${stop.topic}`}
     >
       <div
         className={`max-w-2xl w-full transition-all duration-700 ease-out ${
@@ -153,25 +162,19 @@ function StopCard({ stop, isVisible }: { stop: Stop; isVisible: boolean }) {
         {/* Stop number */}
         <div className="flex items-center gap-3 mb-6">
           <span className="text-accent/50 text-sm font-medium tracking-wider uppercase">
-            Stop {stop.num} of {STOPS.length}
+            {stop.num} of {STOPS.length}
           </span>
           <div className="flex-1 h-px bg-border" />
         </div>
 
-        {/* Question */}
-        <h2 className="text-2xl md:text-3xl font-bold text-text leading-tight mb-2">
-          {stop.question}
+        {/* Topic */}
+        <h2 className="text-2xl md:text-3xl font-bold text-text leading-tight mb-8">
+          {stop.topic}
         </h2>
-        <p className="text-text-muted text-sm mb-2">{stop.reference}</p>
-
-        {/* Hook */}
-        <p className="text-base md:text-lg text-text/90 leading-relaxed mb-8">
-          {stop.hook}
-        </p>
 
         {/* Side-by-side readings */}
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-6">
-          {/* MT / Protestant / Left column */}
+          {/* Masoretic / left column */}
           <div className="p-4 rounded-lg bg-mt-bg border border-mt-border">
             <div className="text-[0.72rem] uppercase tracking-wider font-semibold text-mt mb-2">
               {stop.mt.label}
@@ -180,7 +183,7 @@ function StopCard({ stop, isVisible }: { stop: Stop; isVisible: boolean }) {
               <Html html={stop.mt.text} />
             </div>
           </div>
-          {/* LXX / Ethiopian / Right column */}
+          {/* Septuagint / right column */}
           <div className="p-4 rounded-lg bg-lxx-bg border border-lxx-border">
             <div className="text-[0.72rem] uppercase tracking-wider font-semibold text-lxx mb-2">
               {stop.lxx.label}
@@ -200,7 +203,7 @@ function StopCard({ stop, isVisible }: { stop: Stop; isVisible: boolean }) {
           ))}
         </div>
 
-        {/* Witness note */}
+        {/* Witness note — sources, stated only where verified */}
         {stop.witness && (
           <div className="bg-surface-raised/60 border border-border rounded-lg p-4 mb-6">
             <div className="flex items-start gap-2">
@@ -225,7 +228,7 @@ function StopCard({ stop, isVisible }: { stop: Stop; isVisible: boolean }) {
           </Link>
         )}
 
-        {/* CTAs on the final stop */}
+        {/* Navigation on the final stop */}
         {isLast && (
           <div className="flex flex-col sm:flex-row gap-3 mt-8 pt-6 border-t border-border">
             <Link
@@ -248,7 +251,7 @@ function StopCard({ stop, isVisible }: { stop: Stop; isVisible: boolean }) {
               <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
                 <path strokeLinecap="round" strokeLinejoin="round" d="M9 17V7m0 10a2 2 0 01-2 2H5a2 2 0 01-2-2V7a2 2 0 012-2h2a2 2 0 012 2m0 10a2 2 0 002 2h2a2 2 0 002-2M9 7a2 2 0 012-2h2a2 2 0 012 2m0 10V7" />
               </svg>
-              See all differences
+              Comparison & sources
             </Link>
           </div>
         )}
@@ -273,7 +276,7 @@ function ProgressDots({
   return (
     <nav
       className="fixed bottom-6 left-1/2 -translate-x-1/2 z-40 flex items-center gap-2.5 px-4 py-2.5 rounded-full bg-surface/90 backdrop-blur-sm border border-border"
-      aria-label="Discovery progress"
+      aria-label="Explore progress"
     >
       {Array.from({ length: total }, (_, i) => (
         <button
@@ -373,10 +376,10 @@ export function DiscoverPage() {
           </div>
 
           <h1 className="text-3xl md:text-4xl font-bold text-text leading-tight mb-4">
-            Five Verses That Change<br />How You Read the Bible
+            Where the traditions diverge
           </h1>
           <p className="text-text-muted text-base leading-relaxed mb-8">
-            A guided journey through the differences that matter most.
+            Five places where the Septuagint and Masoretic traditions read differently &mdash; each with its sources.
           </p>
 
           {/* Scroll prompt */}

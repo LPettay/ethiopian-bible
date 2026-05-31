@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 export function WelcomePage() {
   return (
     <div className="max-w-2xl mx-auto px-4">
-      {/* ---- Hero: The Hook ---- */}
+      {/* ---- Hero ---- */}
       <section className="text-center pt-14 md:pt-24 pb-10">
         <div className="text-accent mb-6" aria-hidden="true">
           <svg viewBox="0 0 64 64" className="w-16 h-16 mx-auto">
@@ -16,16 +16,16 @@ export function WelcomePage() {
           The Ethiopian Bible
         </h1>
         <p className="mt-3 text-text-muted text-sm md:text-base max-w-md mx-auto leading-relaxed font-body italic">
-          The oldest and most complete biblical canon in Christianity.
+          A reader for the Ethiopian biblical canon, with sources shown.
         </p>
       </section>
 
-      {/* ---- The Live Comparison ---- */}
+      {/* ---- A labeled sample: one verse, two textual traditions ---- */}
       <section className="mb-12">
         <div className="bg-surface/60 rounded-sm p-6 md:p-8"
              style={{ boxShadow: '0 2px 24px rgba(0,0,0,0.15), inset 0 1px 0 rgba(200,149,42,0.06)' }}>
           <p className="text-text-muted text-sm mb-5 text-center font-body italic">
-            Open your Bible to Genesis 5:3. Now read it here:
+            Genesis 5:3, in two textual traditions:
           </p>
 
           {/* Ge'ez */}
@@ -37,7 +37,7 @@ export function WelcomePage() {
           <div className="space-y-4">
             <div className="border-l border-lxx-border/50 pl-4 py-1">
               <span className="text-lxx/50 text-[0.65rem] font-body italic tracking-wide">
-                Septuagint (3rd c. BCE)
+                Septuagint &mdash; Brenton (1851)
               </span>
               <p className="verse-text text-text text-sm md:text-base mt-1">
                 And Adam lived <strong className="text-lxx">two hundred and thirty years</strong>,
@@ -48,7 +48,7 @@ export function WelcomePage() {
 
             <div className="border-l border-mt-border/50 pl-4 py-1">
               <span className="text-mt/50 text-[0.65rem] font-body italic tracking-wide">
-                King James (Masoretic)
+                Masoretic &mdash; King James (1611)
               </span>
               <p className="verse-text text-text text-sm md:text-base mt-1">
                 And Adam lived <strong className="text-mt">an hundred and thirty years</strong>,
@@ -58,21 +58,18 @@ export function WelcomePage() {
             </div>
           </div>
 
-          {/* The punchline */}
+          {/* Sourced caption — states the observable difference and its witness, nothing more */}
           <p className="text-text-muted text-sm mt-6 text-center leading-relaxed font-body">
-            Same book. Same verse. One hundred years apart.
-            <br />
-            <span className="text-text italic">
-              The Dead Sea Scrolls and the Gospel of Luke agree with the longer number.
-            </span>
+            The two traditions differ here by one hundred years. Manuscript traditions
+            vary; the longer Septuagint figure is preserved in Codex Alexandrinus.
           </p>
 
           <div className="flex justify-center mt-5">
             <Link
-              to="/discover"
+              to="/read/Gen/5"
               className="text-accent text-sm font-body italic hover:text-accent-bright transition-colors"
             >
-              See 4 more verses like this &rarr;
+              Read Genesis 5 &rarr;
             </Link>
           </div>
         </div>
@@ -88,29 +85,29 @@ export function WelcomePage() {
       {/* ---- Doors ---- */}
       <section className="grid grid-cols-1 sm:grid-cols-2 gap-2 mb-14">
         <DoorCard
-          title="Discover the Differences"
-          desc="5 verses that change how you read your Bible."
+          title="Explore the differences"
+          desc="A short, sourced walk through verses where the traditions diverge."
           to="/discover"
           accent
         />
         <DoorCard
-          title="Guided Reading Paths"
-          desc="Curated journeys through the canon — narrative arcs and parallel readings."
+          title="Reading paths"
+          desc="Curated routes through the canon — narrative arcs and parallels."
           to="/reading-paths"
         />
         <DoorCard
           title="Open the Bible"
-          desc="All 36 books, organized by section. Tap a book to start reading."
+          desc="All 36 books, by section. Tap a book to start reading."
           to="/bible"
         />
         <DoorCard
-          title="Start with Genesis"
-          desc="Begin at the beginning — dual Septuagint and KJV translations."
+          title="Start at Genesis"
+          desc="Genesis 1, with Septuagint and King James side by side."
           to="/read/Gen/1"
         />
         <DoorCard
-          title="Scholarly Comparison"
-          desc="12 documented variants with cited sources. Every claim verifiable."
+          title="Comparison & sources"
+          desc="Documented variants with full citations you can check."
           to="/compare"
         />
       </section>

@@ -152,7 +152,7 @@ export function Layout() {
             <Link
               to="/reading-paths"
               className="p-2 min-h-[44px] min-w-[44px] flex items-center justify-center text-text-faint hover:text-text-muted transition-colors"
-              aria-label="Guided reading paths"
+              aria-label="Reading paths"
             >
               <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5} aria-hidden="true">
                 <path strokeLinecap="round" strokeLinejoin="round"
@@ -162,7 +162,7 @@ export function Layout() {
             <Link
               to="/compare"
               className="p-2 min-h-[44px] min-w-[44px] flex items-center justify-center text-text-faint hover:text-text-muted transition-colors"
-              aria-label="Compare translations"
+              aria-label="Comparison and sources"
             >
               <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5} aria-hidden="true">
                 <path strokeLinecap="round" strokeLinejoin="round"

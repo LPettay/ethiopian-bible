@@ -1,4 +1,5 @@
 import { useState, useId } from 'react'
+import { Link } from 'react-router-dom'
 import { KNOWN_VARIANTS, getVariantKey } from './variantIndicator.helpers'
 
 interface VariantIndicatorProps {
@@ -21,7 +22,8 @@ export function VariantIndicator({ book, chapter, verse }: VariantIndicatorProps
       onMouseEnter={() => setShowTooltip(true)}
       onMouseLeave={() => setShowTooltip(false)}
     >
-      {/* Focusable trigger: opens on hover (mouse) and focus/click (keyboard). */}
+      {/* Focusable trigger: opens on hover (mouse) and focus/click (keyboard).
+          Quiet by design — the note is never auto-opened or broadcast. */}
       <button
         type="button"
         className="inline-flex items-center bg-transparent border-0 p-0 m-0 cursor-help text-accent"
@@ -38,16 +40,34 @@ export function VariantIndicator({ book, chapter, verse }: VariantIndicatorProps
         </svg>
       </button>
 
-      {/* Tooltip */}
+      {/* On-demand sourced note. Three calm parts: what differs, witnesses
+          (stated only where verified), and the source + a link to the Compare
+          page. Interactive so the link is reachable; closes on blur/leave. */}
       {showTooltip && (
         <span
           id={tooltipId}
           role="tooltip"
           className="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 px-3 py-2 rounded-lg
                      bg-surface-raised border border-border-strong text-text text-xs leading-relaxed
-                     whitespace-normal w-56 max-w-[calc(100vw-2rem)] text-center shadow-xl pointer-events-none z-20"
+                     whitespace-normal w-64 max-w-[calc(100vw-2rem)] text-left shadow-xl z-20
+                     flex flex-col gap-1.5"
         >
-          {variant.description}
+          <span className="block text-text">{variant.description}</span>
+
+          {variant.witnesses && (
+            <span className="block text-text-muted">{variant.witnesses}</span>
+          )}
+
+          <span className="block text-text-faint italic pt-0.5 border-t border-border/50">
+            {variant.source}{variant.source && ' '}
+            <Link
+              to="/compare"
+              className="not-italic text-accent hover:text-accent-bright whitespace-nowrap"
+            >
+              More on the Compare page →
+            </Link>
+          </span>
+
           <span
             className="absolute top-full left-1/2 -translate-x-1/2 -mt-px
                        border-4 border-transparent border-t-surface-raised"

@@ -1,5 +1,5 @@
 import { describe, it, expect, vi, beforeEach, afterEach } from 'vitest'
-import { render, waitFor } from '@testing-library/react'
+import { render, screen, waitFor } from '@testing-library/react'
 import { MemoryRouter } from 'react-router-dom'
 import { DiscoverPage } from '../../src/pages/DiscoverPage'
 
@@ -48,5 +48,59 @@ describe('DiscoverPage deep-link anchors', () => {
   it('ignores an out-of-range or malformed hash without throwing', () => {
     expect(() => renderAt('/discover#stop-99')).not.toThrow()
     expect(() => renderAt('/discover#not-a-stop')).not.toThrow()
+  })
+})
+
+describe('DiscoverPage neutral, sourced framing', () => {
+  it('uses the value-neutral exploration headline and subline', () => {
+    renderAt('/discover')
+    expect(screen.getByRole('heading', { level: 1 })).toHaveTextContent(
+      'Where the traditions diverge',
+    )
+    expect(
+      screen.getByText(/Five places where the Septuagint and Masoretic traditions read differently/i),
+    ).toBeInTheDocument()
+  })
+
+  it('drops the old marketing hook copy', () => {
+    renderAt('/discover')
+    // Former ad-copy that the redesign removed.
+    expect(screen.queryByText(/Five Verses That Change/i)).toBeNull()
+    expect(screen.queryByText(/not a typo/i)).toBeNull()
+    expect(screen.queryByText(/Three ancient witnesses against one/i)).toBeNull()
+    expect(screen.queryByText(/scribes tried to erase/i)).toBeNull()
+    expect(screen.queryByText(/closer than the one on your shelf/i)).toBeNull()
+  })
+
+  it('renders stop topics as plain question + reference, not hype headlines', () => {
+    renderAt('/discover')
+    expect(
+      screen.getByRole('heading', { name: /Adam’s age at Seth’s birth \(Genesis 5:3\)/ }),
+    ).toBeInTheDocument()
+    expect(
+      screen.getByRole('heading', { name: /Goliath’s height \(1 Samuel 17:4\)/ }),
+    ).toBeInTheDocument()
+  })
+
+  it('states the corrected Genesis 5 witnesses and the honest DSS omission', () => {
+    renderAt('/discover')
+    const note = screen.getByText(/These numbers differ across manuscript traditions/i)
+    expect(note).toHaveTextContent(/Codex Alexandrinus/)
+    expect(note).toHaveTextContent(/Samaritan Pentateuch 130/)
+    expect(note).toHaveTextContent(/Dead Sea Scrolls preserve no Genesis 5 numbers/)
+    expect(note).toHaveTextContent(/Luke 3:36’s extra Cainan concerns Genesis 11/)
+  })
+
+  it('labels the two columns with the canonical provenance format', () => {
+    renderAt('/discover')
+    expect(screen.getAllByText('Masoretic — King James (1611)').length).toBeGreaterThan(0)
+    expect(screen.getAllByText('Septuagint — Brenton (1851)').length).toBeGreaterThan(0)
+  })
+
+  it('renames the final comparison link to "Comparison & sources"', () => {
+    renderAt('/discover')
+    const link = screen.getByRole('link', { name: /Comparison & sources/i })
+    expect(link).toHaveAttribute('href', '/compare')
+    expect(screen.queryByText(/See all differences/i)).toBeNull()
   })
 })

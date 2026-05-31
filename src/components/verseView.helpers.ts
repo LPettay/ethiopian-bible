@@ -1,15 +1,41 @@
 import type { Verse, TranslationSource } from '../types/bible'
 
-/** Fallback edition labels when the chapter omits translationSources metadata. */
+/**
+ * Canonical full provenance labels, format 'Tradition — Edition (year)'.
+ *
+ * These are the single source of truth used wherever a text source is named in
+ * the reader's full-label contexts (read mode). They double as the fallback
+ * when a chapter omits its `translationSources` metadata.
+ *
+ * - lxx: Brenton's 1851 English Septuagint, translated from Codex Vaticanus
+ *   (public domain).
+ * - kjv: the KJV Old Testament renders the Masoretic Hebrew; 'Masoretic' is
+ *   used as a value-neutral tradition term (not 'Protestant').
+ */
 const DEFAULT_SOURCE_LABELS: Record<'lxx' | 'kjv', string> = {
-  lxx: 'Brenton 1851 (Septuagint)',
-  kjv: 'King James Version',
+  lxx: 'Septuagint — Brenton (1851)',
+  kjv: 'Masoretic — King James (1611)',
 }
+
+/**
+ * One-line provenance legend for the chapter header, shown only on chapters
+ * that carry two textual traditions side by side. Calm orientation, not
+ * marketing: it names what the reader is looking at and where the Geʿez comes
+ * from. Sourced — Brenton (1851) for the LXX, the Masoretic Hebrew for the KJV
+ * OT, and Beta Masaheft (Universität Hamburg, CC BY-SA 4.0) for the Geʿez.
+ */
+export const PROVENANCE_LEGEND =
+  'Two textual traditions are shown side by side: Septuagint — Brenton (1851) ' +
+  'and Masoretic — King James (1611). Geʿez is from Beta Masaheft.'
 
 /**
  * Which translation source the read-mode primary text was drawn from, plus a
  * human-readable, edition-attributed label. Returns null when there is nothing
  * worth attributing (no scholarly source available).
+ *
+ * When chapter metadata is present the label is composed as
+ * 'Tradition — Edition (year)'; absent metadata it falls back to the identical
+ * canonical full label in DEFAULT_SOURCE_LABELS.
  */
 export function readModeSource(
   verse: Verse,
@@ -22,7 +48,7 @@ export function readModeSource(
 
   const src = sources?.[key]
   const label = src
-    ? `${src.name}${src.year ? ` ${src.year}` : ''}${src.tradition ? ` (${src.tradition})` : ''}`
+    ? `${src.tradition} — ${src.name} (${src.year})`
     : DEFAULT_SOURCE_LABELS[key]
   return { key, label }
 }

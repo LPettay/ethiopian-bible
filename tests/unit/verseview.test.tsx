@@ -1,8 +1,14 @@
 import { describe, it, expect } from 'vitest'
-import { render, screen } from '@testing-library/react'
+import { render, screen, fireEvent } from '@testing-library/react'
 import { MemoryRouter } from 'react-router-dom'
-import { VerseView } from '../../src/components/VerseView'
-import { resolveVerseBody, readModeSource } from '../../src/components/verseView.helpers'
+import { VerseView, ProvenanceLegend } from '../../src/components/VerseView'
+import { VariantIndicator } from '../../src/components/VariantIndicator'
+import {
+  resolveVerseBody,
+  readModeSource,
+  PROVENANCE_LEGEND,
+} from '../../src/components/verseView.helpers'
+import { KNOWN_VARIANTS } from '../../src/components/variantIndicator.helpers'
 import { DEFAULT_SETTINGS } from '../../src/types/bible'
 import type { Verse, ReaderSettings, TranslationSource } from '../../src/types/bible'
 
@@ -70,22 +76,22 @@ describe('resolveVerseBody', () => {
 })
 
 describe('readModeSource', () => {
-  it('uses translationSources metadata for an edition-attributed label', () => {
+  it('composes the metadata label as "Tradition — Edition (year)"', () => {
     const sources: Record<string, TranslationSource> = {
       lxx: { name: 'Brenton LXX', year: 1851, tradition: 'Septuagint' },
       kjv: { name: 'King James Version', year: 1611, tradition: 'Masoretic' },
     }
     expect(readModeSource(dualVerse, sources)).toEqual({
       key: 'lxx',
-      label: 'Brenton LXX 1851 (Septuagint)',
+      label: 'Septuagint — Brenton LXX (1851)',
     })
   })
 
-  it('falls back to a constant edition map when metadata is absent', () => {
-    expect(readModeSource(dualVerse)).toEqual({ key: 'lxx', label: 'Brenton 1851 (Septuagint)' })
+  it('falls back to the canonical full labels when metadata is absent', () => {
+    expect(readModeSource(dualVerse)).toEqual({ key: 'lxx', label: 'Septuagint — Brenton (1851)' })
 
     const kjvOnly: Verse = { num: 1, geez: '', translation: '', translations: { kjv: 'x' }, words: [] }
-    expect(readModeSource(kjvOnly)).toEqual({ key: 'kjv', label: 'King James Version' })
+    expect(readModeSource(kjvOnly)).toEqual({ key: 'kjv', label: 'Masoretic — King James (1611)' })
   })
 
   it('returns null when no scholarly source is available', () => {
@@ -185,7 +191,80 @@ describe('VerseView blank-state behaviour', () => {
         translationSources={{ lxx: { name: 'Brenton LXX', year: 1851, tradition: 'Septuagint' } }}
       />,
     )
-    expect(screen.getByText('Brenton LXX 1851 (Septuagint)')).toBeInTheDocument()
+    expect(screen.getByText('Septuagint — Brenton LXX (1851)')).toBeInTheDocument()
     expect(screen.getByText('And Adam lived two hundred and thirty years.')).toBeInTheDocument()
+  })
+
+  it('read mode uses the canonical full label when no chapter metadata is present', () => {
+    const settings: ReaderSettings = { ...DEFAULT_SETTINGS, readingMode: 'read' }
+    renderWithRouter(
+      <VerseView
+        verse={dualVerse}
+        settings={settings}
+        bookAbbrev="Gen"
+        chapter={5}
+        isBookmarked={false}
+        onToggleBookmark={noop}
+      />,
+    )
+    expect(screen.getByText('Septuagint — Brenton (1851)')).toBeInTheDocument()
+  })
+})
+
+describe('ProvenanceLegend', () => {
+  it('renders the one calm orientation line naming both traditions and the Geʿez source', () => {
+    render(<ProvenanceLegend />)
+    expect(screen.getByText(PROVENANCE_LEGEND)).toBeInTheDocument()
+    expect(PROVENANCE_LEGEND).toContain('Septuagint — Brenton (1851)')
+    expect(PROVENANCE_LEGEND).toContain('Masoretic — King James (1611)')
+    expect(PROVENANCE_LEGEND).toContain('Beta Masaheft')
+  })
+})
+
+describe('VariantIndicator on-demand note', () => {
+  it('renders nothing for a verse with no known variant', () => {
+    const { container } = renderWithRouter(
+      <VariantIndicator book="Gen" chapter={1} verse={1} />,
+    )
+    expect(container).toBeEmptyDOMElement()
+  })
+
+  it('is quiet by default — the note is not auto-opened', () => {
+    renderWithRouter(<VariantIndicator book="Gen" chapter={5} verse={3} />)
+    expect(screen.queryByRole('tooltip')).not.toBeInTheDocument()
+    expect(screen.getByRole('button')).toHaveAttribute('aria-expanded', 'false')
+  })
+
+  it('opens a three-part sourced note on click: what differs, witnesses, source + Compare link', () => {
+    renderWithRouter(<VariantIndicator book="Gen" chapter={5} verse={3} />)
+    fireEvent.click(screen.getByRole('button'))
+
+    const tip = screen.getByRole('tooltip')
+    expect(tip).toBeInTheDocument()
+    expect(tip).toHaveTextContent('Adam’s age at begetting Seth: LXX reads 230 years, MT reads 130.')
+    // Witnesses, stated only where verified.
+    expect(tip).toHaveTextContent('Samaritan Pentateuch 130')
+    expect(tip).toHaveTextContent('The Dead Sea Scrolls preserve no Genesis 5 numbers')
+    // Source attribution + Compare link.
+    expect(tip).toHaveTextContent('Associates for Biblical Research')
+    const link = screen.getByRole('link', { name: /More on the Compare page/ })
+    expect(link).toHaveAttribute('href', '/compare')
+  })
+
+  it('omits the witnesses line when none is verified for that verse', () => {
+    renderWithRouter(<VariantIndicator book="Job" chapter={42} verse={17} />)
+    fireEvent.click(screen.getByRole('button'))
+    const tip = screen.getByRole('tooltip')
+    expect(tip).toHaveTextContent('identifying Job with Jobab')
+    // Job 42:17 has no `witnesses` field — honest omission, not an invented witness.
+    expect(KNOWN_VARIANTS['Job:42:17'].witnesses).toBeUndefined()
+  })
+
+  it('Genesis 5 note no longer claims DSS or Luke as witnesses (corrected, honest)', () => {
+    const note = KNOWN_VARIANTS['Gen:5:3']
+    expect(note.witnesses).toBeDefined()
+    expect(note.witnesses).not.toMatch(/Luke/i)
+    // It states the DSS *absence* rather than citing them as a supporting witness.
+    expect(note.witnesses).toContain('preserve no Genesis 5 numbers')
   })
 })

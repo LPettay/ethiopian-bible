@@ -5,7 +5,22 @@ import { ShareVerse } from './ShareVerse'
 import { AnnotationEditor } from './AnnotationEditor'
 import { VariantIndicator } from './VariantIndicator'
 import { ConfidenceBadge, ConfidencePill } from './ConfidenceBadge'
-import { readModeSource, resolveVerseBody } from './verseView.helpers'
+import { readModeSource, resolveVerseBody, PROVENANCE_LEGEND } from './verseView.helpers'
+
+/**
+ * One calm orientation line for the chapter header, rendered only on chapters
+ * that carry two textual traditions. It names what the reader is seeing and
+ * where the Geʿez comes from — the reading layout does the teaching, this just
+ * orients. Render conditionally on `chapter.translationSources` (both lxx and
+ * kjv present) from the page; nothing here when a chapter is single-source.
+ */
+export function ProvenanceLegend() {
+  return (
+    <p className="text-text-faint text-xs mt-2 font-body italic leading-relaxed">
+      {PROVENANCE_LEGEND}
+    </p>
+  )
+}
 
 /** Subtle hint shown when the user has hidden every translation source. */
 function AllHiddenHint({ fontSize }: { fontSize: number }) {

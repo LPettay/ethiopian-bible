@@ -186,10 +186,10 @@ export const TEXTUAL_VARIANTS: TextualVariant[] = [
     title: 'Genesis 5 & 11: The Patriarch Chronologies',
     subtitle: 'How long from Creation to Abraham?',
     mt: '~2,008 years from Creation to Abraham. Adam fathers Seth at age <strong>130</strong>.',
-    lxx: '~3,394 years from Creation to Abraham (<strong>+1,386 years</strong>). Adam fathers Seth at age <strong>230</strong>. Includes an extra patriarch, <strong>\u201CSecond Cainan,\u201D</strong> not in the MT.',
-    dss: '<strong>New Testament witness:</strong> Luke 3:36 includes \u201CCainan, the son of Arphaxad\u201D \u2014 the patriarch found in the LXX but absent from the MT. Luke used the Septuagint genealogy.<a href="#n15" class="cite">[15]</a>',
+    lxx: '~3,394 years from Creation to Abraham (<strong>+1,386 years</strong>). Adam fathers Seth at age <strong>230</strong>. The post-flood line (Genesis 11) also adds a second patriarch, <strong>\u201CCainan,\u201D</strong> absent from the MT.',
+    dss: '<strong>What the witnesses show:</strong> the higher Genesis 5 ages are read by the LXX (preserved in Codex Alexandrinus, the primary Greek witness for this portion) and by Josephus; the MT and the Samaritan Pentateuch read the lower figures. The Dead Sea Scrolls preserve no Genesis 5 numbers, so they cannot adjudicate the ages. Separately, Luke 3:36\u2019s extra \u201CCainan, the son of Arphaxad\u201D belongs to the <em>Genesis 11</em> genealogy, not the Genesis 5 ages, and its status in early Luke manuscripts is debated.<a href="#n15" class="cite">[15]</a>',
     whyItMatters:
-      'This is not a minor scribal error. The entire timeline of biblical history \u2014 from Creation to Abraham \u2014 differs by nearly 1,400 years depending on which textual tradition you follow. A Septuagint/Ethiopian chronology places Abraham around 3,300 years after Creation; a Masoretic chronology places him around 2,000 years after Creation. And the author of Luke\u2019s Gospel used the longer Septuagint timeline \u2014 which means the New Testament genealogy of Jesus contradicts the Masoretic numbers.',
+      'The whole timeline from Creation to Abraham differs by nearly 1,400 years depending on which textual tradition you follow: a Septuagint/Ethiopian chronology places Abraham roughly 3,300 years after Creation, a Masoretic chronology roughly 2,000. Both numbers are ancient. Which is original is genuinely debated \u2014 the Dead Sea Scrolls preserve no Genesis 5 ages to settle it, and the New Testament does not weigh in on the Genesis 5 figures.',
     sourceRef:
       'Hughes, <em>Secrets of the Times</em> (Sheffield, 1990), ch. 1-3. Smith, \u201CThe Case for the Septuagint\u2019s Chronology in Genesis 5 and 11,\u201D <em>Proc. 8th ICC</em> (2018), 117-132.',
   },

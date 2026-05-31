@@ -9,7 +9,7 @@ import {
   loadBookmarks,
   addToHistory,
 } from '../lib/storage'
-import { VerseView } from '../components/VerseView'
+import { VerseView, ProvenanceLegend } from '../components/VerseView'
 import { useKeyboardNav } from '../hooks/useKeyboardNav'
 
 interface LayoutContext {
@@ -241,6 +241,11 @@ export function ReaderPage() {
           <p className="text-text-muted text-xs mt-2 italic border-l-2 border-accent/30 pl-3">
             {chapter.note}
           </p>
+        )}
+        {/* One calm orientation line, shown once per chapter only when the
+            chapter carries two textual traditions side by side. */}
+        {chapter.translationSources?.lxx && chapter.translationSources?.kjv && (
+          <ProvenanceLegend />
         )}
       </div>
 

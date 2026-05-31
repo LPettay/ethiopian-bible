@@ -181,8 +181,8 @@ export function ComparePage() {
           The Ethiopian Bible & the Western Bible
         </h1>
         <p className="text-[1.05rem] text-text-muted max-w-[560px] mx-auto mb-5">
-          A three-layer scholarly comparison of the oldest and largest Christian biblical
-          canon with the Protestant and Catholic Bibles.
+          A three-layer comparison of the Ethiopian canon with the Protestant and
+          Catholic Bibles, with sources cited throughout.
         </p>
         <div className="text-[0.82rem] text-text-muted border border-border-strong rounded-lg px-4 py-3 max-w-[500px] mx-auto bg-surface">
           Every factual claim on this page is cited to a published scholarly source.
@@ -373,11 +373,11 @@ export function ComparePage() {
         {/* Why it matters callout */}
         <div className="bg-surface border-l-[3px] border-lxx pl-4 pr-4 py-3.5 rounded-r-md my-4 text-[0.9rem]">
           <strong className="text-accent">Why does this matter?</strong>{' '}
-          The Ethiopian canon was formed early (4th-7th century CE), before the narrowing
-          movements that reduced the Western canon. The complete texts of 1 Enoch and
-          Jubilees &mdash; which profoundly shaped Second Temple Judaism and early
-          Christianity &mdash; survive only because Ethiopian monks copied them by hand
-          for over 1,500 years while the rest of the world forgot them.<Cite n="3" />
+          The Ethiopian canon was formed early (4th&ndash;7th century CE). The complete
+          texts of 1 Enoch and Jubilees &mdash; which profoundly shaped Second Temple
+          Judaism and early Christianity &mdash; survive complete only in Ge'ez, preserved
+          by the Ethiopian church. Fragments were also known at Qumran and to early church
+          writers.<Cite n="3" />
         </div>
       </section>
 
@@ -493,7 +493,7 @@ export function ComparePage() {
 
         {/* DSS callout */}
         <div className="bg-surface border-l-[3px] border-accent pl-4 pr-4 py-3.5 rounded-r-md my-4 mb-5 text-[0.9rem]">
-          <strong className="text-accent">The Dead Sea Scrolls changed everything.</strong>{' '}
+          <strong className="text-accent">What the Dead Sea Scrolls added.</strong>{' '}
           Discovered 1947-1956, these manuscripts predate both the Masoretic standardization
           and most LXX manuscripts. In many cases where the LXX and MT disagree, the
           Scrolls side with the LXX &mdash; proving that the Septuagint readings were
