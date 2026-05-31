@@ -34,4 +34,4 @@ Vitest unit tests. **No network** — fixtures only. The e2e directory exists as
 
 ---
 
-<!-- last-reviewed: 0977eb5 -->
+<!-- last-reviewed: c0c4935 -->
