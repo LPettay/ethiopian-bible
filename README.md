@@ -51,6 +51,7 @@ Full bibliography with 34 entries available at `/compare`.
 - **KJV English**: King James Version (1611/1769), public domain
 - **1 Enoch**: R.H. Charles (1917), public domain
 - **Jubilees**: R.H. Charles (1902), public domain
+- **Word glosses**: Dillmann, *Lexicon Linguae Aethiopicae* (1865) with the TraCES English layer (Leslau 1987, Grébaut 1952), from the [Beta Masaheft DillmannData](https://github.com/BetaMasaheft/DillmannData) TEI, CC BY-SA-NC 4.0
 
 ## Tech Stack
 

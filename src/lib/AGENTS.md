@@ -12,7 +12,7 @@ The seam between the React UI and the outside world. **This directory is the sol
 | `storage.ts` | The only module that touches `localStorage`. Owns the key namespace and serialization format. |
 | `compare-data.ts` | Helpers for the compare view — joins parallel translations on a shared verse-id key. Pure functions over already-loaded data; does no fetching itself. |
 | `stub.ts` | Placeholder-book + Ge'ez-script predicates. `isStubBook(book)` (reads the `Book.stub` flag), `hasGeezScript(s)` (any Ethiopic U+1200–U+137F char), `isPlaceholderVerse(verse)` (verse whose `geez` field has no Ge'ez script). Pure; see ADR 0009. |
-| `lexicon.ts` | Client-side Ge'ez gloss lookup. `getGloss(geez)` returns an attributed `{gloss, source}` or `null` (never fabricates); `dillmannSearchUrl(geez)` builds a Beta Masaheft Dillmann link; `loadLexicon()` populates the cache from the **optional** `${BASE_URL}data/lexicon.json` (returns empty, never throws, when absent); `setLexicon()` seeds the cache for tests. Integrity-first; see ADR 0010. |
+| `lexicon.ts` | Client-side Ge'ez gloss lookup. `getGloss(geez)` returns an attributed `GlossEntry` (`gloss`, `source`, plus `lemma`, `lang`, `latin`, `pos`, `id` when known) or `null` (never fabricates); `dillmannSearchUrl(geez)` / `dillmannEntryUrl(id)` / `glossSourceUrl()` build Beta Masaheft links; `loadLexicon()` populates the cache from the **optional** `${BASE_URL}data/lexicon.json` (v2 shared-entry format, expanded by `expandLexicon()`; returns empty, never throws, when absent); `setLexicon()` seeds the cache for tests. Integrity-first; see ADR 0010 and 0012. |
 
 ## Rules
 
