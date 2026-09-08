@@ -15,10 +15,34 @@ import { hasGeezScript } from './stub'
 export interface GlossEntry {
   gloss: string
   source: string
+  /** Language of `gloss`: English (Leslau/TraCES layer) or Dillmann's own Latin. */
+  lang?: 'en' | 'la'
+  /** Dictionary headword the surface form resolved to (may differ from the word). */
+  lemma?: string
+  /** Dillmann's Latin gloss, kept alongside an English `gloss` for the 1865 wording. */
+  latin?: string
+  /** Part of speech as expanded in the TEI (e.g. "Substantivum"). */
+  pos?: string
+  /** Beta Masaheft entry id; see {@link dillmannEntryUrl}. */
+  id?: string
 }
 
-/** Shape of the optional client lexicon file: { "<geez lemma>": { gloss, source } }. */
+/** In-memory shape: { "<geez surface word>": GlossEntry }. */
 export type Lexicon = Record<string, GlossEntry>
+
+/**
+ * On-disk v2 shape written by `research/tools/build_lexicon_offline.py`.
+ * Entries are shared: many surface forms point at one headword record, which
+ * keeps the shipped file a fraction of the size of a flat surface→entry map.
+ */
+interface LexiconFileV2 {
+  version: 2
+  source: string
+  entries: GlossEntry[]
+  words: Record<string, number>
+}
+
+const DILLMANN_BASE = 'https://betamasaheft.eu/Dillmann'
 
 /**
  * Beta Masaheft hosts the digitized Dillmann *Lexicon Linguae Aethiopicae*.
@@ -26,7 +50,17 @@ export type Lexicon = Record<string, GlossEntry>
  * a reader can always reach a scholarly source even when we have no local gloss.
  */
 export function dillmannSearchUrl(geez: string): string {
-  return `https://betamasaheft.eu/Dillmann/search?query=${encodeURIComponent(geez)}`
+  return `${DILLMANN_BASE}/search?query=${encodeURIComponent(geez)}`
+}
+
+/** Permalink to one Dillmann entry — the exact source a gloss was quoted from. */
+export function dillmannEntryUrl(id: string): string {
+  return `${DILLMANN_BASE}/lemma/${encodeURIComponent(id)}`
+}
+
+/** The most specific link we can offer for a word: its entry, else a search. */
+export function glossSourceUrl(geez: string, entry: GlossEntry | null): string {
+  return entry?.id ? dillmannEntryUrl(entry.id) : dillmannSearchUrl(geez)
 }
 
 /**
@@ -42,6 +76,28 @@ let lexiconCache: Lexicon | null = null
  */
 export function setLexicon(lexicon: Lexicon | null): void {
   lexiconCache = lexicon
+}
+
+function isV2(data: unknown): data is LexiconFileV2 {
+  const d = data as Partial<LexiconFileV2> | null
+  return !!d && d.version === 2 && Array.isArray(d.entries) && !!d.words && typeof d.words === 'object'
+}
+
+/**
+ * Expand the compact v2 file into the flat lookup shape. Surface forms that
+ * point at a missing or unattributed entry are dropped here, so `getGloss`
+ * never has to trust the file.
+ */
+export function expandLexicon(data: unknown): Lexicon {
+  if (isV2(data)) {
+    const out: Lexicon = {}
+    for (const [word, idx] of Object.entries(data.words)) {
+      const entry = data.entries[idx]
+      if (entry && entry.gloss && entry.source) out[word] = entry
+    }
+    return out
+  }
+  return data && typeof data === 'object' ? (data as Lexicon) : {}
 }
 
 /**
@@ -60,8 +116,7 @@ export async function loadLexicon(): Promise<Lexicon> {
       lexiconCache = {}
       return lexiconCache
     }
-    const data = (await res.json()) as Lexicon
-    lexiconCache = data && typeof data === 'object' ? data : {}
+    lexiconCache = expandLexicon(await res.json())
   } catch {
     // File absent or unparseable — that is an expected, non-fatal state.
     lexiconCache = {}
@@ -86,5 +141,5 @@ export function getGloss(geez: string): GlossEntry | null {
   if (!lexiconCache) return null
   const entry = lexiconCache[geez]
   if (!entry || !entry.gloss || !entry.source) return null
-  return { gloss: entry.gloss, source: entry.source }
+  return entry
 }

@@ -1,7 +1,10 @@
 import { describe, it, expect, beforeEach, afterEach, vi } from 'vitest'
 import {
+  dillmannEntryUrl,
   dillmannSearchUrl,
+  expandLexicon,
   getGloss,
+  glossSourceUrl,
   loadLexicon,
   setLexicon,
 } from '../../src/lib/lexicon'
@@ -103,5 +106,58 @@ describe('loadLexicon', () => {
     await expect(loadLexicon()).resolves.toEqual(payload)
     // After loading, getGloss surfaces the sourced gloss for the Ge'ez word.
     expect(getGloss(GEEZ)).toEqual({ gloss: 'book', source: 'Dillmann' })
+  })
+})
+
+describe('v2 lexicon file (shared entries + surface index)', () => {
+  const v2 = {
+    version: 2,
+    source: 'Dillmann',
+    entries: [
+      { id: 'L1', lemma: 'መጽሐፍ', gloss: 'book', lang: 'la', source: 'Dillmann' },
+      { id: 'L2', lemma: 'x', gloss: '', source: 'Dillmann' },
+    ],
+    words: { [GEEZ]: 0, 'ወመጽሐፈ': 0, 'ባዶ': 1, 'ስሕተት': 9 },
+  }
+
+  beforeEach(() => setLexicon(null))
+  afterEach(() => setLexicon(null))
+
+  it('expands every surface form to its shared, attributed entry', () => {
+    const lex = expandLexicon(v2)
+    expect(lex[GEEZ]).toBe(lex['ወመጽሐፈ'])
+    expect(lex[GEEZ]).toMatchObject({ gloss: 'book', lemma: 'መጽሐፍ', id: 'L1' })
+  })
+
+  it('drops surface forms whose entry is empty or out of range', () => {
+    const lex = expandLexicon(v2)
+    expect(lex['ባዶ']).toBeUndefined()
+    expect(lex['ስሕተት']).toBeUndefined()
+  })
+
+  it('still accepts the flat v1 shape', () => {
+    const v1 = { [GEEZ]: { gloss: 'book', source: 'Test' } }
+    expect(expandLexicon(v1)).toEqual(v1)
+  })
+
+  it('loadLexicon expands a v2 payload so getGloss carries lemma and entry id', async () => {
+    vi.spyOn(globalThis, 'fetch').mockResolvedValue(
+      new Response(JSON.stringify(v2), { status: 200, headers: { 'Content-Type': 'application/json' } }),
+    )
+    await loadLexicon()
+    expect(getGloss('ወመጽሐፈ')).toMatchObject({ gloss: 'book', lemma: 'መጽሐፍ', id: 'L1', source: 'Dillmann' })
+    vi.restoreAllMocks()
+  })
+})
+
+describe('source links', () => {
+  it('links an entry id to its Dillmann permalink', () => {
+    expect(dillmannEntryUrl('L1')).toBe('https://betamasaheft.eu/Dillmann/lemma/L1')
+  })
+
+  it('prefers the entry permalink and falls back to a search', () => {
+    expect(glossSourceUrl(GEEZ, { gloss: 'book', source: 'D', id: 'L1' })).toBe(dillmannEntryUrl('L1'))
+    expect(glossSourceUrl(GEEZ, { gloss: 'book', source: 'D' })).toBe(dillmannSearchUrl(GEEZ))
+    expect(glossSourceUrl(GEEZ, null)).toBe(dillmannSearchUrl(GEEZ))
   })
 })

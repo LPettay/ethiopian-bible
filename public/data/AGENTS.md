@@ -12,6 +12,7 @@ This directory is the entire scriptural payload of the app. Treat it as load-bea
 |---|---|
 | `books.json` | Canonical book list — abbreviation, English name, Ge'ez name, section, chapter count, source ID. Drives the book picker and routing. |
 | `reading-paths.json` | Curated reading sequences (e.g. "The Full Story") composed of book + chapter ranges with section labels. |
+| `lexicon.json` | Generated word-gloss lexicon (format v2: shared `entries[]` + `words{surface: index}`), quoted verbatim from the Beta Masaheft Dillmann TEI data by `research/tools/build_lexicon_offline.py`. Regenerate, never hand-edit. CC BY-SA-NC 4.0. See ADR 0012. |
 
 ### Subdirectories
 

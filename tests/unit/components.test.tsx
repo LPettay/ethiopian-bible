@@ -1,7 +1,8 @@
 import { describe, it, expect } from 'vitest'
-import { render, screen } from '@testing-library/react'
+import { render, screen, fireEvent } from '@testing-library/react'
 import { MemoryRouter } from 'react-router-dom'
 import { WordCard } from '../../src/components/WordCard'
+import { setLexicon } from '../../src/lib/lexicon'
 import { VerseView } from '../../src/components/VerseView'
 import { DEFAULT_SETTINGS } from '../../src/types/bible'
 import type { Verse, ReaderSettings } from '../../src/types/bible'
@@ -81,6 +82,51 @@ describe('WordCard', () => {
       />,
     )
     expect(screen.getByText('book')).toBeInTheDocument()
+  })
+
+  it('shows the gloss source and headword on hover', () => {
+    setLexicon({
+      '\u12C8\u1210\u12ED\u12C8': {
+        gloss: 'vivere; vitam agere',
+        lang: 'la',
+        lemma: '\u1210\u12ED\u12C8',
+        id: 'Labc',
+        source: 'Dillmann, Lexicon Linguae Aethiopicae (1865), via Beta Masaheft',
+      },
+    })
+    try {
+      renderWithRouter(
+        <WordCard word={mockVerse.words[0]} showTransliteration={true} fontSize={20} />,
+      )
+      expect(screen.queryByRole('tooltip')).not.toBeInTheDocument()
+      fireEvent.mouseEnter(screen.getByRole('button').parentElement!)
+      const tip = screen.getByRole('tooltip')
+      expect(tip).toHaveTextContent('vivere; vitam agere')
+      expect(tip).toHaveTextContent('Latin, Dillmann 1865')
+      expect(tip).toHaveTextContent('Source: Dillmann, Lexicon Linguae Aethiopicae (1865), via Beta Masaheft')
+      expect(tip).toHaveTextContent('\u1210\u12ED\u12C8')
+      expect(screen.getByRole('link', { name: 'entry ↗' })).toHaveAttribute(
+        'href',
+        'https://betamasaheft.eu/Dillmann/lemma/Labc',
+      )
+    } finally {
+      setLexicon(null)
+    }
+  })
+
+  it('says honestly on hover when no sourced meaning exists', () => {
+    setLexicon({})
+    try {
+      renderWithRouter(
+        <WordCard word={mockVerse.words[1]} showTransliteration={true} fontSize={20} />,
+      )
+      fireEvent.mouseEnter(screen.getByRole('button').parentElement!)
+      const tip = screen.getByRole('tooltip')
+      expect(tip).toHaveTextContent('Meaning not yet available')
+      expect(screen.getByRole('link', { name: 'Look up in Dillmann ↗' })).toBeInTheDocument()
+    } finally {
+      setLexicon(null)
+    }
   })
 })
 

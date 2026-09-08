@@ -111,6 +111,12 @@ export function AboutPage() {
           </li>
           <li>Septuagint &mdash; Brenton (1851)</li>
           <li>Masoretic &mdash; King James (1611)</li>
+          <li>
+            Word glosses &mdash; Dillmann, <em>Lexicon Linguae Aethiopicae</em> (1865), via the{' '}
+            <a href="https://github.com/BetaMasaheft/DillmannData" target="_blank" rel="noopener noreferrer"
+               className="text-accent hover:underline">Beta Masaheft Dillmann data</a>{' '}
+            (CC BY-SA-NC 4.0)
+          </li>
         </ul>
 
         <div className="bg-surface border-l-[3px] border-lxx pl-4 pr-4 py-3.5 rounded-r-md text-[0.9rem]">
@@ -188,6 +194,23 @@ export function AboutPage() {
             <h3 className="text-[0.95rem] font-semibold text-text mb-1.5">King James Version</h3>
             <p className="text-[0.9rem] leading-relaxed">
               King James Version (1611/1769). Public domain.
+            </p>
+          </div>
+
+          <div className="bg-surface rounded-lg p-5 border border-border">
+            <h3 className="text-[0.95rem] font-semibold text-text mb-1.5">Word Glosses</h3>
+            <p className="text-[0.9rem] leading-relaxed">
+              August Dillmann, <em>Lexicon Linguae Aethiopicae</em> (1865), digitized by the{' '}
+              <a href="https://www.traces.uni-hamburg.de/" target="_blank" rel="noopener noreferrer"
+                 className="text-accent hover:underline">TraCES</a>{' '}
+              project and published as TEI by{' '}
+              <a href="https://github.com/BetaMasaheft/DillmannData" target="_blank" rel="noopener noreferrer"
+                 className="text-accent hover:underline">Beta Masaheft</a>{' '}
+              (Hiob Ludolf Centre, Universit&auml;t Hamburg). English glosses from Leslau (1987) and
+              Gr&eacute;baut (1952) where that layer covers the headword. Licensed{' '}
+              <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener noreferrer"
+                 className="text-accent hover:underline">CC BY-NC-SA 4.0</a>.
+              Every gloss links to the entry it was quoted from.
             </p>
           </div>
 
