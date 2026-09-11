@@ -3,6 +3,9 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "engines": {
+    "bun": ">=1.1.0"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build && cp dist/index.html dist/404.html",
@@ -10,7 +13,12 @@
     "preview": "vite preview",
     "test": "vitest run",
     "test:watch": "vitest",
-    "test:e2e": "playwright test"
+    "test:e2e": "playwright test",
+    "check": "bun run scripts/check.ts",
+    "typecheck": "bunx tsc --noEmit",
+    "agents:stamp": "bun run scripts/stamp.ts",
+    "agents:stale": "bun run scripts/check.ts --only=freshness --verbose",
+    "prepare": "bunx lefthook install || true"
   },
   "dependencies": {
     "react": "^19.2.4",
@@ -21,6 +29,7 @@
     "@tailwindcss/vite": "^4.2.2",
     "@testing-library/jest-dom": "^6.9.1",
     "@testing-library/react": "^16.3.2",
+    "@types/bun": "latest",
     "@types/node": "^24.12.0",
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
@@ -31,6 +40,7 @@
     "globals": "^17.4.0",
     "happy-dom": "^20.8.9",
     "jsdom": "^25.0.1",
+    "lefthook": "^1.7.0",
     "react-router-dom": "^7.14.0",
     "tailwindcss": "^4.2.2",
     "typescript": "~5.9.3",

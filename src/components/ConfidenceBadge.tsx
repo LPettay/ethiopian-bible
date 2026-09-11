@@ -1,4 +1,4 @@
-import { useState, useRef, useEffect } from 'react'
+import { useState, useRef, useEffect, useId } from 'react'
 
 interface ConfidenceBadgeProps {
   confidence: number
@@ -21,6 +21,7 @@ export function ConfidenceBadge({
 }: ConfidenceBadgeProps) {
   const [showTooltip, setShowTooltip] = useState(false)
   const containerRef = useRef<HTMLDivElement>(null)
+  const tooltipId = useId()
   const pct = Math.round(confidence * 100)
   const color = confidenceColor(confidence)
 
@@ -39,29 +40,43 @@ export function ConfidenceBadge({
   return (
     <div
       ref={containerRef}
-      className="relative inline-flex items-center gap-2"
+      className="relative inline-flex items-center"
       onMouseEnter={() => setShowTooltip(true)}
       onMouseLeave={() => setShowTooltip(false)}
     >
-      {/* Confidence bar */}
-      <div
-        className="rounded-full overflow-hidden"
-        style={{ width: 100, height: 4, backgroundColor: 'rgba(255,255,255,0.08)' }}
+      {/* Focusable trigger: opens on hover (mouse) and focus/click (keyboard). */}
+      <button
+        type="button"
+        className="inline-flex items-center gap-2 bg-transparent border-0 p-0 m-0 cursor-help"
+        aria-expanded={showTooltip}
+        aria-describedby={showTooltip ? tooltipId : undefined}
+        aria-label={`Translation confidence: ${pct}% verified. Show details.`}
+        onClick={() => setShowTooltip(v => !v)}
+        onFocus={() => setShowTooltip(true)}
+        onBlur={() => setShowTooltip(false)}
       >
+        {/* Confidence bar */}
         <div
-          className="h-full rounded-full transition-all duration-300"
-          style={{ width: `${pct}%`, backgroundColor: color }}
-        />
-      </div>
+          className="rounded-full overflow-hidden"
+          style={{ width: 100, height: 4, backgroundColor: 'rgba(255,255,255,0.08)' }}
+        >
+          <div
+            className="h-full rounded-full transition-all duration-300"
+            style={{ width: `${pct}%`, backgroundColor: color }}
+          />
+        </div>
 
-      {/* Percentage label */}
-      <span className="text-text-faint" style={{ fontSize: 11 }}>
-        {pct}% verified
-      </span>
+        {/* Percentage label */}
+        <span className="text-text-faint" style={{ fontSize: 11 }}>
+          {pct}% verified
+        </span>
+      </button>
 
       {/* Tooltip */}
       {showTooltip && (
         <div
+          id={tooltipId}
+          role="tooltip"
           className="absolute left-0 bottom-full mb-2 z-50 animate-simple-fade-in"
           style={{ minWidth: 220 }}
         >

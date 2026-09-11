@@ -17,6 +17,15 @@ export function BookPicker({ open, onClose, currentBook }: BookPickerProps) {
   const [selectedBook, setSelectedBook] = useState<Book | null>(null)
   const trapRef = useFocusTrap(open, onClose)
 
+  // Reset the selected book whenever the picker closes — done during render
+  // (the "adjust state when a prop changes" pattern) so there is no cascading
+  // render from an effect.
+  const [wasOpen, setWasOpen] = useState(open)
+  if (wasOpen !== open) {
+    setWasOpen(open)
+    if (!open) setSelectedBook(null)
+  }
+
   useEffect(() => {
     if (open) {
       loadBooks().then(setBooks).catch(console.error)
@@ -25,15 +34,11 @@ export function BookPicker({ open, onClose, currentBook }: BookPickerProps) {
 
   // When opening, if currentBook is set, auto-select it to show chapter grid
   useEffect(() => {
-    if (!open) {
-      setSelectedBook(null)
-      return
-    }
-    if (currentBook && books.length > 0) {
-      const match = books.find(b => b.abbrev === currentBook)
-      if (match && match.chapters > 1) {
-        setSelectedBook(match)
-      }
+    if (!open || !currentBook || books.length === 0) return
+    const match = books.find(b => b.abbrev === currentBook)
+    if (match && match.chapters > 1) {
+      const id = setTimeout(() => setSelectedBook(match), 0)
+      return () => clearTimeout(id)
     }
   }, [open, currentBook, books])
 
@@ -87,7 +92,7 @@ export function BookPicker({ open, onClose, currentBook }: BookPickerProps) {
         </div>
         <button
           onClick={onClose}
-          className="p-2 text-text-muted hover:text-text transition-colors cursor-pointer"
+          className="p-2 min-h-[44px] min-w-[44px] flex items-center justify-center text-text-muted hover:text-text transition-colors cursor-pointer"
           aria-label="Close book picker"
         >
           <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2} aria-hidden="true">
@@ -141,7 +146,8 @@ export function BookPicker({ open, onClose, currentBook }: BookPickerProps) {
                 <button
                   key={ch}
                   onClick={() => handleChapterClick(ch)}
-                  className="aspect-square flex items-center justify-center rounded-lg
+                  className="aspect-square min-h-[44px] min-w-[44px]
+                             flex items-center justify-center rounded-lg
                              bg-surface hover:bg-surface-hover border border-border
                              hover:border-accent text-text hover:text-accent
                              transition-all text-sm font-medium cursor-pointer"

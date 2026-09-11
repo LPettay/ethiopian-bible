@@ -1,0 +1,18 @@
+# Lefthook config — git hooks for the Ethiopian Bible Reader.
+# https://lefthook.dev/configuration/
+#
+# Bypass with --no-verify only in emergencies. Document why in your commit
+# message if you do.
+#
+# Lint and unit tests run in CI, not on pre-commit — both are too slow for
+# the React app's size to gate every commit on.
+
+pre-commit:
+  parallel: true
+  commands:
+    repo-checks:
+      run: bun run check
+      stage_fixed: false
+    typecheck:
+      glob: "**/*.{ts,tsx}"
+      run: bun run typecheck

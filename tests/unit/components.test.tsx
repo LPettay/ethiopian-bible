@@ -111,8 +111,8 @@ describe('VerseView', () => {
         onToggleBookmark={noop}
       />,
     )
-    expect(screen.getByText('LXX (Brenton)')).toBeInTheDocument()
-    expect(screen.getByText('KJV')).toBeInTheDocument()
+    expect(screen.getByText('Septuagint')).toBeInTheDocument()
+    expect(screen.getByText('King James')).toBeInTheDocument()
     expect(screen.getByText('And Adam lived two hundred and thirty years...')).toBeInTheDocument()
     expect(screen.getByText('And Adam lived an hundred and thirty years...')).toBeInTheDocument()
   })
@@ -131,8 +131,8 @@ describe('VerseView', () => {
     )
     expect(screen.getByText('The book of the words of Enoch')).toBeInTheDocument()
     // No LXX/KJV labels
-    expect(screen.queryByText('LXX (Brenton)')).not.toBeInTheDocument()
-    expect(screen.queryByText('KJV')).not.toBeInTheDocument()
+    expect(screen.queryByText('Septuagint')).not.toBeInTheDocument()
+    expect(screen.queryByText('King James')).not.toBeInTheDocument()
   })
 
   it('in read mode shows only text, no word cards', () => {
@@ -152,7 +152,7 @@ describe('VerseView', () => {
     // Should NOT show word cards (no transliteration visible as cards)
     expect(screen.queryByText('w\u00E4h\u00E4y\u00E4w\u00E4')).not.toBeInTheDocument()
     // No LXX/KJV labels in read mode
-    expect(screen.queryByText('LXX (Brenton)')).not.toBeInTheDocument()
+    expect(screen.queryByText('Septuagint')).not.toBeInTheDocument()
   })
 
   it('in compare mode shows side-by-side layout', () => {

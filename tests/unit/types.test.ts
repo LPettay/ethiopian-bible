@@ -4,17 +4,18 @@ import { DEFAULT_SETTINGS } from '../../src/types/bible'
 describe('DEFAULT_SETTINGS', () => {
   it('has all expected keys with correct default values', () => {
     expect(DEFAULT_SETTINGS).toEqual({
-      readingMode: 'study',
+      readingMode: 'read',
       showTransliteration: true,
       showLxx: true,
       showKjv: true,
       showGeezSource: true,
+      showAiTranslation: true,
       fontSize: 20,
     })
   })
 
-  it('readingMode defaults to study', () => {
-    expect(DEFAULT_SETTINGS.readingMode).toBe('study')
+  it('readingMode defaults to read', () => {
+    expect(DEFAULT_SETTINGS.readingMode).toBe('read')
   })
 
   it('transliteration is enabled by default', () => {

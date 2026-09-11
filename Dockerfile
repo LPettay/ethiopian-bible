@@ -1,13 +1,13 @@
 # Stage 1: Build
-FROM node:22-alpine AS build
+FROM oven/bun:1-alpine AS build
 
 WORKDIR /app
 
-COPY package.json package-lock.json ./
-RUN npm ci
+COPY package.json bun.lock ./
+RUN bun install --frozen-lockfile
 
 COPY . .
-RUN npm run build
+RUN bun run build
 
 # Stage 2: Serve
 FROM caddy:2-alpine
