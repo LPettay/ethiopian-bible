@@ -54,4 +54,4 @@ The full machine-readable provenance manifest — every word back-traced to a sh
 
 ---
 
-<!-- last-reviewed: e0e38e3 -->
+<!-- last-reviewed: 0977eb5 -->

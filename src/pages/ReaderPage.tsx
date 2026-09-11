@@ -2,6 +2,7 @@ import { useState, useEffect, useRef, useCallback } from 'react'
 import { useParams, useNavigate, useOutletContext } from 'react-router-dom'
 import type { Chapter, Book, ReaderSettings } from '../types/bible'
 import { loadChapter, loadBooks, getBookByAbbrev } from '../lib/data'
+import { isStubBook } from '../lib/stub'
 import {
   addBookmark,
   removeBookmark,
@@ -69,6 +70,17 @@ export function ReaderPage() {
   const chapterNum = Number(chapterParam) || 1
   const totalChapters = bookInfo?.chapters ?? chapterNum
 
+  // When the target chapter changes, reset to the loading state during render
+  // (the "adjust state when a prop changes" pattern) rather than inside the
+  // fetch effect, which would trigger a cascading render.
+  const target = `${bookAbbrev}:${chapterNum}`
+  const [loadingTarget, setLoadingTarget] = useState(target)
+  if (loadingTarget !== target) {
+    setLoadingTarget(target)
+    setLoading(true)
+    setError(null)
+  }
+
   const handleToggleBookmark = useCallback(
     (verseNum: number) => {
       const existing = bookmarks.find(
@@ -105,8 +117,6 @@ export function ReaderPage() {
   // Load chapter data
   useEffect(() => {
     let cancelled = false
-    setLoading(true)
-    setError(null)
 
     Promise.all([
       loadChapter(bookAbbrev, chapterNum),
@@ -123,7 +133,8 @@ export function ReaderPage() {
       })
       .catch(err => {
         if (cancelled) return
-        setError(err instanceof Error ? err.message : 'Failed to load chapter')
+        const detail = err instanceof Error ? err.message : String(err)
+        setError(`Couldn't load this chapter — it may not exist or the network failed. (${detail})`)
         setLoading(false)
       })
 
@@ -177,6 +188,44 @@ export function ReaderPage() {
 
   if (!chapter) return null
 
+  // A stub book or a chapter that loaded with no verses must not render a blank
+  // body. Distinguish the two so the reader knows whether content is coming.
+  const isStub = bookInfo ? isStubBook(bookInfo) : false
+  const isEmpty = chapter.verses.length === 0
+  if (isStub || isEmpty) {
+    return (
+      <div className="max-w-3xl mx-auto px-4 py-6 animate-chapter-in">
+        <div className="mb-6">
+          <h1 className="text-xl font-semibold text-text">
+            {bookInfo?.name ?? chapter.book}
+            <span className="text-text-muted font-normal ml-2">Chapter {chapter.chapter}</span>
+          </h1>
+          {bookInfo?.geez_name && (
+            <p className="font-geez text-accent/60 text-sm mt-1" lang="gez">{bookInfo.geez_name}</p>
+          )}
+        </div>
+        <div className="flex flex-col items-center justify-center py-16 px-4 gap-3 text-center">
+          <p className="text-text-muted text-sm font-body italic">
+            {isStub
+              ? "This book isn't transcribed yet."
+              : 'This chapter is empty.'}
+          </p>
+          <p className="text-text-faint text-xs font-body">
+            {isStub
+              ? 'Check back soon — Geʿez transcription is in progress.'
+              : 'There are no verses to display here.'}
+          </p>
+          <button
+            onClick={() => navigate('/')}
+            className="text-accent text-sm hover:underline cursor-pointer mt-1"
+          >
+            Go back home
+          </button>
+        </div>
+      </div>
+    )
+  }
+
   return (
     <div ref={scrollRef} className="max-w-3xl mx-auto px-4 py-6 animate-chapter-in">
       {/* Chapter heading */}
@@ -207,6 +256,7 @@ export function ReaderPage() {
             chapter={chapterNum}
             isBookmarked={isVerseBookmarked(verse.num)}
             onToggleBookmark={handleToggleBookmark}
+            translationSources={chapter.translationSources}
           />
         ))}
       </div>

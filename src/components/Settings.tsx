@@ -6,6 +6,9 @@ interface SettingsProps {
   onClose: () => void
   settings: ReaderSettings
   onUpdate: (patch: Partial<ReaderSettings>) => void
+  /** Whether any AI draft translations exist in the corpus. When false, the
+   *  AI toggle is shown disabled so it never advertises a dead capability. */
+  aiAvailable?: boolean
 }
 
 const READING_MODES: { value: ReadingMode; label: string; desc: string }[] = [
@@ -14,7 +17,7 @@ const READING_MODES: { value: ReadingMode; label: string; desc: string }[] = [
   { value: 'compare', label: 'Compare', desc: 'Side-by-side translations' },
 ]
 
-export function Settings({ open, onClose, settings, onUpdate }: SettingsProps) {
+export function Settings({ open, onClose, settings, onUpdate, aiAvailable = false }: SettingsProps) {
   const trapRef = useFocusTrap(open, onClose)
 
   if (!open) return null
@@ -34,10 +37,15 @@ export function Settings({ open, onClose, settings, onUpdate }: SettingsProps) {
         <div className="p-6 space-y-7">
           {/* Header */}
           <div className="flex items-center justify-between">
-            <h2 className="text-base font-body italic text-text-muted">Settings</h2>
+            <div>
+              <h2 className="text-base font-body italic text-text-muted">Settings</h2>
+              <p className="text-[0.7rem] font-body italic text-text-faint mt-0.5">
+                Tap outside to close
+              </p>
+            </div>
             <button
               onClick={onClose}
-              className="p-1 text-text-faint hover:text-text-muted transition-colors cursor-pointer"
+              className="p-1 min-h-[44px] min-w-[44px] flex items-center justify-center text-text-faint hover:text-text-muted transition-colors cursor-pointer"
               aria-label="Close settings"
             >
               <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5} aria-hidden="true">
@@ -122,15 +130,23 @@ export function Settings({ open, onClose, settings, onUpdate }: SettingsProps) {
                 <span className="w-1.5 h-1.5 rounded-full bg-accent flex-shrink-0" aria-hidden="true" />
                 <span className="text-sm font-body text-text">Ge'ez source</span>
               </label>
-              <label className="flex items-center gap-3 cursor-pointer">
+              <label
+                className={`flex items-center gap-3 ${aiAvailable ? 'cursor-pointer' : 'cursor-not-allowed opacity-50'}`}
+              >
                 <input
                   type="checkbox"
-                  checked={settings.showAiTranslation}
+                  checked={aiAvailable && settings.showAiTranslation}
+                  disabled={!aiAvailable}
                   onChange={e => onUpdate({ showAiTranslation: e.target.checked })}
-                  className="w-4 h-4 rounded border-border accent-accent"
+                  className="w-4 h-4 rounded border-border accent-accent disabled:cursor-not-allowed"
                 />
                 <span className="w-1.5 h-1.5 rounded-full bg-ai flex-shrink-0" aria-hidden="true" />
-                <span className="text-sm font-body text-text">AI draft translations</span>
+                <span className="text-sm font-body text-text">
+                  AI draft translations
+                  {!aiAvailable && (
+                    <span className="text-text-faint italic ml-1">(not yet available)</span>
+                  )}
+                </span>
               </label>
             </div>
           </fieldset>

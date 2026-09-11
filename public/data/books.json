@@ -51,7 +51,8 @@
     "section": "Unique to Ethiopia",
     "chapters": 7,
     "source_id": "LIT1758Lefafa",
-    "short": "Lefafa Sedq"
+    "short": "Lefafa Sedq",
+    "stub": true
   },
   {
     "abbrev": "MysHE",
@@ -69,7 +70,8 @@
     "section": "Unique to Ethiopia",
     "chapters": 60,
     "source_id": "LIT2461Testam",
-    "short": "Test. Lord"
+    "short": "Test. Lord",
+    "stub": true
   },
   {
     "abbrev": "Teach",
@@ -78,7 +80,8 @@
     "section": "Unique to Ethiopia",
     "chapters": 5,
     "source_id": "LIT2444Temher",
-    "short": "Teaching"
+    "short": "Teaching",
+    "stub": true
   },
   {
     "abbrev": "Sinod",
@@ -87,7 +90,8 @@
     "section": "Unique to Ethiopia",
     "chapters": 36,
     "source_id": "LIT1047Aksumi",
-    "short": "Sinodos"
+    "short": "Sinodos",
+    "stub": true
   },
   {
     "abbrev": "Synax",

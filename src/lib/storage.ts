@@ -13,7 +13,9 @@ export function loadSettings(): ReaderSettings {
       const parsed = JSON.parse(raw)
       return { ...DEFAULT_SETTINGS, ...parsed }
     }
-  } catch {}
+  } catch {
+    // Storage unavailable or corrupt JSON — fall back to defaults.
+  }
   return { ...DEFAULT_SETTINGS }
 }
 
@@ -117,7 +119,9 @@ export function addToHistory(book: string, chapter: number): void {
     filtered.unshift({ book, chapter, timestamp: new Date().toISOString() })
     // Keep last 50
     localStorage.setItem(HISTORY_KEY, JSON.stringify(filtered.slice(0, 50)))
-  } catch {}
+  } catch {
+    // Storage unavailable or quota exceeded — history is best-effort.
+  }
 }
 
 export function loadHistory(): HistoryEntry[] {

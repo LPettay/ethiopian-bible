@@ -5,11 +5,17 @@ const CACHE_VERSION = 'ethiopian-bible-v1'
 const APP_SHELL_CACHE = CACHE_VERSION + '-shell'
 const DATA_CACHE = CACHE_VERSION + '-data'
 
+// The worker is served at `<base>sw.js`; everything it touches lives under the
+// same base. In production that base is the GitHub Pages subpath
+// `/ethiopian-bible/`, in dev it is `/`. Derive it from the worker's own URL so
+// no path is hard-coded to the root (which would 404 under the subpath).
+const BASE = self.location.pathname.replace(/sw\.js$/, '')
+
 // App shell resources cached on install
 const APP_SHELL_URLS = [
-  '/',
-  '/index.html',
-  '/favicon.svg',
+  BASE,
+  BASE + 'index.html',
+  BASE + 'favicon.svg',
 ]
 
 // --- Install: cache the app shell ---
@@ -62,7 +68,7 @@ self.addEventListener('fetch', (event) => {
  * Determine if a URL is a data request (JSON files in /data/).
  */
 function isDataRequest(url) {
-  return url.pathname.startsWith('/data/') && url.pathname.endsWith('.json')
+  return url.pathname.startsWith(BASE + 'data/') && url.pathname.endsWith('.json')
 }
 
 /**
@@ -71,17 +77,17 @@ function isDataRequest(url) {
 function isAppShellRequest(url) {
   const path = url.pathname
   return (
-    path === '/' ||
-    path === '/index.html' ||
+    path === BASE ||
+    path === BASE + 'index.html' ||
     path.endsWith('.js') ||
     path.endsWith('.css') ||
     path.endsWith('.svg') ||
     path.endsWith('.woff2') ||
     path.endsWith('.woff') ||
     // SPA navigation — serve index.html for HTML requests
-    (url.pathname.startsWith('/read/') ||
-     url.pathname.startsWith('/compare') ||
-     url.pathname.startsWith('/bookmarks'))
+    (path.startsWith(BASE + 'read/') ||
+     path.startsWith(BASE + 'compare') ||
+     path.startsWith(BASE + 'bookmarks'))
   )
 }
 
@@ -140,7 +146,7 @@ async function networkFirstWithCache(request, cacheName) {
 
     // For navigation requests (SPA routes), serve cached index.html
     if (request.mode === 'navigate') {
-      const indexCached = await cache.match('/index.html')
+      const indexCached = await cache.match(BASE + 'index.html')
       if (indexCached) return indexCached
     }
 

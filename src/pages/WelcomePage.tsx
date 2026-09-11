@@ -94,6 +94,11 @@ export function WelcomePage() {
           accent
         />
         <DoorCard
+          title="Guided Reading Paths"
+          desc="Curated journeys through the canon — narrative arcs and parallel readings."
+          to="/reading-paths"
+        />
+        <DoorCard
           title="Open the Bible"
           desc="All 36 books, organized by section. Tap a book to start reading."
           to="/bible"
@@ -114,7 +119,7 @@ export function WelcomePage() {
       <footer className="text-center pb-12 text-text-muted text-xs leading-relaxed">
         <p>
           Ge'ez texts from{' '}
-          <a href="https://betamasaheft.eu/" target="_blank" rel="noopener" className="text-accent hover:underline">
+          <a href="https://betamasaheft.eu/" target="_blank" rel="noopener noreferrer" className="text-accent hover:underline">
             Beta Masaheft
           </a>{' '}
           (CC BY-SA 4.0). English from Brenton (1851) and KJV (1611), public domain.
@@ -122,7 +127,7 @@ export function WelcomePage() {
         <p className="mt-2">
           <Link to="/about" className="text-accent hover:underline">About this project</Link>
           {' '}&middot;{' '}
-          <a href="https://github.com/LPettay/ethiopian-bible" target="_blank" rel="noopener" className="text-accent hover:underline">
+          <a href="https://github.com/LPettay/ethiopian-bible" target="_blank" rel="noopener noreferrer" className="text-accent hover:underline">
             Source code
           </a>
         </p>
