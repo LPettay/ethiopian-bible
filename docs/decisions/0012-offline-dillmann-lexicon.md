@@ -18,7 +18,7 @@ Two things were wanted: real, attributed per-word meanings, and a way to see a
 word's meaning *and where it came from* by hovering, without leaving the text.
 
 Beta Masaheft publishes the raw lexicon itself as TEI, one file per headword,
-in the public GitHub repository `BetaMasaheft/DillmannData` (CC BY-SA-NC 4.0).
+in the public GitHub repository `BetaMasaheft/DillmannData` (CC BY-NC-SA 4.0).
 GitHub is reachable. That data carries everything the API would have returned:
 the headword, Dillmann's Latin definitions (1865), part of speech, and a
 TraCES-project layer of later English/French/Italian material (Leslau 1987,
@@ -82,7 +82,7 @@ convention and the one-quote-per-sense rule are heuristics documented here and
 in the builder; they trade recall for not misattributing an example sentence
 as a definition.
 
-**License:** the TEI data is CC BY-SA-NC 4.0 (Hiob Ludolf Centre, TraCES).
+**License:** the TEI data is CC BY-NC-SA 4.0 (Hiob Ludolf Centre, TraCES).
 Attribution is carried per entry in `source` and in the app's data-sources list.
 
 ## Alternatives considered

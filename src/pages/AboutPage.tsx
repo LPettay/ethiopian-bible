@@ -115,7 +115,7 @@ export function AboutPage() {
             Word glosses &mdash; Dillmann, <em>Lexicon Linguae Aethiopicae</em> (1865), via the{' '}
             <a href="https://github.com/BetaMasaheft/DillmannData" target="_blank" rel="noopener noreferrer"
                className="text-accent hover:underline">Beta Masaheft Dillmann data</a>{' '}
-            (CC BY-SA-NC 4.0)
+            (CC BY-NC-SA 4.0)
           </li>
         </ul>
 
