@@ -16,12 +16,16 @@ Architecture Decision Records (ADRs). One markdown file per structural decision.
 | `0005-confidence-aware-ai-translation-tier.md` | AI-drafted translations are a separate tier with a measurable confidence score and visible UI badge |
 | `0006-github-pages-deploy-with-basename.md` | Deploy to GitHub Pages under `/ethiopian-bible/` basename; SPA fallback via `404.html` copy |
 | `0007-manuscript-aesthetic-design-language.md` | Manuscript / parchment aesthetic — warm browns, Crimson Pro serif, Noto Sans Ethiopic with text-glow, meskel cross ornaments |
+| `0008-bun-as-package-manager.md` | Bun as the package manager and toolchain |
+| `0009-stub-book-handling.md` | Stub-book handling via an explicit `stub` flag |
+| `0010-word-gloss-integrity-first.md` | Integrity-first word glosses |
+| `0011-read-mode-source-attribution.md` | Read-mode source labeling and edition attribution |
 
 When you add an ADR, add a row above and bump the number sequentially.
 
-## Reserved range
+## Numbering
 
-0008–0012 are reserved for the M3–M7 milestones (see `docs/AGENTS.md`). Do not reuse those numbers for non-milestone decisions; if you need to record a smaller decision before those milestones land, use 0013+.
+ADR numbers are assigned in order as decisions land, whether or not they belong to a milestone. The next free number is `0012`.
 
 ## Rules
 

@@ -27,16 +27,6 @@ Living documentation for the Ethiopian Bible Reader. Read these before making st
 
 Files in `decisions/` are numbered: `0001-...`, `0002-...`. Each is short (under a screen). Required sections: Status, Context, Decision, Consequences. Optional: Alternatives considered. See [`decisions/0000-template.md`](./decisions/0000-template.md).
 
-## Reserved ADR numbers
+## ADR numbering
 
-ADRs 0001–0007 backfill prior decisions (M2). ADRs 0008–0012 are reserved for milestones M3 → M7 in order:
-
-| # | Reserved for |
-|---|---|
-| 0008 | M3 — package manager / toolchain migration |
-| 0009 | M4 — (TBD by milestone scope) |
-| 0010 | M5 — `public/data/manifest.json` schema |
-| 0011 | M6 — test framework / e2e adoption |
-| 0012 | M7 — TEI provenance + sha256 pinning |
-
-Numbers above 0012 are unreserved and assigned sequentially as new decisions land.
+ADRs 0001–0007 backfill prior decisions (M2). ADR numbers are assigned in order as decisions land, whether or not they belong to a milestone; the next free number is `0012`. The full list is in [`decisions/AGENTS.md`](./decisions/AGENTS.md).
