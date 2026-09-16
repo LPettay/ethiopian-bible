@@ -18,7 +18,7 @@ Presentational React components. **Props in, JSX out.** No data fetching, no `lo
 | `ShareVerse.tsx` | Share-verse dialog. Receives the verse reference; produces share strings via prop callbacks. |
 | `VariantIndicator.tsx` | Renders an indicator when a verse has translation variants. |
 | `VerseView.tsx` | Renders a single verse with Ge'ez, transliteration, and English. The display primitive of the reader. |
-| `WordCard.tsx` | Per-word inspector card (root, gloss, etc.). |
+| `WordCard.tsx` | Per-word inspector. Hover/focus shows a `role="tooltip"` card with gloss, language, headword, attribution and a link to the Dillmann entry; click opens the same content in a modal. Never hover-only. See ADR 0012. |
 
 ## Rules
 

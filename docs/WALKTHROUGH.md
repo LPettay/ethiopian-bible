@@ -91,14 +91,18 @@ data.
 
 ### 6. The word modal — honest gloss handling
 **Route:** in **Study** mode on any real Ge'ez chapter (e.g. `/read/Gen/1`)
-**Do:** Tap any Ge'ez **word card.** A modal opens with the large Ge'ez form and
-(if enabled) its transliteration.
-**Notice (scholarly integrity — the load-bearing one):** Where no sourced
-meaning exists, the modal says plainly **"Meaning not yet available"** and offers
-a **"Look up in Dillmann ↗"** link to the Beta Masaheft *Lexicon Linguae
-Aethiopicae*. When a gloss *is* present it is always shown with an explicit
-**"Source:"** line. The app never invents a definition — honest absence with a
-path to a real source beats a fabricated guess.
+**Do:** Hover (or Tab to) any Ge'ez **word card.** A small card appears with
+the transliteration, the meaning, the dictionary headword when it differs from
+the inflected form, a **"Source:"** line, and an **"entry ↗"** link to the exact
+Beta Masaheft Dillmann entry the meaning was quoted from. Tap or click for the
+same content in a modal.
+**Notice (scholarly integrity — the load-bearing one):** Most meanings are
+Dillmann's own **Latin** (1865) and are tagged as such; English appears only
+where Leslau (1987) glosses the headword itself, with the Latin kept beneath it.
+Where no sourced meaning exists, the card says plainly **"Meaning not yet
+available"** and offers a **"Look up in Dillmann ↗"** search link. The app never
+invents a definition — honest absence with a path to a real source beats a
+fabricated guess.
 
 ### 7. Reading Paths — curated journeys
 **Route:** `/reading-paths` (the paths icon in the header, or the "Guided
@@ -161,15 +165,14 @@ stated up front.
 
 These are intentional, disclosed gaps — not bugs to be papered over:
 
-- **Word-gloss DATA is pending a network-reachable Dillmann run.** The lexicon
-  loader expects an optional `public/data/lexicon.json`; until that file exists,
-  every word lookup returns no gloss and the modal honestly says **"Meaning not
-  yet available"** with a Dillmann link. Generating the data requires reaching
-  the Dillmann API host (`betamasaheft.eu`), which is **unreachable from the
-  build environment** (connection reset), so `lexicon.json` could not be
-  produced here. The **UI is already honest and complete** — when the data is
-  generated on a network-reachable machine and dropped in, glosses appear
-  automatically with their source attribution. No code change is needed.
+- **Word-gloss coverage is partial and mostly Latin.** `public/data/lexicon.json`
+  is built offline from the Beta Masaheft Dillmann TEI data (ADR 0012) and
+  resolves about 65% of running Ge'ez text (1 Enoch: 65% of tokens, 51% of
+  unique forms). Inflections the normalizer cannot reduce still show **"Meaning
+  not yet available"** with a Dillmann search link. Only about one entry in
+  seven has a headword-level English gloss; the rest show Dillmann's Latin,
+  labelled as such. Growing coverage means improving the normalizer, not
+  generating text.
 
 - **Four placeholder books** (Lefafa Sedq, Testament of Our Lord, Teaching of
   Mysteries, Sinodos) are not yet transcribed. They are clearly badged as
