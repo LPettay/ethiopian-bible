@@ -9,9 +9,13 @@ import { DiscoverPage } from './pages/DiscoverPage'
 import { BiblePage } from './pages/BiblePage'
 import { ReadingPathsPage } from './pages/ReadingPathsPage'
 
+// Follows the build's base path so a build served under another prefix (a
+// per-PR preview) still routes; on GitHub Pages this is `/ethiopian-bible`.
+const ROUTER_BASENAME = import.meta.env.BASE_URL.replace(/\/$/, '')
+
 export default function App() {
   return (
-    <BrowserRouter basename="/ethiopian-bible">
+    <BrowserRouter basename={ROUTER_BASENAME}>
       <Routes>
         <Route element={<Layout />}>
           <Route path="/" element={<WelcomePage />} />
