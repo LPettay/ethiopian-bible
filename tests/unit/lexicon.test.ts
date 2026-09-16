@@ -135,6 +135,19 @@ describe('v2 lexicon file (shared entries + surface index)', () => {
     expect(lex['ስሕተት']).toBeUndefined()
   })
 
+  it('drops the "not found" part-of-speech placeholder but keeps real ones', () => {
+    const lex = expandLexicon({
+      ...v2,
+      entries: [
+        { id: 'L1', gloss: 'book', pos: 'not found', source: 'Dillmann' },
+        { id: 'L2', gloss: 'word', pos: 'Substantivum', source: 'Dillmann' },
+      ],
+      words: { [GEEZ]: 0, 'ቃል': 1 },
+    })
+    expect(lex[GEEZ]).toEqual({ id: 'L1', gloss: 'book', source: 'Dillmann' })
+    expect(lex['ቃል'].pos).toBe('Substantivum')
+  })
+
   it('still accepts the flat v1 shape', () => {
     const v1 = { [GEEZ]: { gloss: 'book', source: 'Test' } }
     expect(expandLexicon(v1)).toEqual(v1)

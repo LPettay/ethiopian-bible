@@ -84,15 +84,29 @@ function isV2(data: unknown): data is LexiconFileV2 {
 }
 
 /**
+ * Beta Masaheft writes "not found" where the TEI has no part of speech. Shown
+ * under a gloss, readers take it to mean the meaning was not found.
+ */
+const POS_PLACEHOLDER = 'not found'
+
+function withoutPlaceholders(entry: GlossEntry | undefined): GlossEntry | undefined {
+  if (!entry || entry.pos?.trim().toLowerCase() !== POS_PLACEHOLDER) return entry
+  const rest = { ...entry }
+  delete rest.pos
+  return rest
+}
+
+/**
  * Expand the compact v2 file into the flat lookup shape. Surface forms that
  * point at a missing or unattributed entry are dropped here, so `getGloss`
  * never has to trust the file.
  */
 export function expandLexicon(data: unknown): Lexicon {
   if (isV2(data)) {
+    const entries = data.entries.map(withoutPlaceholders)
     const out: Lexicon = {}
     for (const [word, idx] of Object.entries(data.words)) {
-      const entry = data.entries[idx]
+      const entry = entries[idx]
       if (entry && entry.gloss && entry.source) out[word] = entry
     }
     return out

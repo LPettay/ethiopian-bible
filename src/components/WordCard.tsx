@@ -28,7 +28,16 @@ function shortGloss(gloss: string): string {
   return gloss.split(';')[0].trim()
 }
 
-const LANG_LABEL: Record<string, string> = {
+function isKeyboardFocus(el: Element): boolean {
+  try {
+    return el.matches(':focus-visible')
+  } catch {
+    // why: environments without :focus-visible support; err towards showing it.
+    return true
+  }
+}
+
+const LANG_LABEL:Record<string, string> = {
   la: 'Latin, Dillmann 1865',
   en: 'English',
 }
@@ -108,6 +117,7 @@ function GlossLines({ entry, large }: { entry: GlossEntry; large?: boolean }) {
 export const WordCard = memo(function WordCard({ word, showTransliteration, fontSize }: WordCardProps) {
   const [showDetail, setShowDetail] = useState(false)
   const [hover, setHover] = useState(false)
+  const [focused, setFocused] = useState(false)
   const trapRef = useFocusTrap(showDetail, () => setShowDetail(false))
   const tipId = useId()
 
@@ -123,7 +133,7 @@ export const WordCard = memo(function WordCard({ word, showTransliteration, font
 
   // The hover card is a mouse/keyboard affordance; touch readers get the same
   // content in the modal, so nothing is hover-only.
-  const showTip = hover && isGeez && !showDetail
+  const showTip = (hover || focused) && isGeez && !showDetail
 
   return (
     <>
@@ -131,9 +141,11 @@ export const WordCard = memo(function WordCard({ word, showTransliteration, font
         className="relative inline-flex"
         onMouseEnter={() => setHover(true)}
         onMouseLeave={() => setHover(false)}
-        onFocus={() => setHover(true)}
+        // Only keyboard focus opens the card: closing the dialog with the mouse
+        // hands focus back to the word, and that must not pin the card open.
+        onFocus={e => setFocused(isKeyboardFocus(e.target))}
         onBlur={e => {
-          if (!e.currentTarget.contains(e.relatedTarget as Node | null)) setHover(false)
+          if (!e.currentTarget.contains(e.relatedTarget as Node | null)) setFocused(false)
         }}
       >
         <button

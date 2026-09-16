@@ -1,4 +1,4 @@
-import { describe, it, expect } from 'vitest'
+import { describe, it, expect, vi } from 'vitest'
 import { render, screen, fireEvent } from '@testing-library/react'
 import { MemoryRouter } from 'react-router-dom'
 import { WordCard } from '../../src/components/WordCard'
@@ -112,6 +112,36 @@ describe('WordCard', () => {
     } finally {
       setLexicon(null)
     }
+  })
+
+  function focusVisible(el: HTMLElement, visible: boolean) {
+    const original = el.matches.bind(el)
+    vi.spyOn(el, 'matches').mockImplementation(sel => (sel === ':focus-visible' ? visible : original(sel)))
+  }
+
+  it('opens the card on keyboard focus and closes it when focus leaves', () => {
+    renderWithRouter(
+      <WordCard word={mockVerse.words[1]} showTransliteration={true} fontSize={20} />,
+    )
+    const button = screen.getByRole('button')
+    focusVisible(button, true)
+    fireEvent.focus(button)
+    expect(screen.getByRole('tooltip')).toBeInTheDocument()
+    fireEvent.blur(button, { relatedTarget: document.body })
+    expect(screen.queryByRole('tooltip')).not.toBeInTheDocument()
+  })
+
+  it('keeps the card shut when focus returns without keyboard use', () => {
+    renderWithRouter(
+      <WordCard word={mockVerse.words[1]} showTransliteration={true} fontSize={20} />,
+    )
+    const button = screen.getByRole('button')
+    const wrapper = button.parentElement!
+    focusVisible(button, false)
+    fireEvent.mouseEnter(wrapper)
+    fireEvent.focus(button)
+    fireEvent.mouseLeave(wrapper)
+    expect(screen.queryByRole('tooltip')).not.toBeInTheDocument()
   })
 
   it('says honestly on hover when no sourced meaning exists', () => {
