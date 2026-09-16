@@ -1,5 +1,4 @@
 import { useState, useEffect, useRef, useCallback } from 'react'
-import type { Annotation } from '../types/bible'
 import { getAnnotation, saveAnnotation, removeAnnotation } from '../lib/storage'
 
 interface AnnotationEditorProps {
@@ -11,18 +10,23 @@ interface AnnotationEditorProps {
 }
 
 export function AnnotationEditor({ book, chapter, verse, onAnnotationChange }: AnnotationEditorProps) {
+  const verseKey = `${book}:${chapter}:${verse}`
   const [isOpen, setIsOpen] = useState(false)
-  const [text, setText] = useState('')
-  const [annotation, setAnnotation] = useState<Annotation | undefined>(undefined)
+  // Load the existing annotation for the current verse during render. When the
+  // target verse changes, re-read storage synchronously (no effect / no flicker)
+  // via the "adjust state when a prop changes" pattern.
+  const [loadedKey, setLoadedKey] = useState(verseKey)
+  const [annotation, setAnnotation] = useState(() => getAnnotation(book, chapter, verse))
+  const [text, setText] = useState(() => getAnnotation(book, chapter, verse)?.text ?? '')
   const textareaRef = useRef<HTMLTextAreaElement>(null)
   const saveTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null)
 
-  // Load existing annotation
-  useEffect(() => {
+  if (loadedKey !== verseKey) {
     const existing = getAnnotation(book, chapter, verse)
+    setLoadedKey(verseKey)
     setAnnotation(existing)
     setText(existing?.text ?? '')
-  }, [book, chapter, verse])
+  }
 
   const hasAnnotation = !!annotation
 

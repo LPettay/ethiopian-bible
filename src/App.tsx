@@ -7,6 +7,7 @@ import { WelcomePage } from './pages/WelcomePage'
 import { AboutPage } from './pages/AboutPage'
 import { DiscoverPage } from './pages/DiscoverPage'
 import { BiblePage } from './pages/BiblePage'
+import { ReadingPathsPage } from './pages/ReadingPathsPage'
 
 export default function App() {
   return (
@@ -16,6 +17,7 @@ export default function App() {
           <Route path="/" element={<WelcomePage />} />
           <Route path="/bible" element={<BiblePage />} />
           <Route path="/discover" element={<DiscoverPage />} />
+          <Route path="/reading-paths" element={<ReadingPathsPage />} />
           <Route path="/read/:book/:chapter" element={<ReaderPage />} />
           <Route path="/read/:book/:chapter/:verse" element={<ReaderPage />} />
           <Route path="/compare" element={<ComparePage />} />

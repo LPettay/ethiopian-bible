@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef, useCallback } from 'react'
-import { Link } from 'react-router-dom'
+import { Link, useLocation } from 'react-router-dom'
 
 // ---------------------------------------------------------------------------
 // Types
@@ -139,7 +139,8 @@ function StopCard({ stop, isVisible }: { stop: Stop; isVisible: boolean }) {
 
   return (
     <section
-      className="min-h-screen flex items-center justify-center px-4 py-16 md:py-20"
+      id={`stop-${stop.num}`}
+      className="min-h-screen flex items-center justify-center px-4 py-16 md:py-20 scroll-mt-16"
       aria-label={`Stop ${stop.num}: ${stop.question}`}
     >
       <div
@@ -301,6 +302,7 @@ export function DiscoverPage() {
   const [currentStop, setCurrentStop] = useState(0)
   const [visibleStops, setVisibleStops] = useState<Set<number>>(new Set([0]))
   const sectionRefs = useRef<(HTMLDivElement | null)[]>([])
+  const { hash } = useLocation()
 
   // Intersection observer to track which stop is visible
   useEffect(() => {
@@ -338,6 +340,23 @@ export function DiscoverPage() {
   const scrollToStop = useCallback((index: number) => {
     sectionRefs.current[index]?.scrollIntoView({ behavior: 'smooth', block: 'center' })
   }, [])
+
+  // Honor a direct anchor link such as /discover#stop-2 — reveal and scroll to
+  // the requested stop so deep links land in the right place. State updates run
+  // in the timeout callback (asynchronously) rather than synchronously in the
+  // effect body, after the section refs have been populated.
+  useEffect(() => {
+    const match = /^#stop-(\d+)$/.exec(hash)
+    if (!match) return
+    const index = Number(match[1]) - 1
+    if (index < 0 || index >= STOPS.length) return
+    const id = setTimeout(() => {
+      setVisibleStops(prev => new Set(prev).add(index))
+      setCurrentStop(index)
+      sectionRefs.current[index]?.scrollIntoView({ behavior: 'smooth', block: 'center' })
+    }, 50)
+    return () => clearTimeout(id)
+  }, [hash])
 
   return (
     <div className="relative">

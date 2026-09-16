@@ -36,8 +36,11 @@ export function ShareVerse({ verse, bookAbbrev, bookName, chapter }: ShareVerseP
 
     const text = lines.join('\n')
 
-    // Build shareable URL with verse anchor
-    const url = `${window.location.origin}/read/${bookAbbrev}/${chapter}/${verse.num}`
+    // Build shareable URL with verse anchor. Respect the app's deployment base
+    // (e.g. "/ethiopian-bible/" on GitHub Pages) so shared links resolve to the
+    // routed page rather than the domain root.
+    const base = import.meta.env.BASE_URL.replace(/\/$/, '')
+    const url = `${window.location.origin}${base}/read/${bookAbbrev}/${chapter}/${verse.num}`
     const fullText = `${text}\n\n${url}`
 
     try {

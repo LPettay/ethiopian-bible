@@ -100,7 +100,7 @@ function VariantCard({ v }: { v: TextualVariant }) {
 }
 
 /** Colored canon indicator */
-function CanonCell({ text, kind: _kind }: { text: string; kind: OtCompRow['kind'] }) {
+function CanonCell({ text }: { text: string; kind: OtCompRow['kind'] }) {
   const isYes = text.startsWith('Yes')
   const isNo = text.startsWith('No')
   const color = isNo

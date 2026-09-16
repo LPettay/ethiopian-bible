@@ -53,6 +53,7 @@ export interface Book {
   chapters: number
   source_id: string
   short?: string
+  stub?: boolean   // true = placeholder/not-yet-transcribed book
 }
 
 export interface Bookmark {

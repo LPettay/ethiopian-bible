@@ -18,6 +18,33 @@ interface SearchPanelProps {
   onClose: () => void
 }
 
+/** Scan a chapter for matches, pushing up to the 50-result cap into `found`. */
+function searchChapter(chapter: Chapter, book: Book, lowerQ: string, found: SearchResult[]) {
+  for (const verse of chapter.verses) {
+    if (found.length >= 50) return
+
+    const fields: { key: string; text: string | undefined }[] = [
+      { key: 'lxx', text: verse.translations?.lxx },
+      { key: 'kjv', text: verse.translations?.kjv },
+      { key: 'translation', text: verse.translation },
+    ]
+
+    for (const { key, text } of fields) {
+      if (text && text.toLowerCase().includes(lowerQ)) {
+        found.push({
+          book: book.abbrev,
+          bookName: book.name,
+          chapter: chapter.chapter,
+          verse: verse.num,
+          field: key,
+          text,
+        })
+        break // One result per verse
+      }
+    }
+  }
+}
+
 export function SearchPanel({ open, onClose }: SearchPanelProps) {
   const navigate = useNavigate()
   const inputRef = useRef<HTMLInputElement>(null)
@@ -29,33 +56,18 @@ export function SearchPanel({ open, onClose }: SearchPanelProps) {
   const abortRef = useRef<AbortController | null>(null)
   const trapRef = useFocusTrap(open, onClose)
 
-  // Focus input when opened
-  useEffect(() => {
-    if (open) {
-      setTimeout(() => inputRef.current?.focus(), 100)
-    } else {
-      setQuery('')
-      setResults([])
-      setSearched(false)
-      setProgress('')
-    }
-  }, [open])
+  // Clear results/progress but keep whatever the user has typed.
+  const clearResults = useCallback(() => {
+    setResults([])
+    setSearched(false)
+    setProgress('')
+  }, [])
 
-  // Debounced search
-  useEffect(() => {
-    if (!query.trim() || query.trim().length < 2) {
-      setResults([])
-      setSearched(false)
-      setProgress('')
-      return
-    }
-
-    const timeout = setTimeout(() => {
-      runSearch(query.trim())
-    }, 300)
-
-    return () => clearTimeout(timeout)
-  }, [query])
+  // Full reset when the panel closes — also wipes the query box.
+  const resetSearchState = useCallback(() => {
+    setQuery('')
+    clearResults()
+  }, [clearResults])
 
   const runSearch = useCallback(async (q: string) => {
     // Abort previous search
@@ -107,31 +119,29 @@ export function SearchPanel({ open, onClose }: SearchPanelProps) {
     }
   }, [])
 
-  function searchChapter(chapter: Chapter, book: Book, lowerQ: string, found: SearchResult[]) {
-    for (const verse of chapter.verses) {
-      if (found.length >= 50) return
-
-      const fields: { key: string; text: string | undefined }[] = [
-        { key: 'lxx', text: verse.translations?.lxx },
-        { key: 'kjv', text: verse.translations?.kjv },
-        { key: 'translation', text: verse.translation },
-      ]
-
-      for (const { key, text } of fields) {
-        if (text && text.toLowerCase().includes(lowerQ)) {
-          found.push({
-            book: book.abbrev,
-            bookName: book.name,
-            chapter: chapter.chapter,
-            verse: verse.num,
-            field: key,
-            text,
-          })
-          break // One result per verse
-        }
-      }
+  // Focus input when opened; clear stale state when closed.
+  useEffect(() => {
+    if (open) {
+      const id = setTimeout(() => inputRef.current?.focus(), 100)
+      return () => clearTimeout(id)
     }
-  }
+    const id = setTimeout(resetSearchState, 0)
+    return () => clearTimeout(id)
+  }, [open, resetSearchState])
+
+  // Debounced search
+  useEffect(() => {
+    if (!query.trim() || query.trim().length < 2) {
+      const id = setTimeout(clearResults, 0)
+      return () => clearTimeout(id)
+    }
+
+    const timeout = setTimeout(() => {
+      runSearch(query.trim())
+    }, 300)
+
+    return () => clearTimeout(timeout)
+  }, [query, runSearch, clearResults])
 
   function handleResultClick(result: SearchResult) {
     onClose()

@@ -1,10 +1,20 @@
 import { useState, useCallback, memo } from 'react'
-import type { Verse, ReaderSettings, TranslationEntry } from '../types/bible'
+import type { Verse, ReaderSettings, TranslationEntry, TranslationSource } from '../types/bible'
 import { WordCard } from './WordCard'
 import { ShareVerse } from './ShareVerse'
 import { AnnotationEditor } from './AnnotationEditor'
 import { VariantIndicator } from './VariantIndicator'
 import { ConfidenceBadge, ConfidencePill } from './ConfidenceBadge'
+import { readModeSource, resolveVerseBody } from './verseView.helpers'
+
+/** Subtle hint shown when the user has hidden every translation source. */
+function AllHiddenHint({ fontSize }: { fontSize: number }) {
+  return (
+    <p className="text-text-faint text-xs font-body italic" style={{ fontSize: fontSize * 0.65 }}>
+      All translations hidden — enable one in Settings
+    </p>
+  )
+}
 
 interface VerseViewProps {
   verse: Verse
@@ -14,6 +24,7 @@ interface VerseViewProps {
   chapter: number
   isBookmarked: boolean
   onToggleBookmark: (verseNum: number) => void
+  translationSources?: Record<string, TranslationSource>
 }
 
 export const VerseView = memo(function VerseView({
@@ -24,6 +35,7 @@ export const VerseView = memo(function VerseView({
   chapter,
   isBookmarked,
   onToggleBookmark,
+  translationSources,
 }: VerseViewProps) {
   const { readingMode, showTransliteration, showLxx, showKjv, showAiTranslation, fontSize } = settings
   const hasLxx = verse.translations?.lxx
@@ -90,7 +102,12 @@ export const VerseView = memo(function VerseView({
           )}
 
           {readingMode === 'read' && (
-            <ReadModeBlock verse={verse} showAiTranslation={showAiTranslation} fontSize={fontSize} />
+            <ReadModeBlock
+              verse={verse}
+              showAiTranslation={showAiTranslation}
+              fontSize={fontSize}
+              translationSources={translationSources}
+            />
           )}
 
           {readingMode === 'compare' && (
@@ -143,12 +160,16 @@ function TranslationBlock({
   const aiEntry = verse.translations?.ai
 
   if (!hasDual) {
-    // Single-source book (e.g., 1 Enoch)
+    // Single-source book (e.g., 1 Enoch) — fall back to the best available text
+    // so a missing `translation` never renders as a blank line.
+    const body = resolveVerseBody(verse, true)
     return (
       <div className="space-y-2">
-        <p className="verse-text text-text" style={{ fontSize: fontSize * 0.85 }}>
-          {verse.translation}
-        </p>
+        {body.kind === 'text' && body.text && (
+          <p className="verse-text text-text" style={{ fontSize: fontSize * 0.85 }}>
+            {body.text}
+          </p>
+        )}
         {showAiTranslation && aiEntry && (
           <AiTranslationBlock aiEntry={aiEntry} fontSize={fontSize} />
         )}
@@ -187,17 +208,27 @@ function TranslationBlock({
       {showAiTranslation && aiEntry && (
         <AiTranslationBlock aiEntry={aiEntry} fontSize={fontSize} />
       )}
-      {/* Fallback if neither source toggled on but we have the generic translation */}
-      {!showLxx && !showKjv && !showAiTranslation && verse.translation && (
-        <p className="verse-text text-text" style={{ fontSize: fontSize * 0.85 }}>
-          {verse.translation}
-        </p>
+      {/* Never render a blank verse: when every source is toggled off (the AI
+          toggle only counts when AI data actually exists), show a muted hint
+          instead of the empty generic translation. */}
+      {!showLxx && !showKjv && !(showAiTranslation && aiEntry) && (
+        <AllHiddenHint fontSize={fontSize} />
       )}
     </div>
   )
 }
 
-function ReadModeBlock({ verse, showAiTranslation, fontSize }: { verse: Verse; showAiTranslation: boolean; fontSize: number }) {
+function ReadModeBlock({
+  verse,
+  showAiTranslation,
+  fontSize,
+  translationSources,
+}: {
+  verse: Verse
+  showAiTranslation: boolean
+  fontSize: number
+  translationSources?: Record<string, TranslationSource>
+}) {
   // Clean reading: just the primary English text
   const scholarlyText = verse.translations?.lxx || verse.translations?.kjv || verse.translation
   const aiEntry = verse.translations?.ai
@@ -214,10 +245,28 @@ function ReadModeBlock({ verse, showAiTranslation, fontSize }: { verse: Verse; s
     )
   }
 
+  // Never render an empty verse body silently.
+  if (!scholarlyText) {
+    return <AllHiddenHint fontSize={fontSize} />
+  }
+
+  // Edition attribution so a first-time reader knows the parallel passage's
+  // textual tradition (e.g. Brenton's Septuagint vs. the King James).
+  const source = readModeSource(verse, translationSources)
+
   return (
-    <p className="verse-text text-text" style={{ fontSize: fontSize * 0.9 }}>
-      {scholarlyText}
-    </p>
+    <div className="space-y-0.5">
+      {source && (
+        <span
+          className={`${source.key === 'lxx' ? 'text-lxx/60' : 'text-mt/60'} text-[0.65rem] font-body italic tracking-wide`}
+        >
+          {source.label}
+        </span>
+      )}
+      <p className="verse-text text-text" style={{ fontSize: fontSize * 0.9 }}>
+        {scholarlyText}
+      </p>
+    </div>
   )
 }
 
@@ -235,19 +284,32 @@ function CompareModeBlock({
   const aiEntry = verse.translations?.ai
 
   if (!hasDual) {
-    // No scholarly dual sources — show generic + AI fallback
+    // No scholarly dual sources. Render the best available non-AI text (with no
+    // lxx/kjv present, that resolves to the generic `translation`) so an empty
+    // `translation` never produces a blank line, and fall back to the AI draft
+    // when there is no scholarly text. When nothing is showable, hint instead
+    // of emitting an empty paragraph.
+    const body = resolveVerseBody(verse, true)
+    const hasAiFallback = showAiTranslation && aiEntry && !verse.translation
     return (
       <div className="space-y-2">
-        <p className="text-text leading-relaxed" style={{ fontSize: fontSize * 0.85 }}>
-          {verse.translation}
-        </p>
-        {showAiTranslation && aiEntry && !verse.translation && (
+        {verse.translation ? (
+          <p className="text-text leading-relaxed" style={{ fontSize: fontSize * 0.85 }}>
+            {verse.translation}
+          </p>
+        ) : hasAiFallback ? (
           <div className="flex items-start gap-2">
             <p className="text-text leading-relaxed" style={{ fontSize: fontSize * 0.85 }}>
               {aiEntry.text}
             </p>
             <ConfidencePill confidence={aiEntry.confidence ?? 0} />
           </div>
+        ) : body.kind === 'text' && body.text ? (
+          <p className="text-text leading-relaxed" style={{ fontSize: fontSize * 0.85 }}>
+            {body.text}
+          </p>
+        ) : (
+          <AllHiddenHint fontSize={fontSize} />
         )}
       </div>
     )
